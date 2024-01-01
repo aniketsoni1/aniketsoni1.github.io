@@ -4,64 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Aniket Soni - Portfolio</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
-        }
-
-        header {
-            background-color: #bbd9f6;
-            color: #fff;
-            text-align: center;
-            padding: 1rem 0;
-        }
-
-        h1 {
-            font-size: 2rem;
-        }
-
-        .container {
-            max-width: 800px;
-            margin: 0 auto;
-            padding: 2rem;
-            background-color: #fff;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-        }
-
-        p {
-            font-size: 1.1rem;
-        }
-
-        .section {
-            margin-top: 2rem;
-        }
-
-        .highlight {
-            font-weight: bold;
-            color: #0073e6;
-        }
-
-        .flex-container {
-            display: flex;
-            flex-wrap: wrap;
-            gap: 10px;
-        }
-
-        .flex-item {
-            flex: 1;
-        }
-
-        .profile-image {
-            border: 8px solid #0073e6;
-            border-radius: 50%;
-            max-width: 200px;
-            max-height: 200px;
-            margin: 0 auto;
-            display: block;
-        }
-    </style>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <header>
@@ -69,43 +12,65 @@
         <h1>Aniket Soni</h1>
         <p>Full Stack Software Engineer and Data Analyst</p>
         <p>Cognizant Technology Solutions</p>
-        <span class="logo-icons">
-            <a href="https://www.linkedin.com/in/aniketsoni/"><img src="https://drive.google.com/uc?export=view&id=1Uagx0PAPTcuS1KNjl9QSCpLgpLNl5oRk" alt="LinkedIn" width="35" height="35"></a>
-            <a href="https://github.com/aniketsoni1"><img src="https://drive.google.com/uc?export=view&id=1vwHh7XLtVqFUfssbKiMPVGXirT812OKn" alt="GitHub" width="35" height="35"></a>
-        </span>
+        <!-- Social Links -->
+        <div class="logo-icons">
+            <a href="https://www.linkedin.com/in/aniketsoni/"><img src="https://drive.google.com/uc?export=view&id=1Uagx0PAPTcuS1KNjl9QSCpLgpLNl5oRk" alt="LinkedIn"></a>
+            <a href="https://github.com/aniketsoni1"><img src="https://drive.google.com/uc?export=view&id=1vwHh7XLtVqFUfssbKiMPVGXirT812OKn" alt="GitHub"></a>
+        </div>
     </header>
 
     <div class="container">
-        <p>
-            Aniket Soni is a versatile Full Stack Software Engineer and adept Data Analyst with a strong foundation in computer engineering and computer science. He holds a Bachelor's degree in Computer Engineering and a Master's in Computer Science from Southern Arkansas University (2020). Aniket has honed his expertise in Python, Django, Flask, JavaScript, and SQL.
-        </p>
+        <!-- About Me Section -->
+        <section id="about-me">
+            <h2>About Me</h2>
+            <p>
+                Detailed information about your background, skills, and interests.
+            </p>
+        </section>
 
-        <div class="section">
+        <!-- Professional Experience Section -->
+        <section id="professional-experience">
             <h2>Professional Experience</h2>
             <p>
-                In his current role at Cognizant Technology Solutions, Aniket takes charge of constructing intricate ETL pipelines and developing Python and PySpark programs for automated data quality checks. Notably, he engineered a Slack app API integration for private team channels, streamlining notifications about data quality issues to upstream teams and ensuring SLA compliance. Aniket's proficiency spans SQL, Databricks, Data Analysis, and Data Visualization, harnessing these skills to derive valuable insights from complex datasets.
+                Summary of your key achievements and roles in your professional career.
             </p>
-        </div>
+        </section>
 
-        <div class="section">
+        <!-- Volunteer and Mentorship Section -->
+        <section id="volunteer">
             <h2>Volunteer and Mentorship</h2>
             <p>
-                Complementing his professional pursuits, Aniket voluntarily serves as a Research Software Engineer at Climate Change Xplorers, contributing to predictive analysis through IoT data tools, demonstrating his prowess in machine learning and data science, particularly in the analysis and visualization of geospatial data. Aniket is an active participant in the International Association of Engineers (IAENG), showcasing his commitment to staying abreast of the latest engineering trends. He's also an English buddy for the ENGin Program in Ukraine, contributing his language proficiency, and a mentor for the Freedom Employability Academy (FEA) in India, guiding individuals to enhance their employability skills.
+                Highlights of your contributions in volunteer work and mentorship roles.
             </p>
-        </div>
+        </section>
 
-        <div class="section">
+        <!-- Certifications and Education Section -->
+        <section id="certifications">
             <h2>Google Cloud Certifications</h2>
             <p>
-                Moreover, Aniket holds distinguished GCP certifications as a Google Cloud Certified Associate Cloud Engineer and Cloud Digital Leader, underscoring his expertise in cloud technologies. Beyond his technical prowess, Aniket also dedicates his time to mentoring and acting as a career coach, demonstrating his commitment to fostering growth and learning in others.
+                List of your certifications and educational qualifications.
             </p>
-        </div>
+        </section>
 
-        <div class="section">
+        <!-- Awards and Achievements Section -->
+        <section id="awards">
+            <h2>Awards and Achievements</h2>
             <p>
-                Aniket had the privilege of being a judge for the prestigious <a href="https://globeeawards.com/aniket-abhishek-soni/">Globee Awards</a>.
+                Details of awards and recognitions you have received.
             </p>
-        </div>
+        </section>
+
+        <!-- Contact and Links Section -->
+        <section id="contact">
+            <h2>Contact</h2>
+            <p>
+                Links to your professional profiles and a way to contact you directly.
+            </p>
+        </section>
     </div>
+
+    <footer>
+        <p>&copy; 2024 Aniket Soni. All rights reserved.</p>
+    </footer>
 </body>
 </html>
