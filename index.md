@@ -1,6 +1,6 @@
 ---
 
-[About Me](https://github.com/aniketsoni1/aniketsoni1.github.io/blob/main/aboutme.md)
+[About Me](https://aniketsoni1.github.io/aniketsoni1.github.io/aboutme.md)
 
 
 [Professional Experience](https://aniketsoni1.github.io/aniketsoni1.github.io/professionalexperience/)
