@@ -1,4 +1,7 @@
 ---
+layout: default
+title: Home
+---
 
 [About Me](https://aniketsoni1.github.io/aniketsoni1.github.io/aboutme.md)
 
