@@ -1068,6 +1068,122 @@ footer{
   .awards-bento{grid-template-columns:1fr}
   .pub-table th:nth-child(3),.pub-table td:nth-child(3){display:none}
 }
+
+/* ═══════════════════════════════════════════
+   PRESS CARD IMAGES
+═══════════════════════════════════════════ */
+.press-img-wrap{
+  margin:-2rem -2rem 1.4rem -2rem;
+  height:170px;position:relative;overflow:hidden;
+  border-radius:4px 4px 0 0;flex-shrink:0;
+}
+.press-img-wrap img{
+  position:absolute;inset:0;width:100%;height:100%;
+  object-fit:cover;display:block;
+  transition:transform 0.5s ease,opacity 0.4s;
+  opacity:0;
+}
+.press-img-wrap img.loaded{opacity:1}
+.press-card:hover .press-img-wrap img.loaded{transform:scale(1.04)}
+.press-img-bg{
+  position:absolute;inset:0;
+  display:flex;align-items:center;justify-content:center;
+}
+.press-img-wm{
+  font-family:'Bebas Neue',sans-serif;
+  font-size:7rem;letter-spacing:0.2em;
+  color:rgba(255,255,255,0.055);
+  pointer-events:none;user-select:none;line-height:1;
+}
+.press-img-wrap--aij .press-img-bg{background:linear-gradient(135deg,#071628 0%,#0d2840 45%,#102e50 100%)}
+.press-img-wrap--at  .press-img-bg{background:linear-gradient(135deg,#1c1000 0%,#2e1c00 45%,#3d2500 100%)}
+.press-img-wrap--apm .press-img-bg{background:linear-gradient(135deg,#001812 0%,#002d22 45%,#003830 100%)}
+
+/* ═══════════════════════════════════════════
+   LIGHT THEME — TOKENS
+═══════════════════════════════════════════ */
+[data-theme="light"]{
+  --bg:#f5f4f1;
+  --surface:#eeede9;
+  --surface2:#e5e4e0;
+  --border:#d8d7d3;
+  --border2:#c8c7c3;
+  --lime:#007272;
+  --lime-glow:rgba(0,114,114,0.12);
+  --lime-mid:rgba(0,114,114,0.25);
+  --lime-low:rgba(0,114,114,0.08);
+  --lime-dim:rgba(0,114,114,0.04);
+  --lime-line:rgba(0,114,114,0.3);
+  --lime-dark:#005a5a;
+  --pink:#bb00bb;
+  --blue:#0088aa;
+  --green:#009a72;
+  --text:#111110;
+  --muted:#777;
+  --muted2:#aaa;
+  --card-bg:#faf9f6;
+}
+
+/* Light — component overrides */
+[data-theme="light"] body::after{opacity:0.012}
+[data-theme="light"] .hero-name span{
+  background:linear-gradient(135deg,#111110 30%,#555 100%);
+  -webkit-background-clip:text;-webkit-text-fill-color:transparent;
+}
+[data-theme="light"] .hero-scanline{
+  background:radial-gradient(circle,rgba(0,114,114,0.07) 1px,transparent 1px);
+  background-size:28px 28px;
+}
+[data-theme="light"] nav.scrolled{background:rgba(245,244,241,0.95);border-color:var(--border)}
+[data-theme="light"] .bento-ieee{
+  background:linear-gradient(135deg,#f4f6fa,#eef1f8);
+  border-color:#dce3ee;
+}
+[data-theme="light"] .bento-ticker{background:var(--surface)}
+[data-theme="light"] .hero-bio{color:#666}
+[data-theme="light"] .proj-desc{color:#666}
+[data-theme="light"] .exp-bullet{color:#666}
+[data-theme="light"] .press-desc{color:#666}
+[data-theme="light"] .ieee-desc{color:#666}
+[data-theme="light"] .pub-table tbody tr:hover{background:rgba(0,114,114,0.04)}
+[data-theme="light"] .press-card:hover{border-color:rgba(0,136,170,0.35)}
+[data-theme="light"] .btn-lime{color:#fff}
+[data-theme="light"] .nav-cta{color:#fff}
+[data-theme="light"] .contact-pill.primary{color:#fff}
+[data-theme="light"] #cursor{background:var(--lime)}
+[data-theme="light"] #cursor-ring{border-color:var(--lime-mid)}
+/* Light — press image fallback backgrounds */
+[data-theme="light"] .press-img-wrap--aij .press-img-bg{background:linear-gradient(135deg,#c4d8f0,#9cbce4)}
+[data-theme="light"] .press-img-wrap--at  .press-img-bg{background:linear-gradient(135deg,#f2e6cc,#e4c878)}
+[data-theme="light"] .press-img-wrap--apm .press-img-bg{background:linear-gradient(135deg,#bee8d4,#7ec8a4)}
+[data-theme="light"] .press-img-wm{color:rgba(0,0,0,0.07)}
+
+/* ═══════════════════════════════════════════
+   THEME TOGGLE BUTTON
+═══════════════════════════════════════════ */
+#theme-toggle{
+  position:fixed;bottom:1.8rem;right:1.8rem;
+  z-index:600;width:46px;height:46px;border-radius:50%;
+  border:1px solid var(--border2);background:var(--card-bg);
+  cursor:pointer;
+  display:flex;align-items:center;justify-content:center;
+  transition:border-color 0.25s,transform 0.2s,background 0.3s,box-shadow 0.25s;
+  box-shadow:0 4px 18px rgba(0,0,0,0.28);
+  color:var(--lime);
+}
+#theme-toggle:hover{
+  border-color:var(--lime);transform:scale(1.1);
+  box-shadow:0 6px 22px rgba(0,0,0,0.38);
+}
+.t-icon{
+  position:absolute;
+  transition:opacity 0.3s,transform 0.4s;
+}
+.t-sun{opacity:1;transform:rotate(0deg) scale(1)}
+.t-moon{opacity:0;transform:rotate(-80deg) scale(0.6)}
+[data-theme="light"] .t-sun{opacity:0;transform:rotate(80deg) scale(0.6)}
+[data-theme="light"] .t-moon{opacity:1;transform:rotate(0deg) scale(1)}
+@media(hover:none),(pointer:coarse){#theme-toggle{bottom:1.2rem;right:1.2rem;width:44px;height:44px}}
 </style>
 </head>
 <body>
@@ -1125,7 +1241,6 @@ footer{
       <a href="https://github.com/aniketsoni1" target="_blank" rel="noopener noreferrer" class="btn-outline">GitHub</a>
       <a href="https://scholar.google.com/citations?user=Rtn7hFAAAAAJ&hl=en" target="_blank" rel="noopener noreferrer" class="btn-outline">Scholar</a>
       <a href="https://www.researchgate.net/profile/Aniket-Abhishek-Soni" target="_blank" rel="noopener noreferrer" class="btn-outline">ResearchGate</a>
-      <a href="https://aniketsoni.com" target="_blank" rel="noopener noreferrer" class="btn-outline">aniketsoni.com ↗</a>
     </div>
   </div>
 
@@ -1135,7 +1250,7 @@ footer{
       <div class="status-row">
         <div class="status-dot" aria-hidden="true"></div>
         <span class="status-text">Current Role</span>
-        <span class="status-val">Sr. Data Engineer @ Cognizant Technology Solutions</span>
+        <span class="status-val">Sr. Data Engineer @ Cognizant</span>
       </div>
       <div class="status-row">
         <div class="status-dot" aria-hidden="true"></div>
@@ -1145,7 +1260,7 @@ footer{
       <div class="status-row">
         <div class="status-dot" aria-hidden="true"></div>
         <span class="status-text">Scholar Citations</span>
-        <span class="status-val">100+ citations</span>
+        <span class="status-val">86+ citations</span>
       </div>
     </div>
 
@@ -1298,7 +1413,7 @@ footer{
     <div class="exp-scroll-inner">
       <article class="exp-card" role="listitem">
         <div class="exp-period">Mar 2021 — Present</div>
-        <div class="exp-company">Cognizant Technology Solutions</div>
+        <div class="exp-company">Cognizant</div>
         <div class="exp-role">Senior Data Engineer</div>
         <div class="exp-location">📍 New York, US · Full-time</div>
         <div class="exp-divider"></div>
@@ -1614,6 +1729,12 @@ footer{
          target="_blank" rel="noopener noreferrer"
          class="press-card"
          aria-label="Read article: Why AI Fails Without Data Foundations on The AI Journal">
+        <div class="press-img-wrap press-img-wrap--aij">
+          <div class="press-img-bg" aria-hidden="true"><span class="press-img-wm">AIJ</span></div>
+          <img src="https://images.weserv.nl/?url=aijourn.com/wp-content/uploads/2026/02/Screenshot-2026-02-09-at-21.58.41.png&w=800&h=340&fit=cover&output=webp"
+               alt="Why AI Fails Without Data Foundations — The AI Journal article cover"
+               loading="lazy" crossorigin="anonymous">
+        </div>
         <div class="press-pub">
           <div class="press-pub-monogram" style="background:rgba(59,223,255,0.1);color:var(--blue)">AI</div>
           <div class="press-pub-name">The AI Journal</div>
@@ -1632,8 +1753,14 @@ footer{
          target="_blank" rel="noopener noreferrer"
          class="press-card"
          aria-label="Read article: Hidden Failures Behind Modern Data Systems on All Tech Magazine">
+        <div class="press-img-wrap press-img-wrap--at">
+          <div class="press-img-bg" aria-hidden="true"><span class="press-img-wm">AT</span></div>
+          <img src="https://images.weserv.nl/?url=alltechmagazine.com/wp-content/uploads/hidden-failures-modern-data-systems.jpg&w=800&h=340&fit=cover&output=webp"
+               alt="Hidden Failures Behind Modern Data Systems — All Tech Magazine cover"
+               loading="lazy" crossorigin="anonymous">
+        </div>
         <div class="press-pub">
-          <div class="press-pub-monogram" style="background:rgba(202,158,0,0.12);color:#d4a800">AT</div>
+          <div class="press-pub-monogram" style="background:rgba(212,168,0,0.12);color:#c49800">AT</div>
           <div class="press-pub-name">All Tech Magazine</div>
           <div class="press-pub-type">Feature</div>
         </div>
@@ -1650,8 +1777,14 @@ footer{
          target="_blank" rel="noopener noreferrer"
          class="press-card"
          aria-label="Read article: The Hidden Data Engineering Work Required to Make Enterprise AI Viable on APM Digest">
+        <div class="press-img-wrap press-img-wrap--apm">
+          <div class="press-img-bg" aria-hidden="true"><span class="press-img-wm">APM</span></div>
+          <img src="https://images.weserv.nl/?url=www.apmdigest.com/sites/default/files/hidden-data-engineering-enterprise-ai.jpg&w=800&h=340&fit=cover&output=webp"
+               alt="The Hidden Data Engineering Work Required to Make Enterprise AI Viable — APM Digest cover"
+               loading="lazy" crossorigin="anonymous">
+        </div>
         <div class="press-pub">
-          <div class="press-pub-monogram" style="background:rgba(0,229,160,0.1);color:var(--green)">AP</div>
+          <div class="press-pub-monogram" style="background:rgba(0,154,114,0.12);color:var(--green)">AP</div>
           <div class="press-pub-name">APM Digest</div>
           <div class="press-pub-type">Feature</div>
         </div>
@@ -1693,7 +1826,7 @@ footer{
       <div class="award-tile reveal" style="--i:3">
         <div class="award-yr">2022</div>
         <div class="award-n">Cheers Award</div>
-        <div class="award-org">Cognizant Technology Solutions</div>
+        <div class="award-org">Cognizant</div>
       </div>
     </div>
 
@@ -1825,9 +1958,60 @@ footer{
   <div class="footer-right">Built end-to-end with code · New York, US</div>
 </footer>
 
+<!-- ════════════════════ THEME TOGGLE ════════════════════ -->
+<button id="theme-toggle" aria-label="Toggle light/dark theme" title="Toggle theme">
+  <!-- Sun icon — visible in dark mode -->
+  <svg class="t-icon t-sun" width="18" height="18" viewBox="0 0 24 24" fill="none"
+       stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true">
+    <circle cx="12" cy="12" r="4"/>
+    <line x1="12" y1="2"  x2="12" y2="5"/>
+    <line x1="12" y1="19" x2="12" y2="22"/>
+    <line x1="2"  y1="12" x2="5"  y2="12"/>
+    <line x1="19" y1="12" x2="22" y2="12"/>
+    <line x1="4.22"  y1="4.22"  x2="6.34"  y2="6.34"/>
+    <line x1="17.66" y1="17.66" x2="19.78" y2="19.78"/>
+    <line x1="4.22"  y1="19.78" x2="6.34"  y2="17.66"/>
+    <line x1="17.66" y1="6.34"  x2="19.78" y2="4.22"/>
+  </svg>
+  <!-- Moon icon — visible in light mode -->
+  <svg class="t-icon t-moon" width="18" height="18" viewBox="0 0 24 24" fill="none"
+       stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+    <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/>
+  </svg>
+</button>
+
 <!-- ════════════════════ SCRIPTS ════════════════════ -->
 <script>
-// ── CURSOR (desktop only) ──
+// ── THEME TOGGLE ──
+(function() {
+  const html = document.documentElement;
+  const btn  = document.getElementById('theme-toggle');
+  // Determine initial theme: localStorage → prefers-color-scheme → default dark
+  const stored = localStorage.getItem('theme');
+  const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+  const initial = stored || (prefersDark ? 'dark' : 'light');
+  if (initial === 'light') html.setAttribute('data-theme', 'light');
+
+  btn.addEventListener('click', () => {
+    const isLight = html.getAttribute('data-theme') === 'light';
+    if (isLight) {
+      html.removeAttribute('data-theme');
+      localStorage.setItem('theme', 'dark');
+    } else {
+      html.setAttribute('data-theme', 'light');
+      localStorage.setItem('theme', 'light');
+    }
+  });
+})();
+
+// ── PRESS IMAGE FADE-IN ON LOAD ──
+document.querySelectorAll('.press-img-wrap img').forEach(img => {
+  const activate = () => img.classList.add('loaded');
+  if (img.complete && img.naturalWidth > 0) { activate(); }
+  else { img.addEventListener('load', activate); }
+});
+
+
 const isTouch = window.matchMedia('(hover:none),(pointer:coarse)').matches;
 if (!isTouch) {
   const cur = document.getElementById('cursor');
