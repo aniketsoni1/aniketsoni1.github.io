@@ -1088,12 +1088,14 @@ footer{
   width:100%;
   position:relative;overflow:hidden;
   border-radius:4px;flex-shrink:0;
+  display:flex;align-items:center;justify-content:center;
 }
 .press-img-wrap img{
   position:absolute;inset:0;width:100%;height:100%;
-  object-fit:cover;display:block;
-  transition:transform 0.5s ease,opacity 0.4s;
+  object-fit:contain;object-position:center;display:block;
+  transition:opacity 0.4s;
   opacity:0;
+  padding:0.5rem;
 }
 .press-img-wrap img.loaded{opacity:1}
 .press-card:hover .press-img-wrap img.loaded{transform:scale(1.04)}
