@@ -440,7 +440,8 @@ nav.scrolled{
   background:var(--lime);color:#fff;
   border:none;border-radius:var(--r);
   text-decoration:none;font-weight:500;
-  transition:all 0.2s;display:inline-block;
+  transition:all 0.2s;
+  display:inline-flex;align-items:center;gap:0.5rem;
 }
 .btn-lime:hover{background:var(--lime-dark);transform:translateY(-2px)}
 .btn-outline{
@@ -451,9 +452,16 @@ nav.scrolled{
   border:1px solid var(--border2);
   border-radius:var(--r);
   text-decoration:none;
-  transition:all 0.2s;display:inline-block;
+  transition:all 0.2s;
+  display:inline-flex;align-items:center;gap:0.5rem;
 }
 .btn-outline:hover{border-color:var(--lime);color:var(--lime);transform:translateY(-2px)}
+/* platform icon inside buttons */
+.btn-icon{
+  width:15px;height:15px;object-fit:contain;
+  flex-shrink:0;display:block;border-radius:2px;
+}
+.btn-lime .btn-icon{filter:brightness(0) invert(1)}  /* white on teal */
 
 /* BENTO GRID — RIGHT */
 .hero-right{
@@ -1002,6 +1010,7 @@ h2.sec-title{
   border:1px solid var(--border2);
   border-radius:100px;color:var(--muted);
   text-decoration:none;transition:all 0.2s;
+  display:inline-flex;align-items:center;gap:0.5rem;
 }
 .contact-pill:hover{border-color:var(--lime);color:var(--lime);transform:translateY(-2px)}
 .contact-pill.primary{
@@ -1009,6 +1018,7 @@ h2.sec-title{
   border-color:var(--lime);font-weight:600;
 }
 .contact-pill.primary:hover{background:var(--lime-dark);border-color:var(--lime-dark)}
+.contact-pill.primary .btn-icon{filter:brightness(0) invert(1)}
 
 /* ═══════════════════════════════════════════
    FOOTER
@@ -1073,9 +1083,11 @@ footer{
    PRESS CARD IMAGES
 ═══════════════════════════════════════════ */
 .press-img-wrap{
-  margin:-2rem -2rem 1.4rem -2rem;
-  height:170px;position:relative;overflow:hidden;
-  border-radius:4px 4px 0 0;flex-shrink:0;
+  margin:0 0 1.4rem 0;
+  aspect-ratio:1/1;
+  width:100%;
+  position:relative;overflow:hidden;
+  border-radius:4px;flex-shrink:0;
 }
 .press-img-wrap img{
   position:absolute;inset:0;width:100%;height:100%;
@@ -1240,10 +1252,18 @@ tr.pub-row[data-href]:hover .pub-doi { color: var(--lime); }
     </p>
 
     <div class="hero-cta">
-      <a href="https://www.linkedin.com/in/aniketsoni" target="_blank" rel="noopener noreferrer" class="btn-lime">LinkedIn</a>
-      <a href="https://github.com/aniketsoni1" target="_blank" rel="noopener noreferrer" class="btn-outline">GitHub</a>
-      <a href="https://scholar.google.com/citations?user=Rtn7hFAAAAAJ&hl=en" target="_blank" rel="noopener noreferrer" class="btn-outline">Scholar</a>
-      <a href="https://www.researchgate.net/profile/Aniket-Abhishek-Soni" target="_blank" rel="noopener noreferrer" class="btn-outline">ResearchGate</a>
+      <a href="https://www.linkedin.com/in/aniketsoni" target="_blank" rel="noopener noreferrer" class="btn-lime">
+        <img src="https://raw.githubusercontent.com/aniketsoni1/aniketsoni1.github.io/main/assets/img/linkedin-icon.png" alt="" class="btn-icon" aria-hidden="true">LinkedIn
+      </a>
+      <a href="https://github.com/aniketsoni1" target="_blank" rel="noopener noreferrer" class="btn-outline">
+        <img src="https://raw.githubusercontent.com/aniketsoni1/aniketsoni1.github.io/main/assets/img/github-icon.png" alt="" class="btn-icon" aria-hidden="true">GitHub
+      </a>
+      <a href="https://scholar.google.com/citations?user=Rtn7hFAAAAAJ&hl=en" target="_blank" rel="noopener noreferrer" class="btn-outline">
+        <img src="https://raw.githubusercontent.com/aniketsoni1/aniketsoni1.github.io/main/assets/img/Google_Scholar_logo.png" alt="" class="btn-icon" aria-hidden="true">Scholar
+      </a>
+      <a href="https://www.researchgate.net/profile/Aniket-Abhishek-Soni" target="_blank" rel="noopener noreferrer" class="btn-outline">
+        <img src="https://raw.githubusercontent.com/aniketsoni1/aniketsoni1.github.io/main/assets/img/ResearchGate_logo.png" alt="" class="btn-icon" aria-hidden="true">ResearchGate
+      </a>
     </div>
   </div>
 
@@ -1911,7 +1931,7 @@ tr.pub-row[data-href]:hover .pub-doi { color: var(--lime); }
         <div class="edu-icon" aria-hidden="true">🎓</div>
         <div>
           <div class="edu-degree">Master of Science in Computer Science</div>
-          <div class="edu-school"><a href="https://web.saumag.edu/" target="_blank" rel="noopener noreferrer" style="color:var(--lime);text-decoration:none;">Southern Arkansas University</a></div>
+          <div class="edu-school"><a href="https://www.saumagnolia.edu" target="_blank" rel="noopener noreferrer" style="color:var(--lime);text-decoration:none;">Southern Arkansas University</a></div>
           <div class="edu-period">Aug 2018 — May 2020</div>
           <div class="edu-loc">Magnolia, AR, USA</div>
         </div>
@@ -1947,17 +1967,27 @@ tr.pub-row[data-href]:hover .pub-doi { color: var(--lime); }
   </div>
   <p class="contact-sub">Engaged in research collaborations, peer review, expert judging, speaking invitations, and mentorship across the global technology and data engineering community.</p>
   <div class="contact-links-row">
-    <a href="https://www.linkedin.com/in/aniketsoni" target="_blank" rel="noopener noreferrer" class="contact-pill primary">LinkedIn</a>
-    <a href="https://github.com/aniketsoni1" target="_blank" rel="noopener noreferrer" class="contact-pill">GitHub</a>
-    <a href="https://scholar.google.com/citations?user=Rtn7hFAAAAAJ&hl=en" target="_blank" rel="noopener noreferrer" class="contact-pill">Google Scholar</a>
-    <a href="https://orcid.org/0009-0001-6312-2967" target="_blank" rel="noopener noreferrer" class="contact-pill">ORCiD</a>
-    <a href="https://www.researchgate.net/profile/Aniket-Abhishek-Soni" target="_blank" rel="noopener noreferrer" class="contact-pill">ResearchGate</a>
+    <a href="https://www.linkedin.com/in/aniketsoni" target="_blank" rel="noopener noreferrer" class="contact-pill primary">
+      <img src="https://raw.githubusercontent.com/aniketsoni1/aniketsoni1.github.io/main/assets/img/linkedin-icon.png" alt="" class="btn-icon" aria-hidden="true">LinkedIn
+    </a>
+    <a href="https://github.com/aniketsoni1" target="_blank" rel="noopener noreferrer" class="contact-pill">
+      <img src="https://raw.githubusercontent.com/aniketsoni1/aniketsoni1.github.io/main/assets/img/github-icon.png" alt="" class="btn-icon" aria-hidden="true">GitHub
+    </a>
+    <a href="https://scholar.google.com/citations?user=Rtn7hFAAAAAJ&hl=en" target="_blank" rel="noopener noreferrer" class="contact-pill">
+      <img src="https://raw.githubusercontent.com/aniketsoni1/aniketsoni1.github.io/main/assets/img/Google_Scholar_logo.png" alt="" class="btn-icon" aria-hidden="true">Google Scholar
+    </a>
+    <a href="https://orcid.org/0009-0001-6312-2967" target="_blank" rel="noopener noreferrer" class="contact-pill">
+      <img src="https://raw.githubusercontent.com/aniketsoni1/aniketsoni1.github.io/main/assets/img/ORCID_iD.png" alt="" class="btn-icon" aria-hidden="true">ORCiD
+    </a>
+    <a href="https://www.researchgate.net/profile/Aniket-Abhishek-Soni" target="_blank" rel="noopener noreferrer" class="contact-pill">
+      <img src="https://raw.githubusercontent.com/aniketsoni1/aniketsoni1.github.io/main/assets/img/ResearchGate_logo.png" alt="" class="btn-icon" aria-hidden="true">ResearchGate
+    </a>
   </div>
 </section>
 
 <!-- ════════════════════ FOOTER ════════════════════ -->
 <footer role="contentinfo">
-  <div class="footer-left">© 2026 Aniket Abhishek Soni · Senior Data Engineer</div>
+  <div class="footer-left">© 2026 Aniket Abhishek Soni · IEEE Senior Member · Senior Data Engineer</div>
   <div class="footer-right">Built end-to-end with code · New York, US</div>
 </footer>
 
