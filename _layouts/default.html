@@ -1185,6 +1185,13 @@ footer{
 [data-theme="light"] .t-moon{opacity:1;transform:rotate(0deg) scale(1)}
 @media(hover:none),(pointer:coarse){#theme-toggle{bottom:1.2rem;right:1.2rem;width:44px;height:44px}}
 </style>
+<style>
+/* pub rows — clickable highlight */
+tr.pub-row[data-href]:hover { background: var(--lime-low) !important; }
+tr.pub-row[data-href]:hover .pub-doi { color: var(--lime); }
+/* ieee bento without the badge — remove the row flex and just show text */
+.bento-ieee .ieee-desc { font-size:0.78rem; color:var(--muted); line-height:1.6; }
+</style>
 </head>
 <body>
 
@@ -1217,14 +1224,10 @@ footer{
   <div class="hero-scanline" aria-hidden="true"></div>
 
   <div class="hero-left">
-    <div class="hero-status" aria-label="Status">
-      <span class="nav-dot" aria-hidden="true"></span>
-      IEEE Senior Member · New York, US
-    </div>
 
     <h1 class="hero-name" itemprop="name">
       <span>Aniket</span>
-      <span>Abhishek</span>
+      <span class="lime-word">Abhishek</span>
       <span>Soni</span>
     </h1>
 
@@ -1233,7 +1236,7 @@ footer{
     </p>
 
     <p class="hero-bio">
-      IEEE Senior Member (SMIEEE) with 7+ years designing enterprise-scale data pipelines and AI-powered analytics across regulated industries. Published across 18+ peer-reviewed papers, international speaker, and recognized judge at MIT, Globee, SIIA Neal, and IEEE conferences.
+      Senior Data Engineer with 7+ years building enterprise-scale ETL pipelines, AI-driven analytics platforms, and cloud-native infrastructure at Cognizant. Researcher with 18+ published papers in AI, data engineering, and geospatial analytics — including a book on distributed systems. Beyond engineering, Aniket mentors aspiring technologists, contributes to climate tech through geospatial modeling, and is recognized as a speaker, judge, and thought leader at global AI and data events.
     </p>
 
     <div class="hero-cta">
@@ -1260,7 +1263,7 @@ footer{
       <div class="status-row">
         <div class="status-dot" aria-hidden="true"></div>
         <span class="status-text">Scholar Citations</span>
-        <span class="status-val">86+ citations</span>
+        <span class="status-val">110+ citations</span>
       </div>
     </div>
 
@@ -1290,10 +1293,7 @@ footer{
 
     <!-- IEEE bento — brief, full list in Recognition section -->
     <div class="bento bento-ieee">
-      <div class="ieee-row">
-        <div class="ieee-badge" aria-label="IEEE">IEEE</div>
-        <div class="ieee-desc">Senior Member (SMIEEE) · Fellow SCRS · Royal Fellow IOASD · Life Member CSI · Upsilon Pi Epsilon · Sigma Xi Affiliate · GDG New York · 20+ IEEE peer reviews · IEEE Day 2025 Ambassador</div>
-      </div>
+      <div class="ieee-desc">Senior Member IEEE (SMIEEE) · Fellow SCRS · Royal Fellow IOASD · Life Member CSI · Upsilon Pi Epsilon · Sigma Xi Affiliate · GDG New York · 20+ peer reviews · IEEE Day 2025 Ambassador</div>
     </div>
 
     <!-- Ticker -->
@@ -1587,26 +1587,26 @@ footer{
     <div class="sec-eyebrow">Academic Output</div>
     <h2 class="sec-title">Research & Publications</h2>
     <div class="reveal" style="overflow-x:auto">
-      <table class="pub-table" aria-label="List of publications">
+      <table class="pub-table" aria-label="List of publications" style="cursor:default">
         <thead>
           <tr>
             <th scope="col">Type</th>
             <th scope="col">Title &amp; Venue</th>
             <th scope="col">Year</th>
-            <th scope="col">DOI / ID</th>
+            <th scope="col">DOI / Link</th>
           </tr>
         </thead>
         <tbody>
-          <tr>
+          <tr class="pub-row" data-href="https://doi.org/10.9734/bpi/mono/978-93-49970-00-7" style="cursor:pointer">
             <td><span class="pub-badge book">Book</span></td>
             <td>
               <div class="pub-title">Scalable Infrastructure: Building Reliable Distributed Systems</div>
               <div class="pub-venue">BP International · ISBN 978-93-49970-00-7</div>
             </td>
             <td class="pub-year">2025</td>
-            <td><a class="pub-doi" href="https://doi.org/10.9734/bpi/mono/978-93-49970-00-7" target="_blank" rel="noopener noreferrer">10.9734/bpi</a></td>
+            <td><span class="pub-doi">10.9734/bpi ↗</span></td>
           </tr>
-          <tr>
+          <tr class="pub-row" style="cursor:default">
             <td><span class="pub-badge book">Book</span></td>
             <td>
               <div class="pub-title">Building Organizational Intelligence Using Digital Twins and Generative AI (Chapter)</div>
@@ -1615,7 +1615,7 @@ footer{
             <td class="pub-year">2025</td>
             <td class="pub-year">—</td>
           </tr>
-          <tr>
+          <tr class="pub-row" style="cursor:default">
             <td><span class="pub-badge conf">Conf.</span></td>
             <td>
               <div class="pub-title">Big Data Workload Profiling for Energy-Aware Cloud Resource Management</div>
@@ -1624,7 +1624,7 @@ footer{
             <td class="pub-year">Jan 2026</td>
             <td class="pub-year">—</td>
           </tr>
-          <tr>
+          <tr class="pub-row" style="cursor:default">
             <td><span class="pub-badge conf">Conf.</span></td>
             <td>
               <div class="pub-title">Reinforcement Learning For Dynamic Workflow Optimization In CI/CD Pipelines</div>
@@ -1633,7 +1633,7 @@ footer{
             <td class="pub-year">Dec 2025</td>
             <td class="pub-year">IEEE</td>
           </tr>
-          <tr>
+          <tr class="pub-row" style="cursor:default">
             <td><span class="pub-badge conf">Conf.</span></td>
             <td>
               <div class="pub-title">Data Foundations for a Successful AI Strategy: A Blueprint for AI-Ready Enterprises</div>
@@ -1642,68 +1642,68 @@ footer{
             <td class="pub-year">Dec 2025</td>
             <td class="pub-year">—</td>
           </tr>
-          <tr>
+          <tr class="pub-row" data-href="https://doi.org/10.1109/IC366947.2025.11290509" style="cursor:pointer">
             <td><span class="pub-badge conf">Conf.</span></td>
             <td>
               <div class="pub-title">Detection of Advance Malware Threats using Hybrid Deep Learning Model and Image Analysis</div>
               <div class="pub-venue">IC3 (International Conference on Contemporary Computing)</div>
             </td>
             <td class="pub-year">Aug 2025</td>
-            <td><a class="pub-doi" href="https://doi.org/10.1109/IC366947.2025.11290509" target="_blank" rel="noopener noreferrer">10.1109/IC3…</a></td>
+            <td><span class="pub-doi">10.1109/IC3… ↗</span></td>
           </tr>
-          <tr>
+          <tr class="pub-row" data-href="https://doi.org/10.48550/arXiv.2506.11092" style="cursor:pointer">
             <td><span class="pub-badge conf">Conf.</span></td>
             <td>
               <div class="pub-title">Dynamic Context Tuning for Enhanced Multi-Turn Planning in Retrieval-Augmented Generation Systems</div>
               <div class="pub-venue">ICE2CPT</div>
             </td>
             <td class="pub-year">Oct 2025</td>
-            <td><a class="pub-doi" href="https://doi.org/10.48550/arXiv.2506.11092" target="_blank" rel="noopener noreferrer">arXiv:2506.11092</a></td>
+            <td><span class="pub-doi">arXiv:2506.11092 ↗</span></td>
           </tr>
-          <tr>
+          <tr class="pub-row" data-href="https://doi.org/10.48550/arXiv.2411.17931" style="cursor:pointer">
             <td><span class="pub-badge conf">Conf.</span></td>
             <td>
               <div class="pub-title">Combining Threat Intelligence with IoT Scanning to Predict Cyber Attacks</div>
               <div class="pub-venue">AIBThings (3rd International Conference)</div>
             </td>
             <td class="pub-year">Sep 2025</td>
-            <td><a class="pub-doi" href="https://doi.org/10.48550/arXiv.2411.17931" target="_blank" rel="noopener noreferrer">arXiv:2411.17931</a></td>
+            <td><span class="pub-doi">arXiv:2411.17931 ↗</span></td>
           </tr>
-          <tr>
+          <tr class="pub-row" data-href="https://arxiv.org/abs/2503.21025" style="cursor:pointer">
             <td><span class="pub-badge arxiv">arXiv</span></td>
             <td>
               <div class="pub-title">Improving Speech Recognition Accuracy Using Custom Language Models with the Vosk Toolkit</div>
               <div class="pub-venue">arXiv [cs.SD]</div>
             </td>
             <td class="pub-year">Mar 2025</td>
-            <td><a class="pub-doi" href="https://arxiv.org/abs/2503.21025" target="_blank" rel="noopener noreferrer">arXiv:2503.21025</a></td>
+            <td><span class="pub-doi">arXiv:2503.21025 ↗</span></td>
           </tr>
-          <tr>
+          <tr class="pub-row" data-href="https://doi.org/10.7753/IJSEA1406.1007" style="cursor:pointer">
             <td><span class="pub-badge journal">Journal</span></td>
             <td>
               <div class="pub-title">Edge Vs Cloud Computing Performance Trade-Offs for Real-Time Analytics</div>
               <div class="pub-venue">IJSEA · Vol. 14, Issue 06</div>
             </td>
             <td class="pub-year">Jun 2025</td>
-            <td><a class="pub-doi" href="https://doi.org/10.7753/IJSEA1406.1007" target="_blank" rel="noopener noreferrer">10.7753/IJSEA</a></td>
+            <td><span class="pub-doi">10.7753/IJSEA ↗</span></td>
           </tr>
-          <tr>
+          <tr class="pub-row" data-href="https://doi.org/10.5281/zenodo.15615306" style="cursor:pointer">
             <td><span class="pub-badge journal">Journal</span></td>
             <td>
               <div class="pub-title">Self-Healing Data Pipelines: A Fault-Tolerant Approach to ETL Workflows</div>
               <div class="pub-venue">IJETRM · Vol. 14, Issue 05</div>
             </td>
             <td class="pub-year">May 2025</td>
-            <td><a class="pub-doi" href="https://doi.org/10.5281/zenodo.15615306" target="_blank" rel="noopener noreferrer">zenodo.15615306</a></td>
+            <td><span class="pub-doi">zenodo.15615306 ↗</span></td>
           </tr>
-          <tr>
+          <tr class="pub-row" data-href="https://doi.org/10.5281/zenodo.18104614" style="cursor:pointer">
             <td><span class="pub-badge journal">Journal</span></td>
             <td>
               <div class="pub-title">Dynamic Resource Allocation in Serverless Architectures using AI-Based Forecasting</div>
               <div class="pub-venue">IJERT · Vol. 14, Issue 04</div>
             </td>
             <td class="pub-year">Apr 2025</td>
-            <td><a class="pub-doi" href="https://doi.org/10.5281/zenodo.18104614" target="_blank" rel="noopener noreferrer">zenodo.18104614</a></td>
+            <td><span class="pub-doi">zenodo.18104614 ↗</span></td>
           </tr>
         </tbody>
       </table>
@@ -1733,7 +1733,8 @@ footer{
           <div class="press-img-bg" aria-hidden="true"><span class="press-img-wm">AIJ</span></div>
           <img src="https://images.weserv.nl/?url=aijourn.com/wp-content/uploads/2026/02/Screenshot-2026-02-09-at-21.58.41.png&w=800&h=340&fit=cover&output=webp"
                alt="Why AI Fails Without Data Foundations — The AI Journal article cover"
-               loading="lazy" crossorigin="anonymous">
+               loading="lazy" crossorigin="anonymous"
+               onerror="this.style.display='none'">
         </div>
         <div class="press-pub">
           <div class="press-pub-monogram" style="background:rgba(59,223,255,0.1);color:var(--blue)">AI</div>
@@ -1755,9 +1756,10 @@ footer{
          aria-label="Read article: Hidden Failures Behind Modern Data Systems on All Tech Magazine">
         <div class="press-img-wrap press-img-wrap--at">
           <div class="press-img-bg" aria-hidden="true"><span class="press-img-wm">AT</span></div>
-          <img src="https://images.weserv.nl/?url=alltechmagazine.com/wp-content/uploads/hidden-failures-modern-data-systems.jpg&w=800&h=340&fit=cover&output=webp"
+          <img src="https://images.weserv.nl/?url=alltechmagazine.com/wp-content/uploads/2026/01/data-systems-failure.jpg&w=800&h=340&fit=cover&output=webp"
                alt="Hidden Failures Behind Modern Data Systems — All Tech Magazine cover"
-               loading="lazy" crossorigin="anonymous">
+               loading="lazy" crossorigin="anonymous"
+               onerror="this.style.display='none'">
         </div>
         <div class="press-pub">
           <div class="press-pub-monogram" style="background:rgba(212,168,0,0.12);color:#c49800">AT</div>
@@ -1781,7 +1783,8 @@ footer{
           <div class="press-img-bg" aria-hidden="true"><span class="press-img-wm">APM</span></div>
           <img src="https://images.weserv.nl/?url=www.apmdigest.com/sites/default/files/hidden-data-engineering-enterprise-ai.jpg&w=800&h=340&fit=cover&output=webp"
                alt="The Hidden Data Engineering Work Required to Make Enterprise AI Viable — APM Digest cover"
-               loading="lazy" crossorigin="anonymous">
+               loading="lazy" crossorigin="anonymous"
+               onerror="this.style.display='none'">
         </div>
         <div class="press-pub">
           <div class="press-pub-monogram" style="background:rgba(0,154,114,0.12);color:var(--green)">AP</div>
@@ -1843,10 +1846,6 @@ footer{
       </div>
       <div class="role-card">
         <div class="role-type">Judge</div>
-        <div class="role-name">Globee Awards — AI, Business &amp; Technology categories (2023, 2025)</div>
-      </div>
-      <div class="role-card">
-        <div class="role-type">Judge</div>
         <div class="role-name">SIIA Jesse H. Neal Awards (2024, 2025, 2026)</div>
       </div>
       <div class="role-card">
@@ -1868,6 +1867,10 @@ footer{
       <div class="role-card">
         <div class="role-type">Editor</div>
         <div class="role-name">Associate Editor — International Journal of Engineering in Computer Science</div>
+      </div>
+      <div class="role-card">
+        <div class="role-type">Judge</div>
+        <div class="role-name">Globee Awards — AI, Business &amp; Technology categories (2023, 2025)</div>
       </div>
     </div>
 
@@ -1908,7 +1911,7 @@ footer{
         <div class="edu-icon" aria-hidden="true">🎓</div>
         <div>
           <div class="edu-degree">Master of Science in Computer Science</div>
-          <div class="edu-school">Southern Arkansas University</div>
+          <div class="edu-school"><a href="https://www.saumagnolia.edu" target="_blank" rel="noopener noreferrer" style="color:var(--lime);text-decoration:none;">Southern Arkansas University</a></div>
           <div class="edu-period">Aug 2018 — May 2020</div>
           <div class="edu-loc">Magnolia, AR, USA</div>
         </div>
@@ -1917,7 +1920,7 @@ footer{
         <div class="edu-icon" aria-hidden="true">🏛️</div>
         <div>
           <div class="edu-degree">Bachelor of Engineering in Computer Engineering</div>
-          <div class="edu-school">Gujarat Technological University</div>
+          <div class="edu-school"><a href="https://www.gtu.ac.in" target="_blank" rel="noopener noreferrer" style="color:var(--lime);text-decoration:none;">Gujarat Technological University</a></div>
           <div class="edu-period">Aug 2011 — Jun 2016</div>
           <div class="edu-loc">India</div>
         </div>
@@ -1954,7 +1957,7 @@ footer{
 
 <!-- ════════════════════ FOOTER ════════════════════ -->
 <footer role="contentinfo">
-  <div class="footer-left">© 2026 Aniket Abhishek Soni · IEEE Senior Member · Senior Data Engineer</div>
+  <div class="footer-left">© 2026 Aniket Abhishek Soni · Senior Data Engineer</div>
   <div class="footer-right">Built end-to-end with code · New York, US</div>
 </footer>
 
@@ -2003,6 +2006,13 @@ footer{
     }
   });
 })();
+
+// ── PUBLICATION ROW CLICK ──
+document.querySelectorAll('tr.pub-row[data-href]').forEach(row => {
+  row.addEventListener('click', () => {
+    window.open(row.dataset.href, '_blank', 'noopener,noreferrer');
+  });
+});
 
 // ── PRESS IMAGE FADE-IN ON LOAD ──
 document.querySelectorAll('.press-img-wrap img').forEach(img => {
