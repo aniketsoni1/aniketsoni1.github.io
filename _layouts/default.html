@@ -1282,7 +1282,7 @@ body,nav,.bento,.exp-card,.proj-card,.press-card,.award-tile,.role-card,.edu-car
 .about-text strong{color:var(--text);font-weight:500}
 .about-sidebar{display:flex;flex-direction:column;gap:1rem}
 /* about photo strip */
-.about-photos{display:grid;grid-template-columns:1fr 1fr 1fr;gap:0.5rem;margin-bottom:1rem}
+.about-photos{display:block;margin-bottom:1rem}
 .about-photo{
   width:100%;aspect-ratio:1/1;object-fit:cover;object-position:center top;
   border-radius:4px;border:2px solid var(--border);cursor:pointer;
@@ -1712,8 +1712,6 @@ tr.pub-row[data-href]:hover .pub-doi { color: var(--lime); }
       <div class="about-sidebar">
         <div class="about-photos">
           <img src="https://raw.githubusercontent.com/aniketsoni1/aniketsoni1.github.io/main/assets/img/headshot_1.jpeg" alt="Aniket Abhishek Soni" class="about-photo about-photo--active" loading="lazy">
-          <img src="https://raw.githubusercontent.com/aniketsoni1/aniketsoni1.github.io/main/assets/img/headshot_2.jpg" alt="Aniket Abhishek Soni" class="about-photo" loading="lazy">
-          <img src="https://raw.githubusercontent.com/aniketsoni1/aniketsoni1.github.io/main/assets/img/headshot_3.jpg" alt="Aniket Abhishek Soni" class="about-photo" loading="lazy">
         </div>
         <div class="expertise-card">
           <div class="expertise-card-label">Areas of Expertise</div>
@@ -2207,10 +2205,9 @@ tr.pub-row[data-href]:hover .pub-doi { color: var(--lime); }
          aria-label="Read article: Hidden Failures Behind Modern Data Systems on All Tech Magazine">
         <div class="press-img-wrap press-img-wrap--at">
           <div class="press-img-bg" aria-hidden="true"><span class="press-img-wm">AT</span></div>
-          <img src="https://images.weserv.nl/?url=alltechmagazine.com/wp-content/uploads/2026/01/data-systems-failure.jpg&w=800&h=340&fit=cover&output=webp"
+          <img src="https://raw.githubusercontent.com/aniketsoni1/aniketsoni1.github.io/main/assets/img/headshot_2.JPG"
                alt="Hidden Failures Behind Modern Data Systems by Aniket Soni — All Tech Magazine feature cover"
-               loading="lazy" crossorigin="anonymous"
-               onerror="this.style.display='none'">
+               loading="lazy" class="loaded">
         </div>
         <div class="press-pub">
           <div class="press-pub-monogram" style="background:rgba(212,168,0,0.12);color:#c49800">AT</div>
@@ -2232,10 +2229,9 @@ tr.pub-row[data-href]:hover .pub-doi { color: var(--lime); }
          aria-label="Read article: The Hidden Data Engineering Work Required to Make Enterprise AI Viable on APM Digest">
         <div class="press-img-wrap press-img-wrap--apm">
           <div class="press-img-bg" aria-hidden="true"><span class="press-img-wm">APM</span></div>
-          <img src="https://images.weserv.nl/?url=www.apmdigest.com/sites/default/files/hidden-data-engineering-enterprise-ai.jpg&w=800&h=340&fit=cover&output=webp"
+          <img src="https://raw.githubusercontent.com/aniketsoni1/aniketsoni1.github.io/main/assets/img/headshot_3.JPG"
                alt="The Hidden Data Engineering Work Required to Make Enterprise AI Viable by Aniket Soni — APM Digest feature cover"
-               loading="lazy" crossorigin="anonymous"
-               onerror="this.style.display='none'">
+               loading="lazy" class="loaded">
         </div>
         <div class="press-pub">
           <div class="press-pub-monogram" style="background:rgba(0,154,114,0.12);color:var(--green)">AP</div>
@@ -2464,7 +2460,6 @@ tr.pub-row[data-href]:hover .pub-doi { color: var(--lime); }
     <div class="footer-brand">
       <div class="footer-wordmark">AS</div>
       <div class="footer-tagline">Senior Data Engineer · Published Researcher · IEEE Senior Member</div>
-      <a href="mailto:aniketsoni@ieee.org" class="footer-email">aniketsoni@ieee.org</a>
     </div>
     <div class="footer-nav-col">
       <div class="footer-nav-title">Navigate</div>
