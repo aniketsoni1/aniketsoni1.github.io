@@ -209,6 +209,21 @@
       "genre": "Computer Science"
     },
     {
+      "@type": "Book",
+      "@id": "https://aniketsoni.com/#book-ai-serverless",
+      "name": "AI-Enabled Serverless Engineering for Autonomous Cloud Operations",
+      "author": [
+        { "@id": "https://aniketsoni.com/#person" },
+        { "@type": "Person", "name": "Milan Parikh" }
+      ],
+      "publisher": { "@type": "Organization", "name": "Technical Press" },
+      "isbn": "978-81-69069-56-4",
+      "datePublished": "2026",
+      "url": "https://www.thetechnicalpress.com",
+      "inLanguage": "en",
+      "genre": "Computer Science"
+    },
+    {
       "@type": "ScholarlyArticle",
       "name": "Improving Speech Recognition Accuracy Using Custom Language Models with the Vosk Toolkit",
       "author": { "@id": "https://aniketsoni.com/#person" },
@@ -1388,6 +1403,7 @@ body,nav,.bento,.exp-card,.proj-card,.press-card,.award-tile,.role-card,.edu-car
 .exp-dot{
   width:6px;height:6px;border-radius:50%;background:var(--border2);
   transition:background 0.25s,transform 0.25s;flex-shrink:0;
+  cursor:pointer;
 }
 .exp-dot.active{background:var(--lime);transform:scale(1.3)}
 
@@ -1444,9 +1460,17 @@ body,nav,.bento,.exp-card,.proj-card,.press-card,.award-tile,.role-card,.edu-car
 
 /* ═══ CURRENTLY WORKING ON BENTO ═══ */
 .bento-current{
-  grid-column:1/3;background:linear-gradient(135deg,#0a0f0a,#0d140d);
+  grid-column:1/3;
+  background:linear-gradient(135deg,#0a0f0a,#0d140d);
   border-color:rgba(0,229,160,0.2);
 }
+[data-theme="light"] .bento-current{
+  background:linear-gradient(135deg,#edf7f4,#e0f5ef);
+  border-color:rgba(0,158,114,0.3);
+}
+[data-theme="light"] .current-label{color:#007a5a}
+[data-theme="light"] .current-item{color:#444}
+[data-theme="light"] .current-item::before{color:#009a72}
 .current-label{
   font-family:'JetBrains Mono',monospace;font-size:0.6rem;letter-spacing:0.16em;
   text-transform:uppercase;color:var(--green);margin-bottom:0.6rem;
@@ -1654,8 +1678,8 @@ tr.pub-row[data-href]:hover .pub-doi { color: var(--lime); }
     <div class="bento bento-current">
       <div class="current-label"><span class="current-dot"></span>Currently</div>
       <div class="current-items">
+        <div class="current-item">New: AI-Enabled Serverless Engineering — Technical Press, 2026 (co-authored)</div>
         <div class="current-item">Book chapter — Wiley-Scrivener, Digital Twins &amp; GenAI (in press)</div>
-        <div class="current-item">Latest paper — DASET, Scotland · Jan 2026</div>
         <div class="current-item">110+ Google Scholar citations</div>
       </div>
     </div>
@@ -2028,6 +2052,17 @@ tr.pub-row[data-href]:hover .pub-doi { color: var(--lime); }
         <div class="book-cta">View Publication ↗</div>
       </div>
     </a>
+
+    <a href="https://www.thetechnicalpress.com" target="_blank" rel="noopener noreferrer" class="book-highlight reveal" style="border-color:rgba(123,97,255,0.25);background:linear-gradient(135deg,var(--card-bg),rgba(123,97,255,0.04))">
+      <div class="book-cover" aria-hidden="true" style="background:linear-gradient(160deg,#1a0050,#0d0030);border-color:rgba(123,97,255,0.25)"><span class="book-spine" style="color:rgba(180,140,255,0.8)">AI SERVERLESS</span></div>
+      <div class="book-info">
+        <span class="book-badge" style="color:#a07aff;border-color:rgba(123,97,255,0.35);background:rgba(123,97,255,0.08)">📖 Published Book · 2026</span>
+        <div class="book-title">AI-Enabled Serverless Engineering for Autonomous Cloud Operations</div>
+        <div class="book-meta">Technical Press · ISBN 978-81-69069-56-4 · First Edition</div>
+        <div class="book-meta">Co-author (with Milan Parikh) · Cloud Architecture · AI Systems</div>
+        <div class="book-cta" style="color:#a07aff">View Publication ↗</div>
+      </div>
+    </a>
     <div class="pub-filter-wrap" role="group" aria-label="Filter publications by type">
       <button class="pub-filter-btn active" data-filter="all">All</button>
       <button class="pub-filter-btn" data-filter="book">Books</button>
@@ -2050,10 +2085,19 @@ tr.pub-row[data-href]:hover .pub-doi { color: var(--lime); }
             <td><span class="pub-badge book">Book</span></td>
             <td>
               <div class="pub-title">Scalable Infrastructure: Building Reliable Distributed Systems</div>
-              <div class="pub-venue">BP International · ISBN 978-93-49970-00-7</div>
+              <div class="pub-venue">BP International · ISBN 978-93-49970-00-7 · Sole Author</div>
             </td>
             <td class="pub-year">2025</td>
             <td><span class="pub-doi">10.9734/bpi ↗</span></td>
+          </tr>
+          <tr class="pub-row" data-href="https://www.thetechnicalpress.com" style="cursor:pointer">
+            <td><span class="pub-badge book">Book</span></td>
+            <td>
+              <div class="pub-title">AI-Enabled Serverless Engineering for Autonomous Cloud Operations</div>
+              <div class="pub-venue">Technical Press · ISBN 978-81-69069-56-4 · Co-author (with Milan Parikh)</div>
+            </td>
+            <td class="pub-year">2026</td>
+            <td><span class="pub-doi">ISBN ↗</span></td>
           </tr>
           <tr class="pub-row" style="cursor:default">
             <td><span class="pub-badge book">Book</span></td>
@@ -2246,37 +2290,6 @@ tr.pub-row[data-href]:hover .pub-doi { color: var(--lime); }
         </div>
       </a>
 
-    </div>
-  </div>
-</section>
-
-<!-- ════════════════════ TESTIMONIALS ════════════════════ -->
-<section id="testimonials" class="section" aria-label="Testimonials and endorsements">
-  <div class="section-inner">
-    <div class="sec-eyebrow">Endorsements</div>
-    <h2 class="sec-title">Testimonials</h2>
-    <div class="testimonials-grid reveal">
-      <div class="testimonial-card">
-        <p class="testimonial-text">Add your LinkedIn recommendation or colleague endorsement here. These quotes provide powerful social proof and are especially valuable for demonstrating sustained recognition by peers in your field.</p>
-        <div class="testimonial-author">
-          <span class="testimonial-name">Name, Title</span>
-          <span class="testimonial-role">Organization · Relationship</span>
-        </div>
-      </div>
-      <div class="testimonial-card">
-        <p class="testimonial-text">A second recommendation from a manager, collaborator, or industry peer. Consider selecting quotes that speak to the impact of your work or your standing in the data engineering and research community.</p>
-        <div class="testimonial-author">
-          <span class="testimonial-name">Name, Title</span>
-          <span class="testimonial-role">Organization · Relationship</span>
-        </div>
-      </div>
-      <div class="testimonial-card">
-        <p class="testimonial-text">A third quote from a judging chair, conference organizer, or academic collaborator adds credibility to your international standing. LinkedIn recommendations export as PDF and can be used directly.</p>
-        <div class="testimonial-author">
-          <span class="testimonial-name">Name, Title</span>
-          <span class="testimonial-role">Organization · Relationship</span>
-        </div>
-      </div>
     </div>
   </div>
 </section>
@@ -2494,7 +2507,7 @@ tr.pub-row[data-href]:hover .pub-doi { color: var(--lime); }
     </div>
   </div>
   <div class="footer-bottom">
-    <span class="footer-copy">© 2026 Aniket Abhishek Soni</span>
+    <span class="footer-copy">© 2026 Aniket Abhishek Soni · Made end-to-end with code</span>
     <span class="footer-loc">New York, US · <a href="https://aniketsoni.com" style="color:inherit;text-decoration:none">aniketsoni.com</a></span>
   </div>
 </footer>
@@ -2583,11 +2596,19 @@ document.querySelectorAll('.pub-filter-btn').forEach(btn => {
   const dots = document.querySelectorAll('#exp-dots .exp-dot');
   if (!scroller || !dots.length) return;
   const cards = scroller.querySelectorAll('.exp-card');
+  // Scroll updates dots
   scroller.addEventListener('scroll', () => {
     const cardWidth = cards[0] ? cards[0].offsetWidth + 19 : 1;
     const idx = Math.min(Math.round(scroller.scrollLeft / cardWidth), dots.length - 1);
     dots.forEach((d, i) => d.classList.toggle('active', i === idx));
   }, {passive:true});
+  // Clicking a dot scrolls to that card
+  dots.forEach((dot, i) => {
+    dot.addEventListener('click', () => {
+      if (!cards[i]) return;
+      scroller.scrollTo({left: cards[i].offsetLeft - 48, behavior: 'smooth'});
+    });
+  });
 })();
 
 // ── BACK TO TOP ──
