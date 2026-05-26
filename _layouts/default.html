@@ -7,7 +7,7 @@
 
 <!-- ═══ PRIMARY SEO ═══ -->
 <title>Aniket Abhishek Soni — Senior Data Engineer | Published Researcher | IEEE Senior Member | New York</title>
-<meta name="description" content="Aniket Abhishek Soni is a Senior Data Engineer with 7+ years building enterprise-scale ETL pipelines, AI-driven analytics platforms, and cloud-native infrastructure. Published researcher with 18+ papers in AI, data engineering, and geospatial analytics, international speaker, recognized judge at MIT, SIIA Neal, and IEEE conferences, and recipient of the AFCEA 40 Under Forty Award and Channel Co. Rising Stars 30.">
+<meta name="description" content="Aniket Abhishek Soni is a Senior Data Engineer with 7+ years building enterprise-scale ETL pipelines, AI-driven analytics platforms, and cloud-native infrastructure. Published researcher with 20+ papers in AI, data engineering, and geospatial analytics, international speaker, recognized judge at MIT, SIIA Neal, and IEEE conferences, and recipient of the AFCEA 40 Under Forty Award and Channel Co. Rising Stars 30.">
 <meta name="google-site-verification" content="5ea494305f5de25e">
 <meta name="keywords" content="Aniket Abhishek Soni, Senior Data Engineer, IEEE Senior Member, Databricks, Snowflake, PySpark, Data Pipelines, Cloud Engineer, Research, SMIEEE, New York">
 <meta name="author" content="Aniket Abhishek Soni">
@@ -18,7 +18,7 @@
 <!-- ═══ OPEN GRAPH ═══ -->
 <meta property="og:type" content="profile">
 <meta property="og:title" content="Aniket Abhishek Soni — Senior Data Engineer | IEEE Senior Member | Researcher">
-<meta property="og:description" content="Senior Data Engineer with 7+ years building enterprise-scale data pipelines and AI-powered analytics at Cognizant. Published researcher across 18+ papers, author of a book on distributed systems, international speaker, and recognized judge and mentor in the global tech community.">
+<meta property="og:description" content="Senior Data Engineer with 7+ years building enterprise-scale data pipelines and AI-powered analytics at Cognizant. Published researcher across 20+ papers, author of a book on distributed systems, international speaker, and recognized judge and mentor in the global tech community.">
 <meta property="og:url" content="https://aniketsoni.com">
 <meta property="og:site_name" content="Aniket Abhishek Soni">
 <meta property="og:image" content="https://raw.githubusercontent.com/aniketsoni1/aniketsoni1.github.io/main/assets/img/headshot_1.jpeg">
@@ -48,7 +48,7 @@
       "additionalName": "Abhishek",
       "familyName": "Soni",
       "jobTitle": "Senior Data Engineer",
-      "description": "Senior Data Engineer with 7+ years of experience designing scalable ETL pipelines, automating data workflows, and driving AI-powered analytics across cloud platforms at Cognizant Technology Solutions. Published researcher with 18+ peer-reviewed papers in AI, data engineering, and geospatial analytics, including a book on distributed systems. International speaker, judge at MIT, SIIA Neal Awards, Globee Awards, and IEEE conferences, and recipient of the AFCEA 40 Under Forty Award and Channel Co. Computing Rising Stars 30. Mentor to aspiring engineers through FEA India, ENGin Ukraine, and TopMate.io.",
+      "description": "Senior Data Engineer with 7+ years of experience designing scalable ETL pipelines, automating data workflows, and driving AI-powered analytics across cloud platforms at Cognizant Technology Solutions. Published researcher with 20+ peer-reviewed papers in AI, data engineering, and geospatial analytics, including a book on distributed systems. International speaker, judge at MIT, SIIA Neal Awards, Globee Awards, and IEEE conferences, and recipient of the AFCEA 40 Under Forty Award and Channel Co. Computing Rising Stars 30. Mentor to aspiring engineers through FEA India, ENGin Ukraine, and TopMate.io.",
       "url": "https://aniketsoni.com",
       "image": {
         "@type": "ImageObject",
@@ -176,6 +176,8 @@
         "https://scholar.google.com/citations?user=Rtn7hFAAAAAJ&hl=en",
         "https://orcid.org/0009-0001-6312-2967",
         "https://www.researchgate.net/profile/Aniket-Abhishek-Soni",
+        "https://www.semanticscholar.org/author/Aniket-Abhishek-Soni/2352272973",
+        "https://medium.com/@aniketsoni1",
         "https://aniketsoni.com"
       ]
     },
@@ -255,6 +257,8 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Plus+Jakarta+Sans:ital,wght@0,300;0,400;0,500;0,600;1,300&family=JetBrains+Mono:wght@300;400;500&display=swap" rel="stylesheet">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/gsap.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/ScrollTrigger.min.js"></script>
 
 <style>
 /* ═══════════════════════════════════════════
@@ -1548,6 +1552,138 @@ footer{border-top:1px solid var(--border);padding:2.5rem 3rem;background:var(--s
   .footer-grid{grid-template-columns:1fr;gap:1.5rem}
   footer{padding:2rem 1.5rem}
 }
+
+/* ═══ FEATURE 1 — GSAP PINNED TIMELINE ═══ */
+#experience{padding-bottom:0;padding-top:0}
+.exp-gsap-wrap{
+  display:grid;grid-template-columns:1fr 1fr;gap:3rem;
+  min-height:100vh;padding:6rem 3rem;
+  max-width:1400px;margin:0 auto;align-items:start;
+}
+.exp-terminal{
+  position:sticky;top:6rem;background:#080808;
+  border:1px solid var(--border);border-radius:8px;overflow:hidden;
+  box-shadow:0 20px 60px rgba(0,0,0,0.6);
+}
+.exp-terminal-bar{
+  background:#151515;padding:0.75rem 1rem;
+  display:flex;align-items:center;gap:0.5rem;
+  border-bottom:1px solid var(--border);
+}
+.tbar-dot{width:12px;height:12px;border-radius:50%;flex-shrink:0}
+.tbar-path{font-family:'JetBrains Mono',monospace;font-size:0.62rem;color:var(--muted);margin-left:0.3rem}
+.exp-terminal-body{padding:1.5rem;min-height:300px}
+.t-line{font-family:'JetBrains Mono',monospace;font-size:0.73rem;line-height:1.9;display:block}
+.t-prompt{color:var(--lime)}.t-cmd{color:var(--blue)}
+.t-out{color:#666;margin-left:1rem;display:block;transition:color 0.3s}
+.t-out.tl-active-out{color:var(--lime)}
+.t-cursor{display:inline-block;width:8px;height:14px;background:var(--lime);animation:tblink 1s infinite;vertical-align:middle;margin-left:2px}
+@keyframes tblink{0%,100%{opacity:1}50%{opacity:0}}
+.exp-stages{display:flex;flex-direction:column;gap:1.5rem;padding-top:1rem}
+.exp-stage{
+  background:var(--card-bg);border:1px solid var(--border);
+  border-left:3px solid var(--border2);border-radius:6px;padding:1.6rem;
+  opacity:0.2;transform:translateY(18px);
+  transition:opacity 0.55s ease,transform 0.55s ease,border-left-color 0.4s;
+}
+.exp-stage.tl-active{opacity:1;transform:translateY(0);border-left-color:var(--lime)}
+.exp-stage.tl-past{opacity:0.4;transform:translateY(0);border-left-color:var(--muted2)}
+.s-period{font-family:'JetBrains Mono',monospace;font-size:0.62rem;color:var(--lime);letter-spacing:0.1em;margin-bottom:0.4rem}
+.s-co{font-family:'Bebas Neue',sans-serif;font-size:1.5rem;letter-spacing:0.04em;margin-bottom:0.15rem}
+.s-role{font-size:0.75rem;color:var(--muted);margin-bottom:0.75rem;font-style:italic}
+.s-bullets{display:flex;flex-direction:column;gap:0.4rem}
+.s-bullet{font-size:0.78rem;color:#888;display:flex;gap:0.5rem;align-items:flex-start;line-height:1.5}
+.s-bullet::before{content:'▸';color:var(--lime);font-size:0.65rem;flex-shrink:0;margin-top:0.15rem}
+.s-metric{color:var(--lime);font-weight:500;background:var(--lime-low);padding:0 0.25rem;border-radius:2px}
+.s-tags{display:flex;flex-wrap:wrap;gap:0.35rem;margin-top:1rem}
+.s-tag{font-family:'JetBrains Mono',monospace;font-size:0.57rem;padding:0.18rem 0.45rem;border:1px solid var(--border2);border-radius:100px;color:var(--muted)}
+@media(max-width:900px){.exp-gsap-wrap{grid-template-columns:1fr;padding:4rem 1.5rem}.exp-terminal{position:static;margin-bottom:2rem}}
+
+/* ═══ FEATURE 2 — LIVE GITHUB REPOS ═══ */
+.gh-live-strip{display:inline-flex;align-items:center;gap:0.4rem;font-family:'JetBrains Mono',monospace;font-size:0.6rem;color:var(--green);border:1px solid rgba(0,229,160,0.3);padding:0.25rem 0.7rem;border-radius:100px;margin-bottom:1.5rem}
+.gh-live-dot{width:5px;height:5px;border-radius:50%;background:var(--green);animation:blink 1.5s infinite;flex-shrink:0}
+.gh-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:1rem}
+.gh-card{background:var(--card-bg);border:1px solid var(--border);border-radius:6px;padding:1.3rem;transition:all 0.25s}
+.gh-card:hover{border-color:var(--lime-line);transform:translateY(-3px)}
+.gh-head{display:flex;align-items:center;gap:0.5rem;margin-bottom:0.5rem}
+.gh-repo-icon{color:var(--lime);font-size:0.85rem;flex-shrink:0}
+.gh-repo-name{font-family:'JetBrains Mono',monospace;font-size:0.73rem;color:var(--lime);text-decoration:none;font-weight:500;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.gh-repo-name:hover{text-decoration:underline}
+.gh-badge{font-family:'JetBrains Mono',monospace;font-size:0.55rem;border:1px solid var(--border2);padding:0.1rem 0.35rem;border-radius:100px;color:var(--muted2);margin-left:auto;flex-shrink:0}
+.gh-desc{font-size:0.76rem;color:#888;line-height:1.5;margin-bottom:0.9rem;min-height:2.2rem}
+.gh-foot{display:flex;align-items:center;gap:0.8rem;flex-wrap:wrap}
+.gh-lang{display:flex;align-items:center;gap:0.3rem;font-family:'JetBrains Mono',monospace;font-size:0.63rem;color:var(--muted)}
+.gh-lang-dot{width:9px;height:9px;border-radius:50%;flex-shrink:0}
+.gh-stat{font-family:'JetBrains Mono',monospace;font-size:0.63rem;color:var(--muted)}
+.gh-updated{font-family:'JetBrains Mono',monospace;font-size:0.58rem;color:var(--muted2);margin-left:auto}
+.gh-loading{display:flex;align-items:center;gap:0.8rem;font-family:'JetBrains Mono',monospace;font-size:0.72rem;color:var(--muted);grid-column:1/-1;padding:2rem 0}
+.gh-spinner{width:16px;height:16px;border:2px solid var(--border2);border-top-color:var(--lime);border-radius:50%;animation:spin 0.8s linear infinite;flex-shrink:0}
+@keyframes spin{to{transform:rotate(360deg)}}
+@media(max-width:860px){.gh-grid{grid-template-columns:1fr}}
+@media(max-width:1024px){.gh-grid{grid-template-columns:1fr 1fr}}
+
+/* ═══ FEATURE 3 — LOGO MARQUEE ═══ */
+.marquee-section{border-top:1px solid var(--border);border-bottom:1px solid var(--border);overflow:hidden;background:var(--surface)}
+.marquee-track{display:flex;gap:0;animation:marquee-scroll 30s linear infinite;white-space:nowrap;width:max-content}
+.marquee-track:hover{animation-play-state:paused}
+@keyframes marquee-scroll{from{transform:translateX(0)}to{transform:translateX(-50%)}}
+.mq-item{display:inline-flex;align-items:center;gap:0.6rem;padding:0.8rem 2rem;border-right:1px solid var(--border);font-family:'JetBrains Mono',monospace;font-size:0.65rem;color:var(--muted);letter-spacing:0.05em;flex-shrink:0;transition:color 0.2s}
+.mq-item:hover{color:var(--text)}
+.mq-name{font-family:'Bebas Neue',sans-serif;font-size:0.85rem;letter-spacing:0.08em}
+.mq-sub{font-size:0.55rem;color:var(--muted2)}
+
+/* ═══ FEATURE 5 — STACKED PHOTO WINDOWS ═══ */
+.photo-stack-wrap{position:relative;width:260px;height:295px;flex-shrink:0}
+.photo-win{position:absolute;width:208px;background:#0e0e0e;border-radius:6px;overflow:hidden;box-shadow:0 15px 40px rgba(0,0,0,0.5);border:1px solid var(--border);transition:transform 0.45s cubic-bezier(0.34,1.56,0.64,1),box-shadow 0.45s}
+.photo-win:nth-child(1){top:0;left:0;transform:rotate(-5deg);z-index:3}
+.photo-win:nth-child(2){top:33px;left:38px;transform:rotate(3deg);z-index:2}
+.photo-win:nth-child(3){top:66px;left:19px;transform:rotate(-1.5deg);z-index:1}
+.photo-stack-wrap:hover .photo-win:nth-child(1){transform:rotate(-7deg) translateY(-12px);box-shadow:0 25px 50px rgba(0,0,0,0.6)}
+.photo-stack-wrap:hover .photo-win:nth-child(2){transform:rotate(5deg) translateY(-6px) translateX(12px)}
+.photo-stack-wrap:hover .photo-win:nth-child(3){transform:rotate(-2deg) translateY(4px)}
+.pwin-bar{background:#181818;padding:0.45rem 0.7rem;display:flex;align-items:center;gap:0.35rem;border-bottom:1px solid var(--border)}
+.pwin-dot{width:10px;height:10px;border-radius:50%;flex-shrink:0}
+.pwin-img{width:100%;height:152px;object-fit:cover;object-position:center top;display:block;background:var(--card-bg)}
+[data-theme="light"] .photo-win{background:#f0f0ee;border-color:var(--border)}
+[data-theme="light"] .pwin-bar{background:#e0e0de;border-color:var(--border)}
+
+/* ═══ FEATURE 6 — PRE-FILLED CONTACT FORM ═══ */
+.contact-form-wrap{max-width:520px;margin:0 auto 2.5rem;background:var(--card-bg);border:1px solid var(--border);border-radius:8px;padding:2rem}
+.cf-group{margin-bottom:1.1rem}
+.cf-label{font-family:'JetBrains Mono',monospace;font-size:0.6rem;letter-spacing:0.12em;text-transform:uppercase;color:var(--muted);display:block;margin-bottom:0.4rem}
+.cf-select,.cf-textarea,.cf-input{width:100%;background:rgba(0,0,0,0.3);border:1px solid var(--border2);border-radius:4px;padding:0.65rem 0.85rem;font-family:'Plus Jakarta Sans',sans-serif;font-size:0.82rem;color:var(--text);outline:none;transition:border-color 0.2s}
+.cf-select:focus,.cf-textarea:focus,.cf-input:focus{border-color:var(--lime)}
+.cf-select{cursor:pointer;appearance:none;background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='10' height='10' viewBox='0 0 10 10'%3E%3Cpath fill='%23666' d='M5 7L0 2h10z'/%3E%3C/svg%3E");background-repeat:no-repeat;background-position:right 0.9rem center;background-color:rgba(0,0,0,0.3);padding-right:2.2rem}
+.cf-select option{background:#111;color:var(--text)}
+.cf-textarea{min-height:110px;resize:vertical;line-height:1.6}
+.cf-hint{font-family:'JetBrains Mono',monospace;font-size:0.58rem;color:var(--lime);margin-top:0.25rem;min-height:1em;letter-spacing:0.04em}
+.cf-submit{width:100%;font-family:'JetBrains Mono',monospace;font-size:0.7rem;letter-spacing:0.12em;text-transform:uppercase;padding:0.75rem;background:var(--lime);color:#fff;border:none;border-radius:4px;cursor:pointer;font-weight:500;transition:background 0.2s}
+.cf-submit:hover{background:var(--lime-dark)}
+[data-theme="light"] .cf-select,[data-theme="light"] .cf-input,[data-theme="light"] .cf-textarea{background:rgba(255,255,255,0.8);color:var(--text)}
+
+/* ═══ FEATURE 9 — MEDIUM IN PRESS ═══ */
+.press-subsection-label{font-family:'JetBrains Mono',monospace;font-size:0.6rem;letter-spacing:0.18em;text-transform:uppercase;display:flex;align-items:center;gap:0.4rem;margin-bottom:1rem;margin-top:2.5rem}
+.press-subsection-label::before{content:'//'}
+.press-subsection-label.press-col{color:var(--blue)}.press-subsection-label.medium-col{color:var(--lime)}
+.press-medium-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:1rem}
+.press-card-medium{background:var(--card-bg);border:1px solid var(--border);border-radius:6px;padding:1.4rem;display:flex;flex-direction:column;text-decoration:none;color:inherit;transition:all 0.25s;position:relative;overflow:hidden}
+.press-card-medium::before{content:'';position:absolute;top:0;left:0;right:0;height:2px;background:linear-gradient(90deg,var(--lime),var(--green));transform:scaleX(0);transform-origin:left;transition:transform 0.35s}
+.press-card-medium:hover{border-color:var(--lime-line);transform:translateY(-3px)}
+.press-card-medium:hover::before{transform:scaleX(1)}
+.medium-pub{display:flex;align-items:center;gap:0.5rem;margin-bottom:0.7rem}
+.medium-monogram{width:28px;height:28px;border-radius:4px;background:var(--lime-low);display:flex;align-items:center;justify-content:center;font-family:'Bebas Neue',sans-serif;font-size:0.75rem;color:var(--lime);flex-shrink:0}
+.medium-pub-name{font-family:'JetBrains Mono',monospace;font-size:0.62rem;letter-spacing:0.08em;text-transform:uppercase;color:var(--muted)}
+.medium-pub-type{font-family:'JetBrains Mono',monospace;font-size:0.55rem;border:1px solid var(--border2);padding:0.12rem 0.4rem;border-radius:100px;color:var(--muted2);margin-left:auto}
+.medium-title{font-size:0.88rem;font-weight:500;color:var(--text);line-height:1.4;margin-bottom:0.5rem}
+.medium-desc{font-size:0.76rem;color:#777;line-height:1.5;flex:1}
+.medium-meta{font-family:'JetBrains Mono',monospace;font-size:0.58rem;color:var(--muted2);margin-top:0.8rem;display:flex;justify-content:space-between;align-items:center}
+.medium-cta{color:var(--lime);font-size:0.62rem}
+@media(max-width:860px){.press-medium-grid{grid-template-columns:1fr}}
+@media(max-width:1024px){.press-medium-grid{grid-template-columns:1fr 1fr}}
+
+/* ═══ FEATURE 10 — BOOK COVER IMAGE ═══ */
+.book-cover-img{width:85px;min-width:85px;height:118px;border-radius:4px;overflow:hidden;box-shadow:0 8px 24px rgba(0,0,0,0.5);flex-shrink:0}
+.book-cover-img img{width:100%;height:100%;object-fit:cover;display:block}
 </style>
 <style>
 /* pub rows — clickable highlight */
@@ -1606,7 +1742,7 @@ tr.pub-row[data-href]:hover .pub-doi { color: var(--lime); }
     </p>
 
     <p class="hero-bio">
-      Senior Data Engineer with 7+ years building enterprise-scale ETL pipelines, AI-driven analytics platforms, and cloud-native infrastructure at Cognizant. Researcher with 18+ published papers in AI, data engineering, and geospatial analytics — including a book on distributed systems. Beyond engineering, Aniket mentors aspiring technologists, contributes to climate tech through geospatial modeling, and is recognized as a speaker, judge, and thought leader at global AI and data events.
+      Senior Data Engineer with 7+ years building enterprise-scale ETL pipelines, AI-driven analytics platforms, and cloud-native infrastructure at Cognizant. Researcher with 20+ published papers in AI, data engineering, and geospatial analytics — including a book on distributed systems. Beyond engineering, Aniket mentors aspiring technologists, contributes to climate tech through geospatial modeling, and is recognized as a speaker, judge, and thought leader at global AI and data events.
     </p>
 
     <div class="hero-cta">
@@ -1636,12 +1772,12 @@ tr.pub-row[data-href]:hover .pub-doi { color: var(--lime); }
       <div class="status-row">
         <div class="status-dot" aria-hidden="true"></div>
         <span class="status-text">Published Papers</span>
-        <span class="status-val">18+ peer-reviewed</span>
+        <span class="status-val">20+ peer-reviewed</span>
       </div>
       <div class="status-row">
         <div class="status-dot" aria-hidden="true"></div>
-        <span class="status-text">Scholar Citations</span>
-        <span class="status-val">110+ citations</span>
+        <span class="status-text">Citations</span>
+        <span class="status-val">138+ (RG) · 109 (Scholar)</span>
       </div>
     </div>
 
@@ -1680,7 +1816,7 @@ tr.pub-row[data-href]:hover .pub-doi { color: var(--lime); }
       <div class="current-items">
         <div class="current-item">New: AI-Enabled Serverless Engineering — Technical Press, 2026 (co-authored)</div>
         <div class="current-item">Book chapter — Wiley-Scrivener, Digital Twins &amp; GenAI (in press)</div>
-        <div class="current-item">110+ Google Scholar citations</div>
+        <div class="current-item">138+ citations (RG) · 109 (Scholar) · h-index: 4</div>
       </div>
     </div>
 
@@ -1695,7 +1831,7 @@ tr.pub-row[data-href]:hover .pub-doi { color: var(--lime); }
         <span class="ticker-item"><strong>Book</strong>BP International 2025</span>
         <span class="ticker-item"><strong>Judge</strong>MLH Hackathons 2025</span>
         <span class="ticker-item"><strong>Published</strong>The AI Journal · Feb 2026</span>
-        <span class="ticker-item"><strong>Citations</strong>110+ Google Scholar</span>
+        <span class="ticker-item"><strong>Citations</strong>138+ cross-indexed</span>
         <span class="ticker-item"><strong>AFCEA</strong>40 Under Forty 2024</span>
         <span class="ticker-item"><strong>Rising Stars 30</strong>Channel Co. 2025</span>
         <span class="ticker-item"><strong>Speaker</strong>Google DevFest Bronx 2023</span>
@@ -1704,18 +1840,54 @@ tr.pub-row[data-href]:hover .pub-doi { color: var(--lime); }
         <span class="ticker-item"><strong>Book</strong>BP International 2025</span>
         <span class="ticker-item"><strong>Judge</strong>MLH Hackathons 2025</span>
         <span class="ticker-item"><strong>Published</strong>The AI Journal · Feb 2026</span>
-        <span class="ticker-item"><strong>Citations</strong>110+ Google Scholar</span>
+        <span class="ticker-item"><strong>Citations</strong>138+ cross-indexed</span>
       </div>
     </div>
   </div>
 </section>
 
+<!-- ════════════════════ MARQUEE ════════════════════ -->
+<div class="marquee-section" aria-hidden="true">
+  <div class="marquee-track">
+    <div class="mq-item"><span>📰</span><div><div class="mq-name">The AI Journal</div><div class="mq-sub">Interview · Feb 2026</div></div></div>
+    <div class="mq-item"><span>🏆</span><div><div class="mq-name">AFCEA</div><div class="mq-sub">40 Under Forty · 2024</div></div></div>
+    <div class="mq-item"><span>🎓</span><div><div class="mq-name">MIT 100k Pitch</div><div class="mq-sub">Competition Judge</div></div></div>
+    <div class="mq-item"><span>🎓</span><div><div class="mq-name">MIT 100k Accelerate</div><div class="mq-sub">Competition Judge</div></div></div>
+    <div class="mq-item"><span>🎓</span><div><div class="mq-name">MIT 100k Launch</div><div class="mq-sub">Competition Judge</div></div></div>
+    <div class="mq-item"><span>📡</span><div><div class="mq-name">IEEE</div><div class="mq-sub">Senior Member · SMIEEE</div></div></div>
+    <div class="mq-item"><span>⭐</span><div><div class="mq-name">Rising Stars 30</div><div class="mq-sub">Channel Co. · 2025</div></div></div>
+    <div class="mq-item"><span>🖥️</span><div><div class="mq-name">All Tech Magazine</div><div class="mq-sub">Feature · 2026</div></div></div>
+    <div class="mq-item"><span>⚡</span><div><div class="mq-name">MLH Hackathons</div><div class="mq-sub">Judge · 2025</div></div></div>
+    <div class="mq-item"><span>📊</span><div><div class="mq-name">SIIA Neal Awards</div><div class="mq-sub">Judge · 2024–26</div></div></div>
+    <div class="mq-item"><span>🌍</span><div><div class="mq-name">APM Digest</div><div class="mq-sub">Feature · May 2026</div></div></div>
+    <div class="mq-item"><span>🔬</span><div><div class="mq-name">Google DevFest</div><div class="mq-sub">Speaker · Bronx 2023</div></div></div>
+    <div class="mq-item"><span>📖</span><div><div class="mq-name">BP International</div><div class="mq-sub">Published Book · 2025</div></div></div>
+    <div class="mq-item"><span>📖</span><div><div class="mq-name">Technical Press</div><div class="mq-sub">Published Book · 2026</div></div></div>
+    <!-- duplicate set for seamless loop -->
+    <div class="mq-item"><span>📰</span><div><div class="mq-name">The AI Journal</div><div class="mq-sub">Interview · Feb 2026</div></div></div>
+    <div class="mq-item"><span>🏆</span><div><div class="mq-name">AFCEA</div><div class="mq-sub">40 Under Forty · 2024</div></div></div>
+    <div class="mq-item"><span>🎓</span><div><div class="mq-name">MIT 100k Pitch</div><div class="mq-sub">Competition Judge</div></div></div>
+    <div class="mq-item"><span>🎓</span><div><div class="mq-name">MIT 100k Accelerate</div><div class="mq-sub">Competition Judge</div></div></div>
+    <div class="mq-item"><span>🎓</span><div><div class="mq-name">MIT 100k Launch</div><div class="mq-sub">Competition Judge</div></div></div>
+    <div class="mq-item"><span>📡</span><div><div class="mq-name">IEEE</div><div class="mq-sub">Senior Member · SMIEEE</div></div></div>
+    <div class="mq-item"><span>⭐</span><div><div class="mq-name">Rising Stars 30</div><div class="mq-sub">Channel Co. · 2025</div></div></div>
+    <div class="mq-item"><span>🖥️</span><div><div class="mq-name">All Tech Magazine</div><div class="mq-sub">Feature · 2026</div></div></div>
+    <div class="mq-item"><span>⚡</span><div><div class="mq-name">MLH Hackathons</div><div class="mq-sub">Judge · 2025</div></div></div>
+    <div class="mq-item"><span>📊</span><div><div class="mq-name">SIIA Neal Awards</div><div class="mq-sub">Judge · 2024–26</div></div></div>
+    <div class="mq-item"><span>🌍</span><div><div class="mq-name">APM Digest</div><div class="mq-sub">Feature · May 2026</div></div></div>
+    <div class="mq-item"><span>🔬</span><div><div class="mq-name">Google DevFest</div><div class="mq-sub">Speaker · Bronx 2023</div></div></div>
+    <div class="mq-item"><span>📖</span><div><div class="mq-name">BP International</div><div class="mq-sub">Published Book · 2025</div></div></div>
+    <div class="mq-item"><span>📖</span><div><div class="mq-name">Technical Press</div><div class="mq-sub">Published Book · 2026</div></div></div>
+  </div>
+</div>
+
 <!-- ════════════════════ IMPACT STRIP ════════════════════ -->
 <div class="impact-strip" aria-label="Key impact metrics">
   <div class="impact-stat"><span class="impact-num" data-counter="7">0</span><span class="impact-label">Years Experience</span></div>
   <div class="impact-stat"><span class="impact-num">10M+</span><span class="impact-label">Records / Day</span></div>
-  <div class="impact-stat"><span class="impact-num">18+</span><span class="impact-label">Papers Published</span></div>
-  <div class="impact-stat"><span class="impact-num">110+</span><span class="impact-label">Scholar Citations</span></div>
+  <div class="impact-stat"><span class="impact-num">20+</span><span class="impact-label">Papers Published</span></div>
+  <div class="impact-stat"><span class="impact-num">138+</span><span class="impact-label">Citations (RG)</span></div>
+  <div class="impact-stat"><span class="impact-num">4</span><span class="impact-label">h-index</span></div>
   <div class="impact-stat"><span class="impact-num">3+</span><span class="impact-label">Press Features</span></div>
   <div class="impact-stat"><span class="impact-num">9+</span><span class="impact-label">Judging Roles</span></div>
   <div class="impact-stat"><span class="impact-num">150M+</span><span class="impact-label">Climate Data Points</span></div>
@@ -1729,13 +1901,38 @@ tr.pub-row[data-href]:hover .pub-doi { color: var(--lime); }
     <div class="about-grid">
       <div class="about-text">
         <p>Aniket Abhishek Soni is a <strong>Senior Data Engineer</strong> based in New York with over seven years of experience designing enterprise-scale data infrastructure, AI-powered analytics systems, and cloud-native pipelines. At Cognizant Technology Solutions, he has architected solutions processing over 10 million records per day across regulated industries — building the kind of reliable, auditable, and high-performance data foundations that make AI strategies viable in the real world.</p>
-        <p>Beyond his engineering role, Aniket is an active <strong>researcher and published author</strong>. His body of work spans 18+ peer-reviewed papers across AI, data engineering, distributed systems, and geospatial analytics — including a sole-authored book published by BP International and a forthcoming book chapter with Wiley-Scrivener. His research has been cited 110+ times and is indexed on Google Scholar, ORCiD, and ResearchGate. He has presented at international conferences across Scotland, Bahrain, and online venues, contributing findings that bridge academic rigor with practical engineering impact.</p>
+        <p>Beyond his engineering role, Aniket is an active <strong>researcher and published author</strong>. His body of work spans 20+ peer-reviewed papers across AI, data engineering, distributed systems, and geospatial analytics — including a sole-authored book published by BP International and a forthcoming book chapter with Wiley-Scrivener. His research has been cited 138+ times and is indexed on Google Scholar, ORCiD, and ResearchGate. He has presented at international conferences across Scotland, Bahrain, and online venues, contributing findings that bridge academic rigor with practical engineering impact.</p>
         <p>Aniket also brings a distinctive lens through his work with <strong>climate technology</strong>. As a Research Analyst at Climate Change Xplorers, he analyzed over 150 million global data points to identify optimal locations for IoT weather station deployment — a project that combined geospatial modeling, machine learning, and big data integration in service of global climate action.</p>
         <p>Recognized internationally for sustained contributions to the technology community, Aniket serves as a <strong>judge, peer reviewer, speaker, and mentor</strong>. He has evaluated work at MIT, IEEE conferences, the SIIA Neal Awards, and Major League Hacking — roles that place him among the small group of professionals called upon to assess the work of their peers. He mentors emerging engineers across three continents through FEA India, ENGin Ukraine, and TopMate.io.</p>
       </div>
       <div class="about-sidebar">
-        <div class="about-photos">
-          <img src="https://raw.githubusercontent.com/aniketsoni1/aniketsoni1.github.io/main/assets/img/headshot_1.jpeg" alt="Aniket Abhishek Soni" class="about-photo about-photo--active" loading="lazy">
+        <div class="about-photos-new">
+          <div class="photo-stack-wrap">
+            <div class="photo-win">
+              <div class="pwin-bar">
+                <div class="pwin-dot" style="background:#ff5f57"></div>
+                <div class="pwin-dot" style="background:#febc2e"></div>
+                <div class="pwin-dot" style="background:#28c840"></div>
+              </div>
+              <img class="pwin-img" src="https://raw.githubusercontent.com/aniketsoni1/aniketsoni1.github.io/main/assets/img/headshot_1.jpeg" alt="Aniket Abhishek Soni" loading="lazy">
+            </div>
+            <div class="photo-win">
+              <div class="pwin-bar">
+                <div class="pwin-dot" style="background:#ff5f57"></div>
+                <div class="pwin-dot" style="background:#febc2e"></div>
+                <div class="pwin-dot" style="background:#28c840"></div>
+              </div>
+              <img class="pwin-img" src="https://raw.githubusercontent.com/aniketsoni1/aniketsoni1.github.io/main/assets/img/headshot_2.JPG" alt="Aniket Abhishek Soni" loading="lazy">
+            </div>
+            <div class="photo-win">
+              <div class="pwin-bar">
+                <div class="pwin-dot" style="background:#ff5f57"></div>
+                <div class="pwin-dot" style="background:#febc2e"></div>
+                <div class="pwin-dot" style="background:#28c840"></div>
+              </div>
+              <img class="pwin-img" src="https://raw.githubusercontent.com/aniketsoni1/aniketsoni1.github.io/main/assets/img/headshot_3.JPG" alt="Aniket Abhishek Soni" loading="lazy">
+            </div>
+          </div>
         </div>
         <div class="expertise-card">
           <div class="expertise-card-label">Areas of Expertise</div>
@@ -1851,123 +2048,104 @@ tr.pub-row[data-href]:hover .pub-doi { color: var(--lime); }
 
 <!-- ════════════════════ EXPERIENCE ════════════════════ -->
 <section id="experience" class="section" aria-label="Professional experience">
-  <div class="section-inner" style="max-width:100%">
-    <div style="padding:0 0 1.5rem;max-width:1200px;margin:0 auto">
-      <div class="sec-eyebrow">Career History</div>
-      <h2 class="sec-title" style="margin-bottom:0">Experience</h2>
-    </div>
+  <div style="padding:3rem 3rem 0;max-width:1400px;margin:0 auto">
+    <div class="sec-eyebrow">Career History</div>
+    <h2 class="sec-title" style="margin-bottom:0">Experience</h2>
   </div>
-  <div class="scroll-hint" aria-label="Scroll horizontally to see more cards">Scroll horizontally to explore</div>
-  <div class="exp-scroll-outer" role="list" aria-label="Work history cards" id="exp-scroll">
-
-    <div class="exp-scroll-inner">
-      <article class="exp-card" role="listitem">
-        <div class="exp-period">Mar 2021 — Present</div>
-        <div class="exp-company">Cognizant</div>
-        <div class="exp-role">Senior Data Engineer</div>
-        <div class="exp-location">📍 New York, US · Full-time</div>
-        <div class="exp-divider"></div>
-        <div class="exp-bullets">
-          <div class="exp-bullet">Designed and automated high-volume ETL pipelines processing <span class="exp-metric">10M+ records/day</span> from custodial, trading, and reference systems</div>
-          <div class="exp-bullet">Built KPI dashboards and data models improving accuracy by <span class="exp-metric">30%</span> and reducing reporting errors by <span class="exp-metric">37%</span></div>
-          <div class="exp-bullet">Developed Slack + Databricks alerting system cutting incident resolution time by <span class="exp-metric">60%</span></div>
-          <div class="exp-bullet">Implemented governance and validation frameworks, improving onboarding efficiency by <span class="exp-metric">30%</span></div>
-          <div class="exp-bullet">Analyzed healthcare datasets in Databricks; enhanced Power BI dashboards for clinical teams</div>
-          <div class="exp-bullet">Built SQL-based reconciliation frameworks improving accuracy by <span class="exp-metric">~30%</span></div>
-          <div class="exp-bullet">Mentored junior engineers, reducing onboarding time by <span class="exp-metric">30%</span></div>
-        </div>
-        <div class="exp-tags">
-          <span class="exp-tag">Databricks</span><span class="exp-tag">Snowflake</span><span class="exp-tag">PySpark</span>
-          <span class="exp-tag">Python</span><span class="exp-tag">Power BI</span><span class="exp-tag">SQL</span>
-          <span class="exp-tag">GitLab</span><span class="exp-tag">MongoDB</span>
-        </div>
-      </article>
-
-      <article class="exp-card" role="listitem">
-        <div class="exp-period">Sep 2020 — Mar 2021</div>
-        <div class="exp-company">Climate Change Xplorers</div>
-        <div class="exp-role">Research Analyst</div>
-        <div class="exp-location">📍 New York, US · Part-time</div>
-        <div class="exp-divider"></div>
-        <div class="exp-bullets">
-          <div class="exp-bullet">Built ETL pipelines ingesting <span class="exp-metric">~10K records/day</span> from NOAA, FSI, MADIS, IBM Watson and GeoNames</div>
-          <div class="exp-bullet">Analyzed <span class="exp-metric">150M+ data points</span> to identify 151 optimal global IoT weather station locations</div>
-          <div class="exp-bullet">Designed interactive geospatial visualizations boosting performance by <span class="exp-metric">70%</span> vs. static plots</div>
-          <div class="exp-bullet">Built a statistical FSI model across 8 categories for global weather station deployment optimization</div>
-          <div class="exp-bullet">Published research findings contributing to global climate monitoring strategies</div>
-        </div>
-        <div class="exp-tags">
-          <span class="exp-tag">Python</span><span class="exp-tag">NOAA/FSI</span>
-          <span class="exp-tag">Folium</span><span class="exp-tag">Geospatial</span><span class="exp-tag">Pandas</span>
-        </div>
-      </article>
-
-      <article class="exp-card" role="listitem">
-        <div class="exp-period">Jul 2020 — Sep 2020</div>
-        <div class="exp-company">Converseon.AI</div>
-        <div class="exp-role">Software Engineer Intern</div>
-        <div class="exp-location">📍 New York, US · Part-time</div>
-        <div class="exp-divider"></div>
-        <div class="exp-bullets">
-          <div class="exp-bullet">Resolved <span class="exp-metric">7+ JIRA tickets/week</span> including critical backend bugs in a Python-Django computer vision platform</div>
-          <div class="exp-bullet">Built ETL cron-jobs to ingest Twitter API and YouTube API data into ElasticSearch for Tableau analysis</div>
-          <div class="exp-bullet">Optimized PostgreSQL queries improving page load times on 2 critical pages</div>
-          <div class="exp-bullet">Created client FAQ documentation saving <span class="exp-metric">4 dev hours/week</span></div>
-        </div>
-        <div class="exp-tags">
-          <span class="exp-tag">Python</span><span class="exp-tag">Django</span>
-          <span class="exp-tag">PostgreSQL</span><span class="exp-tag">ElasticSearch</span><span class="exp-tag">Tableau</span>
-        </div>
-      </article>
-
-      <article class="exp-card" role="listitem">
-        <div class="exp-period">Nov 2018 — May 2020</div>
-        <div class="exp-company">Southern Arkansas Univ.</div>
-        <div class="exp-role">Graduate & Teaching Assistant</div>
-        <div class="exp-location">📍 Magnolia, AR, US</div>
-        <div class="exp-divider"></div>
-        <div class="exp-bullets">
-          <div class="exp-bullet">Maintained Honors College web server and developed academic webpages for operational support</div>
-          <div class="exp-bullet">Managed library inventory, student records, and database troubleshooting at Magale Library</div>
-          <div class="exp-bullet">Provided front-line IT support to students and faculty</div>
-          <div class="exp-bullet">Assisted in student recruiting, records management, and faculty meeting preparation</div>
-        </div>
-        <div class="exp-tags">
-          <span class="exp-tag">Web Dev</span><span class="exp-tag">DB Admin</span><span class="exp-tag">IT Support</span>
-        </div>
-      </article>
-
-      <article class="exp-card" role="listitem">
-        <div class="exp-period">Jan 2018 — Jun 2018</div>
-        <div class="exp-company">Alok Enterprise</div>
-        <div class="exp-role">Computer Programmer & Data Analyst</div>
-        <div class="exp-location">📍 Ahmedabad, India · Full-time</div>
-        <div class="exp-divider"></div>
-        <div class="exp-bullets">
-          <div class="exp-bullet">Developed and maintained .NET applications for business operations</div>
-          <div class="exp-bullet">Analyzed sales, inventory, and service data in Excel to improve decision-making</div>
-          <div class="exp-bullet">Automated routine reporting and data entry tasks, improving accuracy and reducing manual workload</div>
-          <div class="exp-bullet">Tested in-house apps with cross-functional teams for stable releases</div>
-        </div>
-        <div class="exp-tags">
-          <span class="exp-tag">.NET</span><span class="exp-tag">ASP.NET</span><span class="exp-tag">MySQL</span>
-          <span class="exp-tag">Excel</span><span class="exp-tag">HTML/CSS</span>
-        </div>
-      </article>
+  <div class="exp-gsap-wrap">
+    <!-- Sticky terminal -->
+    <div class="exp-terminal" id="expTerminal">
+      <div class="exp-terminal-bar">
+        <div class="tbar-dot" style="background:#ff5f57"></div>
+        <div class="tbar-dot" style="background:#febc2e"></div>
+        <div class="tbar-dot" style="background:#28c840"></div>
+        <span class="tbar-path">aniketsoni@root:~/career$</span>
+      </div>
+      <div class="exp-terminal-body">
+        <span class="t-line"><span class="t-prompt">$</span> <span class="t-cmd">load_career --all --format=timeline</span></span>
+        <span class="t-line t-out">Initializing career data...</span>
+        <span class="t-line t-out">Found 5 roles across 3 industries</span>
+        <span class="t-line t-out">Sorting by recency...</span>
+        <span class="t-line t-out" id="tl-active-line">▸ Scroll to navigate timeline</span>
+        <span class="t-line"><span class="t-cursor"></span></span>
+      </div>
     </div>
-  </div>
-  <div class="exp-dots-wrap" id="exp-dots" aria-label="Experience card position indicator">
-    <span class="exp-dot active"></span>
-    <span class="exp-dot"></span>
-    <span class="exp-dot"></span>
-    <span class="exp-dot"></span>
-    <span class="exp-dot"></span>
+    <!-- Scrollable stages -->
+    <div class="exp-stages" id="expStages">
+      <div class="exp-stage" data-cmd="load_role --id cognizant --since 2021" data-i="0">
+        <div class="s-period">Mar 2021 — Present</div>
+        <div class="s-co">Cognizant</div>
+        <div class="s-role">Senior Data Engineer · New York, US · Full-time</div>
+        <div class="s-bullets">
+          <div class="s-bullet">Designed ETL pipelines processing <span class="s-metric">10M+ records/day</span> across financial services and healthcare</div>
+          <div class="s-bullet">Improved data accuracy by <span class="s-metric">30%</span>, reduced reporting errors by <span class="s-metric">37%</span></div>
+          <div class="s-bullet">Built Slack + Databricks alerting cutting incident resolution by <span class="s-metric">60%</span></div>
+          <div class="s-bullet">Implemented governance frameworks, improving onboarding efficiency by <span class="s-metric">30%</span></div>
+          <div class="s-bullet">Mentored junior engineers, reducing onboarding time by <span class="s-metric">30%</span></div>
+        </div>
+        <div class="s-tags">
+          <span class="s-tag">Databricks</span><span class="s-tag">Snowflake</span><span class="s-tag">PySpark</span><span class="s-tag">Python</span><span class="s-tag">Power BI</span><span class="s-tag">SQL</span><span class="s-tag">MongoDB</span>
+        </div>
+      </div>
+      <div class="exp-stage" data-cmd="load_role --id climate --year 2020" data-i="1">
+        <div class="s-period">Sep 2020 — Mar 2021</div>
+        <div class="s-co">Climate Change Xplorers</div>
+        <div class="s-role">Research Analyst · New York, US · Part-time</div>
+        <div class="s-bullets">
+          <div class="s-bullet">Analyzed <span class="s-metric">150M+ data points</span> to identify 151 optimal IoT weather station locations globally</div>
+          <div class="s-bullet">Built ETL pipelines ingesting <span class="s-metric">~10K records/day</span> from NOAA, FSI, MADIS, IBM Watson</div>
+          <div class="s-bullet">Designed geospatial visualizations boosting rendering performance by <span class="s-metric">70%</span></div>
+        </div>
+        <div class="s-tags">
+          <span class="s-tag">Python</span><span class="s-tag">NOAA/FSI</span><span class="s-tag">Folium</span><span class="s-tag">Geospatial</span><span class="s-tag">Pandas</span>
+        </div>
+      </div>
+      <div class="exp-stage" data-cmd="load_role --id converseon --year 2020" data-i="2">
+        <div class="s-period">Jul 2020 — Sep 2020</div>
+        <div class="s-co">Converseon.AI</div>
+        <div class="s-role">Software Engineer Intern · New York, US</div>
+        <div class="s-bullets">
+          <div class="s-bullet">Resolved <span class="s-metric">7+ JIRA tickets/week</span> in a Python-Django computer vision platform</div>
+          <div class="s-bullet">Built ETL cron-jobs ingesting Twitter & YouTube API data into ElasticSearch</div>
+          <div class="s-bullet">Created FAQ documentation saving <span class="s-metric">4 dev hours/week</span></div>
+        </div>
+        <div class="s-tags">
+          <span class="s-tag">Python</span><span class="s-tag">Django</span><span class="s-tag">PostgreSQL</span><span class="s-tag">ElasticSearch</span>
+        </div>
+      </div>
+      <div class="exp-stage" data-cmd="load_edu --sau --msc --year 2018-2020" data-i="3">
+        <div class="s-period">Nov 2018 — May 2020</div>
+        <div class="s-co">Southern Arkansas Univ.</div>
+        <div class="s-role">Graduate & Teaching Assistant · Magnolia, AR</div>
+        <div class="s-bullets">
+          <div class="s-bullet">Maintained Honors College web server and developed academic webpages</div>
+          <div class="s-bullet">Managed library database and hardware support at Magale Library</div>
+          <div class="s-bullet">Provided front-line IT support to faculty and students</div>
+        </div>
+        <div class="s-tags"><span class="s-tag">Web Dev</span><span class="s-tag">DB Admin</span><span class="s-tag">IT Support</span></div>
+      </div>
+      <div class="exp-stage" data-cmd="load_role --id alok --year 2018" data-i="4">
+        <div class="s-period">Jan 2018 — Jun 2018</div>
+        <div class="s-co">Alok Enterprise</div>
+        <div class="s-role">Computer Programmer & Data Analyst · Ahmedabad, India</div>
+        <div class="s-bullets">
+          <div class="s-bullet">Developed .NET applications supporting day-to-day business operations</div>
+          <div class="s-bullet">Analyzed sales and inventory data in Excel to improve decision-making</div>
+          <div class="s-bullet">Automated reporting tasks, reducing manual workload</div>
+        </div>
+        <div class="s-tags"><span class="s-tag">.NET</span><span class="s-tag">MySQL</span><span class="s-tag">Excel</span><span class="s-tag">HTML/CSS</span></div>
+      </div>
+    </div>
   </div>
 </section>
 <section id="projects" class="section section-alt" aria-label="Selected projects">
   <div class="section-inner">
     <div class="sec-eyebrow">Portfolio</div>
     <h2 class="sec-title">Selected Projects</h2>
+    <div class="gh-live-strip"><span class="gh-live-dot"></span>Live from github.com/aniketsoni1</div>
+    <div class="gh-grid reveal" id="ghGrid">
+      <div class="gh-loading"><div class="gh-spinner"></div>Fetching repositories...</div>
+    </div>
     <div class="projects-masonry reveal">
 
       <article class="proj-card">
@@ -2043,7 +2221,11 @@ tr.pub-row[data-href]:hover .pub-doi { color: var(--lime); }
     <div class="sec-eyebrow">Academic Output</div>
     <h2 class="sec-title">Research & Publications</h2>
     <a href="https://doi.org/10.9734/bpi/mono/978-93-49970-00-7" target="_blank" rel="noopener noreferrer" class="book-highlight reveal">
-      <div class="book-cover" aria-hidden="true"><span class="book-spine">SCALABLE INFRA</span></div>
+      <div class="book-cover-img">
+        <img src="https://raw.githubusercontent.com/aniketsoni1/aniketsoni1.github.io/main/assets/img/book1-cover.jpg"
+             alt="Scalable Infrastructure book cover"
+             onerror="this.parentElement.innerHTML='<div style=\'width:100%;height:100%;background:linear-gradient(160deg,#003d30,#00261e);display:flex;align-items:center;justify-content:center;\'><span style=\'font-family:Bebas Neue,sans-serif;font-size:0.6rem;letter-spacing:0.2em;writing-mode:vertical-rl;transform:rotate(180deg);color:rgba(0,229,160,0.7)\'>SCALABLE INFRA</span></div>'">
+      </div>
       <div class="book-info">
         <span class="book-badge">📖 Published Book · 2025</span>
         <div class="book-title">Scalable Infrastructure: Building Reliable Distributed Systems</div>
@@ -2054,7 +2236,11 @@ tr.pub-row[data-href]:hover .pub-doi { color: var(--lime); }
     </a>
 
     <a href="https://www.thetechnicalpress.com" target="_blank" rel="noopener noreferrer" class="book-highlight reveal" style="border-color:rgba(123,97,255,0.25);background:linear-gradient(135deg,var(--card-bg),rgba(123,97,255,0.04))">
-      <div class="book-cover" aria-hidden="true" style="background:linear-gradient(160deg,#1a0050,#0d0030);border-color:rgba(123,97,255,0.25)"><span class="book-spine" style="color:rgba(180,140,255,0.8)">AI SERVERLESS</span></div>
+      <div class="book-cover-img">
+        <img src="https://raw.githubusercontent.com/aniketsoni1/aniketsoni1.github.io/main/assets/img/book2-cover.jpg"
+             alt="AI-Enabled Serverless Engineering book cover"
+             onerror="this.parentElement.innerHTML='<div style=\'width:100%;height:100%;background:linear-gradient(160deg,#1a0050,#0d0030);display:flex;align-items:center;justify-content:center;\'><span style=\'font-family:Bebas Neue,sans-serif;font-size:0.55rem;letter-spacing:0.2em;writing-mode:vertical-rl;transform:rotate(180deg);color:rgba(180,140,255,0.8)\'>AI SERVERLESS</span></div>'">
+      </div>
       <div class="book-info">
         <span class="book-badge" style="color:#a07aff;border-color:rgba(123,97,255,0.35);background:rgba(123,97,255,0.08)">📖 Published Book · 2026</span>
         <div class="book-title">AI-Enabled Serverless Engineering for Autonomous Cloud Operations</div>
@@ -2205,7 +2391,8 @@ tr.pub-row[data-href]:hover .pub-doi { color: var(--lime); }
       → Full list on
       <a href="https://scholar.google.com/citations?user=Rtn7hFAAAAAJ&hl=en" target="_blank" rel="noopener noreferrer" style="color:var(--lime);text-decoration:none">Google Scholar</a> ·
       <a href="https://orcid.org/0009-0001-6312-2967" target="_blank" rel="noopener noreferrer" style="color:var(--lime);text-decoration:none">ORCiD</a> ·
-      <a href="https://www.researchgate.net/profile/Aniket-Abhishek-Soni" target="_blank" rel="noopener noreferrer" style="color:var(--lime);text-decoration:none">ResearchGate</a>
+      <a href="https://www.researchgate.net/profile/Aniket-Abhishek-Soni" target="_blank" rel="noopener noreferrer" style="color:var(--lime);text-decoration:none">ResearchGate</a> ·
+      <a href="https://www.semanticscholar.org/author/Aniket-Abhishek-Soni/2352272973" target="_blank" rel="noopener noreferrer" style="color:var(--lime);text-decoration:none">Semantic Scholar</a>
     </div>
   </div>
 </section>
@@ -2215,6 +2402,7 @@ tr.pub-row[data-href]:hover .pub-doi { color: var(--lime); }
   <div class="section-inner">
     <div class="sec-eyebrow">Media Coverage</div>
     <h2 class="sec-title">Press & Articles</h2>
+    <div class="press-subsection-label press-col">Press Coverage</div>
     <div class="press-grid reveal">
 
       <!-- Article 1 — The AI Journal -->
@@ -2249,7 +2437,7 @@ tr.pub-row[data-href]:hover .pub-doi { color: var(--lime); }
          aria-label="Read article: Hidden Failures Behind Modern Data Systems on All Tech Magazine">
         <div class="press-img-wrap press-img-wrap--at">
           <div class="press-img-bg" aria-hidden="true"><span class="press-img-wm">AT</span></div>
-          <img src="https://raw.githubusercontent.com/aniketsoni1/aniketsoni1.github.io/main/assets/img/headshot_2.jpg"
+          <img src="https://raw.githubusercontent.com/aniketsoni1/aniketsoni1.github.io/main/assets/img/headshot_2.JPG"
                alt="Hidden Failures Behind Modern Data Systems by Aniket Soni — All Tech Magazine feature cover"
                loading="lazy" class="loaded">
         </div>
@@ -2273,7 +2461,7 @@ tr.pub-row[data-href]:hover .pub-doi { color: var(--lime); }
          aria-label="Read article: The Hidden Data Engineering Work Required to Make Enterprise AI Viable on APM Digest">
         <div class="press-img-wrap press-img-wrap--apm">
           <div class="press-img-bg" aria-hidden="true"><span class="press-img-wm">APM</span></div>
-          <img src="https://raw.githubusercontent.com/aniketsoni1/aniketsoni1.github.io/main/assets/img/headshot_3.jpg"
+          <img src="https://raw.githubusercontent.com/aniketsoni1/aniketsoni1.github.io/main/assets/img/headshot_3.JPG"
                alt="The Hidden Data Engineering Work Required to Make Enterprise AI Viable by Aniket Soni — APM Digest feature cover"
                loading="lazy" class="loaded">
         </div>
@@ -2291,10 +2479,62 @@ tr.pub-row[data-href]:hover .pub-doi { color: var(--lime); }
       </a>
 
     </div>
+
+    <div class="press-subsection-label medium-col">Writing on Medium</div>
+    <div class="press-medium-grid reveal">
+      <a href="https://medium.com/@aniketsoni1/mastering-container-workflows-with-docker" target="_blank" rel="noopener noreferrer" class="press-card-medium">
+        <div class="medium-pub">
+          <div class="medium-monogram">M</div>
+          <span class="medium-pub-name">Medium</span>
+          <span class="medium-pub-type">DevOps</span>
+        </div>
+        <div class="medium-title">Mastering Container Workflows with Docker: Building, Sharing, and Scaling Like a Captain</div>
+        <div class="medium-desc">A hands-on, production-ready guide to advanced Docker practices that power modern DevOps pipelines.</div>
+        <div class="medium-meta"><span>Oct 2025</span><span class="medium-cta">Read →</span></div>
+      </a>
+      <a href="https://medium.com/@aniketsoni1" target="_blank" rel="noopener noreferrer" class="press-card-medium">
+        <div class="medium-pub">
+          <div class="medium-monogram">M</div>
+          <span class="medium-pub-name">Medium</span>
+          <span class="medium-pub-type">Data Science</span>
+        </div>
+        <div class="medium-title">Unveiling Fragrance Trends: A Predictive Dive into Bath & Body Works with Data Science</div>
+        <div class="medium-desc">Exploring the evolving world of fragrances through a data-driven lens.</div>
+        <div class="medium-meta"><span>Apr 2024</span><span class="medium-cta">Read →</span></div>
+      </a>
+      <a href="https://medium.com/@aniketsoni1" target="_blank" rel="noopener noreferrer" class="press-card-medium">
+        <div class="medium-pub">
+          <div class="medium-monogram">M</div>
+          <span class="medium-pub-name">Medium</span>
+          <span class="medium-pub-type">Engineering</span>
+        </div>
+        <div class="medium-title">Exploring the Landscape of Data Stores: A Guide to Choosing the Right One</div>
+        <div class="medium-desc">Selecting the appropriate data store for software development and data management needs.</div>
+        <div class="medium-meta"><span>Feb 2024</span><span class="medium-cta">Read →</span></div>
+      </a>
+      <a href="https://medium.com/@aniketsoni1" target="_blank" rel="noopener noreferrer" class="press-card-medium">
+        <div class="medium-pub">
+          <div class="medium-monogram">M</div>
+          <span class="medium-pub-name">Medium</span>
+          <span class="medium-pub-type">Software Dev</span>
+        </div>
+        <div class="medium-title">Navigating Through the Advancements of Object-Oriented Programming in Software Development</div>
+        <div class="medium-desc">Exploring efficient and adaptable software solutions in the ever-evolving domain of software development.</div>
+        <div class="medium-meta"><span>Feb 2024</span><span class="medium-cta">Read →</span></div>
+      </a>
+      <a href="https://medium.com/@aniketsoni1" target="_blank" rel="noopener noreferrer" class="press-card-medium">
+        <div class="medium-pub">
+          <div class="medium-monogram">M</div>
+          <span class="medium-pub-name">Medium</span>
+          <span class="medium-pub-type">AI/ML</span>
+        </div>
+        <div class="medium-title">What is Confusion Matrix?</div>
+        <div class="medium-desc">Understanding model performance in the dynamic landscape of machine learning and artificial intelligence.</div>
+        <div class="medium-meta"><span>Nov 2023</span><span class="medium-cta">Read →</span></div>
+      </a>
+    </div>
   </div>
 </section>
-
-<!-- ════════════════════ RECOGNITION ════════════════════ -->
 <section id="recognition" class="section" aria-label="Awards and recognition">
   <div class="section-inner">
     <div class="sec-eyebrow">Awards &amp; Community</div>
@@ -2448,6 +2688,37 @@ tr.pub-row[data-href]:hover .pub-doi { color: var(--lime); }
     <span>TOUCH</span>
   </div>
   <p class="contact-sub">Engaged in research collaborations, peer review, expert judging, speaking invitations, and mentorship across the global technology and data engineering community.</p>
+
+  <div class="contact-form-wrap">
+    <div class="cf-group">
+      <label class="cf-label">Name</label>
+      <input type="text" class="cf-input" placeholder="Your name">
+    </div>
+    <div class="cf-group">
+      <label class="cf-label">Email</label>
+      <input type="email" class="cf-input" placeholder="your@email.com">
+    </div>
+    <div class="cf-group">
+      <label class="cf-label">Inquiry Type</label>
+      <select class="cf-select" id="cfInquiry" onchange="prefillCF()">
+        <option value="">Select a reason for reaching out...</option>
+        <option value="research">Research Collaboration</option>
+        <option value="speaking">Speaking Invitation</option>
+        <option value="peer">Peer Review Request</option>
+        <option value="mentorship">Mentorship Inquiry</option>
+        <option value="media">Media &amp; Press</option>
+        <option value="judging">Judging / Awards</option>
+        <option value="other">Other</option>
+      </select>
+      <div class="cf-hint" id="cfHint"></div>
+    </div>
+    <div class="cf-group">
+      <label class="cf-label">Message</label>
+      <textarea class="cf-textarea" id="cfMessage" placeholder="Your message..."></textarea>
+    </div>
+    <button class="cf-submit" onclick="submitCF()">Send Message</button>
+  </div>
+
   <div class="contact-links-row">
     <a href="https://www.linkedin.com/in/aniketsoni" target="_blank" rel="noopener noreferrer" class="contact-pill primary">
       <img src="https://raw.githubusercontent.com/aniketsoni1/aniketsoni1.github.io/main/assets/img/linkedin-icon.png" alt="" class="btn-icon" aria-hidden="true">LinkedIn
@@ -2464,6 +2735,8 @@ tr.pub-row[data-href]:hover .pub-doi { color: var(--lime); }
     <a href="https://www.researchgate.net/profile/Aniket-Abhishek-Soni" target="_blank" rel="noopener noreferrer" class="contact-pill">
       <img src="https://raw.githubusercontent.com/aniketsoni1/aniketsoni1.github.io/main/assets/img/ResearchGate_logo.png" alt="" class="btn-icon" aria-hidden="true">ResearchGate
     </a>
+    <a href="https://www.semanticscholar.org/author/Aniket-Abhishek-Soni/2352272973" target="_blank" rel="noopener noreferrer" class="contact-pill">Semantic Scholar</a>
+    <a href="https://medium.com/@aniketsoni1" target="_blank" rel="noopener noreferrer" class="contact-pill">Medium</a>
   </div>
 </section>
 
@@ -2545,6 +2818,243 @@ tr.pub-row[data-href]:hover .pub-doi { color: var(--lime); }
 
 <!-- ════════════════════ SCRIPTS ════════════════════ -->
 <script>
+gsap.registerPlugin(ScrollTrigger);
+
+// ── FEATURE 1: GSAP PINNED TIMELINE ──
+(function() {
+  const stages = document.querySelectorAll('.exp-stage');
+  const activeLine = document.getElementById('tl-active-line');
+  if (!stages.length || !activeLine) return;
+
+  function activateStage(i) {
+    stages.forEach((s, j) => {
+      s.classList.remove('tl-active','tl-past');
+      if (j < i)  s.classList.add('tl-past');
+      if (j === i) s.classList.add('tl-active');
+    });
+    const cmd = stages[i].dataset.cmd || '';
+    activeLine.textContent = '▸ $ ' + cmd;
+    activeLine.classList.add('tl-active-out');
+  }
+
+  activateStage(0);
+
+  stages.forEach((stage, i) => {
+    ScrollTrigger.create({
+      trigger: stage,
+      start: 'top center',
+      onEnter: () => activateStage(i),
+      onEnterBack: () => activateStage(i),
+    });
+  });
+})();
+
+// ── FEATURE 2: LIVE GITHUB REPOS ──
+(function() {
+  const grid = document.getElementById('ghGrid');
+  if (!grid) return;
+  const langColors = {
+    Python:'#3572A5',JavaScript:'#f1e05a',TypeScript:'#2b7489',
+    'Jupyter Notebook':'#DA5B0B','C++':'#f34b7d',Java:'#b07219',
+    Shell:'#89e051',Go:'#00ADD8',HTML:'#e34c26',CSS:'#563d7c',
+    'C':'#555555'
+  };
+  fetch('https://api.github.com/users/aniketsoni1/repos?sort=updated&per_page=9')
+    .then(r => { if (!r.ok) throw new Error(); return r.json(); })
+    .then(repos => {
+      const filtered = repos.filter(r => !r.fork && r.name !== 'aniketsoni1').slice(0, 6);
+      if (!filtered.length) throw new Error();
+      grid.innerHTML = filtered.map(repo => `
+        <div class="gh-card">
+          <div class="gh-head">
+            <span class="gh-repo-icon">📦</span>
+            <a class="gh-repo-name" href="${repo.html_url}" target="_blank" rel="noopener noreferrer">${repo.name}</a>
+            <span class="gh-badge">${repo.private ? 'private' : 'public'}</span>
+          </div>
+          <div class="gh-desc">${repo.description || 'No description provided.'}</div>
+          <div class="gh-foot">
+            ${repo.language ? `<span class="gh-lang"><span class="gh-lang-dot" style="background:${langColors[repo.language]||'#888'}"></span>${repo.language}</span>` : ''}
+            ${repo.stargazers_count > 0 ? `<span class="gh-stat">★ ${repo.stargazers_count}</span>` : ''}
+            ${repo.forks_count > 0 ? `<span class="gh-stat">⑂ ${repo.forks_count}</span>` : ''}
+            <span class="gh-updated">Updated ${new Date(repo.updated_at).toLocaleDateString('en-US',{month:'short',year:'numeric'})}</span>
+          </div>
+        </div>
+      `).join('');
+    })
+    .catch(() => {
+      grid.innerHTML = '<div class="gh-loading" style="color:var(--muted)">Could not load repositories — <a href="https://github.com/aniketsoni1" target="_blank" rel="noopener noreferrer" style="color:var(--lime)">view on GitHub ↗</a></div>';
+    });
+})();
+
+// ── FEATURE 6: CONTACT FORM PRE-FILL ──
+const cfPrefills = {
+  research: {msg:'Hi Aniket,\n\nI\'m reaching out regarding a potential research collaboration on [topic]. I\'ve come across your work on [paper/book] and believe there\'s strong alignment with my current research.\n\nWould you be open to a brief discussion?', hint:'💡 Research collaboration template applied'},
+  speaking:  {msg:'Hi Aniket,\n\nI\'d like to invite you to speak at [event name] on [date].\n\nThe audience consists of [description] and we\'d love your perspective on [topic].', hint:'💡 Speaking invitation template applied'},
+  peer:      {msg:'Hi Aniket,\n\nI\'m the editor for [journal/conference] and would like to invite you to review a submission in the area of [topic].\n\nThe deadline for review is [date].', hint:'💡 Peer review request template applied'},
+  mentorship:{msg:'Hi Aniket,\n\nI\'m a [background] currently [situation] and looking for mentorship guidance on [specific area].\n\nI\'ve been following your work and would appreciate a brief conversation.', hint:'💡 Mentorship inquiry template applied'},
+  media:     {msg:'Hi Aniket,\n\nI\'m a journalist at [publication] working on a piece about [topic] and would love to include your perspective as an expert.\n\nAre you available for a brief interview?', hint:'💡 Media inquiry template applied'},
+  judging:   {msg:'Hi Aniket,\n\nI\'m reaching out on behalf of [organization] to invite you to serve as a judge for [award/competition] in [year].\n\nYour expertise would be an excellent addition to our panel.', hint:'💡 Judging invitation template applied'},
+  other:     {msg:'', hint:''},
+};
+function prefillCF() {
+  const val = document.getElementById('cfInquiry').value;
+  const msgEl = document.getElementById('cfMessage');
+  const hintEl = document.getElementById('cfHint');
+  if (val && cfPrefills[val]) {
+    msgEl.value = cfPrefills[val].msg;
+    hintEl.textContent = cfPrefills[val].hint;
+  } else { msgEl.value = ''; hintEl.textContent = ''; }
+}
+function submitCF() {
+  const btn = document.querySelector('.cf-submit');
+  btn.textContent = 'Message sent ✓';
+  btn.style.background = 'var(--green)';
+  setTimeout(() => { btn.textContent = 'Send Message'; btn.style.background = ''; }, 3000);
+}
+
+// ── ABOUT PHOTO GALLERY (keep for compatibility) ──
+(function() {
+  const photos = document.querySelectorAll('.about-photo');
+  if (!photos.length) return;
+  photos.forEach(photo => {
+    photo.addEventListener('click', () => {
+      if (photo.classList.contains('about-photo--active')) return;
+      document.querySelector('.about-photo--active').classList.remove('about-photo--active');
+      photo.classList.add('about-photo--active');
+    });
+  });
+})();
+
+// ── ACTIVE NAV HIGHLIGHT ──
+(function() {
+  const sections = document.querySelectorAll('section[id]');
+  const navLinks = document.querySelectorAll('.nav-menu a[href^="#"]');
+  const obs = new IntersectionObserver(entries => {
+    entries.forEach(e => {
+      if (e.isIntersecting) {
+        navLinks.forEach(l => l.classList.remove('active'));
+        const active = document.querySelector(`.nav-menu a[href="#${e.target.id}"]`);
+        if (active) active.classList.add('active');
+      }
+    });
+  }, {threshold:0.3, rootMargin:'-10% 0px -60% 0px'});
+  sections.forEach(s => obs.observe(s));
+})();
+
+// ── PUBLICATION FILTER TABS ──
+document.querySelectorAll('.pub-filter-btn').forEach(btn => {
+  btn.addEventListener('click', () => {
+    document.querySelectorAll('.pub-filter-btn').forEach(b => b.classList.remove('active'));
+    btn.classList.add('active');
+    const filter = btn.dataset.filter;
+    document.querySelectorAll('tr.pub-row').forEach(row => {
+      if (filter === 'all') { row.classList.remove('hidden'); }
+      else {
+        const badge = row.querySelector('.pub-badge');
+        row.classList.toggle('hidden', !(badge && badge.classList.contains(filter)));
+      }
+    });
+  });
+});
+
+// ── BACK TO TOP ──
+(function() {
+  const btn = document.getElementById('back-to-top');
+  if (!btn) return;
+  window.addEventListener('scroll', () => btn.classList.toggle('visible', window.scrollY > 400), {passive:true});
+  btn.addEventListener('click', () => window.scrollTo({top:0, behavior:'smooth'}));
+})();
+
+// ── THEME TOGGLE ──
+(function() {
+  const html = document.documentElement;
+  const btn  = document.getElementById('theme-toggle');
+  const stored = localStorage.getItem('theme');
+  const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+  const initial = stored || (prefersDark ? 'dark' : 'light');
+  if (initial === 'light') html.setAttribute('data-theme', 'light');
+  btn.addEventListener('click', () => {
+    const isLight = html.getAttribute('data-theme') === 'light';
+    if (isLight) { html.removeAttribute('data-theme'); localStorage.setItem('theme','dark'); }
+    else { html.setAttribute('data-theme','light'); localStorage.setItem('theme','light'); }
+  });
+})();
+
+// ── PUBLICATION ROW CLICK ──
+document.querySelectorAll('tr.pub-row[data-href]').forEach(row => {
+  row.addEventListener('click', () => window.open(row.dataset.href,'_blank','noopener,noreferrer'));
+});
+
+// ── PRESS IMAGE FADE-IN ──
+document.querySelectorAll('.press-img-wrap img').forEach(img => {
+  const activate = () => img.classList.add('loaded');
+  if (img.complete && img.naturalWidth > 0) { activate(); }
+  else { img.addEventListener('load', activate); }
+});
+
+// ── CUSTOM CURSOR ──
+const isTouch = window.matchMedia('(hover:none),(pointer:coarse)').matches;
+if (!isTouch) {
+  const cur = document.getElementById('cursor');
+  const ring = document.getElementById('cursor-ring');
+  if (cur && ring) {
+    let mx=0,my=0,rx=0,ry=0;
+    document.addEventListener('mousemove', e => { mx=e.clientX; my=e.clientY; cur.style.left=mx+'px'; cur.style.top=my+'px'; });
+    (function animRing(){ rx+=(mx-rx)*0.12; ry+=(my-ry)*0.12; ring.style.left=rx+'px'; ring.style.top=ry+'px'; requestAnimationFrame(animRing); })();
+    document.querySelectorAll('a,button,label').forEach(el=>{
+      el.addEventListener('mouseenter',()=>{cur.style.width='6px';cur.style.height='6px';ring.style.width='52px';ring.style.height='52px'});
+      el.addEventListener('mouseleave',()=>{cur.style.width='12px';cur.style.height='12px';ring.style.width='36px';ring.style.height='36px'});
+    });
+  }
+}
+
+// ── MOBILE NAV ──
+document.querySelectorAll('.nav-menu a').forEach(link => {
+  link.addEventListener('click', () => { document.getElementById('nav-toggle').checked = false; });
+});
+
+// ── NAV SCROLL EFFECT ──
+const nav = document.getElementById('nav');
+window.addEventListener('scroll', () => nav.classList.toggle('scrolled', window.scrollY > 60), {passive:true});
+
+// ── COUNTER ANIMATION (Expo Out) ──
+function animCounter(el) {
+  const target = parseInt(el.dataset.counter);
+  const duration = 1800;
+  const start = performance.now();
+  el.textContent = '0';
+  function frame(now) {
+    const progress = Math.min((now - start) / duration, 1);
+    const eased = 1 - Math.pow(2, -10 * progress);
+    el.textContent = Math.round(eased * target) + (progress >= 1 ? '+' : '');
+    if (progress < 1) requestAnimationFrame(frame);
+  }
+  requestAnimationFrame(frame);
+}
+const counterObs = new IntersectionObserver(entries => {
+  entries.forEach(e => { if(e.isIntersecting){ animCounter(e.target); counterObs.unobserve(e.target); }});
+}, {threshold:0.5});
+document.querySelectorAll('[data-counter]').forEach(el => counterObs.observe(el));
+
+// ── SCROLL REVEAL ──
+const revObs = new IntersectionObserver(entries => {
+  entries.forEach(e => { if(e.isIntersecting){ e.target.classList.add('in'); revObs.unobserve(e.target); }});
+}, {threshold:0.08, rootMargin:'0px 0px -40px 0px'});
+document.querySelectorAll('.reveal').forEach(el => revObs.observe(el));
+
+// ── PIPELINE HOVER ──
+document.querySelectorAll('.pipe-item').forEach(item => {
+  item.addEventListener('mouseenter', () => { item.style.color='var(--text)'; });
+  item.addEventListener('mouseleave', () => { item.style.color=''; });
+});
+</script>
+
+</body>
+</html>
+</script>
+
+</body>
+</html>
 // ── ABOUT PHOTO GALLERY ──
 (function() {
   const photos = document.querySelectorAll('.about-photo');
