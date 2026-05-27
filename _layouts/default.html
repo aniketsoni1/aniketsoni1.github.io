@@ -1681,6 +1681,32 @@ footer{border-top:1px solid var(--border);padding:2.5rem 3rem;background:var(--s
 @media(max-width:860px){.press-medium-grid{grid-template-columns:1fr}}
 @media(max-width:1024px){.press-medium-grid{grid-template-columns:1fr 1fr}}
 
+/* about grid — sidebar goes first on mobile */
+@media(max-width:860px){
+  .about-grid{grid-template-columns:1fr}
+  .about-sidebar{order:-1}
+}
+
+/* photo stack — make bottom photos clickable via z-index and cursor */
+.photo-win:nth-child(2){cursor:pointer}
+.photo-win:nth-child(3){cursor:pointer}
+.photo-win:nth-child(1){cursor:default}
+/* highlight on hover for non-active windows */
+.photo-win:nth-child(2):hover,.photo-win:nth-child(3):hover{
+  filter:brightness(1.1);
+}
+
+/* contact form — full width on desktop, constrained on mobile */
+.contact-form-wrap{
+  max-width:680px;
+  width:100%;
+  margin:0 auto 2.5rem;
+}
+@media(min-width:860px){
+  .contact-form-wrap{max-width:680px}
+  .cf-select,.cf-input,.cf-textarea{font-size:0.88rem;padding:0.75rem 1rem}
+}
+
 /* ═══ FEATURE 10 — BOOK COVER IMAGE ═══ */
 .book-cover-img{width:85px;min-width:85px;height:118px;border-radius:4px;overflow:hidden;box-shadow:0 8px 24px rgba(0,0,0,0.5);flex-shrink:0}
 .book-cover-img img{width:100%;height:100%;object-fit:cover;display:block}
@@ -2412,6 +2438,10 @@ tr.pub-row[data-href]:hover .pub-doi { color: var(--lime); }
          aria-label="Read article: Why AI Fails Without Data Foundations on The AI Journal">
         <div class="press-img-wrap press-img-wrap--aij">
           <div class="press-img-bg" aria-hidden="true"><span class="press-img-wm">AIJ</span></div>
+          <img src="https://images.weserv.nl/?url=aijourn.com/wp-content/uploads/2026/02/Screenshot-2026-02-09-at-21.58.41.png&w=800&h=340&fit=cover&output=webp"
+               alt="Why AI Fails Without Data Foundations by Aniket Soni — The AI Journal interview cover"
+               loading="lazy" crossorigin="anonymous"
+               onerror="this.style.display='none'">
         </div>
         <div class="press-pub">
           <div class="press-pub-monogram" style="background:rgba(59,223,255,0.1);color:var(--blue)">AI</div>
@@ -2896,22 +2926,58 @@ function prefillCF() {
   } else { msgEl.value = ''; hintEl.textContent = ''; }
 }
 function submitCF() {
+  const name = document.querySelector('.cf-input[placeholder="Your name"]')?.value?.trim();
+  const email = document.querySelector('.cf-input[placeholder="your@email.com"]')?.value?.trim();
+  const inquiry = document.getElementById('cfInquiry')?.value;
+  const message = document.getElementById('cfMessage')?.value?.trim();
+
+  if (!name || !email || !message) {
+    alert('Please fill in your name, email, and message.');
+    return;
+  }
+
+  // Build mailto: link as the activation method
+  // Replace with Formspree endpoint once you set one up at formspree.io/new
+  const subject = encodeURIComponent('Portfolio Inquiry: ' + (inquiry || 'General'));
+  const body = encodeURIComponent('Name: ' + name + '\nEmail: ' + email + '\n\n' + message);
+  window.location.href = 'mailto:mail@aniketsoni.com?subject=' + subject + '&body=' + body;
+
   const btn = document.querySelector('.cf-submit');
-  btn.textContent = 'Message sent ✓';
+  btn.textContent = 'Opening your email client... ✓';
   btn.style.background = 'var(--green)';
-  setTimeout(() => { btn.textContent = 'Send Message'; btn.style.background = ''; }, 3000);
+  setTimeout(() => { btn.textContent = 'Send Message'; btn.style.background = ''; }, 4000);
 }
 
 // ── ABOUT PHOTO GALLERY (keep for compatibility) ──
 (function() {
   const photos = document.querySelectorAll('.about-photo');
-  if (!photos.length) return;
-  photos.forEach(photo => {
-    photo.addEventListener('click', () => {
-      if (photo.classList.contains('about-photo--active')) return;
-      document.querySelector('.about-photo--active').classList.remove('about-photo--active');
-      photo.classList.add('about-photo--active');
+  if (photos.length) {
+    photos.forEach(photo => {
+      photo.addEventListener('click', () => {
+        if (photo.classList.contains('about-photo--active')) return;
+        document.querySelector('.about-photo--active').classList.remove('about-photo--active');
+        photo.classList.add('about-photo--active');
+      });
     });
+  }
+
+  // Stacked photo windows — clicking a back window brings it to top
+  const stack = document.querySelector('.photo-stack-wrap');
+  if (!stack) return;
+  const wins = Array.from(stack.querySelectorAll('.photo-win'));
+  if (wins.length < 2) return;
+
+  function bringToFront(win) {
+    // Swap HTML position — move clicked win to first child
+    stack.insertBefore(win, stack.firstChild);
+    // Re-apply nth-child transforms via class reset trick
+    wins.forEach((w, i) => {
+      w.style.cssText = '';  // clear inline styles, let CSS nth-child re-apply
+    });
+  }
+
+  wins.forEach(win => {
+    win.addEventListener('click', () => bringToFront(win));
   });
 })();
 
@@ -3020,185 +3086,6 @@ function animCounter(el) {
     if (progress < 1) requestAnimationFrame(frame);
   }
   requestAnimationFrame(frame);
-}
-const counterObs = new IntersectionObserver(entries => {
-  entries.forEach(e => { if(e.isIntersecting){ animCounter(e.target); counterObs.unobserve(e.target); }});
-}, {threshold:0.5});
-document.querySelectorAll('[data-counter]').forEach(el => counterObs.observe(el));
-
-// ── SCROLL REVEAL ──
-const revObs = new IntersectionObserver(entries => {
-  entries.forEach(e => { if(e.isIntersecting){ e.target.classList.add('in'); revObs.unobserve(e.target); }});
-}, {threshold:0.08, rootMargin:'0px 0px -40px 0px'});
-document.querySelectorAll('.reveal').forEach(el => revObs.observe(el));
-
-// ── PIPELINE HOVER ──
-document.querySelectorAll('.pipe-item').forEach(item => {
-  item.addEventListener('mouseenter', () => { item.style.color='var(--text)'; });
-  item.addEventListener('mouseleave', () => { item.style.color=''; });
-});
-</script>
-
-</body>
-</html>
-</script>
-
-</body>
-</html>
-// ── ABOUT PHOTO GALLERY ──
-(function() {
-  const photos = document.querySelectorAll('.about-photo');
-  if (!photos.length) return;
-  photos.forEach(photo => {
-    photo.addEventListener('click', () => {
-      if (photo.classList.contains('about-photo--active')) return;
-      document.querySelector('.about-photo--active').classList.remove('about-photo--active');
-      photo.classList.add('about-photo--active');
-    });
-  });
-})();
-
-// ── ACTIVE NAV HIGHLIGHT ──
-(function() {
-  const sections = document.querySelectorAll('section[id]');
-  const navLinks = document.querySelectorAll('.nav-menu a[href^="#"]');
-  const obs = new IntersectionObserver(entries => {
-    entries.forEach(e => {
-      if (e.isIntersecting) {
-        navLinks.forEach(l => l.classList.remove('active'));
-        const active = document.querySelector(`.nav-menu a[href="#${e.target.id}"]`);
-        if (active) active.classList.add('active');
-      }
-    });
-  }, {threshold:0.3, rootMargin:'-10% 0px -60% 0px'});
-  sections.forEach(s => obs.observe(s));
-})();
-
-// ── PUBLICATION FILTER TABS ──
-document.querySelectorAll('.pub-filter-btn').forEach(btn => {
-  btn.addEventListener('click', () => {
-    document.querySelectorAll('.pub-filter-btn').forEach(b => b.classList.remove('active'));
-    btn.classList.add('active');
-    const filter = btn.dataset.filter;
-    document.querySelectorAll('tr.pub-row').forEach(row => {
-      if (filter === 'all') { row.classList.remove('hidden'); }
-      else {
-        const badge = row.querySelector('.pub-badge');
-        row.classList.toggle('hidden', !(badge && badge.classList.contains(filter)));
-      }
-    });
-  });
-});
-
-// ── EXPERIENCE SCROLL DOTS ──
-(function() {
-  const scroller = document.getElementById('exp-scroll');
-  const dots = document.querySelectorAll('#exp-dots .exp-dot');
-  if (!scroller || !dots.length) return;
-  const cards = scroller.querySelectorAll('.exp-card');
-  // Scroll updates dots
-  scroller.addEventListener('scroll', () => {
-    const cardWidth = cards[0] ? cards[0].offsetWidth + 19 : 1;
-    const idx = Math.min(Math.round(scroller.scrollLeft / cardWidth), dots.length - 1);
-    dots.forEach((d, i) => d.classList.toggle('active', i === idx));
-  }, {passive:true});
-  // Clicking a dot scrolls to that card
-  dots.forEach((dot, i) => {
-    dot.addEventListener('click', () => {
-      if (!cards[i]) return;
-      scroller.scrollTo({left: cards[i].offsetLeft - 48, behavior: 'smooth'});
-    });
-  });
-})();
-
-// ── BACK TO TOP ──
-(function() {
-  const btn = document.getElementById('back-to-top');
-  window.addEventListener('scroll', () => btn.classList.toggle('visible', window.scrollY > 400), {passive:true});
-  btn.addEventListener('click', () => window.scrollTo({top:0, behavior:'smooth'}));
-})();
-
-// ── THEME TOGGLE ──
-(function() {
-  const html = document.documentElement;
-  const btn  = document.getElementById('theme-toggle');
-  // Determine initial theme: localStorage → prefers-color-scheme → default dark
-  const stored = localStorage.getItem('theme');
-  const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
-  const initial = stored || (prefersDark ? 'dark' : 'light');
-  if (initial === 'light') html.setAttribute('data-theme', 'light');
-
-  btn.addEventListener('click', () => {
-    const isLight = html.getAttribute('data-theme') === 'light';
-    if (isLight) {
-      html.removeAttribute('data-theme');
-      localStorage.setItem('theme', 'dark');
-    } else {
-      html.setAttribute('data-theme', 'light');
-      localStorage.setItem('theme', 'light');
-    }
-  });
-})();
-
-// ── PUBLICATION ROW CLICK ──
-document.querySelectorAll('tr.pub-row[data-href]').forEach(row => {
-  row.addEventListener('click', () => {
-    window.open(row.dataset.href, '_blank', 'noopener,noreferrer');
-  });
-});
-
-// ── PRESS IMAGE FADE-IN ON LOAD ──
-document.querySelectorAll('.press-img-wrap img').forEach(img => {
-  const activate = () => img.classList.add('loaded');
-  if (img.complete && img.naturalWidth > 0) { activate(); }
-  else { img.addEventListener('load', activate); }
-});
-
-
-const isTouch = window.matchMedia('(hover:none),(pointer:coarse)').matches;
-if (!isTouch) {
-  const cur = document.getElementById('cursor');
-  const ring = document.getElementById('cursor-ring');
-  if (cur && ring) {
-    let mx=0,my=0,rx=0,ry=0;
-    document.addEventListener('mousemove', e => {
-      mx=e.clientX; my=e.clientY;
-      cur.style.left=mx+'px'; cur.style.top=my+'px';
-    });
-    (function animRing(){
-      rx+=(mx-rx)*0.12; ry+=(my-ry)*0.12;
-      ring.style.left=rx+'px'; ring.style.top=ry+'px';
-      requestAnimationFrame(animRing);
-    })();
-    document.querySelectorAll('a,button,label').forEach(el=>{
-      el.addEventListener('mouseenter',()=>{cur.style.width='6px';cur.style.height='6px';ring.style.width='52px';ring.style.height='52px'});
-      el.addEventListener('mouseleave',()=>{cur.style.width='12px';cur.style.height='12px';ring.style.width='36px';ring.style.height='36px'});
-    });
-  }
-}
-
-// ── CLOSE MOBILE NAV ON LINK CLICK ──
-document.querySelectorAll('.nav-menu a').forEach(link => {
-  link.addEventListener('click', () => {
-    document.getElementById('nav-toggle').checked = false;
-  });
-});
-
-// ── NAV SCROLL EFFECT ──
-const nav = document.getElementById('nav');
-const onScroll = () => nav.classList.toggle('scrolled', window.scrollY > 60);
-window.addEventListener('scroll', onScroll, {passive:true});
-
-// ── COUNTER ANIMATION ──
-function animCounter(el) {
-  const target = parseInt(el.dataset.counter);
-  let curr = 0;
-  const step = Math.max(1, Math.floor(target/40));
-  const t = setInterval(() => {
-    curr = Math.min(curr+step, target);
-    el.textContent = curr + (curr >= target ? '+' : '');
-    if (curr >= target) clearInterval(t);
-  }, 40);
 }
 const counterObs = new IntersectionObserver(entries => {
   entries.forEach(e => { if(e.isIntersecting){ animCounter(e.target); counterObs.unobserve(e.target); }});
