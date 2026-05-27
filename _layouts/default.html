@@ -1134,7 +1134,16 @@ footer{
   .hero-name{font-size:3.5rem}
   .awards-bento{grid-template-columns:1fr}
   .pub-table th:nth-child(3),.pub-table td:nth-child(3){display:none}
+  /* Fix bento-current shrinking on mobile */
+  .bento-current{grid-column:1/-1 !important;min-height:auto;padding:1.2rem}
+  .current-item{font-size:0.75rem}
 }
+
+/* ═══ PAGE-WIDE SCROLL FADE REVEAL ═══ */
+.reveal{opacity:0;transform:translateY(22px);transition:opacity 0.6s ease,transform 0.6s ease}
+.reveal.in{opacity:1;transform:translateY(0)}
+/* Stagger children when parent has reveal-stagger */
+.reveal-stagger .reveal{transition-delay:calc(var(--i,0)*0.08s)}
 
 /* ═══════════════════════════════════════════
    PRESS CARD IMAGES
@@ -1506,48 +1515,28 @@ body,nav,.bento,.exp-card,.proj-card,.press-card,.award-tile,.role-card,.edu-car
 footer{border-top:1px solid var(--border);padding:2.5rem 3rem;background:var(--surface)}
 .footer-grid{
   max-width:1200px;margin:0 auto;
-  display:grid;grid-template-columns:1fr auto auto;gap:2rem;align-items:start;
+  display:grid;grid-template-columns:1fr auto;gap:3rem;align-items:start;
 }
-.footer-wordmark{
-  font-family:'Bebas Neue',sans-serif;font-size:1.4rem;letter-spacing:0.08em;
-  color:var(--lime);margin-bottom:0.4rem;
-}
-.footer-tagline{
-  font-family:'JetBrains Mono',monospace;font-size:0.6rem;
-  color:var(--muted2);letter-spacing:0.08em;margin-bottom:0.8rem;
-}
-.footer-email{
-  font-family:'JetBrains Mono',monospace;font-size:0.62rem;color:var(--muted);
-  text-decoration:none;letter-spacing:0.06em;transition:color 0.2s;
-}
-.footer-email:hover{color:var(--lime)}
+.footer-wordmark{font-family:'Bebas Neue',sans-serif;font-size:1.4rem;letter-spacing:0.08em;color:var(--lime);margin-bottom:0.4rem}
+.footer-tagline{font-family:'JetBrains Mono',monospace;font-size:0.6rem;color:var(--muted2);letter-spacing:0.08em;margin-bottom:0.9rem}
+.footer-profile-icons{display:flex;gap:0.5rem;flex-wrap:wrap}
 .footer-nav-col,.footer-icons-col{}
-.footer-nav-title,.footer-icons-title{
-  font-family:'JetBrains Mono',monospace;font-size:0.6rem;letter-spacing:0.14em;
-  text-transform:uppercase;color:var(--muted2);margin-bottom:0.8rem;
-}
+.footer-nav-title,.footer-icons-title{font-family:'JetBrains Mono',monospace;font-size:0.6rem;letter-spacing:0.14em;text-transform:uppercase;color:var(--muted2);margin-bottom:0.8rem}
 .footer-nav-links{display:flex;flex-direction:column;gap:0.4rem}
-.footer-nav-links a{
-  font-family:'JetBrains Mono',monospace;font-size:0.65rem;color:var(--muted);
-  text-decoration:none;letter-spacing:0.06em;transition:color 0.2s;
-}
+.footer-nav-links a{font-family:'JetBrains Mono',monospace;font-size:0.65rem;color:var(--muted);text-decoration:none;letter-spacing:0.06em;transition:color 0.2s}
 .footer-nav-links a:hover{color:var(--lime)}
 .footer-icons{display:flex;gap:0.8rem;flex-wrap:wrap}
-.footer-icon{
-  width:28px;height:28px;display:flex;align-items:center;justify-content:center;
-  border:1px solid var(--border2);border-radius:4px;text-decoration:none;
-  transition:border-color 0.2s,transform 0.2s;
-}
+.footer-icon{width:28px;height:28px;display:flex;align-items:center;justify-content:center;border:1px solid var(--border2);border-radius:4px;text-decoration:none;transition:border-color 0.2s,transform 0.2s}
 .footer-icon:hover{border-color:var(--lime);transform:translateY(-2px)}
 .footer-icon img{width:16px;height:16px;object-fit:contain}
+.footer-icon-text{font-family:'JetBrains Mono',monospace;font-size:0.6rem;font-weight:600;color:var(--muted);letter-spacing:0.02em}
+.footer-icon-text:hover{color:var(--lime)}
 .footer-bottom{
   max-width:1200px;margin:1.5rem auto 0;padding-top:1.2rem;
   border-top:1px solid var(--border);
   display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:0.5rem;
 }
-.footer-copy,.footer-loc{
-  font-family:'JetBrains Mono',monospace;font-size:0.6rem;color:var(--muted2);letter-spacing:0.06em;
-}
+.footer-copy,.footer-loc{font-family:'JetBrains Mono',monospace;font-size:0.6rem;color:var(--muted2);letter-spacing:0.06em}
 @media(max-width:860px){
   .footer-grid{grid-template-columns:1fr;gap:1.5rem}
   footer{padding:2rem 1.5rem}
@@ -1924,7 +1913,7 @@ tr.pub-row[data-href]:hover .pub-doi { color: var(--lime); }
   <div class="section-inner">
     <div class="sec-eyebrow">Personal Statement</div>
     <h2 class="sec-title">About</h2>
-    <div class="about-grid">
+    <div class="about-grid reveal">
       <div class="about-text">
         <p>Aniket Abhishek Soni is a <strong>Senior Data Engineer</strong> based in New York with over seven years of experience designing enterprise-scale data infrastructure, AI-powered analytics systems, and cloud-native pipelines. At Cognizant Technology Solutions, he has architected solutions processing over 10 million records per day across regulated industries — building the kind of reliable, auditable, and high-performance data foundations that make AI strategies viable in the real world.</p>
         <p>Beyond his engineering role, Aniket is an active <strong>researcher and published author</strong>. His body of work spans 20+ peer-reviewed papers across AI, data engineering, distributed systems, and geospatial analytics — including a sole-authored book published by BP International and a forthcoming book chapter with Wiley-Scrivener. His research has been cited 138+ times and is indexed on Google Scholar, ORCiD, and ResearchGate. He has presented at international conferences across Scotland, Bahrain, and online venues, contributing findings that bridge academic rigor with practical engineering impact.</p>
@@ -2738,26 +2727,6 @@ tr.pub-row[data-href]:hover .pub-doi { color: var(--lime); }
     </div>
     <button class="cf-submit" onclick="submitCF()">Send Message</button>
   </div>
-
-  <div class="contact-links-row">
-    <a href="https://www.linkedin.com/in/aniketsoni" target="_blank" rel="noopener noreferrer" class="contact-pill primary">
-      <img src="https://raw.githubusercontent.com/aniketsoni1/aniketsoni1.github.io/main/assets/img/linkedin-icon.png" alt="" class="btn-icon" aria-hidden="true">LinkedIn
-    </a>
-    <a href="https://github.com/aniketsoni1" target="_blank" rel="noopener noreferrer" class="contact-pill">
-      <img src="https://raw.githubusercontent.com/aniketsoni1/aniketsoni1.github.io/main/assets/img/github-icon.png" alt="" class="btn-icon" aria-hidden="true">GitHub
-    </a>
-    <a href="https://scholar.google.com/citations?user=Rtn7hFAAAAAJ&hl=en" target="_blank" rel="noopener noreferrer" class="contact-pill">
-      <img src="https://raw.githubusercontent.com/aniketsoni1/aniketsoni1.github.io/main/assets/img/Google_Scholar_logo.png" alt="" class="btn-icon" aria-hidden="true">Google Scholar
-    </a>
-    <a href="https://orcid.org/0009-0001-6312-2967" target="_blank" rel="noopener noreferrer" class="contact-pill">
-      <img src="https://raw.githubusercontent.com/aniketsoni1/aniketsoni1.github.io/main/assets/img/ORCID_iD.png" alt="" class="btn-icon" aria-hidden="true">ORCiD
-    </a>
-    <a href="https://www.researchgate.net/profile/Aniket-Abhishek-Soni" target="_blank" rel="noopener noreferrer" class="contact-pill">
-      <img src="https://raw.githubusercontent.com/aniketsoni1/aniketsoni1.github.io/main/assets/img/ResearchGate_logo.png" alt="" class="btn-icon" aria-hidden="true">ResearchGate
-    </a>
-    <a href="https://www.semanticscholar.org/author/Aniket-Abhishek-Soni/2352272973" target="_blank" rel="noopener noreferrer" class="contact-pill">Semantic Scholar</a>
-    <a href="https://medium.com/@aniketsoni1" target="_blank" rel="noopener noreferrer" class="contact-pill">Medium</a>
-  </div>
 </section>
 
 <!-- ════════════════════ FOOTER ════════════════════ -->
@@ -2766,21 +2735,7 @@ tr.pub-row[data-href]:hover .pub-doi { color: var(--lime); }
     <div class="footer-brand">
       <div class="footer-wordmark">AS</div>
       <div class="footer-tagline">Senior Data Engineer · Published Researcher · IEEE Senior Member</div>
-    </div>
-    <div class="footer-nav-col">
-      <div class="footer-nav-title">Navigate</div>
-      <div class="footer-nav-links">
-        <a href="#about">About</a>
-        <a href="#publications">Research</a>
-        <a href="#press">Media</a>
-        <a href="#recognition">Recognition</a>
-        <a href="#experience">Experience</a>
-        <a href="#contact">Connect</a>
-      </div>
-    </div>
-    <div class="footer-icons-col">
-      <div class="footer-icons-title">Profiles</div>
-      <div class="footer-icons">
+      <div class="footer-profile-icons">
         <a href="https://www.linkedin.com/in/aniketsoni" target="_blank" rel="noopener noreferrer" class="footer-icon" aria-label="LinkedIn">
           <img src="https://raw.githubusercontent.com/aniketsoni1/aniketsoni1.github.io/main/assets/img/linkedin-icon.png" alt="LinkedIn">
         </a>
@@ -2796,6 +2751,19 @@ tr.pub-row[data-href]:hover .pub-doi { color: var(--lime); }
         <a href="https://www.researchgate.net/profile/Aniket-Abhishek-Soni" target="_blank" rel="noopener noreferrer" class="footer-icon" aria-label="ResearchGate">
           <img src="https://raw.githubusercontent.com/aniketsoni1/aniketsoni1.github.io/main/assets/img/ResearchGate_logo.png" alt="ResearchGate">
         </a>
+        <a href="https://www.semanticscholar.org/author/Aniket-Abhishek-Soni/2352272973" target="_blank" rel="noopener noreferrer" class="footer-icon footer-icon-text" aria-label="Semantic Scholar">SS</a>
+        <a href="https://medium.com/@aniketsoni1" target="_blank" rel="noopener noreferrer" class="footer-icon footer-icon-text" aria-label="Medium">M</a>
+      </div>
+    </div>
+    <div class="footer-nav-col">
+      <div class="footer-nav-title">Navigate</div>
+      <div class="footer-nav-links">
+        <a href="#about">About</a>
+        <a href="#publications">Research</a>
+        <a href="#press">Media</a>
+        <a href="#recognition">Recognition</a>
+        <a href="#experience">Experience</a>
+        <a href="#contact">Connect</a>
       </div>
     </div>
   </div>
@@ -2961,24 +2929,55 @@ function submitCF() {
     });
   }
 
-  // Stacked photo windows — clicking a back window brings it to top
+// ── STACKED PHOTO WINDOWS — click to front, double-click to enlarge ──
+(function() {
   const stack = document.querySelector('.photo-stack-wrap');
   if (!stack) return;
-  const wins = Array.from(stack.querySelectorAll('.photo-win'));
-  if (wins.length < 2) return;
 
+  // Enlarge overlay
+  const overlay = document.createElement('div');
+  overlay.style.cssText = 'position:fixed;inset:0;z-index:9999;background:rgba(0,0,0,0.85);display:flex;align-items:center;justify-content:center;cursor:zoom-out;opacity:0;transition:opacity 0.3s;pointer-events:none';
+  const enlargedImg = document.createElement('img');
+  enlargedImg.style.cssText = 'max-width:90vw;max-height:88vh;border-radius:8px;box-shadow:0 30px 80px rgba(0,0,0,0.8);transform:scale(0.92);transition:transform 0.35s cubic-bezier(0.34,1.56,0.64,1)';
+  overlay.appendChild(enlargedImg);
+  document.body.appendChild(overlay);
+
+  function openEnlarge(src) {
+    enlargedImg.src = src;
+    overlay.style.pointerEvents = 'all';
+    overlay.style.opacity = '1';
+    setTimeout(() => { enlargedImg.style.transform = 'scale(1)'; }, 10);
+  }
+  function closeEnlarge() {
+    overlay.style.opacity = '0';
+    enlargedImg.style.transform = 'scale(0.92)';
+    setTimeout(() => { overlay.style.pointerEvents = 'none'; }, 300);
+  }
+  overlay.addEventListener('click', closeEnlarge);
+  document.addEventListener('keydown', e => { if (e.key === 'Escape') closeEnlarge(); });
+
+  // Click to bring to front, double-click to enlarge
   function bringToFront(win) {
-    // Swap HTML position — move clicked win to first child
     stack.insertBefore(win, stack.firstChild);
-    // Re-apply nth-child transforms via class reset trick
-    wins.forEach((w, i) => {
-      w.style.cssText = '';  // clear inline styles, let CSS nth-child re-apply
-    });
+    // Let CSS nth-child retrigger by forcing reflow
+    void stack.offsetHeight;
   }
 
-  wins.forEach(win => {
-    win.addEventListener('click', () => bringToFront(win));
+  let clickTimer = null;
+  stack.querySelectorAll('.photo-win').forEach(win => {
+    win.addEventListener('click', () => {
+      clearTimeout(clickTimer);
+      clickTimer = setTimeout(() => {
+        bringToFront(win);
+      }, 200);
+    });
+    win.addEventListener('dblclick', () => {
+      clearTimeout(clickTimer);
+      const img = win.querySelector('.pwin-img');
+      if (img) openEnlarge(img.src);
+    });
   });
+})();
 })();
 
 // ── ACTIVE NAV HIGHLIGHT ──
