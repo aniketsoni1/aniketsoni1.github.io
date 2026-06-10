@@ -1652,6 +1652,33 @@ footer{border-top:1px solid var(--border);padding:2.5rem 3rem;background:var(--s
 
 /* ═══ FEATURE 5 — STACKED PHOTO WINDOWS ═══ */
 .photo-stack-wrap{position:relative;width:260px;height:295px;flex-shrink:0}
+
+/* ═══ CLICK-ME HINT (appears after 10s in About) ═══ */
+.photo-hint{
+  position:absolute;top:-48px;left:130px;z-index:10;
+  display:flex;flex-direction:column;align-items:center;gap:0.1rem;
+  opacity:0;pointer-events:none;
+  transition:opacity 0.5s ease;
+}
+.photo-hint.show{opacity:1;pointer-events:auto;cursor:pointer}
+.photo-hint-label{
+  font-family:'JetBrains Mono',monospace;font-size:0.62rem;
+  letter-spacing:0.1em;text-transform:uppercase;
+  color:var(--lime);background:var(--lime-low);
+  border:1px solid var(--lime-line);border-radius:100px;
+  padding:0.3rem 0.8rem;white-space:nowrap;
+}
+.photo-hint-arrow{
+  font-size:1.3rem;color:var(--lime);line-height:1;
+  animation:hint-bounce 1.2s ease-in-out infinite;
+}
+@keyframes hint-bounce{
+  0%,100%{transform:translateY(0)}
+  50%{transform:translateY(7px)}
+}
+@media(max-width:860px){
+  .photo-hint{top:-50px;right:auto;left:50%;transform:translateX(-50%)}
+}
 .photo-win{position:absolute;width:208px;background:#0e0e0e;border-radius:6px;overflow:hidden;box-shadow:0 15px 40px rgba(0,0,0,0.5);border:1px solid var(--border);transition:transform 0.45s cubic-bezier(0.34,1.56,0.64,1),box-shadow 0.45s}
 .photo-win:nth-child(1){top:0;left:0;transform:rotate(-5deg);z-index:3}
 .photo-win:nth-child(2){top:33px;left:38px;transform:rotate(3deg);z-index:2}
@@ -1954,7 +1981,11 @@ tr.pub-row[data-href]:hover .pub-doi { color: var(--lime); }
         <p>Recognized internationally for sustained contributions to the technology community, Aniket serves as a <strong>judge, peer reviewer, speaker, and mentor</strong>. He has evaluated work at MIT, IEEE conferences, the SIIA Neal Awards, and Major League Hacking — roles that place him among the small group of professionals called upon to assess the work of their peers. He mentors emerging engineers across three continents through FEA India, ENGin Ukraine, and TopMate.io.</p>
       </div>
       <div class="about-sidebar">
-        <div class="about-photos-new">
+        <div class="about-photos-new" style="position:relative">
+          <div class="photo-hint" id="photoHint" aria-hidden="true">
+            <span class="photo-hint-label">Click me</span>
+            <span class="photo-hint-arrow">↓</span>
+          </div>
           <div class="photo-stack-wrap">
             <div class="photo-win">
               <div class="pwin-bar">
@@ -3012,6 +3043,47 @@ gsap.registerPlugin(ScrollTrigger);
       }).join('');
     })
     .catch(() => { /* keep static cards */ });
+})();
+
+// ── PHOTO HINT — show "click me" after 10s in About section ──
+(function() {
+  const hint = document.getElementById('photoHint');
+  const aboutSection = document.getElementById('about');
+  const stack = document.querySelector('.photo-stack-wrap');
+  if (!hint || !aboutSection || !stack) return;
+
+  let timer = null;
+  let dismissed = false;
+
+  function showHint() {
+    if (!dismissed) hint.classList.add('show');
+  }
+  function dismissHint() {
+    dismissed = true;
+    hint.classList.remove('show');
+    if (timer) { clearTimeout(timer); timer = null; }
+  }
+
+  // Start 10s timer when About is visible; cancel if user scrolls away
+  const aboutObs = new IntersectionObserver(entries => {
+    entries.forEach(e => {
+      if (e.isIntersecting && !dismissed && !timer) {
+        timer = setTimeout(showHint, 10000);
+      } else if (!e.isIntersecting && timer) {
+        clearTimeout(timer); timer = null;
+      }
+    });
+  }, {threshold: 0.4});
+  aboutObs.observe(aboutSection);
+
+  // Dismiss when user clicks any photo (they got the message)
+  stack.addEventListener('click', dismissHint);
+  // Clicking the hint itself brings the top photo forward and dismisses
+  hint.addEventListener('click', () => {
+    const topWin = stack.querySelector('.photo-win');
+    if (topWin) topWin.click();
+    dismissHint();
+  });
 })();
 
 // ── FEATURE 6: CONTACT FORM PRE-FILL ──
