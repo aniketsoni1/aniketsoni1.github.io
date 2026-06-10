@@ -1405,6 +1405,27 @@ body,nav,.bento,.exp-card,.proj-card,.press-card,.award-tile,.role-card,.edu-car
   font-family:'JetBrains Mono',monospace;font-size:0.62rem;color:var(--green);
   letter-spacing:0.08em;text-transform:uppercase;margin-top:0.6rem;display:inline-block;
 }
+/* Boxed CTA buttons — both View Publication and OpenLibrary match */
+.book-cta-btn{
+  font-family:'JetBrains Mono',monospace;font-size:0.62rem;
+  letter-spacing:0.08em;text-transform:uppercase;
+  display:inline-flex;align-items:center;gap:0.35rem;
+  padding:0.5rem 1rem;border-radius:6px;
+  border:1px solid rgba(0,229,160,0.3);
+  background:rgba(0,229,160,0.06);
+  color:var(--green);text-decoration:none;
+  transition:border-color 0.2s,background 0.2s,transform 0.2s;
+  margin-top:0;
+}
+.book-cta-btn:hover{border-color:var(--green);background:rgba(0,229,160,0.12);transform:translateY(-1px)}
+.book-cta-btn.purple{
+  border-color:rgba(123,97,255,0.3);
+  background:rgba(123,97,255,0.06);
+  color:#a07aff;
+}
+.book-cta-btn.purple:hover{border-color:#a07aff;background:rgba(123,97,255,0.12)}
+[data-theme="light"] .book-cta-btn{color:#007a5a;border-color:rgba(0,158,114,0.35);background:rgba(0,158,114,0.06)}
+[data-theme="light"] .book-cta-btn.purple{color:#6d4fd1;border-color:rgba(109,79,209,0.35);background:rgba(109,79,209,0.06)}
 @media(max-width:500px){.book-highlight{grid-template-columns:1fr}.book-cover{display:none}}
 
 /* ═══ PUB FILTER TABS ═══ */
@@ -1662,6 +1683,10 @@ footer{border-top:1px solid var(--border);padding:2.5rem 3rem;background:var(--s
 .press-subsection-label{font-family:'JetBrains Mono',monospace;font-size:0.6rem;letter-spacing:0.18em;text-transform:uppercase;display:flex;align-items:center;gap:0.4rem;margin-bottom:1rem;margin-top:2.5rem}
 .press-subsection-label::before{content:'//'}
 .press-subsection-label.press-col{color:var(--blue)}.press-subsection-label.medium-col{color:var(--lime)}
+.press-subsection-label.devto-col{color:#a07aff}
+.medium-monogram.devto-mono{background:rgba(123,97,255,0.1);color:#a07aff;font-size:0.55rem;letter-spacing:0.05em}
+.press-card-medium.devto::before{background:linear-gradient(90deg,#a07aff,#7b61ff)}
+.press-card-medium.devto:hover{border-color:rgba(123,97,255,0.35)}
 .press-medium-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:1rem}
 .press-card-medium{background:var(--card-bg);border:1px solid var(--border);border-radius:6px;padding:1.4rem;display:flex;flex-direction:column;text-decoration:none;color:inherit;transition:all 0.25s;position:relative;overflow:hidden}
 .press-card-medium::before{content:'';position:absolute;top:0;left:0;right:0;height:2px;background:linear-gradient(90deg,var(--lime),var(--green));transform:scaleX(0);transform-origin:left;transition:transform 0.35s}
@@ -2254,9 +2279,9 @@ tr.pub-row[data-href]:hover .pub-doi { color: var(--lime); }
         <div class="book-title">Scalable Infrastructure: Building Reliable Distributed Systems</div>
         <div class="book-meta">BP International · ISBN 978-93-49970-00-7 · DOI 10.9734/bpi</div>
         <div class="book-meta">Sole author · Computer Science · Distributed Systems</div>
-        <div style="display:flex;gap:1rem;flex-wrap:wrap;margin-top:0.6rem">
-          <div class="book-cta">View Publication ↗</div>
-          <a href="https://openlibrary.org/works/OL45568655W/Scalable_Infrastructure" target="_blank" rel="noopener noreferrer" class="book-cta" style="color:var(--muted);text-decoration:none" onclick="event.stopPropagation()">OpenLibrary ↗</a>
+        <div style="display:flex;gap:0.8rem;flex-wrap:wrap;margin-top:0.8rem">
+          <span class="book-cta-btn">View Publication ↗</span>
+          <a href="https://openlibrary.org/works/OL45568655W/Scalable_Infrastructure" target="_blank" rel="noopener noreferrer" class="book-cta-btn" onclick="event.stopPropagation()">OpenLibrary ↗</a>
         </div>
       </div>
     </a>
@@ -2272,9 +2297,9 @@ tr.pub-row[data-href]:hover .pub-doi { color: var(--lime); }
         <div class="book-title">AI-Enabled Serverless Engineering for Autonomous Cloud Operations</div>
         <div class="book-meta">Technical Press · ISBN 978-81-69069-56-4 · First Edition</div>
         <div class="book-meta">Co-author (with Milan Parikh) · Cloud Architecture · AI Systems</div>
-        <div style="display:flex;gap:1rem;flex-wrap:wrap;margin-top:0.6rem">
-          <div class="book-cta" style="color:#a07aff">View Publication ↗</div>
-          <a href="https://openlibrary.org/works/OL45568656W/AI-Enabled_Serverless_Engineering_for_Autonomous_Cloud_Operations" target="_blank" rel="noopener noreferrer" class="book-cta" style="color:var(--muted);text-decoration:none" onclick="event.stopPropagation()">OpenLibrary ↗</a>
+        <div style="display:flex;gap:0.8rem;flex-wrap:wrap;margin-top:0.8rem">
+          <span class="book-cta-btn purple">View Publication ↗</span>
+          <a href="https://openlibrary.org/works/OL45568656W/AI-Enabled_Serverless_Engineering_for_Autonomous_Cloud_Operations" target="_blank" rel="noopener noreferrer" class="book-cta-btn purple" onclick="event.stopPropagation()">OpenLibrary ↗</a>
         </div>
       </div>
     </a>
@@ -2504,7 +2529,7 @@ tr.pub-row[data-href]:hover .pub-doi { color: var(--lime); }
     </div>
 
     <div class="press-subsection-label medium-col">Writing on Medium</div>
-    <div class="press-medium-grid reveal">
+    <div class="press-medium-grid reveal" id="mediumGrid">
       <a href="https://aniketsoni1.medium.com/it-works-on-my-cluster-containerizing-spark-and-lakehouse-development-with-docker-b17ac6931817" target="_blank" rel="noopener noreferrer" class="press-card-medium">
         <div class="medium-pub">
           <div class="medium-monogram">M</div>
@@ -2513,7 +2538,7 @@ tr.pub-row[data-href]:hover .pub-doi { color: var(--lime); }
         </div>
         <div class="medium-title">"It Works on My Cluster" — Containerizing Spark and Lakehouse Development with Docker</div>
         <div class="medium-desc">Reproducible Spark and lakehouse development environments using Docker for modern data engineering teams.</div>
-        <div class="medium-meta"><span>2026</span><span class="medium-cta">Read →</span></div>
+        <div class="medium-meta"><span>Jun 2026</span><span class="medium-cta">Read →</span></div>
       </a>
       <a href="https://aniketsoni1.medium.com/mastering-container-workflows-with-docker-building-sharing-and-scaling-like-a-captain-afc0654c473f" target="_blank" rel="noopener noreferrer" class="press-card-medium">
         <div class="medium-pub">
@@ -2564,6 +2589,30 @@ tr.pub-row[data-href]:hover .pub-doi { color: var(--lime); }
         <div class="medium-title">What is Confusion Matrix?</div>
         <div class="medium-desc">Understanding model performance in the dynamic landscape of machine learning and artificial intelligence.</div>
         <div class="medium-meta"><span>Nov 2023</span><span class="medium-cta">Read →</span></div>
+      </a>
+    </div>
+
+    <div class="press-subsection-label devto-col">Writing on Dev.to</div>
+    <div class="press-medium-grid reveal" id="devtoGrid">
+      <a href="https://dev.to/aniketsoni/it-works-on-my-cluster-containerizing-spark-and-lakehouse-development-with-docker-556k" target="_blank" rel="noopener noreferrer" class="press-card-medium devto">
+        <div class="medium-pub">
+          <div class="medium-monogram devto-mono">DEV</div>
+          <span class="medium-pub-name">Dev.to</span>
+          <span class="medium-pub-type">Data Engineering</span>
+        </div>
+        <div class="medium-title">"It Works on My Cluster" — Containerizing Spark and Lakehouse Development with Docker</div>
+        <div class="medium-desc">Reproducible Spark and lakehouse development environments using Docker for modern data engineering teams.</div>
+        <div class="medium-meta"><span>Jun 10, 2026</span><span class="medium-cta">Read →</span></div>
+      </a>
+      <a href="https://dev.to/aniketsoni/biohack-your-brain-with-neural-implants-why-silicon-valleys-elite-are-betting-big-in-2026-2anj" target="_blank" rel="noopener noreferrer" class="press-card-medium devto">
+        <div class="medium-pub">
+          <div class="medium-monogram devto-mono">DEV</div>
+          <span class="medium-pub-name">Dev.to</span>
+          <span class="medium-pub-type">Emerging Tech</span>
+        </div>
+        <div class="medium-title">Biohack Your Brain with Neural Implants: Why Silicon Valley's Elite Are Betting Big in 2026</div>
+        <div class="medium-desc">Exploring the rise of neural interface technology and why major investors are betting on brain-computer interfaces.</div>
+        <div class="medium-meta"><span>Jun 8, 2026</span><span class="medium-cta">Read →</span></div>
       </a>
     </div>
   </div>
@@ -2897,6 +2946,72 @@ gsap.registerPlugin(ScrollTrigger);
     .catch(() => {
       grid.innerHTML = '<div class="gh-loading" style="color:var(--muted)">Could not load repositories — <a href="https://github.com/aniketsoni1" target="_blank" rel="noopener noreferrer" style="color:var(--lime)">view on GitHub ↗</a></div>';
     });
+})();
+
+// ── LIVE MEDIUM ARTICLES (rss2json proxy, falls back to static cards) ──
+(function() {
+  const grid = document.getElementById('mediumGrid');
+  if (!grid) return;
+  const typeFromCats = cats => {
+    if (!cats || !cats.length) return 'Article';
+    const c = cats[0].toLowerCase();
+    if (c.includes('docker')||c.includes('devops')) return 'DevOps';
+    if (c.includes('data')) return 'Data Engineering';
+    if (c.includes('ai')||c.includes('machine')) return 'AI/ML';
+    if (c.includes('cloud')) return 'Cloud';
+    return cats[0].charAt(0).toUpperCase()+cats[0].slice(1);
+  };
+  const stripHtml = html => { const d=document.createElement('div'); d.innerHTML=html; return (d.textContent||'').trim(); };
+  fetch('https://api.rss2json.com/v1/api.json?rss_url=' + encodeURIComponent('https://aniketsoni1.medium.com/feed'))
+    .then(r => { if(!r.ok) throw new Error(); return r.json(); })
+    .then(data => {
+      if (data.status !== 'ok' || !data.items || !data.items.length) throw new Error();
+      const items = data.items.slice(0, 6);
+      grid.innerHTML = items.map(item => {
+        const date = new Date(item.pubDate).toLocaleDateString('en-US',{month:'short',year:'numeric'});
+        const desc = stripHtml(item.description).slice(0, 130) + '…';
+        return `
+        <a href="${item.link}" target="_blank" rel="noopener noreferrer" class="press-card-medium">
+          <div class="medium-pub">
+            <div class="medium-monogram">M</div>
+            <span class="medium-pub-name">Medium</span>
+            <span class="medium-pub-type">${typeFromCats(item.categories)}</span>
+          </div>
+          <div class="medium-title">${item.title}</div>
+          <div class="medium-desc">${desc}</div>
+          <div class="medium-meta"><span>${date}</span><span class="medium-cta">Read →</span></div>
+        </a>`;
+      }).join('');
+    })
+    .catch(() => { /* keep static cards */ });
+})();
+
+// ── LIVE DEV.TO ARTICLES (native API, falls back to static cards) ──
+(function() {
+  const grid = document.getElementById('devtoGrid');
+  if (!grid) return;
+  fetch('https://dev.to/api/articles?username=aniketsoni&per_page=6')
+    .then(r => { if(!r.ok) throw new Error(); return r.json(); })
+    .then(articles => {
+      if (!Array.isArray(articles) || !articles.length) throw new Error();
+      grid.innerHTML = articles.map(a => {
+        const date = new Date(a.published_at).toLocaleDateString('en-US',{month:'short',day:'numeric',year:'numeric'});
+        const tag = (a.tag_list && a.tag_list.length) ? a.tag_list[0].charAt(0).toUpperCase()+a.tag_list[0].slice(1) : 'Article';
+        const desc = (a.description || '').slice(0, 130);
+        return `
+        <a href="${a.url}" target="_blank" rel="noopener noreferrer" class="press-card-medium devto">
+          <div class="medium-pub">
+            <div class="medium-monogram devto-mono">DEV</div>
+            <span class="medium-pub-name">Dev.to</span>
+            <span class="medium-pub-type">${tag}</span>
+          </div>
+          <div class="medium-title">${a.title}</div>
+          <div class="medium-desc">${desc}</div>
+          <div class="medium-meta"><span>${date}${a.positive_reactions_count > 0 ? ' · ♥ '+a.positive_reactions_count : ''}</span><span class="medium-cta">Read →</span></div>
+        </a>`;
+      }).join('');
+    })
+    .catch(() => { /* keep static cards */ });
 })();
 
 // ── FEATURE 6: CONTACT FORM PRE-FILL ──
