@@ -226,7 +226,7 @@
       "publisher": { "@type": "Organization", "name": "Technical Press" },
       "isbn": "978-81-69069-56-4",
       "datePublished": "2026",
-      "url": "https://www.thetechnicalpress.com",
+      "url": "https://www.thetechnicalpress.com/home/details/78",
       "inLanguage": "en",
       "genre": "Computer Science"
     },
@@ -793,7 +793,7 @@ h2.sec-title{
   display:flex;flex-direction:column;
 }
 .proj-card:nth-child(1){grid-row:span 2}
-.proj-card:nth-child(4){grid-column:span 2}
+.proj-card:nth-child(5){grid-column:span 2}
 .proj-card::after{
   content:'';position:absolute;inset:0;
   background:radial-gradient(circle at 50% 0%,var(--lime-dim),transparent 60%);
@@ -1123,7 +1123,7 @@ footer{
   .hero-left{padding-top:0}
   .section{padding:4rem 1.5rem}
   .projects-masonry{grid-template-columns:1fr;grid-auto-rows:auto}
-  .proj-card:nth-child(1),.proj-card:nth-child(4){grid-row:auto;grid-column:auto}
+  .proj-card:nth-child(1),.proj-card:nth-child(5){grid-row:auto;grid-column:auto}
   .awards-bento{grid-template-columns:1fr 1fr}
   .roles-grid{grid-template-columns:1fr}
   .edu-cards{grid-template-columns:1fr}
@@ -1365,70 +1365,77 @@ body,nav,.bento,.exp-card,.proj-card,.press-card,.award-tile,.role-card,.edu-car
 @media(max-width:860px){.about-grid{grid-template-columns:1fr}}
 
 /* ═══ BOOK HIGHLIGHT ═══ */
+/* ═══ BOOKS — single container with inner book boxes ═══ */
+.books-container{
+  background:linear-gradient(135deg,var(--card-bg),rgba(0,229,160,0.03));
+  border:1px solid var(--border);border-radius:10px;
+  padding:1.5rem;margin-bottom:2rem;
+  display:flex;flex-direction:column;gap:1.2rem;
+}
+.books-container-label{
+  font-family:'JetBrains Mono',monospace;font-size:0.6rem;
+  letter-spacing:0.16em;text-transform:uppercase;color:var(--muted);
+  display:flex;align-items:center;gap:0.4rem;margin-bottom:0.2rem;
+}
+.books-container-label::before{content:'//';color:var(--green)}
 .book-highlight{
-  display:grid;grid-template-columns:auto 1fr;gap:1.8rem;
-  background:linear-gradient(135deg,var(--card-bg),rgba(0,229,160,0.04));
-  border:1px solid rgba(0,229,160,0.2);border-radius:6px;
-  padding:1.8rem;margin-bottom:2rem;align-items:center;
-  transition:border-color 0.25s,transform 0.25s;
+  display:grid;grid-template-columns:auto 1fr;gap:1.5rem;
+  background:rgba(0,229,160,0.04);
+  border:1px solid rgba(0,229,160,0.18);border-radius:8px;
+  padding:1.4rem;align-items:start;
+  transition:border-color 0.25s,transform 0.25s,background 0.25s;
   text-decoration:none;color:inherit;
 }
-.book-highlight:hover{border-color:rgba(0,229,160,0.45);transform:translateY(-2px)}
-.book-cover{
-  width:80px;min-width:80px;height:110px;
-  background:linear-gradient(160deg,#003d30,#00261e);border-radius:4px;
-  display:flex;align-items:center;justify-content:center;
-  border:1px solid rgba(0,229,160,0.2);position:relative;overflow:hidden;
+.book-highlight:hover{border-color:rgba(0,229,160,0.45);transform:translateY(-2px);background:rgba(0,229,160,0.07)}
+.book-highlight.purple-book{background:rgba(123,97,255,0.04);border-color:rgba(123,97,255,0.18)}
+.book-highlight.purple-book:hover{border-color:rgba(123,97,255,0.45);background:rgba(123,97,255,0.07)}
+/* Cover image — fixed size, fallback stays contained */
+.book-cover-img{
+  width:88px;min-width:88px;height:122px;border-radius:5px;overflow:hidden;
+  box-shadow:0 8px 24px rgba(0,0,0,0.4);flex-shrink:0;
 }
-.book-cover::after{
-  content:'';position:absolute;inset:0;
-  background:linear-gradient(135deg,rgba(0,229,160,0.15) 0%,transparent 60%);
+.book-cover-img img{width:100%;height:100%;object-fit:cover;display:block}
+.book-cover-fallback{
+  width:100%;height:100%;display:flex;align-items:center;justify-content:center;
 }
-.book-spine{
-  font-family:'Bebas Neue',sans-serif;font-size:0.65rem;letter-spacing:0.25em;
-  writing-mode:vertical-rl;text-orientation:mixed;
-  color:rgba(0,229,160,0.7);transform:rotate(180deg);position:relative;z-index:1;
+.book-cover-fallback span{
+  font-family:'Bebas Neue',sans-serif;font-size:0.6rem;letter-spacing:0.2em;
+  writing-mode:vertical-rl;transform:rotate(180deg);
 }
 .book-badge{
-  font-family:'JetBrains Mono',monospace;font-size:0.6rem;letter-spacing:0.14em;
+  font-family:'JetBrains Mono',monospace;font-size:0.58rem;letter-spacing:0.14em;
   text-transform:uppercase;color:var(--green);border:1px solid rgba(0,229,160,0.3);
   background:rgba(0,229,160,0.06);padding:0.2rem 0.6rem;border-radius:100px;
   display:inline-block;margin-bottom:0.6rem;
 }
 .book-title{
-  font-family:'Bebas Neue',sans-serif;font-size:1.35rem;letter-spacing:0.04em;
+  font-family:'Bebas Neue',sans-serif;font-size:1.3rem;letter-spacing:0.04em;
   line-height:1.1;margin-bottom:0.5rem;
 }
 .book-meta{
-  font-family:'JetBrains Mono',monospace;font-size:0.62rem;
-  color:var(--muted);letter-spacing:0.08em;margin-bottom:0.4rem;
+  font-family:'JetBrains Mono',monospace;font-size:0.61rem;
+  color:var(--muted);letter-spacing:0.06em;margin-bottom:0.35rem;
 }
-.book-cta{
-  font-family:'JetBrains Mono',monospace;font-size:0.62rem;color:var(--green);
-  letter-spacing:0.08em;text-transform:uppercase;margin-top:0.6rem;display:inline-block;
-}
-/* Boxed CTA buttons — both View Publication and OpenLibrary match */
+.book-cta-row{display:flex;gap:0.7rem;flex-wrap:wrap;margin-top:0.8rem}
 .book-cta-btn{
-  font-family:'JetBrains Mono',monospace;font-size:0.62rem;
+  font-family:'JetBrains Mono',monospace;font-size:0.6rem;
   letter-spacing:0.08em;text-transform:uppercase;
   display:inline-flex;align-items:center;gap:0.35rem;
-  padding:0.5rem 1rem;border-radius:6px;
+  padding:0.45rem 0.9rem;border-radius:6px;
   border:1px solid rgba(0,229,160,0.3);
   background:rgba(0,229,160,0.06);
   color:var(--green);text-decoration:none;
   transition:border-color 0.2s,background 0.2s,transform 0.2s;
-  margin-top:0;
 }
-.book-cta-btn:hover{border-color:var(--green);background:rgba(0,229,160,0.12);transform:translateY(-1px)}
-.book-cta-btn.purple{
-  border-color:rgba(123,97,255,0.3);
-  background:rgba(123,97,255,0.06);
-  color:#a07aff;
-}
-.book-cta-btn.purple:hover{border-color:#a07aff;background:rgba(123,97,255,0.12)}
+.book-cta-btn:hover{border-color:var(--green);background:rgba(0,229,160,0.14);transform:translateY(-1px)}
+.book-cta-btn.purple{border-color:rgba(123,97,255,0.3);background:rgba(123,97,255,0.06);color:#a07aff}
+.book-cta-btn.purple:hover{border-color:#a07aff;background:rgba(123,97,255,0.14)}
 [data-theme="light"] .book-cta-btn{color:#007a5a;border-color:rgba(0,158,114,0.35);background:rgba(0,158,114,0.06)}
 [data-theme="light"] .book-cta-btn.purple{color:#6d4fd1;border-color:rgba(109,79,209,0.35);background:rgba(109,79,209,0.06)}
-@media(max-width:500px){.book-highlight{grid-template-columns:1fr}.book-cover{display:none}}
+@media(max-width:560px){
+  .book-highlight{grid-template-columns:1fr;gap:1rem}
+  .book-cover-img{width:80px;height:112px}
+}
 
 /* ═══ PUB FILTER TABS ═══ */
 .pub-filter-wrap{display:flex;gap:0.5rem;margin-bottom:1.5rem;flex-wrap:wrap}
@@ -2235,6 +2242,21 @@ tr.pub-row[data-href]:hover .pub-doi { color: var(--lime); }
 
       <article class="proj-card">
         <div class="proj-num" aria-hidden="true">01</div>
+        <div class="proj-cat">LLM App · Streamlit · Groq</div>
+        <h3 class="proj-title">Resume Fit & Rewrite Assistant</h3>
+        <p class="proj-desc">A live AI resume analyzer built with Streamlit and the Groq API (Llama 3.3 70B). Upload a resume (PDF/DOCX/TXT/MD) and a job description to get an evidence-based fit score, strong-vs-partial-vs-missing skill separation, missing ATS keywords, grounded bullet rewrites, and a prioritized action plan. The model is constrained to never invent experience — rewrites are grounded only in the actual resume, and missing skills become concrete project suggestions instead of fabricated history. Features three modes including an agent-style multi-step pipeline.</p>
+        <div class="proj-stats">
+          <span class="proj-stat">Streamlit + Groq</span>
+          <span class="proj-stat">Llama 3.3 70B</span>
+          <span class="proj-stat">Agent Pipeline</span>
+        </div>
+        <a href="https://resume-fit-assistant.streamlit.app/" target="_blank" rel="noopener noreferrer" class="proj-link">Live Demo ↗</a>
+        <a href="https://github.com/aniketsoni1/resume-fit-assistant" target="_blank" rel="noopener noreferrer" class="proj-link">GitHub ↗</a>
+        <div class="proj-year">June 2026 · Deployed on Streamlit Cloud</div>
+      </article>
+
+      <article class="proj-card">
+        <div class="proj-num" aria-hidden="true">02</div>
         <div class="proj-cat">ML · Generative AI · Audio</div>
         <h3 class="proj-title">Music Mood App</h3>
         <p class="proj-desc">Built for Google AI's Music Mood App Competition. Developed a full ML pipeline using generative AI for mood-based music classification — achieving 85% accuracy, a 30% improvement over baseline. Designed an interactive UI that boosted user engagement by 40%.</p>
@@ -2246,7 +2268,7 @@ tr.pub-row[data-href]:hover .pub-doi { color: var(--lime); }
       </article>
 
       <article class="proj-card">
-        <div class="proj-num" aria-hidden="true">02</div>
+        <div class="proj-num" aria-hidden="true">03</div>
         <div class="proj-cat">NLP · Speech · Python</div>
         <h3 class="proj-title">Offline Speech-to-Text (Vosk)</h3>
         <p class="proj-desc">High-accuracy offline transcription tool using Vosk + Python. Integrated KaldiRecognizer with pre-trained models, automated audio-to-text export as DOCX — eliminating 100% of manual transcription effort. Basis for an arXiv-published paper.</p>
@@ -2260,7 +2282,7 @@ tr.pub-row[data-href]:hover .pub-doi { color: var(--lime); }
       </article>
 
       <article class="proj-card">
-        <div class="proj-num" aria-hidden="true">03</div>
+        <div class="proj-num" aria-hidden="true">04</div>
         <div class="proj-cat">Web · Air Quality · Django</div>
         <h3 class="proj-title">Air Quality Web App</h3>
         <p class="proj-desc">Real-time AQI lookup by ZIP code built with Python-Django backend and Bootstrap frontend — providing live air quality data via an intuitive search interface.</p>
@@ -2268,7 +2290,7 @@ tr.pub-row[data-href]:hover .pub-doi { color: var(--lime); }
       </article>
 
       <article class="proj-card">
-        <div class="proj-num" aria-hidden="true">04</div>
+        <div class="proj-num" aria-hidden="true">05</div>
         <div class="proj-cat">Data Analysis · Public Health · Python</div>
         <h3 class="proj-title">COVID-19 Data Analysis</h3>
         <p class="proj-desc">Pulled Johns Hopkins COVID-19 data, analyzed with Pandas, and visualized with Plotly + Folium. Compared countries by social distancing, government response, healthcare capacity, and testing feasibility during peak pandemic uncertainty.</p>
@@ -2280,7 +2302,7 @@ tr.pub-row[data-href]:hover .pub-doi { color: var(--lime); }
       </article>
 
       <article class="proj-card">
-        <div class="proj-num" aria-hidden="true">05</div>
+        <div class="proj-num" aria-hidden="true">06</div>
         <div class="proj-cat">NLP · Twitter API · ML</div>
         <h3 class="proj-title">Twitter Sentiment Analysis</h3>
         <p class="proj-desc">Live tweet ingestion via Twitter API → PostgreSQL → Scikit-learn Naive Bayes model. Achieved greater than 80% AUC across positive, negative, and neutral classes with manually annotated training data.</p>
@@ -2289,7 +2311,7 @@ tr.pub-row[data-href]:hover .pub-doi { color: var(--lime); }
       </article>
 
       <article class="proj-card">
-        <div class="proj-num" aria-hidden="true">06</div>
+        <div class="proj-num" aria-hidden="true">07</div>
         <div class="proj-cat">.NET · Healthcare · ERP</div>
         <h3 class="proj-title">Medicines Stock Management System</h3>
         <p class="proj-desc">Full-stack .NET application with prescription management, real-time dashboards, automated email/SMS alerts to distributors, and smart low-stock threshold detection.</p>
@@ -2305,41 +2327,45 @@ tr.pub-row[data-href]:hover .pub-doi { color: var(--lime); }
   <div class="section-inner">
     <div class="sec-eyebrow">Academic Output</div>
     <h2 class="sec-title">Research & Publications</h2>
-    <a href="https://doi.org/10.9734/bpi/mono/978-93-49970-00-7" target="_blank" rel="noopener noreferrer" class="book-highlight reveal">
-      <div class="book-cover-img">
-        <img src="https://raw.githubusercontent.com/aniketsoni1/aniketsoni1.github.io/main/assets/img/book1-cover.jpg"
-             alt="Scalable Infrastructure book cover"
-             onerror="this.parentElement.innerHTML='<div style=\'width:100%;height:100%;background:linear-gradient(160deg,#003d30,#00261e);display:flex;align-items:center;justify-content:center;\'><span style=\'font-family:Bebas Neue,sans-serif;font-size:0.6rem;letter-spacing:0.2em;writing-mode:vertical-rl;transform:rotate(180deg);color:rgba(0,229,160,0.7)\'>SCALABLE INFRA</span></div>'">
-      </div>
-      <div class="book-info">
-        <span class="book-badge">📖 Published Book · 2025</span>
-        <div class="book-title">Scalable Infrastructure: Building Reliable Distributed Systems</div>
-        <div class="book-meta">BP International · ISBN 978-93-49970-00-7 · DOI 10.9734/bpi</div>
-        <div class="book-meta">Sole author · Computer Science · Distributed Systems</div>
-        <div style="display:flex;gap:0.8rem;flex-wrap:wrap;margin-top:0.8rem">
-          <span class="book-cta-btn">View Publication ↗</span>
-          <a href="https://openlibrary.org/works/OL45568655W/Scalable_Infrastructure" target="_blank" rel="noopener noreferrer" class="book-cta-btn" onclick="event.stopPropagation()">OpenLibrary ↗</a>
-        </div>
-      </div>
-    </a>
+    <div class="books-container reveal">
+      <div class="books-container-label">Published Books</div>
 
-    <a href="https://www.thetechnicalpress.com" target="_blank" rel="noopener noreferrer" class="book-highlight reveal" style="border-color:rgba(123,97,255,0.25);background:linear-gradient(135deg,var(--card-bg),rgba(123,97,255,0.04))">
-      <div class="book-cover-img">
-        <img src="https://raw.githubusercontent.com/aniketsoni1/aniketsoni1.github.io/main/assets/img/book2-cover.jpg"
-             alt="AI-Enabled Serverless Engineering book cover"
-             onerror="this.parentElement.innerHTML='<div style=\'width:100%;height:100%;background:linear-gradient(160deg,#1a0050,#0d0030);display:flex;align-items:center;justify-content:center;\'><span style=\'font-family:Bebas Neue,sans-serif;font-size:0.55rem;letter-spacing:0.2em;writing-mode:vertical-rl;transform:rotate(180deg);color:rgba(180,140,255,0.8)\'>AI SERVERLESS</span></div>'">
-      </div>
-      <div class="book-info">
-        <span class="book-badge" style="color:#a07aff;border-color:rgba(123,97,255,0.35);background:rgba(123,97,255,0.08)">📖 Published Book · 2026</span>
-        <div class="book-title">AI-Enabled Serverless Engineering for Autonomous Cloud Operations</div>
-        <div class="book-meta">Technical Press · ISBN 978-81-69069-56-4 · First Edition</div>
-        <div class="book-meta">Co-author (with Milan Parikh) · Cloud Architecture · AI Systems</div>
-        <div style="display:flex;gap:0.8rem;flex-wrap:wrap;margin-top:0.8rem">
-          <span class="book-cta-btn purple">View Publication ↗</span>
-          <a href="https://openlibrary.org/works/OL45568656W/AI-Enabled_Serverless_Engineering_for_Autonomous_Cloud_Operations" target="_blank" rel="noopener noreferrer" class="book-cta-btn purple" onclick="event.stopPropagation()">OpenLibrary ↗</a>
+      <a href="https://doi.org/10.9734/bpi/mono/978-93-49970-00-7" target="_blank" rel="noopener noreferrer" class="book-highlight">
+        <div class="book-cover-img">
+          <img src="https://raw.githubusercontent.com/aniketsoni1/aniketsoni1.github.io/main/assets/img/book1-cover.jpg"
+               alt="Scalable Infrastructure book cover"
+               onerror="this.parentElement.innerHTML='&lt;div class=\'book-cover-fallback\' style=\'background:linear-gradient(160deg,#003d30,#00261e)\'&gt;&lt;span style=\'color:rgba(0,229,160,0.7)\'&gt;SCALABLE INFRA&lt;/span&gt;&lt;/div&gt;'">
         </div>
-      </div>
-    </a>
+        <div class="book-info">
+          <span class="book-badge">📖 Published Book · 2025</span>
+          <div class="book-title">Scalable Infrastructure: Building Reliable Distributed Systems</div>
+          <div class="book-meta">BP International · ISBN 978-93-49970-00-7 · DOI 10.9734/bpi</div>
+          <div class="book-meta">Sole author · Computer Science · Distributed Systems</div>
+          <div class="book-cta-row">
+            <span class="book-cta-btn">View Publication ↗</span>
+            <a href="https://openlibrary.org/works/OL45568655W/Scalable_Infrastructure" target="_blank" rel="noopener noreferrer" class="book-cta-btn" onclick="event.stopPropagation()">OpenLibrary ↗</a>
+          </div>
+        </div>
+      </a>
+
+      <a href="https://thetechnicalpress.com/home/details/78" target="_blank" rel="noopener noreferrer" class="book-highlight purple-book">
+        <div class="book-cover-img">
+          <img src="https://raw.githubusercontent.com/aniketsoni1/aniketsoni1.github.io/main/assets/img/book2-cover.jpg"
+               alt="AI-Enabled Serverless Engineering book cover"
+               onerror="this.parentElement.innerHTML='&lt;div class=\'book-cover-fallback\' style=\'background:linear-gradient(160deg,#1a0050,#0d0030)\'&gt;&lt;span style=\'color:rgba(180,140,255,0.8)\'&gt;AI SERVERLESS&lt;/span&gt;&lt;/div&gt;'">
+        </div>
+        <div class="book-info">
+          <span class="book-badge" style="color:#a07aff;border-color:rgba(123,97,255,0.35);background:rgba(123,97,255,0.08)">📖 Published Book · 2026</span>
+          <div class="book-title">AI-Enabled Serverless Engineering for Autonomous Cloud Operations</div>
+          <div class="book-meta">Technical Press · ISBN 978-81-69069-56-4 · First Edition</div>
+          <div class="book-meta">Co-author (with Milan Parikh) · Cloud Architecture · AI Systems</div>
+          <div class="book-cta-row">
+            <span class="book-cta-btn purple">View Publication ↗</span>
+            <a href="https://openlibrary.org/works/OL45568656W/AI-Enabled_Serverless_Engineering_for_Autonomous_Cloud_Operations" target="_blank" rel="noopener noreferrer" class="book-cta-btn purple" onclick="event.stopPropagation()">OpenLibrary ↗</a>
+          </div>
+        </div>
+      </a>
+    </div>
     <div class="pub-filter-wrap" role="group" aria-label="Filter publications by type">
       <button class="pub-filter-btn active" data-filter="all">All</button>
       <button class="pub-filter-btn" data-filter="book">Books</button>
@@ -2367,7 +2393,7 @@ tr.pub-row[data-href]:hover .pub-doi { color: var(--lime); }
             <td class="pub-year">2025</td>
             <td><span class="pub-doi">10.9734/bpi ↗</span></td>
           </tr>
-          <tr class="pub-row" data-href="https://www.thetechnicalpress.com" style="cursor:pointer">
+          <tr class="pub-row" data-href="https://www.thetechnicalpress.com/home/details/78" style="cursor:pointer">
             <td><span class="pub-badge book">Book</span></td>
             <td>
               <div class="pub-title">AI-Enabled Serverless Engineering for Autonomous Cloud Operations</div>
