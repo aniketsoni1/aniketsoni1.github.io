@@ -784,6 +784,16 @@ h2.sec-title{
   grid-template-columns:repeat(3,1fr);
   grid-auto-rows:auto;gap:1rem;
 }
+.proj-group-label{
+  display:flex;align-items:center;gap:1rem;
+  margin:3.25rem 0 1.75rem;
+  font-family:'JetBrains Mono',monospace;
+  font-size:0.6rem;letter-spacing:0.14em;text-transform:uppercase;
+  color:var(--muted);white-space:nowrap;
+}
+.proj-group-label::before,.proj-group-label::after{
+  content:'';flex:1;height:1px;background:var(--border);
+}
 .proj-card{
   background:var(--card-bg);
   border:1px solid var(--border);
@@ -1630,8 +1640,12 @@ footer{border-top:1px solid var(--border);padding:2.5rem 3rem;background:var(--s
 .gh-live-strip{display:inline-flex;align-items:center;gap:0.4rem;font-family:'JetBrains Mono',monospace;font-size:0.6rem;color:var(--green);border:1px solid rgba(0,229,160,0.3);padding:0.25rem 0.7rem;border-radius:100px;margin-bottom:1.5rem}
 .gh-live-dot{width:5px;height:5px;border-radius:50%;background:var(--green);animation:blink 1.5s infinite;flex-shrink:0}
 .gh-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:1rem}
-.gh-card{background:var(--card-bg);border:1px solid var(--border);border-radius:6px;padding:1.3rem;transition:all 0.25s}
+.gh-card{background:var(--card-bg);border:1px solid var(--border);border-radius:6px;padding:1.3rem;transition:all 0.25s;cursor:pointer;position:relative}
 .gh-card:hover{border-color:var(--lime-line);transform:translateY(-3px)}
+.gh-card:focus-visible{outline:2px solid var(--lime);outline-offset:2px}
+.gh-links{display:flex;gap:1rem;flex-wrap:wrap;margin-top:0.85rem;padding-top:0.7rem;border-top:1px solid var(--border)}
+.gh-live-link{font-family:'JetBrains Mono',monospace;font-size:0.6rem;letter-spacing:0.07em;text-transform:uppercase;color:var(--lime);text-decoration:none;display:inline-flex;align-items:center;gap:0.3rem;border-bottom:1px solid var(--lime-line);padding-bottom:2px;transition:border-color 0.2s;position:relative;z-index:2}
+.gh-live-link:hover{border-color:var(--lime)}
 .gh-head{display:flex;align-items:center;gap:0.5rem;margin-bottom:0.5rem}
 .gh-repo-icon{color:var(--lime);font-size:0.85rem;flex-shrink:0}
 .gh-repo-name{font-family:'JetBrains Mono',monospace;font-size:0.73rem;color:var(--lime);text-decoration:none;font-weight:500;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
@@ -2238,6 +2252,7 @@ tr.pub-row[data-href]:hover .pub-doi { color: var(--lime); }
     <div class="gh-grid reveal" id="ghGrid">
       <div class="gh-loading"><div class="gh-spinner"></div>Fetching repositories...</div>
     </div>
+    <div class="proj-group-label reveal">Curated Highlights</div>
     <div class="projects-masonry reveal">
 
       <article class="proj-card">
@@ -2964,7 +2979,8 @@ tr.pub-row[data-href]:hover .pub-doi { color: var(--lime); }
 <!-- ════════════════════ SCRIPTS ════════════════════ -->
 <script>
 window.addEventListener('DOMContentLoaded', function() {
-gsap.registerPlugin(ScrollTrigger);
+const hasGSAP = (typeof gsap !== 'undefined' && typeof ScrollTrigger !== 'undefined');
+if (hasGSAP) gsap.registerPlugin(ScrollTrigger);
 
 // ── FEATURE 1: GSAP PINNED TIMELINE ──
 (function() {
@@ -2985,6 +3001,7 @@ gsap.registerPlugin(ScrollTrigger);
 
   activateStage(0);
 
+  if (!hasGSAP) return;
   stages.forEach((stage, i) => {
     ScrollTrigger.create({
       trigger: stage,
@@ -3005,13 +3022,20 @@ gsap.registerPlugin(ScrollTrigger);
     Shell:'#89e051',Go:'#00ADD8',HTML:'#e34c26',CSS:'#563d7c',
     'C':'#555555'
   };
+  // Known live deployments for repos whose GitHub "homepage" field may be unset.
+  // (Tip: setting the repo's website/homepage on GitHub also surfaces a link here automatically.)
+  const liveMap = {
+    'resume-fit-assistant':'https://resume-fit-assistant.streamlit.app/'
+  };
   fetch('https://api.github.com/users/aniketsoni1/repos?sort=updated&per_page=9')
     .then(r => { if (!r.ok) throw new Error(); return r.json(); })
     .then(repos => {
       const filtered = repos.filter(r => !r.fork && r.name !== 'aniketsoni1').slice(0, 6);
       if (!filtered.length) throw new Error();
-      grid.innerHTML = filtered.map(repo => `
-        <div class="gh-card">
+      grid.innerHTML = filtered.map(repo => {
+        const live = liveMap[repo.name] || (repo.homepage && repo.homepage.trim() ? repo.homepage.trim() : '');
+        return `
+        <div class="gh-card" data-url="${repo.html_url}" role="link" tabindex="0" aria-label="Open ${repo.name} on GitHub">
           <div class="gh-head">
             <span class="gh-repo-icon">📦</span>
             <a class="gh-repo-name" href="${repo.html_url}" target="_blank" rel="noopener noreferrer">${repo.name}</a>
@@ -3024,8 +3048,15 @@ gsap.registerPlugin(ScrollTrigger);
             ${repo.forks_count > 0 ? `<span class="gh-stat">⑂ ${repo.forks_count}</span>` : ''}
             <span class="gh-updated">Updated ${new Date(repo.updated_at).toLocaleDateString('en-US',{month:'short',year:'numeric'})}</span>
           </div>
-        </div>
-      `).join('');
+          ${live ? `<div class="gh-links"><a class="gh-live-link" href="${live}" target="_blank" rel="noopener noreferrer">Live Demo ↗</a></div>` : ''}
+        </div>`;
+      }).join('');
+      // Whole card is clickable → opens the repo; inner links keep their own targets.
+      grid.querySelectorAll('.gh-card').forEach(card => {
+        const open = () => window.open(card.dataset.url, '_blank', 'noopener,noreferrer');
+        card.addEventListener('click', e => { if (!e.target.closest('a')) open(); });
+        card.addEventListener('keydown', e => { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); open(); } });
+      });
     })
     .catch(() => {
       grid.innerHTML = '<div class="gh-loading" style="color:var(--muted)">Could not load repositories — <a href="https://github.com/aniketsoni1" target="_blank" rel="noopener noreferrer" style="color:var(--lime)">view on GitHub ↗</a></div>';
