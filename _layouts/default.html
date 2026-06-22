@@ -807,8 +807,10 @@ h2.sec-title{
 .proj-card::after{
   content:'';position:absolute;inset:0;
   background:radial-gradient(circle at 50% 0%,var(--lime-dim),transparent 60%);
-  opacity:0;transition:opacity 0.3s;
+  opacity:0;transition:opacity 0.3s;pointer-events:none;
 }
+.proj-card.is-clickable{cursor:pointer}
+.proj-card.is-clickable:focus-visible{outline:2px solid var(--lime);outline-offset:2px}
 .proj-card:hover{border-color:var(--lime-line);transform:translateY(-3px)}
 .proj-card:hover::after{opacity:1}
 .proj-num{
@@ -3061,6 +3063,22 @@ if (hasGSAP) gsap.registerPlugin(ScrollTrigger);
     .catch(() => {
       grid.innerHTML = '<div class="gh-loading" style="color:var(--muted)">Could not load repositories — <a href="https://github.com/aniketsoni1" target="_blank" rel="noopener noreferrer" style="color:var(--lime)">view on GitHub ↗</a></div>';
     });
+})();
+
+// ── CURATED PROJECT CARDS — whole card clickable to its primary link ──
+// Only cards that actually contain a link become clickable; inner links keep
+// their own targets (handler ignores clicks that land on an <a>).
+(function() {
+  document.querySelectorAll('.proj-card').forEach(card => {
+    const primary = card.querySelector('a.proj-link');
+    if (!primary) return;
+    card.classList.add('is-clickable');
+    card.setAttribute('tabindex', '0');
+    card.setAttribute('aria-label', (card.querySelector('.proj-title')?.textContent.trim() || 'Project') + ' — open');
+    const open = () => window.open(primary.href, '_blank', 'noopener,noreferrer');
+    card.addEventListener('click', e => { if (!e.target.closest('a')) open(); });
+    card.addEventListener('keydown', e => { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); open(); } });
+  });
 })();
 
 // ── LIVE MEDIUM ARTICLES (rss2json proxy, falls back to static cards) ──
