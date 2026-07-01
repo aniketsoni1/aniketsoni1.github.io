@@ -1,3 +1,86 @@
+# ════════════════════════════════════════════════════════════════════
+#  Jekyll config — aniketsoni.com (portfolio) + The Daily Tech Signal (blog)
+#  MERGED into your existing repo. Your original keys (theme/title/description)
+#  are kept as-is; the blog / SEO / plugin keys are ADDED below.
+#  Your homepage (_layouts/default.html) is unchanged. The blog uses its own
+#  self-contained layout (_layouts/signal.html), so the two never collide.
+# ════════════════════════════════════════════════════════════════════
+
+# ── Existing identity (unchanged from your repo) ──
 theme: jekyll-theme-minimal
-title: Aniket Abhishek Soni — Senior Data Engineer | Published Researcher
-description: Senior Data Engineer with 7+ years building enterprise-scale data pipelines and AI-powered analytics. Published researcher with 18+ papers, IEEE Senior Member, international speaker and judge. New York, US.
+title: "Aniket Abhishek Soni — Senior Data Engineer | Published Researcher"
+description: >-
+  Senior Data Engineer with 7+ years building enterprise-scale data pipelines
+  and AI-powered analytics. Published researcher, IEEE Senior Member,
+  international speaker and judge. New York, US.
+
+# ── Domain (canonical URLs, feed, blog SEO) ──
+url: "https://aniketsoni.com"
+baseurl: ""
+
+# ── Author (used by jekyll-seo-tag + blog templates) ──
+author:
+  name: "Aniket Abhishek Soni"
+  email: "aniketsoni@ieee.org"
+  linkedin: "aniketsoni"
+  github: "aniketsoni1"
+
+# ── The Daily Tech Signal branding ──
+blog:
+  brand: "The Daily Tech Signal"
+  subtitle: "A daily, source-reviewed brief on AI, data engineering, cloud, and the technology that moves them."
+  disclaimer: "This daily brief is AI-assisted and source-reviewed for public technology awareness."
+
+logo: /assets/img/headshot_1.jpeg
+twitter:
+  card: summary_large_image
+social:
+  name: Aniket Abhishek Soni
+  links:
+    - https://www.linkedin.com/in/aniketsoni
+    - https://github.com/aniketsoni1
+    - https://scholar.google.com/citations?user=Rtn7hFAAAAAJ&hl=en
+    - https://orcid.org/0009-0001-6312-2967
+
+# ── Blog build behaviour ──
+markdown: kramdown
+permalink: /blog/:year/:month/:day/:title/
+timezone: America/New_York
+excerpt_separator: "<!--more-->"
+
+# Posts default to the blog post layout + author.
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+      author: "Aniket Abhishek Soni"
+
+# GitHub Pages allow-listed plugins (no custom build step required).
+plugins:
+  - jekyll-feed        # /feed.xml
+  - jekyll-seo-tag     # blog <meta> / Open Graph / Twitter / JSON-LD
+  - jekyll-sitemap     # /sitemap.xml  (see note below)
+
+feed:
+  path: /feed.xml
+  posts_limit: 30
+
+# NOTE on sitemaps: your repo ships a hand-maintained sitemap.xml. jekyll-sitemap
+# will NOT overwrite it, so it stays a no-op until you delete sitemap.xml — do
+# that if you'd like the sitemap auto-generated to include blog posts.
+
+# Keep the pipeline internals out of the built site.
+exclude:
+  - scripts/
+  - templates/
+  - data/
+  - docs/
+  - Gemfile
+  - Gemfile.lock
+  - vendor/
+  - .venv/
+  - "*.pyc"
+  - __pycache__/
+  - README.md
