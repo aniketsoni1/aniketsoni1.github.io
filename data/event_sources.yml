@@ -1,0 +1,100 @@
+# ════════════════════════════════════════════════════════════════════
+#  event_sources.yml — official event hubs / calendars
+# ════════════════════════════════════════════════════════════════════
+#  This is a registry of authoritative event index pages. collect_events.py
+#  uses it for:
+#    1. provenance — proving each curated event maps to an official hub;
+#    2. optional feed ingestion — when a hub exposes an .ics or RSS feed,
+#       the collector can pull structured event dates automatically
+#       (set `feed` to the calendar URL). When `feed` is null, the hub is
+#       reference-only and curated dates live in tech_events.yml.
+#
+#  Keeping curated dates (tech_events.yml) SEPARATE from these hubs is
+#  deliberate: hubs change layout often and are hostile to scraping, so we
+#  never hard-depend on parsing them at build time.
+# ════════════════════════════════════════════════════════════════════
+
+hubs:
+  - name: "AWS Events"
+    organizer: "Amazon Web Services"
+    homepage: "https://aws.amazon.com/events/"
+    feed: null
+    covers: [aws, cloud, reinvent, summits]
+
+  - name: "Microsoft Events (Build / Ignite)"
+    organizer: "Microsoft"
+    homepage: "https://www.microsoft.com/en-us/events"
+    feed: null
+    covers: [azure, build, ignite, copilot]
+
+  - name: "Google I/O & Cloud Next"
+    organizer: "Google"
+    homepage: "https://io.google/"
+    feed: null
+    covers: [google, gemini, android, cloud]
+
+  - name: "NVIDIA GTC"
+    organizer: "NVIDIA"
+    homepage: "https://www.nvidia.com/gtc/"
+    feed: null
+    covers: [gpu, ai, accelerated_computing]
+
+  - name: "Databricks Events"
+    organizer: "Databricks"
+    homepage: "https://www.databricks.com/events"
+    feed: null
+    covers: [data_engineering, lakehouse, ai]
+
+  - name: "Snowflake Events"
+    organizer: "Snowflake"
+    homepage: "https://www.snowflake.com/en/events/"
+    feed: null
+    covers: [data_cloud, analytics, ai]
+
+  - name: "Salesforce Events (Dreamforce / Agentforce)"
+    organizer: "Salesforce"
+    homepage: "https://www.salesforce.com/events/"
+    feed: null
+    covers: [crm, agentforce, enterprise]
+
+  - name: "Linux Foundation / CNCF Events (KubeCon)"
+    organizer: "The Linux Foundation"
+    homepage: "https://events.linuxfoundation.org/"
+    feed: null
+    covers: [open_source, kubernetes, cloud_native]
+
+  - name: "GitHub Universe"
+    organizer: "GitHub"
+    homepage: "https://githubuniverse.com/"
+    feed: null
+    covers: [developer_tools, open_source, copilot]
+
+  - name: "PyData / NumFOCUS"
+    organizer: "NumFOCUS"
+    homepage: "https://pydata.org/"
+    feed: null
+    covers: [python, data_science]
+
+  - name: "QCon Software Conferences"
+    organizer: "InfoQ / C4Media"
+    homepage: "https://qconferences.com/"
+    feed: null
+    covers: [software_architecture, engineering_leadership]
+
+  - name: "IEEE Conferences"
+    organizer: "IEEE"
+    homepage: "https://www.ieee.org/conferences/index.html"
+    feed: null
+    covers: [research, standards, ieee]
+
+  - name: "ACM Conferences (SIGMOD / VLDB / etc.)"
+    organizer: "ACM"
+    homepage: "https://www.acm.org/conferences"
+    feed: null
+    covers: [research, databases, systems]
+
+  - name: "NYC Tech Events (Cornell Tech / Meetups hub)"
+    organizer: "Various (New York, NY)"
+    homepage: "https://tech.cornell.edu/events/"
+    feed: null
+    covers: [nyc, community, networking]

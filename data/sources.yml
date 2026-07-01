@@ -1,0 +1,299 @@
+# ════════════════════════════════════════════════════════════════════
+#  sources.yml — the ingestion registry for The Daily Tech Signal
+# ════════════════════════════════════════════════════════════════════
+#  Each entry describes ONE source. The collector (scripts/collect_news.py)
+#  reads every entry, fetches its `feed` (RSS/Atom) when present, and tags
+#  each story with `category` + `source_type` + a baseline `trust` score.
+#
+#  Fields (validated by scripts/schemas.py :: SourceConfig):
+#    name        : human-readable source name           (required)
+#    category     : one of the category slugs below       (required)
+#    source_type  : official_blog | product_blog | research | news |
+#                   aggregator | release_notes            (required)
+#    feed         : RSS/Atom URL, or null if none         (optional)
+#    homepage     : canonical site URL                    (required)
+#    trust        : 0.0–1.0 baseline confidence for items (required)
+#    enabled      : set false to skip without deleting     (default true)
+#
+#  A dead / moved feed is NOT fatal — collect_news.py logs it and moves on.
+#  To add a source, copy a block and adjust. To silence one, set enabled:false.
+# ════════════════════════════════════════════════════════════════════
+
+defaults:
+  max_items_per_feed: 12      # cap stories pulled from any single feed
+  request_timeout: 20         # seconds
+  user_agent: "DailyTechSignal/1.0 (+https://aniketsoni.com)"
+  lookback_hours: 48          # ignore items older than this window
+  min_title_chars: 16         # drop junk / empty headlines
+
+sources:
+
+  # ── AI model companies ────────────────────────────────────────────
+  - name: "OpenAI"
+    category: ai_model_companies
+    source_type: official_blog
+    feed: "https://openai.com/news/rss.xml"
+    homepage: "https://openai.com/news/"
+    trust: 0.95
+  - name: "Anthropic"
+    category: ai_model_companies
+    source_type: official_blog
+    feed: null                # Anthropic has no public RSS; kept for link provenance
+    homepage: "https://www.anthropic.com/news"
+    trust: 0.95
+  - name: "Google DeepMind"
+    category: ai_model_companies
+    source_type: official_blog
+    feed: "https://deepmind.google/blog/rss.xml"
+    homepage: "https://deepmind.google/discover/blog/"
+    trust: 0.95
+  - name: "Google AI (The Keyword)"
+    category: ai_model_companies
+    source_type: official_blog
+    feed: "https://blog.google/technology/ai/rss/"
+    homepage: "https://blog.google/technology/ai/"
+    trust: 0.9
+  - name: "Meta AI"
+    category: ai_model_companies
+    source_type: official_blog
+    feed: null
+    homepage: "https://ai.meta.com/blog/"
+    trust: 0.9
+  - name: "Microsoft — The AI Blog"
+    category: ai_model_companies
+    source_type: official_blog
+    feed: "https://blogs.microsoft.com/ai/feed/"
+    homepage: "https://blogs.microsoft.com/ai/"
+    trust: 0.9
+  - name: "Hugging Face"
+    category: ai_model_companies
+    source_type: product_blog
+    feed: "https://huggingface.co/blog/feed.xml"
+    homepage: "https://huggingface.co/blog"
+    trust: 0.88
+
+  # ── Cloud providers ───────────────────────────────────────────────
+  - name: "AWS News Blog"
+    category: cloud_providers
+    source_type: product_blog
+    feed: "https://aws.amazon.com/blogs/aws/feed/"
+    homepage: "https://aws.amazon.com/blogs/aws/"
+    trust: 0.9
+  - name: "AWS Big Data Blog"
+    category: cloud_providers
+    source_type: product_blog
+    feed: "https://aws.amazon.com/blogs/big-data/feed/"
+    homepage: "https://aws.amazon.com/blogs/big-data/"
+    trust: 0.88
+  - name: "Google Cloud Blog"
+    category: cloud_providers
+    source_type: product_blog
+    feed: "https://cloudblog.withgoogle.com/rss/"
+    homepage: "https://cloud.google.com/blog/"
+    trust: 0.9
+  - name: "Microsoft Azure Blog"
+    category: cloud_providers
+    source_type: product_blog
+    feed: "https://azure.microsoft.com/en-us/blog/feed/"
+    homepage: "https://azure.microsoft.com/en-us/blog/"
+    trust: 0.88
+
+  # ── Data engineering platforms ────────────────────────────────────
+  - name: "Databricks Blog"
+    category: data_engineering_platforms
+    source_type: product_blog
+    feed: "https://www.databricks.com/blog/feed"
+    homepage: "https://www.databricks.com/blog"
+    trust: 0.9
+  - name: "Snowflake Blog"
+    category: data_engineering_platforms
+    source_type: product_blog
+    feed: "https://www.snowflake.com/blog/feed/"
+    homepage: "https://www.snowflake.com/blog/"
+    trust: 0.9
+  - name: "Confluent Blog"
+    category: data_engineering_platforms
+    source_type: product_blog
+    feed: "https://www.confluent.io/blog/rss.xml"
+    homepage: "https://www.confluent.io/blog/"
+    trust: 0.85
+  - name: "dbt Labs Blog"
+    category: data_engineering_platforms
+    source_type: product_blog
+    feed: null
+    homepage: "https://www.getdbt.com/blog"
+    trust: 0.82
+
+  # ── Open-source foundations ───────────────────────────────────────
+  - name: "Apache Software Foundation"
+    category: open_source_foundations
+    source_type: release_notes
+    feed: "https://news.apache.org/foundation/entry.rss"
+    homepage: "https://news.apache.org/"
+    trust: 0.88
+  - name: "Kubernetes Blog"
+    category: open_source_foundations
+    source_type: release_notes
+    feed: "https://kubernetes.io/feed.xml"
+    homepage: "https://kubernetes.io/blog/"
+    trust: 0.88
+  - name: "CNCF"
+    category: open_source_foundations
+    source_type: official_blog
+    feed: "https://www.cncf.io/feed/"
+    homepage: "https://www.cncf.io/blog/"
+    trust: 0.85
+  - name: "Docker Blog"
+    category: developer_platforms
+    source_type: product_blog
+    feed: "https://www.docker.com/blog/feed/"
+    homepage: "https://www.docker.com/blog/"
+    trust: 0.83
+
+  # ── Developer platforms ───────────────────────────────────────────
+  - name: "The GitHub Blog"
+    category: developer_platforms
+    source_type: product_blog
+    feed: "https://github.blog/feed/"
+    homepage: "https://github.blog/"
+    trust: 0.88
+  - name: "GitLab Blog"
+    category: developer_platforms
+    source_type: product_blog
+    feed: "https://about.gitlab.com/atom.xml"
+    homepage: "https://about.gitlab.com/blog/"
+    trust: 0.82
+  - name: "Stack Overflow Blog"
+    category: developer_platforms
+    source_type: news
+    feed: "https://stackoverflow.blog/feed/"
+    homepage: "https://stackoverflow.blog/"
+    trust: 0.8
+
+  # ── Hardware / accelerated computing ──────────────────────────────
+  - name: "NVIDIA Blog"
+    category: enterprise_technology
+    source_type: product_blog
+    feed: "https://blogs.nvidia.com/feed/"
+    homepage: "https://blogs.nvidia.com/"
+    trust: 0.85
+  - name: "NVIDIA Developer Blog"
+    category: mlops
+    source_type: product_blog
+    feed: "https://developer.nvidia.com/blog/feed/"
+    homepage: "https://developer.nvidia.com/blog/"
+    trust: 0.85
+  - name: "Salesforce News"
+    category: enterprise_technology
+    source_type: official_blog
+    feed: "https://www.salesforce.com/news/feed/"
+    homepage: "https://www.salesforce.com/news/"
+    trust: 0.8
+
+  # ── Research feeds (arXiv + science press) ────────────────────────
+  - name: "arXiv cs.AI"
+    category: research_feeds
+    source_type: research
+    feed: "http://export.arxiv.org/rss/cs.AI"
+    homepage: "https://arxiv.org/list/cs.AI/recent"
+    trust: 0.8
+  - name: "arXiv cs.LG (Machine Learning)"
+    category: research_feeds
+    source_type: research
+    feed: "http://export.arxiv.org/rss/cs.LG"
+    homepage: "https://arxiv.org/list/cs.LG/recent"
+    trust: 0.8
+  - name: "arXiv cs.DB (Databases)"
+    category: databases
+    source_type: research
+    feed: "http://export.arxiv.org/rss/cs.DB"
+    homepage: "https://arxiv.org/list/cs.DB/recent"
+    trust: 0.8
+  - name: "arXiv cs.DC (Distributed Computing)"
+    category: research_feeds
+    source_type: research
+    feed: "http://export.arxiv.org/rss/cs.DC"
+    homepage: "https://arxiv.org/list/cs.DC/recent"
+    trust: 0.8
+  - name: "arXiv cs.CR (Security)"
+    category: cybersecurity
+    source_type: research
+    feed: "http://export.arxiv.org/rss/cs.CR"
+    homepage: "https://arxiv.org/list/cs.CR/recent"
+    trust: 0.8
+  - name: "MIT Technology Review"
+    category: research_feeds
+    source_type: news
+    feed: "https://www.technologyreview.com/feed/"
+    homepage: "https://www.technologyreview.com/"
+    trust: 0.85
+  - name: "IEEE Spectrum"
+    category: research_feeds
+    source_type: news
+    feed: "https://spectrum.ieee.org/customfeeds/feed/all-topics/rss"
+    homepage: "https://spectrum.ieee.org/"
+    trust: 0.85
+
+  # ── Enterprise technology news ────────────────────────────────────
+  - name: "TechCrunch — AI"
+    category: enterprise_technology
+    source_type: news
+    feed: "https://techcrunch.com/category/artificial-intelligence/feed/"
+    homepage: "https://techcrunch.com/category/artificial-intelligence/"
+    trust: 0.78
+  - name: "VentureBeat — AI"
+    category: enterprise_technology
+    source_type: news
+    feed: "https://venturebeat.com/category/ai/feed/"
+    homepage: "https://venturebeat.com/category/ai/"
+    trust: 0.75
+  - name: "The Register"
+    category: enterprise_technology
+    source_type: news
+    feed: "https://www.theregister.com/headlines.atom"
+    homepage: "https://www.theregister.com/"
+    trust: 0.78
+  - name: "Ars Technica — IT"
+    category: enterprise_technology
+    source_type: news
+    feed: "https://feeds.arstechnica.com/arstechnica/technology-lab"
+    homepage: "https://arstechnica.com/gadgets/"
+    trust: 0.8
+
+  # ── Cybersecurity ─────────────────────────────────────────────────
+  - name: "Krebs on Security"
+    category: cybersecurity
+    source_type: news
+    feed: "https://krebsonsecurity.com/feed/"
+    homepage: "https://krebsonsecurity.com/"
+    trust: 0.82
+  - name: "The Hacker News"
+    category: cybersecurity
+    source_type: news
+    feed: "https://feeds.feedburner.com/TheHackersNews"
+    homepage: "https://thehackernews.com/"
+    trust: 0.72
+
+  # ── Databases / vector databases / data governance ────────────────
+  - name: "Redis Blog"
+    category: databases
+    source_type: product_blog
+    feed: "https://redis.io/blog/feed/"
+    homepage: "https://redis.io/blog/"
+    trust: 0.78
+  - name: "MongoDB Blog"
+    category: databases
+    source_type: product_blog
+    feed: "https://www.mongodb.com/blog/rss"
+    homepage: "https://www.mongodb.com/blog"
+    trust: 0.78
+
+  # ── Aggregators (used for signal / cross-validation) ──────────────
+  # Hacker News is ALSO pulled via the Algolia API in collect_news.py for
+  # front-page ranking; this RSS entry is a resilient fallback.
+  - name: "Hacker News (front page)"
+    category: aggregators
+    source_type: aggregator
+    feed: "https://hnrss.org/frontpage?points=100"
+    homepage: "https://news.ycombinator.com/"
+    trust: 0.55

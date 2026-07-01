@@ -1,0 +1,86 @@
+---
+layout: post
+title: "{{ title }}"
+date: {{ date_fm }}
+author: "{{ author }}"
+categories: [{% for c in categories %}{{ c }}{% if not loop.last %}, {% endif %}{% endfor %}]
+tags: [{% for t in tags %}{{ t }}{% if not loop.last %}, {% endif %}{% endfor %}]
+description: "{{ description }}"
+edition: {{ edition }}
+---
+
+{{ opening_summary }}
+<!--more-->
+{% if is_short %}
+> **Short Signal edition.** Fewer than three stories cleared source and link review today, so this brief focuses on the event radar and a moment from computing history. No unverified news has been included.
+
+{% endif %}
+{% if news_items %}
+## Top Technology Signals
+{% for n in news_items %}
+
+### {{ loop.index }}. {{ n.title }}
+
+{{ n.summary }}
+
+**Why it matters —** {{ n.why_it_matters }}
+
+<span class="signal-source">Source: [{{ n.source_name }}]({{ n.url }}){% if n.published_display %} · {{ n.published_display }}{% endif %}</span>
+{% endfor %}
+
+## AI & Data Engineering Impact
+
+{{ impact }}
+
+{% endif %}
+## Event Radar
+{% if events.happening_today %}
+
+### Happening Today
+
+{% for e in events.happening_today %}
+- {{ e.line }}
+{% endfor %}
+{% endif %}
+{% if events.upcoming %}
+
+### Upcoming
+
+{% for e in events.upcoming %}
+- {{ e.line }}
+{% endfor %}
+{% endif %}
+{% if events.recent %}
+
+### Recent Highlights
+
+{% for e in events.recent %}
+- {{ e.line }}
+{% endfor %}
+{% endif %}
+{% if not events.happening_today and not events.upcoming and not events.recent %}
+
+_No active events on the radar today. See the curated calendar in `data/tech_events.yml`._
+{% endif %}
+
+## This Day in Computing History
+
+{% if history %}
+**{{ history.headline }}**
+
+{{ history.description }}
+{% if history.source_url %}
+
+<span class="signal-source">Reference: [{{ history.source_label }}]({{ history.source_url }})</span>
+{% endif %}
+{% else %}
+_No computing-history milestone was available for today._
+{% endif %}
+
+## Aniket's Takeaway
+
+{{ takeaway }}
+
+---
+
+<span class="signal-disclaimer">{{ disclaimer }}</span>

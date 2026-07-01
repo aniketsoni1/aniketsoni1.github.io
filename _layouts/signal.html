@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en" prefix="og: https://ogp.me/ns#">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <!-- Theme + platform hints (mirrors the portfolio homepage) -->
+  <meta name="theme-color" content="#050505" media="(prefers-color-scheme: dark)">
+  <meta name="theme-color" content="#f4f4f2" media="(prefers-color-scheme: light)">
+  <meta name="color-scheme" content="dark light">
+  <meta name="author" content="{{ site.author.name }}">
+  <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large">
+
+  <!-- Same monogram favicon as the homepage -->
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><rect width=%22100%22 height=%22100%22 rx=%2218%22 fill=%22%23050505%22/><text x=%2250%22 y=%2268%22 font-family=%22Arial,sans-serif%22 font-weight=%22bold%22 font-size=%2248%22 fill=%22%23009e9e%22 text-anchor=%22middle%22>AS</text></svg>">
+
+  <!-- jekyll-seo-tag: title, description, canonical, Open Graph, Twitter, JSON-LD -->
+  {% seo %}
+  <!-- jekyll-feed: RSS/Atom autodiscovery -->
+  {% feed_meta %}
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Plus+Jakarta+Sans:ital,wght@0,300;0,400;0,500;0,600;1,300&family=JetBrains+Mono:wght@300;400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="{{ '/assets/css/blog.css' | relative_url }}">
+
+  <!-- Per-page <head> extras (e.g. BlogPosting JSON-LD) are injected by
+       child layouts via the page.head_extra front-matter hook below. -->
+  {{ page.head_extra }}
+</head>
+<body class="signal-body">
+
+  <!-- ══ Grain overlay + scanline (parity with the homepage) ══ -->
+  <div class="grain" aria-hidden="true"></div>
+
+  <!-- ══ Navigation — visually native to the portfolio ══ -->
+  <input type="checkbox" id="nav-toggle" aria-hidden="true">
+  <nav id="nav" role="navigation" aria-label="Main navigation">
+    <a href="{{ '/' | absolute_url }}" class="nav-wordmark" aria-label="{{ site.author.name }} — home">AS</a>
+    <label for="nav-toggle" class="nav-hamburger" aria-label="Open menu">
+      <span></span><span></span><span></span>
+    </label>
+    <ul class="nav-menu" role="list">
+      <li><a href="{{ '/' | absolute_url }}">Home</a></li>
+      <li><a href="{{ '/#experience' | absolute_url }}">Experience</a></li>
+      <li><a href="{{ '/#publications' | absolute_url }}">Research</a></li>
+      <li><a href="{{ '/blog/' | relative_url }}" class="{% if page.url contains '/blog' %}active{% endif %}">The Signal</a></li>
+      <li><a href="{{ '/#contact' | absolute_url }}" class="nav-cta">Connect</a></li>
+    </ul>
+  </nav>
+
+  <!-- ══ Page content ══ -->
+  <main id="main" class="signal-main">
+    {{ content }}
+  </main>
+
+  <!-- ══ Footer ══ -->
+  <footer class="signal-footer">
+    <div class="signal-footer-inner">
+      <div class="footer-brand">
+        <span class="footer-mark">{{ site.blog.brand }}</span>
+        <span class="footer-by">by {{ site.author.name }}</span>
+      </div>
+      <p class="footer-disclaimer">{{ site.blog.disclaimer }}</p>
+      <div class="footer-links">
+        <a href="{{ '/blog/' | relative_url }}">Archive</a>
+        <a href="{{ '/feed.xml' | relative_url }}">RSS</a>
+        <a href="https://github.com/{{ site.author.github }}" rel="noopener">GitHub</a>
+        <a href="https://www.linkedin.com/in/{{ site.author.linkedin }}" rel="noopener">LinkedIn</a>
+        <a href="{{ '/' | absolute_url }}">Portfolio</a>
+      </div>
+      <p class="footer-copy">&copy; {{ site.time | date: "%Y" }} {{ site.author.name }}. Built with a schema-first, validation-first pipeline.</p>
+    </div>
+  </footer>
+
+  <!-- ══ Minimal, dependency-free nav behaviour ══ -->
+  <script>
+    (function () {
+      var nav = document.getElementById('nav');
+      var onScroll = function () {
+        if (window.scrollY > 24) { nav.classList.add('scrolled'); }
+        else { nav.classList.remove('scrolled'); }
+      };
+      onScroll();
+      window.addEventListener('scroll', onScroll, { passive: true });
+      // Close the mobile menu after a tap on any link.
+      document.querySelectorAll('.nav-menu a').forEach(function (a) {
+        a.addEventListener('click', function () {
+          document.getElementById('nav-toggle').checked = false;
+        });
+      });
+    })();
+  </script>
+</body>
+</html>

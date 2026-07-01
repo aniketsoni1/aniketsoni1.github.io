@@ -1,0 +1,170 @@
+# ════════════════════════════════════════════════════════════════════
+#  tech_events.yml — curated technology events (manual source of truth)
+# ════════════════════════════════════════════════════════════════════
+#  collect_events.py reads this file + event_sources.yml, computes each
+#  event's lifecycle state (upcoming / happening_today / recent / archived)
+#  from start_date & end_date relative to "today", and writes only the
+#  ACTIVE (non-archived) events to data/runs/YYYY-MM-DD/events_validated.json.
+#
+#  IMPORTANT OPERATING RULES
+#   • Do NOT rewrite this file just because dates rolled by — the collector
+#     derives state dynamically. Update an entry only when NEW official
+#     dates are published.
+#   • Every event MUST have a real source_url (no fabricated events).
+#   • Dates are ISO strings "YYYY-MM-DD". If an event is a single day, set
+#     end_date == start_date.
+#   • Fields map to schemas.py :: EventItem (event_state is computed, not set
+#     here). relevance_tags drive the "why it's on Aniket's radar" filter.
+#
+#  All dates below were verified against official event pages (June 2026).
+# ════════════════════════════════════════════════════════════════════
+
+settings:
+  recent_window_days: 30      # how long a concluded event stays in "Recent Highlights"
+  upcoming_horizon_days: 210  # how far ahead to surface "Upcoming" events
+  home_region: "New York, NY" # boosts NYC-area events in relevance ranking
+
+events:
+
+  # ── Upcoming ──────────────────────────────────────────────────────
+  - event_name: "Salesforce Dreamforce 2026"
+    organizer: "Salesforce"
+    event_url: "https://www.salesforce.com/dreamforce/"
+    source_url: "https://www.salesforce.com/dreamforce/"
+    start_date: "2026-09-15"
+    end_date: "2026-09-17"
+    location: "Moscone Center, San Francisco, CA, USA"
+    relevance_tags: [enterprise, crm, agentforce, ai, salesforce]
+    summary: "Salesforce's flagship conference; heavy focus on Agentforce and enterprise AI agents."
+
+  - event_name: "GitHub Universe 2026"
+    organizer: "GitHub"
+    event_url: "https://githubuniverse.com/"
+    source_url: "https://githubuniverse.com/"
+    start_date: "2026-10-28"
+    end_date: "2026-10-29"
+    location: "Fort Mason Center, San Francisco, CA, USA"
+    relevance_tags: [developer_tools, open_source, ai, copilot, github]
+    summary: "GitHub's flagship developer event — 'all together now, in the agentic era.'"
+
+  - event_name: "KubeCon + CloudNativeCon North America 2026"
+    organizer: "Cloud Native Computing Foundation (CNCF)"
+    event_url: "https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/"
+    source_url: "https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/"
+    start_date: "2026-11-09"
+    end_date: "2026-11-12"
+    location: "Salt Lake City, UT, USA"
+    relevance_tags: [cloud_native, kubernetes, open_source, platform_engineering]
+    summary: "The premier Kubernetes and cloud-native ecosystem gathering in North America."
+
+  - event_name: "Microsoft Ignite 2026"
+    organizer: "Microsoft"
+    event_url: "https://ignite.microsoft.com/"
+    source_url: "https://ignite.microsoft.com/en-US/home"
+    start_date: "2026-11-17"
+    end_date: "2026-11-20"
+    location: "Moscone Center, San Francisco, CA, USA"
+    relevance_tags: [azure, enterprise, ai, copilot, cloud]
+    summary: "Microsoft's enterprise IT and developer conference spanning Azure, Fabric, and Copilot."
+
+  - event_name: "AWS re:Invent 2026"
+    organizer: "Amazon Web Services"
+    event_url: "https://reinvent.awsevents.com/"
+    source_url: "https://aws.amazon.com/events/reinvent/"
+    start_date: "2026-11-30"
+    end_date: "2026-12-04"
+    location: "Las Vegas, NV, USA"
+    relevance_tags: [cloud, aws, ai, serverless, data_engineering, security]
+    summary: "AWS's global cloud & AI conference; in 2026 re:Inforce security content merges in."
+
+  # ── Recently concluded (kept for 'Recent Highlights') ─────────────
+  - event_name: "Databricks Data + AI Summit 2026"
+    organizer: "Databricks"
+    event_url: "https://www.databricks.com/dataaisummit"
+    source_url: "https://www.databricks.com/dataaisummit"
+    start_date: "2026-06-15"
+    end_date: "2026-06-18"
+    location: "Moscone Center, San Francisco, CA, USA"
+    relevance_tags: [data_engineering, lakehouse, ai, spark, mlops]
+    summary: "The largest data + AI conference; lakehouse, Unity Catalog, and GenAI on the data stack."
+
+  - event_name: "AWS Summit New York 2026"
+    organizer: "Amazon Web Services"
+    event_url: "https://aws.amazon.com/events/summits/new-york/"
+    source_url: "https://aws.amazon.com/events/summits/new-york/"
+    start_date: "2026-06-17"
+    end_date: "2026-06-17"
+    location: "Javits Center, New York, NY, USA"
+    relevance_tags: [cloud, aws, ai, agentic_ai, nyc, data]
+    summary: "AWS's free NYC summit; 2026 headline theme is agentic AI. (Home-region event.)"
+
+  - event_name: "Snowflake Summit 2026"
+    organizer: "Snowflake"
+    event_url: "https://www.snowflake.com/en/summit/"
+    source_url: "https://www.snowflake.com/en/summit/"
+    start_date: "2026-06-01"
+    end_date: "2026-06-04"
+    location: "San Francisco, CA, USA"
+    relevance_tags: [data_engineering, data_cloud, ai, analytics, cortex]
+    summary: "Snowflake's annual data cloud conference — Cortex AI, interoperability, and governance."
+
+  - event_name: "Microsoft Build 2026"
+    organizer: "Microsoft"
+    event_url: "https://build.microsoft.com/"
+    source_url: "https://news.microsoft.com/build-2026/"
+    start_date: "2026-06-02"
+    end_date: "2026-06-03"
+    location: "San Francisco, CA, USA + Online"
+    relevance_tags: [developer_tools, azure, ai, copilot]
+    summary: "Microsoft's developer conference across Azure AI Foundry, Copilot, and dev tooling."
+
+  # ── Earlier 2026 (will auto-archive past the recent window) ───────
+  - event_name: "Google I/O 2026"
+    organizer: "Google"
+    event_url: "https://io.google/2026/"
+    source_url: "https://blog.google/innovation-and-ai/technology/developers-tools/io-2026-save-the-date/"
+    start_date: "2026-05-19"
+    end_date: "2026-05-20"
+    location: "Shoreline Amphitheatre, Mountain View, CA, USA + Online"
+    relevance_tags: [ai, gemini, android, developer_tools, google]
+    summary: "Google's developer keynote — Gemini, Android, and platform AI."
+
+  - event_name: "NVIDIA GTC 2026"
+    organizer: "NVIDIA"
+    event_url: "https://www.nvidia.com/gtc/"
+    source_url: "https://www.nvidia.com/gtc/"
+    start_date: "2026-03-16"
+    end_date: "2026-03-19"
+    location: "San Jose, CA, USA"
+    relevance_tags: [ai, gpu, accelerated_computing, robotics, nvidia]
+    summary: "NVIDIA's AI & accelerated-computing conference; Blackwell/Rubin-era GPU and CUDA news."
+
+  - event_name: "KubeCon + CloudNativeCon Europe 2026"
+    organizer: "Cloud Native Computing Foundation (CNCF)"
+    event_url: "https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/"
+    source_url: "https://www.cncf.io/blog/2025/08/05/kubecon-cloudnativecon-europe-2026-returning-to-amsterdam-23-26-march/"
+    start_date: "2026-03-23"
+    end_date: "2026-03-26"
+    location: "RAI Amsterdam, Netherlands"
+    relevance_tags: [cloud_native, kubernetes, open_source, europe]
+    summary: "The European edition of KubeCon; cloud-native platform engineering at scale."
+
+# ════════════════════════════════════════════════════════════════════
+#  TEMPLATE — copy into `events:` above and fill REAL published dates.
+#  Do not leave placeholder dates active; collect_events.py will refuse
+#  entries whose dates fail validation.
+#
+#  - event_name: "PyData NYC 2026"
+#    organizer: "NumFOCUS"
+#    event_url: "https://pydata.org/nyc2026/"
+#    source_url: "https://pydata.org/"
+#    start_date: "2026-11-XX"     # ← replace with official dates
+#    end_date: "2026-11-XX"
+#    location: "New York, NY, USA"
+#    relevance_tags: [python, data_science, nyc, open_source]
+#    summary: "Community conference for the Python data science ecosystem."
+#
+#  Other events to curate as dates are announced: QCon (SF/NYC/London),
+#  IEEE/ACM conferences (e.g., VLDB, SIGMOD, NeurIPS, ICSE), Snowflake
+#  World Tour NYC, Salesforce Agentforce World Tour NYC, Google Cloud Next.
+# ════════════════════════════════════════════════════════════════════

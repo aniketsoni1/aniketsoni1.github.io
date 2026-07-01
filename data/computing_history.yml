@@ -1,0 +1,479 @@
+# ════════════════════════════════════════════════════════════════════
+#  computing_history.yml — "This Day in Computing History" corpus
+# ════════════════════════════════════════════════════════════════════
+#  Curated, source-linked milestones. collect_history.py selects the best
+#  match for the current date:
+#    1. exact month-day match  → pick highest `importance`
+#    2. else nearest day in the SAME month (within ±window)
+#    3. else a `general_fallbacks` entry (undated, evergreen)
+#
+#  Fields map to schemas.py :: HistoryItem
+#    date        : "MM-DD" (zero-padded)   — omit for general_fallbacks
+#    year        : integer
+#    title       : short headline
+#    description : 1–2 sentence factual note (no embellishment)
+#    category    : hardware | software | networking | internet | web | ai |
+#                  programming_languages | databases | pioneers | mobile | os
+#    source_url  : authoritative reference (Wikipedia / primary source)
+#    importance  : 0.0–1.0 editorial weight (tie-breaker on shared dates)
+#    confidence  : 0.0–1.0 certainty of the date itself
+#
+#  These are stable historical facts. Where an exact calendar day is
+#  genuinely uncertain, the item lives in `general_fallbacks` instead of
+#  being given a fabricated date.
+# ════════════════════════════════════════════════════════════════════
+
+milestones:
+
+  # ── January ───────────────────────────────────────────────────────
+  - date: "01-01"
+    year: 1970
+    title: "The Unix epoch begins"
+    description: "00:00:00 UTC on 1 January 1970 is time zero for Unix `time_t` — the reference point from which most computer clocks still count seconds."
+    category: os
+    source_url: "https://en.wikipedia.org/wiki/Unix_time"
+    importance: 0.9
+    confidence: 0.99
+  - date: "01-01"
+    year: 1983
+    title: "ARPANET switches to TCP/IP"
+    description: "On the 'flag day' of 1 January 1983 ARPANET migrated from NCP to TCP/IP, the protocol suite that underpins the modern Internet."
+    category: networking
+    source_url: "https://en.wikipedia.org/wiki/ARPANET"
+    importance: 0.92
+    confidence: 0.98
+  - date: "01-03"
+    year: 1977
+    title: "Apple Computer is incorporated"
+    description: "Apple Computer, Inc. was incorporated on 3 January 1977, formalizing the partnership of Steve Jobs, Steve Wozniak, and (briefly) Ronald Wayne."
+    category: hardware
+    source_url: "https://en.wikipedia.org/wiki/Apple_Inc."
+    importance: 0.8
+    confidence: 0.95
+  - date: "01-08"
+    year: 1889
+    title: "Hollerith patents the tabulating machine"
+    description: "Herman Hollerith received a patent for his punched-card tabulating system, later used for the 1890 US Census and a foundation of the company that became IBM."
+    category: hardware
+    source_url: "https://en.wikipedia.org/wiki/Herman_Hollerith"
+    importance: 0.82
+    confidence: 0.9
+  - date: "01-24"
+    year: 1984
+    title: "Apple introduces the Macintosh"
+    description: "The original Macintosh went on sale on 24 January 1984, popularizing the graphical user interface and the mouse for a mass market."
+    category: hardware
+    source_url: "https://en.wikipedia.org/wiki/Macintosh_128K"
+    importance: 0.85
+    confidence: 0.98
+
+  # ── February ──────────────────────────────────────────────────────
+  - date: "02-04"
+    year: 2004
+    title: "Facebook launches"
+    description: "Mark Zuckerberg launched 'TheFacebook' from a Harvard dorm on 4 February 2004, reshaping social computing and web-scale data infrastructure."
+    category: internet
+    source_url: "https://en.wikipedia.org/wiki/History_of_Facebook"
+    importance: 0.78
+    confidence: 0.97
+  - date: "02-15"
+    year: 1946
+    title: "ENIAC is dedicated"
+    description: "ENIAC, the first general-purpose electronic digital computer, was formally dedicated on 15 February 1946 at the University of Pennsylvania."
+    category: hardware
+    source_url: "https://en.wikipedia.org/wiki/ENIAC"
+    importance: 0.95
+    confidence: 0.96
+  - date: "02-20"
+    year: 1991
+    title: "Python is first released"
+    description: "Guido van Rossum released Python 0.9.0 to the public in February 1991 — the language now dominant in data engineering and AI."
+    category: programming_languages
+    source_url: "https://en.wikipedia.org/wiki/History_of_Python"
+    importance: 0.88
+    confidence: 0.85
+
+  # ── March ─────────────────────────────────────────────────────────
+  - date: "03-05"
+    year: 1975
+    title: "First Homebrew Computer Club meeting"
+    description: "The Homebrew Computer Club's first meeting on 5 March 1975 seeded Silicon Valley's personal-computer revolution, including a young Steve Wozniak."
+    category: hardware
+    source_url: "https://en.wikipedia.org/wiki/Homebrew_Computer_Club"
+    importance: 0.78
+    confidence: 0.95
+  - date: "03-12"
+    year: 1989
+    title: "Tim Berners-Lee proposes the World Wide Web"
+    description: "At CERN, Berners-Lee circulated 'Information Management: A Proposal' in March 1989 — the blueprint for the World Wide Web."
+    category: web
+    source_url: "https://en.wikipedia.org/wiki/History_of_the_World_Wide_Web"
+    importance: 0.95
+    confidence: 0.82
+  - date: "03-15"
+    year: 1985
+    title: "The first .com domain is registered"
+    description: "symbolics.com became the first registered .com domain on 15 March 1985, opening the commercial Internet's namespace."
+    category: internet
+    source_url: "https://en.wikipedia.org/wiki/.com"
+    importance: 0.76
+    confidence: 0.96
+  - date: "03-21"
+    year: 2006
+    title: "The first tweet"
+    description: "Jack Dorsey posted 'just setting up my twttr' on 21 March 2006, launching a platform that became a firehose for real-time data systems."
+    category: internet
+    source_url: "https://en.wikipedia.org/wiki/History_of_Twitter"
+    importance: 0.7
+    confidence: 0.97
+
+  # ── April ─────────────────────────────────────────────────────────
+  - date: "04-01"
+    year: 1976
+    title: "Apple is founded"
+    description: "Steve Jobs, Steve Wozniak, and Ronald Wayne founded Apple on 1 April 1976 to sell the hand-built Apple I."
+    category: hardware
+    source_url: "https://en.wikipedia.org/wiki/Apple_Inc."
+    importance: 0.82
+    confidence: 0.95
+  - date: "04-03"
+    year: 1973
+    title: "The first handheld mobile phone call"
+    description: "Motorola's Martin Cooper placed the first public handheld cellular call on 3 April 1973, foreshadowing mobile computing."
+    category: mobile
+    source_url: "https://en.wikipedia.org/wiki/History_of_mobile_phones"
+    importance: 0.78
+    confidence: 0.96
+  - date: "04-04"
+    year: 1975
+    title: "Microsoft is founded"
+    description: "Bill Gates and Paul Allen founded Microsoft on 4 April 1975, beginning with a BASIC interpreter for the Altair 8800."
+    category: software
+    source_url: "https://en.wikipedia.org/wiki/History_of_Microsoft"
+    importance: 0.85
+    confidence: 0.96
+  - date: "04-07"
+    year: 1964
+    title: "IBM announces the System/360"
+    description: "On 7 April 1964 IBM announced System/360, the first family of software-compatible mainframes — a landmark in computer architecture."
+    category: hardware
+    source_url: "https://en.wikipedia.org/wiki/IBM_System/360"
+    importance: 0.9
+    confidence: 0.97
+  - date: "04-23"
+    year: 2005
+    title: "The first YouTube video"
+    description: "'Me at the zoo' was uploaded on 23 April 2005, kicking off web-scale video and the streaming-data era."
+    category: internet
+    source_url: "https://en.wikipedia.org/wiki/Me_at_the_zoo"
+    importance: 0.68
+    confidence: 0.98
+
+  # ── May ───────────────────────────────────────────────────────────
+  - date: "05-01"
+    year: 1964
+    title: "BASIC runs for the first time"
+    description: "At Dartmouth on 1 May 1964, Kemeny and Kurtz ran the first BASIC program, democratizing programming for non-specialists."
+    category: programming_languages
+    source_url: "https://en.wikipedia.org/wiki/BASIC"
+    importance: 0.82
+    confidence: 0.95
+  - date: "05-11"
+    year: 1997
+    title: "Deep Blue defeats Garry Kasparov"
+    description: "IBM's Deep Blue beat world chess champion Garry Kasparov on 11 May 1997 — a milestone for machine intelligence."
+    category: ai
+    source_url: "https://en.wikipedia.org/wiki/Deep_Blue_(chess_computer)"
+    importance: 0.9
+    confidence: 0.98
+  - date: "05-22"
+    year: 1973
+    title: "Ethernet is invented"
+    description: "Robert Metcalfe's 22 May 1973 memo at Xerox PARC described Ethernet, still the backbone of wired local networks."
+    category: networking
+    source_url: "https://en.wikipedia.org/wiki/Ethernet"
+    importance: 0.85
+    confidence: 0.9
+
+  # ── June ──────────────────────────────────────────────────────────
+  - date: "06-23"
+    year: 1912
+    title: "Alan Turing is born"
+    description: "Alan Turing, whose 1936 work defined computability and who helped break Enigma, was born on 23 June 1912."
+    category: pioneers
+    source_url: "https://en.wikipedia.org/wiki/Alan_Turing"
+    importance: 0.95
+    confidence: 0.99
+  - date: "06-29"
+    year: 2007
+    title: "The first iPhone goes on sale"
+    description: "Apple's iPhone reached stores on 29 June 2007, catalyzing the modern mobile and app-driven computing landscape."
+    category: mobile
+    source_url: "https://en.wikipedia.org/wiki/IPhone_(1st_generation)"
+    importance: 0.85
+    confidence: 0.98
+  - date: "06-30"
+    year: 1945
+    title: "Von Neumann's EDVAC report"
+    description: "John von Neumann's 'First Draft of a Report on the EDVAC' was circulated on 30 June 1945, defining the stored-program 'von Neumann architecture.'"
+    category: hardware
+    source_url: "https://en.wikipedia.org/wiki/First_Draft_of_a_Report_on_the_EDVAC"
+    importance: 0.9
+    confidence: 0.9
+
+  # ── July ──────────────────────────────────────────────────────────
+  - date: "07-15"
+    year: 2006
+    title: "Twitter launches publicly"
+    description: "Twitter opened to the public on 15 July 2006, later becoming a canonical stress test for real-time, high-throughput data systems."
+    category: internet
+    source_url: "https://en.wikipedia.org/wiki/History_of_Twitter"
+    importance: 0.7
+    confidence: 0.9
+  - date: "07-20"
+    year: 1969
+    title: "Apollo 11 and its Guidance Computer land on the Moon"
+    description: "On 20 July 1969 the Apollo Guidance Computer — a marvel of real-time embedded software — helped land humans on the Moon."
+    category: hardware
+    source_url: "https://en.wikipedia.org/wiki/Apollo_Guidance_Computer"
+    importance: 0.88
+    confidence: 0.99
+  - date: "07-27"
+    year: 1866
+    title: "The first lasting transatlantic telegraph cable"
+    description: "Completed on 27 July 1866, the transatlantic cable collapsed message time from weeks to minutes — an ancestor of global networking."
+    category: networking
+    source_url: "https://en.wikipedia.org/wiki/Transatlantic_telegraph_cable"
+    importance: 0.7
+    confidence: 0.95
+
+  # ── August ────────────────────────────────────────────────────────
+  - date: "08-06"
+    year: 1991
+    title: "The World Wide Web goes public"
+    description: "On 6 August 1991 Tim Berners-Lee posted a public summary of the WWW project and the first website went live at CERN."
+    category: web
+    source_url: "https://en.wikipedia.org/wiki/History_of_the_World_Wide_Web"
+    importance: 0.93
+    confidence: 0.92
+  - date: "08-12"
+    year: 1981
+    title: "The IBM Personal Computer ships"
+    description: "IBM launched the model 5150 PC on 12 August 1981, setting the 'PC-compatible' standard that defined the industry."
+    category: hardware
+    source_url: "https://en.wikipedia.org/wiki/IBM_Personal_Computer"
+    importance: 0.9
+    confidence: 0.97
+  - date: "08-24"
+    year: 1995
+    title: "Windows 95 is released"
+    description: "Microsoft released Windows 95 on 24 August 1995, bringing the Start menu and mainstream 32-bit computing to millions."
+    category: os
+    source_url: "https://en.wikipedia.org/wiki/Windows_95"
+    importance: 0.82
+    confidence: 0.98
+  - date: "08-25"
+    year: 1991
+    title: "Linus Torvalds announces Linux"
+    description: "Torvalds' 25 August 1991 post ('just a hobby, won't be big') announced Linux — now the kernel behind most servers, clouds, and Android."
+    category: os
+    source_url: "https://en.wikipedia.org/wiki/History_of_Linux"
+    importance: 0.93
+    confidence: 0.98
+
+  # ── September ─────────────────────────────────────────────────────
+  - date: "09-04"
+    year: 1998
+    title: "Google is founded"
+    description: "Larry Page and Sergey Brin incorporated Google on 4 September 1998, redefining information retrieval at web scale."
+    category: internet
+    source_url: "https://en.wikipedia.org/wiki/History_of_Google"
+    importance: 0.88
+    confidence: 0.96
+  - date: "09-09"
+    year: 1947
+    title: "The first computer 'bug'"
+    description: "A moth trapped in Harvard's Mark II relay computer on 9 September 1947 was logged as the 'first actual case of bug being found' — popularized by Grace Hopper's team."
+    category: pioneers
+    source_url: "https://en.wikipedia.org/wiki/Software_bug#History"
+    importance: 0.82
+    confidence: 0.93
+
+  # ── October ───────────────────────────────────────────────────────
+  - date: "10-04"
+    year: 1957
+    title: "Sputnik launches — and ARPA follows"
+    description: "The 4 October 1957 launch of Sputnik spurred the US to create ARPA (later DARPA), which would fund the ARPANET."
+    category: networking
+    source_url: "https://en.wikipedia.org/wiki/Sputnik_1"
+    importance: 0.78
+    confidence: 0.98
+  - date: "10-05"
+    year: 2011
+    title: "Steve Jobs dies"
+    description: "Apple co-founder Steve Jobs died on 5 October 2011, one day after the iPhone 4S — and Siri — were unveiled."
+    category: pioneers
+    source_url: "https://en.wikipedia.org/wiki/Steve_Jobs"
+    importance: 0.72
+    confidence: 0.99
+  - date: "10-29"
+    year: 1969
+    title: "The first ARPANET message"
+    description: "On 29 October 1969 the first host-to-host message travelled from UCLA to SRI; the system crashed after 'lo', the start of 'login' — the Internet's first words."
+    category: networking
+    source_url: "https://en.wikipedia.org/wiki/ARPANET"
+    importance: 0.95
+    confidence: 0.97
+
+  # ── November ──────────────────────────────────────────────────────
+  - date: "11-15"
+    year: 1971
+    title: "Intel ships the 4004 microprocessor"
+    description: "Announced on 15 November 1971, the Intel 4004 was the first commercial single-chip microprocessor — the seed of every modern CPU."
+    category: hardware
+    source_url: "https://en.wikipedia.org/wiki/Intel_4004"
+    importance: 0.92
+    confidence: 0.97
+  - date: "11-20"
+    year: 1985
+    title: "Windows 1.0 is released"
+    description: "Microsoft shipped Windows 1.0 on 20 November 1985, its first graphical operating environment atop MS-DOS."
+    category: os
+    source_url: "https://en.wikipedia.org/wiki/Windows_1.0"
+    importance: 0.72
+    confidence: 0.97
+  - date: "11-30"
+    year: 2022
+    title: "ChatGPT launches"
+    description: "OpenAI released ChatGPT on 30 November 2022, igniting the generative-AI era and a wave of data & MLOps investment."
+    category: ai
+    source_url: "https://en.wikipedia.org/wiki/ChatGPT"
+    importance: 0.95
+    confidence: 0.99
+
+  # ── December ──────────────────────────────────────────────────────
+  - date: "12-03"
+    year: 1992
+    title: "The first SMS text message"
+    description: "Engineer Neil Papworth sent 'Merry Christmas' as the first SMS on 3 December 1992 — the start of text messaging."
+    category: mobile
+    source_url: "https://en.wikipedia.org/wiki/SMS"
+    importance: 0.7
+    confidence: 0.95
+  - date: "12-09"
+    year: 1906
+    title: "Grace Hopper is born"
+    description: "Grace Hopper — inventor of the first compiler and a driving force behind COBOL — was born on 9 December 1906."
+    category: pioneers
+    source_url: "https://en.wikipedia.org/wiki/Grace_Hopper"
+    importance: 0.95
+    confidence: 0.99
+  - date: "12-09"
+    year: 1968
+    title: "The 'Mother of All Demos'"
+    description: "On 9 December 1968 Douglas Engelbart demonstrated the mouse, hypertext, windows, and video conferencing — decades ahead of their time."
+    category: pioneers
+    source_url: "https://en.wikipedia.org/wiki/The_Mother_of_All_Demos"
+    importance: 0.9
+    confidence: 0.98
+  - date: "12-19"
+    year: 1974
+    title: "The Altair 8800 is released"
+    description: "MITS released the Altair 8800 in December 1974; its Popular Electronics cover launched the personal-computer industry and Microsoft's first product."
+    category: hardware
+    source_url: "https://en.wikipedia.org/wiki/Altair_8800"
+    importance: 0.8
+    confidence: 0.88
+  - date: "12-20"
+    year: 1990
+    title: "The first web page is served"
+    description: "Around 20 December 1990 Tim Berners-Lee achieved the first successful HTTP client–server exchange over the Internet at CERN."
+    category: web
+    source_url: "https://en.wikipedia.org/wiki/History_of_the_World_Wide_Web"
+    importance: 0.9
+    confidence: 0.85
+  - date: "12-23"
+    year: 1947
+    title: "The transistor is demonstrated"
+    description: "Bell Labs demonstrated the first working point-contact transistor on 23 December 1947, replacing vacuum tubes and enabling all modern electronics."
+    category: hardware
+    source_url: "https://en.wikipedia.org/wiki/History_of_the_transistor"
+    importance: 0.95
+    confidence: 0.9
+
+# ════════════════════════════════════════════════════════════════════
+#  general_fallbacks — evergreen facts with no single agreed calendar day.
+#  Used only when no dated milestone matches (or is nearby). Honest by
+#  design: we don't invent a day just to force a match.
+# ════════════════════════════════════════════════════════════════════
+general_fallbacks:
+  - year: 1971
+    title: "Ray Tomlinson sends the first network email"
+    description: "In 1971 Ray Tomlinson sent the first email between computers on ARPANET and chose the '@' sign to separate user from host — a convention we still use."
+    category: networking
+    source_url: "https://en.wikipedia.org/wiki/Email#History"
+    importance: 0.88
+    confidence: 0.7
+  - year: 1952
+    title: "Grace Hopper builds the first compiler"
+    description: "Hopper's A-0 system (1952) was the first compiler, translating symbolic code into machine code and paving the way for high-level languages."
+    category: software
+    source_url: "https://en.wikipedia.org/wiki/History_of_compiler_construction"
+    importance: 0.9
+    confidence: 0.75
+  - year: 1948
+    title: "Claude Shannon founds information theory (the 'bit')"
+    description: "Shannon's 1948 paper 'A Mathematical Theory of Communication' formalized the 'bit' (a term credited to John Tukey) as the unit of information."
+    category: pioneers
+    source_url: "https://en.wikipedia.org/wiki/A_Mathematical_Theory_of_Communication"
+    importance: 0.9
+    confidence: 0.8
+  - year: 1956
+    title: "The 'byte' is coined"
+    description: "Werner Buchholz coined 'byte' in 1956 while designing the IBM Stretch computer, describing a group of bits handled as a unit."
+    category: hardware
+    source_url: "https://en.wikipedia.org/wiki/Byte"
+    importance: 0.75
+    confidence: 0.8
+  - year: 1970
+    title: "Codd defines the relational database model"
+    description: "Edgar F. Codd's 1970 paper introduced the relational model, the theoretical basis for SQL and virtually every modern database."
+    category: databases
+    source_url: "https://en.wikipedia.org/wiki/Relational_model"
+    importance: 0.92
+    confidence: 0.85
+  - year: 1969
+    title: "UNIX is created at Bell Labs"
+    description: "Ken Thompson and Dennis Ritchie began UNIX in 1969; its design philosophy still shapes Linux, macOS, and the cloud."
+    category: os
+    source_url: "https://en.wikipedia.org/wiki/History_of_Unix"
+    importance: 0.92
+    confidence: 0.8
+  - year: 1972
+    title: "Dennis Ritchie creates the C language"
+    description: "Around 1972 Dennis Ritchie developed C at Bell Labs; it remains the lingua franca of systems programming."
+    category: programming_languages
+    source_url: "https://en.wikipedia.org/wiki/C_(programming_language)"
+    importance: 0.88
+    confidence: 0.78
+  - year: 1965
+    title: "Moore's Law is articulated"
+    description: "Gordon Moore's 1965 observation that transistor counts double roughly every two years guided five decades of semiconductor progress."
+    category: hardware
+    source_url: "https://en.wikipedia.org/wiki/Moore%27s_law"
+    importance: 0.85
+    confidence: 0.85
+  - year: 1936
+    title: "Turing defines the universal machine"
+    description: "Alan Turing's 1936 paper 'On Computable Numbers' introduced the Turing machine, the theoretical foundation of computer science."
+    category: pioneers
+    source_url: "https://en.wikipedia.org/wiki/Turing_machine"
+    importance: 0.93
+    confidence: 0.85
+  - year: 1957
+    title: "FORTRAN, the first widely used high-level language"
+    description: "IBM delivered FORTRAN in 1957, proving that compiled high-level languages could rival hand-written assembly for scientific computing."
+    category: programming_languages
+    source_url: "https://en.wikipedia.org/wiki/Fortran"
+    importance: 0.85
+    confidence: 0.8

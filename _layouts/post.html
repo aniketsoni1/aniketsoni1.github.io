@@ -1,0 +1,108 @@
+---
+layout: signal
+---
+{%- assign words = content | number_of_words -%}
+{%- assign read_time = words | divided_by: 200 | plus: 1 -%}
+
+<article class="post" itemscope itemtype="https://schema.org/BlogPosting">
+
+  <!-- ══ BlogPosting structured data (explicit, per requirement) ══ -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": {{ page.title | jsonify }},
+    "description": {{ page.description | default: site.description | strip_newlines | jsonify }},
+    "datePublished": "{{ page.date | date_to_xmlschema }}",
+    "dateModified": "{{ page.last_modified_at | default: page.date | date_to_xmlschema }}",
+    "author": {
+      "@type": "Person",
+      "name": {{ site.author.name | jsonify }},
+      "url": {{ site.url | jsonify }}
+    },
+    "publisher": {
+      "@type": "Person",
+      "name": {{ site.author.name | jsonify }},
+      "url": {{ site.url | jsonify }}
+    },
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "{{ page.url | absolute_url }}"
+    },
+    "url": "{{ page.url | absolute_url }}",
+    "isPartOf": {
+      "@type": "Blog",
+      "name": {{ site.blog.brand | jsonify }},
+      "@id": "{{ '/blog/' | absolute_url }}"
+    },
+    "keywords": {{ page.tags | join: ", " | jsonify }},
+    "articleSection": {{ page.categories | join: ", " | jsonify }},
+    "inLanguage": "en"
+  }
+  </script>
+
+  <!-- ══ Post header ══ -->
+  <header class="post-header">
+    <div class="post-eyebrow">
+      <span class="eyebrow-mark">//</span>
+      <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+        {{ page.date | date: "%B %-d, %Y" }}
+      </time>
+      {%- if page.categories and page.categories.size > 0 %}
+      <span class="eyebrow-sep">·</span>
+      <span class="post-cats">{{ page.categories | join: " / " }}</span>
+      {%- endif %}
+    </div>
+
+    <h1 class="post-title" itemprop="headline">{{ page.title }}</h1>
+
+    <div class="post-meta">
+      <span class="meta-item meta-author" itemprop="author">{{ site.author.name }}</span>
+      <span class="meta-sep">•</span>
+      <span class="meta-item">{{ read_time }} min read</span>
+      <span class="meta-sep">•</span>
+      <a class="meta-item meta-rss" href="{{ '/feed.xml' | relative_url }}">Subscribe (RSS)</a>
+    </div>
+
+    {%- if page.tags and page.tags.size > 0 %}
+    <ul class="post-tags" role="list">
+      {%- for tag in page.tags %}
+      <li class="post-tag">{{ tag }}</li>
+      {%- endfor %}
+    </ul>
+    {%- endif %}
+  </header>
+
+  <div class="post-rule"></div>
+
+  <!-- ══ Post body (rendered Markdown from the pipeline) ══ -->
+  <div class="post-content" itemprop="articleBody">
+    {{ content }}
+  </div>
+
+  <!-- ══ AI-assisted disclaimer (required, always present) ══ -->
+  <aside class="post-disclaimer" role="note">
+    <span class="disclaimer-label">Disclosure</span>
+    <p>{{ site.blog.disclaimer }}</p>
+  </aside>
+
+  <!-- ══ Post footer: navigation ══ -->
+  <nav class="post-nav" aria-label="Post navigation">
+    <a class="post-nav-back" href="{{ '/blog/' | relative_url }}">&larr; Back to The Daily Tech Signal</a>
+    <div class="post-nav-adjacent">
+      {%- if page.previous %}
+      <a class="post-nav-prev" href="{{ page.previous.url | relative_url }}" rel="prev">
+        <span class="pn-label">Previous</span>
+        <span class="pn-title">{{ page.previous.title }}</span>
+      </a>
+      {%- endif %}
+      {%- if page.next %}
+      <a class="post-nav-next" href="{{ page.next.url | relative_url }}" rel="next">
+        <span class="pn-label">Next</span>
+        <span class="pn-title">{{ page.next.title }}</span>
+      </a>
+      {%- endif %}
+    </div>
+  </nav>
+
+</article>

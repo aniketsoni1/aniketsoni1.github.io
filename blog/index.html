@@ -1,0 +1,92 @@
+---
+layout: signal
+title: "The Daily Tech Signal"
+permalink: /blog/
+description: "The Daily Tech Signal — a daily, source-reviewed brief on AI, data engineering, cloud platforms, developer tools, open source, technology events, and computing history, by Aniket Abhishek Soni."
+---
+
+<!-- ══════════ Blog hero ══════════ -->
+<section class="blog-hero">
+  <div class="blog-hero-scanline" aria-hidden="true"></div>
+  <div class="blog-hero-inner">
+    <div class="blog-hero-status">
+      <span class="status-dot"></span>
+      Automated daily · {{ site.posts.size }} edition{% if site.posts.size != 1 %}s{% endif %} published
+    </div>
+    <h1 class="blog-title">The&nbsp;Daily<br><span class="lime-word">Tech&nbsp;Signal</span></h1>
+    <p class="blog-subtitle">{{ site.blog.subtitle }}</p>
+    <p class="blog-explainer">
+      A schema-first pipeline ingests official blogs, research feeds, open-source release
+      notes, and trusted tech press each morning, validates every source link, and renders a
+      concise brief: the day's top signals, why they matter for data &amp; AI engineers, an
+      event radar, and one moment of computing history. AI assists the summaries; every claim
+      is tied back to a source.
+    </p>
+    <div class="blog-hero-meta">
+      <span class="hm-item">Author <strong>{{ site.author.name }}</strong></span>
+      <span class="hm-item"><a href="{{ '/feed.xml' | relative_url }}">RSS&nbsp;/&nbsp;Atom</a></span>
+      <span class="hm-item"><a href="{{ '/' | absolute_url }}">Back to portfolio</a></span>
+    </div>
+  </div>
+</section>
+
+{% if site.posts.size > 0 %}
+{%- assign featured = site.posts.first -%}
+
+<!-- ══════════ Featured (latest) edition ══════════ -->
+<section class="blog-featured-wrap">
+  <div class="sec-eyebrow"><span class="eyebrow-mark">//</span> Latest edition</div>
+  <a class="blog-featured" href="{{ featured.url | relative_url }}">
+    <div class="bf-flag">Newest</div>
+    <time class="bf-date" datetime="{{ featured.date | date_to_xmlschema }}">{{ featured.date | date: "%B %-d, %Y" }}</time>
+    <h2 class="bf-title">{{ featured.title }}</h2>
+    <p class="bf-excerpt">{{ featured.description | default: featured.excerpt | strip_html | truncate: 220 }}</p>
+    <div class="bf-tags">
+      {%- for tag in featured.tags limit: 6 %}<span class="mini-tag">{{ tag }}</span>{%- endfor %}
+    </div>
+    <span class="bf-cta">Read the brief &rarr;</span>
+  </a>
+</section>
+
+<!-- ══════════ Archive list ══════════ -->
+<section class="blog-archive-wrap">
+  <div class="sec-eyebrow"><span class="eyebrow-mark">//</span> Archive</div>
+  <ul class="blog-archive" role="list">
+    {%- for post in site.posts offset: 1 %}
+    <li class="archive-row">
+      <a href="{{ post.url | relative_url }}" class="archive-link">
+        <time class="archive-date" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%Y·%m·%d" }}</time>
+        <span class="archive-title">{{ post.title }}</span>
+        <span class="archive-cats">
+          {%- for cat in post.categories limit: 3 %}{{ cat }}{% unless forloop.last %} / {% endunless %}{%- endfor %}
+        </span>
+        <span class="archive-arrow">&rarr;</span>
+      </a>
+    </li>
+    {%- endfor %}
+  </ul>
+</section>
+
+<!-- ══════════ Tag index ══════════ -->
+{% assign all_tags = site.posts | map: "tags" | join: "," | split: "," | uniq | sort %}
+{% if all_tags.size > 0 %}
+<section class="blog-tags-wrap">
+  <div class="sec-eyebrow"><span class="eyebrow-mark">//</span> Signal tags</div>
+  <div class="blog-tagcloud">
+    {%- for tag in all_tags %}{% if tag != "" %}<span class="cloud-tag">{{ tag | strip }}</span>{% endif %}{%- endfor %}
+  </div>
+</section>
+{% endif %}
+
+{% else %}
+<!-- Empty state — before the first workflow run -->
+<section class="blog-empty">
+  <div class="sec-eyebrow"><span class="eyebrow-mark">//</span> Standing by</div>
+  <h2 class="empty-title">The first signal is queued.</h2>
+  <p class="empty-body">
+    The automation runs every morning at 9:00 AM America/New_York. The inaugural edition
+    will appear here after the first successful run — or trigger it manually from the
+    <em>Actions</em> tab with <code>workflow_dispatch</code>.
+  </p>
+</section>
+{% endif %}
