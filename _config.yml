@@ -67,9 +67,9 @@ feed:
   path: /feed.xml
   posts_limit: 30
 
-# NOTE on sitemaps: your repo ships a hand-maintained sitemap.xml. jekyll-sitemap
-# will NOT overwrite it, so it stays a no-op until you delete sitemap.xml — do
-# that if you'd like the sitemap auto-generated to include blog posts.
+# NOTE on sitemaps: jekyll-sitemap auto-generates /sitemap.xml (pages + all
+# blog posts). A hand-maintained sitemap-images.xml supplements it for
+# Google Images; both are registered in robots.txt.
 
 # Keep the pipeline internals out of the built site.
 exclude:
