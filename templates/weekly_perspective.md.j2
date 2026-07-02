@@ -1,0 +1,41 @@
+---
+layout: post
+title: "{{ title }}"
+date: {{ date_fm }}
+author: "{{ author }}"
+categories: [{% for c in categories %}{{ c }}{% if not loop.last %}, {% endif %}{% endfor %}]
+tags: [{% for t in tags %}{{ t }}{% if not loop.last %}, {% endif %}{% endfor %}]
+description: "{{ description }}"
+edition: perspective
+---
+
+{{ opening }}
+<!--more-->
+
+## The Week in Numbers
+
+Over the week of **{{ week_label }}**, {{ runs_used }} daily brief{{ "s" if runs_used != 1 else "" }} put **{{ stories_reviewed }} source-reviewed stories** from {{ sources_count }} distinct sources through validation. The themes that surfaced most often:
+
+{% for tc in tag_counts %}
+- **{{ tc.tag }}** — {{ tc.count }} validated signal{{ "s" if tc.count != 1 else "" }}
+{% endfor %}
+
+## The Signal: {{ theme }}
+
+{{ analysis }}
+
+## What I'd Do About It
+
+{{ guidance }}
+
+## Evidence From the Week
+
+The stories this column is grounded in — each link re-validated at publish time:
+
+{% for c in citations %}
+- [{{ c.title }}]({{ c.url }}) — {{ c.source_name }} · {{ c.date }}
+{% endfor %}
+
+---
+
+<span class="signal-disclaimer">{{ disclaimer }}</span>

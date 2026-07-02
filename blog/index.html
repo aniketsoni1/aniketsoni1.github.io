@@ -20,7 +20,9 @@ description: "The Daily Tech Signal — a daily, source-reviewed brief on AI, da
       notes, and trusted tech press each morning, validates every source link, and renders a
       concise brief: the day's top signals, why they matter for data &amp; AI engineers, an
       event radar, and one moment of computing history. AI assists the summaries; every claim
-      is tied back to a source.
+      is tied back to a source. On Sundays, the <strong>Signal Perspective</strong> column steps
+      back from the feed: a weekly thought-leadership read on the theme that mattered most,
+      grounded in the week's validated briefs.
     </p>
     <div class="blog-hero-meta">
       <span class="hm-item">Author <strong>{{ site.author.name }}</strong></span>
@@ -38,6 +40,7 @@ description: "The Daily Tech Signal — a daily, source-reviewed brief on AI, da
   <div class="sec-eyebrow"><span class="eyebrow-mark">//</span> Latest edition</div>
   <a class="blog-featured" href="{{ featured.url | relative_url }}">
     <div class="bf-flag">Newest</div>
+    {%- if featured.edition == "perspective" %}<div class="bf-flag bf-flag-perspective">Perspective</div>{% endif %}
     <time class="bf-date" datetime="{{ featured.date | date_to_xmlschema }}">{{ featured.date | date: "%B %-d, %Y" }}</time>
     <h2 class="bf-title">{{ featured.title }}</h2>
     <p class="bf-excerpt">{{ featured.description | default: featured.excerpt | strip_html | truncate: 220 }}</p>
@@ -56,7 +59,7 @@ description: "The Daily Tech Signal — a daily, source-reviewed brief on AI, da
     <li class="archive-row">
       <a href="{{ post.url | relative_url }}" class="archive-link">
         <time class="archive-date" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%Y·%m·%d" }}</time>
-        <span class="archive-title">{{ post.title }}</span>
+        <span class="archive-title">{{ post.title }}{% if post.edition == "perspective" %} <span class="perspective-badge">Perspective</span>{% endif %}</span>
         <span class="archive-cats">
           {%- for cat in post.categories limit: 3 %}{{ cat }}{% unless forloop.last %} / {% endunless %}{%- endfor %}
         </span>
