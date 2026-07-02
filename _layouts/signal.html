@@ -9,6 +9,21 @@
   <meta name="theme-color" content="#050505" media="(prefers-color-scheme: dark)">
   <meta name="theme-color" content="#f4f4f2" media="(prefers-color-scheme: light)">
   <meta name="color-scheme" content="dark light">
+
+  <!-- Apply the saved theme BEFORE first paint (no flash). Shares the same
+       localStorage key as the homepage, so the choice follows the visitor
+       across portfolio ⇄ blog. -->
+  <script>
+    (function () {
+      try {
+        var stored = localStorage.getItem('theme');
+        var prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+        if ((stored || (prefersDark ? 'dark' : 'light')) === 'light') {
+          document.documentElement.setAttribute('data-theme', 'light');
+        }
+      } catch (e) { /* private mode etc. — stay dark */ }
+    })();
+  </script>
   <meta name="author" content="{{ site.author.name }}">
   <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large">
 
@@ -74,6 +89,28 @@
     </div>
   </footer>
 
+  <!-- ══ Theme toggle (parity with homepage) ══ -->
+  <button id="theme-toggle" aria-label="Toggle light/dark theme" title="Toggle theme">
+    <!-- Sun icon — visible in dark mode -->
+    <svg class="t-icon t-sun" width="18" height="18" viewBox="0 0 24 24" fill="none"
+         stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true">
+      <circle cx="12" cy="12" r="4"/>
+      <line x1="12" y1="2"  x2="12" y2="5"/>
+      <line x1="12" y1="19" x2="12" y2="22"/>
+      <line x1="2"  y1="12" x2="5"  y2="12"/>
+      <line x1="19" y1="12" x2="22" y2="12"/>
+      <line x1="4.22"  y1="4.22"  x2="6.34"  y2="6.34"/>
+      <line x1="17.66" y1="17.66" x2="19.78" y2="19.78"/>
+      <line x1="4.22"  y1="19.78" x2="6.34"  y2="17.66"/>
+      <line x1="17.66" y1="6.34"  x2="19.78" y2="4.22"/>
+    </svg>
+    <!-- Moon icon — visible in light mode -->
+    <svg class="t-icon t-moon" width="18" height="18" viewBox="0 0 24 24" fill="none"
+         stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+      <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/>
+    </svg>
+  </button>
+
   <!-- ══ Minimal, dependency-free nav behaviour ══ -->
   <script>
     (function () {
@@ -89,6 +126,14 @@
         a.addEventListener('click', function () {
           document.getElementById('nav-toggle').checked = false;
         });
+      });
+      // Theme toggle — same localStorage key as the homepage.
+      var html = document.documentElement;
+      var btn = document.getElementById('theme-toggle');
+      btn.addEventListener('click', function () {
+        var isLight = html.getAttribute('data-theme') === 'light';
+        if (isLight) { html.removeAttribute('data-theme'); localStorage.setItem('theme', 'dark'); }
+        else { html.setAttribute('data-theme', 'light'); localStorage.setItem('theme', 'light'); }
       });
     })();
   </script>
