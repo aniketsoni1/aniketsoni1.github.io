@@ -1,0 +1,30 @@
+{
+  "post_date": "2026-07-03",
+  "stages": [
+    {
+      "stage": "news",
+      "ok": true,
+      "kept": 45,
+      "dropped": 0,
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "stage": "events",
+      "ok": true,
+      "kept": 9,
+      "dropped": 0,
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "stage": "history",
+      "ok": true,
+      "kept": 1,
+      "dropped": 0,
+      "errors": [],
+      "warnings": []
+    }
+  ],
+  "ok": true
+}
