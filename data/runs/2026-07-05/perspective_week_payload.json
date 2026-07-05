@@ -1,0 +1,128 @@
+{
+  "post_date": "2026-07-05",
+  "week_start": "2026-06-29",
+  "week_label": "June 29 – July 5, 2026",
+  "theme": "AI",
+  "related_themes": [
+    "Ai Model Companies",
+    "Cloud",
+    "Open Source Foundations",
+    "Research",
+    "Open Source"
+  ],
+  "tag_counts": [
+    {
+      "tag": "AI",
+      "count": 6
+    },
+    {
+      "tag": "Ai Model Companies",
+      "count": 4
+    },
+    {
+      "tag": "Cloud",
+      "count": 2
+    },
+    {
+      "tag": "Open Source Foundations",
+      "count": 2
+    },
+    {
+      "tag": "Research",
+      "count": 1
+    },
+    {
+      "tag": "Open Source",
+      "count": 1
+    }
+  ],
+  "stories_reviewed": 21,
+  "runs_used": [
+    "2026-07-01",
+    "2026-07-02",
+    "2026-07-03"
+  ],
+  "sources_count": 5,
+  "citations": [
+    {
+      "date": "2026-07-01",
+      "title": "The latest AI news we announced in June 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026/",
+      "source_name": "Google AI (The Keyword)",
+      "tags": [
+        "AI",
+        "Ai Model Companies"
+      ],
+      "summary": "June Pixel Drop hero",
+      "why": "Signals how frontier-model capabilities and access may shift for AI engineers and product teams.",
+      "score": 0.8871
+    },
+    {
+      "date": "2026-07-01",
+      "title": "New York City educators and industry leaders gathered at Google’s offices to shape the future of AI in classrooms.",
+      "url": "https://blog.google/products-and-platforms/products/education/nyc-ai-summit/",
+      "source_name": "Google AI (The Keyword)",
+      "tags": [
+        "AI",
+        "Ai Model Companies"
+      ],
+      "summary": "Google, the New York Jobs CEO Council and Urban Assembly hosted an AI summit for 150 education and industry leaders.",
+      "why": "Signals how frontier-model capabilities and access may shift for AI engineers and product teams.",
+      "score": 0.8777
+    },
+    {
+      "date": "2026-07-01",
+      "title": "Sony Deletes 551 Movies PlayStation Owners Paid For",
+      "url": "https://reclaimthenet.org/sony-deletes-551-studiocanal-movies-playstation-owners-paid-for",
+      "source_name": "Hacker News",
+      "tags": [
+        "AI",
+        "Hacker News"
+      ],
+      "summary": "Sony Deletes 551 Movies PlayStation Owners Paid For",
+      "why": "Community-surfaced signal worth scanning for emerging developer sentiment.",
+      "score": 0.8411
+    },
+    {
+      "date": "2026-07-02",
+      "title": "Joyride Through July With 12 Games Coming to GeForce NOW",
+      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-july-2026-games-list/",
+      "source_name": "NVIDIA Blog",
+      "tags": [
+        "AI",
+        "Cloud",
+        "Enterprise Technology"
+      ],
+      "summary": "Summer is heating up — and GeForce NOW is taking players along for the ride. Start the month with Monopoly: Star Wars Heroes vs. Villains, bringing a galaxy far, far away to the iconic board-game franchise, alongside 12 new games joining the cloud this month. Plus, don’t let the sun set on the…",
+      "why": "Context for technology leaders planning enterprise architecture and vendor strategy.",
+      "score": 0.8352
+    },
+    {
+      "date": "2026-07-02",
+      "title": "Kimi K2.7 Code is generally available in GitHub Copilot",
+      "url": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/",
+      "source_name": "Hacker News",
+      "tags": [
+        "AI",
+        "Developer Tools",
+        "Hacker News"
+      ],
+      "summary": "Kimi K2.7 Code is generally available in GitHub Copilot",
+      "why": "Community-surfaced signal worth scanning for emerging developer sentiment.",
+      "score": 0.8299
+    },
+    {
+      "date": "2026-07-03",
+      "title": "Google DeepMind and A24 announce first-of-its-kind research partnership",
+      "url": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/",
+      "source_name": "Google DeepMind",
+      "tags": [
+        "Research",
+        "Ai Model Companies"
+      ],
+      "summary": "Google DeepMind and A24 announce first-of-its-kind research partnership",
+      "why": "Signals how frontier-model capabilities and access may shift for AI engineers and product teams.",
+      "score": 0.8783
+    }
+  ]
+}
