@@ -1,0 +1,845 @@
+{
+  "generated_at": "2026-07-07T20:00:39.544126+00:00",
+  "post_date": "2026-07-07",
+  "sources_checked": 41,
+  "candidates": 45,
+  "items": [
+    {
+      "title": "Two months of Open Community Groups",
+      "summary": "Two months ago, the CNCF launched Open Community Groups (OCG, ocgroups.dev), an online meetup platform that’s open source. This wasn’t a weekend project that happened to ship, it was almost two years in the making before...",
+      "source_name": "CNCF",
+      "source_url": "https://www.cncf.io/blog/2026/07/07/two-months-of-open-community-groups/",
+      "published_at": "2026-07-07T15:44:58+00:00",
+      "category": "open_source_foundations",
+      "tags": [
+        "Open Source",
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8823,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.cncf.io/?p=170530"
+    },
+    {
+      "title": "Meet the Next Generation of Builders: How They Work and What They’re Making",
+      "summary": "Rebecca Hampton was six months into her career at Salesforce, her first full-time engineering job, when she realized something didn’t make sense. She was helping to build a new onboarding interface for Field Service customers. “The customers had all these options for how to structure the service territories,” she said. “But the way we were […]",
+      "source_name": "Salesforce News",
+      "source_url": "https://www.salesforce.com/news/stories/futureforce-next-generation-of-builders/",
+      "published_at": "2026-07-07T15:00:00+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.8791,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.salesforce.com/?p=94233"
+    },
+    {
+      "title": "Why sandboxing your agent is not enough",
+      "summary": "The agentic AI space is moving incredibly fast. Not long ago, I learned about a cool project called agent-sandbox, which provides a sandboxed environment for AI agents by leveraging many of the building blocks we have...",
+      "source_name": "CNCF",
+      "source_url": "https://www.cncf.io/blog/2026/07/07/why-sandboxing-your-agent-is-not-enough/",
+      "published_at": "2026-07-07T11:30:00+00:00",
+      "category": "open_source_foundations",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8645,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.cncf.io/?p=169912"
+    },
+    {
+      "title": "Expanding Managed Agents in Gemini API: background tasks, remote MCP and more",
+      "summary": "Managed agents feature bundle launch",
+      "source_name": "Google AI (The Keyword)",
+      "source_url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/",
+      "published_at": "2026-07-07T08:54:00+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI Agents",
+        "APIs",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.8537,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/"
+    },
+    {
+      "title": "Microsoft fire idTech team at Id software",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://gamefromscratch.com/microsoft-fire-idtech-team-at-id-software/",
+      "published_at": "2026-07-07T15:33:20+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.8514,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-48819244"
+    },
+    {
+      "title": "Chat Control passed first round in EU Parliament",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.heise.de/en/news/Showdown-in-Strasbourg-The-unexpected-return-of-Chat-Control-1-0-11356680.html",
+      "published_at": "2026-07-07T15:16:15+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.8502,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-48819008"
+    },
+    {
+      "title": "Amazon without the knockoffs",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://knockoff.shopping/",
+      "published_at": "2026-07-07T15:13:01+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.681,
+      "importance_score": 0.85,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-48818963"
+    },
+    {
+      "title": "Chat Control 1.0 and 2.0 Explained",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://fightchatcontrol.eu/chat-control-overview",
+      "published_at": "2026-07-07T14:23:15+00:00",
+      "category": "aggregators",
+      "tags": [
+        "AI",
+        "Hacker News"
+      ],
+      "confidence_score": 0.653,
+      "importance_score": 0.8466,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-48818311"
+    },
+    {
+      "title": "Salesforce Deepens Commitment to Switzerland with $1 Billion Investment to Accelerate Agentic AI Transformation",
+      "summary": "Announcement made by Salesforce Chair and CEO Marc Benioff ahead of the AI for Good Global Summit in Geneva",
+      "source_name": "Salesforce News",
+      "source_url": "https://www.salesforce.com/news/press-releases/2026/07/07/1-billion-ai-transformation-investment-switzerland/",
+      "published_at": "2026-07-07T07:00:00+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.8458,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.salesforce.com/?post_type=sf_press_release&p=94256"
+    },
+    {
+      "title": "30papers.com – Ilya's 30 essential ML papers, in a beginner friendly format",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://30papers.com/",
+      "published_at": "2026-07-07T15:58:13+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.6455,
+      "importance_score": 0.8419,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-48819608"
+    },
+    {
+      "title": "98% isn't much",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://whynothugo.nl/journal/2026/07/03/98-isnt-very-much/",
+      "published_at": "2026-07-07T12:45:14+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.8398,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-48816959"
+    },
+    {
+      "title": "A better way to tie gym shorts (or any drawstring) [video]",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.youtube.com/watch?v=3R0Lp86GEBk",
+      "published_at": "2026-07-07T12:45:06+00:00",
+      "category": "aggregators",
+      "tags": [
+        "AWS",
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.8398,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-48816956"
+    },
+    {
+      "title": "StreetComplete: Fixing OpenStreetMap, one tiny quest at a time",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://streetcomplete.app/",
+      "published_at": "2026-07-07T12:38:35+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.8393,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-48816883"
+    },
+    {
+      "title": "Develop Humanoid Robot Policies End-to-End with NVIDIA Isaac GR00T",
+      "summary": "As more teams move from humanoid robot bring-up to task-specific skill development, the need for repeatable development workflows is growing. Building humanoids...",
+      "source_name": "NVIDIA Developer Blog",
+      "source_url": "https://developer.nvidia.com/blog/develop-humanoid-robot-policies-end-to-end-with-nvidia-isaac-gr00t/",
+      "published_at": "2026-07-07T17:05:42+00:00",
+      "category": "mlops",
+      "tags": [
+        "GPUs",
+        "Mlops"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8279,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://developer.nvidia.com/blog/?p=119570"
+    },
+    {
+      "title": "Maximize Spectral Efficiency with AI-Native RAN and NVIDIA AI Aerial",
+      "summary": "Spectrum is one of the most valuable assets in wireless communications. Over the last 30 years, telecom operators in the US have spent more than $240B to...",
+      "source_name": "NVIDIA Developer Blog",
+      "source_url": "https://developer.nvidia.com/blog/maximize-spectral-efficiency-with-ai-native-ran-and-nvidia-ai-aerial/",
+      "published_at": "2026-07-07T17:00:00+00:00",
+      "category": "mlops",
+      "tags": [
+        "AI",
+        "GPUs",
+        "Mlops"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8275,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://developer.nvidia.com/blog/?p=119281"
+    },
+    {
+      "title": "Building an Analysis AI Agent for Industrial Alarm Management with NVIDIA Nemotron",
+      "summary": "Industrial machinery generates more alarms than technicians can triage. For each important alarm requiring follow-up, the technician pulls historical context,...",
+      "source_name": "NVIDIA Developer Blog",
+      "source_url": "https://developer.nvidia.com/blog/building-an-analysis-ai-agent-for-industrial-alarm-management-with-nvidia-nemotron/",
+      "published_at": "2026-07-07T17:00:00+00:00",
+      "category": "mlops",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "GPUs",
+        "Mlops"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8275,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://developer.nvidia.com/blog/?p=119528"
+    },
+    {
+      "title": "Introducing Apache Spark Connect support in AWS Glue interactive sessions",
+      "summary": "Apache Spark Connect bridges the gap between these two worlds: you develop in local Python, but execute on AWS Glue against actual data. Today, AWS Glue interactive sessions support Spark Connect natively. You can connect from any environment that supports the PySpark remote() API, including VS Code, PyCharm, Amazon SageMaker Unified Studio notebooks, and standalone Python applications. You don’t need to install specialized kernels or manage cluster infrastructure.",
+      "source_name": "AWS Big Data Blog",
+      "source_url": "https://aws.amazon.com/blogs/big-data/introducing-apache-spark-connect-support-in-aws-glue-interactive-sessions/",
+      "published_at": "2026-07-07T16:38:42+00:00",
+      "category": "cloud_providers",
+      "tags": [
+        "AI",
+        "Apache Spark",
+        "AWS",
+        "Python",
+        "APIs",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.92,
+      "importance_score": 0.826,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "7f198fe4f8662ec420e4153e8ab58e6032095b77"
+    },
+    {
+      "title": "20 questions for the Agentic Enterprise (and how Agent Platform can help)",
+      "summary": "If you’re an IT leader, you might be getting a lot of questions about how to build and deploy agents. The pressure to move fast is intense, but the engineering reality is incredibly complex. Where do your teams even begin? How do you untangle a fragmented mess of disconnected tools? And as things grow, how do you ensure your agents don’t accidentally leak sensitive data, or burn through your token budget in an afternoon? It’s a lot to balance, and trying to establish a…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/products/ai-machine-learning/20-questions-for-the-agentic-enterprise/",
+      "published_at": "2026-07-07T16:00:00+00:00",
+      "category": "cloud_providers",
+      "tags": [
+        "AI Agents",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.8233,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/products/ai-machine-learning/20-questions-for-the-agentic-enterprise/"
+    },
+    {
+      "title": "A developer's guide to publishing agents in Gemini Enterprise and Google Cloud Marketplace",
+      "summary": "Software-as-a-service (SaaS) is evolving into Agents-as-a-service (AaaS). Instead of isolated applications, developers are creating AI agents that interoperate using standardized open protocols such as the Agent2Agent (A2A) protocol and can be orchestrated through centralized agent platforms like Gemini Enterprise Agent Platform. When building for your specific use case, we believe the goal should always be to engineer high-quality agents that combine autonomy with the…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/topics/developers-practitioners/publish-agents-in-gemini-enterprise-and-google-cloud-marketplace/",
+      "published_at": "2026-07-07T16:00:00+00:00",
+      "category": "cloud_providers",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Cloud",
+        "Google Cloud",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.8233,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/topics/developers-practitioners/publish-agents-in-gemini-enterprise-and-google-cloud-marketplace/"
+    },
+    {
+      "title": "BGP route policies: Top 3 use cases by customer demand",
+      "summary": "When we first made BGP route policies for Cloud Router generally available over a year ago, our goal was to give network administrators deep, programmable control over how network paths are evaluated and propagated. Since then, we’ve been watching closely how our customers have adopted this feature. We've seen network engineering teams build incredibly sophisticated, resilient routing architectures that were previously difficult to achieve without third-party virtual…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/products/networking/bgp-route-policies-top-3-use-cases-by-customer-demand/",
+      "published_at": "2026-07-07T16:00:00+00:00",
+      "category": "cloud_providers",
+      "tags": [
+        "AI",
+        "Cloud",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.8233,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/products/networking/bgp-route-policies-top-3-use-cases-by-customer-demand/"
+    },
+    {
+      "title": "Drive proactive security, prioritize risks with Google Threat Intelligence and Wiz ASM",
+      "summary": "Being more proactive continues to be a leading goal for security organizations. As AI accelerates the pace of vulnerability discovery and exploitation, organizations will rely on the personalization of their security investments to help prioritize their defenses. To help you be more proactive by matching your real-world exposures with real-time adversary activity, we’ve begun integration efforts between Google Threat Intelligence and Wiz Attack Surface Management (ASM). By…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/products/identity-security/drive-proactive-security-prioritize-risks-with-google-threat-intelligence-and-wiz-asm/",
+      "published_at": "2026-07-07T16:00:00+00:00",
+      "category": "cloud_providers",
+      "tags": [
+        "AI",
+        "Security",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.8233,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/products/identity-security/drive-proactive-security-prioritize-risks-with-google-threat-intelligence-and-wiz-asm/"
+    },
+    {
+      "title": "Report: 83% of organizations need to upgrade their infrastructure to support agentic AI",
+      "summary": "For years, enterprise AI has been synonymous with conversational AI — the customer service bots and digital assistants we interact with every day. But today, the market has shifted. We’ve officially moved from moving from AI that answers through simple chats, to AI that takes action, automated workflows, and executes complex tasks on its own. While this unlocks entirely new use cases, there’s a catch: it places significant stress on the underlying infrastructure we’ve relied…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/products/compute/state-of-ai-infrastructure-report-overview/",
+      "published_at": "2026-07-07T16:00:00+00:00",
+      "category": "cloud_providers",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.8233,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/products/compute/state-of-ai-infrastructure-report-overview/"
+    },
+    {
+      "title": "Q1 2026 Innovation Graph update: Open source collaboration is accelerating worldwide",
+      "summary": "New Innovation Graph data shows global developer communities growing faster than ever, with collaboration reaching new highs across many economies. The post Q1 2026 Innovation Graph update: Open source collaboration is accelerating worldwide appeared first on The GitHub Blog .",
+      "source_name": "The GitHub Blog",
+      "source_url": "https://github.blog/news-insights/policy-news-and-insights/q1-2026-innovation-graph-update-open-source-collaboration-is-accelerating-worldwide/",
+      "published_at": "2026-07-07T16:00:00+00:00",
+      "category": "developer_platforms",
+      "tags": [
+        "Open Source",
+        "Developer Tools",
+        "Developer Platforms"
+      ],
+      "confidence_score": 0.92,
+      "importance_score": 0.8233,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://github.blog/?p=97322"
+    },
+    {
+      "title": "Hugging Face Models on Foundry Managed Compute",
+      "summary": "",
+      "source_name": "Hugging Face",
+      "source_url": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
+      "published_at": "2026-07-07T15:20:06+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI Models",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.9,
+      "importance_score": 0.8205,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://huggingface.co/blog/microsoft/foundry-managed-compute"
+    },
+    {
+      "title": "NVIDIA Vera CPU Boosts AI Factory Throughput to Accelerate Agentic Workloads",
+      "summary": "Agentic systems turn model reasoning into action through multi-step workflows that combine inference, tool use, code execution, retrieval, orchestration, and...",
+      "source_name": "NVIDIA Developer Blog",
+      "source_url": "https://developer.nvidia.com/blog/nvidia-vera-cpu-boosts-ai-factory-throughput-to-accelerate-agentic-workloads/",
+      "published_at": "2026-07-07T15:10:10+00:00",
+      "category": "mlops",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "GPUs",
+        "AI Models",
+        "Mlops"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8198,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://developer.nvidia.com/blog/?p=119546"
+    },
+    {
+      "title": "AI Innovators Adopt NVIDIA Vera — Why Max Single-Threaded CPU at Scale Matters",
+      "summary": "Max single-threaded CPUs at scale are a new category of CPUs built for the agentic AI era. Across the creation and deployment of an agentic system, the CPU is on the critical path for reasoning, response time and learning. CPUs are the processor which executes the work the AI model commands: the tool calling, code […]",
+      "source_name": "NVIDIA Blog",
+      "source_url": "https://blogs.nvidia.com/blog/nvidia-vera-max-single-threaded-cpu-at-scale/",
+      "published_at": "2026-07-07T15:00:52+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "GPUs",
+        "AI Models",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8192,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://blogs.nvidia.com/?p=95986"
+    },
+    {
+      "title": "Australian Payments Plus moves faster with ChatGPT and Codex",
+      "summary": "See how Australian Payments Plus uses ChatGPT Enterprise and Codex to move faster through payments complexity. AP+ saves time, improves quality, and keeps human judgment central.",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/australian-payments-plus",
+      "published_at": "2026-07-07T00:00:00+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.99,
+      "importance_score": 0.8166,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/index/australian-payments-plus"
+    },
+    {
+      "title": "Google Cloud Labs: Accelerate AI with Cloud Run",
+      "summary": "Moving Beyond the Prototype The AI landscape has shifted. While \"vibe coding\" with tools like Antigravity and AI Studio lets you build and deploy complex agents in minutes, the real work begins on \"Day 2\". Moving from a magical prototype to a hardened, production-grade application requires professional AI engineering. We’re excited to bring back the Accelerate AI with Cloud Run roadshow for 2026. This year, we’ve updated our curriculum to focus on the full AI agent…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/topics/developers-practitioners/google-cloud-labs-accelerate-ai-with-cloud-run/",
+      "published_at": "2026-07-07T14:00:00+00:00",
+      "category": "cloud_providers",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Cloud",
+        "Google Cloud",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.815,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/topics/developers-practitioners/google-cloud-labs-accelerate-ai-with-cloud-run/"
+    },
+    {
+      "title": "The ‘Ghost’ in the Database: Recovering Active ADFS Signing Keys via Machine DPAPI",
+      "summary": "Written by: Shebin Mathew Introduction The \"Golden SAML\" technique, first described by CyberArk researchers in 2017, and further detailed by Mandiant researchers in 2021 , remains one of the most effective methods for threat actors to forge identity assertions in the Microsoft ecosystem. By obtaining the private key of an ADFS token-signing certificate, an attacker can authenticate as any user to any SAML-federated application, bypassing multifactor authentication (MFA)…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/topics/threat-intelligence/recovering-active-adfs-signing-keys-machine-dpapi/",
+      "published_at": "2026-07-07T14:00:00+00:00",
+      "category": "cloud_providers",
+      "tags": [
+        "AI",
+        "Databases",
+        "APIs",
+        "Research",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.815,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/topics/threat-intelligence/recovering-active-adfs-signing-keys-machine-dpapi/"
+    },
+    {
+      "title": "China sentences official to death for taking $325M in bribes",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.bbc.com/news/articles/c33y0n1v1xjo",
+      "published_at": "2026-07-07T16:38:08+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.6335,
+      "importance_score": 0.8146,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-48820220"
+    },
+    {
+      "title": "NVIDIA and Hugging Face Bring New Models and Frameworks to LeRobot for the Open Robotics Community",
+      "summary": "Open source AI has shown how quickly developers can innovate when models, data and tools are shared. Robotics has the same opportunity, but advancements in physical AI development can still be gated by costly and fragmented resources, from large datasets and robot foundation models to simulation, compute and validation tools. NVIDIA and Hugging Face are […]",
+      "source_name": "NVIDIA Blog",
+      "source_url": "https://blogs.nvidia.com/blog/hugging-face-lerobot-models-frameworks-open-robotics/",
+      "published_at": "2026-07-07T06:00:26+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "GPUs",
+        "Open Source",
+        "AI Models",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.7817,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://blogs.nvidia.com/?p=95979"
+    },
+    {
+      "title": "The 4-body problem of SRE: Why autonomous operations depend on context",
+      "summary": "What a room full of senior SREs confirmed about the trust gap, and where the actual work begins I spent a day last week at an event in Bengaluru asking a room full of senior SREs,...",
+      "source_name": "CNCF",
+      "source_url": "https://www.cncf.io/blog/2026/07/06/the-4-body-problem-of-sre-why-autonomous-operations-depend-on-context/",
+      "published_at": "2026-07-06T11:00:00+00:00",
+      "category": "open_source_foundations",
+      "tags": [
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.87,
+      "importance_score": 0.7625,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.cncf.io/?p=170186"
+    },
+    {
+      "title": "Evolving platform engineering for AI-native workloads",
+      "summary": "Platform Engineering 1.0 delivered real value. Golden paths accelerated deployment. Internal Developer Platforms (IDPs) reduced cognitive load for developers. Self-service infrastructure gave developers back hours they had been spending filing tickets. Pipelines provided a standard vehicle to...",
+      "source_name": "CNCF",
+      "source_url": "https://www.cncf.io/blog/2026/07/06/evolving-platform-engineering-for-ai-native-workloads/",
+      "published_at": "2026-07-06T11:00:00+00:00",
+      "category": "open_source_foundations",
+      "tags": [
+        "AI",
+        "Data Pipelines",
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.87,
+      "importance_score": 0.7625,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.cncf.io/?p=170389"
+    },
+    {
+      "title": "Microsoft joins AI cost-cutting trend by relying more on its own models",
+      "summary": "Microsoft is the latest Silicon Valley giant to cut back on its AI spending.",
+      "source_name": "TechCrunch — AI",
+      "source_url": "https://techcrunch.com/2026/07/07/microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its-own-models/",
+      "published_at": "2026-07-07T19:58:20+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "AI Models",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7598,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://techcrunch.com/?p=3139819"
+    },
+    {
+      "title": "Discord admits AI moderation bug wrongfully banned users over harmless images",
+      "summary": "The company confirmed that the issue had been affecting accounts since May, with an additional 200 users banned over the weekend before its team identified and fixed the problem.",
+      "source_name": "TechCrunch — AI",
+      "source_url": "https://techcrunch.com/2026/07/07/discord-admits-ai-moderation-bug-wrongfully-banned-users-over-harmless-images/",
+      "published_at": "2026-07-07T19:28:38+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7578,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://techcrunch.com/?p=3139842"
+    },
+    {
+      "title": "Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot",
+      "summary": "",
+      "source_name": "Hugging Face",
+      "source_url": "https://huggingface.co/blog/skypilot-hf-storage",
+      "published_at": "2026-07-07T00:00:00+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI",
+        "Cloud",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.9,
+      "importance_score": 0.7566,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://huggingface.co/blog/skypilot-hf-storage"
+    },
+    {
+      "title": "LeRobot v0.6.0: Imagine, Evaluate, Improve",
+      "summary": "",
+      "source_name": "Hugging Face",
+      "source_url": "https://huggingface.co/blog/lerobot-release-v060",
+      "published_at": "2026-07-07T00:00:00+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.9,
+      "importance_score": 0.7566,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://huggingface.co/blog/lerobot-release-v060"
+    },
+    {
+      "title": "South Korean chip startup FuriosaAI invades European datacenters",
+      "summary": "RNGD accelerators land in Equinix's Lisbon DCs",
+      "source_name": "The Register",
+      "source_url": "https://www.theregister.com/ai-and-ml/2026/07/07/south-korean-chip-startup-furiosaai-invades-european-datacenters/5267884",
+      "published_at": "2026-07-07T17:59:40+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7516,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.theregister.com/a/5267884"
+    },
+    {
+      "title": "CAI cloud worm gives competitors' malware the boot, then steals secrets and mines for coin",
+      "summary": "Dog-eat-dog world for credential-stealing attackers",
+      "source_name": "The Register",
+      "source_url": "https://www.theregister.com/cyber-crime/2026/07/07/cai-cloud-worm-gives-competitors-malware-the-boot-then-steals-secrets-and-mines-for-coin/5267856",
+      "published_at": "2026-07-07T17:15:00+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "Cloud",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7485,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.theregister.com/a/5267856"
+    },
+    {
+      "title": "RedWing MaaS Packages Android Bank Fraud as a Telegram Rental Service",
+      "summary": "A new Android malware operation called RedWing is being rented out on Telegram as a ready-made bank-fraud service. It lets even low-skill criminals take over a victim's phone, steal their banking logins, and capture the one-time codes that protect their accounts. Zimperium's zLabs, which found the operation, says it looks like a new variant of Oblivion, a $300-a-month rent-a-malware tool",
+      "source_name": "The Hacker News",
+      "source_url": "https://thehackernews.com/2026/07/redwing-maas-packages-android-bank.html",
+      "published_at": "2026-07-07T17:10:15+00:00",
+      "category": "cybersecurity",
+      "tags": [
+        "Cybersecurity"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7482,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://thehackernews.com/2026/07/redwing-maas-packages-android-bank.html"
+    },
+    {
+      "title": "Enhancing Goodput in Large-Scale LLM Training with Nonuniform Tensor Parallelism",
+      "summary": "Training LLMs at massive scale brings unique infrastructure challenges, especially as jobs span thousands of GPUs and run for extended periods. The longer these...",
+      "source_name": "NVIDIA Developer Blog",
+      "source_url": "https://developer.nvidia.com/blog/enhancing-goodput-in-large-scale-llm-training-with-nonuniform-tensor-parallelism/",
+      "published_at": "2026-07-06T21:44:23+00:00",
+      "category": "mlops",
+      "tags": [
+        "AI",
+        "LLMs",
+        "GPUs",
+        "Mlops"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.7472,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://developer.nvidia.com/blog/?p=119371"
+    },
+    {
+      "title": "NASA calls time on CAPSTONE after four years of lunar orbit lessons",
+      "summary": "Advanced Space's privately owned probe will keep flying, but the agency's role is over",
+      "source_name": "The Register",
+      "source_url": "https://www.theregister.com/science/2026/07/07/nasa-calls-time-on-capstone-after-four-years-of-lunar-orbit-lessons/5267820",
+      "published_at": "2026-07-07T16:50:00+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7468,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.theregister.com/a/5267820"
+    },
+    {
+      "title": "Rogue Agent Flaw Could Have Let Attackers Hijack Google Dialogflow CX Chatbots",
+      "summary": "A critical flaw in Google's Dialogflow CX could have let an attacker with edit rights on one Code Block-enabled agent compromise other Code Block-enabled agents in the same Google Cloud project. From there, they could read live conversations, steal the data users shared, and make the bots send attacker-written messages, including requests to re-enter a password. Security firm Varonis found it",
+      "source_name": "The Hacker News",
+      "source_url": "https://thehackernews.com/2026/07/rogue-agent-flaw-could-have-let.html",
+      "published_at": "2026-07-07T16:37:33+00:00",
+      "category": "cybersecurity",
+      "tags": [
+        "AI Agents",
+        "Cloud",
+        "Google Cloud",
+        "Security",
+        "Cybersecurity"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7459,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://thehackernews.com/2026/07/rogue-agent-flaw-could-have-let.html"
+    },
+    {
+      "title": "New tool gives CLIs a warm and GUI feeling instead",
+      "summary": "Fed up with forgetting flags? Let Instagui read --help output and build a browser GUI instead",
+      "source_name": "The Register",
+      "source_url": "https://www.theregister.com/software/2026/07/07/new-tool-gives-clis-a-warm-and-gui-feeling-instead/5267798",
+      "published_at": "2026-07-07T16:30:00+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7454,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.theregister.com/a/5267798"
+    },
+    {
+      "title": "Claude Cowork expands to mobile and web",
+      "summary": "With this update, users can start a task from their desk, get status updates on their phone, and pick up the finished output later — even if their laptop is closed.",
+      "source_name": "TechCrunch — AI",
+      "source_url": "https://techcrunch.com/2026/07/07/the-coding-agent-wars-are-spilling-into-the-rest-of-the-office-claude-cowork/",
+      "published_at": "2026-07-07T16:27:18+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7452,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://techcrunch.com/?p=3139729"
+    }
+  ]
+}
