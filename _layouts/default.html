@@ -383,12 +383,13 @@ nav.scrolled{
   font-family:'JetBrains Mono',monospace;
   font-size:0.65rem;letter-spacing:0.12em;text-transform:uppercase;
   padding:0.42rem 1rem;
-  background:var(--lime);color:#050505;
+  background:var(--lime-dark);color:#fff;
   border:none;border-radius:var(--r);
   text-decoration:none;font-weight:500;
   transition:all 0.2s;
 }
-.nav-cta:hover{background:var(--lime-dark);color:#fff}
+.nav-cta:hover{background:#005f5f;color:#fff}
+[data-theme="light"] .nav-cta:hover{background:#004848}
 .nav-dot{
   width:7px;height:7px;border-radius:50%;
   background:var(--lime);
@@ -1257,6 +1258,16 @@ footer{
 [data-theme="light"] .press-img-wrap--mc  .press-img-bg{background:linear-gradient(135deg,#c8d6f0,#9cb4e0)}
 [data-theme="light"] .press-img-wm{color:rgba(0,0,0,0.07)}
 
+/* Light — readability fixes (hard-coded dark-mode grays) */
+[data-theme="light"] .pipe-item{color:#55554f;border-bottom-color:rgba(0,0,0,0.05)}
+[data-theme="light"] .about-text p{color:#666}
+[data-theme="light"] .testimonial-text{color:#666}
+[data-theme="light"] .current-item{color:#666}
+[data-theme="light"] .s-bullet{color:#666}
+[data-theme="light"] .gh-desc{color:#666}
+[data-theme="light"] .vol-chip{color:#666}
+[data-theme="light"] .climate-callout p{color:#666}
+
 /* ═══════════════════════════════════════════
    THEME TOGGLE BUTTON
 ═══════════════════════════════════════════ */
@@ -1579,6 +1590,8 @@ footer{border-top:1px solid var(--border);padding:2.5rem 3rem;background:var(--s
 .footer-icon{width:28px;height:28px;display:flex;align-items:center;justify-content:center;border:1px solid var(--border2);border-radius:4px;text-decoration:none;transition:border-color 0.2s,transform 0.2s}
 .footer-icon:hover{border-color:var(--lime);transform:translateY(-2px)}
 .footer-icon img{width:16px;height:16px;object-fit:contain}
+.footer-icon svg{color:var(--muted);transition:color 0.2s}
+.footer-icon:hover svg{color:var(--lime)}
 .footer-icon-text{font-family:'JetBrains Mono',monospace;font-size:0.6rem;font-weight:600;color:var(--muted);letter-spacing:0.02em}
 .footer-icon-text:hover{color:var(--lime)}
 .footer-bottom{
@@ -1851,7 +1864,7 @@ tr.pub-row[data-href]:hover .pub-doi { color: var(--lime); }
         <img src="https://aniketsoni.com/assets/img/linkedin-icon.png" alt="" class="btn-icon" aria-hidden="true">LinkedIn
       </a>
       <a href="https://github.com/aniketsoni1" target="_blank" rel="noopener noreferrer" class="btn-outline">
-        <img src="https://aniketsoni.com/assets/img/github-icon.png" alt="" class="btn-icon" aria-hidden="true">GitHub
+        <svg class="btn-icon" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 .5C5.65.5.5 5.65.5 12c0 5.08 3.29 9.39 7.86 10.91.58.11.79-.25.79-.55 0-.27-.01-1.17-.02-2.12-3.2.7-3.87-1.36-3.87-1.36-.52-1.33-1.28-1.68-1.28-1.68-1.04-.71.08-.7.08-.7 1.15.08 1.76 1.19 1.76 1.19 1.03 1.76 2.69 1.25 3.35.96.1-.75.4-1.25.72-1.54-2.55-.29-5.24-1.28-5.24-5.68 0-1.26.45-2.28 1.19-3.09-.12-.29-.52-1.46.11-3.05 0 0 .97-.31 3.18 1.18a11.1 11.1 0 0 1 2.9-.39c.98 0 1.97.13 2.9.39 2.2-1.49 3.17-1.18 3.17-1.18.63 1.59.23 2.76.11 3.05.74.81 1.19 1.83 1.19 3.09 0 4.41-2.69 5.38-5.26 5.66.41.36.78 1.06.78 2.14 0 1.54-.01 2.79-.01 3.17 0 .31.21.67.8.55A10.52 10.52 0 0 0 23.5 12C23.5 5.65 18.35.5 12 .5z"/></svg>GitHub
       </a>
       <a href="https://scholar.google.com/citations?user=Rtn7hFAAAAAJ&hl=en" target="_blank" rel="noopener noreferrer" class="btn-outline">
         <img src="https://aniketsoni.com/assets/img/Google_Scholar_logo.png" alt="" class="btn-icon" aria-hidden="true">Scholar
@@ -2915,7 +2928,7 @@ tr.pub-row[data-href]:hover .pub-doi { color: var(--lime); }
           <img src="https://aniketsoni.com/assets/img/linkedin-icon.png" alt="LinkedIn">
         </a>
         <a href="https://github.com/aniketsoni1" target="_blank" rel="noopener noreferrer" class="footer-icon" aria-label="GitHub">
-          <img src="https://aniketsoni.com/assets/img/github-icon.png" alt="GitHub">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor" role="img" aria-label="GitHub"><path d="M12 .5C5.65.5.5 5.65.5 12c0 5.08 3.29 9.39 7.86 10.91.58.11.79-.25.79-.55 0-.27-.01-1.17-.02-2.12-3.2.7-3.87-1.36-3.87-1.36-.52-1.33-1.28-1.68-1.28-1.68-1.04-.71.08-.7.08-.7 1.15.08 1.76 1.19 1.76 1.19 1.03 1.76 2.69 1.25 3.35.96.1-.75.4-1.25.72-1.54-2.55-.29-5.24-1.28-5.24-5.68 0-1.26.45-2.28 1.19-3.09-.12-.29-.52-1.46.11-3.05 0 0 .97-.31 3.18 1.18a11.1 11.1 0 0 1 2.9-.39c.98 0 1.97.13 2.9.39 2.2-1.49 3.17-1.18 3.17-1.18.63 1.59.23 2.76.11 3.05.74.81 1.19 1.83 1.19 3.09 0 4.41-2.69 5.38-5.26 5.66.41.36.78 1.06.78 2.14 0 1.54-.01 2.79-.01 3.17 0 .31.21.67.8.55A10.52 10.52 0 0 0 23.5 12C23.5 5.65 18.35.5 12 .5z"/></svg>
         </a>
         <a href="https://scholar.google.com/citations?user=Rtn7hFAAAAAJ&hl=en" target="_blank" rel="noopener noreferrer" class="footer-icon" aria-label="Google Scholar">
           <img src="https://aniketsoni.com/assets/img/Google_Scholar_logo.png" alt="Google Scholar">
