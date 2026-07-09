@@ -18,9 +18,9 @@ name: Weekly Signal Perspective
 # ════════════════════════════════════════════════════════════════════
 on:
   schedule:
-    - cron: "0 14 * * 0"   # 10:00 America/New_York on Sundays during EDT
-    - cron: "0 15 * * 0"   # 10:00 America/New_York on Sundays during EST
-  workflow_dispatch:        # manual trigger (always runs, bypasses the guard)
+    - cron: "0 9 * * 0"
+      timezone: "America/New_York"
+  workflow_dispatch:
 
 permissions:
   contents: write

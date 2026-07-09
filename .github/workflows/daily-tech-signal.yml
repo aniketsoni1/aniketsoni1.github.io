@@ -19,9 +19,9 @@ name: Daily Tech Signal Engine
 # ════════════════════════════════════════════════════════════════════
 on:
   schedule:
-    - cron: "0 13 * * *"   # 09:00 America/New_York during EDT
-    - cron: "0 14 * * *"   # 09:00 America/New_York during EST
-  workflow_dispatch:        # manual trigger (always runs, bypasses the guard)
+    - cron: "0 9 * * *"
+      timezone: "America/New_York"
+  workflow_dispatch:
 
 permissions:
   contents: write
