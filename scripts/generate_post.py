@@ -231,6 +231,24 @@ def main() -> int:
     takeaway = ai.write_takeaway(selected, provider)
     provider_name, model_name, fallback_used = ai.provider_info(provider)
 
+    # ── Optional AI hero image (generate_hero_image.py runs before us and
+    #    leaves a manifest; a missing/failed image simply means no front
+    #    matter `image:` — never an error here). ──
+    hero_image = None
+    hero_manifest_path = rundir / "hero_image.json"
+    if hero_manifest_path.exists():
+        try:
+            hm = read_json(hero_manifest_path)
+            if hm.get("path"):
+                hero_image = {
+                    "path": hm["path"],
+                    "alt": hm.get("alt") or "Abstract artwork for today's Daily Tech Signal",
+                    "provider": hm.get("provider") or "unknown",
+                }
+                LOG.info("Hero image attached (%s): %s", hero_image["provider"], hero_image["path"])
+        except Exception as exc:
+            LOG.warning("hero manifest unreadable, post ships without image: %s", exc)
+
     # ── Assemble the structured payload (audit + template input) ──
     all_tags = []
     for i in selected:
@@ -312,6 +330,7 @@ def main() -> int:
         "description": DESCRIPTION,
         "edition": edition.value,
         "is_short": edition == Edition.SHORT_SIGNAL,
+        "hero_image": hero_image,
         "opening_summary": _liquid_safe(intro),
         "news_items": news_ctx,
         "impact": _build_impact(selected),

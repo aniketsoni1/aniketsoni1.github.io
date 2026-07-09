@@ -6,6 +6,11 @@ author: "{{ author }}"
 categories: [{% for c in categories %}{{ c }}{% if not loop.last %}, {% endif %}{% endfor %}]
 tags: [{% for t in tags %}{{ t }}{% if not loop.last %}, {% endif %}{% endfor %}]
 description: "{{ description }}"
+{% if hero_image %}
+image: {{ hero_image.path }}
+image_alt: "{{ hero_image.alt }}"
+image_credit: "AI-generated abstract artwork ({{ hero_image.provider }})"
+{% endif %}
 edition: {{ edition }}
 ---
 

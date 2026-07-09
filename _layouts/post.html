@@ -75,6 +75,15 @@ layout: signal
 
   <div class="post-rule"></div>
 
+  {%- if page.image %}
+  <!-- ══ AI-generated hero (front-matter `image:`; also og:image via seo-tag) ══ -->
+  <figure class="post-hero">
+    <img src="{{ page.image | relative_url }}" alt="{{ page.image_alt | default: page.title }}"
+         loading="eager" decoding="async" itemprop="image">
+    {%- if page.image_credit %}<figcaption class="post-hero-credit">{{ page.image_credit }}</figcaption>{%- endif %}
+  </figure>
+  {%- endif %}
+
   <!-- ══ Post body (rendered Markdown from the pipeline) ══ -->
   <div class="post-content" itemprop="articleBody">
     {{ content }}
