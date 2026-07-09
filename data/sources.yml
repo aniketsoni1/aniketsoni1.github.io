@@ -38,7 +38,12 @@ sources:
   - name: "Anthropic"
     category: ai_model_companies
     source_type: official_blog
-    feed: null                # Anthropic has no public RSS; kept for link provenance
+    # Anthropic publishes no RSS. This Google News query proxies their /news
+    # section (last 7 days). CAVEAT: item links are news.google.com redirect
+    # URLs, not anthropic.com — they resolve fine for readers and pass link
+    # validation, but the collector strips Google's " - Anthropic" title
+    # suffix. If Anthropic ever ships a real feed, swap it in here.
+    feed: "https://news.google.com/rss/search?q=site:anthropic.com/news+when:7d&hl=en-US&gl=US&ceid=US:en"
     homepage: "https://www.anthropic.com/news"
     trust: 0.95
   - name: "Google DeepMind"
@@ -297,3 +302,35 @@ sources:
     feed: "https://hnrss.org/frontpage?points=100"
     homepage: "https://news.ycombinator.com/"
     trust: 0.55
+
+  # ── Mainstream press (tech desks of general-audience outlets) ─────
+  # Kept in their own category (not enterprise_technology) because their
+  # trust semantics differ from vendor blogs, and the category surfaces as
+  # a "Mainstream Press" tag on posts. Story links are often paywalled —
+  # that's fine: validate_urls treats 403/429 bot-blocks as "present".
+  # These feed URLs shift periodically at the publishers; a dead one is
+  # logged and skipped by the collector, never fatal (check bronze logs).
+  - name: "The New York Times — Technology"
+    category: mainstream_press
+    source_type: news
+    feed: "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+    homepage: "https://www.nytimes.com/section/technology"
+    trust: 0.80
+  - name: "Wired"
+    category: mainstream_press
+    source_type: news
+    feed: "https://www.wired.com/feed/rss"
+    homepage: "https://www.wired.com/"
+    trust: 0.78
+  - name: "Business Insider — Tech"
+    category: mainstream_press
+    source_type: news
+    feed: "https://feeds.businessinsider.com/custom/all"
+    homepage: "https://www.businessinsider.com/tech"
+    trust: 0.72
+  - name: "The Wall Street Journal — Technology"
+    category: mainstream_press
+    source_type: news
+    feed: "https://feeds.a.dj.com/rss/RSSWSJD.xml"
+    homepage: "https://www.wsj.com/tech"
+    trust: 0.80
