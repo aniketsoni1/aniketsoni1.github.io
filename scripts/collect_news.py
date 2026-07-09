@@ -86,6 +86,11 @@ def _normalize_entry(entry: Any, src: SourceConfig, lookback_hours: int) -> Opti
     if not title or not link.lower().startswith("http"):
         return None
 
+    # Google News RSS proxies (e.g. the Anthropic entry) append " - Publisher"
+    # to every title; strip that suffix so headlines read like the original.
+    if "news.google.com" in (src.feed or "") and " - " in title:
+        title = title.rsplit(" - ", 1)[0].strip() or title
+
     raw_summary = (
         getattr(entry, "summary", None)
         or getattr(entry, "description", None)
@@ -201,6 +206,169 @@ def _collect_hacker_news(defaults: dict) -> list[dict]:
     return out
 
 
+# ──────────────────────────────────────────────────────────────────────
+#  tetw.org cross-reference enrichment (NOT a sources.yml entry)
+#
+#  The Electric Typewriter (tetw.org) is a curated, largely EVERGREEN
+#  long-form essay archive with no reliable per-item publish dates of its
+#  own — running it through the normal feed path would filter it to zero
+#  items every run. Instead, this step runs AFTER the normal collection
+#  pass and depends on the day's candidates as input:
+#
+#    1. scrape tetw.org list page(s) for candidate outbound article links;
+#    2. keep only links topically matching today's already-collected
+#       candidates (tag phrases + title-token overlap);
+#    3. fetch each match's UNDERLYING source page (tetw mostly links out
+#       to NYT/Wired/New Yorker/etc.) and read that page's own publish date;
+#    4. include the item only if that date is within lookback_hours —
+#       topical match alone is NOT enough; stale items are discarded.
+#
+#  Expected behaviour: contributes rarely (the archive is evergreen and the
+#  freshness gate is strict). Every failure degrades to skip-with-log; this
+#  step must never fail the batch.
+# ──────────────────────────────────────────────────────────────────────
+TETW_PAGES = ["https://tetw.org/"]
+TETW_MAX_ITEMS = 2          # cap per run — enrichment, not a firehose
+TETW_MAX_DATE_PROBES = 8    # at most this many underlying-source fetches
+
+_STOPWORDS = frozenset(
+    "the a an and or but of for to in on with by from at as is are was were be "
+    "been has have had how why what when where who which this that these those "
+    "its it's about into over under after before between against more most new".split()
+)
+
+_DATE_PATTERNS = [
+    r'"datePublished"\s*:\s*"([^"]+)"',                                  # JSON-LD
+    r'property="article:published_time"\s+content="([^"]+)"',            # Open Graph
+    r'content="([^"]+)"\s+property="article:published_time"',
+    r'itemprop="datePublished"\s+content="([^"]+)"',
+    r'<time[^>]+datetime="([^"]+)"',
+]
+
+
+def _meaningful_tokens(text: str) -> set[str]:
+    return {
+        w for w in "".join(c if c.isalnum() else " " for c in text.lower()).split()
+        if len(w) > 3 and w not in _STOPWORDS
+    }
+
+
+def _extract_publish_date(html_text: str) -> Optional[datetime]:
+    """Best-effort publish date of an article page (head metadata only)."""
+    import re
+    from dateutil import parser as dtparser
+
+    head = html_text[:80_000]
+    for pat in _DATE_PATTERNS:
+        m = re.search(pat, head, re.I)
+        if not m:
+            continue
+        try:
+            dt = dtparser.parse(m.group(1))
+            if dt.tzinfo is None:
+                dt = dt.replace(tzinfo=timezone.utc)
+            return dt
+        except Exception:
+            continue
+    return None
+
+
+def _collect_tetw_crossref(candidates: list[dict], defaults: dict) -> list[dict]:
+    """Cross-reference tetw.org's curated lists against today's candidates."""
+    from urllib.parse import urlparse
+
+    from bs4 import BeautifulSoup
+
+    lookback = int(defaults.get("lookback_hours", 48))
+    timeout = int(defaults.get("request_timeout", 20))
+    ua = defaults.get("user_agent")
+    cutoff = datetime.now(timezone.utc) - timedelta(hours=lookback)
+
+    # Today's topical fingerprint: tag phrases + title tokens.
+    tag_phrases = {t.lower() for c in candidates for t in c.get("tags", []) if len(t) > 3}
+    title_tokens: set[str] = set()
+    for c in candidates:
+        title_tokens |= _meaningful_tokens(c["title"])
+    if not tag_phrases and not title_tokens:
+        return []
+
+    # 1. Scrape the list page(s) for outbound article links.
+    entries: list[tuple[str, str]] = []  # (title, url)
+    for page in TETW_PAGES:
+        raw = fetch_url(page, timeout=timeout, user_agent=ua)
+        if not raw:
+            LOG.info("  tetw.org unreachable — skipping cross-ref")
+            continue
+        try:
+            soup = BeautifulSoup(raw, "html.parser")
+        except Exception as exc:
+            LOG.warning("  tetw parse error: %s", exc)
+            continue
+        for a in soup.find_all("a", href=True):
+            href = a["href"].strip()
+            text = " ".join(a.get_text(" ", strip=True).split())
+            host = urlparse(href).netloc.lower()
+            if not href.startswith("http") or "tetw.org" in host or not host:
+                continue
+            if len(text) < 16:  # nav chrome / "click through" links
+                continue
+            entries.append((text, href))
+
+    if not entries:
+        return []
+
+    # 2. Topical match against today's signal.
+    matched: list[tuple[str, str]] = []
+    seen: set[str] = set()
+    for title, url in entries:
+        if url in seen:
+            continue
+        seen.add(url)
+        tokens = _meaningful_tokens(title)
+        overlap = len(tokens & title_tokens)
+        phrase_hit = any(ph in title.lower() for ph in tag_phrases)
+        if overlap >= 2 or phrase_hit:
+            matched.append((title, url))
+    LOG.info("  tetw.org: %d outbound links, %d topical matches", len(entries), len(matched))
+
+    # 3+4. Verify the UNDERLYING source's own publish date; keep fresh only.
+    out: list[dict] = []
+    for title, url in matched[:TETW_MAX_DATE_PROBES]:
+        raw = fetch_url(url, timeout=timeout, user_agent=ua)
+        if not raw:
+            LOG.info("    tetw target unreachable, skipping: %s", url)
+            continue
+        published = _extract_publish_date(raw.decode("utf-8", "replace"))
+        if published is None:
+            LOG.info("    no publish date found, skipping (freshness unprovable): %s", url)
+            continue
+        if published < cutoff:
+            LOG.info("    stale (%s), discarding despite topical match: %s",
+                     published.date().isoformat(), url)
+            continue
+        out.append({
+            "title": title,
+            "summary": "",
+            "source_name": "The Electric Typewriter",
+            "source_url": url,
+            "published_at": published.isoformat(),
+            "category": "aggregators",
+            "tags": extract_tags(title, extra=["Long Read"]),
+            "confidence_score": _clamp(0.58),
+            "importance_score": _clamp(
+                _TYPE_WEIGHT[SourceType.AGGREGATOR] + _recency_boost(published, lookback)
+            ),
+            "source_type": SourceType.AGGREGATOR.value,
+            "ai_generated_summary": None,
+            "why_it_matters": None,
+            "guid": f"tetw-{url}",
+        })
+        if len(out) >= TETW_MAX_ITEMS:
+            break
+    LOG.info("  %-32s %2d items", "tetw.org (cross-ref)", len(out))
+    return out
+
+
 def _dedupe(items: list[dict]) -> list[dict]:
     """Drop duplicate URLs and near-duplicate titles, keeping the strongest."""
     items.sort(key=lambda x: x["importance_score"], reverse=True)
@@ -251,6 +419,15 @@ def main() -> int:
         LOG.warning("HN error: %s", exc)
 
     deduped = _dedupe(all_items)[:MAX_CANDIDATES]
+
+    # tetw.org cross-ref enrichment — needs the day's candidates as input,
+    # so it runs after the normal pass (see the function's doc block).
+    try:
+        extra = _collect_tetw_crossref(deduped, defaults)
+        if extra:
+            deduped = _dedupe(deduped + extra)[:MAX_CANDIDATES]
+    except Exception as exc:  # enrichment must never fail the batch
+        LOG.warning("tetw cross-ref error: %s", exc)
 
     payload = {
         "generated_at": iso_now(),
