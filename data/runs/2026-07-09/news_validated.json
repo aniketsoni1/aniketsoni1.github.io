@@ -1,0 +1,862 @@
+{
+  "post_date": "2026-07-09",
+  "sources_checked": 41,
+  "count": 45,
+  "items": [
+    {
+      "title": "EU Parliament greenlights Chat Control 1.0 – Breyer: \"Our children lose out\"",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/",
+      "published_at": "2026-07-09T11:03:54Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.6585,
+      "importance_score": 0.86,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-48843923"
+    },
+    {
+      "title": "My Thoughts on the Bun Rust Rewrite",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://andrewkelley.me/post/my-thoughts-bun-rust-rewrite.html",
+      "published_at": "2026-07-09T09:47:28Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.8547,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-48843352"
+    },
+    {
+      "title": "Why developers are ditching GitHub for Codeberg and self-hosting alternatives",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.howtogeek.com/why-developers-are-ditching-github-for-codeberg-and-self-hosting-alternatives/",
+      "published_at": "2026-07-09T08:22:52Z",
+      "category": "aggregators",
+      "tags": [
+        "Developer Tools",
+        "Hacker News"
+      ],
+      "confidence_score": 0.673,
+      "importance_score": 0.8488,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-48842611"
+    },
+    {
+      "title": "GeForce NOW Turns Up the Heat With New GeForce RTX 5080-Powered Toronto Server",
+      "summary": "This GFN Thursday brings more games, more power and more ways to play on GeForce NOW. The cloud gaming service is expanding with a new GeForce RTX 5080-powered server in Toronto, bringing dedicated high performance in the cloud closer to members across the region. NTE: Neverness to Everness also gets an update in the cloud, […]",
+      "source_name": "NVIDIA Blog",
+      "source_url": "https://blogs.nvidia.com/blog/geforce-now-thursday-toronto-expansion/",
+      "published_at": "2026-07-09T13:00:55Z",
+      "category": "enterprise_technology",
+      "tags": [
+        "Cloud",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8381,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://blogs.nvidia.com/?p=96029"
+    },
+    {
+      "title": "Spider venom kills varroa mites without harming honeybees",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://connectsci.au/news/news-parent/9703/Spider-venom-kills-varroa-mites-without-harming",
+      "published_at": "2026-07-09T05:14:45Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.6515,
+      "importance_score": 0.8357,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-48841259"
+    },
+    {
+      "title": "The CNCF Data Storage in Cloud Native AI White Paper",
+      "summary": "Deploying Artificial Intelligence (AI) and Machine Learning (ML) workloads at scale has become a primary objective for modern enterprises. However, moving these data-heavy, stateful workloads into cloud native infrastructure introduces massive data bottlenecks. To help organizations...",
+      "source_name": "CNCF",
+      "source_url": "https://www.cncf.io/report-whitepaper/2026/07/08/the-cncf-data-storage-in-cloud-native-ai-white-paper/",
+      "published_at": "2026-07-08T17:35:54Z",
+      "category": "open_source_foundations",
+      "tags": [
+        "AI",
+        "Machine Learning",
+        "Cloud",
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8172,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.cncf.io/?p=170619"
+    },
+    {
+      "title": "John Deere owners will get the right to repair equipment under FTC settlement",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02",
+      "published_at": "2026-07-08T23:37:43Z",
+      "category": "aggregators",
+      "tags": [
+        "AI",
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.8123,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-48838876"
+    },
+    {
+      "title": "How We Cut Inference Spend by Right-Sizing Our Models",
+      "summary": "Most enterprise work needs the right intelligence for each job — not the most intelligence for all of them.",
+      "source_name": "Salesforce News",
+      "source_url": "https://www.salesforce.com/news/stories/cutting-inference-spend-by-right-sizing-models/",
+      "published_at": "2026-07-08T14:50:58Z",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI Models",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.8058,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.salesforce.com/?p=94279"
+    },
+    {
+      "title": "Rewriting Bun in Rust",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://bun.com/blog/bun-in-rust",
+      "published_at": "2026-07-08T21:49:59Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.8048,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-48837877"
+    },
+    {
+      "title": "Separating signal from noise in coding evaluations",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations/",
+      "published_at": "2026-07-08T21:03:51Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.665,
+      "importance_score": 0.8016,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-48837396"
+    },
+    {
+      "title": "Our approach to government and national security partnerships",
+      "summary": "Learn how OpenAI approaches government and national security partnerships, with principles for responsible AI use, democratic accountability, and public safety.",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/government-national-security-partnerships",
+      "published_at": "2026-07-08T13:30:00Z",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI",
+        "Security",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.99,
+      "importance_score": 0.8001,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/index/government-national-security-partnerships"
+    },
+    {
+      "title": "Bonnie Tyler, singer of Total Eclipse of the Heart, dies aged 75",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.bbc.com/news/articles/cg5pd9z2487o",
+      "published_at": "2026-07-09T10:02:33Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.627,
+      "importance_score": 0.7982,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-48843438"
+    },
+    {
+      "title": "Cloudflare Drop",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.cloudflare.com/drop/",
+      "published_at": "2026-07-08T19:18:26Z",
+      "category": "aggregators",
+      "tags": [
+        "Cloud",
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7943,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-48836233"
+    },
+    {
+      "title": "Slackbot Can Now Do Anything Salesforce Can. Just Ask.",
+      "summary": "",
+      "source_name": "Salesforce News",
+      "source_url": "https://www.salesforce.com/news/linked-content/slackbot-can-now-do-anything-salesforce-can-just-ask/",
+      "published_at": "2026-07-08T12:00:23Z",
+      "category": "enterprise_technology",
+      "tags": [
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.8,
+      "importance_score": 0.7939,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.salesforce.com/?post_type=sf_linked_content&p=94275"
+    },
+    {
+      "title": "Network boundary for AI agents using NGINX and OpenTelemetry",
+      "summary": "I recently had an interesting conversation at a KCD about OpenClaw with one of the attendees, and they remarked that they wouldn’t put an agent in their network, because “we don’t know what that thing really...",
+      "source_name": "CNCF",
+      "source_url": "https://www.cncf.io/blog/2026/07/08/network-boundary-for-ai-agents-using-nginx-and-opentelemetry/",
+      "published_at": "2026-07-08T11:00:00Z",
+      "category": "open_source_foundations",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.87,
+      "importance_score": 0.7897,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.cncf.io/?p=170192"
+    },
+    {
+      "title": "Grok 4.5",
+      "summary": "https://cursor.com/blog/grok-4-5",
+      "source_name": "Hacker News",
+      "source_url": "https://x.ai/news/grok-4-5",
+      "published_at": "2026-07-08T18:00:32Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7889,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-48835111"
+    },
+    {
+      "title": "Show HN: Microsoft releases Flint, a visualization language for AI agents",
+      "summary": "Data visualizations are the bridge between user and data. But building AI agents that can generate visualizations reliably can be very tricky: - simple chart specs can be reliable, but generated charts are often of low quality due to reliance on system defaults; - complex chart specs with explicit…",
+      "source_name": "Hacker News",
+      "source_url": "https://microsoft.github.io/flint-chart/#/",
+      "published_at": "2026-07-08T17:46:12Z",
+      "category": "aggregators",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7879,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-48834924"
+    },
+    {
+      "title": "Helping K–12 educators build practical AI skills",
+      "summary": "OpenAI Academy and the Walton Family Foundation are bringing hands-on AI Skills Jams to help K–12 educators build practical AI skills for the classroom.",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/k-12-educators-practical-skills",
+      "published_at": "2026-07-08T10:00:00Z",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.97,
+      "importance_score": 0.7856,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/index/k-12-educators-practical-skills"
+    },
+    {
+      "title": "U.S. Air Force Leverages Missionforce to Modernize Sustainment and Operations for $13.5 Billion Vehicle Fleet",
+      "summary": "Missionforce National Security has replaced legacy ERP silos with a unified, interoperable platform to streamline logistics, reduce downtime, and increase readiness for the Air Force’s global 100,000-vehicle fleet. The news underscores Missionforce National Security’s growing DoW momentum, building on a new $72M Air Force ELA and recent $5.6B Army IDIQ to scale innovation across the […]",
+      "source_name": "Salesforce News",
+      "source_url": "https://www.salesforce.com/news/press-releases/2026/07/08/us-air-force-missionforce-modernize-sustainment-operations/",
+      "published_at": "2026-07-08T10:00:00Z",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "Security",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7855,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.salesforce.com/?post_type=sf_press_release&p=94250"
+    },
+    {
+      "title": "Chatto is now open source",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.hmans.dev/blog/chatto-is-open-source",
+      "published_at": "2026-07-08T15:19:50Z",
+      "category": "aggregators",
+      "tags": [
+        "Open Source",
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7778,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-48833116"
+    },
+    {
+      "title": "Automating cross-repo documentation with GitHub Agentic Workflows",
+      "summary": "Explore how the Aspire team turns merged product changes into SME-reviewed docs pull requests, closing the gap between release and documentation. The post Automating cross-repo documentation with GitHub Agentic Workflows appeared first on The GitHub Blog .",
+      "source_name": "The GitHub Blog",
+      "source_url": "https://github.blog/ai-and-ml/github-copilot/automating-cross-repo-documentation-with-github-agentic-workflows/",
+      "published_at": "2026-07-08T21:11:56Z",
+      "category": "developer_platforms",
+      "tags": [
+        "AI Agents",
+        "Developer Tools",
+        "Developer Platforms"
+      ],
+      "confidence_score": 0.92,
+      "importance_score": 0.7722,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://github.blog/?p=97282"
+    },
+    {
+      "title": "C4N, now GA: Delivering cloud’s highest per vCPU network and block storage I/O for x86 workloads",
+      "summary": "As organizations scale modern workloads — from high-throughput databases and network/security appliances to real-time analytics and AI/ML inference — network and block storage performance can quickly become a bottleneck. Standard virtual machines often struggle to balance compute efficiency with the high-volume data-transfer demands of these applications. At Google Cloud Next ‘26, we announced C4N in preview , our first network- and block-storage-optimized Google Compute…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/products/compute/c4n-network-and-storage-optimized-vms/",
+      "published_at": "2026-07-08T20:00:00Z",
+      "category": "cloud_providers",
+      "tags": [
+        "AI",
+        "Cloud",
+        "Google Cloud",
+        "Security",
+        "Databases",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.7672,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/products/compute/c4n-network-and-storage-optimized-vms/"
+    },
+    {
+      "title": "GitHub availability report: June 2026",
+      "summary": "In June, we experienced six incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: June 2026 appeared first on The GitHub Blog .",
+      "source_name": "The GitHub Blog",
+      "source_url": "https://github.blog/news-insights/company-news/github-availability-report-june-2026/",
+      "published_at": "2026-07-08T19:35:51Z",
+      "category": "developer_platforms",
+      "tags": [
+        "AI",
+        "Developer Tools",
+        "Developer Platforms"
+      ],
+      "confidence_score": 0.92,
+      "importance_score": 0.7655,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://github.blog/?p=97408"
+    },
+    {
+      "title": "Turning a pile of documents into a searchable useable knowledge base",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://github.com/linuxrebel/DocuBrowser",
+      "published_at": "2026-07-08T20:37:29Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.6355,
+      "importance_score": 0.7636,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-48837110"
+    },
+    {
+      "title": "AgentLens: Production-Assessed Trajectory Reviews for Coding Agent Evaluation",
+      "summary": "arXiv:2607.06624v1 Announce Type: new Abstract: We present AgentLens, a production-assessed benchmark for interactive code agents. Most code-agent benchmarks reduce a run to a single bit -- did the task pass? -- but the people who actually use these agents experience the entire trajectory: how the agent follows instructions, uses its tools, verifies its own work, recovers from mistakes, and talks to them along the way. AgentLens evaluates that whole trajectory. It pairs…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2607.06624",
+      "published_at": "2026-07-09T04:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7605,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2607.06624v1"
+    },
+    {
+      "title": "When Does In-Context Search Help? A Sampling-Complexity Theory of Reflection-Driven Reasoning",
+      "summary": "arXiv:2607.06720v1 Announce Type: new Abstract: Training large language models (LLMs) with extended reasoning has enabled in-context search, in which models iteratively generate, critique, and revise solution attempts. We provide a theoretical analysis of in-context search by modeling it as approximate inference over reasoning traces, where the base model defines a prior and self-reflection provides feedback for posterior updates, and study the resulting inference-time…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2607.06720",
+      "published_at": "2026-07-09T04:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "LLMs",
+        "AI Models",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7605,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2607.06720v1"
+    },
+    {
+      "title": "LLM-powered reasoning in agent-based modeling",
+      "summary": "arXiv:2607.06757v1 Announce Type: new Abstract: Agent-based modeling (ABM) has the capability to model millions of individuals and their interactions, which is useful for policy making. However, ABMs have traditionally relied on static prior, which prevents the models from adapting to real-time changes. Our research provides a novel approach to addressing this information gap. Large language models (LLMs) offer new opportunities to predict human decision-making. Here, we…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2607.06757",
+      "published_at": "2026-07-09T04:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "LLMs",
+        "AI Agents",
+        "AI Models",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7605,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2607.06757v1"
+    },
+    {
+      "title": "QANTIS: Hardware-Calibrated Sequential POMDP Belief Updates on IBM Heron",
+      "summary": "arXiv:2607.06760v1 Announce Type: new Abstract: Autonomous systems under partial observability act on beliefs, not raw sensor events. QANTIS treats the quantum processor as a calibrated belief-update service in that loop: it receives a prior and an observation model, estimates the rare-event evidence term, and returns an ordinary posterior to a classical planner. This paper asks whether that service can be reused across a sequential Tiger POMDP horizon on present IBM Heron…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2607.06760",
+      "published_at": "2026-07-09T04:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "AI Models",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7605,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2607.06760v1"
+    },
+    {
+      "title": "Cost-Effective Agent Harnesses for Abstract Reasoning and Generalization on ARC-AGI-1",
+      "summary": "arXiv:2607.06764v1 Announce Type: new Abstract: Recent progress on ARC-AGI-1 from disclosed architectures has come broadly from two regimes: heavy test-time compute over frontier models (evolutionary search, exhaustive sampling, extended chain-of-thought), or benchmark-specific training in which small models are fine-tuned on ARC data, often with task-specialized architectures. We study a third regime: an open-weight model in non-thinking mode (DeepSeek V3.2) under a strict…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2607.06764",
+      "published_at": "2026-07-09T04:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "AI Models",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7605,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2607.06764v1"
+    },
+    {
+      "title": "Evaluating SageMath-Augmented LLM Agents for Computational and Experimental Mathematics",
+      "summary": "arXiv:2607.06820v1 Announce Type: new Abstract: Recent advances in AI for Mathematics have focused largely on autoformalization and theorem proving, leaving the role of Computer Algebra Systems (CAS) in agentic LLM workflows underexplored. We propose a ReAct-style agentic setup that combines LLM reasoning with verifiable feedback from SageMath, together with Context7 for the up-to-date documentation. We evaluate this agentic setup across frontier models for solving…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2607.06820",
+      "published_at": "2026-07-09T04:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "LLMs",
+        "AI Agents",
+        "AI Models",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7605,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2607.06820v1"
+    },
+    {
+      "title": "The Harness Effect: How Orchestration Design Sets the Token Economics of Enterprise Agentic AI",
+      "summary": "arXiv:2607.06906v1 Announce Type: new Abstract: Agentic AI development today runs on token maxing: buying capability with tokens -- longer reasoning traces, more turns, wider tool payloads, bigger replayed contexts -- so tokens per task grow faster than task value. Falling per-token prices mask the pattern; total spend rises anyway. We argue the decisive lever against token maxing is the harness: the orchestration layer that assembles context, exposes tools, sequences turns…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2607.06906",
+      "published_at": "2026-07-09T04:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7605,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2607.06906v1"
+    },
+    {
+      "title": "Grounding Spatial Relations in a Compact World Model: Instruction Leakage and a Goal-Free Dynamics Fix",
+      "summary": "arXiv:2607.06925v1 Announce Type: new Abstract: Compact world models that condition on a language goal promise to ground relations such as ``put the red block left of the blue block'' using a sparse set of explicit \\emph{reference anchors}. We ask when such references actually ground a relation, and identify a trap: a goal-conditioned predictor reaches a striking $0.90$ relation-readout accuracy, yet this is \\emph{instruction transcription}, not perception. Withholding the…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2607.06925",
+      "published_at": "2026-07-09T04:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "AI Models",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7605,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2607.06925v1"
+    },
+    {
+      "title": "Large Behavior Model: A Promptable Digital Twin of the Retail Customer",
+      "summary": "arXiv:2607.06993v1 Announce Type: new Abstract: Customer behavior modeling underpins recommendation, marketing, and decision support, yet existing approaches either optimize predictive accuracy without explaining decisions or simulate users without grounding them in real behavioral data. We present the Large Behavioral Model (LBM) that learns customer decision making directly from large-scale retail transactions through a unified Person-Environment formulation. Customer…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2607.06993",
+      "published_at": "2026-07-09T04:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "AI Models",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7605,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2607.06993v1"
+    },
+    {
+      "title": "Learning social norms enhances compatibility in dynamic human-AI coordination",
+      "summary": "arXiv:2607.07021v1 Announce Type: new Abstract: Humans continuously coordinate with others in dynamic interactions, often through implicit, hard-to-quantify social norms that act as shared tacit expectations among interacting agents. As AI agents, including large language models (LLMs), become embedded in daily life, they increasingly participate in such interactions and reshape social interaction structures. Yet they often fail to coordinate with humans in an effective…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2607.07021",
+      "published_at": "2026-07-09T04:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "LLMs",
+        "AI Agents",
+        "AI Models",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7605,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2607.07021v1"
+    },
+    {
+      "title": "Measuring Intelligence Beyond Human Scale",
+      "summary": "arXiv:2607.07040v1 Announce Type: new Abstract: How can we measure intelligence beyond human capability? Human-authored benchmarks saturate, and above human capability, examiners may not know which tasks are both hard and verifiable. We argue that this difficulty is inherent to absolute-scale evaluation and propose a new paradigm based on relative measurement in which models generate public challenges that separate other systems. Aggregating these outcomes yields an…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2607.07040",
+      "published_at": "2026-07-09T04:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "AI Models",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7605,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2607.07040v1"
+    },
+    {
+      "title": "Operational Reframing and Approval-Framed Delegation in Multi-Agent LLM Safety",
+      "summary": "arXiv:2607.07097v1 Announce Type: new Abstract: Safety evaluations of multi-agent LLM systems often compare a direct prompt with a planner-executor pipeline and report the difference as a single \"pipeline effect.\" We argue that this aggregate is difficult to interpret because it conflates three mechanisms: harmful intent may be reframed as plausible operational work, the planner may refuse or transform the request, and the executor may act under delegation prompts implying…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2607.07097",
+      "published_at": "2026-07-09T04:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "LLMs",
+        "AI Agents",
+        "Data Pipelines",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7605,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2607.07097v1"
+    },
+    {
+      "title": "TriRoute: Unified Learned Routing for Joint Adaptive Attention, Experts, and KV-Cache Allocation",
+      "summary": "arXiv:2607.06601v1 Announce Type: new Abstract: Conditional computation can decouple language model quality from per-token inference cost, yet leading techniques act on a single axis in isolation: Mixture-of-Experts (MoE) sparsifies the FFN, Mixture-of-Depths (MoD) skips whole transformer blocks, and KV-cache quantization compresses attention memory. We argue these three decisions (attention resolution, expert selection, and cache bit-width) are strongly coupled and should…",
+      "source_name": "arXiv cs.LG (Machine Learning)",
+      "source_url": "https://arxiv.org/abs/2607.06601",
+      "published_at": "2026-07-09T04:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "AI Models",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7605,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2607.06601v1"
+    },
+    {
+      "title": "A Quiet Failure in Calibrated Virtual Screening: Marginal Conformal Prediction Under-Covers the Minority Class, and a Class-Conditional Fix Recovers It",
+      "summary": "arXiv:2607.06605v1 Announce Type: new Abstract: Conformal prediction is being adopted in drug discovery to put an honest number on model reliability: pick an error rate alpha, and the method returns prediction sets containing the true label with probability at least 1 - alpha. We show this guarantee can be dangerous on imbalanced datasets. Across four datasets, standard (marginal) conformal prediction hits its global 90% coverage target while leaving the minority class badly…",
+      "source_name": "arXiv cs.LG (Machine Learning)",
+      "source_url": "https://arxiv.org/abs/2607.06605",
+      "published_at": "2026-07-09T04:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "AI Models",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7605,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2607.06605v1"
+    },
+    {
+      "title": "NEST: Tackling Dataset-Level Distribution Shifts via Regime-Oriented Mixture-of-Experts",
+      "summary": "arXiv:2607.06607v1 Announce Type: new Abstract: Accurate long-term forecasting in complex systems is frequently compromised by dataset-level distribution shifts, where diverse underlying behavioral modes and evolving system states drive the dynamic multivariate time-series. While existing methods predominantly focus on local temporal shifts, they fail to explicitly model the global structural challenge where datasets are composites of distinct operational regimes. In this…",
+      "source_name": "arXiv cs.LG (Machine Learning)",
+      "source_url": "https://arxiv.org/abs/2607.06607",
+      "published_at": "2026-07-09T04:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "AI Models",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7605,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2607.06607v1"
+    },
+    {
+      "title": "D2PO: Optimizing Diffusion Samplers via Dynamic Preference",
+      "summary": "arXiv:2607.06609v1 Announce Type: new Abstract: We propose D2PO (Dynamic Direct Preference Optimization), a principled framework for optimizing diffusion sampling policies with respect to timestep schedules and classifier-free guidance (CFG) weights. Our work is motivated by a fundamental limitation of existing student-teacher regression frameworks; low-NFE student samplers are trained to mimic high-NFEteachers, often sacrificing high-frequency texture fidelity while…",
+      "source_name": "arXiv cs.LG (Machine Learning)",
+      "source_url": "https://arxiv.org/abs/2607.06609",
+      "published_at": "2026-07-09T04:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7605,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2607.06609v1"
+    },
+    {
+      "title": "Deep Reinforcement Learning for Reliability Based Bi-Objective Portfolio Optimization",
+      "summary": "arXiv:2607.06610v1 Announce Type: new Abstract: Portfolio optimization under uncertainty is inherently a multi-objective decision problem involving complex interactions among return, risk, market dynamics, and practical investment constraints. Existing reliability based portfolio optimization approaches primarily rely on static optimization frameworks and often fail to capture sequential decision making, tail risk, and market frictions such as transaction costs. To address…",
+      "source_name": "arXiv cs.LG (Machine Learning)",
+      "source_url": "https://arxiv.org/abs/2607.06610",
+      "published_at": "2026-07-09T04:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7605,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2607.06610v1"
+    },
+    {
+      "title": "STAGformer: A Spatio-temporal Agent Graph Transformer for Micro Mobility Demand Forecasting",
+      "summary": "arXiv:2607.06614v1 Announce Type: new Abstract: Accurate station-level demand forecasting is essential for the efficient operation of bike-sharing systems, yet it remains challenging due to complex spatio-temporal dependencies and the large scale of urban networks. This paper presents STAGformer, a Spatio-Temporal Agent Graph Transformer that achieves efficient global modeling with linear computational complexity. The model introduces a two-step agent attention mechanism…",
+      "source_name": "arXiv cs.LG (Machine Learning)",
+      "source_url": "https://arxiv.org/abs/2607.06614",
+      "published_at": "2026-07-09T04:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "AI Models",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7605,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2607.06614v1"
+    },
+    {
+      "title": "WHERE to Generate Matters: Budget-Aware Synthetic Augmentation for Label Skewed Federated Learning",
+      "summary": "arXiv:2607.06616v1 Announce Type: new Abstract: Label skew in federated learning (FL) causes client drift and degrades global accuracy. Synthetic data augmentation can reduce this imbalance; however, full class balancing requires substantial computation cost. We propose FedEAS, a policy that assigns each client an entropy-adaptive per-class generation budget computed from its local label distribution. The budget jointly decides \\emph{how much} each client generates and…",
+      "source_name": "arXiv cs.LG (Machine Learning)",
+      "source_url": "https://arxiv.org/abs/2607.06616",
+      "published_at": "2026-07-09T04:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7605,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2607.06616v1"
+    },
+    {
+      "title": "Inertia-1: An Open Exploration of Wearable Motion Foundation Models",
+      "summary": "arXiv:2607.06617v1 Announce Type: new Abstract: Wearable motion sensing provides a continuous and scalable window into human behavior and health, making it a natural fit for foundation models, yet its pretraining and scaling principles remain poorly understood. Prior work studies isolated design choices, such as sensor placement or sampling frequency, often under fixed settings and narrow downstream tasks that fail to capture real-world sensing diversity. We introduce…",
+      "source_name": "arXiv cs.LG (Machine Learning)",
+      "source_url": "https://arxiv.org/abs/2607.06617",
+      "published_at": "2026-07-09T04:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "AI Models",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7605,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2607.06617v1"
+    },
+    {
+      "title": "Fingerprint, Not Blueprint: How Positional Schemes Set the Default Spectral Algebra of Attention",
+      "summary": "arXiv:2607.06621v1 Announce Type: new Abstract: The pre-softmax score of an attention head is a bilinear form $score(i,j) = x_i^T M x_j$ in a learned operator $M = W_q^T W_k$. Because M is generally non-symmetric, hence non-normal, it has a complex eigenspectrum and non-orthogonal eigenvectors, the regime where non-Hermitian and random-matrix tools apply. We ask what this spectrum encodes, at three levels for previous-token and induction circuits. Statically, across seven…",
+      "source_name": "arXiv cs.LG (Machine Learning)",
+      "source_url": "https://arxiv.org/abs/2607.06621",
+      "published_at": "2026-07-09T04:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "Vector Databases",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7605,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2607.06621v1"
+    }
+  ]
+}
