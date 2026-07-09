@@ -13,12 +13,12 @@ name: Weekly Signal Perspective
 #  data/runs/*/daily_signal_payload.json files, so checkout carries them.
 #  Between jobs, data moves via workflow artifacts.
 #
-#  Same DST technique as the daily engine: two UTC crons + an ET guard.
-#     14:00 UTC → 10:00 EDT (Mar–Nov)   ·   15:00 UTC → 10:00 EST (Nov–Mar)
+#  Uses the native `timezone:` cron key (DST handled by GitHub). The guard
+#  keeps a Sunday + 10:00–12:59 ET sanity window, tolerant of scheduler lag.
 # ════════════════════════════════════════════════════════════════════
 on:
   schedule:
-    - cron: "0 9 * * 0"
+    - cron: "0 10 * * 0"
       timezone: "America/New_York"
   workflow_dispatch:
 
@@ -48,11 +48,12 @@ jobs:
           HOUR=$(TZ='America/New_York' date +%H)
           DOW=$(TZ='America/New_York' date +%u)   # 7 = Sunday
           echo "America/New_York now: day=$DOW hour=$HOUR"
-          if [ "$DOW" = "7" ] && [ "$HOUR" = "10" ]; then
+          # Accept Sunday 10–12 ET (scheduler can fire late).
+          if [ "$DOW" = "7" ] && { [ "$HOUR" = "10" ] || [ "$HOUR" = "11" ] || [ "$HOUR" = "12" ]; }; then
             echo "run=true" >> "$GITHUB_OUTPUT"
           else
             echo "run=false" >> "$GITHUB_OUTPUT"
-            echo "Not Sunday 10:00 ET — this cron no-ops."
+            echo "Outside the Sunday 10:00–12:59 ET window — no-op."
           fi
 
   # ── Stage 1 · Bronze — aggregate the week + link re-validation ──────

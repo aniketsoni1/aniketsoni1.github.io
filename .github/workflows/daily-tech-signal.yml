@@ -10,12 +10,11 @@ name: Daily Tech Signal Engine
 #  Data moves between jobs via workflow artifacts (data/runs/<date>/,
 #  plus the rendered _posts/*.md from gold onward).
 #
-#  Schedule note (IMPORTANT)
-#  GitHub Actions cron runs in UTC only. To publish at 09:00
-#  America/New_York year-round (across DST) we register TWO UTC crons and
-#  gate them in the guard job so exactly one fires at local 09:00:
-#     13:00 UTC → 09:00 EDT (Mar–Nov, UTC-4)
-#     14:00 UTC → 09:00 EST (Nov–Mar, UTC-5)
+#  Schedule note
+#  Uses GitHub Actions' native `timezone:` on the cron (supported since
+#  March 2026) — DST is handled automatically. The guard keeps a sanity
+#  window (09:00–11:59 ET) because GitHub's scheduler can fire 15 min to
+#  2+ hours late at peak; a drifted run must still publish.
 # ════════════════════════════════════════════════════════════════════
 on:
   schedule:
@@ -49,12 +48,13 @@ jobs:
           fi
           HOUR=$(TZ='America/New_York' date +%H)
           echo "Current America/New_York hour: $HOUR"
-          if [ "$HOUR" = "09" ]; then
-            echo "run=true" >> "$GITHUB_OUTPUT"
-          else
-            echo "run=false" >> "$GITHUB_OUTPUT"
-            echo "Not 09:00 ET — this cron no-ops (the other cron handles the active DST offset)."
-          fi
+          # Accept 09–11 ET: the scheduler routinely fires late; a drifted
+          # daily run must publish, not silently no-op.
+          case "$HOUR" in
+            09|10|11) echo "run=true"  >> "$GITHUB_OUTPUT" ;;
+            *)        echo "run=false" >> "$GITHUB_OUTPUT"
+                      echo "Outside the 09:00–11:59 ET window — no-op." ;;
+          esac
 
   # ── Stage 1 · Bronze — raw ingestion ────────────────────────────────
   bronze-collect:
@@ -157,6 +157,17 @@ jobs:
           name: silver-run-data
           path: data/runs
 
+      # Optional AI hero image — provider cascade (Gemini → FLUX → skip).
+      # Never fails the job; the log shows which provider served (or none).
+      # GEMINI_IMAGE_MODEL is a one-line swap when gemini-2.5-flash-image
+      # reaches its scheduled 2026-10-02 shutdown (see generate_hero_image.py).
+      - name: Generate Hero Image (cascade, never-fail)
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GEMINI_IMAGE_MODEL: gemini-2.5-flash-image
+          HUGGINGFACE_API_KEY: ${{ secrets.HUGGINGFACE_API_KEY }}
+        run: python scripts/generate_hero_image.py
+
       # Deterministic Jinja2 rendering (AI only for language).
       - name: Generate Jekyll Markdown Post
         env:
@@ -189,6 +200,14 @@ jobs:
           retention-days: 7
           if-no-files-found: error
 
+      - name: Hand off hero image
+        uses: actions/upload-artifact@v4
+        with:
+          name: gold-hero
+          path: assets/img/signal
+          retention-days: 7
+          if-no-files-found: error   # dir always holds .gitkeep
+
   # ── Stage 4 · Publish — commit only the verified post + audit trail ─
   publish:
     name: "🚀 Publish — Commit verified signal"
@@ -209,10 +228,16 @@ jobs:
           name: gold-post
           path: _posts
 
+      - name: Pull hero image
+        uses: actions/download-artifact@v4
+        with:
+          name: gold-hero
+          path: assets/img/signal
+
       - name: Commit and Push Verified Signal
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "site(signal): automated daily tech signal"
-          file_pattern: "_posts/*.md data/runs/**/*.json"
+          file_pattern: "_posts/*.md data/runs/**/*.json assets/img/signal/*"
           commit_user_name: "daily-tech-signal-bot"
           commit_user_email: "actions@github.com"
