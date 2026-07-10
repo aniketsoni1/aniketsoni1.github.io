@@ -83,11 +83,12 @@ def _build_prompt() -> str:
     )
 
 
-def _try_gemini(prompt: str) -> Optional[bytes]:
+def _try_gemini(prompt: str) -> tuple[Optional[bytes], str]:
+    """Returns (image_bytes|None, reason). Reason lands in the audit manifest."""
     api_key = os.environ.get("GEMINI_API_KEY", "").strip()
     if not api_key:
         LOG.info("Gemini: no GEMINI_API_KEY — skipping")
-        return None
+        return None, "skipped: GEMINI_API_KEY not set"
     model = os.environ.get("GEMINI_IMAGE_MODEL", "").strip() or DEFAULT_GEMINI_IMAGE_MODEL
     import requests
 
@@ -103,28 +104,31 @@ def _try_gemini(prompt: str) -> Optional[bytes]:
             timeout=TIMEOUT,
         )
         if resp.status_code != 200:
-            LOG.warning("Gemini [%s] HTTP %s: %s", model, resp.status_code, resp.text[:200])
-            return None
+            reason = f"HTTP {resp.status_code}: {resp.text[:300]}"
+            LOG.warning("Gemini [%s] %s", model, reason)
+            return None, reason
         data = resp.json()
         for cand in data.get("candidates", []):
             for part in cand.get("content", {}).get("parts", []):
                 inline = part.get("inlineData") or part.get("inline_data") or {}
                 if inline.get("data"):
                     LOG.info("Gemini [%s] served the hero image", model)
-                    return base64.b64decode(inline["data"])
+                    return base64.b64decode(inline["data"]), "ok"
         # Empty / content-policy-blocked / text-only response — all fall through.
-        LOG.warning("Gemini [%s] returned no image part (block/quota/empty)", model)
-        return None
+        reason = f"no image part in response (finishReason={ (data.get('candidates') or [{}])[0].get('finishReason') })"
+        LOG.warning("Gemini [%s] %s", model, reason)
+        return None, reason
     except Exception as exc:
         LOG.warning("Gemini [%s] failed: %s", model, exc)
-        return None
+        return None, f"exception: {exc}"
 
 
-def _try_flux(prompt: str) -> Optional[bytes]:
+def _try_flux(prompt: str) -> tuple[Optional[bytes], str]:
+    """Returns (image_bytes|None, reason). Reason lands in the audit manifest."""
     token = os.environ.get("HUGGINGFACE_API_KEY", "").strip()
     if not token:
         LOG.info("FLUX: no HUGGINGFACE_API_KEY — skipping")
-        return None
+        return None, "skipped: HUGGINGFACE_API_KEY not set"
     import requests
 
     try:
@@ -137,12 +141,13 @@ def _try_flux(prompt: str) -> Optional[bytes]:
         ctype = resp.headers.get("content-type", "")
         if resp.status_code == 200 and ctype.startswith("image/"):
             LOG.info("FLUX.1-schnell served the hero image")
-            return resp.content
-        LOG.warning("FLUX HTTP %s (%s): %s", resp.status_code, ctype, resp.text[:200])
-        return None
+            return resp.content, "ok"
+        reason = f"HTTP {resp.status_code} ({ctype}): {resp.text[:300]}"
+        LOG.warning("FLUX %s", reason)
+        return None, reason
     except Exception as exc:
         LOG.warning("FLUX failed: %s", exc)
-        return None
+        return None, f"exception: {exc}"
 
 
 def main() -> int:
@@ -152,12 +157,16 @@ def main() -> int:
     LOG.info("Hero prompt: %s", prompt[:140])
 
     provider, model, image = None, None, None
-    image = _try_gemini(prompt)
+    attempts: list[dict] = []
+
+    gemini_model = os.environ.get("GEMINI_IMAGE_MODEL", "").strip() or DEFAULT_GEMINI_IMAGE_MODEL
+    image, reason = _try_gemini(prompt)
+    attempts.append({"provider": "gemini", "model": gemini_model, "ok": image is not None, "reason": reason})
     if image is not None:
-        provider = "gemini"
-        model = os.environ.get("GEMINI_IMAGE_MODEL", "").strip() or DEFAULT_GEMINI_IMAGE_MODEL
+        provider, model = "gemini", gemini_model
     else:
-        image = _try_flux(prompt)
+        image, reason = _try_flux(prompt)
+        attempts.append({"provider": "huggingface", "model": HF_MODEL, "ok": image is not None, "reason": reason})
         if image is not None:
             provider, model = "huggingface", HF_MODEL
 
@@ -165,6 +174,7 @@ def main() -> int:
         "post_date": today.isoformat(),
         "provider": provider,
         "model": model,
+        "attempts": attempts,  # audit: exactly why each leg served or didn't
         "prompt": prompt,
         "path": None,
         "alt": "Abstract teal-on-dark circuit artwork for today's Daily Tech Signal",
@@ -181,6 +191,24 @@ def main() -> int:
         LOG.info("Hero image (%d KB, %s) → %s", len(image) // 1024, provider, path)
 
     write_json(rundir / "hero_image.json", manifest)
+
+    # Surface the outcome on the Actions run summary page (no log digging).
+    summary_path = os.environ.get("GITHUB_STEP_SUMMARY")
+    if summary_path:
+        try:
+            lines = ["### 🎨 Hero image", ""]
+            for a in attempts:
+                icon = "✅" if a["ok"] else "▫️"
+                lines.append(f"- {icon} `{a['provider']}` ({a['model']}): {a['reason']}")
+            if manifest["path"]:
+                lines.append(f"\n**Served:** `{manifest['path']}`")
+            else:
+                lines.append("\n**No image this run** — post ships without one (by design).")
+            with open(summary_path, "a", encoding="utf-8") as fh:
+                fh.write("\n".join(lines) + "\n")
+        except Exception:
+            pass
+
     return 0  # by design: a missing image never fails the pipeline
 
 
