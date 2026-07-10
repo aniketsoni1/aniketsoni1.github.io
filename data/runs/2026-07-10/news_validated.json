@@ -1,0 +1,808 @@
+{
+  "post_date": "2026-07-10",
+  "sources_checked": 46,
+  "count": 44,
+  "items": [
+    {
+      "title": "How Deutsche Telekom is rewiring telecommunications with AI",
+      "summary": "How Deutsche Telekom is becoming an AI-native telco with OpenAI-transforming customer service, employee workflows, network operations, and the future of voice.",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/deutsche-telekom",
+      "published_at": "2026-07-10T07:00:00Z",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.99,
+      "importance_score": 0.8624,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/index/deutsche-telekom"
+    },
+    {
+      "title": "Better tools made Copilot code review worse. Here’s how we actually improved it.",
+      "summary": "How migrating Copilot code review to shared Unix-style code exploration tools reduced review cost by reshaping agent workflows around pull request evidence. The post Better tools made Copilot code review worse. Here’s how we actually improved it. appeared first on The GitHub Blog .",
+      "source_name": "The GitHub Blog",
+      "source_url": "https://github.blog/ai-and-ml/github-copilot/better-tools-made-copilot-code-review-worse-heres-how-we-actually-improved-it/",
+      "published_at": "2026-07-10T15:57:47Z",
+      "category": "developer_platforms",
+      "tags": [
+        "AI Agents",
+        "Developer Tools",
+        "APIs",
+        "Developer Platforms"
+      ],
+      "confidence_score": 0.92,
+      "importance_score": 0.8398,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://github.blog/?p=97467"
+    },
+    {
+      "title": "UST is bringing Claude to physical AI",
+      "summary": "UST is bringing Claude to physical AI Anthropic",
+      "source_name": "Anthropic",
+      "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9PWmhDajNFV09GX2ZrcFpRTHJUcFdwcFZDRDFvMlQ5MGhpclVkR1dYSFI4MllXTWRkaTR5cEhQN0RvcmFRVTVicXpxbUZkc2lDUTZj?oc=5",
+      "published_at": "2026-07-10T00:43:28Z",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.99,
+      "importance_score": 0.8363,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "CBMiU0FVX3lxTE9PWmhDajNFV09GX2ZrcFpRTHJUcFdwcFZDRDFvMlQ5MGhpclVkR1dYSFI4MllXTWRkaTR5cEhQN0RvcmFRVTVicXpxbUZkc2lDUTZj"
+    },
+    {
+      "title": "Accelerating End-to-End Co-Folding Performance with NVIDIA BioNeMo Agent Toolkit",
+      "summary": "Biomolecular structure prediction and co-folding with models like OpenFold3 are now mainstream, large-scale workloads powering drug discovery and protein...",
+      "source_name": "NVIDIA Developer Blog",
+      "source_url": "https://developer.nvidia.com/blog/accelerating-end-to-end-co-folding-performance-with-nvidia-bionemo-agent-toolkit/",
+      "published_at": "2026-07-10T13:00:00Z",
+      "category": "mlops",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "GPUs",
+        "AI Models",
+        "Mlops"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8274,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://developer.nvidia.com/blog/?p=119692"
+    },
+    {
+      "title": "Write code like a human will maintain it",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://unstack.io/write-code-like-a-human-will-maintain-it",
+      "published_at": "2026-07-10T13:33:00Z",
+      "category": "aggregators",
+      "tags": [
+        "AI",
+        "Hacker News"
+      ],
+      "confidence_score": 0.637,
+      "importance_score": 0.8272,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-48859701"
+    },
+    {
+      "title": "Navigating the ingress-NGINX retirement",
+      "summary": "1. The Post-March 2026 landscape ⚠ The CatalystAcknowledge the March 2026 retirement of the Kubernetes SIG Network ingress-nginx controller. Staying on this controller introduces severe operational risks, including unpatched CVEs and a complete halt of feature...",
+      "source_name": "CNCF",
+      "source_url": "https://www.cncf.io/blog/2026/07/09/navigating-the-ingress-nginx-retirement/",
+      "published_at": "2026-07-09T20:45:02Z",
+      "category": "open_source_foundations",
+      "tags": [
+        "Kubernetes",
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8197,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.cncf.io/?p=169908"
+    },
+    {
+      "title": "AI-generated videos to maximally drive a target brain region",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://nevo-project.epfl.ch/",
+      "published_at": "2026-07-10T07:39:11Z",
+      "category": "aggregators",
+      "tags": [
+        "AI",
+        "Hacker News"
+      ],
+      "confidence_score": 0.642,
+      "importance_score": 0.8151,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-48856904"
+    },
+    {
+      "title": "Inviting hard questions",
+      "summary": "Inviting hard questions Anthropic",
+      "source_name": "Anthropic",
+      "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0yeHlpRmsxaGNhVGwxREszVzFIZHh1T05XS0F2c0JrczVmd3hBaWNnMjB0N0xSYTdRd2hxREp2OGF4SEtDemFEanpLZVNlSFRSSThuQVBXMFY?oc=5",
+      "published_at": "2026-07-09T17:35:18Z",
+      "category": "ai_model_companies",
+      "tags": [
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.99,
+      "importance_score": 0.8065,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "CBMiWEFVX3lxTE0yeHlpRmsxaGNhVGwxREszVzFIZHh1T05XS0F2c0JrczVmd3hBaWNnMjB0N0xSYTdRd2hxREp2OGF4SEtDemFEanpLZVNlSFRSSThuQVBXMFY"
+    },
+    {
+      "title": "Late Bronze Age Collapse",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://acoup.blog/2026/01/30/collections-the-late-bronze-age-collapse-a-very-brief-introduction/",
+      "published_at": "2026-07-10T11:59:55Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.63,
+      "importance_score": 0.8032,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-48858737"
+    },
+    {
+      "title": "Ben Bernanke appointed to Anthropic’s Long-Term Benefit Trust",
+      "summary": "Ben Bernanke appointed to Anthropic’s Long-Term Benefit Trust Anthropic",
+      "source_name": "Anthropic",
+      "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5jaVloYTdBU1U4NHcwcm9wamZXOC14alFSVlBNM0pnc1pxanlMVGE2elZfbDlmdWY1cEpJODVTZ19rdDZkS1lSSmt1WmNtODV2Y215ODBB?oc=5",
+      "published_at": "2026-07-09T16:37:16Z",
+      "category": "ai_model_companies",
+      "tags": [
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.99,
+      "importance_score": 0.8025,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "CBMiVkFVX3lxTE5jaVloYTdBU1U4NHcwcm9wamZXOC14alFSVlBNM0pnc1pxanlMVGE2elZfbDlmdWY1cEpJODVTZ19rdDZkS1lSSmt1WmNtODV2Y215ODBB"
+    },
+    {
+      "title": "EU Commission: addictive design Instagram and Facebook in breach of the DSA",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://ec.europa.eu/commission/presscorner/home/en",
+      "published_at": "2026-07-10T11:00:15Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.6305,
+      "importance_score": 0.8004,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-48858292"
+    },
+    {
+      "title": "A new way to reflect on how you use Claude",
+      "summary": "A new way to reflect on how you use Claude Anthropic",
+      "source_name": "Anthropic",
+      "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9uQmgzMW5SUGNxN3VQLUJmU3YtcEhCVXpyUl9aOVRMVEFDZU94NGJyVS1yV1NUMGoyY2Fycm1iamhuNVBNUlFEQjd2djFiRGRXSmRiZW14akhXdS1XZlNB?oc=5",
+      "published_at": "2026-07-09T13:31:02Z",
+      "category": "ai_model_companies",
+      "tags": [
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.97,
+      "importance_score": 0.7896,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "CBMiX0FVX3lxTE9uQmgzMW5SUGNxN3VQLUJmU3YtcEhCVXpyUl9aOVRMVEFDZU94NGJyVS1yV1NUMGoyY2Fycm1iamhuNVBNUlFEQjd2djFiRGRXSmRiZW14akhXdS1XZlNB"
+    },
+    {
+      "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
+      "summary": "Learn how GPT-5.6 powers Microsoft 365 Copilot with stronger AI capabilities across Word, Excel, PowerPoint, Chat, and Cowork for faster, higher-quality work.",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
+      "published_at": "2026-07-09T13:00:00Z",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI",
+        "AI Models",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.97,
+      "importance_score": 0.7874,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot"
+    },
+    {
+      "title": "Interview with Mitchell Hashimoto about Ghostty and Zig",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://alexalejandre.com/programming/interview-with-mitchell-hashimoto/",
+      "published_at": "2026-07-09T17:17:16Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7753,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-48849292"
+    },
+    {
+      "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
+      "summary": "More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/gpt-5-6",
+      "published_at": "2026-07-09T10:00:00Z",
+      "category": "ai_model_companies",
+      "tags": [
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.97,
+      "importance_score": 0.7749,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/index/gpt-5-6"
+    },
+    {
+      "title": "ChatGPT is now a partner for your most ambitious work",
+      "summary": "ChatGPT Work is an agent that can take action across your apps and files, stay with a project for hours if needed, and turn a goal into finished work.",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
+      "published_at": "2026-07-09T10:00:00Z",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI Agents",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.97,
+      "importance_score": 0.7749,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/index/chatgpt-for-your-most-ambitious-work"
+    },
+    {
+      "title": "GPT-5.5 Bio Bug Bounty",
+      "summary": "Details about the OpenAI Bio Bounty program",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/bio-bug-bounty",
+      "published_at": "2026-07-09T10:00:00Z",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.97,
+      "importance_score": 0.7749,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/index/bio-bug-bounty"
+    },
+    {
+      "title": "Profiling in PyTorch (Part 3): Attention is all you profile",
+      "summary": "",
+      "source_name": "Hugging Face",
+      "source_url": "https://huggingface.co/blog/torch-attention-profile",
+      "published_at": "2026-07-10T00:00:00Z",
+      "category": "ai_model_companies",
+      "tags": [
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.9,
+      "importance_score": 0.7733,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://huggingface.co/blog/torch-attention-profile"
+    },
+    {
+      "title": "Good Tools Are Invisible",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.gingerbill.org/article/2026/07/10/good-tools-are-invisible/",
+      "published_at": "2026-07-10T10:32:41Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.6195,
+      "importance_score": 0.771,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-48858121"
+    },
+    {
+      "title": "The US EV market comes back from the dead. Thank high gas prices.",
+      "summary": "US EV sales rebounded in Q2 as soaring gas prices made electric cars more attractive after federal incentives ended.",
+      "source_name": "Business Insider — Tech",
+      "source_url": "https://www.businessinsider.com/electric-vehicles-us-sales-rebound-gas-prices-tesla-2026-7",
+      "published_at": "2026-07-10T15:49:47Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7592,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/electric-vehicles-us-sales-rebound-gas-prices-tesla-2026-7"
+    },
+    {
+      "title": "The glass backbone: Why the Army's logistics will break in the next war",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://mwi.westpoint.edu/the-glass-backbone-why-the-armys-logistics-will-break-in-the-next-war/",
+      "published_at": "2026-07-09T13:24:43Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7591,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-48845442"
+    },
+    {
+      "title": "What Watching a Soccer Final Does to Your Body, According to Science",
+      "summary": "A recent study tracked hundreds of soccer fans until their favorite team reached the final of a tournament. Their stress levels skyrocketed, and their heart rates jumped too.",
+      "source_name": "Wired",
+      "source_url": "https://www.wired.com/story/what-watching-soccer-final-does-to-your-body/",
+      "published_at": "2026-07-10T15:41:31Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7586,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "6a4ea932039765edd3930ccf"
+    },
+    {
+      "title": "All 20 Disney live-action remakes ranked from tolerable to downright unwatchable",
+      "summary": "Disney is committed to remaking its animated classics as live-action films, even though they're almost always mediocre, including its latest, \"Moana.\"",
+      "source_name": "Business Insider — Tech",
+      "source_url": "https://www.businessinsider.com/every-disney-live-action-remake-ranked-from-worst-to-best-2024-6",
+      "published_at": "2026-07-10T15:37:33Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7583,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/every-disney-live-action-remake-ranked-from-worst-to-best-2024-6"
+    },
+    {
+      "title": "A road to Lisp: Why Lisp",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://scotto.me/blog/2026-07-09-why-lisp/",
+      "published_at": "2026-07-09T13:06:04Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.687,
+      "importance_score": 0.7578,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-48845209"
+    },
+    {
+      "title": "The whirlwind 72 hours of rival AI announcements",
+      "summary": "The major AI labs, from OpenAI to Meta, have released a parade of new products in the last three days. Here's your rundown.",
+      "source_name": "Business Insider — Tech",
+      "source_url": "https://www.businessinsider.com/new-ai-model-announcements-openai-meta-grok-2026-7",
+      "published_at": "2026-07-10T15:24:46Z",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7575,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/new-ai-model-announcements-openai-meta-grok-2026-7"
+    },
+    {
+      "title": "Hiboy P6 Fat Tire Electric Bike Review: Smooth Sailing",
+      "summary": "Take on sand, snow, mud, gravel—this is the ebike for all your off-roading adventures.",
+      "source_name": "Wired",
+      "source_url": "https://www.wired.com/review/hiboy-p6-fat-tire-electric-bike/",
+      "published_at": "2026-07-10T15:22:13Z",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7573,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "6a4bf027d99ed47ae9e002ec"
+    },
+    {
+      "title": "The big housing bill is set to become law at midnight, despite Trump not signing it. Here's what it means for you.",
+      "summary": "Congress overwhelmingly passed a massive affordable housing bill that is set to go into law, even though Trump refused to sign it",
+      "source_name": "Business Insider — Tech",
+      "source_url": "https://www.businessinsider.com/what-to-know-about-affordable-housing-bill-construction-regulations-trump-2026-6",
+      "published_at": "2026-07-10T15:07:00Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7562,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/what-to-know-about-affordable-housing-bill-construction-regulations-trump-2026-6"
+    },
+    {
+      "title": "Wimbledon's breakout star is the son of a hedge fund multimillionaire",
+      "summary": "Arthur Fery entered Wimbledon as a wild card but reached the semifinals. He went to an elite British school and his dad made millions in finance.",
+      "source_name": "Business Insider — Tech",
+      "source_url": "https://www.businessinsider.com/wimbledon-arthur-fery-loice-fery-hedge-fund-multimillionaire-father-2026-7",
+      "published_at": "2026-07-10T15:01:27Z",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7558,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/wimbledon-arthur-fery-loice-fery-hedge-fund-multimillionaire-father-2026-7"
+    },
+    {
+      "title": "OpenAI's Atlas browser doesn't make it to its first birthday",
+      "summary": "Standalone experiment killed after less than 12 months as model maker redirects agentic ambitions towards workplace productivity",
+      "source_name": "The Register",
+      "source_url": "https://www.theregister.com/ai-and-ml/2026/07/10/openais-atlas-browser-doesnt-make-it-to-its-first-birthday/5269818",
+      "published_at": "2026-07-10T14:59:00Z",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "AI Models",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7557,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.theregister.com/a/5269818"
+    },
+    {
+      "title": "Meta’s Pursuit of the 'Careless People' Author Is Relentless and Self-Defeating",
+      "summary": "Yes, Sarah Wynn-Williams violated her deal to stay silent. But the power disparity bolsters the view that Meta is a heartless bully.",
+      "source_name": "Wired",
+      "source_url": "https://www.wired.com/story/metas-pursuit-of-the-careless-people-author-is-relentless-and-self-defeating/",
+      "published_at": "2026-07-10T15:00:00Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7557,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "6a4f260e801742f68854382c"
+    },
+    {
+      "title": "Synthetic Data Generation for Financial AI Research with NVIDIA NeMo",
+      "summary": "Fine-tuning LLMs for financial natural language processing (NLP) is constrained by limited, imbalanced data. Real-world financial news overrepresents earnings...",
+      "source_name": "NVIDIA Developer Blog",
+      "source_url": "https://developer.nvidia.com/blog/synthetic-data-generation-for-financial-ai-research-with-nvidia-nemo/",
+      "published_at": "2026-07-09T19:40:37Z",
+      "category": "mlops",
+      "tags": [
+        "AI",
+        "LLMs",
+        "GPUs",
+        "Research",
+        "Mlops"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.7552,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://developer.nvidia.com/blog/?p=119105"
+    },
+    {
+      "title": "Laser Attack Resets Tangem Wallet Passwords on Cards That Can't Be Patched",
+      "summary": "Researchers at Ledger's Donjon security team have shown that a precisely timed laser pulse, aimed at the chip inside a Tangem crypto wallet card, can reset the card's password to anything the attacker picks. No old password. No backup card. Once it is reset, whoever did it controls the wallet and can move the coins out. This is not an emergency for most owners. The attack needs",
+      "source_name": "The Hacker News",
+      "source_url": "https://thehackernews.com/2026/07/laser-attack-resets-tangem-wallet.html",
+      "published_at": "2026-07-10T14:51:49Z",
+      "category": "cybersecurity",
+      "tags": [
+        "AI",
+        "Security",
+        "Research",
+        "Cybersecurity"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7552,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://thehackernews.com/2026/07/laser-attack-resets-tangem-wallet.html"
+    },
+    {
+      "title": "Researcher Details WhatsApp-to-Host Attack Chain Using Three OpenClaw Flaws",
+      "summary": "Details have emerged about three now-patched security flaws in the OpenClaw personal artificial intelligence (AI) assistant that, if successfully exploited, could enable credential theft, privilege escalation, and arbitrary code execution on the host. A brief description of the high-severity vulnerabilities is as follows - GHSA-hjr6-g723-hmfm (CVSS score: 8.8) - An operating system",
+      "source_name": "The Hacker News",
+      "source_url": "https://thehackernews.com/2026/07/researcher-details-whatsapp-to-host.html",
+      "published_at": "2026-07-10T14:19:50Z",
+      "category": "cybersecurity",
+      "tags": [
+        "AI",
+        "AWS",
+        "Security",
+        "Research",
+        "Cybersecurity"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.753,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://thehackernews.com/2026/07/researcher-details-whatsapp-to-host.html"
+    },
+    {
+      "title": "We spend almost $50,000 a year on childcare. It's helped me build the career I wanted.",
+      "summary": "Karina Monesson says staying in the workforce has strengthened her family's long-term financial future despite high childcare costs.",
+      "source_name": "Business Insider — Tech",
+      "source_url": "https://www.businessinsider.com/paying-50000-for-childcare-working-mom-2026-7",
+      "published_at": "2026-07-10T14:21:01Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.753,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/paying-50000-for-childcare-working-mom-2026-7"
+    },
+    {
+      "title": "I'm an interior designer. Here are 9 ways to make your home look more expensive on a budget.",
+      "summary": "As an interior designer, I know some budget-friendly ways to make a home look more expensive, from incorporating crown molding to utilizing mirrors.",
+      "source_name": "Business Insider — Tech",
+      "source_url": "https://www.businessinsider.com/cheap-ways-to-make-home-look-expensive-interior-designer-2026-7",
+      "published_at": "2026-07-10T14:20:30Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.753,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/cheap-ways-to-make-home-look-expensive-interior-designer-2026-7"
+    },
+    {
+      "title": "How Terrorist Groups Are Using A.I. to Gain an Edge in Battle",
+      "summary": "A.I. chatbots are not just a propaganda tool for violent extremists but are aiding in bomb construction and attack planning, new research finds.",
+      "source_name": "The New York Times — Technology",
+      "source_url": "https://www.nytimes.com/2026/07/10/us/politics/ai-terrorism-boko-haram-nigeria.html",
+      "published_at": "2026-07-10T14:10:45Z",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Research",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7523,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.nytimes.com/2026/07/10/us/politics/ai-terrorism-boko-haram-nigeria.html"
+    },
+    {
+      "title": "I moved from Florida to the Midwest. I was skeptical, but my new home has the perfect mix of city life and suburban charm.",
+      "summary": "Four years ago, I moved from Gainesville, Florida to Shaker Heights, Ohio. I love living in the Cleveland metro area and don't have any plans to leave.",
+      "source_name": "Business Insider — Tech",
+      "source_url": "https://www.businessinsider.com/moved-from-florida-to-ohio-love-living-in-midwest-2026-7",
+      "published_at": "2026-07-10T14:02:01Z",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7517,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/moved-from-florida-to-ohio-love-living-in-midwest-2026-7"
+    },
+    {
+      "title": "Japan Pulls Off One of the Closest Asteroid Flybys Ever",
+      "summary": "Hayabusa2’s next target is barely bigger than the probe itself",
+      "source_name": "IEEE Spectrum",
+      "source_url": "https://spectrum.ieee.org/planetary-defense-jaxa-hyabusa2",
+      "published_at": "2026-07-10T14:00:02Z",
+      "category": "research_feeds",
+      "tags": [
+        "Research Feeds"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.7516,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://spectrum.ieee.org/planetary-defense-jaxa-hyabusa2"
+    },
+    {
+      "title": "AI-driven datacenter builds drive Microsoft's emissions up a quarter in one year",
+      "summary": "Firm faces quandary of wanting to help the environment, but also wanting to force AI on everyone",
+      "source_name": "The Register",
+      "source_url": "https://www.theregister.com/on-prem/2026/07/10/ai-driven-datacenter-builds-drive-microsofts-emissions-up-a-quarter-in-one-year/5269924",
+      "published_at": "2026-07-10T14:01:00Z",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7516,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.theregister.com/a/5269924"
+    },
+    {
+      "title": "MrBeast's chocolate brand sees growth slow after a sugar rush",
+      "summary": "Growth at the top YouTuber's candy company, Feastables, has slowed considerably in the last year, internal data viewed by Business Insider shows.",
+      "source_name": "Business Insider — Tech",
+      "source_url": "https://www.businessinsider.com/mrbeast-jimmy-donaldson-chocolate-brand-feastables-growth-slow-internal-docs-2026-7",
+      "published_at": "2026-07-10T13:48:05Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7507,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/mrbeast-jimmy-donaldson-chocolate-brand-feastables-growth-slow-internal-docs-2026-7"
+    },
+    {
+      "title": "Context Graphs for Proactive Enterprise Agents",
+      "summary": "arXiv:2607.07721v1 Announce Type: new Abstract: Retrieval-Augmented Generation (RAG) and agentic frameworks have advanced enterprise AI considerably, yet agents remain fundamentally reactive: they wait for a human query before acting. This paper argues that genuine enterprise productivity gains require proactive agents: systems that surface relevant, actionable information to workers before they ask. We propose the Context Graph, a live relational data structure that models…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2607.07721",
+      "published_at": "2026-07-10T04:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "AI Models",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7499,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2607.07721v1"
+    },
+    {
+      "title": "AI-integrated models for assessing agricultural resilience",
+      "summary": "arXiv:2607.07759v1 Announce Type: new Abstract: Agricultural supply chains are vulnerable to disruptions through linked biophysical and economic systems. We develop an AI-powered tool that integrates economic models (GTAP) with biophysical models (APSIM) to analyze supply chain shocks, enabling policymakers and market participants to assess cross-disciplinary impacts through queries and responses written in natural language.",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2607.07759",
+      "published_at": "2026-07-10T04:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "AI Models",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7499,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2607.07759v1"
+    },
+    {
+      "title": "Adversarial Social Epistemology for Assemblies of Humans and Large Language Models",
+      "summary": "arXiv:2607.07760v1 Announce Type: new Abstract: We outline an adversarial social epistemology (ASE) for densely interactive communicative landscapes in which public assertions are scaffolded by chains of testimony, inference, institutional certification, and tacit trust. In such landscapes, agents have incentives and affordances to distort, color, omit, fabricate, or strategically under-specify information for private, reputational, rhetorical, or material gains. We argue…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2607.07760",
+      "published_at": "2026-07-10T04:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "LLMs",
+        "AI Agents",
+        "AI Models",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7499,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2607.07760v1"
+    },
+    {
+      "title": "Aligning Clinical Needs and AI Capabilities: A Survey on LLMs for Medical Reasoning",
+      "summary": "arXiv:2607.07761v1 Announce Type: new Abstract: Large language models (LLMs) have emerged as important tools in healthcare, showing growing potential for clinical reasoning and patient care. This survey examines recent progress in medical LLMs, focusing on reasoning applications and requirements. We present a dual-view approach that connects clinical practice with computational methods. On the clinical side, we establish a five-level competency scheme following Miller's…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2607.07761",
+      "published_at": "2026-07-10T04:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "LLMs",
+        "AI Models",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7499,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2607.07761v1"
+    }
+  ]
+}
