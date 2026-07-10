@@ -18,7 +18,7 @@ name: Daily Tech Signal Engine
 # ════════════════════════════════════════════════════════════════════
 on:
   schedule:
-    - cron: "0 9 * * *"
+    - cron: "17 8 * * *"
       timezone: "America/New_York"
   workflow_dispatch:
 
