@@ -334,11 +334,10 @@ sources:
     feed: "https://feeds.a.dj.com/rss/RSSWSJD.xml"
     homepage: "https://www.wsj.com/tech"
     trust: 0.80
-
-  # ── Trade press ────────────────────────────────────────────────────
   - name: "DevOps Digest"
-    category: enterprise_technology
+    category: mainstream_press
     source_type: news
     feed: "https://www.devopsdigest.com/rss.xml"   # verified 2026-07-09
     homepage: "https://www.devopsdigest.com/"
     trust: 0.70
+
