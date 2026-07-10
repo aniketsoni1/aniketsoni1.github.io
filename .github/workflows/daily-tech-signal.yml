@@ -166,7 +166,9 @@ jobs:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           GEMINI_IMAGE_MODEL: gemini-2.5-flash-image
           HUGGINGFACE_API_KEY: ${{ secrets.HUGGINGFACE_API_KEY }}
-        run: python scripts/generate_hero_image.py
+        # The script always exits 0; the `||` is a final backstop so even a
+        # crash (import error, OOM, …) cannot fail the gold job.
+        run: python scripts/generate_hero_image.py || echo "::warning::hero image generation crashed — continuing without an image"
 
       # Deterministic Jinja2 rendering (AI only for language).
       - name: Generate Jekyll Markdown Post
@@ -206,7 +208,10 @@ jobs:
           name: gold-hero
           path: assets/img/signal
           retention-days: 7
-          if-no-files-found: error   # dir always holds .gitkeep
+          # v4 excludes dotfiles by default; include them so the committed
+          # .gitkeep always makes this artifact exist, image or not.
+          include-hidden-files: true
+          if-no-files-found: warn
 
   # ── Stage 4 · Publish — commit only the verified post + audit trail ─
   publish:
@@ -230,6 +235,9 @@ jobs:
 
       - name: Pull hero image
         uses: actions/download-artifact@v4
+        # If no image was produced, this artifact may not exist — that must
+        # never block publishing the post itself.
+        continue-on-error: true
         with:
           name: gold-hero
           path: assets/img/signal
