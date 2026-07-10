@@ -52,9 +52,23 @@ from utils import (
 
 LOG = get_logger("generate_post")
 
-MIN_STORIES = 3
-MAX_STORIES = 7
-LINK_CHECK_POOL = 12  # validate links on at most this many top candidates
+MIN_STORIES = 3         # below this, the brief runs as a Short Signal edition
+MIN_TOP_SIGNALS = 7     # daily target floor for Top Technology Signals
+MAX_TOP_SIGNALS = 15    # daily ceiling
+LINK_CHECK_POOL = 24    # validate links on at most this many top candidates
+
+
+def _daily_signal_cap(d: date) -> int:
+    """
+    Vary the day's Top Technology Signals count between MIN_TOP_SIGNALS and
+    MAX_TOP_SIGNALS. Seeded by the date, NOT true randomness: re-running the
+    same day's pipeline reproduces the same post (the repo's determinism
+    rule). If fewer stories survive link review than the cap, we publish
+    what survived — an honest shorter list beats padding.
+    """
+    import random
+
+    return random.Random(d.toordinal()).randint(MIN_TOP_SIGNALS, MAX_TOP_SIGNALS)
 
 AUTHOR = "Aniket Abhishek Soni"
 DISCLAIMER = "This daily brief is AI-assisted and source-reviewed for public technology awareness."
@@ -166,8 +180,8 @@ def _load_history(rundir: Path) -> tuple[Optional[HistoryItem], int]:
 # ──────────────────────────────────────────────────────────────────────
 #  Story selection with link validation
 # ──────────────────────────────────────────────────────────────────────
-def _select_stories(news: list[NewsItem]) -> tuple[list[NewsItem], int, int]:
-    """Validate links on the top candidates; keep survivors up to MAX_STORIES."""
+def _select_stories(news: list[NewsItem], cap: int) -> tuple[list[NewsItem], int, int]:
+    """Validate links on the top candidates; keep survivors up to the day's cap."""
     pool = news[:LINK_CHECK_POOL]
     if not pool:
         return [], 0, 0
@@ -176,7 +190,7 @@ def _select_stories(news: list[NewsItem]) -> tuple[list[NewsItem], int, int]:
     failed = sum(1 for v in link_status.values() if not v)
     survivors = [n for n in pool if link_status.get(n.source_url, False)]
     LOG.info("Link check: %d ok, %d failed (of %d candidates)", ok, failed, len(pool))
-    return survivors[:MAX_STORIES], ok, failed
+    return survivors[:cap], ok, failed
 
 
 # ──────────────────────────────────────────────────────────────────────
@@ -216,9 +230,10 @@ def main() -> int:
     events, events_checked = _load_events(rundir)
     history, history_checked = _load_history(rundir)
 
-    selected, links_ok, links_failed = _select_stories(news)
+    cap = _daily_signal_cap(today)
+    selected, links_ok, links_failed = _select_stories(news, cap)
     edition = Edition.STANDARD if len(selected) >= MIN_STORIES else Edition.SHORT_SIGNAL
-    LOG.info("Edition: %s (%d stories selected)", edition.value, len(selected))
+    LOG.info("Edition: %s (%d stories selected, today's cap %d)", edition.value, len(selected), cap)
 
     # ── AI summarization (or deterministic fallback) ──
     provider = ai.get_provider()
