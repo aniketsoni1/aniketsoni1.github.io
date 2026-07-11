@@ -1,0 +1,809 @@
+{
+  "post_date": "2026-07-11",
+  "sources_checked": 45,
+  "count": 45,
+  "items": [
+    {
+      "title": "Where should AI workloads run? A sovereign and sensible approach",
+      "summary": "Opinions on AI range from transformative optimism to deep skepticism, but one thing is clear: AI is becoming an increasingly important part of enterprise technology strategies. Feel free to pick whichever you like. But whatever you...",
+      "source_name": "CNCF",
+      "source_url": "https://www.cncf.io/blog/2026/07/10/where-should-ai-workloads-run-a-sovereign-and-sensible-approach/",
+      "published_at": "2026-07-10T23:00:00Z",
+      "category": "open_source_foundations",
+      "tags": [
+        "AI",
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8351,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.cncf.io/?p=170276"
+    },
+    {
+      "title": "Einstein's relativity rules chemical bonds in heavy elements, new research shows",
+      "summary": "https://www.science.org/doi/10.1126/science.aei1285",
+      "source_name": "Hacker News",
+      "source_url": "https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity",
+      "published_at": "2026-07-10T22:30:44Z",
+      "category": "aggregators",
+      "tags": [
+        "Research",
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.8031,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-48866134"
+    },
+    {
+      "title": "Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
+      "summary": "https://www.macrumors.com/2026/07/10/apple-sues-openai/",
+      "source_name": "Hacker News",
+      "source_url": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/",
+      "published_at": "2026-07-10T20:47:09Z",
+      "category": "aggregators",
+      "tags": [
+        "AI",
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7959,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-48865019"
+    },
+    {
+      "title": "An update on residential proxies and the scraper situation",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://lwn.net/SubscriberLink/1080822/990a8a5e2d379085/",
+      "published_at": "2026-07-10T19:38:34Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.6745,
+      "importance_score": 0.7911,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-48864252"
+    },
+    {
+      "title": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
+      "summary": "https://x.com/__eknight__/status/2075643450196971805 , https://xcancel.com/__eknight__/status/2075643450196971805 Prompt: https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98...",
+      "source_name": "Hacker News",
+      "source_url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
+      "published_at": "2026-07-10T18:29:19Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7863,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-48863490"
+    },
+    {
+      "title": "New York City to ban deceptive subscription practices",
+      "summary": "https://www.nyc.gov/mayors-office/news/2026/07/mayor-mamdani...",
+      "source_name": "Hacker News",
+      "source_url": "https://www.theguardian.com/us-news/2026/jul/10/new-york-city-deceptive-subscriptions-ban",
+      "published_at": "2026-07-10T18:26:24Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7861,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-48863464"
+    },
+    {
+      "title": "SpaceX wants to launch 100k more Starlink satellites for 100x the bandwidth",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.zdnet.com/home-and-office/networking/spacex-wants-to-launch-100000-more-starlink-satellites/",
+      "published_at": "2026-07-10T17:51:07Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.6655,
+      "importance_score": 0.7837,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-48863064"
+    },
+    {
+      "title": "The tech of 'Terminator 2' – an oral history (2017)",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://vfxblog.com/2017/08/23/the-tech-of-terminator-2-an-oral-history/",
+      "published_at": "2026-07-10T16:48:41Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.6675,
+      "importance_score": 0.7793,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-48862365"
+    },
+    {
+      "title": "Snails' teeth beats spider silk as nature's strongest material (2015)",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.smithsonianmag.com/smart-news/spider-silk-loses-top-spot-natures-strongest-material-snails-teeth-180954346/",
+      "published_at": "2026-07-10T16:37:52Z",
+      "category": "aggregators",
+      "tags": [
+        "AI",
+        "Hacker News"
+      ],
+      "confidence_score": 0.6555,
+      "importance_score": 0.7786,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-48862252"
+    },
+    {
+      "title": "QuadRF can spot drones and see WiFi through my wall",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/",
+      "published_at": "2026-07-10T15:59:53Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7759,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-48861717"
+    },
+    {
+      "title": "The vintage beauty of Soviet control rooms (2018)",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://designyoutrust.com/2018/01/vintage-beauty-soviet-control-rooms/",
+      "published_at": "2026-07-11T05:19:41Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.6275,
+      "importance_score": 0.7752,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-48868996"
+    },
+    {
+      "title": "How Deutsche Telekom is rewiring telecommunications with AI",
+      "summary": "How Deutsche Telekom is becoming an AI-native telco with OpenAI-transforming customer service, employee workflows, network operations, and the future of voice.",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/deutsche-telekom",
+      "published_at": "2026-07-10T07:00:00Z",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.97,
+      "importance_score": 0.7685,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/index/deutsche-telekom"
+    },
+    {
+      "title": "Late Bronze Age Collapse",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://acoup.blog/2026/01/30/collections-the-late-bronze-age-collapse-a-very-brief-introduction/",
+      "published_at": "2026-07-10T11:59:55Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7593,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-48858737"
+    },
+    {
+      "title": "AI customers are coming around to the idea that small is beautiful",
+      "summary": "OpenAI and Anthropic have built AI Swiss Army Knives, but the future may be smaller built-for-purpose tools",
+      "source_name": "The Register",
+      "source_url": "https://www.theregister.com/ai-and-ml/2026/07/11/ai-customers-are-coming-around-to-the-idea-that-small-is-beautiful/5268070",
+      "published_at": "2026-07-11T14:11:00Z",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7584,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.theregister.com/a/5268070"
+    },
+    {
+      "title": "All the celebrities spotted cheering on their favorite teams at the World Cup",
+      "summary": "Tom Cruise and David Beckham were among the celebrities seen at the 2026 FIFA World Cup.",
+      "source_name": "Business Insider — Tech",
+      "source_url": "https://www.businessinsider.com/photos-celebrities-cheering-2026-world-cup",
+      "published_at": "2026-07-11T14:06:01Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.758,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/photos-celebrities-cheering-2026-world-cup"
+    },
+    {
+      "title": "Reducing High-Bandwidth Memory Bottlenecks in JAX-Based LLM Training with Host Offloading",
+      "summary": "Large language model (LLM) training workloads increasingly run into GPU memory limits before compute is fully used. Model weights, gradients, optimizer states,...",
+      "source_name": "NVIDIA Developer Blog",
+      "source_url": "https://developer.nvidia.com/blog/reducing-high-bandwidth-memory-bottlenecks-in-jax-based-llm-training-with-host-offloading/",
+      "published_at": "2026-07-10T18:17:40Z",
+      "category": "mlops",
+      "tags": [
+        "AI",
+        "LLMs",
+        "GPUs",
+        "AI Models",
+        "Mlops"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.7555,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://developer.nvidia.com/blog/?p=119766"
+    },
+    {
+      "title": "Inside the marriage of Sen. Mitch McConnell and his wife, former Transportation Secretary Elaine Chao",
+      "summary": "Mitch McConnell, 84, has been hospitalized for nearly four weeks, prompting speculation about his health.",
+      "source_name": "Business Insider — Tech",
+      "source_url": "https://www.businessinsider.com/mitch-mcconnell-wife-elaine-chao-relationship-timeline",
+      "published_at": "2026-07-11T13:28:02Z",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7554,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/mitch-mcconnell-wife-elaine-chao-relationship-timeline"
+    },
+    {
+      "title": "I moved from Connecticut to the South chasing a cheaper, simpler life. It wasn't at all what I expected, so I moved back.",
+      "summary": "Connecticut native Sandra Bonola moved to South Carolina for Southern charm and a cheaper lifestyle. Instead, she found it hot, crowded, and pricier than expected.",
+      "source_name": "Business Insider — Tech",
+      "source_url": "https://www.businessinsider.com/moved-from-connecticut-to-south-carolina-disliked-heat-crowds-traffic-2026-7",
+      "published_at": "2026-07-11T13:14:01Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7544,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/moved-from-connecticut-to-south-carolina-disliked-heat-crowds-traffic-2026-7"
+    },
+    {
+      "title": "I attended one of the most popular FIFA Fan Festivals in the US. Here's what attendees enjoyed about the party in Atlanta.",
+      "summary": "The Atlanta FIFA Fan Festival at Centennial Olympic Park offers free entry and a lively atmosphere, drawing over 450,000 visitors.",
+      "source_name": "Business Insider — Tech",
+      "source_url": "https://www.businessinsider.com/attendees-share-why-atlanta-top-us-fifa-fan-festival-2026-7",
+      "published_at": "2026-07-11T13:06:17Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7539,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/attendees-share-why-atlanta-top-us-fifa-fan-festival-2026-7"
+    },
+    {
+      "title": "Two New Wheelchairs Reveal What “Smart” Really Means Today",
+      "summary": "App-controlled chairs are not the same as self-driving ones",
+      "source_name": "IEEE Spectrum",
+      "source_url": "https://spectrum.ieee.org/smart-wheelchair-robooter-strutt-ev1",
+      "published_at": "2026-07-11T13:00:01Z",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.7535,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://spectrum.ieee.org/smart-wheelchair-robooter-strutt-ev1"
+    },
+    {
+      "title": "Kalshi's 'unusual' management style has more than 100 employees report to both founders, CEO says",
+      "summary": "Kalshi CEO Tarek Mansour described the prediction market's management style as deliberately \"chaotic,\" but that leads to \"constant adaptability.\"",
+      "source_name": "Business Insider — Tech",
+      "source_url": "https://www.businessinsider.com/kalshi-ceo-tarek-mansour-org-structure-employees-report-to-founders-2026-7",
+      "published_at": "2026-07-11T12:58:30Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7534,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/kalshi-ceo-tarek-mansour-org-structure-employees-report-to-founders-2026-7"
+    },
+    {
+      "title": "Good Tools Are Invisible",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.gingerbill.org/article/2026/07/10/good-tools-are-invisible/",
+      "published_at": "2026-07-10T10:32:41Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7532,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-48858121"
+    },
+    {
+      "title": "I used to roll my eyes at my mom's overprotective texts. Now I send the same messages to her and to my daughter.",
+      "summary": "Caring for my aging mother while parenting a college-aged daughter has made me realize how motherhood comes full circle.",
+      "source_name": "Business Insider — Tech",
+      "source_url": "https://www.businessinsider.com/aging-mother-college-daughter-full-circle-2026-7",
+      "published_at": "2026-07-11T12:42:01Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7522,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/aging-mother-college-daughter-full-circle-2026-7"
+    },
+    {
+      "title": "Meta Removes A.I. Feature on Instagram After Days of Backlash",
+      "summary": "Users and Hollywood agencies raised privacy and copyright concerns about the new tool, Muse Image.",
+      "source_name": "The New York Times — Technology",
+      "source_url": "https://www.nytimes.com/2026/07/10/technology/meta-muse-images-instagram-removal.html",
+      "published_at": "2026-07-11T12:34:16Z",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7517,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.nytimes.com/2026/07/10/technology/meta-muse-images-instagram-removal.html"
+    },
+    {
+      "title": "A breakup sent me back to my hometown at 36. A layoff made me stay.",
+      "summary": "After a challenging breakup, I moved back home to New Orleans. Six months later, I lost my job. I felt like a failure, but my hometown helped heal me.",
+      "source_name": "Business Insider — Tech",
+      "source_url": "https://www.businessinsider.com/moved-back-home-lost-job-helped-me-rebuild-life-2026-7",
+      "published_at": "2026-07-11T12:17:01Z",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7505,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/moved-back-home-lost-job-helped-me-rebuild-life-2026-7"
+    },
+    {
+      "title": "A neurologist says 'super movers' have younger brains — here's how to reap the benefits yourself",
+      "summary": "The best longevity secret may be a power walk. A neurologist explains how moving fast helps protect the brain and body from aging.",
+      "source_name": "Business Insider — Tech",
+      "source_url": "https://www.businessinsider.com/super-mover-live-longer-protect-brain-neurologist-how-to-tips-2026-7",
+      "published_at": "2026-07-11T12:16:01Z",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7504,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/super-mover-live-longer-protect-brain-neurologist-how-to-tips-2026-7"
+    },
+    {
+      "title": "Contributing to U.K. financial sector resilience as a critical third party",
+      "summary": "At Google Cloud, we take our role in the financial ecosystem very seriously. We firmly believe that operational resilience is essential to driving and sustaining responsible innovation. Today, we mark a milestone in our ongoing commitment to the financial sector that’s directly relevant to our customers in the U.K. On July 10, the U.K. Treasury designated Google Cloud EMEA as a critical third party (CTP) to the U.K. financial sector under the CTP regime . This designation…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/products/identity-security/contributing-to-uk-financial-sector-resilience-as-a-critical-third-party/",
+      "published_at": "2026-07-10T17:00:00Z",
+      "category": "cloud_providers",
+      "tags": [
+        "AI",
+        "Cloud",
+        "Google Cloud",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.7501,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/products/identity-security/contributing-to-uk-financial-sector-resilience-as-a-critical-third-party/"
+    },
+    {
+      "title": "After living with my parents for 6 years, we're now neighbors. We have plenty of the benefits of living together, but more privacy.",
+      "summary": "I lived with my parents for six years. When they wanted to downsize, I moved into a townhouse across the street. Being their neighbor is fun.",
+      "source_name": "Business Insider — Tech",
+      "source_url": "https://www.businessinsider.com/lived-with-parents-adult-now-neighbors-benefits-2026-7",
+      "published_at": "2026-07-11T12:07:01Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7498,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/lived-with-parents-adult-now-neighbors-benefits-2026-7"
+    },
+    {
+      "title": "My colleague wanted a nerdy, niche tool for his MacBook. Codex whipped it up in minutes.",
+      "summary": "Business Insider's Stephen Council used OpenAI Codex to build a custom Mac clipboard app in minutes—no coding required.",
+      "source_name": "Business Insider — Tech",
+      "source_url": "https://www.businessinsider.com/openai-codex-niche-macbook-idea-five-minutes-vide-coding-2026-7",
+      "published_at": "2026-07-11T12:02:01Z",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7494,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/openai-codex-niche-macbook-idea-five-minutes-vide-coding-2026-7"
+    },
+    {
+      "title": "I spent 30 months living in different countries. Coming back, I can't believe how expensive the US is.",
+      "summary": "Bakari Akil shares his experience traveling to a new country each month while still spending less than his rent in New York.",
+      "source_name": "Business Insider — Tech",
+      "source_url": "https://www.businessinsider.com/left-nyc-lived-30-countries-cheaper-than-rent-2026-7",
+      "published_at": "2026-07-11T12:01:01Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7494,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/left-nyc-lived-30-countries-cheaper-than-rent-2026-7"
+    },
+    {
+      "title": "Kernel Fusion in NVIDIA CUDA: Optimizing Memory Traffic and Launch Overhead",
+      "summary": "There are many ways to optimize code for GPUs. In this post, you’ll learn how kernel fusion can improve memory bandwidth and reduce kernel launch overhead,...",
+      "source_name": "NVIDIA Developer Blog",
+      "source_url": "https://developer.nvidia.com/blog/kernel-fusion-in-nvidia-cuda-optimizing-memory-traffic-and-launch-overhead/",
+      "published_at": "2026-07-10T16:41:03Z",
+      "category": "mlops",
+      "tags": [
+        "GPUs",
+        "Mlops"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.7488,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://developer.nvidia.com/blog/?p=119743"
+    },
+    {
+      "title": "AI Model Co-Design: Hardware-Friendly LLM Design",
+      "summary": "AI performance comes down to three dimensions: Accuracy: How well the model reasons and produces outputs Throughput: How many tokens per second a...",
+      "source_name": "NVIDIA Developer Blog",
+      "source_url": "https://developer.nvidia.com/blog/ai-model-co-design-hardware-friendly-llm-design/",
+      "published_at": "2026-07-10T16:36:02Z",
+      "category": "mlops",
+      "tags": [
+        "AI",
+        "LLMs",
+        "AI Models",
+        "Mlops"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.7485,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://developer.nvidia.com/blog/?p=119595"
+    },
+    {
+      "title": "I'm a single mom, living in the Hamptons. It's a struggle to pay my $4,000 rent and to keep up with the glamorous lifestyle.",
+      "summary": "Raising my kids in the Hamptons is financially difficult. I have to travel out of town to grocery shop, and have to cut my kid's expensive activities.",
+      "source_name": "Business Insider — Tech",
+      "source_url": "https://www.businessinsider.com/single-mom-living-hamptons-struggling-financially-2026-7",
+      "published_at": "2026-07-11T11:47:01Z",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7484,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/single-mom-living-hamptons-struggling-financially-2026-7"
+    },
+    {
+      "title": "Frontier and Center: Who evaluates the evaluations?",
+      "summary": "Editor’s note: Some of the most interesting questions in AI are being asked by information theoreticians, around how to provide context to an emerging class of AI agents. A few weeks ago, we waded into those waters with a blog about the Open Knowledge Format , a specification that formalizes the LLM-wiki pattern into a portable, interoperable format to represent the metadata, context, and curated knowledge that modern AI systems need to operate. That blog generated a ton of…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/products/data-analytics/evaluate-agent-performance/",
+      "published_at": "2026-07-10T16:00:00Z",
+      "category": "cloud_providers",
+      "tags": [
+        "AI",
+        "LLMs",
+        "AI Agents",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.746,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/products/data-analytics/evaluate-agent-performance/"
+    },
+    {
+      "title": "What’s new with Google Cloud",
+      "summary": "Want to know the latest from Google Cloud? Find it here in one handy location. Check back regularly for our newest updates, announcements, resources, events, learning opportunities, and more. Tip : Not sure where to find what you’re looking for on the Google Cloud blog? Start here: Google Cloud blog 101: Full list of topics, links, and resources . aside_block <ListValue: []> Jul 6 - Jul 10 Webinar: Introducing Google Cloud NGFW Enterprise advanced malware protection -…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
+      "published_at": "2026-07-10T16:00:00Z",
+      "category": "cloud_providers",
+      "tags": [
+        "Cloud",
+        "Google Cloud",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.746,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/"
+    },
+    {
+      "title": "Better tools made Copilot code review worse. Here’s how we actually improved it.",
+      "summary": "How migrating Copilot code review to shared Unix-style code exploration tools reduced review cost by reshaping agent workflows around pull request evidence. The post Better tools made Copilot code review worse. Here’s how we actually improved it. appeared first on The GitHub Blog .",
+      "source_name": "The GitHub Blog",
+      "source_url": "https://github.blog/ai-and-ml/github-copilot/better-tools-made-copilot-code-review-worse-heres-how-we-actually-improved-it/",
+      "published_at": "2026-07-10T15:57:47Z",
+      "category": "developer_platforms",
+      "tags": [
+        "AI Agents",
+        "Developer Tools",
+        "APIs",
+        "Developer Platforms"
+      ],
+      "confidence_score": 0.92,
+      "importance_score": 0.7458,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://github.blog/?p=97467"
+    },
+    {
+      "title": "Beatbot AquaSense X Review: A Pool Robot That Cleans Itself",
+      "summary": "The AquaSense X brings self-cleaning technology to pool robots for the first time, but is it worth nearly twice the price of Beatbot’s flagship cleaner?",
+      "source_name": "Wired",
+      "source_url": "https://www.wired.com/review/beatbot-aquasense-x/",
+      "published_at": "2026-07-11T11:02:00Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7453,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "6a4d49737390a0984748b06f"
+    },
+    {
+      "title": "Skylight’s Touchscreen Calendar Got my Whole Family on the Same Page",
+      "summary": "The Skylight has become the informational and organizational hub of my household. My touchscreen-native kids have also gained more agency over our family activities.",
+      "source_name": "Wired",
+      "source_url": "https://www.wired.com/story/skylight-digital-calendar-for-kids-who-are-touchscreen-natives/",
+      "published_at": "2026-07-11T11:00:00Z",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7451,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "6a4d3851445685604bf974a1"
+    },
+    {
+      "title": "Samsung Micro RGB R95H Review (2026): Not the Brightest",
+      "summary": "There’s a new fleet of TVs using new mini and micro RBG display tech, and Samsung’s R95H model isn’t as impressive as it should be.",
+      "source_name": "Wired",
+      "source_url": "https://www.wired.com/review/samsung-micro-rgb-r95h/",
+      "published_at": "2026-07-11T10:31:00Z",
+      "category": "mainstream_press",
+      "tags": [
+        "AI Models",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7431,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "6a4d8054e2d890da50a6345f"
+    },
+    {
+      "title": "AI Found a Root Bug in Linux That Everyone Missed for 15 Years",
+      "summary": "Plus: The Pentagon is training amateurs to become part of its hacker army, a Flock license plate reader error led to cops surrounding a car reviewer, and more.",
+      "source_name": "Wired",
+      "source_url": "https://www.wired.com/story/security-news-this-week-ai-found-a-root-bug-in-linux-that-everyone-missed-for-15-years/",
+      "published_at": "2026-07-11T10:30:00Z",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.743,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "6a5135d3c5b8345af0aecc94"
+    },
+    {
+      "title": "Networking and the Internet, from First Principles",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://fazamhd.com/mental-models/networking/",
+      "published_at": "2026-07-11T12:30:40Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.6025,
+      "importance_score": 0.7427,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-48871470"
+    },
+    {
+      "title": "UST is bringing Claude to physical AI",
+      "summary": "UST is bringing Claude to physical AI Anthropic",
+      "source_name": "Anthropic",
+      "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9PWmhDajNFV09GX2ZrcFpRTHJUcFdwcFZDRDFvMlQ5MGhpclVkR1dYSFI4MllXTWRkaTR5cEhQN0RvcmFRVTVicXpxbUZkc2lDUTZj?oc=5",
+      "published_at": "2026-07-10T00:43:28Z",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.97,
+      "importance_score": 0.7423,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "CBMiU0FVX3lxTE9PWmhDajNFV09GX2ZrcFpRTHJUcFdwcFZDRDFvMlQ5MGhpclVkR1dYSFI4MllXTWRkaTR5cEhQN0RvcmFRVTVicXpxbUZkc2lDUTZj"
+    },
+    {
+      "title": "After 7 years in production, Scarf has reluctantly moved away from Haskell",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://avi.press/posts/2026-07-10-after-7-years-in-production-scarf-has-reluctantly-moved-away-from-haskell.html",
+      "published_at": "2026-07-10T13:30:41Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.6405,
+      "importance_score": 0.7419,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-48859673"
+    },
+    {
+      "title": "Irish datacenters now guzzle 23% of the country's electricity",
+      "summary": "Consumption rose another 10% while restrictions on most new grid connections remained around Dublin",
+      "source_name": "The Register",
+      "source_url": "https://www.theregister.com/on-prem/2026/07/11/irish-datacenters-now-guzzle-23-of-the-countrys-electricity/5270013",
+      "published_at": "2026-07-11T10:00:00Z",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.741,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.theregister.com/a/5270013"
+    },
+    {
+      "title": "We Make Lovely Home-Cooked Meals for Ourselves. Why Not Do the Same for Our Dogs?",
+      "summary": "More dog owners have begun cooking for their canine companions in recent years. When my own dog fell ill, I became part of this growing group.",
+      "source_name": "Wired",
+      "source_url": "https://www.wired.com/story/gourmet-dog-food/",
+      "published_at": "2026-07-11T10:00:00Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.741,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "6a511c745462e279640dcfc7"
+    }
+  ]
+}
