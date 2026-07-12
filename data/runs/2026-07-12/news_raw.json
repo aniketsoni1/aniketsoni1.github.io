@@ -1,0 +1,806 @@
+{
+  "generated_at": "2026-07-12T14:38:58.644895+00:00",
+  "post_date": "2026-07-12",
+  "sources_checked": 45,
+  "candidates": 45,
+  "items": [
+    {
+      "title": "Mesh LLM: distributed AI computing on iroh",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.iroh.computer/blog/mesh-llm",
+      "published_at": "2026-07-11T22:38:57+00:00",
+      "category": "aggregators",
+      "tags": [
+        "AI",
+        "LLMs",
+        "Hacker News"
+      ],
+      "confidence_score": 0.6975,
+      "importance_score": 0.8033,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-48876505"
+    },
+    {
+      "title": "Old and new apps, via modern coding agents by Terry Tao",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/",
+      "published_at": "2026-07-12T11:09:42+00:00",
+      "category": "aggregators",
+      "tags": [
+        "AI Agents",
+        "Hacker News"
+      ],
+      "confidence_score": 0.625,
+      "importance_score": 0.793,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-48880170"
+    },
+    {
+      "title": "Show HN: Ant – A JavaScript runtime and ecosystem",
+      "summary": "Hello HN! I'm the author of Ant, a JavaScript ecosystem built around a runtime with its own JavaScript engine. Ant also includes a package manager, the ants.land package registry, a platform for deploying and hosting applications, and Ant Desktop for building native desktop apps with web…",
+      "source_name": "Hacker News",
+      "source_url": "https://antjs.org",
+      "published_at": "2026-07-11T20:07:18+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7928,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-48875377"
+    },
+    {
+      "title": "How to Evaluate General-Purpose Robot Policies for Real-World Deployment",
+      "summary": "Robotics foundation models have made remarkable progress. Today's best systems can follow natural language instructions to pick, place, sort, and manipulate a...",
+      "source_name": "NVIDIA Developer Blog",
+      "source_url": "https://developer.nvidia.com/blog/how-to-evaluate-general-purpose-robot-policies-for-real-world-deployment/",
+      "published_at": "2026-07-12T01:08:17+00:00",
+      "category": "mlops",
+      "tags": [
+        "AI Models",
+        "Mlops"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.7837,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://developer.nvidia.com/blog/?p=119801"
+    },
+    {
+      "title": "Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom",
+      "published_at": "2026-07-11T17:21:49+00:00",
+      "category": "aggregators",
+      "tags": [
+        "GPUs",
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7813,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-48873836"
+    },
+    {
+      "title": "UPI: Anatomy of a Payment Transaction",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://timeseriesofindia.com/economy/reads/upi-architecture/",
+      "published_at": "2026-07-11T16:33:42+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.658,
+      "importance_score": 0.778,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-48873457"
+    },
+    {
+      "title": "Modern decor may be straining people's brains",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://studyfinds.com/modern-decor-may-be-straining-peoples-brains/",
+      "published_at": "2026-07-11T16:28:48+00:00",
+      "category": "aggregators",
+      "tags": [
+        "AI",
+        "Hacker News"
+      ],
+      "confidence_score": 0.6675,
+      "importance_score": 0.7776,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-48873424"
+    },
+    {
+      "title": "We scaled PgBouncer to 4x throughput",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres",
+      "published_at": "2026-07-11T15:28:02+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.664,
+      "importance_score": 0.7734,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-48872874"
+    },
+    {
+      "title": "RISCBoy is an open-source portable games console, designed from scratch",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://github.com/Wren6991/RISCBoy",
+      "published_at": "2026-07-11T21:58:00+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Open Source",
+        "Hacker News"
+      ],
+      "confidence_score": 0.636,
+      "importance_score": 0.7655,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-48876245"
+    },
+    {
+      "title": "We moved from the US to a Greek island. Here are 5 pros and cons of raising a kid abroad.",
+      "summary": "Cara West, 35, moved her family from the US to Greece. Raising her 4-year-old abroad has been fun, but life isn't always perfect.",
+      "source_name": "Business Insider — Tech",
+      "source_url": "https://www.businessinsider.com/five-pros-and-cons-of-raising-a-child-abroad-2026-7",
+      "published_at": "2026-07-12T14:09:01+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7579,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/five-pros-and-cons-of-raising-a-child-abroad-2026-7"
+    },
+    {
+      "title": "AI giants learn what everyone else on the modern internet already knows",
+      "summary": "Anthropic's distillation complaints expose an awkward question: does AI's fair use argument cut both ways?",
+      "source_name": "Business Insider — Tech",
+      "source_url": "https://www.businessinsider.com/ai-giants-learn-hard-truth-modern-internet-anthropic-openai-google-2026-7",
+      "published_at": "2026-07-12T14:02:01+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7574,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/ai-giants-learn-hard-truth-modern-internet-anthropic-openai-google-2026-7"
+    },
+    {
+      "title": "I canceled Amazon Prime to curb my impulse shopping. It worked better than I expected.",
+      "summary": "Giving up Amazon Prime saved me money, but it also reminded me how much I enjoyed shopping locally and getting out of the house.",
+      "source_name": "Business Insider — Tech",
+      "source_url": "https://www.businessinsider.com/canceling-amazon-prime-running-errands-2026-7",
+      "published_at": "2026-07-12T13:51:01+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7567,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/canceling-amazon-prime-running-errands-2026-7"
+    },
+    {
+      "title": "My kids never got Disney vacations. I'm done feeling guilty about it.",
+      "summary": "We couldn't afford to travel while raising five children. Learning to enjoy those experiences now has taken years of letting go of guilt.",
+      "source_name": "Business Insider — Tech",
+      "source_url": "https://www.businessinsider.com/couldnt-afford-family-vacations-no-more-guilt-2026-7",
+      "published_at": "2026-07-12T13:44:01+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7562,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/couldnt-afford-family-vacations-no-more-guilt-2026-7"
+    },
+    {
+      "title": "I ranked 13 fast-food double cheeseburgers. The best was a regional favorite.",
+      "summary": "We tried 13 fast-food double cheeseburgers and ranked them based on taste and value.",
+      "source_name": "Business Insider — Tech",
+      "source_url": "https://www.businessinsider.com/best-fast-food-double-cheeseburger-ranked-taste-test",
+      "published_at": "2026-07-12T13:32:02+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7554,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/best-fast-food-double-cheeseburger-ranked-taste-test"
+    },
+    {
+      "title": "Inside the $85 million James Bond-inspired Florida mansion with hidden rooms and an Aston Martin gallery",
+      "summary": "Villa Skyfall, a James Bond-inspired mansion by Aldo and Fiorenna Stark in Delray Beach, Florida, is on sale for $85 million.",
+      "source_name": "Business Insider — Tech",
+      "source_url": "https://www.businessinsider.com/james-bond-inspired-florida-mansion-85-million-villa-skyfall-2026-7",
+      "published_at": "2026-07-12T13:08:01+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7537,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/james-bond-inspired-florida-mansion-85-million-villa-skyfall-2026-7"
+    },
+    {
+      "title": "Quantum Sensor Sniffs Out Radio Signals in 3D",
+      "summary": "The Rydberg atom-based device could be a fraction the size of existing antennae",
+      "source_name": "IEEE Spectrum",
+      "source_url": "https://spectrum.ieee.org/quantum-sensor-radio-signal-direction",
+      "published_at": "2026-07-12T13:00:01+00:00",
+      "category": "research_feeds",
+      "tags": [
+        "Research Feeds"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.7531,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://spectrum.ieee.org/quantum-sensor-radio-signal-direction"
+    },
+    {
+      "title": "The global business behind World Cup jerseys, from $180 authentic shirts to $4 counterfeits",
+      "summary": "We went inside Bangladesh's garment factories to find out why authentic World Cup jerseys sell for as much as $180.",
+      "source_name": "Business Insider — Tech",
+      "source_url": "https://www.businessinsider.com/world-cup-soccer-jerseys-fifa-authentic-replica-fake-bangladesh-manufacturing-2026-7",
+      "published_at": "2026-07-12T13:00:01+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7531,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/world-cup-soccer-jerseys-fifa-authentic-replica-fake-bangladesh-manufacturing-2026-7"
+    },
+    {
+      "title": "I wanted to care for my parents as they got older. The reality is proving to be more difficult.",
+      "summary": "I promised myself I'd care for my parents as they got older. However, I'm living with MS, and being a caregiver may be difficult.",
+      "source_name": "Business Insider — Tech",
+      "source_url": "https://www.businessinsider.com/caregiving-for-aging-parents-reality-2026-7",
+      "published_at": "2026-07-12T11:41:01+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7476,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/caregiving-for-aging-parents-reality-2026-7"
+    },
+    {
+      "title": "I love taking staycations with my kids. I always book a hotel with a pool, and typical rules go out the window.",
+      "summary": "I take staycations with my kids a few times a year. I make sure our hotel has a pool and go on 'vacation mode,' even if we're just a few minutes away.",
+      "source_name": "Business Insider — Tech",
+      "source_url": "https://www.businessinsider.com/staycations-with-kids-hotel-pool-no-rules-2026-7",
+      "published_at": "2026-07-12T11:17:01+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.746,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/staycations-with-kids-hotel-pool-no-rules-2026-7"
+    },
+    {
+      "title": "The Best Robotic Pool Cleaners of 2026: Beatbot, iGarden, Dreame",
+      "summary": "Send the pool guy packing. Let one of these robotic buddies maintain your water quality instead.",
+      "source_name": "Wired",
+      "source_url": "https://www.wired.com/story/best-pool-cleaning-robots/",
+      "published_at": "2026-07-12T11:09:00+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7454,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "69e0f7b1ae2b670940bc07c3"
+    },
+    {
+      "title": "I was laid off at 56 and took a 60% pay cut to land my next role — the biggest thing I feel is anger",
+      "summary": "A 57-year-old accepted a role with a 60% pay cut after struggling in the job hunt post-layoff. She is budgeting and downsizing while job-searching.",
+      "source_name": "Business Insider — Tech",
+      "source_url": "https://www.businessinsider.com/laid-off-at-56-took-60-percent-pay-cut-2026-7",
+      "published_at": "2026-07-12T11:06:01+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7452,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/laid-off-at-56-took-60-percent-pay-cut-2026-7"
+    },
+    {
+      "title": "Memory makers are slaves to the boom-bust rollercoaster, and the AI boom is the wildest ride of all",
+      "summary": "The RAMpocalypse may be the precursor to the AIpocalypse",
+      "source_name": "The Register",
+      "source_url": "https://www.theregister.com/ai-and-ml/2026/07/12/memory-makers-are-slaves-to-the-boom-bust-rollercoaster-and-the-ai-boom-is-the-wildest-ride-of-all/5269549",
+      "published_at": "2026-07-12T11:04:00+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7451,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.theregister.com/a/5269549"
+    },
+    {
+      "title": "Women in the workplace are putting a new twist on L.L.Bean's famous tote bags",
+      "summary": "L.L.Bean is known for its classic canvas bags. Women are now using Boat and Totes as work bags with embroidery that nods to their professions.",
+      "source_name": "Business Insider — Tech",
+      "source_url": "https://www.businessinsider.com/ll-bean-boat-tote-bags-trendy-for-work-2026-7",
+      "published_at": "2026-07-12T10:46:01+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7438,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/ll-bean-boat-tote-bags-trendy-for-work-2026-7"
+    },
+    {
+      "title": "My kids don't qualify for the free $1,000, but I'm still opening Trump Accounts for them",
+      "summary": "In this Sunday edition of Business Insider Today, we're walking through what Trump Accounts are, and whether they're right for your family.",
+      "source_name": "Business Insider — Tech",
+      "source_url": "https://www.businessinsider.com/bi-today-sunday-newsletter-trump-accounts-should-you-invest-2026-7",
+      "published_at": "2026-07-12T10:42:01+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7435,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/bi-today-sunday-newsletter-trump-accounts-should-you-invest-2026-7"
+    },
+    {
+      "title": "Here’s How Apple Is Updating Its Child Safety Features in iOS 27",
+      "summary": "Apple has announced several new Child Safety features coming soon to iPhones and other devices. Here’s what’s changing.",
+      "source_name": "Wired",
+      "source_url": "https://www.wired.com/story/apple-child-safety-ios-27/",
+      "published_at": "2026-07-12T10:30:00+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7427,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "6a42967cc647dc980f0da206"
+    },
+    {
+      "title": "28 Best STEM Toys for Kids (2026): Learning Made Fun",
+      "summary": "We found lots of math-filled and science-rich toys for tiny nerds to assemble, bake, squish—or even tear apart and rebuild.",
+      "source_name": "Wired",
+      "source_url": "https://www.wired.com/gallery/best-stem-toys-for-kids/",
+      "published_at": "2026-07-12T10:30:00+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7427,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "5bea0c51798a4365ec16fdca"
+    },
+    {
+      "title": "Scientists’ Side Hustle? Using AI and Quantum Computing to Generate New Peptides",
+      "summary": "Researchers cobbled together funding and time to show how quantum computing could aid in the development of drugs to help underserved populations and combat rare diseases.",
+      "source_name": "Wired",
+      "source_url": "https://www.wired.com/story/scientists-using-ai-and-quantum-computing-to-generate-new-peptides/",
+      "published_at": "2026-07-12T10:00:00+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Research",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7406,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "6a50b6a1801742f6885445d1"
+    },
+    {
+      "title": "Best External Hard Drives (2026): SSD to Store Data, Video, and More",
+      "summary": "Need an ultrafast drive for video editing or a rugged option to back up your photos in the field? We’ve got a solution for every situation.",
+      "source_name": "Wired",
+      "source_url": "https://www.wired.com/story/best-portable-external-storage-drives/",
+      "published_at": "2026-07-12T09:33:00+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7388,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "60dc74924abd3c033f4a0180"
+    },
+    {
+      "title": "The 10 Best Pet Cameras of 2026: Furbo, Petcube, and Enabot",
+      "summary": "Whether you’re near or far, keep an eye on your fur baby with our favorite pet cameras.",
+      "source_name": "Wired",
+      "source_url": "https://www.wired.com/gallery/best-pet-cameras/",
+      "published_at": "2026-07-12T09:05:00+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7368,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "680bd6a72ec82073c9b3d069"
+    },
+    {
+      "title": "Where should AI workloads run? A sovereign and sensible approach",
+      "summary": "Opinions on AI range from transformative optimism to deep skepticism, but one thing is clear: AI is becoming an increasingly important part of enterprise technology strategies. Feel free to pick whichever you like. But whatever you...",
+      "source_name": "CNCF",
+      "source_url": "https://www.cncf.io/blog/2026/07/10/where-should-ai-workloads-run-a-sovereign-and-sensible-approach/",
+      "published_at": "2026-07-10T23:00:00+00:00",
+      "category": "open_source_foundations",
+      "tags": [
+        "AI",
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.87,
+      "importance_score": 0.7348,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.cncf.io/?p=170276"
+    },
+    {
+      "title": "It's an AI web, and we're just rats in the walls",
+      "summary": "Bots, not people, are now the ones who use the internet the most",
+      "source_name": "The Register",
+      "source_url": "https://www.theregister.com/columnists/2026/07/12/its-an-ai-web-and-were-just-rats-in-the-walls/5269760",
+      "published_at": "2026-07-12T07:34:00+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7305,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.theregister.com/a/5269760"
+    },
+    {
+      "title": "Show HN: Mindwalk – Replay coding-agent sessions on a 3D map of your codebase",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://github.com/cosmtrek/mindwalk",
+      "published_at": "2026-07-12T05:51:32+00:00",
+      "category": "aggregators",
+      "tags": [
+        "AI Agents",
+        "Hacker News"
+      ],
+      "confidence_score": 0.6045,
+      "importance_score": 0.7197,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-48878682"
+    },
+    {
+      "title": "Ghostel.el: Terminal emulator powered by libghostty",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://dakra.github.io/ghostel/",
+      "published_at": "2026-07-12T08:52:59+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.5975,
+      "importance_score": 0.7147,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-48879504"
+    },
+    {
+      "title": "Yt-Dlp Sequence Diagrams",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://app.ilograph.com/demo.ilograph.yt-dlp/Download%2520a%2520YouTube%2520Video",
+      "published_at": "2026-07-12T11:49:38+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.585,
+      "importance_score": 0.6957,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-48880384"
+    },
+    {
+      "title": "The early History of the Singular Value Decomposition (1993) [pdf]",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.math.ucdavis.edu/~saito/courses/229A/stewart-svd.pdf",
+      "published_at": "2026-07-11T15:26:12+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.6165,
+      "importance_score": 0.6895,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-48872858"
+    },
+    {
+      "title": "Apple Sues OpenAI, Accusing It of Stealing Company Secrets",
+      "summary": "The two companies struck a deal in 2024 to offer A.I. services on Apple devices, but their partnership has soured.",
+      "source_name": "The New York Times — Technology",
+      "source_url": "https://www.nytimes.com/2026/07/10/technology/apple-openai-lawsuit.html",
+      "published_at": "2026-07-11T18:00:01+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.674,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.nytimes.com/2026/07/10/technology/apple-openai-lawsuit.html"
+    },
+    {
+      "title": "Compromised jscrambler 8.14.0 npm Release Drops Rust Infostealer During Install",
+      "summary": "The jscrambler npm package was compromised, and simply installing its 8.14.0 release runs an infostealer on your machine. Published on July 11, 2026, the malicious version carries a preinstall hook that drops and executes a native binary, one build each for Windows, macOS, and Linux. Socket flagged the release six minutes after it was published. If you or one of your",
+      "source_name": "The Hacker News",
+      "source_url": "https://thehackernews.com/2026/07/compromised-jscrambler-8140-npm-release.html",
+      "published_at": "2026-07-11T17:59:26+00:00",
+      "category": "cybersecurity",
+      "tags": [
+        "Cybersecurity"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.6739,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://thehackernews.com/2026/07/compromised-jscrambler-8140-npm-release.html"
+    },
+    {
+      "title": "Hackers Weaponize Balochistan Police Portal in Multi-Group Espionage Campaigns",
+      "summary": "Cybersecurity researchers have disclosed details of sustained cyber espionage activity against several Pakistani law enforcement organizations undertaken by suspected China- and India-aligned threat actors between February 2024 and April 2026. \"At Balochistan Police, the compromised assets included servers hosting web applications that manage police and citizen data, such as criminal and",
+      "source_name": "The Hacker News",
+      "source_url": "https://thehackernews.com/2026/07/hackers-weaponize-balochistan-police.html",
+      "published_at": "2026-07-11T17:49:31+00:00",
+      "category": "cybersecurity",
+      "tags": [
+        "AI",
+        "Security",
+        "Research",
+        "Cybersecurity"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.6732,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://thehackernews.com/2026/07/hackers-weaponize-balochistan-police.html"
+    },
+    {
+      "title": "Understanding the Odin Programming Language",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://odinbook.com/",
+      "published_at": "2026-07-12T12:08:07+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.571,
+      "importance_score": 0.662,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-48880499"
+    },
+    {
+      "title": "OpenAI bets on families as ChatGPT goes deeper into households",
+      "summary": "ChatGPT is hiring a dedicated product manager to build experiences for families, caregivers, and older adults, according to a job posting.",
+      "source_name": "TechCrunch — AI",
+      "source_url": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
+      "published_at": "2026-07-11T14:13:00+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.8,
+      "importance_score": 0.6582,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://techcrunch.com/?p=3141184"
+    },
+    {
+      "title": "AI customers are coming around to the idea that small is beautiful",
+      "summary": "OpenAI and Anthropic have built AI Swiss Army Knives, but the future may be smaller built-for-purpose tools",
+      "source_name": "The Register",
+      "source_url": "https://www.theregister.com/ai-and-ml/2026/07/11/ai-customers-are-coming-around-to-the-idea-that-small-is-beautiful/5268070",
+      "published_at": "2026-07-11T14:11:00+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.8,
+      "importance_score": 0.6581,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.theregister.com/a/5268070"
+    },
+    {
+      "title": "Reducing High-Bandwidth Memory Bottlenecks in JAX-Based LLM Training with Host Offloading",
+      "summary": "Large language model (LLM) training workloads increasingly run into GPU memory limits before compute is fully used. Model weights, gradients, optimizer states,...",
+      "source_name": "NVIDIA Developer Blog",
+      "source_url": "https://developer.nvidia.com/blog/reducing-high-bandwidth-memory-bottlenecks-in-jax-based-llm-training-with-host-offloading/",
+      "published_at": "2026-07-10T18:17:40+00:00",
+      "category": "mlops",
+      "tags": [
+        "AI",
+        "LLMs",
+        "GPUs",
+        "AI Models",
+        "Mlops"
+      ],
+      "confidence_score": 0.87,
+      "importance_score": 0.6552,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://developer.nvidia.com/blog/?p=119766"
+    },
+    {
+      "title": "Two New Wheelchairs Reveal What “Smart” Really Means Today",
+      "summary": "App-controlled chairs are not the same as self-driving ones",
+      "source_name": "IEEE Spectrum",
+      "source_url": "https://spectrum.ieee.org/smart-wheelchair-robooter-strutt-ev1",
+      "published_at": "2026-07-11T13:00:01+00:00",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.87,
+      "importance_score": 0.6531,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://spectrum.ieee.org/smart-wheelchair-robooter-strutt-ev1"
+    },
+    {
+      "title": "Meta Removes A.I. Feature on Instagram After Days of Backlash",
+      "summary": "Users and Hollywood agencies raised privacy and copyright concerns about the new tool, Muse Image.",
+      "source_name": "The New York Times — Technology",
+      "source_url": "https://www.nytimes.com/2026/07/10/technology/meta-muse-images-instagram-removal.html",
+      "published_at": "2026-07-11T12:34:16+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.6513,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.nytimes.com/2026/07/10/technology/meta-muse-images-instagram-removal.html"
+    },
+    {
+      "title": "Contributing to U.K. financial sector resilience as a critical third party",
+      "summary": "At Google Cloud, we take our role in the financial ecosystem very seriously. We firmly believe that operational resilience is essential to driving and sustaining responsible innovation. Today, we mark a milestone in our ongoing commitment to the financial sector that’s directly relevant to our customers in the U.K. On July 10, the U.K. Treasury designated Google Cloud EMEA as a critical third party (CTP) to the U.K. financial sector under the CTP regime . This designation…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/products/identity-security/contributing-to-uk-financial-sector-resilience-as-a-critical-third-party/",
+      "published_at": "2026-07-10T17:00:00+00:00",
+      "category": "cloud_providers",
+      "tags": [
+        "AI",
+        "Cloud",
+        "Google Cloud",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.92,
+      "importance_score": 0.6498,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/products/identity-security/contributing-to-uk-financial-sector-resilience-as-a-critical-third-party/"
+    }
+  ]
+}
