@@ -1,0 +1,135 @@
+{
+  "post_date": "2026-07-12",
+  "week_start": "2026-07-06",
+  "week_label": "July 6–12, 2026",
+  "theme": "AI",
+  "related_themes": [
+    "Open Source Foundations",
+    "AI Agents",
+    "Mainstream Press",
+    "Ai Model Companies",
+    "Cloud"
+  ],
+  "tag_counts": [
+    {
+      "tag": "AI",
+      "count": 24
+    },
+    {
+      "tag": "Open Source Foundations",
+      "count": 8
+    },
+    {
+      "tag": "AI Agents",
+      "count": 7
+    },
+    {
+      "tag": "Mainstream Press",
+      "count": 5
+    },
+    {
+      "tag": "Ai Model Companies",
+      "count": 4
+    },
+    {
+      "tag": "Cloud",
+      "count": 4
+    }
+  ],
+  "stories_reviewed": 63,
+  "runs_used": [
+    "2026-07-06",
+    "2026-07-07",
+    "2026-07-08",
+    "2026-07-09",
+    "2026-07-10",
+    "2026-07-11",
+    "2026-07-12"
+  ],
+  "sources_count": 11,
+  "citations": [
+    {
+      "date": "2026-07-08",
+      "title": "Network boundary for AI agents using NGINX and OpenTelemetry",
+      "url": "https://www.cncf.io/blog/2026/07/08/network-boundary-for-ai-agents-using-nginx-and-opentelemetry/",
+      "source_name": "CNCF",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Open Source Foundations"
+      ],
+      "summary": "I recently had an interesting conversation at a KCD about OpenClaw with one of the attendees, and they remarked that they wouldn’t put an agent in their network, because “we don’t know what that thing really...",
+      "why": "Matters for platform teams tracking the open-source dependencies under their stack.",
+      "score": 0.8756
+    },
+    {
+      "date": "2026-07-07",
+      "title": "Why sandboxing your agent is not enough",
+      "url": "https://www.cncf.io/blog/2026/07/07/why-sandboxing-your-agent-is-not-enough/",
+      "source_name": "CNCF",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Open Source Foundations"
+      ],
+      "summary": "The agentic AI space is moving incredibly fast. Not long ago, I learned about a cool project called agent-sandbox, which provides a sandboxed environment for AI agents by leveraging many of the building blocks we have...",
+      "why": "Matters for platform teams tracking the open-source dependencies under their stack.",
+      "score": 0.8645
+    },
+    {
+      "date": "2026-07-10",
+      "title": "How Deutsche Telekom is rewiring telecommunications with AI",
+      "url": "https://openai.com/index/deutsche-telekom",
+      "source_name": "OpenAI",
+      "tags": [
+        "AI",
+        "Ai Model Companies"
+      ],
+      "summary": "How Deutsche Telekom is becoming an AI-native telco with OpenAI-transforming customer service, employee workflows, network operations, and the future of voice.",
+      "why": "Signals how frontier-model capabilities and access may shift for AI engineers and product teams.",
+      "score": 0.8624
+    },
+    {
+      "date": "2026-07-07",
+      "title": "Chat Control 1.0 and 2.0 Explained",
+      "url": "https://fightchatcontrol.eu/chat-control-overview",
+      "source_name": "Hacker News",
+      "tags": [
+        "AI",
+        "Hacker News"
+      ],
+      "summary": "Chat Control 1.0 and 2.0 Explained",
+      "why": "Community-surfaced signal worth scanning for emerging developer sentiment.",
+      "score": 0.8466
+    },
+    {
+      "date": "2026-07-06",
+      "title": "GLM 5.2 and the coming AI margin collapse",
+      "url": "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/",
+      "source_name": "Hacker News",
+      "tags": [
+        "AI",
+        "Hacker News"
+      ],
+      "summary": "GLM 5.2 and the coming AI margin collapse",
+      "why": "Community-surfaced signal worth scanning for emerging developer sentiment.",
+      "score": 0.8418
+    },
+    {
+      "date": "2026-07-08",
+      "title": "Google Cloud named Leader in the 2026 Gartner® Magic Quadrant™ for AI Infrastructure",
+      "url": "https://cloud.google.com/blog/topics/ai-infrastructure/google-is-a-leader-in-gartner-magic-quadrant-for-ai-infra/",
+      "source_name": "Google Cloud Blog",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Cloud",
+        "Google Cloud",
+        "Cloud Providers"
+      ],
+      "summary": "In the agentic era, AI is evolving from answering questions to reasoning and taking action. Companies who want to lead in this next phase of AI need computing infrastructure that’s designed and optimized for these new requirements, helping them innovate faster, deliver compelling user and customer…",
+      "why": "Relevant to cloud architects weighing platform capabilities, cost, and lock-in.",
+      "score": 0.8365
+    }
+  ]
+}
