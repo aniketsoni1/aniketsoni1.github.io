@@ -1,0 +1,142 @@
+{
+  "generated_at": "2026-07-13T19:49:20.732575+00:00",
+  "post_date": "2026-07-13",
+  "home_region": "New York, NY",
+  "hubs_registered": 14,
+  "events_checked": 12,
+  "counts": {
+    "upcoming": 5,
+    "happening_today": 0,
+    "recent": 2
+  },
+  "events": [
+    {
+      "event_name": "AWS re:Invent 2026",
+      "organizer": "Amazon Web Services",
+      "event_url": "https://reinvent.awsevents.com/",
+      "start_date": "2026-11-30",
+      "end_date": "2026-12-04",
+      "location": "Las Vegas, NV, USA",
+      "event_state": "upcoming",
+      "summary": "AWS's global cloud & AI conference; in 2026 re:Inforce security content merges in.",
+      "relevance_tags": [
+        "cloud",
+        "aws",
+        "ai",
+        "serverless",
+        "data_engineering",
+        "security"
+      ],
+      "source_url": "https://aws.amazon.com/events/reinvent/"
+    },
+    {
+      "event_name": "Microsoft Ignite 2026",
+      "organizer": "Microsoft",
+      "event_url": "https://ignite.microsoft.com/",
+      "start_date": "2026-11-17",
+      "end_date": "2026-11-20",
+      "location": "Moscone Center, San Francisco, CA, USA",
+      "event_state": "upcoming",
+      "summary": "Microsoft's enterprise IT and developer conference spanning Azure, Fabric, and Copilot.",
+      "relevance_tags": [
+        "azure",
+        "enterprise",
+        "ai",
+        "copilot",
+        "cloud"
+      ],
+      "source_url": "https://ignite.microsoft.com/en-US/home"
+    },
+    {
+      "event_name": "Salesforce Dreamforce 2026",
+      "organizer": "Salesforce",
+      "event_url": "https://www.salesforce.com/dreamforce/",
+      "start_date": "2026-09-15",
+      "end_date": "2026-09-17",
+      "location": "Moscone Center, San Francisco, CA, USA",
+      "event_state": "upcoming",
+      "summary": "Salesforce's flagship conference; heavy focus on Agentforce and enterprise AI agents.",
+      "relevance_tags": [
+        "enterprise",
+        "crm",
+        "agentforce",
+        "ai",
+        "salesforce"
+      ],
+      "source_url": "https://www.salesforce.com/dreamforce/"
+    },
+    {
+      "event_name": "GitHub Universe 2026",
+      "organizer": "GitHub",
+      "event_url": "https://githubuniverse.com/",
+      "start_date": "2026-10-28",
+      "end_date": "2026-10-29",
+      "location": "Fort Mason Center, San Francisco, CA, USA",
+      "event_state": "upcoming",
+      "summary": "GitHub's flagship developer event — 'all together now, in the agentic era.'",
+      "relevance_tags": [
+        "developer_tools",
+        "open_source",
+        "ai",
+        "copilot",
+        "github"
+      ],
+      "source_url": "https://githubuniverse.com/"
+    },
+    {
+      "event_name": "KubeCon + CloudNativeCon North America 2026",
+      "organizer": "Cloud Native Computing Foundation (CNCF)",
+      "event_url": "https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/",
+      "start_date": "2026-11-09",
+      "end_date": "2026-11-12",
+      "location": "Salt Lake City, UT, USA",
+      "event_state": "upcoming",
+      "summary": "The premier Kubernetes and cloud-native ecosystem gathering in North America.",
+      "relevance_tags": [
+        "cloud_native",
+        "kubernetes",
+        "open_source",
+        "platform_engineering"
+      ],
+      "source_url": "https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/"
+    },
+    {
+      "event_name": "AWS Summit New York 2026",
+      "organizer": "Amazon Web Services",
+      "event_url": "https://aws.amazon.com/events/summits/new-york/",
+      "start_date": "2026-06-17",
+      "end_date": "2026-06-17",
+      "location": "Javits Center, New York, NY, USA",
+      "event_state": "recent",
+      "summary": "AWS's free NYC summit; 2026 headline theme is agentic AI. (Home-region event.)",
+      "relevance_tags": [
+        "cloud",
+        "aws",
+        "ai",
+        "agentic_ai",
+        "nyc",
+        "data"
+      ],
+      "source_url": "https://aws.amazon.com/events/summits/new-york/"
+    },
+    {
+      "event_name": "Databricks Data + AI Summit 2026",
+      "organizer": "Databricks",
+      "event_url": "https://www.databricks.com/dataaisummit",
+      "start_date": "2026-06-15",
+      "end_date": "2026-06-18",
+      "location": "Moscone Center, San Francisco, CA, USA",
+      "event_state": "recent",
+      "summary": "The largest data + AI conference; lakehouse, Unity Catalog, and GenAI on the data stack.",
+      "relevance_tags": [
+        "data_engineering",
+        "lakehouse",
+        "ai",
+        "spark",
+        "mlops"
+      ],
+      "source_url": "https://www.databricks.com/dataaisummit"
+    }
+  ],
+  "count": 7
+}
