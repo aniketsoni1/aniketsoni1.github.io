@@ -1,0 +1,843 @@
+{
+  "post_date": "2026-07-14",
+  "sources_checked": 45,
+  "count": 45,
+  "items": [
+    {
+      "title": "Anthropic commits $10 million to Canadian AI research",
+      "summary": "Anthropic commits $10 million to Canadian AI research Anthropic",
+      "source_name": "Anthropic",
+      "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB4ejNuaWNhdVA1UlpENzRGMmdNVWJEM3JrbHhiOVd5QW95OXNWRHdyLW5DbmY4d2xtemp3UTNheDZoRzZUSEdnVy05SEJtd1J4MWtPeHlmdGFMUXh4UG9LRA?oc=5",
+      "published_at": "2026-07-14T13:07:50Z",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI",
+        "Research",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.99,
+      "importance_score": 0.8918,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "CBMiYEFVX3lxTFB4ejNuaWNhdVA1UlpENzRGMmdNVWJEM3JrbHhiOVd5QW95OXNWRHdyLW5DbmY4d2xtemp3UTNheDZoRzZUSEdnVy05SEJtd1J4MWtPeHlmdGFMUXh4UG9LRA"
+    },
+    {
+      "title": "Is a Pod the right deployment unit for an AI agent?",
+      "summary": "When we first started building kagent, we didn’t run every agent in its own Kubernetes Pod, Service, and ServiceAccount. Instead, agents were simply executed inside the kagent runtime. It was the simplest architecture possible: one runtime...",
+      "source_name": "CNCF",
+      "source_url": "https://www.cncf.io/blog/2026/07/14/is-a-pod-the-right-deployment-unit-for-an-ai-agent/",
+      "published_at": "2026-07-14T11:20:00Z",
+      "category": "open_source_foundations",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Kubernetes",
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8843,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.cncf.io/?p=170311"
+    },
+    {
+      "title": "Codex starts encrypting sub-agent prompts",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://github.com/openai/codex/issues/28058",
+      "published_at": "2026-07-14T11:21:32Z",
+      "category": "aggregators",
+      "tags": [
+        "AI Agents",
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.8544,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-48905028"
+    },
+    {
+      "title": "How sales teams use ChatGPT Work",
+      "summary": "See how sales teams can use ChatGPT Work to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
+      "published_at": "2026-07-14T00:00:00Z",
+      "category": "ai_model_companies",
+      "tags": [
+        "Data Pipelines",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.99,
+      "importance_score": 0.8371,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex"
+    },
+    {
+      "title": "How data science teams use ChatGPT Work",
+      "summary": "See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+      "published_at": "2026-07-14T00:00:00Z",
+      "category": "ai_model_companies",
+      "tags": [
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.99,
+      "importance_score": 0.8371,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex"
+    },
+    {
+      "title": "AI Engineer World’s Fair 2026: The Runtime Is Where Agent Trust Is Won",
+      "summary": "We spent the week at AI Engineer World's Fair in San Francisco, on stage and on the floor. Here's what we heard, and where we think it lands for anyone building with agents.",
+      "source_name": "Docker Blog",
+      "source_url": "https://www.docker.com/blog/ai-engineer-worlds-fair-2026-the-runtime-is-where-agent-trust-is-won/",
+      "published_at": "2026-07-14T13:00:00Z",
+      "category": "developer_platforms",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Developer Platforms"
+      ],
+      "confidence_score": 0.87,
+      "importance_score": 0.8313,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.docker.com/?p=92236"
+    },
+    {
+      "title": "Japan develops a method to recover up to 90% of lithium from used EV batteries",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://tech.supercarblondie.com/japan-recovers-up-to-90-of-lithium-from-used-ev-batteries/",
+      "published_at": "2026-07-14T02:27:20Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.8173,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-48901569"
+    },
+    {
+      "title": "The git history command",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://lalitm.com/post/git-history/",
+      "published_at": "2026-07-14T00:57:11Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.8111,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-48901010"
+    },
+    {
+      "title": "An Englishwoman who sketched India before photography took hold",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.bbc.com/news/articles/cm2drrv6q54o",
+      "published_at": "2026-07-13T23:12:22Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.6515,
+      "importance_score": 0.8038,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-48900191"
+    },
+    {
+      "title": "Australian energy retailers must provide three hours of free daytime electricity",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://lenergy.com.au/free-daytime-electricity-is-coming-heres-how-it-actually-works/",
+      "published_at": "2026-07-14T04:31:48Z",
+      "category": "aggregators",
+      "tags": [
+        "AI",
+        "Hacker News"
+      ],
+      "confidence_score": 0.6395,
+      "importance_score": 0.7998,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-48902320"
+    },
+    {
+      "title": "Germany set to restrict its Freedom of Information Act",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.dw.com/en/germany-freedom-of-information-act/a-77939695",
+      "published_at": "2026-07-14T11:49:48Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.6255,
+      "importance_score": 0.7952,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-48905290"
+    },
+    {
+      "title": "Empowering India’s next generation of innovators with ATL Saathi",
+      "summary": "Google and AIM launched ATL Saathi, a Gemini-powered AI tool empowering Indian educators in robotics labs.",
+      "source_name": "Google DeepMind",
+      "source_url": "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/",
+      "published_at": "2026-07-13T12:37:28Z",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.97,
+      "importance_score": 0.7897,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/"
+    },
+    {
+      "title": "Operating OpenTelemetry at scale with OpAMP",
+      "summary": "As more organizations move to use OpenTelemetry in production at scale, with multiple Collectors across heterogeneous environments, a new challenge arises: how to remotely manage, configure, and update this agent fleet in a consistent and secure...",
+      "source_name": "CNCF",
+      "source_url": "https://www.cncf.io/blog/2026/07/13/operating-opentelemetry-at-scale-with-opamp/",
+      "published_at": "2026-07-13T11:30:00Z",
+      "category": "open_source_foundations",
+      "tags": [
+        "AI Agents",
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.87,
+      "importance_score": 0.785,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.cncf.io/?p=170305"
+    },
+    {
+      "title": "Operating AI/ML Workloads on Kubernetes: A Headlamp Plugin for Kubeflow",
+      "summary": "Kubernetes has quietly become the default platform for AI and machine learning. Whether you run notebook servers for data scientists, schedule distributed training jobs, tune hyperparameters, or orchestrate multi-step ML pipelines, those workloads increasingly land on a Kubernetes cluster. Kubeflow is one of the most popular ways to assemble that stack, and it does so the Kubernetes-native way: every capability is exposed as a Custom Resource Definition (CRD). That design is…",
+      "source_name": "Kubernetes Blog",
+      "source_url": "https://kubernetes.io/blog/2026/07/13/introducing-headlamp-plugin-for-kubeflow/",
+      "published_at": "2026-07-13T20:00:00Z",
+      "category": "open_source_foundations",
+      "tags": [
+        "AI",
+        "Machine Learning",
+        "Data Pipelines",
+        "ETL",
+        "Kubernetes",
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.92,
+      "importance_score": 0.7804,
+      "source_type": "release_notes",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://kubernetes.io/blog/2026/07/13/introducing-headlamp-plugin-for-kubeflow/"
+    },
+    {
+      "title": "Kubernetes Dashboard to Headlamp: A Step-by-Step Guide",
+      "summary": "1. Before you start: know what is changing Kubernetes Dashboard and Headlamp both show what is running in a cluster, but they work differently. When Headlamp runs on the desktop, it uses your existing kubeconfig to connect to one or more clusters and can be extended with plugins. When Headlamp runs inside a cluster, it uses a Kubernetes ServiceAccount to access the API and follow RBAC rules. Kubernetes Dashboard, in contrast, only runs in-cluster and always relies on service…",
+      "source_name": "Kubernetes Blog",
+      "source_url": "https://kubernetes.io/blog/2026/07/13/kubernetes-dashboard-to-headlamp/",
+      "published_at": "2026-07-13T18:00:00Z",
+      "category": "open_source_foundations",
+      "tags": [
+        "Kubernetes",
+        "APIs",
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.92,
+      "importance_score": 0.7721,
+      "source_type": "release_notes",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://kubernetes.io/blog/2026/07/13/kubernetes-dashboard-to-headlamp/"
+    },
+    {
+      "title": "YouTrackDB is a general-use object-oriented graph database",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://github.com/JetBrains/youtrackdb",
+      "published_at": "2026-07-14T03:39:55Z",
+      "category": "aggregators",
+      "tags": [
+        "Databases",
+        "Hacker News"
+      ],
+      "confidence_score": 0.628,
+      "importance_score": 0.7674,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-48902026"
+    },
+    {
+      "title": "Fundamentals of Wireless Communication (2005)",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://web.stanford.edu/~dntse/wireless_book.html",
+      "published_at": "2026-07-14T02:10:19Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.6305,
+      "importance_score": 0.7673,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-48901454"
+    },
+    {
+      "title": "Codex scraped the ICM website and discovered 2026 Fields Medal winner list",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://phemex.com/news/article/2026-fields-medal-winners-list-leaked-includes-two-peking-university-alumni-92948",
+      "published_at": "2026-07-14T11:30:36Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.614,
+      "importance_score": 0.765,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-48905091"
+    },
+    {
+      "title": "New York Governor Signs First Statewide Data Center Moratorium",
+      "summary": "“We have no choice but to address the challenges created by these massive facilities,” New York governor Kathy Hochul said. The executive order will pause construction for one year.",
+      "source_name": "Wired",
+      "source_url": "https://www.wired.com/story/new-york-governor-signs-first-statewide-data-center-moratorium/",
+      "published_at": "2026-07-14T14:54:41Z",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7592,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "6a217447e33edc84a60662ca"
+    },
+    {
+      "title": "Reflection inks $1B compute deal with Nebius",
+      "summary": "Reflection AI has signed a $1 billion deal to access Nebius's compute. Reflection was founded in 2024 and is developing open source AI technology.",
+      "source_name": "TechCrunch — AI",
+      "source_url": "https://techcrunch.com/2026/07/14/reflection-inks-1b-compute-deal-with-nebius/",
+      "published_at": "2026-07-14T14:37:48Z",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "Open Source",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7581,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://techcrunch.com/?p=3141991"
+    },
+    {
+      "title": "Warren Buffett says he'll donate his entire Berkshire fortune 'one way or another' by 2034",
+      "summary": "Warren Buffett announced a $6 billion summer gift, leaving the Gates Foundation off the list, and said he wants his fortune dispensed by 2034.",
+      "source_name": "Business Insider — Tech",
+      "source_url": "https://www.businessinsider.com/warren-buffett-berkshire-hathaway-stock-philanthropy-foundations-death-gates-foundation-2026-7",
+      "published_at": "2026-07-14T14:27:37Z",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7573,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/warren-buffett-berkshire-hathaway-stock-philanthropy-foundations-death-gates-foundation-2026-7"
+    },
+    {
+      "title": "This map shows which states are the hotspots of the parasitic diarrhea outbreak",
+      "summary": "A map of the US outbreak of cyclosporiasis, which can cause diarrhea, shows Michigan has the most known cases. Lettuce and bagged salad could be the culprits.",
+      "source_name": "Business Insider — Tech",
+      "source_url": "https://www.businessinsider.com/cyclosporiasis-outbreak-map-diarrhea-parasite-what-states-2026-7",
+      "published_at": "2026-07-14T14:26:40Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7573,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/cyclosporiasis-outbreak-map-diarrhea-parasite-what-states-2026-7"
+    },
+    {
+      "title": "The real AI race may no longer be at the frontier",
+      "summary": "Hugging Face CEO Clem Delangue says enterprises increasingly want open models, due to cost, accessibility, and ownership. Do frontier models still matter if most production AI ends up running on open models?",
+      "source_name": "TechCrunch — AI",
+      "source_url": "https://techcrunch.com/2026/07/14/the-real-ai-race-may-no-longer-be-at-the-frontier-open-models-hugging-face/",
+      "published_at": "2026-07-14T14:24:53Z",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "AI Models",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7572,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://techcrunch.com/?p=3142002"
+    },
+    {
+      "title": "New York to enact nation's first statewide moratorium on AI data centers",
+      "summary": "\"Before it goes any further, I need safeguards in place to protect New Yorkers,\" said New York Gov. Kathy Hochul.",
+      "source_name": "Business Insider — Tech",
+      "source_url": "https://www.businessinsider.com/new-york-state-ai-data-center-moratorium-temporary-ban-2026-7",
+      "published_at": "2026-07-14T14:20:51Z",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7569,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/new-york-state-ai-data-center-moratorium-temporary-ban-2026-7"
+    },
+    {
+      "title": "OpenAI Is Showing Kalshi’s World Cup Odds in ChatGPT",
+      "summary": "The partnership, a first of its kind for the artificial intelligence company, will use the prediction market’s data to power some search results about the soccer tournament.",
+      "source_name": "The New York Times — Technology",
+      "source_url": "https://www.nytimes.com/2026/07/13/technology/kalshi-openai-chatgpt-world-cup-odds.html",
+      "published_at": "2026-07-14T14:17:53Z",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7567,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.nytimes.com/2026/07/13/technology/kalshi-openai-chatgpt-world-cup-odds.html"
+    },
+    {
+      "title": "Jamie Dimon says AI already reduced jobs in some areas by 40% — but it's not making JPM dramatically cheaper to run",
+      "summary": "Jamie Dimon told analysts that though AI will lead to huge efficiency gains — and job cuts — it won't shrink operating costs.",
+      "source_name": "Business Insider — Tech",
+      "source_url": "https://www.businessinsider.com/jamie-dimon-jpmorgan-earnings-ai-jobs-token-spending-2026-7",
+      "published_at": "2026-07-14T14:18:58Z",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7567,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/jamie-dimon-jpmorgan-earnings-ai-jobs-token-spending-2026-7"
+    },
+    {
+      "title": "NVIDIA Ising Decoding Cuts Color Code Logical Error Rates by Over 300X",
+      "summary": "Useful quantum computers will require fault tolerant logical operations. Researchers are actively exploring many different quantum error correction (QEC) codes...",
+      "source_name": "NVIDIA Developer Blog",
+      "source_url": "https://developer.nvidia.com/blog/nvidia-ising-decoding-cuts-color-code-logical-error-rates-by-over-300x/",
+      "published_at": "2026-07-13T19:00:00Z",
+      "category": "mlops",
+      "tags": [
+        "GPUs",
+        "Research",
+        "Mlops"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.7563,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://developer.nvidia.com/blog/?p=119816"
+    },
+    {
+      "title": "Read IBM CEO's letter to investors warning about its poor results: 'This quarter we faltered'",
+      "summary": "CEO Arvind Krishna said in his letter to investors that IBM had underestimated the \"magnitude\" of clients changing spending habits.",
+      "source_name": "Business Insider — Tech",
+      "source_url": "https://www.businessinsider.com/read-letter-ibm-ceo-sent-to-investors-about-q2-results-2026-7",
+      "published_at": "2026-07-14T14:12:42Z",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7563,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/read-letter-ibm-ceo-sent-to-investors-about-q2-results-2026-7"
+    },
+    {
+      "title": "Why fans are paying $600 for a ticket to see The Odyssey",
+      "summary": "The average \"Odyssey\" resale ticket on eBay sold for $165, according to a Business Insider analysis.",
+      "source_name": "Business Insider — Tech",
+      "source_url": "https://www.businessinsider.com/the-odyssey-premiere-sparks-global-travel-and-ticket-frenzy-2026-7",
+      "published_at": "2026-07-14T14:11:54Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7563,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/the-odyssey-premiere-sparks-global-travel-and-ticket-frenzy-2026-7"
+    },
+    {
+      "title": "I'm 27 and befriended an 81-year-old woman on the train. It made me rethink talking to strangers.",
+      "summary": "Coming home from a work trip in Spain, an 81-year-old woman named Maria approached me on the train. Ever since, we've hung out every single week.",
+      "source_name": "Business Insider — Tech",
+      "source_url": "https://www.businessinsider.com/made-intergenerational-friend-on-train-lessons-learned-2026-7",
+      "published_at": "2026-07-14T14:09:13Z",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7561,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/made-intergenerational-friend-on-train-lessons-learned-2026-7"
+    },
+    {
+      "title": "Spotify expands its AI push with a ChatGPT-like music assistant",
+      "summary": "Spotify is rolling out a new AI-powered conversational feature that lets Premium subscribers chat with the app to discover music, podcasts, audiobooks, and more.",
+      "source_name": "TechCrunch — AI",
+      "source_url": "https://techcrunch.com/2026/07/14/spotify-expands-its-ai-push-with-a-chatgpt-like-music-assistant/",
+      "published_at": "2026-07-14T14:06:47Z",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7559,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://techcrunch.com/?p=3141990"
+    },
+    {
+      "title": "Superhuman’s new auto-draft feature almost makes me like AI replies",
+      "summary": "Superhuman’s latest AI email drafting feature is its most convincing yet, generating replies that often required little to no editing in our testing.",
+      "source_name": "TechCrunch — AI",
+      "source_url": "https://techcrunch.com/2026/07/14/superhumans-new-auto-draft-feature-almost-makes-me-like-ai-replies/",
+      "published_at": "2026-07-14T14:00:00Z",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7554,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://techcrunch.com/?p=3139498"
+    },
+    {
+      "title": "RabbitMQ Flaws Could Leak OAuth Secrets and Expose Cross-Tenant Queue Metadata",
+      "summary": "Cybersecurity researchers have disclosed details of two access control-related flaws impacting the RabbitMQ message broker service that could allow attackers to leak OAuth client secrets, expose enterprise messaging infrastructure to takeover risks, and bypass tenant boundaries. Miggo's security team, which discovered and reported the flaws, said one \"leaks the broker's confidential OAuth",
+      "source_name": "The Hacker News",
+      "source_url": "https://thehackernews.com/2026/07/rabbitmq-flaws-could-leak-oauth-secrets.html",
+      "published_at": "2026-07-14T13:48:07Z",
+      "category": "cybersecurity",
+      "tags": [
+        "AI",
+        "AWS",
+        "Security",
+        "Research",
+        "Cybersecurity"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7546,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://thehackernews.com/2026/07/rabbitmq-flaws-could-leak-oauth-secrets.html"
+    },
+    {
+      "title": "6 easy and delicious Ina Garten dishes you need to make this summer",
+      "summary": "Ina Garten has so many delicious recipes that are perfect for summer, from her Greek panzanella salad to her bake-free mocha chocolate icebox cake.",
+      "source_name": "Business Insider — Tech",
+      "source_url": "https://www.businessinsider.com/best-ina-garten-recipes-for-summer",
+      "published_at": "2026-07-14T13:41:59Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7542,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/best-ina-garten-recipes-for-summer"
+    },
+    {
+      "title": "From ML Predictions to Informed Diagnostic Assistance Using the Toulmin Model of Argumentation",
+      "summary": "arXiv:2607.09664v1 Announce Type: new Abstract: To provide a structured and interpretable assessment, we decompose the image-based diagnosis into components following the Toulmin model of argumentation. This model consists of a claim, grounds, warrant, qualifier, rebuttal, and backing. Consider a claim generated by a machine learning (ML) model for retinal diagnosis. Rather than accepting this claim at face value, one could either apply explainable AI (XAI) methods or adopt…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2607.09664",
+      "published_at": "2026-07-14T04:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "Machine Learning",
+        "AI Models",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7538,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2607.09664v1"
+    },
+    {
+      "title": "Format Sensitivity Index: Token-Controlled Prompt Wrapper Robustness and Schema Compliance in LLM Benchmarking",
+      "summary": "arXiv:2607.09665v1 Announce Type: new Abstract: Prompt wrappers often differ only in formatting, yet they can change model scores enough to flip leaderboard conclusions. We study this variance under a token-controlled protocol and introduce two complementary metrics: the Format Sensitivity Index (FSI), the accuracy range induced by wrapper choice, and the Parseability Sensitivity Index (PSI), the corresponding range in answer parseability. Across 140,000 OpenRouter…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2607.09665",
+      "published_at": "2026-07-14T04:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "LLMs",
+        "AI Models",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7538,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2607.09665v1"
+    },
+    {
+      "title": "Faithful, Not Corrective: Message-Format Effects in Multi-Hop Agent Relays Are Tier-Dependent",
+      "summary": "arXiv:2607.09678v1 Announce Type: new Abstract: When LLM agents hand off information to one another, does the message format matter? Two literatures disagree: format-optimization work reports that structured messages cut cost without hurting accuracy, while format-restriction work finds that imposing structure degrades generation -- and neither measures what happens when a message traverses multiple hops, where copy fidelity, not one-shot generation, dominates. We introduce…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2607.09678",
+      "published_at": "2026-07-14T04:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "LLMs",
+        "AI Agents",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7538,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2607.09678v1"
+    },
+    {
+      "title": "Boltzmann MapReduce: A Partition-Function Reduce for Forkable Sandboxes",
+      "summary": "arXiv:2607.09689v1 Announce Type: new Abstract: To leading order under local asymptotic normality (LAN), the confidence density a worker emits over a chunk of size $n$ is a Gibbs--Boltzmann measure $\\exp\\{-\\beta E(\\theta)\\}$ whose inverse temperature is the sample size, $\\beta=n$. Three consequences are exact in the Gaussian/linear case and first-order otherwise: disjoint chunks carry independent Boltzmann factors, so the MapReduce \\emph{reduce}, read literally, is a…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2607.09689",
+      "published_at": "2026-07-14T04:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7538,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2607.09689v1"
+    },
+    {
+      "title": "Interpreting Latent CoT Reasoning as Dynamical Systems",
+      "summary": "arXiv:2607.09698v1 Announce Type: new Abstract: Recent latent reasoning methods, such as CODI and COCONUT, face a fundamental interpretability problem: they maintain multiple superimposed candidate traces in the hidden space at each step, unlike explicit- CoT, which follows a single transparent reasoning trace. Existing mechanistic methods show compression, shortcuts, and superposition without explaining how reasoning evolves across latent steps. To address this gap, we…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2607.09698",
+      "published_at": "2026-07-14T04:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7538,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2607.09698v1"
+    },
+    {
+      "title": "YUKTI: From Natural-Language Situations to Robust, Verifiable Decisions An Uncertainty-Typed Proposition IR, Assumption-Robust Pareto Frontiers, and a Regret Certificate",
+      "summary": "arXiv:2607.09706v1 Announce Type: new Abstract: Language models turn a worded situation into a numeric plan, and the dominant pipelines (NL4Opt, OptiMUS, ORLM, OR-LLM-Agent) commit to a single objective and point-valued coefficients, then solve once. For decisions that allocate real budget, effort, or clinical attention, that confidence is the failure mode: every objectified number is an assumption, and a plan optimal only if the guesses are exactly right is fragile --…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2607.09706",
+      "published_at": "2026-07-14T04:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "LLMs",
+        "AI Agents",
+        "Data Pipelines",
+        "AI Models",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7538,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2607.09706v1"
+    },
+    {
+      "title": "GES-TSP: Graph Edge Sparsification for TSP",
+      "summary": "arXiv:2607.09708v1 Announce Type: new Abstract: Solving large-scale instances of the Traveling Salesman Problem (TSP) exactly is computationally expensive. Researchers often employ graph sparsification methods to improve computational efficiency. Traditional sparsification methods typically rely on fixed heuristics and fail to fully exploit instance-specific structural information. In this paper, we propose Graph Edge Sparsification (GES), a learning-based sparsification…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2607.09708",
+      "published_at": "2026-07-14T04:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7538,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2607.09708v1"
+    },
+    {
+      "title": "The Verifier is the Curriculum: Execution-Gated Self-Distillation for Cross-Family Game Generation",
+      "summary": "arXiv:2607.09709v1 Announce Type: new Abstract: Post-training a code generator against a learned judge can optimize proxy features that raise the score without improving the artifact. We study the opposite signal: a deterministic, judge-free, ungameable filter -- whether a generated project launches cleanly under a headless engine (strict-launch). Under this gate, rejection-sampling self-distillation compounds out-of-family generalization. On GameCraft-Bench (mapping a…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2607.09709",
+      "published_at": "2026-07-14T04:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7538,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2607.09709v1"
+    },
+    {
+      "title": "Closed-Loop Control with Rule-Aligned Small Language Models and Multi-Agent Self-Correction",
+      "summary": "arXiv:2607.09713v1 Announce Type: new Abstract: A key step toward autonomous industrial operation is the ability to create and reconfigure control policies from natural-language requirement specifications, with minimal or no manual redesign. In this setting, policy generation by AI agents can be a credible path when paired with a plant-aware validator (e.g., a digital twin) that can check generated candidate actions before execution. However, practical deployment is…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2607.09713",
+      "published_at": "2026-07-14T04:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "AI Models",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7538,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2607.09713v1"
+    },
+    {
+      "title": "Feedback-Coupled Memory Systems in Continuous Time",
+      "summary": "arXiv:2607.09714v1 Announce Type: new Abstract: The Feedback-Coupled Memory Systems (FCMS) architecture formalizes closed-loop coordination through four abstract operators, two of which - the agent update operator $f_i$ and the environmental update operator $\\Psi$ - are left axiomatically undefined in the original framework. To address this, $f_i$ is defined by Mechanism-Based Intelligence (MBI), where agents update locally through a decentralized price mechanism and…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2607.09714",
+      "published_at": "2026-07-14T04:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "AI Agents",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7538,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2607.09714v1"
+    },
+    {
+      "title": "AGM-like Paraconsistent Partial Meet Abductive Expansion Operation",
+      "summary": "arXiv:2607.09729v1 Announce Type: new Abstract: In his 1996 doctoral thesis, Maurice Pagnucco created the first AGM-like abductive expansion operation. Taking his operation as a basis, as well as a taxonomy -- inspired by Atocha Aliseda -- responsible for highlighting and formalizing the main components of abductive reasoning, the main aim of this paper is to present a new paraconsistent AGM-like abductive expansion operation -- capable of assimilating contradictory…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2607.09729",
+      "published_at": "2026-07-14T04:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7538,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2607.09729v1"
+    }
+  ]
+}
