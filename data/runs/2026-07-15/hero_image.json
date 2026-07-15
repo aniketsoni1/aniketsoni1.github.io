@@ -1,0 +1,22 @@
+{
+  "post_date": "2026-07-15",
+  "provider": null,
+  "model": null,
+  "attempts": [
+    {
+      "provider": "gemini",
+      "model": "gemini-2.5-flash-image",
+      "ok": false,
+      "reason": "HTTP 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota ex"
+    },
+    {
+      "provider": "huggingface",
+      "model": "black-forest-labs/FLUX.1-schnell",
+      "ok": false,
+      "reason": "skipped: HUGGINGFACE_API_KEY not set"
+    }
+  ],
+  "prompt": "Abstract minimal digital artwork, dark near-black background (#050505) with luminous teal (#009e9e) accents, geometric circuit-board lines and nodes evoking Databases, Open Source Foundations, Hacker News, Cloud, Security, subtle grid, clean negative space, flat vector style, wide 16:9 composition. No text, no letters, no numbers, no logos, no people, no faces.",
+  "path": null,
+  "alt": "Abstract teal-on-dark circuit artwork for today's Daily Tech Signal"
+}
