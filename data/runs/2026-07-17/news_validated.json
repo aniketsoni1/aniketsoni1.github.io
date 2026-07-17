@@ -1,0 +1,849 @@
+{
+  "post_date": "2026-07-17",
+  "sources_checked": 45,
+  "count": 45,
+  "items": [
+    {
+      "title": "Flipkart and LitmusChaos at KubeCon + CloudNativeCon India 2026: A recap",
+      "summary": "KubeCon + CloudNativeCon India 2026 brought the cloud native community to Mumbai on June 18-19. For LitmusChaos, this was not just another conference. It was one of our most significant events to date. We walked away...",
+      "source_name": "CNCF",
+      "source_url": "https://www.cncf.io/blog/2026/07/17/flipkart-and-litmuschaos-at-kubecon-cloudnativecon-india-2026-a-recap/",
+      "published_at": "2026-07-17T11:00:00Z",
+      "category": "open_source_foundations",
+      "tags": [
+        "AI",
+        "Cloud",
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8837,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.cncf.io/?p=170541"
+    },
+    {
+      "title": "A scorecard for the AI age",
+      "summary": "Sarah Friar, CFO of OpenaAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute.",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/a-scorecard-for-the-ai-age",
+      "published_at": "2026-07-17T10:00:00Z",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.99,
+      "importance_score": 0.8795,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/index/a-scorecard-for-the-ai-age"
+    },
+    {
+      "title": "Evidence of inconsistencies in evaluation process and selection of winners",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.kaggle.com/competitions/kaggle-measuring-agi/discussion/724918#3498423",
+      "published_at": "2026-07-17T11:30:00Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.8557,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-48946010"
+    },
+    {
+      "title": "AWS: Inaccurate Estimated Billing Data – $1.7 billion",
+      "summary": "URL already posted: https://health.aws.amazon.com/health/status I've got an estimated bill for $1.7 BILLION over this month. Normal usage is < $5. Obvs have created an urgent AWS support ticket. Anyone else seeing something like this? Update: Reddit link…",
+      "source_name": "Hacker News",
+      "source_url": "https://news.ycombinator.com/item?id=48945241",
+      "published_at": "2026-07-17T09:42:05Z",
+      "category": "aggregators",
+      "tags": [
+        "AWS",
+        "Hacker News"
+      ],
+      "confidence_score": 0.6465,
+      "importance_score": 0.8395,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-48945241"
+    },
+    {
+      "title": "Simplify Sales: Unifying Data in Slack",
+      "summary": "Many sales teams struggle with fragmented tools that force sellers to waste time hunting for information across endless tabs instead of actually selling. Agentforce for Sales addresses these workflow inefficiencies by integrating autonomous AI directly into Slack. Discover how these AI agents proactively scan the web, emails, and calls to identify qualified leads and supercharge […]",
+      "source_name": "Salesforce News",
+      "source_url": "https://www.salesforce.com/news/stories/video/simplify-sales-unifying-data-in-slack/",
+      "published_at": "2026-07-16T21:30:00Z",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.8274,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.salesforce.com/?post_type=sf_video&p=94301"
+    },
+    {
+      "title": "How Has Roman Concrete Lasted for Millennia? 1,900-Year-Old Latrine Offers Clues",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.smithsonianmag.com/smart-news/how-has-roman-concrete-lasted-for-millennia-a-1900-year-old-latrine-offers-new-clues-about-the-materials-impressive-durability-180989115/",
+      "published_at": "2026-07-17T03:48:26Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.6515,
+      "importance_score": 0.8237,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-48943142"
+    },
+    {
+      "title": "Pebble Mega Update – July 2026",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://repebble.com/blog/pebble-mega-update-july-2026",
+      "published_at": "2026-07-17T03:53:38Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.648,
+      "importance_score": 0.819,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-48943174"
+    },
+    {
+      "title": "EEG shows brain can simultaneous encode two speech streams",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003876",
+      "published_at": "2026-07-17T05:51:10Z",
+      "category": "aggregators",
+      "tags": [
+        "AI",
+        "Hacker News"
+      ],
+      "confidence_score": 0.6435,
+      "importance_score": 0.816,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-48943745"
+    },
+    {
+      "title": "Apple targets dozens of OpenAI employees with legal letters",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166",
+      "published_at": "2026-07-17T12:02:39Z",
+      "category": "aggregators",
+      "tags": [
+        "AI",
+        "Hacker News"
+      ],
+      "confidence_score": 0.631,
+      "importance_score": 0.8105,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-48946303"
+    },
+    {
+      "title": "Why teens deserve access to safe AI",
+      "summary": "Learn how OpenAI is making ChatGPT safer for teens with age-appropriate protections, learning tools, parental controls, and expert partnerships.",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/why-teens-deserve-access-safe-ai",
+      "published_at": "2026-07-16T16:00:00Z",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.99,
+      "importance_score": 0.8045,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/index/why-teens-deserve-access-safe-ai"
+    },
+    {
+      "title": "Connect more of your apps to Search",
+      "summary": "Connected apps rendering",
+      "source_name": "Google AI (The Keyword)",
+      "source_url": "https://blog.google/products-and-platforms/products/search/connected-apps/",
+      "published_at": "2026-07-16T16:00:00Z",
+      "category": "ai_model_companies",
+      "tags": [
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.8045,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://blog.google/products-and-platforms/products/search/connected-apps/"
+    },
+    {
+      "title": "Create, edit and star in videos with two Google Vids updates",
+      "summary": "Text \"Gemini Omni and Personal Avatars in Google Vids\" surrounded by various images",
+      "source_name": "Google AI (The Keyword)",
+      "source_url": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars/",
+      "published_at": "2026-07-16T16:00:00Z",
+      "category": "ai_model_companies",
+      "tags": [
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.8045,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars/"
+    },
+    {
+      "title": "CNCF Strengthens Partnership with Broadcom as a Platinum Member to Advance AI-Ready Cloud Native Infrastructure",
+      "summary": "Collaboration with CNCF reflects Broadcom’s continued investment in open source innovation, cloud native resilience and the technologies powering the next generation of AI workloads Key Highlights SAN FRANCISCO, California — July 16, 2026 — The Cloud...",
+      "source_name": "CNCF",
+      "source_url": "https://www.cncf.io/announcements/2026/07/16/cncf-strengthens-partnership-with-broadcom-as-a-platinum-member-to-to-advance-ai-ready-cloud-native-infrastructure/",
+      "published_at": "2026-07-16T16:00:00Z",
+      "category": "open_source_foundations",
+      "tags": [
+        "AI",
+        "Cloud",
+        "Open Source",
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8045,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.cncf.io/?p=170964"
+    },
+    {
+      "title": "LM Studio Bionic: the AI agent for open models",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://lmstudio.ai/blog/introducing-lm-studio-bionic",
+      "published_at": "2026-07-16T20:18:15Z",
+      "category": "aggregators",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "AI Models",
+        "Hacker News"
+      ],
+      "confidence_score": 0.697,
+      "importance_score": 0.7924,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-48939662"
+    },
+    {
+      "title": "$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6",
+      "published_at": "2026-07-16T20:03:23Z",
+      "category": "aggregators",
+      "tags": [
+        "AI",
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7914,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-48939524"
+    },
+    {
+      "title": "Running a self-hosted LLM in Kubernetes with vLLM",
+      "summary": "Running large language model (LLM) workloads in-house is one of several patterns teams adopt alongside managed API services. Managed API services are convenient and well suited to many workloads. Self-hosting is a complementary option that some...",
+      "source_name": "CNCF",
+      "source_url": "https://www.cncf.io/blog/2026/07/16/running-a-self-hosted-llm-in-kubernetes-with-vllm/",
+      "published_at": "2026-07-16T11:00:00Z",
+      "category": "open_source_foundations",
+      "tags": [
+        "LLMs",
+        "Kubernetes",
+        "APIs",
+        "AI Models",
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.87,
+      "importance_score": 0.7837,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.cncf.io/?p=170538"
+    },
+    {
+      "title": "Our approach to bioresilience",
+      "summary": "Google DeepMind and Isomorphic Labs are sharing our joint approach to bioresilience and AI models.",
+      "source_name": "Google DeepMind",
+      "source_url": "https://deepmind.google/blog/our-approach-to-bioresilience/",
+      "published_at": "2026-07-16T09:30:42Z",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI",
+        "AI Models",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.97,
+      "importance_score": 0.7775,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://deepmind.google/blog/our-approach-to-bioresilience/"
+    },
+    {
+      "title": "Decoy Font",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.mixfont.com/experiments/decoy-font",
+      "published_at": "2026-07-16T16:18:21Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7758,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-48936584"
+    },
+    {
+      "title": "Microsoft Comic Chat is now open source",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/",
+      "published_at": "2026-07-16T16:06:27Z",
+      "category": "aggregators",
+      "tags": [
+        "Open Source",
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7749,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-48936426"
+    },
+    {
+      "title": "Q&A: How Capcom Brought Path Tracing to RE ENGINE Across PRAGMATA and Resident Evil Requiem",
+      "summary": "Capcom's RE ENGINE team set out to bring path tracing into two shipping titles at once, Resident Evil Requiem and PRAGMATA, each with a different visual...",
+      "source_name": "NVIDIA Developer Blog",
+      "source_url": "https://developer.nvidia.com/blog/qa-how-capcom-brought-path-tracing-to-re-engine-across-pragmata-and-resident-evil-requiem/",
+      "published_at": "2026-07-16T22:59:09Z",
+      "category": "mlops",
+      "tags": [
+        "Mlops"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.7736,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://developer.nvidia.com/blog/?p=119888"
+    },
+    {
+      "title": "Kimi K3: Open Frontier Intelligence",
+      "summary": "https://www.kimi.com/en Kimi K3 Intelligence, Performance & Price Analysis: https://artificialanalysis.ai/models/kimi-k3",
+      "source_name": "Hacker News",
+      "source_url": "https://www.kimi.com/blog/kimi-k3",
+      "published_at": "2026-07-16T14:46:05Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7693,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-48935342"
+    },
+    {
+      "title": "Companies laying off staff this year include Meta, Amazon, and Verizon — see the list",
+      "summary": "Layoffs have hit over 35 companies in 2026, including Meta, Walmart, and Verizon, as AI and economic conditions reshape the business landscape.",
+      "source_name": "Business Insider — Tech",
+      "source_url": "https://www.businessinsider.com/recent-company-layoffs-laying-off-workers-2026",
+      "published_at": "2026-07-17T14:32:28Z",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7584,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/recent-company-layoffs-laying-off-workers-2026"
+    },
+    {
+      "title": "What smart people are saying about China's hot new Kimi K3 AI model",
+      "summary": "Chinese startup Moonshot AI released Kimi K3, a powerful new model that has the tech world talking. Here's what big names are saying.",
+      "source_name": "Business Insider — Tech",
+      "source_url": "https://www.businessinsider.com/smart-people-saying-chinas-hot-new-kimi-k3-ai-model-2026-7",
+      "published_at": "2026-07-17T14:26:24Z",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "AI Models",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.758,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/smart-people-saying-chinas-hot-new-kimi-k3-ai-model-2026-7"
+    },
+    {
+      "title": "I'm a dietitian on the Mediterranean diet. Here are 7 of my favorite recipes for an easy dinner.",
+      "summary": "I don't like to cook and am a dietitian on the Mediterranean diet. I rely on these quick and easy dinner recipes full of whole grains and veggies.",
+      "source_name": "Business Insider — Tech",
+      "source_url": "https://www.businessinsider.com/easy-mediterranean-diet-dinner-recipes-dietitian-meal-ideas-2026-7",
+      "published_at": "2026-07-17T14:24:09Z",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7578,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/easy-mediterranean-diet-dinner-recipes-dietitian-meal-ideas-2026-7"
+    },
+    {
+      "title": "Roger Summit, Who Invented an Early Online Search Service, Dies at 95",
+      "summary": "A research scientist at Lockheed, he came up with the idea for a computer system that would search scientific and technical literature almost instantaneously.",
+      "source_name": "The New York Times — Technology",
+      "source_url": "https://www.nytimes.com/2026/07/17/technology/roger-summit-dead.html",
+      "published_at": "2026-07-17T14:13:29Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Research",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7571,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.nytimes.com/2026/07/17/technology/roger-summit-dead.html"
+    },
+    {
+      "title": "Google is a Leader and positioned furthest in Vision and highest in Execution in the 2026 Gartner® Magic Quadrant™ for Conversational AI Platforms",
+      "summary": "For the second consecutive year, Google has been named a Leader in the Gartner® Magic Quadrant™ for Conversational AI Platforms. Google received the furthest and highest in positioning on the \"Vision\" and \"Execution\" axes and is now ranked #1 in three out of four Critical Capabilities Use Cases. We believe this recognition reflects our continued investment in frontier AI research, enterprise infrastructure, and helping customers move AI from experimentation into production…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/products/ai-machine-learning/google-is-a-leader-in-the-gartner-magic-quadrant-for-conversational-ai/",
+      "published_at": "2026-07-16T19:00:00Z",
+      "category": "cloud_providers",
+      "tags": [
+        "AI",
+        "Research",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.757,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/products/ai-machine-learning/google-is-a-leader-in-the-gartner-magic-quadrant-for-conversational-ai/"
+    },
+    {
+      "title": "I tried on linen pants at Gap, Old Navy, and Banana Republic. There was only one pair I wouldn't consider buying.",
+      "summary": "I tried on pairs of linen pants at Old Navy, Gap, and Banana Republic. I compared them based on fit, comfortability, fabric quality, and price.",
+      "source_name": "Business Insider — Tech",
+      "source_url": "https://www.businessinsider.com/review-trying-on-pants-old-navy-banana-republic-gap-2026-7",
+      "published_at": "2026-07-17T14:07:01Z",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7566,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/review-trying-on-pants-old-navy-banana-republic-gap-2026-7"
+    },
+    {
+      "title": "I sold my dream home and moved into an apartment less than half the size. It was tough, but I'm happy in a smaller space.",
+      "summary": "I bought my dream home, but decided to sell it just 2 years later after a divorce. Now, I rent a smaller apartment, which has been surprisingly great.",
+      "source_name": "Business Insider — Tech",
+      "source_url": "https://www.businessinsider.com/sold-dream-house-moved-into-smaller-apartment-happier-renting-2026-7",
+      "published_at": "2026-07-17T14:03:01Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7564,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/sold-dream-house-moved-into-smaller-apartment-happier-renting-2026-7"
+    },
+    {
+      "title": "I visited Washington, DC, for the first time. The capital felt like one big construction site.",
+      "summary": "Washington, DC, has undergone extensive renovations under Trump's second term, with fences and cranes surrounding the White House and other structures.",
+      "source_name": "Business Insider — Tech",
+      "source_url": "https://www.businessinsider.com/what-washington-dc-looks-like-construction-trump-second-term-2026-7",
+      "published_at": "2026-07-17T14:03:01Z",
+      "category": "mainstream_press",
+      "tags": [
+        "APIs",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7564,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/what-washington-dc-looks-like-construction-trump-second-term-2026-7"
+    },
+    {
+      "title": "Torvalds challenged the haters to fork Linux. Someone said 'hold my beer'",
+      "summary": "More a rewrite really, and of a very early version: Linux 0.11 – in Rust",
+      "source_name": "The Register",
+      "source_url": "https://www.theregister.com/os-platforms/2026/07/17/torvalds-challenged-the-haters-to-fork-linux-someone-said-hold-my-beer/5274275",
+      "published_at": "2026-07-17T14:02:00Z",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7563,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.theregister.com/a/5274275"
+    },
+    {
+      "title": "Fake Coding Tests Deliver OtterCookie-Aligned Malware Hidden in SVG Flag Images",
+      "summary": "North Korean threat actors linked to the Contagious Interview campaign have been observed employing steganography in SVG image files to conceal malicious payloads as part of a campaign using fake job postings and coding challenges. \"Any user who ran the project ended up with a four-stage payload aligned with OTTERCOOKIE: a browser credential and crypto wallet stealer, a file stealer, a",
+      "source_name": "The Hacker News",
+      "source_url": "https://thehackernews.com/2026/07/north-korea-linked-hackers-hide.html",
+      "published_at": "2026-07-17T13:48:56Z",
+      "category": "cybersecurity",
+      "tags": [
+        "AI",
+        "Cybersecurity"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7554,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://thehackernews.com/2026/07/north-korea-linked-hackers-hide.html"
+    },
+    {
+      "title": "Conspiracy Theorists Think Trump’s Speech Paves the Path to the Insurrection Act",
+      "summary": "Election deniers have spent years promoting the idea that the 2020 election was stolen. They believe Donald Trump’s speech finally proves them right.",
+      "source_name": "Wired",
+      "source_url": "https://www.wired.com/story/conspiracy-theorists-think-trumps-speech-paves-the-path-to-the-insurrection-act/",
+      "published_at": "2026-07-17T13:48:38Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7554,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "6a57a6b3cc4c269d6ca89c64"
+    },
+    {
+      "title": "Intelligent Three Level Learning Architecture for Autonomous UAV Swarms in Search and Rescue",
+      "summary": "arXiv:2607.14093v1 Announce Type: new Abstract: This paper presents a novel three level hierarchical learning architecture for autonomous UAV swarms performing search and rescue operations. Unlike conventional approaches that apply a single learning paradigm across all hierarchy levels, the proposed architecture integrates three qualitatively different learning mechanisms corresponding to the biological hierarchy of reflexes, skills, and reasoning such as Hebbian…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2607.14093",
+      "published_at": "2026-07-17T04:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7545,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2607.14093v1"
+    },
+    {
+      "title": "HG-RAG: Hierarchy-Guided Retrieval-Augmented Generation for Structured Knowledge Graphs",
+      "summary": "arXiv:2607.14095v1 Announce Type: new Abstract: Retrieval Augmented Generation (RAG) has proven to be a widely successful process at improving the quality of outputs from a Large Language Model (LLM) for wider context. However, RAG systems typically retrieve context from flat document stores, which struggles when queries require hierarchical or relational reasoning across structured knowledge. I present HG-RAG (Hierarchy-Guided RAG), a framework that performs graph-traversal…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2607.14095",
+      "published_at": "2026-07-17T04:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "LLMs",
+        "AI Models",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7545,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2607.14095v1"
+    },
+    {
+      "title": "IMEX Interaction-Based Model Explanation",
+      "summary": "arXiv:2607.14096v1 Announce Type: new Abstract: In predictive modeling, the ability to explain why a model produces a given target prediction has become increasingly important [5, 10]. Black-box models do not provide a transparent description of the internal mechanisms that generate the prediction, making even accurate predictions difficult to interpret and validate. In critical contexts, predictive accuracy alone is not a sufficient validation metric if the reasons…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2607.14096",
+      "published_at": "2026-07-17T04:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "AI Models",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7545,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2607.14096v1"
+    },
+    {
+      "title": "RegNetAgents: A Multi-Agent Framework for Cross-Network Regulatory Driver Identification in Cancer Genomics",
+      "summary": "arXiv:2607.14097v1 Announce Type: new Abstract: We introduce RegNetAgents, an AI-oriented multi-agent framework for structured, query-driven regulatory candidate identification across heterogeneous gene regulatory networks. The system enables unified analysis of bulk tumor and single-cell-derived ARACNe networks by integrating TCGA-derived cancer networks with large-scale single-cell regulatory networks from the GREmLN project. For a given focal gene, the framework performs…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2607.14097",
+      "published_at": "2026-07-17T04:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7545,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2607.14097v1"
+    },
+    {
+      "title": "DialogueVPR: Towards Conversational Visual Place Recognition",
+      "summary": "arXiv:2607.14115v1 Announce Type: new Abstract: Inspired by how humans communicate spatial information, language-guided geo-localization has gained significant traction for its intuitive and practical value. Despite this progress, most methods still rely on a static, one-shot retrieval paradigm, which fails to handle the ambiguity and incompleteness inherent in real-world natural language descriptions. We propose a paradigm shift to reasoning retrieval and introduce Dialogue…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2607.14115",
+      "published_at": "2026-07-17T04:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7545,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2607.14115v1"
+    },
+    {
+      "title": "Interpretable Language Model for Closed-Loop Type 1 Diabetes Control",
+      "summary": "arXiv:2607.14126v1 Announce Type: new Abstract: Type 1 Diabetes (T1D) is a chronic, life-threatening autoimmune condition characterized by the complete destruction of insulin-producing pancreatic beta cells. While Artificial Pancreas Systems (APS) powered by Reinforcement Learning (RL) have shown promise in automating insulin delivery, their ``black-box'' nature makes it hard for patients and doctors to trust them fully. This paper presents LLM-T1D, a promising approach that…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2607.14126",
+      "published_at": "2026-07-17T04:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "LLMs",
+        "AI Models",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7545,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2607.14126v1"
+    },
+    {
+      "title": "Human AI Construction of Bayesian Networks for Operational Decision Support -- A Virtual Survey Approach",
+      "summary": "arXiv:2607.14141v1 Announce Type: new Abstract: Bayesian Belief Networks (BBNs) are powerful tools for decision-making under uncertainty. However, building their structures and estimating parameters are difficult. Currently, researchers must choose between relying on expert judgement or using large datasets to learn the structure and parameters of the network. We propose a new methodology using Large Language Models to bridge the gap between expert opinion and data-driven…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2607.14141",
+      "published_at": "2026-07-17T04:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "LLMs",
+        "AI Models",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7545,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2607.14141v1"
+    },
+    {
+      "title": "Capability from Access Structure, Not Scale: Lower Bounds and Pre-Registered Tests for Hybrid Sequence Models",
+      "summary": "arXiv:2607.14144v1 Announce Type: new Abstract: The Platonic Representation Hypothesis (PRH) holds that as models scale, representations of heterogeneous networks converge toward a shared model of reality. We propose its sequel and boundary, the Capability Convergence Hypothesis (CCH): under a fixed per-token inference budget, representational convergence does not entail capability convergence. Capability instead converges toward a class, the access-complete hybrid: any…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2607.14144",
+      "published_at": "2026-07-17T04:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "AI Models",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7545,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2607.14144v1"
+    },
+    {
+      "title": "ToolAnchor: Anchoring Counterfactual Context to Boost Agentic Tool-use Capability",
+      "summary": "arXiv:2607.14145v1 Announce Type: new Abstract: Tool-augmented large language model agents excel at long-horizon tasks, yet they are typically post-trained on fixed toolsets. When tasks demand new tools, these agents struggle to incorporate them effectively, and retraining from scratch is often impractical. We identify the core obstacle in such toolset expansion problem as behavioral inertia: the tendency of agents to fall back on familiar tools and established reasoning…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2607.14145",
+      "published_at": "2026-07-17T04:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "LLMs",
+        "AI Agents",
+        "AI Models",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7545,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2607.14145v1"
+    },
+    {
+      "title": "Enhancing Small Language Models Reasoning through Knowledge Graph Grounding",
+      "summary": "arXiv:2607.14149v1 Announce Type: new Abstract: Although large language models (LLMs) have set benchmarks for zero-shot reasoning, their deployment remains cost-prohibitive and environmentally taxing. Small Language Models (SLMs) offer a sustainable alternative, but prone to errors, on tasks requiring complex, multi-hop logical grounding. We investigate a neuro-symbolic agentic framework to enhance the reasoning capabilities of SLMs, specifically Gemma 3 (1B, 4B) and Llama…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2607.14149",
+      "published_at": "2026-07-17T04:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "LLMs",
+        "AI Agents",
+        "AI Models",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7545,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2607.14149v1"
+    },
+    {
+      "title": "Orchestrating Power Grid Studies with Multi-Agent AI and MCP Servers",
+      "summary": "arXiv:2607.14158v1 Announce Type: new Abstract: This position paper explores how Agentic AI and Model Context Protocol (MCP) can support power-grid studies in a Transmission System Operator (TSO) context. We focus on integrating Large Language Models with numerical simulation tools, structured workflows, and human supervision. We identify key industrial requirements for agent assisted grid studies and introduce pypowsybl-mcp, an MCP-based interface exposing selected…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2607.14158",
+      "published_at": "2026-07-17T04:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "LLMs",
+        "AI Agents",
+        "AI Models",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7545,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2607.14158v1"
+    },
+    {
+      "title": "MemoHarness: Agent Harnesses That Learn from Experience",
+      "summary": "arXiv:2607.14159v1 Announce Type: new Abstract: An agent harness is the external control layer that turns a base LLM into an executable agent by managing context, tools, orchestration, memory, decoding, and output handling. While harness design strongly affects agent behavior, most automatic improvement methods optimize narrower artifacts such as prompts, pipelines, or workflows, and deployed agents usually reuse a single global harness for all cases. We introduce…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2607.14159",
+      "published_at": "2026-07-17T04:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "LLMs",
+        "AI Agents",
+        "Data Pipelines",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7545,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2607.14159v1"
+    },
+    {
+      "title": "Position: Explainability Research Must Prioritize Foundations over Ad-hoc Methods",
+      "summary": "arXiv:2607.14123v1 Announce Type: new Abstract: Despite the proliferation of Explainable AI (XAI) techniques -- from feature attributions to sparse autoencoders -- explanations rarely influence real-world workflows. In practice, they are often generated and discarded without guiding meaningful action. This gap reflects foundational shortcomings: research has not yet established methodologies for integrating explanations into end-to-end, human-in-the-loop systems. This…",
+      "source_name": "arXiv cs.LG (Machine Learning)",
+      "source_url": "https://arxiv.org/abs/2607.14123",
+      "published_at": "2026-07-17T04:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7545,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2607.14123v1"
+    }
+  ]
+}
