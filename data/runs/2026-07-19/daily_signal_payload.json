@@ -1,0 +1,261 @@
+{
+  "post_date": "2026-07-19",
+  "display_date": "July 19, 2026",
+  "title": "The Daily Tech Signal — July 19, 2026",
+  "edition": "standard",
+  "opening_summary": "Today's Daily Tech Signal tracks 8 source-reviewed stories spanning AI, Hacker News. The highlights below focus on what changed and why it matters for data and AI engineering teams, followed by the event radar and this day in computing history.",
+  "news_items": [
+    {
+      "title": "Qwen3.8 is launching and going open-weight soon",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://twitter.com/Alibaba_Qwen/status/2078759124914098291",
+      "published_at": "2026-07-19T08:44:57Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.8456,
+      "source_type": "aggregator",
+      "ai_generated_summary": "Qwen3.8 is launching and going open-weight soon",
+      "why_it_matters": "Community-surfaced signal worth scanning for emerging developer sentiment.",
+      "guid": "hn-48966120"
+    },
+    {
+      "title": "AI Mania Is Eviscerating Global Decision-Making",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3",
+      "published_at": "2026-07-19T01:29:19Z",
+      "category": "aggregators",
+      "tags": [
+        "AI",
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.8154,
+      "source_type": "aggregator",
+      "ai_generated_summary": "AI Mania Is Eviscerating Global Decision-Making",
+      "why_it_matters": "Community-surfaced signal worth scanning for emerging developer sentiment.",
+      "guid": "hn-48964185"
+    },
+    {
+      "title": "Better and Cheaper Than IPTV",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://github.com/stupside/castor",
+      "published_at": "2026-07-19T00:59:55Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.6765,
+      "importance_score": 0.8133,
+      "source_type": "aggregator",
+      "ai_generated_summary": "Better and Cheaper Than IPTV",
+      "why_it_matters": "Community-surfaced signal worth scanning for emerging developer sentiment.",
+      "guid": "hn-48964015"
+    },
+    {
+      "title": "Transcribe.cpp",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://workshop.cjpais.com/projects/transcribe-cpp",
+      "published_at": "2026-07-19T00:38:26Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.8118,
+      "source_type": "aggregator",
+      "ai_generated_summary": "Transcribe.cpp",
+      "why_it_matters": "Community-surfaced signal worth scanning for emerging developer sentiment.",
+      "guid": "hn-48963879"
+    },
+    {
+      "title": "Codex Resets",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://codex-resets.com/",
+      "published_at": "2026-07-18T23:24:26Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.665,
+      "importance_score": 0.8067,
+      "source_type": "aggregator",
+      "ai_generated_summary": "Codex Resets",
+      "why_it_matters": "Community-surfaced signal worth scanning for emerging developer sentiment.",
+      "guid": "hn-48963465"
+    },
+    {
+      "title": "NYC may require landlords and realtors to disclose the use of AI in listings",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/",
+      "published_at": "2026-07-18T22:13:39Z",
+      "category": "aggregators",
+      "tags": [
+        "AI",
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.8018,
+      "source_type": "aggregator",
+      "ai_generated_summary": "NYC may require landlords and realtors to disclose the use of AI in listings",
+      "why_it_matters": "Community-surfaced signal worth scanning for emerging developer sentiment.",
+      "guid": "hn-48962983"
+    },
+    {
+      "title": "Hardcore IndieWeb: Run your own website 100% independently for only $0.01/day",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.neatnik.net/hardcore-indieweb",
+      "published_at": "2026-07-18T21:45:12Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.6495,
+      "importance_score": 0.7985,
+      "source_type": "aggregator",
+      "ai_generated_summary": "Hardcore IndieWeb: Run your own website 100% independently for only $0.01/day",
+      "why_it_matters": "Community-surfaced signal worth scanning for emerging developer sentiment.",
+      "guid": "hn-48962758"
+    },
+    {
+      "title": "What I learned selling 2,500 MIDI recorders: Hardware is not so hard",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard",
+      "published_at": "2026-07-19T10:34:58Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.626,
+      "importance_score": 0.7932,
+      "source_type": "aggregator",
+      "ai_generated_summary": "What I learned selling 2,500 MIDI recorders: Hardware is not so hard",
+      "why_it_matters": "Community-surfaced signal worth scanning for emerging developer sentiment.",
+      "guid": "hn-48966713"
+    }
+  ],
+  "events": [
+    {
+      "event_name": "AWS re:Invent 2026",
+      "organizer": "Amazon Web Services",
+      "event_url": "https://reinvent.awsevents.com/",
+      "start_date": "2026-11-30",
+      "end_date": "2026-12-04",
+      "location": "Las Vegas, NV, USA",
+      "event_state": "upcoming",
+      "summary": "AWS's global cloud & AI conference; in 2026 re:Inforce security content merges in.",
+      "relevance_tags": [
+        "cloud",
+        "aws",
+        "ai",
+        "serverless",
+        "data_engineering",
+        "security"
+      ],
+      "source_url": "https://aws.amazon.com/events/reinvent/"
+    },
+    {
+      "event_name": "Microsoft Ignite 2026",
+      "organizer": "Microsoft",
+      "event_url": "https://ignite.microsoft.com/",
+      "start_date": "2026-11-17",
+      "end_date": "2026-11-20",
+      "location": "Moscone Center, San Francisco, CA, USA",
+      "event_state": "upcoming",
+      "summary": "Microsoft's enterprise IT and developer conference spanning Azure, Fabric, and Copilot.",
+      "relevance_tags": [
+        "azure",
+        "enterprise",
+        "ai",
+        "copilot",
+        "cloud"
+      ],
+      "source_url": "https://ignite.microsoft.com/en-US/home"
+    },
+    {
+      "event_name": "Salesforce Dreamforce 2026",
+      "organizer": "Salesforce",
+      "event_url": "https://www.salesforce.com/dreamforce/",
+      "start_date": "2026-09-15",
+      "end_date": "2026-09-17",
+      "location": "Moscone Center, San Francisco, CA, USA",
+      "event_state": "upcoming",
+      "summary": "Salesforce's flagship conference; heavy focus on Agentforce and enterprise AI agents.",
+      "relevance_tags": [
+        "enterprise",
+        "crm",
+        "agentforce",
+        "ai",
+        "salesforce"
+      ],
+      "source_url": "https://www.salesforce.com/dreamforce/"
+    },
+    {
+      "event_name": "GitHub Universe 2026",
+      "organizer": "GitHub",
+      "event_url": "https://githubuniverse.com/",
+      "start_date": "2026-10-28",
+      "end_date": "2026-10-29",
+      "location": "Fort Mason Center, San Francisco, CA, USA",
+      "event_state": "upcoming",
+      "summary": "GitHub's flagship developer event — 'all together now, in the agentic era.'",
+      "relevance_tags": [
+        "developer_tools",
+        "open_source",
+        "ai",
+        "copilot",
+        "github"
+      ],
+      "source_url": "https://githubuniverse.com/"
+    },
+    {
+      "event_name": "KubeCon + CloudNativeCon North America 2026",
+      "organizer": "Cloud Native Computing Foundation (CNCF)",
+      "event_url": "https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/",
+      "start_date": "2026-11-09",
+      "end_date": "2026-11-12",
+      "location": "Salt Lake City, UT, USA",
+      "event_state": "upcoming",
+      "summary": "The premier Kubernetes and cloud-native ecosystem gathering in North America.",
+      "relevance_tags": [
+        "cloud_native",
+        "kubernetes",
+        "open_source",
+        "platform_engineering"
+      ],
+      "source_url": "https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/"
+    }
+  ],
+  "history_item": {
+    "date": "07-20",
+    "title": "Apollo 11 and its Guidance Computer land on the Moon",
+    "year": 1969,
+    "description": "On 20 July 1969 the Apollo Guidance Computer — a marvel of real-time embedded software — helped land humans on the Moon.",
+    "category": "hardware",
+    "source_url": "https://en.wikipedia.org/wiki/Apollo_Guidance_Computer",
+    "confidence_score": 0.99,
+    "importance": 0.88
+  },
+  "takeaway": "The throughline today is the same one that keeps showing up: capability is arriving faster than the data and platform discipline needed to operate it well. The teams that win won't be the ones that adopt the most tools, but the ones that keep their pipelines observable, their data governed, and their systems boring where it counts.",
+  "categories": [
+    "AI",
+    "Data Engineering",
+    "Technology"
+  ],
+  "tags": [
+    "Hacker News",
+    "AI"
+  ],
+  "disclaimer": "This daily brief is AI-assisted and source-reviewed for public technology awareness.",
+  "generated_at": "2026-07-19T14:37:14.614851Z"
+}
