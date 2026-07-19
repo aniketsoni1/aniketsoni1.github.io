@@ -1,0 +1,135 @@
+{
+  "post_date": "2026-07-19",
+  "week_start": "2026-07-13",
+  "week_label": "July 13–19, 2026",
+  "theme": "AI",
+  "related_themes": [
+    "Ai Model Companies",
+    "Open Source Foundations",
+    "AI Agents",
+    "Cloud",
+    "AI Models"
+  ],
+  "tag_counts": [
+    {
+      "tag": "AI",
+      "count": 40
+    },
+    {
+      "tag": "Ai Model Companies",
+      "count": 15
+    },
+    {
+      "tag": "Open Source Foundations",
+      "count": 14
+    },
+    {
+      "tag": "AI Agents",
+      "count": 11
+    },
+    {
+      "tag": "Cloud",
+      "count": 7
+    },
+    {
+      "tag": "AI Models",
+      "count": 7
+    }
+  ],
+  "stories_reviewed": 89,
+  "runs_used": [
+    "2026-07-13",
+    "2026-07-14",
+    "2026-07-15",
+    "2026-07-16",
+    "2026-07-17",
+    "2026-07-18",
+    "2026-07-19"
+  ],
+  "sources_count": 14,
+  "citations": [
+    {
+      "date": "2026-07-14",
+      "title": "Anthropic commits $10 million to Canadian AI research",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB4ejNuaWNhdVA1UlpENzRGMmdNVWJEM3JrbHhiOVd5QW95OXNWRHdyLW5DbmY4d2xtemp3UTNheDZoRzZUSEdnVy05SEJtd1J4MWtPeHlmdGFMUXh4UG9LRA?oc=5",
+      "source_name": "Anthropic",
+      "tags": [
+        "AI",
+        "Research",
+        "Ai Model Companies"
+      ],
+      "summary": "Anthropic commits $10 million to Canadian AI research Anthropic",
+      "why": "Signals how frontier-model capabilities and access may shift for AI engineers and product teams.",
+      "score": 0.8918
+    },
+    {
+      "date": "2026-07-14",
+      "title": "Is a Pod the right deployment unit for an AI agent?",
+      "url": "https://www.cncf.io/blog/2026/07/14/is-a-pod-the-right-deployment-unit-for-an-ai-agent/",
+      "source_name": "CNCF",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Kubernetes",
+        "Open Source Foundations"
+      ],
+      "summary": "When we first started building kagent, we didn’t run every agent in its own Kubernetes Pod, Service, and ServiceAccount. Instead, agents were simply executed inside the kagent runtime. It was the simplest architecture possible: one runtime...",
+      "why": "Matters for platform teams tracking the open-source dependencies under their stack.",
+      "score": 0.8843
+    },
+    {
+      "date": "2026-07-17",
+      "title": "Flipkart and LitmusChaos at KubeCon + CloudNativeCon India 2026: A recap",
+      "url": "https://www.cncf.io/blog/2026/07/17/flipkart-and-litmuschaos-at-kubecon-cloudnativecon-india-2026-a-recap/",
+      "source_name": "CNCF",
+      "tags": [
+        "AI",
+        "Cloud",
+        "Open Source Foundations"
+      ],
+      "summary": "KubeCon + CloudNativeCon India 2026 brought the cloud native community to Mumbai on June 18-19. For LitmusChaos, this was not just another conference. It was one of our most significant events to date. We walked away...",
+      "why": "Matters for platform teams tracking the open-source dependencies under their stack.",
+      "score": 0.8837
+    },
+    {
+      "date": "2026-07-17",
+      "title": "A scorecard for the AI age",
+      "url": "https://openai.com/index/a-scorecard-for-the-ai-age",
+      "source_name": "OpenAI",
+      "tags": [
+        "AI",
+        "Ai Model Companies"
+      ],
+      "summary": "Sarah Friar, CFO of OpenaAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute.",
+      "why": "Signals how frontier-model capabilities and access may shift for AI engineers and product teams.",
+      "score": 0.8795
+    },
+    {
+      "date": "2026-07-16",
+      "title": "Our approach to bioresilience",
+      "url": "https://deepmind.google/blog/our-approach-to-bioresilience/",
+      "source_name": "Google DeepMind",
+      "tags": [
+        "AI",
+        "AI Models",
+        "Ai Model Companies"
+      ],
+      "summary": "Google DeepMind and Isomorphic Labs are sharing our joint approach to bioresilience and AI models.",
+      "why": "Signals how frontier-model capabilities and access may shift for AI engineers and product teams.",
+      "score": 0.876
+    },
+    {
+      "date": "2026-07-18",
+      "title": "Why do AI company logos look like buttholes? (2025)",
+      "url": "https://velvetshark.com/ai-company-logos-that-look-like-buttholes",
+      "source_name": "Hacker News",
+      "tags": [
+        "AI",
+        "Hacker News"
+      ],
+      "summary": "Why do AI company logos look like buttholes? (2025)",
+      "why": "Community-surfaced signal worth scanning for emerging developer sentiment.",
+      "score": 0.8557
+    }
+  ]
+}
