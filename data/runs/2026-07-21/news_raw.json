@@ -1,0 +1,830 @@
+{
+  "generated_at": "2026-07-21T15:19:42.127000+00:00",
+  "post_date": "2026-07-21",
+  "sources_checked": 45,
+  "candidates": 45,
+  "items": [
+    {
+      "title": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
+      "summary": "We’re introducing new Gemini models, including Gemini 3.6 Flash, 3.5 Flash-Lite and 3.5 Flash Cyber.",
+      "source_name": "Google DeepMind",
+      "source_url": "https://deepmind.google/blog/introducing-gemini-36-flash-35-flash-lite-and-35-flash-cyber/",
+      "published_at": "2026-07-21T15:16:30+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI Models",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.99,
+      "importance_score": 0.8998,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://deepmind.google/blog/introducing-gemini-36-flash-35-flash-lite-and-35-flash-cyber/"
+    },
+    {
+      "title": "Platform engineering for the agentic enterprise: Managing applications, resources, and AI agents",
+      "summary": "Platform engineering is evolving Platform engineering has become one of the defining disciplines of the cloud native era. As organizations embraced Kubernetes, microservices, GitOps, and distributed architectures, the complexity of building and operating software grew beyond...",
+      "source_name": "CNCF",
+      "source_url": "https://www.cncf.io/blog/2026/07/21/platform-engineering-for-the-agentic-enterprise-managing-applications-resources-and-ai-agents/",
+      "published_at": "2026-07-21T11:00:00+00:00",
+      "category": "open_source_foundations",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Kubernetes",
+        "Cloud",
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.882,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.cncf.io/?p=170560"
+    },
+    {
+      "title": "Why your agent needs access to your documentation",
+      "summary": "What 1,192 agent conversations taught us about knowledge base search A few months ago we shipped an agent inside our own product. It lives in our web app and lets users ask questions about their deployment,...",
+      "source_name": "CNCF",
+      "source_url": "https://www.cncf.io/blog/2026/07/21/why-your-agent-needs-access-to-your-documentation/",
+      "published_at": "2026-07-21T11:00:00+00:00",
+      "category": "open_source_foundations",
+      "tags": [
+        "AI Agents",
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.882,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.cncf.io/?p=170925"
+    },
+    {
+      "title": "Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://qwen.ai/blog?id=qwen-image-3.0",
+      "published_at": "2026-07-21T08:44:23+00:00",
+      "category": "aggregators",
+      "tags": [
+        "AI",
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.8425,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-48989701"
+    },
+    {
+      "title": "Built for Vera Rubin, NVIDIA Spectrum-6 Arrives in Gigascale AI Factories",
+      "summary": "AI has entered the gigascale era. The world’s most advanced AI factories are bringing together hundreds of thousands of GPUs and CPUs to train frontier models, power agentic AI and generate intelligence at unprecedented scale. At this level, networking becomes a critical computing power multiplier in driving token generation. Marking a networking milestone, NVIDIA Spectrum-6 […]",
+      "source_name": "NVIDIA Blog",
+      "source_url": "https://blogs.nvidia.com/blog/nvidia-spectrum-six-arrives-in-gigascale-ai-factories/",
+      "published_at": "2026-07-21T15:00:20+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "GPUs",
+        "AI Models",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8387,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://blogs.nvidia.com/?p=96644"
+    },
+    {
+      "title": "Now in preview: Find and fix software vulnerabilities with CodeMender",
+      "summary": "As adversarial AI threats accelerate attacks on code, security teams must counter them with machine-speed defenses that can automate code remediation and fight AI with AI. CodeMender is our managed code security agent, and starting today, we're bringing its code scanning and remediation capabilities directly to you in preview. CodeMender offers access to our generally available models via Gemini Enterprise Agent Platform , or it can be deployed as a core component of AI…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/products/identity-security/find-and-fix-software-vulnerabilities-with-codemender/",
+      "published_at": "2026-07-21T15:00:00+00:00",
+      "category": "cloud_providers",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Security",
+        "AI Models",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.8386,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/products/identity-security/find-and-fix-software-vulnerabilities-with-codemender/"
+    },
+    {
+      "title": "NVIDIA Vera CPU: Olympus Cores Built for Maximum Single-Thread Performance in Agentic AI",
+      "summary": "Agentic AI shifts more of the critical execution path onto the CPU. Agents operate in sandboxes to execute code, invoke tools, retrieve context, interact with...",
+      "source_name": "NVIDIA Developer Blog",
+      "source_url": "https://developer.nvidia.com/blog/inside-nvidia-vera-cpu-olympus-cores-built-for-maximum-single-threaded-performance-in-agentic-ai/",
+      "published_at": "2026-07-21T15:00:00+00:00",
+      "category": "mlops",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "GPUs",
+        "Mlops"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8386,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://developer.nvidia.com/blog/?p=120182"
+    },
+    {
+      "title": "Incremental – A library for incremental computations",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://github.com/janestreet/incremental",
+      "published_at": "2026-07-21T03:50:53+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.6965,
+      "importance_score": 0.8222,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-48987822"
+    },
+    {
+      "title": "New US homeownership measure puts people first",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.minneapolisfed.org/article/2026/new-homeownership-measure-puts-people-first",
+      "published_at": "2026-07-21T12:03:14+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.631,
+      "importance_score": 0.8089,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-48991139"
+    },
+    {
+      "title": "Apply for Anthropic’s AI for Science rare disease research grants",
+      "summary": "Apply for Anthropic’s AI for Science rare disease research grants Anthropic",
+      "source_name": "Anthropic",
+      "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1STEpkV0VLajlBMFFERkROS2RUVTBjUXJseDctQWhpdFZ2dXRyd0paRTRneTRKMU5XdzBaSjVZeUpiOGQxM3liVzVDNGNUT1NRc1ViMjJqX3ZWYTJBejNPUUZNZXhZa0dkaGk0?oc=5",
+      "published_at": "2026-07-20T17:11:25+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI",
+        "Research",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.99,
+      "importance_score": 0.8078,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "CBMia0FVX3lxTE1STEpkV0VLajlBMFFERkROS2RUVTBjUXJseDctQWhpdFZ2dXRyd0paRTRneTRKMU5XdzBaSjVZeUpiOGQxM3liVzVDNGNUT1NRc1ViMjJqX3ZWYTJBejNPUUZNZXhZa0dkaGk0"
+    },
+    {
+      "title": "Show HN: Immersive Gaussian Splat tour of grace cathedral, San Francisco",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://vincentwoo.com/3d/grace_cathedral/",
+      "published_at": "2026-07-20T20:10:44+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.664,
+      "importance_score": 0.7902,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-48984254"
+    },
+    {
+      "title": "ArgoCon Japan 2026: Meeting the Maintainers, enterprise insights, and the road to Argo CD 3.5",
+      "summary": "A special half-day ArgoCon Japan (1:30pm – 6:30pm) will be held July 28, 2026 in Yokohama, Japan as a colocated event with KubeCon + CloudNativeCon. This is a chance to hear from and meet both end...",
+      "source_name": "CNCF",
+      "source_url": "https://www.cncf.io/blog/2026/07/20/argocon-japan-2026-meeting-the-maintainers-enterprise-insights-and-the-road-to-argo-cd-3-5/",
+      "published_at": "2026-07-20T12:34:00+00:00",
+      "category": "open_source_foundations",
+      "tags": [
+        "AI",
+        "Cloud",
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.87,
+      "importance_score": 0.7885,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.cncf.io/?p=171037"
+    },
+    {
+      "title": "Human mathematicians are being outcounterexampled",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/",
+      "published_at": "2026-07-20T19:03:37+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7856,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-48983382"
+    },
+    {
+      "title": "Nativ: Run frontier open models locally on your Mac",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://blaizzy.github.io/nativ/",
+      "published_at": "2026-07-20T18:16:08+00:00",
+      "category": "aggregators",
+      "tags": [
+        "AI Models",
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7823,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-48982681"
+    },
+    {
+      "title": "Why goodput matters more than throughput for LLM serving",
+      "summary": "When we benchmark an LLM serving setup, the number almost everyone reaches for first is throughput: how many requests per second the system can push through. It is easy to measure, easy to compare, and it...",
+      "source_name": "CNCF",
+      "source_url": "https://www.cncf.io/blog/2026/07/20/why-goodput-matters-more-than-throughput-for-llm-serving/",
+      "published_at": "2026-07-20T11:00:00+00:00",
+      "category": "open_source_foundations",
+      "tags": [
+        "LLMs",
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.87,
+      "importance_score": 0.782,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.cncf.io/?p=170550"
+    },
+    {
+      "title": "Agent swarms and the new model economics",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://cursor.com/blog/agent-swarm-model-economics",
+      "published_at": "2026-07-20T18:06:13+00:00",
+      "category": "aggregators",
+      "tags": [
+        "AI Agents",
+        "AI Models",
+        "Hacker News"
+      ],
+      "confidence_score": 0.6735,
+      "importance_score": 0.7816,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-48982535"
+    },
+    {
+      "title": "Kimi Work",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.kimi.com/products/kimi-work",
+      "published_at": "2026-07-20T17:13:23+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7779,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-48981703"
+    },
+    {
+      "title": "Safety and alignment in an era of long-horizon models",
+      "summary": "OpenAI shares lessons from deploying long-running AI models, highlighting new safety risks, observed failures, and improved safeguards through iterative deployment.",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/safety-alignment-long-horizon-models",
+      "published_at": "2026-07-20T10:00:00+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI",
+        "AI Models",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.97,
+      "importance_score": 0.7778,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/index/safety-alignment-long-horizon-models"
+    },
+    {
+      "title": "Jelly UI: Soft-body physics for native HTML form controls",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://jelly-ui.com/",
+      "published_at": "2026-07-20T17:07:39+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7775,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-48981620"
+    },
+    {
+      "title": "Grabette: an open system to record robot-manipulation data",
+      "summary": "",
+      "source_name": "Hugging Face",
+      "source_url": "https://huggingface.co/blog/grabette",
+      "published_at": "2026-07-21T00:00:00+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.9,
+      "importance_score": 0.7762,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://huggingface.co/blog/grabette"
+    },
+    {
+      "title": "I Stopped “Creating Content”",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://refactoringenglish.com/blog/why-i-stopped-creating-content/",
+      "published_at": "2026-07-20T15:47:28+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.6725,
+      "importance_score": 0.7719,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-48980520"
+    },
+    {
+      "title": "China’s open-weights AI strategy is winning",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/",
+      "published_at": "2026-07-20T14:21:47+00:00",
+      "category": "aggregators",
+      "tags": [
+        "AI",
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.766,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-48979269"
+    },
+    {
+      "title": "I wrote an bash enumerator because I was sick of xargs",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://numerlab.org/2025/07/20/bashumerate-enumerator/",
+      "published_at": "2026-07-20T20:12:19+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.6385,
+      "importance_score": 0.7615,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-48984270"
+    },
+    {
+      "title": "I've been a bartender for over a decade. Here are 10 things I wish customers would stop doing.",
+      "summary": "I've spent years working at bars. There are frustrating mistakes customers make that I wish they'd avoid, like waving cash in my face or not tipping.",
+      "source_name": "Business Insider — Tech",
+      "source_url": "https://www.businessinsider.com/bar-things-not-to-do-ordering-drinks-mistakes-bartender-tips-2026-7",
+      "published_at": "2026-07-21T15:16:02+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7597,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/bar-things-not-to-do-ordering-drinks-mistakes-bartender-tips-2026-7"
+    },
+    {
+      "title": "Nvidia shows off Vera Rubin platform for tokenmaxxing",
+      "summary": "If your AI Factory sells tokens, why not optimize token emission?",
+      "source_name": "The Register",
+      "source_url": "https://www.theregister.com/systems/2026/07/21/nvidia-shows-off-vera-rubin-platform-for-tokenmaxxing/5275316",
+      "published_at": "2026-07-21T15:00:00+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "GPUs",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7586,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.theregister.com/a/5275316"
+    },
+    {
+      "title": "Google Releases Three New Gemini A.I. Models",
+      "summary": "The models include one that is the company’s most powerful and another that is fine-tuned for cybersecurity, as Google competes with rivals like OpenAI and Anthropic.",
+      "source_name": "The New York Times — Technology",
+      "source_url": "https://www.nytimes.com/2026/07/21/technology/google-ai-cybersecurity-gemini.html",
+      "published_at": "2026-07-21T15:00:08+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Security",
+        "AI Models",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7586,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.nytimes.com/2026/07/21/technology/google-ai-cybersecurity-gemini.html"
+    },
+    {
+      "title": "The Light Flip Is the Stylish Dumb Flip Phone of Your Dreams",
+      "summary": "A flip phone with 5G, USB-C, a headphone jack, and a removable battery? Say it ain’t so.",
+      "source_name": "Wired",
+      "source_url": "https://www.wired.com/story/light-flip-is-the-modern-stylish-dumb-flip-phone-of-your-luddite-dreams/",
+      "published_at": "2026-07-21T15:00:00+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7586,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "6a58d15f4ba0e9871f34bcd6"
+    },
+    {
+      "title": "Nvidia Wants to Own Every Chip Inside AI Data Centers",
+      "summary": "Nvidia’s Vera Rubin platform combines CPUs and GPUs into a single system, reflecting the company’s growing ambition to power every layer of AI infrastructure.",
+      "source_name": "Wired",
+      "source_url": "https://www.wired.com/story/nvidia-wants-to-own-every-chip-inside-an-ai-data-center/",
+      "published_at": "2026-07-21T15:00:00+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "GPUs",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7586,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "6a5e8206ee636eaa1806d386"
+    },
+    {
+      "title": "Google doubles down on cheaper, faster AI — but says Gemini 3.5 Pro still isn't ready",
+      "summary": "Google unveiled Gemini 3.6 Flash, 3.5 Flash Lite, and Flash Cyber as it focuses on bringing down AI costs, but competitors have taken the frontier.",
+      "source_name": "Business Insider — Tech",
+      "source_url": "https://www.businessinsider.com/google-gemini-35-pro-flash-cyber-lite-speed-token-price-2026-7",
+      "published_at": "2026-07-21T15:00:02+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7586,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/google-gemini-35-pro-flash-cyber-lite-speed-token-price-2026-7"
+    },
+    {
+      "title": "Critical SharePoint RCE CVE-2026-50522 Under Active Exploitation After Public PoC",
+      "summary": "A third SharePoint Server flaw patched by Microsoft as part of its Patch Tuesday update for July 2026 has come under active exploitation, per watchTowr. The vulnerability in question is CVE-2026-50522 (CVSS score: 9.8), a critical deserialization of untrusted data in Microsoft Office SharePoint that could allow an unauthorized attacker to execute code over a network. Microsoft credited DEVCORE",
+      "source_name": "The Hacker News",
+      "source_url": "https://thehackernews.com/2026/07/critical-sharepoint-rce-cve-2026-50522.html",
+      "published_at": "2026-07-21T14:57:51+00:00",
+      "category": "cybersecurity",
+      "tags": [
+        "Security",
+        "Cybersecurity"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7585,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://thehackernews.com/2026/07/critical-sharepoint-rce-cve-2026-50522.html"
+    },
+    {
+      "title": "I spent over $700 dining at 3 Gordon Ramsay restaurants in Atlantic City. The best meal wasn't the most expensive.",
+      "summary": "I dined at all three Gordon Ramsay restaurants in Atlantic City and ranked them on food, experience, and value.",
+      "source_name": "Business Insider — Tech",
+      "source_url": "https://www.businessinsider.com/review-gordon-ramsay-steak-pub-hells-kitchen-atlantic-city-ranked-2025-8",
+      "published_at": "2026-07-21T14:48:59+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7579,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/review-gordon-ramsay-steak-pub-hells-kitchen-atlantic-city-ranked-2025-8"
+    },
+    {
+      "title": "Intel plans layoffs within its data center group",
+      "summary": "An Intel spokesperson said the cuts are part of a broader effort to become \"more focused and efficient.\"",
+      "source_name": "Business Insider — Tech",
+      "source_url": "https://www.businessinsider.com/intel-layoffs-data-center-group-2026-7",
+      "published_at": "2026-07-21T14:20:59+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7559,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/intel-layoffs-data-center-group-2026-7"
+    },
+    {
+      "title": "Windows 11 Start menu changes trickle into Beta, movable taskbar still MIA",
+      "summary": "Users asked for flexibility, but a leaner OS for older PCs might matter more as hardware prices soar",
+      "source_name": "The Register",
+      "source_url": "https://www.theregister.com/os-platforms/2026/07/21/windows-11-start-menu-changes-trickle-into-beta-movable-taskbar-still-mia/5275549",
+      "published_at": "2026-07-21T14:15:00+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7555,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.theregister.com/a/5275549"
+    },
+    {
+      "title": "Ukraine's arms makers say they need to figure out how to constantly update their weapons — without slowing output",
+      "summary": "Weapons makers must keep updating their gear before it's obsolete, but they have to do it without sacrificing the mass production modern wars demand.",
+      "source_name": "Business Insider — Tech",
+      "source_url": "https://www.businessinsider.com/ukraine-arms-makers-need-find-balance-between-changes-and-scale-2026-7",
+      "published_at": "2026-07-21T14:13:26+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7554,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/ukraine-arms-makers-need-find-balance-between-changes-and-scale-2026-7"
+    },
+    {
+      "title": "ESPN is cutting jobs again. Here's what the network's chairman told staff.",
+      "summary": "ESPN is laying off some staffers after a round of cuts in mid-April. Read the full memo from Chairman Jimmy Pitaro.",
+      "source_name": "Business Insider — Tech",
+      "source_url": "https://www.businessinsider.com/espn-layoffs-read-the-memo-jimmy-pitaro-nfl-network-tv-2026-7",
+      "published_at": "2026-07-21T14:11:16+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7552,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/espn-layoffs-read-the-memo-jimmy-pitaro-nfl-network-tv-2026-7"
+    },
+    {
+      "title": "Qilin Ransomware Attackers Exploit PAN-OS Authentication Bypass for Initial Access",
+      "summary": "Threat actors have been observed exploiting a now-patched high-severity Palo Alto Networks PAN-OS vulnerability as an entry point to deploy Qilin (aka Agenda) ransomware on victim environments. Arctic Wolf Labs said it investigated multiple intrusions in June 2026 that began with the exploitation of CVE-2026-0257 (CVSS score: 7.8), an authentication bypass flaw affecting the portal and gateway",
+      "source_name": "The Hacker News",
+      "source_url": "https://thehackernews.com/2026/07/qilin-ransomware-attackers-exploit-pan.html",
+      "published_at": "2026-07-21T14:04:57+00:00",
+      "category": "cybersecurity",
+      "tags": [
+        "AI",
+        "Security",
+        "Cybersecurity"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7548,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://thehackernews.com/2026/07/qilin-ransomware-attackers-exploit-pan.html"
+    },
+    {
+      "title": "One map shows the highest-paying job in every state outside doctors and nurses",
+      "summary": "Many medical professionals get paid well on average. Business Insider looked at what other jobs pay a lot among those with at least 1,000 employees.",
+      "source_name": "Business Insider — Tech",
+      "source_url": "https://www.businessinsider.com/map-highest-paying-job-every-us-state-outside-doctors-nurses-2026-7",
+      "published_at": "2026-07-21T14:04:33+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7548,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/map-highest-paying-job-every-us-state-outside-doctors-nurses-2026-7"
+    },
+    {
+      "title": "Injectable Outlet in the Body Powers Bioelectric Implants",
+      "summary": "The new device can help doctors recharge implants in the brain with a needle",
+      "source_name": "IEEE Spectrum",
+      "source_url": "https://spectrum.ieee.org/injectable-bioelectronic-implant-power-outlet",
+      "published_at": "2026-07-21T14:00:01+00:00",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.7545,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://spectrum.ieee.org/injectable-bioelectronic-implant-power-outlet"
+    },
+    {
+      "title": "I've been a surrogate twice, and helping someone else build their family gives me overwhelming joy. Here's what the process is like.",
+      "summary": "Katherine Reinhart, a mom of 3, became a two-time surrogate after hearing about her friend's infertility struggles. Here, she describes the process.",
+      "source_name": "Business Insider — Tech",
+      "source_url": "https://www.businessinsider.com/surrogate-mom-what-surrogacy-process-was-like-for-me-2026-7",
+      "published_at": "2026-07-21T13:55:32+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7542,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/surrogate-mom-what-surrogacy-process-was-like-for-me-2026-7"
+    },
+    {
+      "title": "The Chipotle COO's job involves taste-testing guacamole. He has a simple hack for finding your dream job.",
+      "summary": "Chipotle COO Jason Kidd said he volunteered to take overnight shifts early in his career — and it made an impact.",
+      "source_name": "Business Insider — Tech",
+      "source_url": "https://www.businessinsider.com/chipotle-coo-shares-how-to-find-dream-job-2026-7",
+      "published_at": "2026-07-21T13:49:44+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7538,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/chipotle-coo-shares-how-to-find-dream-job-2026-7"
+    },
+    {
+      "title": "The Great Peptide Cash Grab Has Begun",
+      "summary": "The FDA could decide whether to loosen rules around peptide production this week. Some telehealth players are already seeing dollar signs.",
+      "source_name": "Wired",
+      "source_url": "https://www.wired.com/story/fda-peptide-decision-telehealth-companies-cashing-in/",
+      "published_at": "2026-07-21T13:45:49+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7535,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "6a565c3c26e9b49c3a93ccff"
+    },
+    {
+      "title": "AI music platform Suno hits bum note as 55M users exposed in data breach, claims infosec expert",
+      "summary": "Have I Been Pwned confirms scale for first time",
+      "source_name": "The Register",
+      "source_url": "https://www.theregister.com/security/2026/07/21/breach-of-ai-music-platform-suno-affected-55m-user-accounts/5275514",
+      "published_at": "2026-07-21T13:45:00+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7534,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.theregister.com/a/5275514"
+    },
+    {
+      "title": "Rater State Bias in RLHF Preference Data: An Audit Framework",
+      "summary": "arXiv:2607.16195v1 Announce Type: new Abstract: We identify a structured confound in Reinforcement Learning from Human Feedback (RLHF). Pairwise preference labels are intended to reflect the compared outputs, but they may also reflect the rater's state during annotation. Under sustained stressful or distressing conditions, raters' preferences may shift over time. As a result, preference data can encode rater state alongside judgments about response quality. These shifts…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2607.16195",
+      "published_at": "2026-07-21T04:00:00+00:00",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7528,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2607.16195v1"
+    },
+    {
+      "title": "Design and Validation of a Lightweight 1D CNN for Affective Touch Classification in Soft Plush Companions",
+      "summary": "arXiv:2607.16196v1 Announce Type: new Abstract: Soft, sensorized companions offer a physically safe and emotionally intuitive interface for socially assistive technologies, yet their deformability and multichannel tactile sensing complicate the robust interpretation of human affect. This study presents a complete open-source MATLAB-based framework for the development and validation of compact deep learning models for affective touch recognition in soft interactive…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2607.16196",
+      "published_at": "2026-07-21T04:00:00+00:00",
+      "category": "research_feeds",
+      "tags": [
+        "Open Source",
+        "AI Models",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7528,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2607.16196v1"
+    },
+    {
+      "title": "Some Large Language Models Exhibit Consistent Risk Attitudes",
+      "summary": "arXiv:2607.16197v1 Announce Type: new Abstract: As artificial intelligence systems are deployed in open-ended, high-stakes settings, a critical dimension remains unmeasured: how perceived risk is translated into action. We test whether large language models (LLMs) exhibit systematic and consistent risk attitudes under uncertainty. We introduce a cross-domain framework that decouples contextual risk belief from categorical decision, and apply it to six representative LLMs and…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2607.16197",
+      "published_at": "2026-07-21T04:00:00+00:00",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "LLMs",
+        "AI Models",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7528,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2607.16197v1"
+    }
+  ]
+}
