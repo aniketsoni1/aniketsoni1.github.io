@@ -1,5 +1,5 @@
 # ════════════════════════════════════════════════════════════════════
-#  computing_history.yml — "This Day in Computing History" corpus
+#  computing_history.yml - "This Day in Computing History" corpus
 # ════════════════════════════════════════════════════════════════════
 #  Curated, source-linked milestones. collect_history.py selects the best
 #  match for the current date:
@@ -8,7 +8,7 @@
 #    3. else a `general_fallbacks` entry (undated, evergreen)
 #
 #  Fields map to schemas.py :: HistoryItem
-#    date        : "MM-DD" (zero-padded)   — omit for general_fallbacks
+#    date        : "MM-DD" (zero-padded)   - omit for general_fallbacks
 #    year        : integer
 #    title       : short headline
 #    description : 1–2 sentence factual note (no embellishment)
@@ -29,7 +29,7 @@ milestones:
   - date: "01-01"
     year: 1970
     title: "The Unix epoch begins"
-    description: "00:00:00 UTC on 1 January 1970 is time zero for Unix `time_t` — the reference point from which most computer clocks still count seconds."
+    description: "00:00:00 UTC on 1 January 1970 is time zero for Unix `time_t` - the reference point from which most computer clocks still count seconds."
     category: os
     source_url: "https://en.wikipedia.org/wiki/Unix_time"
     importance: 0.9
@@ -87,7 +87,7 @@ milestones:
   - date: "02-20"
     year: 1991
     title: "Python is first released"
-    description: "Guido van Rossum released Python 0.9.0 to the public in February 1991 — the language now dominant in data engineering and AI."
+    description: "Guido van Rossum released Python 0.9.0 to the public in February 1991 - the language now dominant in data engineering and AI."
     category: programming_languages
     source_url: "https://en.wikipedia.org/wiki/History_of_Python"
     importance: 0.88
@@ -105,7 +105,7 @@ milestones:
   - date: "03-12"
     year: 1989
     title: "Tim Berners-Lee proposes the World Wide Web"
-    description: "At CERN, Berners-Lee circulated 'Information Management: A Proposal' in March 1989 — the blueprint for the World Wide Web."
+    description: "At CERN, Berners-Lee circulated 'Information Management: A Proposal' in March 1989 - the blueprint for the World Wide Web."
     category: web
     source_url: "https://en.wikipedia.org/wiki/History_of_the_World_Wide_Web"
     importance: 0.95
@@ -155,7 +155,7 @@ milestones:
   - date: "04-07"
     year: 1964
     title: "IBM announces the System/360"
-    description: "On 7 April 1964 IBM announced System/360, the first family of software-compatible mainframes — a landmark in computer architecture."
+    description: "On 7 April 1964 IBM announced System/360, the first family of software-compatible mainframes - a landmark in computer architecture."
     category: hardware
     source_url: "https://en.wikipedia.org/wiki/IBM_System/360"
     importance: 0.9
@@ -181,7 +181,7 @@ milestones:
   - date: "05-11"
     year: 1997
     title: "Deep Blue defeats Garry Kasparov"
-    description: "IBM's Deep Blue beat world chess champion Garry Kasparov on 11 May 1997 — a milestone for machine intelligence."
+    description: "IBM's Deep Blue beat world chess champion Garry Kasparov on 11 May 1997 - a milestone for machine intelligence."
     category: ai
     source_url: "https://en.wikipedia.org/wiki/Deep_Blue_(chess_computer)"
     importance: 0.9
@@ -233,7 +233,7 @@ milestones:
   - date: "07-20"
     year: 1969
     title: "Apollo 11 and its Guidance Computer land on the Moon"
-    description: "On 20 July 1969 the Apollo Guidance Computer — a marvel of real-time embedded software — helped land humans on the Moon."
+    description: "On 20 July 1969 the Apollo Guidance Computer - a marvel of real-time embedded software - helped land humans on the Moon."
     category: hardware
     source_url: "https://en.wikipedia.org/wiki/Apollo_Guidance_Computer"
     importance: 0.88
@@ -241,7 +241,7 @@ milestones:
   - date: "07-27"
     year: 1866
     title: "The first lasting transatlantic telegraph cable"
-    description: "Completed on 27 July 1866, the transatlantic cable collapsed message time from weeks to minutes — an ancestor of global networking."
+    description: "Completed on 27 July 1866, the transatlantic cable collapsed message time from weeks to minutes - an ancestor of global networking."
     category: networking
     source_url: "https://en.wikipedia.org/wiki/Transatlantic_telegraph_cable"
     importance: 0.7
@@ -275,7 +275,7 @@ milestones:
   - date: "08-25"
     year: 1991
     title: "Linus Torvalds announces Linux"
-    description: "Torvalds' 25 August 1991 post ('just a hobby, won't be big') announced Linux — now the kernel behind most servers, clouds, and Android."
+    description: "Torvalds' 25 August 1991 post ('just a hobby, won't be big') announced Linux - now the kernel behind most servers, clouds, and Android."
     category: os
     source_url: "https://en.wikipedia.org/wiki/History_of_Linux"
     importance: 0.93
@@ -293,7 +293,7 @@ milestones:
   - date: "09-09"
     year: 1947
     title: "The first computer 'bug'"
-    description: "A moth trapped in Harvard's Mark II relay computer on 9 September 1947 was logged as the 'first actual case of bug being found' — popularized by Grace Hopper's team."
+    description: "A moth trapped in Harvard's Mark II relay computer on 9 September 1947 was logged as the 'first actual case of bug being found' - popularized by Grace Hopper's team."
     category: pioneers
     source_url: "https://en.wikipedia.org/wiki/Software_bug#History"
     importance: 0.82
@@ -302,7 +302,7 @@ milestones:
   # ── October ───────────────────────────────────────────────────────
   - date: "10-04"
     year: 1957
-    title: "Sputnik launches — and ARPA follows"
+    title: "Sputnik launches - and ARPA follows"
     description: "The 4 October 1957 launch of Sputnik spurred the US to create ARPA (later DARPA), which would fund the ARPANET."
     category: networking
     source_url: "https://en.wikipedia.org/wiki/Sputnik_1"
@@ -311,7 +311,7 @@ milestones:
   - date: "10-05"
     year: 2011
     title: "Steve Jobs dies"
-    description: "Apple co-founder Steve Jobs died on 5 October 2011, one day after the iPhone 4S — and Siri — were unveiled."
+    description: "Apple co-founder Steve Jobs died on 5 October 2011, one day after the iPhone 4S - and Siri - were unveiled."
     category: pioneers
     source_url: "https://en.wikipedia.org/wiki/Steve_Jobs"
     importance: 0.72
@@ -319,7 +319,7 @@ milestones:
   - date: "10-29"
     year: 1969
     title: "The first ARPANET message"
-    description: "On 29 October 1969 the first host-to-host message travelled from UCLA to SRI; the system crashed after 'lo', the start of 'login' — the Internet's first words."
+    description: "On 29 October 1969 the first host-to-host message travelled from UCLA to SRI; the system crashed after 'lo', the start of 'login' - the Internet's first words."
     category: networking
     source_url: "https://en.wikipedia.org/wiki/ARPANET"
     importance: 0.95
@@ -329,7 +329,7 @@ milestones:
   - date: "11-15"
     year: 1971
     title: "Intel ships the 4004 microprocessor"
-    description: "Announced on 15 November 1971, the Intel 4004 was the first commercial single-chip microprocessor — the seed of every modern CPU."
+    description: "Announced on 15 November 1971, the Intel 4004 was the first commercial single-chip microprocessor - the seed of every modern CPU."
     category: hardware
     source_url: "https://en.wikipedia.org/wiki/Intel_4004"
     importance: 0.92
@@ -355,7 +355,7 @@ milestones:
   - date: "12-03"
     year: 1992
     title: "The first SMS text message"
-    description: "Engineer Neil Papworth sent 'Merry Christmas' as the first SMS on 3 December 1992 — the start of text messaging."
+    description: "Engineer Neil Papworth sent 'Merry Christmas' as the first SMS on 3 December 1992 - the start of text messaging."
     category: mobile
     source_url: "https://en.wikipedia.org/wiki/SMS"
     importance: 0.7
@@ -363,7 +363,7 @@ milestones:
   - date: "12-09"
     year: 1906
     title: "Grace Hopper is born"
-    description: "Grace Hopper — inventor of the first compiler and a driving force behind COBOL — was born on 9 December 1906."
+    description: "Grace Hopper - inventor of the first compiler and a driving force behind COBOL - was born on 9 December 1906."
     category: pioneers
     source_url: "https://en.wikipedia.org/wiki/Grace_Hopper"
     importance: 0.95
@@ -371,7 +371,7 @@ milestones:
   - date: "12-09"
     year: 1968
     title: "The 'Mother of All Demos'"
-    description: "On 9 December 1968 Douglas Engelbart demonstrated the mouse, hypertext, windows, and video conferencing — decades ahead of their time."
+    description: "On 9 December 1968 Douglas Engelbart demonstrated the mouse, hypertext, windows, and video conferencing - decades ahead of their time."
     category: pioneers
     source_url: "https://en.wikipedia.org/wiki/The_Mother_of_All_Demos"
     importance: 0.9
@@ -402,14 +402,14 @@ milestones:
     confidence: 0.9
 
 # ════════════════════════════════════════════════════════════════════
-#  general_fallbacks — evergreen facts with no single agreed calendar day.
+#  general_fallbacks - evergreen facts with no single agreed calendar day.
 #  Used only when no dated milestone matches (or is nearby). Honest by
 #  design: we don't invent a day just to force a match.
 # ════════════════════════════════════════════════════════════════════
 general_fallbacks:
   - year: 1971
     title: "Ray Tomlinson sends the first network email"
-    description: "In 1971 Ray Tomlinson sent the first email between computers on ARPANET and chose the '@' sign to separate user from host — a convention we still use."
+    description: "In 1971 Ray Tomlinson sent the first email between computers on ARPANET and chose the '@' sign to separate user from host - a convention we still use."
     category: networking
     source_url: "https://en.wikipedia.org/wiki/Email#History"
     importance: 0.88

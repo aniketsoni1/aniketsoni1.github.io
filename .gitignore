@@ -18,7 +18,7 @@ env/
 .ruff_cache/
 
 # ── Pipeline caches (feed etags etc.) ───────────────────
-# NOTE: data/runs/ IS committed on purpose — it is the audit trail.
+# NOTE: data/runs/ IS committed on purpose - it is the audit trail.
 data/cache/
 
 # ── OS / editor noise ───────────────────────────────────

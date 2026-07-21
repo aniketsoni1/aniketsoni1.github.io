@@ -1,4 +1,4 @@
-# Gemfile — local Jekyll development.
+# Gemfile - local Jekyll development.
 #
 # On GitHub Pages the site is built with the `github-pages` gem, so this
 # file exists mainly so you can run `bundle exec jekyll serve` locally and

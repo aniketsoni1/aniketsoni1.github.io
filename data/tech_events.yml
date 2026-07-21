@@ -1,5 +1,5 @@
 # ════════════════════════════════════════════════════════════════════
-#  tech_events.yml — curated technology events (manual source of truth)
+#  tech_events.yml - curated technology events (manual source of truth)
 # ════════════════════════════════════════════════════════════════════
 #  collect_events.py reads this file + event_sources.yml, computes each
 #  event's lifecycle state (upcoming / happening_today / recent / archived)
@@ -7,7 +7,7 @@
 #  ACTIVE (non-archived) events to data/runs/YYYY-MM-DD/events_validated.json.
 #
 #  IMPORTANT OPERATING RULES
-#   • Do NOT rewrite this file just because dates rolled by — the collector
+#   • Do NOT rewrite this file just because dates rolled by - the collector
 #     derives state dynamically. Update an entry only when NEW official
 #     dates are published.
 #   • Every event MUST have a real source_url (no fabricated events).
@@ -45,7 +45,7 @@ events:
     end_date: "2026-10-29"
     location: "Fort Mason Center, San Francisco, CA, USA"
     relevance_tags: [developer_tools, open_source, ai, copilot, github]
-    summary: "GitHub's flagship developer event — 'all together now, in the agentic era.'"
+    summary: "GitHub's flagship developer event - 'all together now, in the agentic era.'"
 
   - event_name: "KubeCon + CloudNativeCon North America 2026"
     organizer: "Cloud Native Computing Foundation (CNCF)"
@@ -106,7 +106,7 @@ events:
     end_date: "2026-06-04"
     location: "San Francisco, CA, USA"
     relevance_tags: [data_engineering, data_cloud, ai, analytics, cortex]
-    summary: "Snowflake's annual data cloud conference — Cortex AI, interoperability, and governance."
+    summary: "Snowflake's annual data cloud conference - Cortex AI, interoperability, and governance."
 
   - event_name: "Microsoft Build 2026"
     organizer: "Microsoft"
@@ -127,7 +127,7 @@ events:
     end_date: "2026-05-20"
     location: "Shoreline Amphitheatre, Mountain View, CA, USA + Online"
     relevance_tags: [ai, gemini, android, developer_tools, google]
-    summary: "Google's developer keynote — Gemini, Android, and platform AI."
+    summary: "Google's developer keynote - Gemini, Android, and platform AI."
 
   - event_name: "NVIDIA GTC 2026"
     organizer: "NVIDIA"
@@ -150,7 +150,7 @@ events:
     summary: "The European edition of KubeCon; cloud-native platform engineering at scale."
 
 # ════════════════════════════════════════════════════════════════════
-#  TEMPLATE — copy into `events:` above and fill REAL published dates.
+#  TEMPLATE - copy into `events:` above and fill REAL published dates.
 #  Do not leave placeholder dates active; collect_events.py will refuse
 #  entries whose dates fail validation.
 #

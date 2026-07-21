@@ -1,4 +1,4 @@
-# Daily Tech Signal — pipeline dependencies (Python 3.11+)
+# Daily Tech Signal - pipeline dependencies (Python 3.11+)
 # Pinned with lower bounds for stability; CI caches these.
 
 feedparser>=6.0.11        # RSS/Atom parsing

@@ -1,5 +1,5 @@
 """
-schemas.py — the single source of truth for every data contract in the
+schemas.py - the single source of truth for every data contract in the
 Daily Tech Signal pipeline.
 
 Design intent
@@ -75,7 +75,7 @@ def _require_http(value: str, field: str) -> str:
 
 
 # ──────────────────────────────────────────────────────────────────────
-#  SourceConfig — one entry in data/sources.yml
+#  SourceConfig - one entry in data/sources.yml
 # ──────────────────────────────────────────────────────────────────────
 class SourceConfig(BaseModel):
     model_config = ConfigDict(extra="ignore")
@@ -102,7 +102,7 @@ class SourceConfig(BaseModel):
 
 
 # ──────────────────────────────────────────────────────────────────────
-#  NewsItem — one validated story
+#  NewsItem - one validated story
 # ──────────────────────────────────────────────────────────────────────
 class NewsItem(BaseModel):
     model_config = ConfigDict(extra="ignore")
@@ -157,7 +157,7 @@ class NewsItem(BaseModel):
 
 
 # ──────────────────────────────────────────────────────────────────────
-#  EventItem — one classified event
+#  EventItem - one classified event
 # ──────────────────────────────────────────────────────────────────────
 class EventItem(BaseModel):
     model_config = ConfigDict(extra="ignore")
@@ -194,7 +194,7 @@ class EventItem(BaseModel):
 
 
 # ──────────────────────────────────────────────────────────────────────
-#  HistoryItem — one 'this day in computing history' fact
+#  HistoryItem - one 'this day in computing history' fact
 # ──────────────────────────────────────────────────────────────────────
 class HistoryItem(BaseModel):
     model_config = ConfigDict(extra="ignore")
@@ -230,7 +230,7 @@ class HistoryItem(BaseModel):
 
 
 # ──────────────────────────────────────────────────────────────────────
-#  DailySignalPayload — the rendered post's structured input
+#  DailySignalPayload - the rendered post's structured input
 # ──────────────────────────────────────────────────────────────────────
 class DailySignalPayload(BaseModel):
     model_config = ConfigDict(extra="ignore")
@@ -264,7 +264,7 @@ class DailySignalPayload(BaseModel):
 
 
 # ──────────────────────────────────────────────────────────────────────
-#  ProvenanceManifest — the per-run audit record
+#  ProvenanceManifest - the per-run audit record
 # ──────────────────────────────────────────────────────────────────────
 class ProvenanceManifest(BaseModel):
     model_config = ConfigDict(extra="ignore")
@@ -296,7 +296,7 @@ class ProvenanceManifest(BaseModel):
 
 
 # ──────────────────────────────────────────────────────────────────────
-#  ValidationResult — returned by each validation gate
+#  ValidationResult - returned by each validation gate
 # ──────────────────────────────────────────────────────────────────────
 class ValidationResult(BaseModel):
     model_config = ConfigDict(extra="ignore")

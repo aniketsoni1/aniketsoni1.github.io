@@ -1,12 +1,12 @@
 """
-collect_history.py — 'This Day in Computing History' selector.
+collect_history.py - 'This Day in Computing History' selector.
 
 Reads data/computing_history.yml and picks the single best milestone for the
 current America/New_York date using a three-tier strategy:
 
-  1. EXACT   — a milestone whose MM-DD equals today (highest importance wins).
-  2. NEARBY  — the closest milestone in the SAME month within ±NEARBY_DAYS.
-  3. FALLBACK— a deterministic rotation through the evergreen general_fallbacks.
+  1. EXACT   - a milestone whose MM-DD equals today (highest importance wins).
+  2. NEARBY  - the closest milestone in the SAME month within ±NEARBY_DAYS.
+  3. FALLBACK- a deterministic rotation through the evergreen general_fallbacks.
 
 Output: data/runs/YYYY-MM-DD/history_validated.json
 
@@ -67,13 +67,13 @@ def _day_delta(mmdd: str, today: date) -> Optional[int]:
 def select_history(today: date, milestones: list[HistoryItem], fallbacks: list[HistoryItem]) -> tuple[HistoryItem, str]:
     key = f"{today.month:02d}-{today.day:02d}"
 
-    # Tier 1 — exact date.
+    # Tier 1 - exact date.
     exact = [m for m in milestones if m.date == key]
     if exact:
         exact.sort(key=lambda m: (m.importance, m.confidence_score), reverse=True)
         return exact[0], "exact"
 
-    # Tier 2 — nearest in the same month.
+    # Tier 2 - nearest in the same month.
     scored: list[tuple[int, HistoryItem]] = []
     for m in milestones:
         if not m.date:
@@ -85,19 +85,19 @@ def select_history(today: date, milestones: list[HistoryItem], fallbacks: list[H
         scored.sort(key=lambda t: (t[0], -t[1].importance))
         return scored[0][1], "nearby"
 
-    # Tier 3 — deterministic rotation through evergreen fallbacks.
+    # Tier 3 - deterministic rotation through evergreen fallbacks.
     if fallbacks:
         idx = today.timetuple().tm_yday % len(fallbacks)
         return fallbacks[idx], "fallback"
 
-    # Last resort — a hardcoded, always-true fact so the section never breaks.
+    # Last resort - a hardcoded, always-true fact so the section never breaks.
     return (
         HistoryItem(
             title="The stored-program computer",
             year=1945,
             description=(
-                "The stored-program concept — instructions and data sharing the same "
-                "memory — underlies essentially every computer in use today."
+                "The stored-program concept - instructions and data sharing the same "
+                "memory - underlies essentially every computer in use today."
             ),
             category="hardware",
             source_url="https://en.wikipedia.org/wiki/Von_Neumann_architecture",

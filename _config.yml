@@ -1,5 +1,5 @@
 # ════════════════════════════════════════════════════════════════════
-#  Jekyll config — aniketsoni.com (portfolio) + The Daily Tech Signal (blog)
+#  Jekyll config - aniketsoni.com (portfolio) + The Daily Tech Signal (blog)
 #  MERGED into your existing repo. Your original keys (theme/title/description)
 #  are kept as-is; the blog / SEO / plugin keys are ADDED below.
 #  Your homepage (_layouts/default.html) is unchanged. The blog uses its own
@@ -8,7 +8,7 @@
 
 # ── Existing identity (unchanged from your repo) ──
 theme: jekyll-theme-minimal
-title: "Aniket Abhishek Soni — Senior Data Engineer | Published Researcher"
+title: "Aniket Abhishek Soni - Senior Data Engineer | Published Researcher"
 description: >-
   Senior Data Engineer with 7+ years building enterprise-scale data pipelines
   and AI-powered analytics. Published researcher, IEEE Senior Member,

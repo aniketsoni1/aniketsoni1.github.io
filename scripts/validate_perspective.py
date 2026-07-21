@@ -1,5 +1,5 @@
 """
-validate_perspective.py — publish/no-publish gate for the weekly column.
+validate_perspective.py - publish/no-publish gate for the weekly column.
 
 Mirrors validate_post.py, tuned to the Signal Perspective format:
 
@@ -124,7 +124,7 @@ def main() -> int:
     for w in warnings:
         LOG.warning(w)
     if errors:
-        LOG.error("PERSPECTIVE REJECTED (%d error(s)) — workflow must not commit", len(errors))
+        LOG.error("PERSPECTIVE REJECTED (%d error(s)) - workflow must not commit", len(errors))
         for e in errors:
             print(f"  ✗ {e}", file=sys.stderr)
         return 1

@@ -1,5 +1,5 @@
 """
-aggregate_week.py — BRONZE layer of the weekly Signal Perspective pipeline.
+aggregate_week.py - BRONZE layer of the weekly Signal Perspective pipeline.
 
 Reads the last LOOKBACK_DAYS of committed daily run payloads
 (data/runs/YYYY-MM-DD/daily_signal_payload.json), and deterministically:
@@ -8,7 +8,7 @@ Reads the last LOOKBACK_DAYS of committed daily run payloads
   2. picks the dominant theme by tag frequency (source-name tags excluded);
   3. orders candidate stories (on-theme first, by importance score);
   4. re-validates candidate source links and drops dead ones;
-  5. writes data/runs/YYYY-MM-DD/perspective_week_payload.json — the single
+  5. writes data/runs/YYYY-MM-DD/perspective_week_payload.json - the single
      input consumed by the downstream validate/render stages.
 
 No AI is involved at this layer. Exits non-zero if fewer than MIN_CITATIONS
@@ -132,7 +132,7 @@ def main() -> int:
     stories, run_dates = _load_week(today)
     LOG.info("Loaded %d stories from %d daily runs", len(stories), len(run_dates))
     if not stories:
-        LOG.error("No committed daily payloads in the lookback window — nothing to aggregate.")
+        LOG.error("No committed daily payloads in the lookback window - nothing to aggregate.")
         return 1
 
     theme, related, counts = _pick_theme(stories)
@@ -144,7 +144,7 @@ def main() -> int:
     LOG.info("Citations: %d live of %d candidates", len(cited), len(candidates))
     if len(cited) < MIN_CITATIONS:
         LOG.error(
-            "Only %d live citation(s) (< %d) — refusing to feed a weakly-sourced column downstream.",
+            "Only %d live citation(s) (< %d) - refusing to feed a weakly-sourced column downstream.",
             len(cited), MIN_CITATIONS,
         )
         return 1

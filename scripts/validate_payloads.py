@@ -1,5 +1,5 @@
 """
-validate_payloads.py — the structured-data validation gate.
+validate_payloads.py - the structured-data validation gate.
 
 Runs after the collectors and before generation. It:
   * validates news_raw.json items against NewsItem, dropping malformed ones,
@@ -9,7 +9,7 @@ Runs after the collectors and before generation. It:
   * writes a machine-readable validation_report.json to the run directory.
 
 Philosophy: this stage is self-healing, not fail-fast. A low news count is NOT
-an error here — the Short Signal fallback in generate_post handles it. The hard
+an error here - the Short Signal fallback in generate_post handles it. The hard
 publish/no-publish decision lives in validate_post.py. This gate only fails if a
 required payload file is missing or completely unreadable.
 """
@@ -66,7 +66,7 @@ def _validate_news(rundir: Path) -> ValidationResult:
         },
     )
     if res.kept < 3:
-        res.warn(f"only {res.kept} valid news items — Short Signal edition likely")
+        res.warn(f"only {res.kept} valid news items - Short Signal edition likely")
     return res
 
 
@@ -74,7 +74,7 @@ def _validate_events(rundir: Path) -> ValidationResult:
     res = ValidationResult(stage="events")
     data = _load(rundir / "events_validated.json")
     if data is None:
-        return res.warn("events_validated.json missing — Event Radar may be empty")
+        return res.warn("events_validated.json missing - Event Radar may be empty")
 
     kept: list[dict] = []
     for raw in data.get("events", []):
@@ -96,7 +96,7 @@ def _validate_history(rundir: Path) -> ValidationResult:
     res = ValidationResult(stage="history")
     data = _load(rundir / "history_validated.json")
     if data is None:
-        return res.warn("history_validated.json missing — history section may be empty")
+        return res.warn("history_validated.json missing - history section may be empty")
     try:
         HistoryItem(**data.get("item", {}))
         res.kept = 1
@@ -128,7 +128,7 @@ def main() -> int:
     write_json(rundir / "validation_report.json", report)
 
     # Only hard-fail if a stage marked itself not-ok (missing/corrupt required
-    # data). Low counts are fine — the generator degrades gracefully.
+    # data). Low counts are fine - the generator degrades gracefully.
     if not report["ok"]:
         LOG.error("payload validation reported hard errors")
         return 1

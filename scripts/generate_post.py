@@ -1,5 +1,5 @@
 """
-generate_post.py — deterministic rendering + publishing layer.
+generate_post.py - deterministic rendering + publishing layer.
 
 Pipeline position: runs after validate_payloads.py. It does NOT invent
 structure or facts. It:
@@ -44,6 +44,7 @@ from utils import (
     get_logger,
     ny_now,
     ny_today,
+    normalize_dashes,
     read_json,
     run_dir,
     validate_urls,
@@ -64,7 +65,7 @@ def _daily_signal_cap(d: date) -> int:
     MAX_TOP_SIGNALS. Seeded by the date, NOT true randomness: re-running the
     same day's pipeline reproduces the same post (the repo's determinism
     rule). If fewer stories survive link review than the cap, we publish
-    what survived — an honest shorter list beats padding.
+    what survived - an honest shorter list beats padding.
     """
     import random
 
@@ -213,8 +214,8 @@ def _build_impact(items: list[NewsItem]) -> str:
         f"evaluation, latency, and deployment surface. **Cloud architects and enterprise "
         f"leaders** should read the same items through the lens of lock-in, security, and "
         f"total cost of ownership, while **researchers and developers** get early signal on "
-        f"where the practical frontier is moving. The lead item — "
-        f"“{_liquid_safe(lead.title)}” — is a good starting point."
+        f"where the practical frontier is moving. The lead item - "
+        f"“{_liquid_safe(lead.title)}” - is a good starting point."
     )
 
 
@@ -248,7 +249,7 @@ def main() -> int:
 
     # ── Optional AI hero image (generate_hero_image.py runs before us and
     #    leaves a manifest; a missing/failed image simply means no front
-    #    matter `image:` — never an error here). ──
+    #    matter `image:` - never an error here). ──
     hero_image = None
     hero_manifest_path = rundir / "hero_image.json"
     if hero_manifest_path.exists():
@@ -276,7 +277,7 @@ def main() -> int:
     payload = DailySignalPayload(
         post_date=today,
         display_date=display_date(today),
-        title=f"The Daily Tech Signal — {display_date(today)}",
+        title=f"The Daily Tech Signal - {display_date(today)}",
         edition=edition,
         opening_summary=intro,
         news_items=selected,
@@ -310,9 +311,9 @@ def main() -> int:
                 dates = _fmt_event_dates(e.start_date, e.end_date)
                 location = _liquid_safe(e.location)
                 summary = _liquid_safe(e.summary)
-                line = f"**[{name}]({e.event_url})** — {organizer} · {dates} · {location}"
+                line = f"**[{name}]({e.event_url})** - {organizer} · {dates} · {location}"
                 if summary:
-                    line += f" — {summary}"
+                    line += f" - {summary}"
                 out.append({"line": line})
         return out
 
@@ -330,7 +331,7 @@ def main() -> int:
         else:
             hist_when = str(history.year)
         history_ctx = {
-            "headline": _liquid_safe(f"{hist_when} — {history.title}"),
+            "headline": _liquid_safe(f"{hist_when} - {history.title}"),
             "description": _liquid_safe(history.description),
             "source_url": history.source_url,
             "source_label": _source_label(history.source_url),
@@ -365,6 +366,7 @@ def main() -> int:
     )
     template = env.get_template("daily_signal.md.j2")
     markdown = template.render(**context)
+    markdown = normalize_dashes(markdown)  # house style: no em dashes in output
 
     post_path = POSTS_DIR / f"{today.isoformat()}-daily-tech-signal.md"
     post_path.write_text(markdown, encoding="utf-8")

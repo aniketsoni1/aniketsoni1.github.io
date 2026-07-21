@@ -1,5 +1,5 @@
 """
-validate_post.py — the final publish/no-publish gate.
+validate_post.py - the final publish/no-publish gate.
 
 Runs last. It re-reads the generated Markdown post and refuses to let the
 workflow commit anything unsafe. Checks performed:
@@ -128,7 +128,7 @@ def main() -> int:
             f"found {len(source_links)}"
         )
     elif is_short:
-        LOG.info("Short Signal edition — story-count minimum waived")
+        LOG.info("Short Signal edition - story-count minimum waived")
 
     # ── Link re-validation (async HEAD → GET) ──
     all_links = _ANY_LINK_RE.findall(body)
@@ -170,7 +170,7 @@ def main() -> int:
     if gate.warnings:
         LOG.info("%d warning(s)", len(gate.warnings))
     if not gate.ok:
-        LOG.error("POST REJECTED (%d error(s)) — workflow must not commit", len(gate.errors))
+        LOG.error("POST REJECTED (%d error(s)) - workflow must not commit", len(gate.errors))
         for e in gate.errors:
             print(f"  ✗ {e}", file=sys.stderr)
         return 1

@@ -1,5 +1,5 @@
 # ════════════════════════════════════════════════════════════════════
-#  sources.yml — the ingestion registry for The Daily Tech Signal
+#  sources.yml - the ingestion registry for The Daily Tech Signal
 # ════════════════════════════════════════════════════════════════════
 #  Each entry describes ONE source. The collector (scripts/collect_news.py)
 #  reads every entry, fetches its `feed` (RSS/Atom) when present, and tags
@@ -15,7 +15,7 @@
 #    trust        : 0.0–1.0 baseline confidence for items (required)
 #    enabled      : set false to skip without deleting     (default true)
 #
-#  A dead / moved feed is NOT fatal — collect_news.py logs it and moves on.
+#  A dead / moved feed is NOT fatal - collect_news.py logs it and moves on.
 #  To add a source, copy a block and adjust. To silence one, set enabled:false.
 # ════════════════════════════════════════════════════════════════════
 
@@ -40,7 +40,7 @@ sources:
     source_type: official_blog
     # Anthropic publishes no RSS. This Google News query proxies their /news
     # section (last 7 days). CAVEAT: item links are news.google.com redirect
-    # URLs, not anthropic.com — they resolve fine for readers and pass link
+    # URLs, not anthropic.com - they resolve fine for readers and pass link
     # validation, but the collector strips Google's " - Anthropic" title
     # suffix. If Anthropic ever ships a real feed, swap it in here.
     feed: "https://news.google.com/rss/search?q=site:anthropic.com/news+when:7d&hl=en-US&gl=US&ceid=US:en"
@@ -64,7 +64,7 @@ sources:
     feed: null
     homepage: "https://ai.meta.com/blog/"
     trust: 0.9
-  - name: "Microsoft — The AI Blog"
+  - name: "Microsoft - The AI Blog"
     category: ai_model_companies
     source_type: official_blog
     feed: "https://blogs.microsoft.com/ai/feed/"
@@ -240,13 +240,13 @@ sources:
     trust: 0.85
 
   # ── Enterprise technology news ────────────────────────────────────
-  - name: "TechCrunch — AI"
+  - name: "TechCrunch - AI"
     category: enterprise_technology
     source_type: news
     feed: "https://techcrunch.com/category/artificial-intelligence/feed/"
     homepage: "https://techcrunch.com/category/artificial-intelligence/"
     trust: 0.78
-  - name: "VentureBeat — AI"
+  - name: "VentureBeat - AI"
     category: enterprise_technology
     source_type: news
     feed: "https://venturebeat.com/category/ai/feed/"
@@ -258,7 +258,7 @@ sources:
     feed: "https://www.theregister.com/headlines.atom"
     homepage: "https://www.theregister.com/"
     trust: 0.78
-  - name: "Ars Technica — IT"
+  - name: "Ars Technica - IT"
     category: enterprise_technology
     source_type: news
     feed: "https://feeds.arstechnica.com/arstechnica/technology-lab"
@@ -306,11 +306,11 @@ sources:
   # ── Mainstream press (tech desks of general-audience outlets) ─────
   # Kept in their own category (not enterprise_technology) because their
   # trust semantics differ from vendor blogs, and the category surfaces as
-  # a "Mainstream Press" tag on posts. Story links are often paywalled —
+  # a "Mainstream Press" tag on posts. Story links are often paywalled -
   # that's fine: validate_urls treats 403/429 bot-blocks as "present".
   # These feed URLs shift periodically at the publishers; a dead one is
   # logged and skipped by the collector, never fatal (check bronze logs).
-  - name: "The New York Times — Technology"
+  - name: "The New York Times - Technology"
     category: mainstream_press
     source_type: news
     feed: "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
@@ -322,16 +322,46 @@ sources:
     feed: "https://www.wired.com/feed/rss"
     homepage: "https://www.wired.com/"
     trust: 0.78
-  - name: "Business Insider — Tech"
+  - name: "Business Insider - Tech"
     category: mainstream_press
     source_type: news
     feed: "https://feeds.businessinsider.com/custom/all"
     homepage: "https://www.businessinsider.com/tech"
     trust: 0.72
-  - name: "The Wall Street Journal — Technology"
+  - name: "The Wall Street Journal - Technology"
     category: mainstream_press
     source_type: news
     feed: "https://feeds.a.dj.com/rss/RSSWSJD.xml"
     homepage: "https://www.wsj.com/tech"
     trust: 0.80
 
+
+  # ── AI newsletters (curated daily roundups) ───────────────────────
+  # Editorial digests, not primary sources: each RSS item is a whole
+  # day's issue bundling several stories, so they surface in the Signal
+  # as "today's issue from X". Kept at moderate trust so they complement
+  # - not crowd out - the official/primary feeds above. Story links point
+  # to each newsletter's own web archive (beehiiv/site), which validate
+  # fine. A dead feed is logged and skipped, never fatal.
+  - name: "The Neuron"
+    category: ai_newsletters
+    source_type: news
+    feed: "https://rss.beehiiv.com/feeds/N4eCstxvgX.xml"
+    homepage: "https://www.theneurondaily.com/"
+    trust: 0.6
+  - name: "AI Secret"
+    category: ai_newsletters
+    source_type: news
+    feed: "https://aisecret.us/rss"
+    homepage: "https://aisecret.us/"
+    trust: 0.6
+  - name: "Superhuman (Zain Kahn)"
+    category: ai_newsletters
+    source_type: news
+    # Superhuman runs on beehiiv but does not expose its feed ID publicly
+    # (the site is JS-rendered). This Google News proxy mirrors the
+    # Anthropic entry's pattern and resolves to superhuman.ai issue pages;
+    # swap in the real rss.beehiiv.com/feeds/<id>.xml when known.
+    feed: "https://news.google.com/rss/search?q=site:superhuman.ai/p+when:7d&hl=en-US&gl=US&ceid=US:en"
+    homepage: "https://www.superhuman.ai/"
+    trust: 0.6

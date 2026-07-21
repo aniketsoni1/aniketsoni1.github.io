@@ -1,5 +1,5 @@
 """
-validate_week_payload.py — SILVER layer of the weekly Signal Perspective
+validate_week_payload.py - SILVER layer of the weekly Signal Perspective
 pipeline: a schema gate on the aggregated week payload, mirroring
 validate_payloads.py in the daily engine.
 
@@ -71,7 +71,7 @@ def main() -> int:
     try:
         payload = WeekPayload(**read_json(path))
     except Exception as exc:
-        LOG.error("WEEK PAYLOAD REJECTED — schema violations:\n%s", exc)
+        LOG.error("WEEK PAYLOAD REJECTED - schema violations:\n%s", exc)
         print(f"  ✗ {exc}", file=sys.stderr)
         return 1
 
@@ -80,7 +80,7 @@ def main() -> int:
         return 1
 
     LOG.info(
-        "WEEK PAYLOAD APPROVED — theme=%r, %d citations, %d stories from %d runs",
+        "WEEK PAYLOAD APPROVED - theme=%r, %d citations, %d stories from %d runs",
         payload.theme, len(payload.citations), payload.stories_reviewed, len(payload.runs_used),
     )
     return 0

@@ -1,10 +1,10 @@
 # ════════════════════════════════════════════════════════════════════
-#  event_sources.yml — official event hubs / calendars
+#  event_sources.yml - official event hubs / calendars
 # ════════════════════════════════════════════════════════════════════
 #  This is a registry of authoritative event index pages. collect_events.py
 #  uses it for:
-#    1. provenance — proving each curated event maps to an official hub;
-#    2. optional feed ingestion — when a hub exposes an .ics or RSS feed,
+#    1. provenance - proving each curated event maps to an official hub;
+#    2. optional feed ingestion - when a hub exposes an .ics or RSS feed,
 #       the collector can pull structured event dates automatically
 #       (set `feed` to the calendar URL). When `feed` is null, the hub is
 #       reference-only and curated dates live in tech_events.yml.

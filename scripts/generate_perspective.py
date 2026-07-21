@@ -1,5 +1,5 @@
 """
-generate_perspective.py — GOLD layer of the weekly Signal Perspective
+generate_perspective.py - GOLD layer of the weekly Signal Perspective
 pipeline: deterministic rendering + AI language.
 
 Pipeline position: runs after aggregate_week.py (bronze) and
@@ -32,6 +32,7 @@ from utils import (
     get_logger,
     ny_now,
     ny_today,
+    normalize_dashes,
     read_json,
     run_dir,
     truncate,
@@ -63,12 +64,12 @@ def _front_matter_date(post_date: date) -> str:
 
 
 # ──────────────────────────────────────────────────────────────────────
-#  AI language layer (essay only — every fact from the bronze payload)
+#  AI language layer (essay only - every fact from the bronze payload)
 # ──────────────────────────────────────────────────────────────────────
 _ESSAY_SYSTEM = (
     "You are a senior data engineer, published researcher, and IEEE Senior Member "
     "writing a weekly thought-leadership column. Professional, direct, first-person. "
-    "Use ONLY the headlines, themes, and summaries provided — invent no facts, "
+    "Use ONLY the headlines, themes, and summaries provided - invent no facts, "
     "numbers, names, products, or URLs. No marketing tone, no hype words."
 )
 
@@ -102,8 +103,8 @@ def _fallback_opening(theme: str, n_stories: int, n_days: int, related: list[str
     return (
         f"Across th{'is' if n_days == 1 else 'e past'} week's {briefs}, "
         f"one theme kept resurfacing: **{theme}**{rel}. "
-        f"This column steps back from the day-to-day feed — {n_stories} source-reviewed stories "
-        f"this week — to ask what the pattern actually means for the people who build and run "
+        f"This column steps back from the day-to-day feed - {n_stories} source-reviewed stories "
+        f"this week - to ask what the pattern actually means for the people who build and run "
         f"data and AI systems."
     )
 
@@ -113,13 +114,13 @@ def _fallback_analysis(theme: str, cited: list[dict]) -> str:
     parts = [
         f"The volume of validated signals around {theme} this week is itself the story. "
         "When a theme repeats across independent, source-reviewed items, it usually marks "
-        "a capability that is moving from announcement to adoption — and that transition, "
+        "a capability that is moving from announcement to adoption - and that transition, "
         "not the launch, is where engineering organizations feel the impact."
     ]
     if lead:
         parts.append(
-            f"The strongest signal of the week — “{_liquid_safe(lead['title'])}” "
-            f"({lead['source_name']}) — is the anchor for that read."
+            f"The strongest signal of the week - “{_liquid_safe(lead['title'])}” "
+            f"({lead['source_name']}) - is the anchor for that read."
         )
     parts.append(
         "My working rule for weeks like this: separate what changes an interface "
@@ -134,7 +135,7 @@ def _fallback_analysis(theme: str, cited: list[dict]) -> str:
 def _fallback_guidance(theme: str) -> str:
     return (
         f"Treat {theme} the way you would any production dependency: pin what you rely on, "
-        "measure before and after, and keep an exit path. Concretely — pick one workload this "
+        "measure before and after, and keep an exit path. Concretely - pick one workload this "
         "week, write down the assumption the new development would change, and run the smallest "
         "experiment that could falsify it. Boring, observable systems remain the best position "
         "from which to adopt anything fast."
@@ -150,7 +151,7 @@ def main() -> int:
 
     payload_path = rundir / "perspective_week_payload.json"
     if not payload_path.exists():
-        LOG.error("Bronze payload missing: %s — run aggregate_week.py first.", payload_path)
+        LOG.error("Bronze payload missing: %s - run aggregate_week.py first.", payload_path)
         return 1
     wk = read_json(payload_path)
 
@@ -158,7 +159,7 @@ def main() -> int:
     related: list[str] = wk.get("related_themes", [])
     cited: list[dict] = wk["citations"]
     week_label: str = wk["week_label"]
-    LOG.info("Rendering Signal Perspective — theme=%r, %d citations", theme, len(cited))
+    LOG.info("Rendering Signal Perspective - theme=%r, %d citations", theme, len(cited))
 
     # ── AI language (deterministic fallbacks throughout) ──
     provider = ai.get_provider()
@@ -200,7 +201,7 @@ def main() -> int:
     fallback_used = provider_fb or any(fallbacks_used)
 
     # ── Template context (pre-formatted, Liquid-safe) ──
-    title = f"Signal Perspective — {theme}: Week of {week_label}"
+    title = f"Signal Perspective - {theme}: Week of {week_label}"
     context = {
         "title": _liquid_safe(title),
         "date_fm": _front_matter_date(today),
@@ -243,6 +244,7 @@ def main() -> int:
         keep_trailing_newline=True,
     )
     markdown = env.get_template("weekly_perspective.md.j2").render(**context)
+    markdown = normalize_dashes(markdown)  # house style: no em dashes in output
 
     post_path = POSTS_DIR / f"{today.isoformat()}-signal-perspective.md"
     post_path.write_text(markdown, encoding="utf-8")

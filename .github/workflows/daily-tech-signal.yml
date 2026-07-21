@@ -1,7 +1,7 @@
 name: Daily Tech Signal Engine
 
 # ════════════════════════════════════════════════════════════════════
-#  MEDALLION PIPELINE — each layer is its own job, so the Actions graph
+#  MEDALLION PIPELINE - each layer is its own job, so the Actions graph
 #  shows exactly where a run stops if something fails:
 #
 #    guard ──► bronze-collect ──► silver-validate ──► gold-generate ──► publish
@@ -12,7 +12,7 @@ name: Daily Tech Signal Engine
 #
 #  Schedule note
 #  Uses GitHub Actions' native `timezone:` on the cron (supported since
-#  March 2026) — DST is handled automatically. The guard keeps a sanity
+#  March 2026) - DST is handled automatically. The guard keeps a sanity
 #  window (09:00–11:59 ET) because GitHub's scheduler can fire 15 min to
 #  2+ hours late at peak; a drifted run must still publish.
 # ════════════════════════════════════════════════════════════════════
@@ -33,7 +33,7 @@ concurrency:
 jobs:
   # ── Stage 0 · Guard ─────────────────────────────────────────────────
   guard:
-    name: "⏰ Guard — 09:00 ET (DST-safe)"
+    name: "⏰ Guard - 09:00 ET (DST-safe)"
     runs-on: ubuntu-latest
     outputs:
       run: ${{ steps.gate.outputs.run }}
@@ -42,7 +42,7 @@ jobs:
         id: gate
         run: |
           if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
-            echo "Manual dispatch — proceeding."
+            echo "Manual dispatch - proceeding."
             echo "run=true" >> "$GITHUB_OUTPUT"
             exit 0
           fi
@@ -53,12 +53,12 @@ jobs:
           case "$HOUR" in
             09|10|11) echo "run=true"  >> "$GITHUB_OUTPUT" ;;
             *)        echo "run=false" >> "$GITHUB_OUTPUT"
-                      echo "Outside the 09:00–11:59 ET window — no-op." ;;
+                      echo "Outside the 09:00–11:59 ET window - no-op." ;;
           esac
 
-  # ── Stage 1 · Bronze — raw ingestion ────────────────────────────────
+  # ── Stage 1 · Bronze - raw ingestion ────────────────────────────────
   bronze-collect:
-    name: "🥉 Bronze — Collect news, events, history"
+    name: "🥉 Bronze - Collect news, events, history"
     needs: guard
     if: needs.guard.outputs.run == 'true'
     runs-on: ubuntu-latest
@@ -75,7 +75,7 @@ jobs:
         run: pip install -r scripts/requirements.txt
 
       # All AI secrets are passed through; only those actually set as repo
-      # secrets are non-empty. Missing optional secrets never fail the run —
+      # secrets are non-empty. Missing optional secrets never fail the run -
       # the provider layer falls through to the next provider and ultimately
       # to the deterministic, non-AI fallback.
       - name: Collect News, Events, and History
@@ -100,9 +100,9 @@ jobs:
           retention-days: 7
           if-no-files-found: error
 
-  # ── Stage 2 · Silver — schema/Pydantic validation gate ──────────────
+  # ── Stage 2 · Silver - schema/Pydantic validation gate ──────────────
   silver-validate:
-    name: "🥈 Silver — Validate structured payloads"
+    name: "🥈 Silver - Validate structured payloads"
     needs: bronze-collect
     runs-on: ubuntu-latest
     steps:
@@ -134,9 +134,9 @@ jobs:
           retention-days: 7
           if-no-files-found: error
 
-  # ── Stage 3 · Gold — deterministic rendering + final publish gate ───
+  # ── Stage 3 · Gold - deterministic rendering + final publish gate ───
   gold-generate:
-    name: "🥇 Gold — Generate post + final gate"
+    name: "🥇 Gold - Generate post + final gate"
     needs: silver-validate
     runs-on: ubuntu-latest
     steps:
@@ -157,7 +157,7 @@ jobs:
           name: silver-run-data
           path: data/runs
 
-      # Optional AI hero image — provider cascade (Gemini → FLUX → skip).
+      # Optional AI hero image - provider cascade (Gemini → FLUX → skip).
       # Never fails the job; the log shows which provider served (or none).
       # GEMINI_IMAGE_MODEL is a one-line swap when gemini-2.5-flash-image
       # reaches its scheduled 2026-10-02 shutdown (see generate_hero_image.py).
@@ -168,7 +168,7 @@ jobs:
           HUGGINGFACE_API_KEY: ${{ secrets.HUGGINGFACE_API_KEY }}
         # The script always exits 0; the `||` is a final backstop so even a
         # crash (import error, OOM, …) cannot fail the gold job.
-        run: python scripts/generate_hero_image.py || echo "::warning::hero image generation crashed — continuing without an image"
+        run: python scripts/generate_hero_image.py || echo "::warning::hero image generation crashed - continuing without an image"
 
       # Deterministic Jinja2 rendering (AI only for language).
       - name: Generate Jekyll Markdown Post
@@ -213,9 +213,9 @@ jobs:
           include-hidden-files: true
           if-no-files-found: warn
 
-  # ── Stage 4 · Publish — commit only the verified post + audit trail ─
+  # ── Stage 4 · Publish - commit only the verified post + audit trail ─
   publish:
-    name: "🚀 Publish — Commit verified signal"
+    name: "🚀 Publish - Commit verified signal"
     needs: gold-generate
     runs-on: ubuntu-latest
     steps:
@@ -235,7 +235,7 @@ jobs:
 
       - name: Pull hero image
         uses: actions/download-artifact@v4
-        # If no image was produced, this artifact may not exist — that must
+        # If no image was produced, this artifact may not exist - that must
         # never block publishing the post itself.
         continue-on-error: true
         with:

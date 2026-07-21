@@ -1,7 +1,7 @@
 name: Weekly Signal Perspective
 
 # ════════════════════════════════════════════════════════════════════
-#  Weekly thought-leadership column — Sundays at 10:00 America/New_York.
+#  Weekly thought-leadership column - Sundays at 10:00 America/New_York.
 #  Full medallion pipeline, mirroring the daily engine:
 #
 #    guard ──► bronze-aggregate ──► silver-validate ──► gold-generate ──► publish
@@ -32,7 +32,7 @@ concurrency:
 jobs:
   # ── Stage 0 · Guard ─────────────────────────────────────────────────
   guard:
-    name: "⏰ Guard — Sunday 10:00 ET (DST-safe)"
+    name: "⏰ Guard - Sunday 10:00 ET (DST-safe)"
     runs-on: ubuntu-latest
     outputs:
       run: ${{ steps.gate.outputs.run }}
@@ -41,7 +41,7 @@ jobs:
         id: gate
         run: |
           if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
-            echo "Manual dispatch — proceeding."
+            echo "Manual dispatch - proceeding."
             echo "run=true" >> "$GITHUB_OUTPUT"
             exit 0
           fi
@@ -53,12 +53,12 @@ jobs:
             echo "run=true" >> "$GITHUB_OUTPUT"
           else
             echo "run=false" >> "$GITHUB_OUTPUT"
-            echo "Outside the Sunday 10:00–12:59 ET window — no-op."
+            echo "Outside the Sunday 10:00–12:59 ET window - no-op."
           fi
 
-  # ── Stage 1 · Bronze — aggregate the week + link re-validation ──────
+  # ── Stage 1 · Bronze - aggregate the week + link re-validation ──────
   bronze-aggregate:
-    name: "🥉 Bronze — Aggregate week's signals"
+    name: "🥉 Bronze - Aggregate week's signals"
     needs: guard
     if: needs.guard.outputs.run == 'true'
     runs-on: ubuntu-latest
@@ -86,9 +86,9 @@ jobs:
           retention-days: 7
           if-no-files-found: error
 
-  # ── Stage 2 · Silver — schema/Pydantic gate on the aggregate ────────
+  # ── Stage 2 · Silver - schema/Pydantic gate on the aggregate ────────
   silver-validate:
-    name: "🥈 Silver — Validate week payload"
+    name: "🥈 Silver - Validate week payload"
     needs: bronze-aggregate
     runs-on: ubuntu-latest
     steps:
@@ -120,9 +120,9 @@ jobs:
           retention-days: 7
           if-no-files-found: error
 
-  # ── Stage 3 · Gold — render + AI language + final publish gate ──────
+  # ── Stage 3 · Gold - render + AI language + final publish gate ──────
   gold-generate:
-    name: "🥇 Gold — Render column + final gate"
+    name: "🥇 Gold - Render column + final gate"
     needs: silver-validate
     runs-on: ubuntu-latest
     steps:
@@ -155,7 +155,7 @@ jobs:
           HUGGINGFACE_API_KEY: ${{ secrets.HUGGINGFACE_API_KEY }}
         run: python scripts/generate_perspective.py
 
-      # Final publish gate — if this fails, NOTHING is committed.
+      # Final publish gate - if this fails, NOTHING is committed.
       - name: Validate Weekly Perspective
         run: python scripts/validate_perspective.py
 
@@ -175,9 +175,9 @@ jobs:
           retention-days: 7
           if-no-files-found: error
 
-  # ── Stage 4 · Publish — commit only the verified column ─────────────
+  # ── Stage 4 · Publish - commit only the verified column ─────────────
   publish:
-    name: "🚀 Publish — Commit verified column"
+    name: "🚀 Publish - Commit verified column"
     needs: gold-generate
     runs-on: ubuntu-latest
     steps:

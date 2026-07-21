@@ -1,5 +1,5 @@
 """
-collect_news.py — ingestion + normalization layer for news signals.
+collect_news.py - ingestion + normalization layer for news signals.
 
 Reads data/sources.yml, pulls each RSS/Atom feed (with a conditional-GET
 cache), cross-checks the Hacker News front page via the Algolia API, then
@@ -211,7 +211,7 @@ def _collect_hacker_news(defaults: dict) -> list[dict]:
 #
 #  The Electric Typewriter (tetw.org) is a curated, largely EVERGREEN
 #  long-form essay archive with no reliable per-item publish dates of its
-#  own — running it through the normal feed path would filter it to zero
+#  own - running it through the normal feed path would filter it to zero
 #  items every run. Instead, this step runs AFTER the normal collection
 #  pass and depends on the day's candidates as input:
 #
@@ -220,7 +220,7 @@ def _collect_hacker_news(defaults: dict) -> list[dict]:
 #       candidates (tag phrases + title-token overlap);
 #    3. fetch each match's UNDERLYING source page (tetw mostly links out
 #       to NYT/Wired/New Yorker/etc.) and read that page's own publish date;
-#    4. include the item only if that date is within lookback_hours —
+#    4. include the item only if that date is within lookback_hours -
 #       topical match alone is NOT enough; stale items are discarded.
 #
 #  Expected behaviour: contributes rarely (the archive is evergreen and the
@@ -228,7 +228,7 @@ def _collect_hacker_news(defaults: dict) -> list[dict]:
 #  step must never fail the batch.
 # ──────────────────────────────────────────────────────────────────────
 TETW_PAGES = ["https://tetw.org/"]
-TETW_MAX_ITEMS = 2          # cap per run — enrichment, not a firehose
+TETW_MAX_ITEMS = 2          # cap per run - enrichment, not a firehose
 TETW_MAX_DATE_PROBES = 8    # at most this many underlying-source fetches
 
 _STOPWORDS = frozenset(
@@ -297,7 +297,7 @@ def _collect_tetw_crossref(candidates: list[dict], defaults: dict) -> list[dict]
     for page in TETW_PAGES:
         raw = fetch_url(page, timeout=timeout, user_agent=ua)
         if not raw:
-            LOG.info("  tetw.org unreachable — skipping cross-ref")
+            LOG.info("  tetw.org unreachable - skipping cross-ref")
             continue
         try:
             soup = BeautifulSoup(raw, "html.parser")
@@ -412,7 +412,7 @@ def main() -> int:
         except Exception as exc:  # one feed must never fail the batch
             LOG.warning("feed error for %s: %s", src.name, exc)
 
-    # Cross-signal aggregator (HN) — independent of the RSS pass.
+    # Cross-signal aggregator (HN) - independent of the RSS pass.
     try:
         all_items.extend(_collect_hacker_news(defaults))
     except Exception as exc:
@@ -420,7 +420,7 @@ def main() -> int:
 
     deduped = _dedupe(all_items)[:MAX_CANDIDATES]
 
-    # tetw.org cross-ref enrichment — needs the day's candidates as input,
+    # tetw.org cross-ref enrichment - needs the day's candidates as input,
     # so it runs after the normal pass (see the function's doc block).
     try:
         extra = _collect_tetw_crossref(deduped, defaults)

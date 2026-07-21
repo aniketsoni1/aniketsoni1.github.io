@@ -1,5 +1,5 @@
 """
-summarize_with_ai.py — the ONLY module that talks to an AI model.
+summarize_with_ai.py - the ONLY module that talks to an AI model.
 
 It exposes a small, provider-agnostic surface:
 
@@ -20,7 +20,7 @@ Every model default is overridable via a *_MODEL env var so provider model
 churn never breaks the pipeline. All model output is passed through a
 source-grounding guard: summaries may not introduce numbers/URLs absent from
 the source text; anything that fails the guard is discarded in favour of the
-deterministic summary. Nothing here can crash the run — failures degrade to
+deterministic summary. Nothing here can crash the run - failures degrade to
 the fallback.
 """
 
@@ -256,7 +256,7 @@ class OpenAICompatProvider(Provider):
         return _openai_chat(self.base_url, key, self.model, system, prompt)
 
 
-# Registry + default priority. Nothing is hard-wired to Google — the chain
+# Registry + default priority. Nothing is hard-wired to Google - the chain
 # simply uses whichever provider's secrets are present first. Reorder or pin it
 # with SIGNAL_AI_PROVIDER_ORDER / SIGNAL_AI_PROVIDER (see _resolve_order).
 _PROVIDERS_BY_NAME: dict[str, type[Provider]] = {
@@ -273,8 +273,8 @@ _DEFAULT_ORDER = ["gemini", "groq", "openrouter", "cloudflare", "huggingface", "
 def _resolve_order() -> list[str]:
     """
     Decide provider priority. Precedence:
-      1. SIGNAL_AI_PROVIDER      — force one (or a short list), e.g. "groq"
-      2. SIGNAL_AI_PROVIDER_ORDER— full custom order, e.g. "openai_compat,groq,gemini"
+      1. SIGNAL_AI_PROVIDER      - force one (or a short list), e.g. "groq"
+      2. SIGNAL_AI_PROVIDER_ORDER- full custom order, e.g. "openai_compat,groq,gemini"
       3. built-in default order
     Either way the deterministic fallback still applies if none are available.
     """
@@ -292,7 +292,7 @@ def get_provider() -> Optional[Provider]:
     for name in _resolve_order():
         cls = _PROVIDERS_BY_NAME.get(name)
         if cls is None:
-            LOG.warning("unknown provider %r in order — skipping", name)
+            LOG.warning("unknown provider %r in order - skipping", name)
             continue
         provider = cls()
         if provider.available():
@@ -352,7 +352,7 @@ def _parse_json_block(text: str) -> Optional[dict]:
 
 
 # ══════════════════════════════════════════════════════════════════════
-#  Deterministic (non-AI) fallbacks — always safe, source-tied
+#  Deterministic (non-AI) fallbacks - always safe, source-tied
 # ══════════════════════════════════════════════════════════════════════
 _WHY_BY_CATEGORY = {
     "ai_model_companies": "Signals how frontier-model capabilities and access may shift for AI engineers and product teams.",
@@ -407,7 +407,7 @@ def summarize_news_item(item: NewsItem, provider: Optional[Provider]) -> tuple[s
         "Return STRICT JSON with two keys and nothing else:\n"
         '{"summary": "<1-2 factual sentences drawn only from the source>", '
         '"why_it_matters": "<1 sentence on why this matters to data engineers, AI '
-        'engineers, cloud architects, or enterprise tech leaders — general '
+        'engineers, cloud architects, or enterprise tech leaders - general '
         'interpretation only, invent no facts>"}'
     )
     raw = provider.complete(_NEWS_SYSTEM, prompt)
@@ -496,7 +496,7 @@ def write_takeaway(items: list[NewsItem], provider: Optional[Provider]) -> str:
 
     prompt = (
         f"THEMES TODAY: {themes}\n\n"
-        "Write 'Aniket's Takeaway' — a 2-3 sentence closing reflection in a professional "
+        "Write 'Aniket's Takeaway' - a 2-3 sentence closing reflection in a professional "
         "research-practitioner voice, grounded only in these themes."
     )
     raw = provider.complete(_TAKE_SYSTEM, prompt)

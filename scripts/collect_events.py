@@ -1,5 +1,5 @@
 """
-collect_events.py — event lifecycle classification.
+collect_events.py - event lifecycle classification.
 
 Reads data/tech_events.yml (curated source of truth) plus data/event_sources.yml
 (official hubs, used for provenance), computes each event's lifecycle state from
@@ -159,7 +159,7 @@ def main() -> int:
 def monthly_cleanup() -> list[str]:
     """
     OPT-IN, non-destructive helper. Returns the names of events whose end_date
-    is far in the past (more than 400 days). It only *reports* — it does not
+    is far in the past (more than 400 days). It only *reports* - it does not
     edit tech_events.yml. Wire into a monthly workflow if you want reminders.
     """
     today = ny_today()

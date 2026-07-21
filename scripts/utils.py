@@ -1,12 +1,12 @@
 """
-utils.py — shared plumbing for the Daily Tech Signal pipeline.
+utils.py - shared plumbing for the Daily Tech Signal pipeline.
 
 Everything that more than one stage needs lives here: repo-relative paths,
 America/New_York date handling, the per-run directory layout, JSON/YAML I/O
 that understands Pydantic models, HTML cleaning, slugging, and a polite,
 cached feed/HTTP fetcher with retries.
 
-Nothing here talks to an AI provider — that is isolated in
+Nothing here talks to an AI provider - that is isolated in
 summarize_with_ai.py so the rest of the pipeline stays deterministic.
 """
 
@@ -32,7 +32,7 @@ try:
 except Exception:  # pragma: no cover - extremely defensive
     NY_TZ = timezone.utc
 
-# Optional dependency — used for robust HTML stripping when present.
+# Optional dependency - used for robust HTML stripping when present.
 try:
     from bs4 import BeautifulSoup  # type: ignore
 
@@ -98,7 +98,7 @@ def ny_today() -> date:
 
 
 def display_date(d: date) -> str:
-    """'June 30, 2026' — no zero-padded day."""
+    """'June 30, 2026' - no zero-padded day."""
     return f"{d.strftime('%B')} {d.day}, {d.year}"
 
 
@@ -187,6 +187,23 @@ def truncate(text: str, limit: int = 320) -> str:
         return text
     cut = text[:limit].rsplit(" ", 1)[0]
     return cut.rstrip(".,;:") + "…"
+
+
+# House style: no em dashes anywhere in published output. AI providers love
+# them, so this is enforced at the render boundary (see generate_post.py /
+# generate_perspective.py) regardless of what a model returns. Codepoints are
+# spelled with escapes so a bulk find/replace of literal dashes never alters
+# this function. U+2014 em dash and U+2015 horizontal bar -> hyphen; spacing is
+# preserved (" - " becomes " - "). En dash (U+2013) is intentionally left
+# alone so numeric ranges keep reading naturally.
+_EMDASH_RE = re.compile("[\u2014\u2015]")
+
+
+def normalize_dashes(text: str) -> str:
+    """Replace em dashes / horizontal bars with a plain hyphen."""
+    if not text:
+        return text
+    return _EMDASH_RE.sub("-", text)
 
 
 _SLUG_RE = re.compile(r"[^a-z0-9]+")
@@ -280,7 +297,7 @@ def fetch_url(
 ) -> Optional[bytes]:
     """
     GET a URL with a conditional-GET cache (ETag / Last-Modified) and simple
-    retry. Returns raw bytes, or None on failure. Never raises — a dead feed
+    retry. Returns raw bytes, or None on failure. Never raises - a dead feed
     must not crash the run.
     """
     import requests  # local import keeps module import cheap
@@ -343,7 +360,7 @@ def env_flag(name: str) -> bool:
 #  Async link validation (HEAD → GET fallback), bot-block tolerant
 # ──────────────────────────────────────────────────────────────────────
 # Statuses that mean "the resource exists but the server is refusing our
-# automated probe" — we treat these as reachable rather than broken so we
+# automated probe" - we treat these as reachable rather than broken so we
 # don't drop legitimate links behind bot protection (LinkedIn, some CDNs).
 _SOFT_OK_STATUS = {401, 403, 405, 406, 429, 503, 999}
 
@@ -445,14 +462,14 @@ def validate_urls(
     back to a synchronous requests pass. Never raises.
 
     Offline/local dev: set SIGNAL_SKIP_LINK_CHECK=1 to assume all links valid
-    (prints a loud warning). NEVER set this in CI — it disables the safety gate.
+    (prints a loud warning). NEVER set this in CI - it disables the safety gate.
     """
     unique = [u for u in dict.fromkeys(u for u in urls if u)]
     if not unique:
         return {}
 
     if os.environ.get("SIGNAL_SKIP_LINK_CHECK", "").strip():
-        LOG.warning("SIGNAL_SKIP_LINK_CHECK set — assuming all %d links valid (OFFLINE MODE)", len(unique))
+        LOG.warning("SIGNAL_SKIP_LINK_CHECK set - assuming all %d links valid (OFFLINE MODE)", len(unique))
         return {u: True for u in unique}
 
     try:
@@ -485,6 +502,7 @@ __all__ = [
     "read_json",
     "clean_html",
     "truncate",
+    "normalize_dashes",
     "slugify",
     "extract_tags",
     "fetch_url",

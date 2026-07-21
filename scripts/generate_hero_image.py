@@ -1,5 +1,5 @@
 """
-generate_hero_image.py — optional AI hero image for the daily post.
+generate_hero_image.py - optional AI hero image for the daily post.
 
 Runs in the gold-generate job BEFORE generate_post.py. Provider cascade,
 matching the repo's "never let one provider's failure kill the run" rule:
@@ -7,25 +7,25 @@ matching the repo's "never let one provider's failure kill the run" rule:
   1. Google `GEMINI_IMAGE_MODEL` (default: gemini-2.5-flash-image) via
      GEMINI_API_KEY.
      COST NOTE (verified against Google's pricing page, July 2026): this
-     model's image output has NO free tier — it is billed per image at
+     model's image output has NO free tier - it is billed per image at
      ~$0.039 / 1024px image. Small but REAL money (~$1.20/month at daily
      cadence), despite third-party blog posts claiming otherwise.
      LIFECYCLE NOTE: Google's deprecations table schedules
      gemini-2.5-flash-image for shutdown on 2026-10-02 (suggested
      replacement: gemini-3.1-flash-image-preview). The model name therefore
-     lives in the GEMINI_IMAGE_MODEL env var — swapping is a one-line
+     lives in the GEMINI_IMAGE_MODEL env var - swapping is a one-line
      workflow change, no code edit.
   2. Hugging Face serverless Inference (black-forest-labs/FLUX.1-schnell)
      via HUGGINGFACE_API_KEY. Chosen for its Apache-2.0 license (safe for
      reuse on a public blog) and speed.
-  3. Skip the image entirely — a missing hero must NEVER fail the job.
+  3. Skip the image entirely - a missing hero must NEVER fail the job.
 
 Every outcome (which provider served, or that both were skipped) is logged
 and recorded in data/runs/YYYY-MM-DD/hero_image.json so the Action log and
 audit trail show the path taken. generate_post.py reads that manifest and
 adds the image to the post's front matter when present.
 
-Style: abstract tech-minimal — geometric, circuit-inspired artwork in the
+Style: abstract tech-minimal - geometric, circuit-inspired artwork in the
 site's palette (near-black + teal). Deliberately NOT a literal illustration
 of any story: abstract art can't misrepresent the news.
 
@@ -87,7 +87,7 @@ def _try_gemini(prompt: str) -> tuple[Optional[bytes], str]:
     """Returns (image_bytes|None, reason). Reason lands in the audit manifest."""
     api_key = os.environ.get("GEMINI_API_KEY", "").strip()
     if not api_key:
-        LOG.info("Gemini: no GEMINI_API_KEY — skipping")
+        LOG.info("Gemini: no GEMINI_API_KEY - skipping")
         return None, "skipped: GEMINI_API_KEY not set"
     model = os.environ.get("GEMINI_IMAGE_MODEL", "").strip() or DEFAULT_GEMINI_IMAGE_MODEL
     import requests
@@ -114,7 +114,7 @@ def _try_gemini(prompt: str) -> tuple[Optional[bytes], str]:
                 if inline.get("data"):
                     LOG.info("Gemini [%s] served the hero image", model)
                     return base64.b64decode(inline["data"]), "ok"
-        # Empty / content-policy-blocked / text-only response — all fall through.
+        # Empty / content-policy-blocked / text-only response - all fall through.
         reason = f"no image part in response (finishReason={ (data.get('candidates') or [{}])[0].get('finishReason') })"
         LOG.warning("Gemini [%s] %s", model, reason)
         return None, reason
@@ -127,7 +127,7 @@ def _try_flux(prompt: str) -> tuple[Optional[bytes], str]:
     """Returns (image_bytes|None, reason). Reason lands in the audit manifest."""
     token = os.environ.get("HUGGINGFACE_API_KEY", "").strip()
     if not token:
-        LOG.info("FLUX: no HUGGINGFACE_API_KEY — skipping")
+        LOG.info("FLUX: no HUGGINGFACE_API_KEY - skipping")
         return None, "skipped: HUGGINGFACE_API_KEY not set"
     import requests
 
@@ -181,7 +181,7 @@ def main() -> int:
     }
 
     if image is None:
-        LOG.warning("No hero image today (both providers skipped/failed) — post ships without one.")
+        LOG.warning("No hero image today (both providers skipped/failed) - post ships without one.")
     else:
         HERO_DIR.mkdir(parents=True, exist_ok=True)
         ext = _ext_for(image)
@@ -203,7 +203,7 @@ def main() -> int:
             if manifest["path"]:
                 lines.append(f"\n**Served:** `{manifest['path']}`")
             else:
-                lines.append("\n**No image this run** — post ships without one (by design).")
+                lines.append("\n**No image this run** - post ships without one (by design).")
             with open(summary_path, "a", encoding="utf-8") as fh:
                 fh.write("\n".join(lines) + "\n")
         except Exception:
