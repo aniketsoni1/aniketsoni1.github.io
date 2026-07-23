@@ -1,0 +1,825 @@
+{
+  "generated_at": "2026-07-23T15:29:19.468824+00:00",
+  "post_date": "2026-07-23",
+  "sources_checked": 48,
+  "candidates": 45,
+  "items": [
+    {
+      "title": "Sustaining OpenTelemetry: What a 10-week contributor cohort actually looks like",
+      "summary": "A follow-up to our earlier post: “Sustaining OpenTelemetry: Moving from Dependency Management to Stewardship” *** In April 2026, the Cloud Native Computing Foundation (CNCF), the OpenTelemetry (OTel) project, and Bloomberg’s Open Source Program Office came together...",
+      "source_name": "CNCF",
+      "source_url": "https://www.cncf.io/blog/2026/07/23/sustaining-opentelemetry-what-a-10-week-contributor-cohort-actually-looks-like/",
+      "published_at": "2026-07-23T13:00:00+00:00",
+      "category": "open_source_foundations",
+      "tags": [
+        "AI",
+        "Cloud",
+        "Open Source",
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8896,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.cncf.io/?p=171323"
+    },
+    {
+      "title": "Aligned, Accurate, and Agile: How Slackbot Powers the Salesforce Legal Team",
+      "summary": "It’s a common assumption in the business world: Legal, compliance, and risk departments are the last to change their ways. Historically seen as risk-averse, slow to adopt new technology and protective of established processes, these functions are labeled as often lagging when it comes to enterprise transformation journeys. At Salesforce, we decided to test that […]",
+      "source_name": "Salesforce News",
+      "source_url": "https://www.salesforce.com/news/stories/salesforce-legal-building-agentic-enterprise-playbook/",
+      "published_at": "2026-07-23T13:00:00+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.8896,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.salesforce.com/?p=94336"
+    },
+    {
+      "title": "When Kubeflow meets Cilium: Debugging 60% idle GPUs in Kubernetes",
+      "summary": "The symptom that made no sense The first time we saw it, we didn’t trust the dashboard. A distributed training job was scheduled and healthy — every pod was running, no crashes, no OOMKills, nothing in...",
+      "source_name": "CNCF",
+      "source_url": "https://www.cncf.io/blog/2026/07/23/when-kubeflow-meets-cilium-debugging-60-idle-gpus-in-kubernetes/",
+      "published_at": "2026-07-23T11:33:00+00:00",
+      "category": "open_source_foundations",
+      "tags": [
+        "AI",
+        "Kubernetes",
+        "GPUs",
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8836,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.cncf.io/?p=170967"
+    },
+    {
+      "title": "The future of AI is community driven and open",
+      "summary": "Kubernetes has become the de facto operating system for AI. In CNCF’s 2025 Annual Cloud Native Survey, 82% of container users now run Kubernetes in production, and 66% of organizations hosting generative AI use it to...",
+      "source_name": "CNCF",
+      "source_url": "https://www.cncf.io/blog/2026/07/23/the-future-of-ai-is-community-driven-and-open/",
+      "published_at": "2026-07-23T08:56:53+00:00",
+      "category": "open_source_foundations",
+      "tags": [
+        "AI",
+        "GenAI",
+        "Kubernetes",
+        "Cloud",
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8728,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.cncf.io/?p=171367"
+    },
+    {
+      "title": "AI Companies Are Trying to Hide a Staggering Amount of Debt",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet",
+      "published_at": "2026-07-23T13:09:10+00:00",
+      "category": "aggregators",
+      "tags": [
+        "AI",
+        "Hacker News"
+      ],
+      "confidence_score": 0.6525,
+      "importance_score": 0.8603,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49020999"
+    },
+    {
+      "title": "Alphabet's cash burn raises alarm for Big Tech as AI spending climbs",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.reuters.com/business/retail-consumer/alphabets-cash-burn-raises-alarm-big-tech-ai-spending-climbs-2026-07-23/",
+      "published_at": "2026-07-23T13:10:02+00:00",
+      "category": "aggregators",
+      "tags": [
+        "AI",
+        "Hacker News"
+      ],
+      "confidence_score": 0.6505,
+      "importance_score": 0.8603,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49021006"
+    },
+    {
+      "title": "GeForce NOW Sets Sail With ‘Path of Exile: Curse of the Allflame’ Joining the Cloud",
+      "summary": "Lock in and load up the cloud. GFN Thursday brings fresh updates and new adventures, all ready to play without waiting for downloads. Set sail in Path of Exile: Curse of the Allflame and charge in Battlefield 6 Season 4 both launching major content for members this week. Then revisit Capcom legends like Breath of […]",
+      "source_name": "NVIDIA Blog",
+      "source_url": "https://blogs.nvidia.com/blog/geforce-now-thursday-path-of-exile-allflame/",
+      "published_at": "2026-07-23T13:00:16+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "Cloud",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8297,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://blogs.nvidia.com/?p=96768"
+    },
+    {
+      "title": "The Anthropic Economic Index connector",
+      "summary": "The Anthropic Economic Index connector Anthropic",
+      "source_name": "Anthropic",
+      "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1SYk1FQ3paMmNwYURwWWFZQ3VDblA3Yy05c3F4MXJxTnVHLVlHMDQyM2pDQ3A0VjNhNl90Q2xzNFpyYVlhUkdXb2ZTVUR5MFZnVWpkaFRmdkxPUGZoTGYyakJnTzhBOGJOaDF1Q1ZDa3haVkU?oc=5",
+      "published_at": "2026-07-22T17:13:51+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.99,
+      "importance_score": 0.8073,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "CBMic0FVX3lxTE1SYk1FQ3paMmNwYURwWWFZQ3VDblA3Yy05c3F4MXJxTnVHLVlHMDQyM2pDQ3A0VjNhNl90Q2xzNFpyYVlhUkdXb2ZTVUR5MFZnVWpkaFRmdkxPUGZoTGYyakJnTzhBOGJOaDF1Q1ZDa3haVkU"
+    },
+    {
+      "title": "A research agenda for the Economic Futures Research Fund",
+      "summary": "A research agenda for the Economic Futures Research Fund Anthropic",
+      "source_name": "Anthropic",
+      "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1HMldWaTVQMzdleERTR0FWVGR2eHIwY3lqQ3VwM2c5MnVlSS14WWFzSTlSQmJ0RG5ER3VSemFVaUYxVjg4NVE5Q2hqcko5cFgyTGtod2J5MFl6RmNoaGdfdld4aUxrR29IY3QxTDZJUXpTcjlRWXdV?oc=5",
+      "published_at": "2026-07-22T17:13:46+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "Research",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.99,
+      "importance_score": 0.8073,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "CBMid0FVX3lxTE1HMldWaTVQMzdleERTR0FWVGR2eHIwY3lqQ3VwM2c5MnVlSS14WWFzSTlSQmJ0RG5ER3VSemFVaUYxVjg4NVE5Q2hqcko5cFgyTGtod2J5MFl6RmNoaGdfdld4aUxrR29IY3QxTDZJUXpTcjlRWXdV"
+    },
+    {
+      "title": "Confidential Containers becomes a CNCF incubating project",
+      "summary": "The CNCF Technical Oversight Committee (TOC) has voted to accept Confidential Containers as a CNCF incubating project. About Confidential Containers Confidential Containers addresses the need to protect data in use within cloud native environments. While data...",
+      "source_name": "CNCF",
+      "source_url": "https://www.cncf.io/blog/2026/07/22/confidential-containers-becomes-a-cncf-incubating-project/",
+      "published_at": "2026-07-22T16:00:00+00:00",
+      "category": "open_source_foundations",
+      "tags": [
+        "AI",
+        "Cloud",
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8021,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.cncf.io/?p=170919"
+    },
+    {
+      "title": "How Salesforce Pilots Its Own Software",
+      "summary": "Companies often let customers and beta testers find their software bugs. Salesforce decided to find them first. Before most major products reach a customer, it runs a rigorous gauntlet: 75,000 Salesforce employees using it in their day-to-day jobs. They file support tickets, stress-test it during chaotic real-world scenarios, and query it in multiple languages. In […]",
+      "source_name": "Salesforce News",
+      "source_url": "https://www.salesforce.com/news/stories/customer-zero-pilots/",
+      "published_at": "2026-07-22T15:00:00+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.798,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.salesforce.com/?p=94309"
+    },
+    {
+      "title": "Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission",
+      "summary": "Google commits $40M in AI tokens and credits for the Genesis Mission",
+      "source_name": "Google DeepMind",
+      "source_url": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/",
+      "published_at": "2026-07-22T13:38:54+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.97,
+      "importance_score": 0.7924,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/"
+    },
+    {
+      "title": "Building AI infrastructure with the Effingham County community",
+      "summary": "OpenAI announces Project Camellia in Effingham County, Georgia, with commitments to responsible energy, community investment, jobs, and access to Codex.",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
+      "published_at": "2026-07-22T13:00:00+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.97,
+      "importance_score": 0.7897,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community"
+    },
+    {
+      "title": "How news organizations are using AI to advance their vital missions",
+      "summary": "News organizations are using AI to strengthen reporting, grow audiences, and improve business operations, with OpenAI tools supporting journalists and publishers worldwide.",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/how-news-organizations-are-using-ai",
+      "published_at": "2026-07-22T13:00:00+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.97,
+      "importance_score": 0.7897,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/index/how-news-organizations-are-using-ai"
+    },
+    {
+      "title": "3 Google updates from Galaxy Unpacked 2026",
+      "summary": "Gentle Monster glasses, Warby Parker glasses, a prompt asking for the history behind a pictured building, and a prompt asking to book a table at a pictured restaurant",
+      "source_name": "Google AI (The Keyword)",
+      "source_url": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/",
+      "published_at": "2026-07-22T13:00:00+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.92,
+      "importance_score": 0.7897,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/"
+    },
+    {
+      "title": "Advancing the next era of national science",
+      "summary": "OpenAI outlines its commitment to advancing American science working with the U.S. Department of Energy and national labs to use frontier AI to accelerate discovery.",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/advancing-the-next-era-of-national-science",
+      "published_at": "2026-07-22T12:00:00+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.97,
+      "importance_score": 0.7855,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/index/advancing-the-next-era-of-national-science"
+    },
+    {
+      "title": "Multi-Cluster databases on Kubernetes: Architecture and deployment",
+      "summary": "Introduction Running a database on Kubernetes is well understood. Running one that survives a complete regional failure, a corrupted control plane, or a severed network requires a fault-resistant architecture. This post walks through how to build...",
+      "source_name": "CNCF",
+      "source_url": "https://www.cncf.io/blog/2026/07/22/multi-cluster-databases-on-kubernetes-architecture-and-deployment/",
+      "published_at": "2026-07-22T11:42:00+00:00",
+      "category": "open_source_foundations",
+      "tags": [
+        "AI",
+        "Kubernetes",
+        "Databases",
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.87,
+      "importance_score": 0.7842,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.cncf.io/?p=170531"
+    },
+    {
+      "title": "NVIDIA AI Supercomputer Comes Online at Naval Postgraduate School",
+      "summary": "NVIDIA founder and CEO Jensen Huang today visited the Naval Postgraduate School in Monterey, California, to commission an NVIDIA DGX GB300 system — bringing one of the world’s most powerful AI platforms fully online for the students, researchers and faculty at the U.S. military’s flagship graduate university. “Our nation depends on our men and women […]",
+      "source_name": "NVIDIA Blog",
+      "source_url": "https://blogs.nvidia.com/blog/naval-postgraduate-school-dgx-ai-supercomputer/",
+      "published_at": "2026-07-23T02:00:46+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "GPUs",
+        "Research",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.7839,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://blogs.nvidia.com/?p=96787"
+    },
+    {
+      "title": "I made a policy engine think it was in production",
+      "summary": "Kyverno is a Kubernetes-native policy engine that validates, mutates, and generates resources before workloads reach your cluster, enforcing security and compliance rules as code, without requiring a separate policy language. Enterprise teams running Kyverno policies in...",
+      "source_name": "CNCF",
+      "source_url": "https://www.cncf.io/blog/2026/07/22/i-made-a-policy-engine-think-it-was-in-production/",
+      "published_at": "2026-07-22T11:00:00+00:00",
+      "category": "open_source_foundations",
+      "tags": [
+        "Kubernetes",
+        "Security",
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.87,
+      "importance_score": 0.7813,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.cncf.io/?p=170611"
+    },
+    {
+      "title": "Everyone should know SIMD",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://mitchellh.com/writing/everyone-should-know-simd",
+      "published_at": "2026-07-22T17:48:18+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7797,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49010648"
+    },
+    {
+      "title": "Terence Tao's ChatGPT conversation about the Jacobian Conjecture counterexample",
+      "summary": "A digestion of the Jacobian conjecture counterexample - https://news.ycombinator.com/item?id=48998362 - July 2026 (133 comments) Claude Fable produced a counterexample to the Jacobian Conjecture - https://news.ycombinator.com/item?id=48973869 - July 2026 (508 comments)",
+      "source_name": "Hacker News",
+      "source_url": "https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56",
+      "published_at": "2026-07-22T17:30:40+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7784,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49010345"
+    },
+    {
+      "title": "GigaToken: ~1000x faster Language model tokenization",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://github.com/marcelroed/gigatoken/",
+      "published_at": "2026-07-22T17:20:38+00:00",
+      "category": "aggregators",
+      "tags": [
+        "AI Models",
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7777,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49010167"
+    },
+    {
+      "title": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
+      "summary": "",
+      "source_name": "Hugging Face",
+      "source_url": "https://huggingface.co/blog/nunchaku-diffusers",
+      "published_at": "2026-07-23T00:00:00+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.9,
+      "importance_score": 0.7755,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://huggingface.co/blog/nunchaku-diffusers"
+    },
+    {
+      "title": "Donating another $20 million to Public First Action",
+      "summary": "Donating another $20 million to Public First Action Anthropic",
+      "source_name": "Anthropic",
+      "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE95VEVDYmVGVzJxeF9rOEVRY0dsMTA1LVpvTnotMTVFLUV0OFhWT2J4eDBJeVE5OFlqWURyUkR3elRvblBWV2F0bmh0M1VuSzNZMHo0aWNMT2Q3dWFYTkFjd2tUWUIwWW53UE40?oc=5",
+      "published_at": "2026-07-22T09:07:38+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.97,
+      "importance_score": 0.7735,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "CBMia0FVX3lxTE95VEVDYmVGVzJxeF9rOEVRY0dsMTA1LVpvTnotMTVFLUV0OFhWT2J4eDBJeVE5OFlqWURyUkR3elRvblBWV2F0bmh0M1VuSzNZMHo0aWNMT2Q3dWFYTkFjd2tUWUIwWW53UE40"
+    },
+    {
+      "title": "Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)",
+      "summary": "Over the past few months, our team has been building more and more slidedecks using web frontend technologies with coding harnesses like Claude Code, but a common complaint is to make even small edits we need to edit the code either manually or via the harness. To avoid this loop, I ended up…",
+      "source_name": "Hacker News",
+      "source_url": "https://bento.page/slides/",
+      "published_at": "2026-07-22T15:19:23+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7693,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49008211"
+    },
+    {
+      "title": "Quality non-fiction books are the antithesis of AI slop",
+      "summary": "https://book-prize-index.vercel.app/",
+      "source_name": "Hacker News",
+      "source_url": "https://resobscura.substack.com/p/quality-non-fiction-books-are-the",
+      "published_at": "2026-07-22T14:18:05+00:00",
+      "category": "aggregators",
+      "tags": [
+        "AI",
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7651,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49007247"
+    },
+    {
+      "title": "Nuclear Energy Revival Puts Westinghouse in Prime Position",
+      "summary": "The company, which filed for bankruptcy protection in 2017, stands to benefit from growing support for nuclear power and President Trump’s deal with Saudi Arabia.",
+      "source_name": "The New York Times - Technology",
+      "source_url": "https://www.nytimes.com/2026/07/23/business/energy-environment/westinghouse-nuclear-energy-trump-saudi-arabia.html",
+      "published_at": "2026-07-23T15:26:07+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7598,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.nytimes.com/2026/07/23/business/energy-environment/westinghouse-nuclear-energy-trump-saudi-arabia.html"
+    },
+    {
+      "title": "China Rewrites the ‘Soft Power’ Playbook for the A.I. Age",
+      "summary": "China is seeking global influence and good will with its open, low-cost artificial intelligence software.",
+      "source_name": "The New York Times - Technology",
+      "source_url": "https://www.nytimes.com/2026/07/23/business/china-ai-soft-power.html",
+      "published_at": "2026-07-23T15:23:29+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7596,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.nytimes.com/2026/07/23/business/china-ai-soft-power.html"
+    },
+    {
+      "title": "Lawsuit Against Meta Over Social Media Addiction Is Dropped",
+      "summary": "For Meta, the move was a reprieve after it and YouTube were found liable in another case in March of negligence and personal injury for their platforms’ addictive features.",
+      "source_name": "The New York Times - Technology",
+      "source_url": "https://www.nytimes.com/2026/07/22/technology/meta-social-media-lawsuit.html",
+      "published_at": "2026-07-23T15:23:13+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "AWS",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7596,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.nytimes.com/2026/07/22/technology/meta-social-media-lawsuit.html"
+    },
+    {
+      "title": "Every state ranked by its math and reading test scores, from worst to best",
+      "summary": "The National Assessment of Educational Progress measures student performance in math and reading. See how the 50 states shape up.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/states-ranked-math-reading-test-scores-2026-7",
+      "published_at": "2026-07-23T15:16:01+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7591,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/states-ranked-math-reading-test-scores-2026-7"
+    },
+    {
+      "title": "GitHub slashes public bug bounty payouts as AI report flood buries its security team",
+      "summary": "Code shack also putting new limits on first-time researchers, and reserving the biggest rewards for a hand-picked group of proven hunters",
+      "source_name": "The Register",
+      "source_url": "https://www.theregister.com/devops/2026/07/23/github-slashes-public-bug-bounty-payouts-as-ai-report-flood-buries-its-security-team/5277046",
+      "published_at": "2026-07-23T15:15:00+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "Security",
+        "Developer Tools",
+        "Research",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.759,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.theregister.com/a/5277046"
+    },
+    {
+      "title": "Instagram is now banning pickup artists and pranksters who use Meta glasses",
+      "summary": "Content shot on Meta glasses from pickup artists and pranksters can now get you banned.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/instagram-meta-glasses-banning-pickup-prank-creeps-2026-7",
+      "published_at": "2026-07-23T15:14:00+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7589,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/instagram-meta-glasses-banning-pickup-prank-creeps-2026-7"
+    },
+    {
+      "title": "Introducing OpenAI Presence",
+      "summary": "Introducing OpenAI Presence, a proven enterprise AI agent platform that helps organizations deploy trusted voice and chat agents for customer and internal workflows.",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/introducing-openai-presence",
+      "published_at": "2026-07-22T05:30:00+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.97,
+      "importance_score": 0.7584,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/index/introducing-openai-presence"
+    },
+    {
+      "title": "AI chip startup Etched defies skeptics, hits $10.3B valuation from big-name investors",
+      "summary": "Etched, founded by three Harvard dropouts, has created new chips and memory components that speed up inference on any AI model -- no GPUs required, it says.",
+      "source_name": "TechCrunch - AI",
+      "source_url": "https://techcrunch.com/2026/07/23/ai-chip-startup-etched-defies-skeptics-hits-10-3b-valuation-from-big-name-investors/",
+      "published_at": "2026-07-23T15:00:00+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "GPUs",
+        "AI Models",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.758,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://techcrunch.com/?p=3145576"
+    },
+    {
+      "title": "Nvidia is sending GPUs to the moon",
+      "summary": "If there's a place in the universe without GPUs, Nvidia is sending them there.",
+      "source_name": "TechCrunch - AI",
+      "source_url": "https://techcrunch.com/2026/07/23/nvidia-is-sending-gpus-to-the-moon/",
+      "published_at": "2026-07-23T15:00:00+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "GPUs",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.758,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://techcrunch.com/?p=3145719"
+    },
+    {
+      "title": "We bought a house and regretted it after 2 years. Now, we own an apartment instead.",
+      "summary": "My wife and I were thrilled to buy a house. The pricey repairs and lack of accessibility made it harder then we expected, so now we own an apartment.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/owning-house-too-expensive-bought-apartment-instead-2026-7",
+      "published_at": "2026-07-23T14:58:55+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7579,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/owning-house-too-expensive-bought-apartment-instead-2026-7"
+    },
+    {
+      "title": "I tried making a popular air-fryer chicken recipe. It was so easy — and the dish tasted as good as takeout.",
+      "summary": "Here's how I made a popular, gluten-free air-fryer orange chicken recipe for dinner that turned out to be an easy, at-home substitute for takeout.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/best-air-fryer-chicken-recipe-to-make-easy-dinner-photos-2026-7",
+      "published_at": "2026-07-23T14:56:32+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7577,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/best-air-fryer-chicken-recipe-to-make-easy-dinner-photos-2026-7"
+    },
+    {
+      "title": "Google closes in on another billion- user product with Gemini",
+      "summary": "Gemini had over 750 million monthly users in February.",
+      "source_name": "TechCrunch - AI",
+      "source_url": "https://techcrunch.com/2026/07/23/google-closes-in-on-another-billion-user-product-with-gemini/",
+      "published_at": "2026-07-23T14:52:44+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7575,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://techcrunch.com/?p=3145698"
+    },
+    {
+      "title": "Paramount+ is building out a free tier to lure cost-conscious viewers",
+      "summary": "Paramount+ is planning to make more movies and shows free to give users \"more reasons to sign up,\" an internal presentation said.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/paramount-free-tier-pluto-tv-streaming-youtube-tubi-ellison-2026-7",
+      "published_at": "2026-07-23T14:50:48+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7573,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/paramount-free-tier-pluto-tv-streaming-youtube-tubi-ellison-2026-7"
+    },
+    {
+      "title": "Uber lays off 10% of customer service workers and calls others back to working in the office, citing AI",
+      "summary": "Uber is laying off 10% of its community operations team, citing AI. Remote workers must relocate to an office, impacting customer service roles.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/uber-layoffs-ai-prompts-cuts-to-customer-service-jobs-2026-7",
+      "published_at": "2026-07-23T14:36:08+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7563,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/uber-layoffs-ai-prompts-cuts-to-customer-service-jobs-2026-7"
+    },
+    {
+      "title": "Iran-linked crews are probing more flavors of US industrial kit",
+      "summary": "CISA widens alert beyond Rockwell controllers as intruders target internet-facing devices across critical infrastructure",
+      "source_name": "The Register",
+      "source_url": "https://www.theregister.com/security/2026/07/23/iran-linked-crews-are-probing-more-flavors-of-us-industrial-kit/5277003",
+      "published_at": "2026-07-23T14:30:00+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7559,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.theregister.com/a/5277003"
+    },
+    {
+      "title": "Ford Will Use Apple Maps in New Self-Driving System",
+      "summary": "In a first, Apple software will influence the way a new line of electric vehicles made by Ford Motor operates, and other automakers may follow.",
+      "source_name": "The New York Times - Technology",
+      "source_url": "https://www.nytimes.com/2026/07/23/business/ford-apple-software-self-driving.html",
+      "published_at": "2026-07-23T14:28:40+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7558,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.nytimes.com/2026/07/23/business/ford-apple-software-self-driving.html"
+    },
+    {
+      "title": "Copilot vs. raw API access: What are you actually paying for?",
+      "summary": "Copilot now bills usage at listed API rates. Compare direct model access with the coding workflow, policy, and harness work around it. The post Copilot vs. raw API access: What are you actually paying for? appeared first on The GitHub Blog .",
+      "source_name": "The GitHub Blog",
+      "source_url": "https://github.blog/ai-and-ml/github-copilot/copilot-vs-raw-api-access-what-are-you-actually-paying-for/",
+      "published_at": "2026-07-22T19:00:00+00:00",
+      "category": "developer_platforms",
+      "tags": [
+        "Developer Tools",
+        "APIs",
+        "AI Models",
+        "Developer Platforms"
+      ],
+      "confidence_score": 0.92,
+      "importance_score": 0.7546,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://github.blog/?p=97686"
+    },
+    {
+      "title": "I've been my mom's caregiver for 10 years. I'm running on empty.",
+      "summary": "Jessica Chalk says working alongside her mother helped her notice the earliest signs of dementia and continues to shape their lives today.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/early-dementia-signs-missed-diagnosis-2026-7",
+      "published_at": "2026-07-23T13:48:01+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.753,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/early-dementia-signs-missed-diagnosis-2026-7"
+    },
+    {
+      "title": "Tesla burns through a billion as Musk bets the farm on chips and bots",
+      "summary": "Optimus remains 'very complex' and Robotaxis will try not to flatten your cat",
+      "source_name": "The Register",
+      "source_url": "https://www.theregister.com/offbeat/2026/07/23/tesla-burns-through-a-billion-as-musk-bets-the-farm-on-chips-and-bots/5276944",
+      "published_at": "2026-07-23T13:45:00+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7528,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.theregister.com/a/5276944"
+    }
+  ]
+}
