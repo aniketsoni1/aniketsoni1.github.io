@@ -1,0 +1,850 @@
+{
+  "post_date": "2026-07-24",
+  "sources_checked": 48,
+  "count": 44,
+  "items": [
+    {
+      "title": "My LFX mentorship journey with kgateway",
+      "summary": "Open source has been a defining part of my career for many years. As an engineer working in the cloud native ecosystem, I have spent the last five years building and contributing to technologies around Kubernetes,...",
+      "source_name": "CNCF",
+      "source_url": "https://www.cncf.io/blog/2026/07/24/my-lfx-mentorship-journey-with-kgateway/",
+      "published_at": "2026-07-24T11:00:00Z",
+      "category": "open_source_foundations",
+      "tags": [
+        "Kubernetes",
+        "Cloud",
+        "Open Source",
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8826,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.cncf.io/?p=170902"
+    },
+    {
+      "title": "OpenTelemetry has graduated… Now what?",
+      "summary": "In case you missed it: OpenTelemetry (OTel) has officially achieved CNCF graduated status! It now stands proudly alongside amazing open source projects such as Kubernetes and Prometheus, to name just a few. It’s been a long journey, and we’re very...",
+      "source_name": "CNCF",
+      "source_url": "https://www.cncf.io/blog/2026/07/24/opentelemetry-has-graduated-now-what/",
+      "published_at": "2026-07-24T11:00:00Z",
+      "category": "open_source_foundations",
+      "tags": [
+        "Kubernetes",
+        "Open Source",
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8826,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.cncf.io/?p=171300"
+    },
+    {
+      "title": "VA Awards Salesforce $1.6B Contract to Transform Veteran Care and Services",
+      "summary": "SAN FRANCISCO and WASHINGTON — July 24, 2026 — Salesforce, the world’s #1 Agentic CRM, today announced that the U.S. Department of Veterans Affairs (VA) has awarded the company, through its distribution network, a $1.6 billion, three-year, Agentic Enterprise License Agreement (AELA).* Through the agreement, VA will leverage Missionforce to modernize care and service delivery […]",
+      "source_name": "Salesforce News",
+      "source_url": "https://www.salesforce.com/news/press-releases/2026/07/24/missionforce-transforms-veteran-care/",
+      "published_at": "2026-07-24T09:00:00Z",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.8742,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.salesforce.com/?post_type=sf_press_release&p=94371"
+    },
+    {
+      "title": "Flux 3 X Mimic: The Next Generation of Video-Action Models",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://bfl.ai/blog/flux-3-mimic",
+      "published_at": "2026-07-24T09:31:48Z",
+      "category": "aggregators",
+      "tags": [
+        "AI Models",
+        "Hacker News"
+      ],
+      "confidence_score": 0.6645,
+      "importance_score": 0.8464,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49033127"
+    },
+    {
+      "title": "Nothing works and everyone is euphoric",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://ptrchm.com/posts/nothing-works-and-everyone-is-euphoric/",
+      "published_at": "2026-07-24T09:08:17Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.675,
+      "importance_score": 0.8448,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49033004"
+    },
+    {
+      "title": "It's getting harder to focus every day",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://glyphack.com/attention/",
+      "published_at": "2026-07-24T08:18:30Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.8413,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49032660"
+    },
+    {
+      "title": "Launch of the AI Infra SIG under the CNCF Japan chapter: First meetup and call for speakers",
+      "summary": "Japanese article follows English one. As we all know, AI is advancing from generative AI to agents, driving growing demand for scalable, efficient infrastructure. Kubernetes and the broader Cloud Native ecosystem are becoming increasingly critical foundations...",
+      "source_name": "CNCF",
+      "source_url": "https://www.cncf.io/blog/2026/07/23/launch-of-the-ai-infra-sig-under-the-cncf-japan-chapter-first-meetup-and-call-for-speakers/",
+      "published_at": "2026-07-24T00:05:00Z",
+      "category": "open_source_foundations",
+      "tags": [
+        "AI",
+        "GenAI",
+        "AI Agents",
+        "Kubernetes",
+        "Cloud",
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8371,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.cncf.io/?p=171345"
+    },
+    {
+      "title": "Updated Cyber Threat Actor Naming System",
+      "summary": "Introduction Today, Google Threat Intelligence Group (GTIG) will begin rolling out a unified naming schema for tracking threat actors. This new naming taxonomy represents an effort to standardize tracking across platforms and public reporting. Why are we Adopting a Different Naming System? Historically, Mandiant and Google’s Threat Analysis Group (TAG) maintained distinct tracking systems, relying on parallel naming schemas that grew independently over time. The creation of…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/topics/threat-intelligence/updated-cyber-threat-actor-naming-system/",
+      "published_at": "2026-07-24T14:00:00Z",
+      "category": "cloud_providers",
+      "tags": [
+        "AI",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.8351,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/topics/threat-intelligence/updated-cyber-threat-actor-naming-system/"
+    },
+    {
+      "title": "Claude Cookbook",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://platform.claude.com/cookbook/",
+      "published_at": "2026-07-24T05:09:15Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.654,
+      "importance_score": 0.8282,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49031409"
+    },
+    {
+      "title": "My security camera shipped a GitHub admin token in its login page",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://hhh.hn/hanwha-github-token/",
+      "published_at": "2026-07-24T11:54:41Z",
+      "category": "aggregators",
+      "tags": [
+        "Security",
+        "Developer Tools",
+        "Hacker News"
+      ],
+      "confidence_score": 0.636,
+      "importance_score": 0.8214,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49034292"
+    },
+    {
+      "title": "Toward Self-Improving Agents",
+      "summary": "The agents that win the next few years won’t just be ones with the cleverest foundation model. They’ll be the ones that learn from their own outcomes.",
+      "source_name": "Salesforce News",
+      "source_url": "https://www.salesforce.com/news/stories/toward-self-improving-agents/",
+      "published_at": "2026-07-23T16:19:18Z",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI Agents",
+        "AI Models",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.8047,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.salesforce.com/?p=94344"
+    },
+    {
+      "title": "At AI Summit, South Korea Outlines Its AI Future With NVIDIA and Partners",
+      "summary": "At this week’s AI Summit in San Francisco, South Korean President Jae Myung Lee and some of the country’s top business leaders and researchers are meeting with NVIDIA and ecosystem partners to chart Korea’s AI progress. Building on NVIDIA founder and CEO Jensen Huang’s visit to Korea last month, this week’s discussions and announcements advance […]",
+      "source_name": "NVIDIA Blog",
+      "source_url": "https://blogs.nvidia.com/blog/ai-summit-korea-partners-and-nvidia/",
+      "published_at": "2026-07-24T04:34:27Z",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "GPUs",
+        "Research",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.7958,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://blogs.nvidia.com/?p=96807"
+    },
+    {
+      "title": "Sustaining OpenTelemetry: What a 10-week contributor cohort actually looks like",
+      "summary": "A follow-up to our earlier post: “Sustaining OpenTelemetry: Moving from Dependency Management to Stewardship” *** In April 2026, the Cloud Native Computing Foundation (CNCF), the OpenTelemetry (OTel) project, and Bloomberg’s Open Source Program Office came together...",
+      "source_name": "CNCF",
+      "source_url": "https://www.cncf.io/blog/2026/07/23/sustaining-opentelemetry-what-a-10-week-contributor-cohort-actually-looks-like/",
+      "published_at": "2026-07-23T13:00:00Z",
+      "category": "open_source_foundations",
+      "tags": [
+        "AI",
+        "Cloud",
+        "Open Source",
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.87,
+      "importance_score": 0.7909,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.cncf.io/?p=171323"
+    },
+    {
+      "title": "Aligned, Accurate, and Agile: How Slackbot Powers the Salesforce Legal Team",
+      "summary": "It’s a common assumption in the business world: Legal, compliance, and risk departments are the last to change their ways. Historically seen as risk-averse, slow to adopt new technology and protective of established processes, these functions are labeled as often lagging when it comes to enterprise transformation journeys. At Salesforce, we decided to test that […]",
+      "source_name": "Salesforce News",
+      "source_url": "https://www.salesforce.com/news/stories/salesforce-legal-building-agentic-enterprise-playbook/",
+      "published_at": "2026-07-23T13:00:00Z",
+      "category": "enterprise_technology",
+      "tags": [
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7909,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.salesforce.com/?p=94336"
+    },
+    {
+      "title": "Show HN: Echo – Fable-level results at 1/3 the cost using open-weight models",
+      "summary": "I’ve been building Echo ( https://echo.tracerml.ai/ ), an experiment in making one AI system out of a pool of open-weight models rather than choosing a single model and using it for every task. It started with a simple experiment. I took a group of models, including GLM-5.2, Kimi K2.7 and others…",
+      "source_name": "Hacker News",
+      "source_url": "https://news.ycombinator.com/item?id=49026810",
+      "published_at": "2026-07-23T19:26:01Z",
+      "category": "aggregators",
+      "tags": [
+        "AI Models",
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7877,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49026810"
+    },
+    {
+      "title": "When Kubeflow meets Cilium: Debugging 60% idle GPUs in Kubernetes",
+      "summary": "The symptom that made no sense The first time we saw it, we didn’t trust the dashboard. A distributed training job was scheduled and healthy — every pod was running, no crashes, no OOMKills, nothing in...",
+      "source_name": "CNCF",
+      "source_url": "https://www.cncf.io/blog/2026/07/23/when-kubeflow-meets-cilium-debugging-60-idle-gpus-in-kubernetes/",
+      "published_at": "2026-07-23T11:33:00Z",
+      "category": "open_source_foundations",
+      "tags": [
+        "AI",
+        "Kubernetes",
+        "GPUs",
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.87,
+      "importance_score": 0.7849,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.cncf.io/?p=170967"
+    },
+    {
+      "title": "Em dashes are fucking amazing",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://psychotechnology.substack.com/p/em-dashes-are-fucking-amazing",
+      "published_at": "2026-07-24T12:40:27Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.618,
+      "importance_score": 0.7795,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49034747"
+    },
+    {
+      "title": "Buz – A fork of Bun using modern Zig, with sub-1s incremental builds",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://ziggit.dev/t/buz-a-drop-in-replacement-for-bun-using-modern-zig-with-sub-1s-incremental-builds/16891",
+      "published_at": "2026-07-24T09:26:40Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.623,
+      "importance_score": 0.7786,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49033099"
+    },
+    {
+      "title": "The future of AI is community driven and open",
+      "summary": "Kubernetes has become the de facto operating system for AI. In CNCF’s 2025 Annual Cloud Native Survey, 82% of container users now run Kubernetes in production, and 66% of organizations hosting generative AI use it to...",
+      "source_name": "CNCF",
+      "source_url": "https://www.cncf.io/blog/2026/07/23/the-future-of-ai-is-community-driven-and-open/",
+      "published_at": "2026-07-23T08:56:53Z",
+      "category": "open_source_foundations",
+      "tags": [
+        "AI",
+        "GenAI",
+        "Kubernetes",
+        "Cloud",
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.87,
+      "importance_score": 0.774,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.cncf.io/?p=171367"
+    },
+    {
+      "title": "Writing by hand is good for your brain",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your",
+      "published_at": "2026-07-23T14:24:43Z",
+      "category": "aggregators",
+      "tags": [
+        "AI",
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7668,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49022152"
+    },
+    {
+      "title": "I regret migrating to Codeberg",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://xn--gckvb8fzb.com/i-regret-migrating-to-codeberg/",
+      "published_at": "2026-07-23T14:06:47Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7655,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49021856"
+    },
+    {
+      "title": "No Dumb Questions: What is the AI bottleneck? How does context engineering fix it?​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍‌﻿‌‍‍‌‌‍﻿‍​‍​‍​﻿‍‍​‍​‍‌﻿​﻿‌‍​‌‌‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌‍‍‌‌‍﻿﻿​‍​‍​‍﻿​​‍​‍‌‍‍​‌﻿​‍‌‍‌‌‌‍‌‍​‍​‍​﻿‍‍​‍​‍‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​﻿‍‍​‍﻿﻿​‍﻿﻿‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍﻿﻿‌‍‍‌‌‍﻿‍‌﻿‌​‌‍‌‌‌‍﻿‍‌﻿‌​​‍﻿﻿‌‍‌‌‌‍‌​‌‍‍‌‌﻿‌​​‍﻿﻿‌‍﻿‌‌‍﻿﻿‌‍‌​‌‍‌‌​﻿﻿‌‌﻿​​‌﻿​‍‌‍‌‌‌﻿​﻿‌‍‌‌‌‍﻿‍‌﻿‌​‌‍​‌‌﻿‌​‌‍‍‌‌‍﻿﻿‌‍﻿‍​﻿‍﻿‌‍‍‌‌‍‌​​﻿﻿‌​﻿‍‌​﻿​﻿‌‍​‍​﻿‌‍​﻿​‍‌‍‌‌​﻿‍‌​﻿​‌​‍﻿‌​﻿‍​‌‍‌‌‌‍​‍​﻿‍‌​‍﻿‌​﻿‌​​﻿‍​‌‍‌​‌‍‌‌​‍﻿‌‌‍​‍‌‍​‌​﻿‌​​﻿​‍​‍﻿‌‌‍​‍​﻿‌‌​﻿‌﻿​﻿‌​​﻿‌‍‌‍​﻿​﻿​﻿​﻿‌‍​﻿​​​﻿‌﻿​﻿​﻿​﻿​‍​﻿‍﻿‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​﻿‍﻿‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​﻿﻿﻿‌‍​‍‌‍​‌‌﻿​﻿‌‍‌‌‌‌‌‌‌﻿​‍‌‍﻿​​﻿﻿‌‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​‍‌‌​﻿​﻿‌​​‌​‍‌‌​﻿​‍‌​‌‍​‍‌‌​﻿​‍‌​‌‍‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍‌‍‌‍‍‌‌‍‌​​﻿﻿‌​﻿‍‌​﻿​﻿‌‍​‍​﻿‌‍​﻿​‍‌‍‌‌​﻿‍‌​﻿​‌​‍﻿‌​﻿‍​‌‍‌‌‌‍​‍​﻿‍‌​‍﻿‌​﻿‌​​﻿‍​‌‍‌​‌‍‌‌​‍﻿‌‌‍​‍‌‍​‌​﻿‌​​﻿​‍​‍﻿‌‌‍​‍​﻿‌‌​﻿‌﻿​﻿‌​​﻿‌‍‌‍​﻿​﻿​﻿​﻿‌‍​﻿​​​﻿‌﻿​﻿​﻿​﻿​‍​‍‌‍‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​‍‌‍‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​‍‌‍‌﻿​​‌‍‌‌‌﻿​‍‌﻿​﻿‌﻿​​‌‍‌‌‌‍​﻿‌﻿‌​‌‍‍‌‌﻿‌‍‌‍‌‌​﻿﻿‌‌﻿​​‌﻿‌‌‌‍​‍‌‍﻿​‌‍‍‌‌﻿​﻿‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌﻿﻿‌",
+      "summary": "In this No Dumb Questions, Stack's Director of Data Science Michael Foree teaches Phoebe about AI context, context engineering, and what she can do to become a better context engineer…",
+      "source_name": "Stack Overflow Blog",
+      "source_url": "https://stackoverflow.blog/2026/07/24/no-dumb-questions-ai-bottleneck/",
+      "published_at": "2026-07-24T16:00:00Z",
+      "category": "developer_platforms",
+      "tags": [
+        "AI",
+        "Developer Platforms"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.76,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "93b62e91-8eb9-48de-ba42-b5746c360732"
+    },
+    {
+      "title": "Midjourney acquired the astrology app Co-Star",
+      "summary": "The AI lab Midjourney continues to expand its purview beyond image and video generation.",
+      "source_name": "TechCrunch - AI",
+      "source_url": "https://techcrunch.com/2026/07/24/midjourney-acquired-the-astrology-app-co-star/",
+      "published_at": "2026-07-24T15:09:55Z",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7599,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://techcrunch.com/?p=3146313"
+    },
+    {
+      "title": "Silicon Valley Is Completely Divided Over Chinese AI",
+      "summary": "The AI “startups” worth billions of dollars are raising alarm bells about Chinese AI. The smaller players have a totally different take.",
+      "source_name": "Wired",
+      "source_url": "https://www.wired.com/story/silicon-valley-is-completely-divided-over-chinese-ai/",
+      "published_at": "2026-07-24T15:00:00Z",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7592,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "6a6251203def5d848651352a"
+    },
+    {
+      "title": "Flock cameras go up in flames as cops hunt suspected firebugs",
+      "summary": "Two license plate readers torched in Georgia amid backlash against the surveillance network",
+      "source_name": "The Register",
+      "source_url": "https://www.theregister.com/offbeat/2026/07/24/flock-cameras-go-up-in-flames-as-cops-hunt-suspected-firebugs/5278357",
+      "published_at": "2026-07-24T14:48:37Z",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7584,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.theregister.com/a/5278357"
+    },
+    {
+      "title": "An innovation theorist says AI could squeeze out the weird ideas that change the world",
+      "summary": "Innovation theorist John Nosta said AI risks squeezing out the outlier thinking behind major breakthroughs.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/ai-could-squeeze-out-original-thinking-innovation-theorist-2026-7",
+      "published_at": "2026-07-24T14:48:15Z",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7584,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/ai-could-squeeze-out-original-thinking-innovation-theorist-2026-7"
+    },
+    {
+      "title": "Microsoft, Meta, Nvidia, and Palantir have a message for Washington",
+      "summary": "For his first-ever post on X, Nvidia CEO Jensen Huang shared an open letter to DC aimed at preserving the future of open source AI.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/microsoft-nvidia-meta-palantir-jensen-huang-open-source-ai-letter-2026-7",
+      "published_at": "2026-07-24T14:35:27Z",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "GPUs",
+        "Open Source",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7575,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/microsoft-nvidia-meta-palantir-jensen-huang-open-source-ai-letter-2026-7"
+    },
+    {
+      "title": "Certighost Exploit Lets Low-Privileged Active Directory Users Impersonate a Domain Controller",
+      "summary": "Researchers H0j3n and Aniq Fakhrul published a working exploit on July 24 that lets a low-privileged Active Directory user obtain a certificate for a Domain Controller and authenticate as that machine. They codenamed the flaw Certighost. Because Domain Controller accounts carry directory replication rights, the resulting Kerberos credential can retrieve the krbtgt secret through DCSync.",
+      "source_name": "The Hacker News",
+      "source_url": "https://thehackernews.com/2026/07/certighost-exploit-lets-low-privileged.html",
+      "published_at": "2026-07-24T14:15:21Z",
+      "category": "cybersecurity",
+      "tags": [
+        "AI",
+        "Research",
+        "Cybersecurity"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7561,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://thehackernews.com/2026/07/certighost-exploit-lets-low-privileged.html"
+    },
+    {
+      "title": "How much firefighters get paid in every US state",
+      "summary": "Firefighter pay widely varies across the 50 states. Bureau of Labor Statistics data shows which states offer the biggest paydays.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/firefighters-annual-salaries-in-every-us-state",
+      "published_at": "2026-07-24T14:12:01Z",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7559,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/firefighters-annual-salaries-in-every-us-state"
+    },
+    {
+      "title": "An A.I. Music F.A.Q.: Can I Remix Madonna? Is This All Legal?",
+      "summary": "Advances in A.I. are making it possible to create all kinds of music from scratch, but they also raise questions about what is legal and who will actually listen.",
+      "source_name": "The New York Times - Technology",
+      "source_url": "https://www.nytimes.com/2026/07/24/arts/music/ai-music-faq.html",
+      "published_at": "2026-07-24T14:08:05Z",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7556,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.nytimes.com/2026/07/24/arts/music/ai-music-faq.html"
+    },
+    {
+      "title": "Veterans Affairs signs $1.6B deal for an army of Salesforce AI agents",
+      "summary": "Makes agreement under nose of Oracle, which gets its own $7 billion defense deal",
+      "source_name": "The Register",
+      "source_url": "https://www.theregister.com/ai-and-ml/2026/07/24/veterans-affairs-signs-16b-deal-for-an-army-of-salesforce-ai-agents/5278302",
+      "published_at": "2026-07-24T13:58:06Z",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7549,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.theregister.com/a/5278302"
+    },
+    {
+      "title": "Say goodbye to neck pillows. We tried out Emirates' new headrest, and it's a game changer.",
+      "summary": "Emirates' A350 economy cabin already included a handful of premium features, but the new U-Dream headrest is the best yet.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/goodbye-neck-pillows-emirates-headrest-airbus-a350-economy-perks-2026-7",
+      "published_at": "2026-07-24T13:51:57Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7545,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/goodbye-neck-pillows-emirates-headrest-airbus-a350-economy-perks-2026-7"
+    },
+    {
+      "title": "Donald Trump added a new statue to the White House Rose Garden. See how the space has changed over the years.",
+      "summary": "President Donald Trump's Rose Garden redesign is one of many decor changes he's made to White House. Take a look at the \"Rose Garden Club.\"",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/white-house-rose-garden-changes-history-photos",
+      "published_at": "2026-07-24T13:45:02Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.754,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/white-house-rose-garden-changes-history-photos"
+    },
+    {
+      "title": "AINTMA: Agentic AI Architecture for Autonomous Test Management with Generative Intelligence, Secure Cloud Communication and Adaptive Quality Analytics",
+      "summary": "arXiv:2607.20452v1 Announce Type: new Abstract: Modern software quality assurance demands intelligent, autonomous systems capable of adaptive decision-making across distributed cloud environments. This paper presents AINTMA (Agentic Intelligent Test Management Architecture), a multi-agent agentic AI system that transforms traditional test management into an autonomous quality intelligence ecosystem. AINTMA deploys six specialized AI agents (Test Discovery, Risk Assessment…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2607.20452",
+      "published_at": "2026-07-24T04:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "GenAI",
+        "AI Agents",
+        "Cloud",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7534,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2607.20452v1"
+    },
+    {
+      "title": "Marking the Wrong Symptoms: Evaluating LLM Watermarks in Medical Texts",
+      "summary": "arXiv:2607.20462v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly integrated into clinical workflows, stressing the need for reliable traceability of model-generated output with watermarking. Yet, most watermarks are evaluated on general-purpose benchmarks, leaving domains like medicine, where small token-level perturbations can result in significant semantic changes, underexplored. In this work, we present the first rigorous study of how LLM…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2607.20462",
+      "published_at": "2026-07-24T04:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "LLMs",
+        "AI Models",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7534,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2607.20462v1"
+    },
+    {
+      "title": "ClickGuard: Detecting and Spoiling Clickbait News with Informativeness Measures and Large Language Models",
+      "summary": "arXiv:2607.20463v1 Announce Type: new Abstract: This paper presents an AI-driven browser extension that identifies clickbait to help users avoid misleading Internet articles. Moving beyond traditional detection, the application employs a hybrid machine learning architecture that combines transformer-based embeddings with linguistically motivated features and a custom \"baitness\" score. After evaluating various natural language processing techniques -- from classic vectorizers…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2607.20463",
+      "published_at": "2026-07-24T04:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "Machine Learning",
+        "LLMs",
+        "Vector Databases",
+        "AI Models",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7534,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2607.20463v1"
+    },
+    {
+      "title": "Stochastic Sampling is Epistemically Shallow: The Dimensionality Gap Between Temperature Variation and Model Diversity in LLMs",
+      "summary": "arXiv:2607.20464v1 Announce Type: new Abstract: When a language model gives different answers on repeated runs, does that variation reveal what it does not know? Self-consistency turns the variation into a per-question uncertainty estimate via majority voting. But does the same variation reveal cross-question structure -- related questions flipping together, the way a diverse ensemble does? We compare two regimes on the same questions: one model run $100$ times at $\\tau=1$…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2607.20464",
+      "published_at": "2026-07-24T04:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "LLMs",
+        "AI Models",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7534,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2607.20464v1"
+    },
+    {
+      "title": "JAXBench: Benchmarking Autonomous TPU Kernel Optimization",
+      "summary": "arXiv:2607.20466v1 Announce Type: new Abstract: Rigorous benchmarks have driven progress in autonomous GPU kernel performance optimization by establishing a shared target to hillclimb on, but no equivalent exists for TPUs. We present JAXBench, a TPU-native benchmark suite for AI-generated kernel optimization on Google Cloud TPUs. JAXBench comprises 50 JAX workloads that are both relevant and provide headroom for optimization. We extract 17 production ML operators from…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2607.20466",
+      "published_at": "2026-07-24T04:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "Cloud",
+        "Google Cloud",
+        "GPUs",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7534,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2607.20466v1"
+    },
+    {
+      "title": "DC-Leap: Training-Free Acceleration of dLLMs via Draft-Guided Contiguous Leaping Decoding",
+      "summary": "arXiv:2607.20467v1 Announce Type: new Abstract: While parallel decoding is central to the efficiency of Diffusion Large Language Models (dLLMs), current strategies are often hindered by overly conservative confidence thresholds. These thresholds, necessitated by the Joint Probability Dependence Error (JPDE), result in redundant denoising iterations and suboptimal inference speeds. To overcome this, we propose DC-Leap, a training-free framework that enables reliable…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2607.20467",
+      "published_at": "2026-07-24T04:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "LLMs",
+        "APIs",
+        "AI Models",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7534,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2607.20467v1"
+    },
+    {
+      "title": "InferenceBench: A Benchmark for Open-Ended LLM Inference Optimization by AI Agents",
+      "summary": "arXiv:2607.20468v1 Announce Type: new Abstract: AI agents are increasingly used to automate research and development tasks, yet existing benchmarks typically evaluate them on prescribed workflows or narrow action spaces. Even nominally open-ended tasks can often be solved by retrieving a well-known recipe and tuning a few hyperparameters, making it unclear whether strong results reflect genuine optimization or memorized solutions. We introduce InferenceBench, where an agent…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2607.20468",
+      "published_at": "2026-07-24T04:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "LLMs",
+        "AI Agents",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7534,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2607.20468v1"
+    },
+    {
+      "title": "DecodeShare: Tracing the Shared Subspace of LLM Decode-Time Decisions",
+      "summary": "arXiv:2607.20469v1 Announce Type: new Abstract: Large language models (LLMs) handle many tasks with one set of parameters, but under KV-cached inference it is unclear what task-general structure, if any, is used at decode time rather than during prefill. We propose DecodeShare, a protocol that identifies a low-dimensional subspace consistently shared across tasks in decode-time hidden states, and then tests its causal role by removing that subspace only during decoding. In…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2607.20469",
+      "published_at": "2026-07-24T04:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "LLMs",
+        "AI Models",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7534,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2607.20469v1"
+    },
+    {
+      "title": "PlanE: Meta Planning of Data, Tuning, and Inference for Extractive-based LLMs",
+      "summary": "arXiv:2607.20470v1 Announce Type: new Abstract: Enhancing the task-specific capabilities of Large Language Models (LLMs) primarily requires substantial instruction-tuning datasets. However, the sheer volume of such data imposes a considerable annotation cost, and a lack of optimization methods for tailoring LLMs to specific tasks. To address the above issues, we propose a \\textbf{Plan}ning framework for constructing \\textbf{E}xtractive-based LLMs called \\textbf{PlanE}, which…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2607.20470",
+      "published_at": "2026-07-24T04:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "LLMs",
+        "AI Models",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7534,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2607.20470v1"
+    },
+    {
+      "title": "Benchmarking the Personalization Capabilities of Large Language Models",
+      "summary": "arXiv:2607.20471v1 Announce Type: new Abstract: Personalization, the act of varying a message to induce action from a specific receiver while keeping sender, channel, and time fixed, has a long tradition in psychology and marketing as a two-party problem in which sender and receiver have independent objectives. Large language models remove the bounded-inventory constraint of classical retrieval-and-ranking approaches by generating a continuum of message variants conditioned…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2607.20471",
+      "published_at": "2026-07-24T04:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "LLMs",
+        "AI Models",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7534,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2607.20471v1"
+    },
+    {
+      "title": "Robust Critics: Defending LLMs Against Multi-Turn Attacks",
+      "summary": "arXiv:2607.20472v1 Announce Type: new Abstract: When a user asks a language model something harmful, is it a genuine attack or a misunderstood but well-meaning question? This ambiguity is one of the central challenges of LLM safety. A model that assumes the worst harms legitimate users; one that assumes the best is easily exploited. The problem is compounded in multi-turn dialogue, where an attacker's true intent may only reveal itself gradually across many exchanges, yet…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2607.20472",
+      "published_at": "2026-07-24T04:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "LLMs",
+        "AI Models",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7534,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2607.20472v1"
+    }
+  ]
+}
