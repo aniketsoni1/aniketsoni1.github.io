@@ -1,0 +1,296 @@
+{
+  "post_date": "2026-07-29",
+  "display_date": "July 29, 2026",
+  "title": "The Daily Tech Signal - July 29, 2026",
+  "edition": "standard",
+  "opening_summary": "Today's Daily Tech Signal tracks 9 source-reviewed stories spanning AI, APIs, Cloud, Hacker News, Kubernetes, Open Source Foundations, Research. The highlights below focus on what changed and why it matters for data and AI engineering teams, followed by the event radar and this day in computing history.",
+  "news_items": [
+    {
+      "title": "Your Kubernetes health checks are accidentally waking your services. Here’s the fix.",
+      "summary": "Scale-to-zero breaks when health checks scale you back up. Learn how KubeElasti’s ProbeResponse lets Kubernetes services stay genuinely idle — while keeping load balancers and uptime monitors happy. Scale-to-zero sounds perfect on paper. Idle service. No...",
+      "source_name": "CNCF",
+      "source_url": "https://www.cncf.io/blog/2026/07/29/your-kubernetes-health-checks-are-accidentally-waking-your-services-heres-the-fix/",
+      "published_at": "2026-07-29T11:00:00Z",
+      "category": "open_source_foundations",
+      "tags": [
+        "Kubernetes",
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8817,
+      "source_type": "official_blog",
+      "ai_generated_summary": "Scale-to-zero breaks when health checks scale you back up. Learn how KubeElasti’s ProbeResponse lets Kubernetes services stay genuinely idle — while keeping load balancers and uptime monitors happy. Scale-to-zero sounds perfect on paper. Idle service. No...",
+      "why_it_matters": "Matters for platform teams tracking the open-source dependencies under their stack.",
+      "guid": "https://www.cncf.io/?p=170861"
+    },
+    {
+      "title": "French musician Kavinsky found dead",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.euronews.com/culture/2026/07/29/dj-kavinsky-known-for-his-track-nightcall-found-dead-at-his-paris-home",
+      "published_at": "2026-07-29T11:54:37Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.6615,
+      "importance_score": 0.8555,
+      "source_type": "aggregator",
+      "ai_generated_summary": "French musician Kavinsky found dead",
+      "why_it_matters": "Community-surfaced signal worth scanning for emerging developer sentiment.",
+      "guid": "hn-49096290"
+    },
+    {
+      "title": "KOReader",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://koreader.rocks/",
+      "published_at": "2026-07-29T11:05:08Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.8521,
+      "source_type": "aggregator",
+      "ai_generated_summary": "KOReader",
+      "why_it_matters": "Community-surfaced signal worth scanning for emerging developer sentiment.",
+      "guid": "hn-49095865"
+    },
+    {
+      "title": "CNCF and SlashData Report Finds Japan’s Cloud Native Community Reaches Nearly 1 Million Developers",
+      "summary": "New research finds 100,000 of Japan’s AI developers now leverage cloud native technologies Key Highlights: YOKOHAMA – KubeCon + CloudNativeCon Japan —July 29, 2026— The Cloud Native Computing Foundation® (CNCF®), which builds sustainable ecosystems for cloud...",
+      "source_name": "CNCF",
+      "source_url": "https://www.cncf.io/announcements/2026/07/28/cncf-and-slashdata-report-finds-japans-cloud-native-community-reaches-nearly-1-million-developers/",
+      "published_at": "2026-07-29T00:30:00Z",
+      "category": "open_source_foundations",
+      "tags": [
+        "AI",
+        "Cloud",
+        "Research",
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.838,
+      "source_type": "official_blog",
+      "ai_generated_summary": "New research finds 100,000 of Japan’s AI developers now leverage cloud native technologies Key Highlights: YOKOHAMA – KubeCon + CloudNativeCon Japan —July 29, 2026— The Cloud Native Computing Foundation® (CNCF®), which builds sustainable ecosystems for cloud...",
+      "why_it_matters": "Matters for platform teams tracking the open-source dependencies under their stack.",
+      "guid": "https://www.cncf.io/?p=171391"
+    },
+    {
+      "title": "Subaru Wins CNCF End User Case Study Contest for Accelerating AI Development with Cloud Native Infrastructure",
+      "summary": "New architecture reduced AI container image pull times by 60x while automating workflows for next-generation driver assistance systems Key Highlights YOKOHAMA – KUBECON + CLOUDNATIVECON JAPAN — July 29, 2026 — The Cloud Native Computing Foundation®...",
+      "source_name": "CNCF",
+      "source_url": "https://www.cncf.io/announcements/2026/07/28/subaru-wins-cncf-end-user-case-study-contest-for-accelerating-ai-development-with-cloud-native-infrastructure/",
+      "published_at": "2026-07-29T00:30:00Z",
+      "category": "open_source_foundations",
+      "tags": [
+        "AI",
+        "Cloud",
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.838,
+      "source_type": "official_blog",
+      "ai_generated_summary": "New architecture reduced AI container image pull times by 60x while automating workflows for next-generation driver assistance systems Key Highlights YOKOHAMA – KUBECON + CLOUDNATIVECON JAPAN — July 29, 2026 — The Cloud Native Computing Foundation®...",
+      "why_it_matters": "Matters for platform teams tracking the open-source dependencies under their stack.",
+      "guid": "https://www.cncf.io/?p=171386"
+    },
+    {
+      "title": "Welcome CoHDI to the CNCF: Evolving Kubernetes into composable disaggregated infrastructures",
+      "summary": "We are thrilled to announce that CoHDI has officially been accepted as a Cloud Native Computing Foundation (CNCF) Sandbox project! This acceptance into the CNCF Sandbox marks an important milestone in CoHDI’s journey. We would like...",
+      "source_name": "CNCF",
+      "source_url": "https://www.cncf.io/blog/2026/07/28/welcome-cohdi-to-the-cncf-evolving-kubernetes-into-composable-disaggregated-infrastructures/",
+      "published_at": "2026-07-29T00:00:00Z",
+      "category": "open_source_foundations",
+      "tags": [
+        "Kubernetes",
+        "Cloud",
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8359,
+      "source_type": "official_blog",
+      "ai_generated_summary": "We are thrilled to announce that CoHDI has officially been accepted as a Cloud Native Computing Foundation (CNCF) Sandbox project! This acceptance into the CNCF Sandbox marks an important milestone in CoHDI’s journey. We would like...",
+      "why_it_matters": "Matters for platform teams tracking the open-source dependencies under their stack.",
+      "guid": "https://www.cncf.io/?p=170569"
+    },
+    {
+      "title": "Lima v2.2: Windows guests and TPM 2.0 emulation",
+      "summary": "Following macOS and FreeBSD guests in v2.1, Lima v2.2 takes the next big step: Windows guest support. With this release, a single `limactl` workflow can now boot Linux, macOS, FreeBSD and Windows virtual machines. Lima v2.2...",
+      "source_name": "CNCF",
+      "source_url": "https://www.cncf.io/blog/2026/07/28/lima-v2-2-windows-guests-and-tpm-2-0-emulation/",
+      "published_at": "2026-07-29T00:00:00Z",
+      "category": "open_source_foundations",
+      "tags": [
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8359,
+      "source_type": "official_blog",
+      "ai_generated_summary": "Following macOS and FreeBSD guests in v2.1, Lima v2.2 takes the next big step: Windows guest support. With this release, a single `limactl` workflow can now boot Linux, macOS, FreeBSD and Windows virtual machines. Lima v2.2...",
+      "why_it_matters": "Matters for platform teams tracking the open-source dependencies under their stack.",
+      "guid": "https://www.cncf.io/?p=170565"
+    },
+    {
+      "title": "How Japan’s 250% Training Surge is Shaping Global AI Talent",
+      "summary": "The first KubeCon + CloudNativeCon Japan took place in Tokyo in June 2025 and kicked off a cloud native skills boom in the region. In the twelve months since the conference, Kubernetes exams taken in Japan...",
+      "source_name": "CNCF",
+      "source_url": "https://www.cncf.io/blog/2026/07/28/how-japans-250-training-surge-is-shaping-global-ai-talent/",
+      "published_at": "2026-07-28T23:28:55Z",
+      "category": "open_source_foundations",
+      "tags": [
+        "AI",
+        "Kubernetes",
+        "Cloud",
+        "APIs",
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8337,
+      "source_type": "official_blog",
+      "ai_generated_summary": "The first KubeCon + CloudNativeCon Japan took place in Tokyo in June 2025 and kicked off a cloud native skills boom in the region. In the twelve months since the conference, Kubernetes exams taken in Japan...",
+      "why_it_matters": "Matters for platform teams tracking the open-source dependencies under their stack.",
+      "guid": "https://www.cncf.io/?p=171692"
+    },
+    {
+      "title": "Kubeflow unveils new cloud native innovations to supercharge AI",
+      "summary": "The Kubeflow news coming out of Kubecon + CloudNativeCon Japan 2026 highlights several significant advancements and community initiatives. The Kubeflow project is rapidly advancing toward CNCF Graduation, emphasizing its evolution into a mature, production-ready ML ecosystem....",
+      "source_name": "CNCF",
+      "source_url": "https://www.cncf.io/blog/2026/07/28/kubeflow-unveils-new-cloud-native-innovations-to-supercharge-ai/",
+      "published_at": "2026-07-28T23:00:00Z",
+      "category": "open_source_foundations",
+      "tags": [
+        "AI",
+        "Cloud",
+        "APIs",
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8317,
+      "source_type": "official_blog",
+      "ai_generated_summary": "The Kubeflow news coming out of Kubecon + CloudNativeCon Japan 2026 highlights several significant advancements and community initiatives. The Kubeflow project is rapidly advancing toward CNCF Graduation, emphasizing its evolution into a mature, production-ready ML ecosystem....",
+      "why_it_matters": "Matters for platform teams tracking the open-source dependencies under their stack.",
+      "guid": "https://www.cncf.io/?p=170594"
+    }
+  ],
+  "events": [
+    {
+      "event_name": "AWS re:Invent 2026",
+      "organizer": "Amazon Web Services",
+      "event_url": "https://reinvent.awsevents.com/",
+      "start_date": "2026-11-30",
+      "end_date": "2026-12-04",
+      "location": "Las Vegas, NV, USA",
+      "event_state": "upcoming",
+      "summary": "AWS's global cloud & AI conference; in 2026 re:Inforce security content merges in.",
+      "relevance_tags": [
+        "cloud",
+        "aws",
+        "ai",
+        "serverless",
+        "data_engineering",
+        "security"
+      ],
+      "source_url": "https://aws.amazon.com/events/reinvent/"
+    },
+    {
+      "event_name": "Microsoft Ignite 2026",
+      "organizer": "Microsoft",
+      "event_url": "https://ignite.microsoft.com/",
+      "start_date": "2026-11-17",
+      "end_date": "2026-11-20",
+      "location": "Moscone Center, San Francisco, CA, USA",
+      "event_state": "upcoming",
+      "summary": "Microsoft's enterprise IT and developer conference spanning Azure, Fabric, and Copilot.",
+      "relevance_tags": [
+        "azure",
+        "enterprise",
+        "ai",
+        "copilot",
+        "cloud"
+      ],
+      "source_url": "https://ignite.microsoft.com/en-US/home"
+    },
+    {
+      "event_name": "Salesforce Dreamforce 2026",
+      "organizer": "Salesforce",
+      "event_url": "https://www.salesforce.com/dreamforce/",
+      "start_date": "2026-09-15",
+      "end_date": "2026-09-17",
+      "location": "Moscone Center, San Francisco, CA, USA",
+      "event_state": "upcoming",
+      "summary": "Salesforce's flagship conference; heavy focus on Agentforce and enterprise AI agents.",
+      "relevance_tags": [
+        "enterprise",
+        "crm",
+        "agentforce",
+        "ai",
+        "salesforce"
+      ],
+      "source_url": "https://www.salesforce.com/dreamforce/"
+    },
+    {
+      "event_name": "GitHub Universe 2026",
+      "organizer": "GitHub",
+      "event_url": "https://githubuniverse.com/",
+      "start_date": "2026-10-28",
+      "end_date": "2026-10-29",
+      "location": "Fort Mason Center, San Francisco, CA, USA",
+      "event_state": "upcoming",
+      "summary": "GitHub's flagship developer event - 'all together now, in the agentic era.'",
+      "relevance_tags": [
+        "developer_tools",
+        "open_source",
+        "ai",
+        "copilot",
+        "github"
+      ],
+      "source_url": "https://githubuniverse.com/"
+    },
+    {
+      "event_name": "KubeCon + CloudNativeCon North America 2026",
+      "organizer": "Cloud Native Computing Foundation (CNCF)",
+      "event_url": "https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/",
+      "start_date": "2026-11-09",
+      "end_date": "2026-11-12",
+      "location": "Salt Lake City, UT, USA",
+      "event_state": "upcoming",
+      "summary": "The premier Kubernetes and cloud-native ecosystem gathering in North America.",
+      "relevance_tags": [
+        "cloud_native",
+        "kubernetes",
+        "open_source",
+        "platform_engineering"
+      ],
+      "source_url": "https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/"
+    }
+  ],
+  "history_item": {
+    "date": "07-27",
+    "title": "The first lasting transatlantic telegraph cable",
+    "year": 1866,
+    "description": "Completed on 27 July 1866, the transatlantic cable collapsed message time from weeks to minutes - an ancestor of global networking.",
+    "category": "networking",
+    "source_url": "https://en.wikipedia.org/wiki/Transatlantic_telegraph_cable",
+    "confidence_score": 0.95,
+    "importance": 0.7
+  },
+  "takeaway": "The throughline today is the same one that keeps showing up: capability is arriving faster than the data and platform discipline needed to operate it well. The teams that win won't be the ones that adopt the most tools, but the ones that keep their pipelines observable, their data governed, and their systems boring where it counts.",
+  "categories": [
+    "AI",
+    "Data Engineering",
+    "Technology"
+  ],
+  "tags": [
+    "Kubernetes",
+    "Open Source Foundations",
+    "Hacker News",
+    "AI",
+    "Cloud",
+    "Research",
+    "APIs"
+  ],
+  "disclaimer": "This daily brief is AI-assisted and source-reviewed for public technology awareness.",
+  "generated_at": "2026-07-29T15:24:29.327439Z"
+}

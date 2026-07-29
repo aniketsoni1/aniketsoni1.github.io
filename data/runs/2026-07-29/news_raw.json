@@ -1,0 +1,827 @@
+{
+  "generated_at": "2026-07-29T15:23:26.313580+00:00",
+  "post_date": "2026-07-29",
+  "sources_checked": 48,
+  "candidates": 45,
+  "items": [
+    {
+      "title": "Your Kubernetes health checks are accidentally waking your services. Here’s the fix.",
+      "summary": "Scale-to-zero breaks when health checks scale you back up. Learn how KubeElasti’s ProbeResponse lets Kubernetes services stay genuinely idle — while keeping load balancers and uptime monitors happy. Scale-to-zero sounds perfect on paper. Idle service. No...",
+      "source_name": "CNCF",
+      "source_url": "https://www.cncf.io/blog/2026/07/29/your-kubernetes-health-checks-are-accidentally-waking-your-services-heres-the-fix/",
+      "published_at": "2026-07-29T11:00:00+00:00",
+      "category": "open_source_foundations",
+      "tags": [
+        "Kubernetes",
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8817,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.cncf.io/?p=170861"
+    },
+    {
+      "title": "French musician Kavinsky found dead",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.euronews.com/culture/2026/07/29/dj-kavinsky-known-for-his-track-nightcall-found-dead-at-his-paris-home",
+      "published_at": "2026-07-29T11:54:37+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.6615,
+      "importance_score": 0.8555,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49096290"
+    },
+    {
+      "title": "KOReader",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://koreader.rocks/",
+      "published_at": "2026-07-29T11:05:08+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.8521,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49095865"
+    },
+    {
+      "title": "CNCF and SlashData Report Finds Japan’s Cloud Native Community Reaches Nearly 1 Million Developers",
+      "summary": "New research finds 100,000 of Japan’s AI developers now leverage cloud native technologies Key Highlights: YOKOHAMA – KubeCon + CloudNativeCon Japan —July 29, 2026— The Cloud Native Computing Foundation® (CNCF®), which builds sustainable ecosystems for cloud...",
+      "source_name": "CNCF",
+      "source_url": "https://www.cncf.io/announcements/2026/07/28/cncf-and-slashdata-report-finds-japans-cloud-native-community-reaches-nearly-1-million-developers/",
+      "published_at": "2026-07-29T00:30:00+00:00",
+      "category": "open_source_foundations",
+      "tags": [
+        "AI",
+        "Cloud",
+        "Research",
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.838,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.cncf.io/?p=171391"
+    },
+    {
+      "title": "Subaru Wins CNCF End User Case Study Contest for Accelerating AI Development with Cloud Native Infrastructure",
+      "summary": "New architecture reduced AI container image pull times by 60x while automating workflows for next-generation driver assistance systems Key Highlights YOKOHAMA – KUBECON + CLOUDNATIVECON JAPAN — July 29, 2026 — The Cloud Native Computing Foundation®...",
+      "source_name": "CNCF",
+      "source_url": "https://www.cncf.io/announcements/2026/07/28/subaru-wins-cncf-end-user-case-study-contest-for-accelerating-ai-development-with-cloud-native-infrastructure/",
+      "published_at": "2026-07-29T00:30:00+00:00",
+      "category": "open_source_foundations",
+      "tags": [
+        "AI",
+        "Cloud",
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.838,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.cncf.io/?p=171386"
+    },
+    {
+      "title": "Welcome CoHDI to the CNCF: Evolving Kubernetes into composable disaggregated infrastructures",
+      "summary": "We are thrilled to announce that CoHDI has officially been accepted as a Cloud Native Computing Foundation (CNCF) Sandbox project! This acceptance into the CNCF Sandbox marks an important milestone in CoHDI’s journey. We would like...",
+      "source_name": "CNCF",
+      "source_url": "https://www.cncf.io/blog/2026/07/28/welcome-cohdi-to-the-cncf-evolving-kubernetes-into-composable-disaggregated-infrastructures/",
+      "published_at": "2026-07-29T00:00:00+00:00",
+      "category": "open_source_foundations",
+      "tags": [
+        "Kubernetes",
+        "Cloud",
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8359,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.cncf.io/?p=170569"
+    },
+    {
+      "title": "Lima v2.2: Windows guests and TPM 2.0 emulation",
+      "summary": "Following macOS and FreeBSD guests in v2.1, Lima v2.2 takes the next big step: Windows guest support. With this release, a single `limactl` workflow can now boot Linux, macOS, FreeBSD and Windows virtual machines. Lima v2.2...",
+      "source_name": "CNCF",
+      "source_url": "https://www.cncf.io/blog/2026/07/28/lima-v2-2-windows-guests-and-tpm-2-0-emulation/",
+      "published_at": "2026-07-29T00:00:00+00:00",
+      "category": "open_source_foundations",
+      "tags": [
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8359,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.cncf.io/?p=170565"
+    },
+    {
+      "title": "How Japan’s 250% Training Surge is Shaping Global AI Talent",
+      "summary": "The first KubeCon + CloudNativeCon Japan took place in Tokyo in June 2025 and kicked off a cloud native skills boom in the region. In the twelve months since the conference, Kubernetes exams taken in Japan...",
+      "source_name": "CNCF",
+      "source_url": "https://www.cncf.io/blog/2026/07/28/how-japans-250-training-surge-is-shaping-global-ai-talent/",
+      "published_at": "2026-07-28T23:28:55+00:00",
+      "category": "open_source_foundations",
+      "tags": [
+        "AI",
+        "Kubernetes",
+        "Cloud",
+        "APIs",
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8337,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.cncf.io/?p=171692"
+    },
+    {
+      "title": "Kubeflow unveils new cloud native innovations to supercharge AI",
+      "summary": "The Kubeflow news coming out of Kubecon + CloudNativeCon Japan 2026 highlights several significant advancements and community initiatives. The Kubeflow project is rapidly advancing toward CNCF Graduation, emphasizing its evolution into a mature, production-ready ML ecosystem....",
+      "source_name": "CNCF",
+      "source_url": "https://www.cncf.io/blog/2026/07/28/kubeflow-unveils-new-cloud-native-innovations-to-supercharge-ai/",
+      "published_at": "2026-07-28T23:00:00+00:00",
+      "category": "open_source_foundations",
+      "tags": [
+        "AI",
+        "Cloud",
+        "APIs",
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8317,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.cncf.io/?p=170594"
+    },
+    {
+      "title": "Document-borne AI worms can self-propagate through Copilot for Word",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/",
+      "published_at": "2026-07-29T11:44:33+00:00",
+      "category": "aggregators",
+      "tags": [
+        "AI",
+        "Hacker News"
+      ],
+      "confidence_score": 0.6395,
+      "importance_score": 0.8286,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49096188"
+    },
+    {
+      "title": "More Tailscale tricks for your jailbroken Kindle",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes",
+      "published_at": "2026-07-29T04:58:46+00:00",
+      "category": "aggregators",
+      "tags": [
+        "AI",
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.8266,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49093569"
+    },
+    {
+      "title": "User Interfaces of the Demo Scene",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.datagubbe.se/scenegui/",
+      "published_at": "2026-07-29T04:30:36+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.8247,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49093434"
+    },
+    {
+      "title": "Scientific computing in the age of agentic AI",
+      "summary": "A new field report shows how scientists use AI coding agents to modernize scientific computing, accelerating software development and discovery in genomics and beyond.",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/scientific-computing-agentic-ai",
+      "published_at": "2026-07-28T17:00:00+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.99,
+      "importance_score": 0.8067,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/index/scientific-computing-agentic-ai"
+    },
+    {
+      "title": "Gemini API Managed Agents: 3.6 Flash, hooks, and more",
+      "summary": "Managed Agents Gemini 3.6 Flash, Hooks and Triggers",
+      "source_name": "Google AI (The Keyword)",
+      "source_url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/",
+      "published_at": "2026-07-28T16:00:00+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI Agents",
+        "APIs",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.8026,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/"
+    },
+    {
+      "title": "CNCF Announces Schedule for Debut Observability Summit Europe",
+      "summary": "Summit gathers practitioners, contributors and engineers to advance open observability standards and practices Key Highlights SAN FRANCISCO, July 28, 2026—The Cloud Native Computing Foundation® (CNCF®), which builds sustainable ecosystems for cloud native software, today announced the...",
+      "source_name": "CNCF",
+      "source_url": "https://www.cncf.io/announcements/2026/07/28/cncf-announces-schedule-for-debut-observability-summit-europe/",
+      "published_at": "2026-07-28T16:00:00+00:00",
+      "category": "open_source_foundations",
+      "tags": [
+        "AI",
+        "Cloud",
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8026,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.cncf.io/?p=171621"
+    },
+    {
+      "title": "SQLite in Production: Optimizing WAL Mode, Concurrency, and VFS Layers",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://micrologics.org/blog/sqlite-in-production-optimizing-wal-mode-concurrency-and-vfs-layers-for-low-latency-app-servers",
+      "published_at": "2026-07-29T07:18:24+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.6355,
+      "importance_score": 0.8001,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49094346"
+    },
+    {
+      "title": "Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript",
+      "summary": "HN is great for the links people share, but a big part of the value I get comes from reading the discussion around them. I realized I was always opening the article in one tab and the comments in another, constantly switching back and forth. I figured there was probably a simpler way, so I threw…",
+      "source_name": "Hacker News",
+      "source_url": "https://github.com/twalichiewicz/HNewhere",
+      "published_at": "2026-07-28T22:09:06+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7982,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49090607"
+    },
+    {
+      "title": "Half-Life ported to Mac OS 9",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://mac-classic.com/news/half-life-ported-to-mac-os-9/",
+      "published_at": "2026-07-28T20:58:39+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.6955,
+      "importance_score": 0.7933,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49089814"
+    },
+    {
+      "title": "Codex Security",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://github.com/openai/codex-security",
+      "published_at": "2026-07-28T20:52:55+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Security",
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7929,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49089755"
+    },
+    {
+      "title": "5 ways AI Mode in Search helps you enjoy the real world",
+      "summary": "Illustration of a black magnifying glass in a white circle on green grass surrounded by items related to fun activities like tennis and games",
+      "source_name": "Google AI (The Keyword)",
+      "source_url": "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/",
+      "published_at": "2026-07-28T13:00:00+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.92,
+      "importance_score": 0.7901,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/"
+    },
+    {
+      "title": "5 ways to host the ultimate dinner party with Google Search",
+      "summary": "An illustrated black magnifying glass with a sparkle in a white circle surrounded by a dinner party tablescape",
+      "source_name": "Google AI (The Keyword)",
+      "source_url": "https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips/",
+      "published_at": "2026-07-28T13:00:00+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "Apache Spark",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.92,
+      "importance_score": 0.7901,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips/"
+    },
+    {
+      "title": "Shopping’s New First Step: Agentic Search Grows 200% as Purchase Journeys Start in AI Chats",
+      "summary": "Key Takeaways More shoppers now start with a question to an AI — in a large language model (LLM) conversation or in an AI assistant on a retailer’s own site. Use of agentic search as the first step in the shopping journey grew 200% year over year, according to Salesforce’s Fourth Edition State of Commerce […]",
+      "source_name": "Salesforce News",
+      "source_url": "https://www.salesforce.com/news/stories/agentic-search-growth/",
+      "published_at": "2026-07-28T13:00:00+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "LLMs",
+        "AI Agents",
+        "AI Models",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7901,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.salesforce.com/?p=94387"
+    },
+    {
+      "title": "Developing Healthcare Robotics with GPU-Native Medical Physics Simulation",
+      "summary": "Unlike autonomous driving or industrial robotics, healthcare robotics can’t rely on internet-scale data collection or unlimited real-world experimentation....",
+      "source_name": "NVIDIA Developer Blog",
+      "source_url": "https://developer.nvidia.com/blog/developing-healthcare-robotics-with-gpu-native-medical-physics-simulation/",
+      "published_at": "2026-07-28T20:49:21+00:00",
+      "category": "mlops",
+      "tags": [
+        "GPUs",
+        "Mlops"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.7626,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://developer.nvidia.com/blog/?p=120400"
+    },
+    {
+      "title": "MinIO pitches persistent memory for agents with work to finish",
+      "summary": "AIStor keeps context, files, and secrets under customer control so interrupted jobs can pick up where they left off",
+      "source_name": "The Register",
+      "source_url": "https://www.theregister.com/storage/2026/07/29/minio-pitches-persistent-memory-for-agents-with-work-to-finish/5280407",
+      "published_at": "2026-07-29T15:15:00+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7594,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.theregister.com/a/5280407"
+    },
+    {
+      "title": "Only 49 songs have stayed at No. 1 on the chart for 10 weeks or more — here they all are",
+      "summary": "Very few hit songs have managed to rule the Billboard Hot 100 for double-digit weeks. Here's a complete list of the chart's longest leaders.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/number-1-songs-chart-longest-leaders-billboard-hot-100",
+      "published_at": "2026-07-29T15:11:25+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7592,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/number-1-songs-chart-longest-leaders-billboard-hot-100"
+    },
+    {
+      "title": "I booked a budget-friendly, all-inclusive resort in Mexico for a family trip. I wouldn't do it again.",
+      "summary": "I didn't give much thought to a pop-up about seaweed when I booked our trip. Reality was much worse than I imagined.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/budget-friendly-all-inclusive-mexico-regrets-sargassum-2026-7",
+      "published_at": "2026-07-29T15:09:01+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.759,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/budget-friendly-all-inclusive-mexico-regrets-sargassum-2026-7"
+    },
+    {
+      "title": "Handbook.md shows that long policy documents do not reliably govern agents",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://arxiv.org/abs/2607.25398",
+      "published_at": "2026-07-29T13:01:57+00:00",
+      "category": "aggregators",
+      "tags": [
+        "AI Agents",
+        "Hacker News"
+      ],
+      "confidence_score": 0.6095,
+      "importance_score": 0.759,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49096969"
+    },
+    {
+      "title": "The VMware deadline that could reshape your IT strategy",
+      "summary": "PARTNER CONTENT: With vSphere 8 support ending in 2027, IT leaders must navigate tight timelines and costs to modernize on their terms.",
+      "source_name": "The Register",
+      "source_url": "https://www.theregister.com/virtualization/2026/07/29/partner-content/5279072",
+      "published_at": "2026-07-29T15:00:00+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7584,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.theregister.com/a/5279072"
+    },
+    {
+      "title": "Celebrity deaths in 2026: Remembering the famous people we lost this year",
+      "summary": "Here are the stars we lost this year, including James Van Der Beek, Catherine O'Hara, Ted Turner, Glen Hansard, and Jesse Jackson.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/celebrity-deaths-famous-people-who-died-2026",
+      "published_at": "2026-07-29T14:58:39+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7583,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/celebrity-deaths-famous-people-who-died-2026"
+    },
+    {
+      "title": "Negotiating Your Salary Is About More Than Money",
+      "summary": "Accepting the first offer may cost you and your employer",
+      "source_name": "IEEE Spectrum",
+      "source_url": "https://spectrum.ieee.org/how-to-negotiate-your-salary",
+      "published_at": "2026-07-29T14:55:45+00:00",
+      "category": "research_feeds",
+      "tags": [
+        "Research Feeds"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.7581,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://spectrum.ieee.org/how-to-negotiate-your-salary"
+    },
+    {
+      "title": "How a $150 handheld fan became Europe's hottest status symbol",
+      "summary": "Europe's heat waves and lack of air conditioning helped turn Shark's $150 ChillPill handheld fan into the summer's hottest status symbol.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/shark-chillpill-fan-europe-accessory-status-symbol-2026-7",
+      "published_at": "2026-07-29T14:51:09+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7578,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/shark-chillpill-fan-europe-accessory-status-symbol-2026-7"
+    },
+    {
+      "title": "Encore AI raises $30M to build AI agents that learn from customer calls",
+      "summary": "The startup analyzes calls, messages and CRM data to identify effective sales techniques and turn them into playbooks for AI agents.",
+      "source_name": "TechCrunch - AI",
+      "source_url": "https://techcrunch.com/2026/07/29/encore-ai-raises-30m-to-build-ai-agents-that-learn-from-customer-calls/",
+      "published_at": "2026-07-29T14:41:06+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7571,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://techcrunch.com/?p=3147736"
+    },
+    {
+      "title": "NASA Swift rescue mission spins into trouble during commissioning",
+      "summary": "Two reaction wheels are out and comms sporadic as controllers work to stabilize LINK",
+      "source_name": "The Register",
+      "source_url": "https://www.theregister.com/science/2026/07/29/nasa-swift-rescue-mission-spins-into-trouble-during-commissioning/5280425",
+      "published_at": "2026-07-29T14:29:00+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7562,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.theregister.com/a/5280425"
+    },
+    {
+      "title": "Developers are attached to tools because tools encode trust​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍‌﻿‌‍‍‌‌‍﻿‍​‍​‍​﻿‍‍​‍​‍‌﻿​﻿‌‍​‌‌‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌‍‍‌‌‍﻿﻿​‍​‍​‍﻿​​‍​‍‌‍‍​‌﻿​‍‌‍‌‌‌‍‌‍​‍​‍​﻿‍‍​‍​‍‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​﻿‍‍​‍﻿﻿​‍﻿﻿‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍﻿﻿‌‍‍‌‌‍﻿‍‌﻿‌​‌‍‌‌‌‍﻿‍‌﻿‌​​‍﻿﻿‌‍‌‌‌‍‌​‌‍‍‌‌﻿‌​​‍﻿﻿‌‍﻿‌‌‍﻿﻿‌‍‌​‌‍‌‌​﻿﻿‌‌﻿​​‌﻿​‍‌‍‌‌‌﻿​﻿‌‍‌‌‌‍﻿‍‌﻿‌​‌‍​‌‌﻿‌​‌‍‍‌‌‍﻿﻿‌‍﻿‍​﻿‍﻿‌‍‍‌‌‍‌​​﻿﻿‌‌‍​﻿​﻿​﻿​﻿‌﻿​﻿​​‌‍‌‌​﻿‌‌​﻿‍‌​﻿‌​​‍﻿‌​﻿‌‍​﻿​​‌‍​‌​﻿‍‌​‍﻿‌​﻿‌​​﻿​‍​﻿​﻿‌‍​﻿​‍﻿‌​﻿‍​​﻿‌​​﻿​‌‌‍​‍​‍﻿‌​﻿‌​‌‍‌‌‌‍​‌​﻿​​​﻿‌﻿‌‍​‌‌‍​﻿‌‍​‍‌‍​﻿​﻿​﻿‌‍​﻿‌‍‌‌​﻿‍﻿‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​﻿‍﻿‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​﻿﻿﻿‌‍​‍‌‍​‌‌﻿​﻿‌‍‌‌‌‌‌‌‌﻿​‍‌‍﻿​​﻿﻿‌‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​‍‌‌​﻿​﻿‌​​‌​‍‌‌​﻿​‍‌​‌‍​‍‌‌​﻿​‍‌​‌‍‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍‌‍‌‍‍‌‌‍‌​​﻿﻿‌‌‍​﻿​﻿​﻿​﻿‌﻿​﻿​​‌‍‌‌​﻿‌‌​﻿‍‌​﻿‌​​‍﻿‌​﻿‌‍​﻿​​‌‍​‌​﻿‍‌​‍﻿‌​﻿‌​​﻿​‍​﻿​﻿‌‍​﻿​‍﻿‌​﻿‍​​﻿‌​​﻿​‌‌‍​‍​‍﻿‌​﻿‌​‌‍‌‌‌‍​‌​﻿​​​﻿‌﻿‌‍​‌‌‍​﻿‌‍​‍‌‍​﻿​﻿​﻿‌‍​﻿‌‍‌‌​‍‌‍‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​‍‌‍‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​‍‌‍‌﻿​​‌‍‌‌‌﻿​‍‌﻿​﻿‌﻿​​‌‍‌‌‌‍​﻿‌﻿‌​‌‍‍‌‌﻿‌‍‌‍‌‌​﻿﻿‌‌﻿​​‌﻿‌‌‌‍​‍‌‍﻿​‌‍‍‌‌﻿​﻿‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌﻿﻿‌",
+      "summary": "The tools themselves are new and their capabilities are in constant flux. If your kitchen knife kept changing shape, weight, and edge, you’d have to relearn it every time; that’s a hard tool to build trust in. But it also points to a flaw in how you use that tool, the process around it, and the way the tool reinforces the…",
+      "source_name": "Stack Overflow Blog",
+      "source_url": "https://stackoverflow.blog/2026/07/29/developers-are-attached-to-tools-because-tools-encode-trust/",
+      "published_at": "2026-07-29T14:06:38+00:00",
+      "category": "developer_platforms",
+      "tags": [
+        "Developer Platforms"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7547,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "c370e594-60a9-423c-841b-4ea07acbc3ce"
+    },
+    {
+      "title": "Siobahn Day Grady Wants Everyone to Be AI Literate",
+      "summary": "The professor launched the first AI research institute at an HBCU",
+      "source_name": "IEEE Spectrum",
+      "source_url": "https://spectrum.ieee.org/siobahn-day-grady-ai-hbcu",
+      "published_at": "2026-07-29T14:00:02+00:00",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.7542,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://spectrum.ieee.org/siobahn-day-grady-ai-hbcu"
+    },
+    {
+      "title": "I've traveled extensively while on a GLP-1. I wish someone had told me a few things before my first trip.",
+      "summary": "I travel often for work, but starting Wegovy changed the way I plan and experience trips. I wish I'd known more about traveling on a GLP-1.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/traveling-on-weight-loss-medication-challenges-what-to-know-2026-7",
+      "published_at": "2026-07-29T13:58:01+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7541,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/traveling-on-weight-loss-medication-challenges-what-to-know-2026-7"
+    },
+    {
+      "title": "Interior designers share 9 trends they'd like to see in more homes",
+      "summary": "From colorful ceilings and canopy beds to biophilic design elements, here are the home trends interior designers wish they saw more of.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/interior-design-trends-that-should-be-in-more-homes-2026-7",
+      "published_at": "2026-07-29T13:53:49+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7538,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/interior-design-trends-that-should-be-in-more-homes-2026-7"
+    },
+    {
+      "title": "Iran-linked CyberAv3ngers suspected in attacks on Minnesota water systems",
+      "summary": "More than 30 facilities disrupted in 'coordinated cyberattack,' though officials have yet to name a culprit",
+      "source_name": "The Register",
+      "source_url": "https://www.theregister.com/security/2026/07/29/iran-linked-cyberav3ngers-suspected-in-attacks-on-minnesota-water-systems/5280357",
+      "published_at": "2026-07-29T13:49:00+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7535,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.theregister.com/a/5280357"
+    },
+    {
+      "title": "Coordinated Cyberattack Targets 30+ Minnesota Water Systems as One Plant Goes Offline",
+      "summary": "A coordinated cyberattack targeted operational technology at more than 30 Minnesota community water systems on July 26 and 27, triggering a statewide cybersecurity response. Braham, Plymouth, South St. Paul and Maple Plain have publicly described a plant outage, communications failures or affected automated controls. Braham's water plant went offline, and the city asked residents to minimize",
+      "source_name": "The Hacker News",
+      "source_url": "https://thehackernews.com/2026/07/coordinated-cyberattack-targets-30.html",
+      "published_at": "2026-07-29T13:48:36+00:00",
+      "category": "cybersecurity",
+      "tags": [
+        "AI",
+        "Security",
+        "Cybersecurity"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7534,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://thehackernews.com/2026/07/coordinated-cyberattack-targets-30.html"
+    },
+    {
+      "title": "X Says Australia’s Under-16 Social Media Ban Risks Interfering With Foreign Law",
+      "summary": "Elon Musk’s platform attacked the country’s “invasive” information-gathering powers as it demands the government drop efforts to strengthen its no-children policy.",
+      "source_name": "Wired",
+      "source_url": "https://www.wired.com/story/x-says-australias-under-16s-social-media-bans-risk-interfering-with-foreign-law/",
+      "published_at": "2026-07-29T13:47:46+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7534,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "6a69b710f2f28be47a640c36"
+    },
+    {
+      "title": "Russia Charges Telegram’s Founder Pavel Durov With Facilitating Terrorism",
+      "summary": "The case against Pavel Durov reflected an ongoing fight over one of the world’s most popular messaging and media apps, which is widely used in the country.",
+      "source_name": "The New York Times - Technology",
+      "source_url": "https://www.nytimes.com/2026/07/29/world/europe/telegram-russia-pavel-durov.html",
+      "published_at": "2026-07-29T13:46:29+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7533,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.nytimes.com/2026/07/29/world/europe/telegram-russia-pavel-durov.html"
+    },
+    {
+      "title": "Nine-Year Fraud Campaign Clones Russian Company Sites to Steal Advance Payments",
+      "summary": "Cybersecurity researchers have disclosed details of a large-scale fraud campaign that involves creating lookalike websites of major Russian companies with an aim to siphon funds from international firms for more than nine years. According to Russian cybersecurity vendor F6, the threat actors have set up clone websites of Russian companies across fertilizer manufacturers, petrochemical companies",
+      "source_name": "The Hacker News",
+      "source_url": "https://thehackernews.com/2026/07/nine-year-fraud-campaign.html",
+      "published_at": "2026-07-29T13:42:57+00:00",
+      "category": "cybersecurity",
+      "tags": [
+        "AI",
+        "Security",
+        "Research",
+        "Cybersecurity"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.753,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://thehackernews.com/2026/07/nine-year-fraud-campaign.html"
+    },
+    {
+      "title": "Whenever I host dinner parties, my friends beg me to make Joanna Gaines' decadent chocolate-cola cake",
+      "summary": "My favorite recipe for chocolate cake (and buttercream) is from Joanna Gaines. The star ingredient is cola, and it's perfect for dinner parties.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/best-chocolate-cake-recipe-joanna-gaines-2026-7",
+      "published_at": "2026-07-29T13:37:53+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7527,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/best-chocolate-cake-recipe-joanna-gaines-2026-7"
+    },
+    {
+      "title": "Do Models Fake Alignment Without Clear Consequences?",
+      "summary": "arXiv:2607.24758v1 Announce Type: new Abstract: Large language models are capable of recognizing evaluation contexts and altering their behavior to reflect evaluator expectations rather than typical deployment behaviors, a phenomenon known as alignment faking. The reasons why models fake alignment are not fully understood, however. Canonical examples of alignment faking have taken place in scenarios that explicitly connect evaluation to consequences for the model, such as…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2607.24758",
+      "published_at": "2026-07-29T04:00:00+00:00",
+      "category": "research_feeds",
+      "tags": [
+        "LLMs",
+        "AI Models",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7526,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2607.24758v1"
+    },
+    {
+      "title": "Beyond Memory: A Templated Substrate for Heterogeneous Collaborative Knowledge Work with LLM Agents",
+      "summary": "arXiv:2607.24759v1 Announce Type: new Abstract: Research projects, educational efforts, and adjacent knowledge work accumulate findings, decisions, and reasoning that future collaborators rarely recover. The parts most useful to that work, including dead ends and walked-back claims, are routinely excluded from publications and shared code; future researchers re-attempt the same failures because no record survives. LLM coding agents are common participants but hold no…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2607.24759",
+      "published_at": "2026-07-29T04:00:00+00:00",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "LLMs",
+        "AI Agents",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7526,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2607.24759v1"
+    }
+  ]
+}
