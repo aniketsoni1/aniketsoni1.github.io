@@ -1744,6 +1744,10 @@ footer{border-top:1px solid var(--border);padding:2.5rem 3rem;background:var(--s
 .cf-hint{font-family:'JetBrains Mono',monospace;font-size:0.58rem;color:var(--lime);margin-top:0.25rem;min-height:1em;letter-spacing:0.04em}
 .cf-submit{width:100%;font-family:'JetBrains Mono',monospace;font-size:0.7rem;letter-spacing:0.12em;text-transform:uppercase;padding:0.75rem;background:var(--lime);color:#fff;border:none;border-radius:4px;cursor:pointer;font-weight:500;transition:background 0.2s}
 .cf-submit:hover{background:var(--lime-dark)}
+.cf-submit:disabled{opacity:0.6;cursor:not-allowed}
+.cf-status{font-family:'JetBrains Mono',monospace;font-size:0.62rem;line-height:1.6;letter-spacing:0.03em;margin-top:0.75rem;min-height:1em;text-align:center}
+.cf-status--ok{color:var(--lime)}
+.cf-status--error{color:#ff6b4a}
 [data-theme="light"] .cf-select,[data-theme="light"] .cf-input,[data-theme="light"] .cf-textarea{background:rgba(255,255,255,0.8);color:var(--text)}
 
 /* ═══ FEATURE 9 - MEDIUM IN PRESS ═══ */
@@ -2909,18 +2913,19 @@ tr.pub-row[data-href]:hover .pub-doi { color: var(--lime); }
   </div>
   <p class="contact-sub">Engaged in research collaborations, peer review, expert judging, speaking invitations, and mentorship across the global technology and data engineering community.</p>
 
-  <div class="contact-form-wrap">
+  <!-- FormSubmit token endpoint (keeps the destination address out of page source) -->
+  <form class="contact-form-wrap" id="cfForm" action="https://formsubmit.co/ajax/a701e963a217f648199f231cab05c598" method="POST" novalidate>
     <div class="cf-group">
-      <label class="cf-label">Name</label>
-      <input type="text" class="cf-input" placeholder="Your name">
+      <label class="cf-label" for="cfName">Name</label>
+      <input type="text" class="cf-input" id="cfName" name="name" placeholder="Your name" autocomplete="name" required>
     </div>
     <div class="cf-group">
-      <label class="cf-label">Email</label>
-      <input type="email" class="cf-input" placeholder="your@email.com">
+      <label class="cf-label" for="cfEmail">Email</label>
+      <input type="email" class="cf-input" id="cfEmail" name="email" placeholder="your@email.com" autocomplete="email" required>
     </div>
     <div class="cf-group">
-      <label class="cf-label">Inquiry Type</label>
-      <select class="cf-select" id="cfInquiry" onchange="prefillCF()">
+      <label class="cf-label" for="cfInquiry">Inquiry Type</label>
+      <select class="cf-select" id="cfInquiry" name="inquiry_type" onchange="prefillCF()">
         <option value="">Select a reason for reaching out...</option>
         <option value="research">Research Collaboration</option>
         <option value="speaking">Speaking Invitation</option>
@@ -2933,11 +2938,20 @@ tr.pub-row[data-href]:hover .pub-doi { color: var(--lime); }
       <div class="cf-hint" id="cfHint"></div>
     </div>
     <div class="cf-group">
-      <label class="cf-label">Message</label>
-      <textarea class="cf-textarea" id="cfMessage" placeholder="Your message..."></textarea>
+      <label class="cf-label" for="cfMessage">Message</label>
+      <textarea class="cf-textarea" id="cfMessage" name="message" placeholder="Your message..." required></textarea>
     </div>
-    <button class="cf-submit" onclick="submitCF()">Send Message</button>
-  </div>
+
+    <!-- FormSubmit config -->
+    <input type="hidden" name="_subject" value="Portfolio Inquiry - aniketsoni.com">
+    <input type="hidden" name="_template" value="table">
+    <input type="hidden" name="_captcha" value="false">
+    <!-- honeypot: bots fill this, humans never see it -->
+    <input type="text" name="_honey" style="display:none" tabindex="-1" autocomplete="off" aria-hidden="true">
+
+    <button type="submit" class="cf-submit">Send Message</button>
+    <div class="cf-status" id="cfStatus" role="status" aria-live="polite"></div>
+  </form>
 </section>
 
 <!-- ════════════════════ FOOTER ════════════════════ -->
@@ -3245,28 +3259,66 @@ function prefillCF() {
     hintEl.textContent = cfPrefills[val].hint;
   } else { msgEl.value = ''; hintEl.textContent = ''; }
 }
-function submitCF() {
-  const name = document.querySelector('.cf-input[placeholder="Your name"]')?.value?.trim();
-  const email = document.querySelector('.cf-input[placeholder="your@email.com"]')?.value?.trim();
-  const inquiry = document.getElementById('cfInquiry')?.value;
-  const message = document.getElementById('cfMessage')?.value?.trim();
+// ── CONTACT FORM SUBMISSION (FormSubmit AJAX) ──
+// Endpoint lives in the <form action> and uses FormSubmit's hashed token rather than a
+// naked email address, so the destination inbox stays out of page source.
+(function() {
+  const form = document.getElementById('cfForm');
+  if (!form) return;
 
-  if (!name || !email || !message) {
-    alert('Please fill in your name, email, and message.');
-    return;
-  }
+  const statusEl = document.getElementById('cfStatus');
+  const btn = form.querySelector('.cf-submit');
+  const setStatus = (msg, kind) => {
+    statusEl.textContent = msg;
+    statusEl.className = 'cf-status' + (kind ? ' cf-status--' + kind : '');
+  };
 
-  // Build mailto: link as the activation method
-  // Replace with Formspree endpoint once you set one up at formspree.io/new
-  const subject = encodeURIComponent('Portfolio Inquiry: ' + (inquiry || 'General'));
-  const body = encodeURIComponent('Name: ' + name + '\nEmail: ' + email + '\n\n' + message);
-  window.location.href = 'mailto:mail@aniketsoni.com?subject=' + subject + '&body=' + body;
+  form.addEventListener('submit', async function(e) {
+    e.preventDefault();
 
-  const btn = document.querySelector('.cf-submit');
-  btn.textContent = 'Opening your email client... ✓';
-  btn.style.background = 'var(--green)';
-  setTimeout(() => { btn.textContent = 'Send Message'; btn.style.background = ''; }, 4000);
-}
+    // NB: form.elements[...] not form.name — form.name resolves to the form's own attribute
+    const name = form.elements['name'].value.trim();
+    const email = form.elements['email'].value.trim();
+    const message = form.elements['message'].value.trim();
+
+    if (!name || !email || !message) {
+      setStatus('Please fill in your name, email, and message.', 'error');
+      return;
+    }
+    if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email)) {
+      setStatus('Please enter a valid email address.', 'error');
+      return;
+    }
+
+    const original = btn.textContent;
+    btn.disabled = true;
+    btn.textContent = 'Sending...';
+    setStatus('', '');
+
+    try {
+      const res = await fetch(form.action, {
+        method: 'POST',
+        headers: {'Accept': 'application/json'},
+        body: new FormData(form)
+      });
+      const data = await res.json().catch(() => ({}));
+
+      if (res.ok && String(data.success) !== 'false') {
+        form.reset();
+        document.getElementById('cfHint').textContent = '';
+        btn.textContent = 'Message sent ✓';
+        setStatus('Thanks — your message is on its way. I usually reply within a few days.', 'ok');
+        setTimeout(() => { btn.textContent = original; btn.disabled = false; }, 5000);
+      } else {
+        throw new Error(data.message || 'Submission failed');
+      }
+    } catch (err) {
+      btn.textContent = original;
+      btn.disabled = false;
+      setStatus('Something went wrong. Please email me directly at mail@aniketsoni.com.', 'error');
+    }
+  });
+})();
 
 // ── ABOUT PHOTO GALLERY (keep for compatibility) ──
 (function() {
