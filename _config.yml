@@ -42,6 +42,17 @@ social:
     - https://scholar.google.com/citations?user=Rtn7hFAAAAAJ&hl=en
     - https://orcid.org/0009-0001-6312-2967
 
+# ── Analytics ──
+# Both are opt-in and production-only (see _includes/analytics.html).
+# Leave a value empty to disable that provider entirely.
+#   goatcounter: the MYCODE in https://MYCODE.goatcounter.com - cookieless, and the
+#                source of the public per-post view counts. Requires "Allow adding
+#                visitor counts on your website" to be ON in the GoatCounter settings.
+#   ga4:         GA4 measurement ID (G-XXXXXXXXXX) - private dashboard only.
+analytics:
+  goatcounter: ""
+  ga4: ""
+
 # ── Blog build behaviour ──
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title/

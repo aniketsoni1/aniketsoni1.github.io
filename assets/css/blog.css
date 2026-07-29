@@ -186,6 +186,28 @@ nav#nav.scrolled {
 .archive-arrow { color:var(--muted2); transition:color 0.2s,transform 0.2s; }
 .archive-link:hover .archive-arrow { color:var(--lime); transform:translateX(3px); }
 
+/* ══════════ VIEW COUNTS (GoatCounter) ══════════
+   Every counter ships with the `hidden` attribute and is revealed by
+   _includes/view-counts.html once a real number arrives, so nothing reflows
+   into an empty box and a post with no data yet simply shows nothing. */
+[data-views][hidden] { display:none; }
+
+.bf-views {
+  font-family:'JetBrains Mono',monospace; font-size:0.66rem; letter-spacing:0.1em;
+  text-transform:uppercase; color:var(--muted);
+}
+.bf-views::before { content:'·'; margin:0 0.55rem; color:var(--muted2); }
+
+.archive-views { color:var(--lime); }
+.archive-views::before { content:'·'; margin:0 0.45rem; color:var(--muted2); }
+
+.meta-views::before { content:'•'; margin-right:0.7rem; color:var(--muted2); }
+
+.footer-total {
+  font-family:'JetBrains Mono',monospace; font-size:0.6rem; letter-spacing:0.06em;
+  color:var(--muted2); margin-top:0.35rem;
+}
+
 /* ══════════ TAG CLOUD ══════════ */
 .blog-tagcloud { display:flex; flex-wrap:wrap; gap:0.5rem; padding-bottom:1rem; }
 .cloud-tag {

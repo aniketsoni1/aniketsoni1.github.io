@@ -42,6 +42,7 @@ description: "The Daily Tech Signal - a daily, source-reviewed brief on AI, data
     <div class="bf-flag">Newest</div>
     {%- if featured.edition == "perspective" %}<div class="bf-flag bf-flag-perspective">Perspective</div>{% endif %}
     <time class="bf-date" datetime="{{ featured.date | date_to_xmlschema }}">{{ featured.date | date: "%B %-d, %Y" }}</time>
+    <span class="bf-views" data-views="{{ featured.url }}" hidden><span data-views-n></span> views</span>
     <h2 class="bf-title">{{ featured.title }}</h2>
     <p class="bf-excerpt">{{ featured.description | default: featured.excerpt | strip_html | truncate: 220 }}</p>
     <div class="bf-tags">
@@ -62,6 +63,7 @@ description: "The Daily Tech Signal - a daily, source-reviewed brief on AI, data
         <span class="archive-title">{{ post.title }}{% if post.edition == "perspective" %} <span class="perspective-badge">Perspective</span>{% endif %}</span>
         <span class="archive-cats">
           {%- for cat in post.categories limit: 3 %}{{ cat }}{% unless forloop.last %} / {% endunless %}{%- endfor %}
+          <span class="archive-views" data-views="{{ post.url }}" hidden><span data-views-n></span> views</span>
         </span>
         <span class="archive-arrow">&rarr;</span>
       </a>

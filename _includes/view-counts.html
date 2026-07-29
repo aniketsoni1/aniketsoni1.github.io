@@ -1,0 +1,70 @@
+{%- comment -%}
+  Fills in every [data-views] element from GoatCounter's public counter endpoint.
+
+  Markup contract:
+    <span data-views="/some/path/" hidden><span data-views-n></span> views</span>
+
+  The element stays `hidden` until a count arrives, and is removed outright if the
+  path has no data yet - a brand-new post shows nothing rather than a bleak "0".
+  Requires "Allow adding visitor counts on your website" to be enabled in the
+  GoatCounter site settings, otherwise the endpoint 403s and counters stay hidden.
+{%- endcomment -%}
+{%- if jekyll.environment == "production" and site.analytics.goatcounter and site.analytics.goatcounter != "" -%}
+<script>
+(function () {
+  var ENDPOINT = 'https://{{ site.analytics.goatcounter }}.goatcounter.com/counter/';
+  var nodes = document.querySelectorAll('[data-views]');
+  if (!nodes.length || !window.fetch) { return; }
+
+  // GoatCounter caches counter responses for up to 4h upstream; a short session
+  // cache keeps a reader clicking through the archive from refetching the same paths.
+  var TTL = 6e5; // 10 minutes
+  function cached(key) {
+    try {
+      var raw = sessionStorage.getItem('gcv:' + key);
+      if (!raw) { return null; }
+      var v = JSON.parse(raw);
+      return (Date.now() - v.t < TTL) ? v.c : null;
+    } catch (e) { return null; }
+  }
+  function store(key, count) {
+    try { sessionStorage.setItem('gcv:' + key, JSON.stringify({ c: count, t: Date.now() })); }
+    catch (e) { /* private mode - just skip the cache */ }
+  }
+
+  function render(el, count) {
+    if (!count) { el.remove(); return; }
+    el.querySelector('[data-views-n]').textContent = count;
+    el.hidden = false;
+  }
+
+  function load(el) {
+    var path = el.getAttribute('data-views');
+    var hit = cached(path);
+    if (hit !== null) { render(el, hit); return; }
+
+    fetch(ENDPOINT + encodeURIComponent(path) + '.json')
+      .then(function (r) { return r.ok ? r.json() : null; })
+      .then(function (d) {
+        // `count` is already a formatted string with thousands separators.
+        var c = (d && d.count) ? d.count : null;
+        if (c) { store(path, c); }
+        render(el, c);
+      })
+      .catch(function () { render(el, null); });
+  }
+
+  // The archive carries one counter per row, so only fetch what's near the viewport.
+  if ('IntersectionObserver' in window) {
+    var io = new IntersectionObserver(function (entries) {
+      entries.forEach(function (entry) {
+        if (entry.isIntersecting) { io.unobserve(entry.target); load(entry.target); }
+      });
+    }, { rootMargin: '200px' });
+    Array.prototype.forEach.call(nodes, function (n) { io.observe(n); });
+  } else {
+    Array.prototype.forEach.call(nodes, load);
+  }
+})();
+</script>
+{%- endif -%}

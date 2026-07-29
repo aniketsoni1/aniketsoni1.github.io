@@ -1,0 +1,38 @@
+{%- comment -%}
+  Site-wide analytics. Both providers are opt-in from _config.yml and are only
+  emitted on production builds, so `jekyll serve` locally never pollutes the data.
+
+    analytics.ga4         GA4 measurement ID, e.g. "G-XXXXXXXXXX"
+    analytics.goatcounter GoatCounter site code - the MYCODE in MYCODE.goatcounter.com
+
+  GoatCounter is cookieless and is what feeds the public view counts rendered by
+  _includes/view-counts.html. GA4 is the private dashboard only; its Data API needs
+  server-side auth, so it can't produce public counts on a static site.
+{%- endcomment -%}
+{%- if jekyll.environment == "production" -%}
+
+{%- if site.analytics.ga4 and site.analytics.ga4 != "" %}
+<!-- Google Analytics 4 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id={{ site.analytics.ga4 }}"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  // Consent Mode v2 - measurement only, no advertising signals.
+  gtag('consent', 'default', {
+    ad_storage: 'denied',
+    ad_user_data: 'denied',
+    ad_personalization: 'denied',
+    analytics_storage: 'granted'
+  });
+  gtag('js', new Date());
+  gtag('config', '{{ site.analytics.ga4 }}', { anonymize_ip: true });
+</script>
+{%- endif %}
+
+{%- if site.analytics.goatcounter and site.analytics.goatcounter != "" %}
+<!-- GoatCounter - cookieless; also the source of the public view counts -->
+<script data-goatcounter="https://{{ site.analytics.goatcounter }}.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
+{%- endif %}
+
+{%- endif -%}

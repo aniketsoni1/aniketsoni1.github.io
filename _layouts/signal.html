@@ -43,6 +43,8 @@
   <!-- Per-page <head> extras (e.g. BlogPosting JSON-LD) are injected by
        child layouts via the page.head_extra front-matter hook below. -->
   {{ page.head_extra }}
+
+  {%- include analytics.html %}
 </head>
 <body class="signal-body">
 
@@ -86,6 +88,8 @@
         <a href="{{ '/' | absolute_url }}">Portfolio</a>
       </div>
       <p class="footer-copy">&copy; {{ site.time | date: "%Y" }} {{ site.author.name }}. Built with a schema-first, validation-first pipeline.</p>
+      <!-- TOTAL is GoatCounter's reserved path for the site-wide figure. -->
+      <p class="footer-total" data-views="TOTAL" hidden><span data-views-n></span> total views</p>
     </div>
   </footer>
 
@@ -137,5 +141,7 @@
       });
     })();
   </script>
+
+  {%- include view-counts.html %}
 </body>
 </html>

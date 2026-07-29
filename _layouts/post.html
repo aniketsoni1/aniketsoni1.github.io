@@ -62,6 +62,7 @@ layout: signal
       <span class="meta-item">{{ read_time }} min read</span>
       <span class="meta-sep">•</span>
       <a class="meta-item meta-rss" href="{{ '/feed.xml' | relative_url }}">Subscribe (RSS)</a>
+      <span class="meta-item meta-views" data-views="{{ page.url }}" hidden><span data-views-n></span> views</span>
     </div>
 
     {%- if page.tags and page.tags.size > 0 %}
