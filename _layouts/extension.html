@@ -11,8 +11,7 @@
   <meta name="color-scheme" content="dark light">
 
   <!-- Apply the saved theme BEFORE first paint (no flash). Shares the same
-       localStorage key as the homepage, so the choice follows the visitor
-       across portfolio ⇄ blog. -->
+       localStorage key as the homepage and the blog. -->
   <script>
     (function () {
       try {
@@ -32,23 +31,54 @@
 
   <!-- jekyll-seo-tag: title, description, canonical, Open Graph, Twitter, JSON-LD -->
   {% seo %}
-  <!-- jekyll-feed: RSS/Atom autodiscovery -->
-  {% feed_meta %}
 
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Plus+Jakarta+Sans:ital,wght@0,300;0,400;0,500;0,600;1,300&family=JetBrains+Mono:wght@300;400;500&display=swap" rel="stylesheet">
+  <!-- blog.css supplies the shared design tokens, nav, footer and theme toggle. -->
   <link rel="stylesheet" href="{{ '/assets/css/blog.css' | relative_url }}">
+  <link rel="stylesheet" href="{{ '/assets/css/extensions.css' | relative_url }}">
 
-  <!-- Per-page <head> extras (e.g. BlogPosting JSON-LD) are injected by
-       child layouts via the page.head_extra front-matter hook below. -->
+  {%- comment -%}
+    SoftwareApplication JSON-LD for individual extension pages. Driven entirely
+    by front matter, so it only renders on pages that declare a marketplace_id.
+  {%- endcomment -%}
+  {%- if page.marketplace_id -%}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "SoftwareApplication",
+    "name": {{ page.ext_name | jsonify }},
+    "description": {{ page.description | jsonify }},
+    "applicationCategory": "DeveloperApplication",
+    "operatingSystem": "Windows, macOS, Linux",
+    "softwareVersion": {{ page.version | jsonify }},
+    "url": {{ page.url | absolute_url | jsonify }},
+    "downloadUrl": {{ page.marketplace_url | jsonify }},
+    "license": "https://www.apache.org/licenses/LICENSE-2.0",
+    "isAccessibleForFree": true,
+    "offers": { "@type": "Offer", "price": "0", "priceCurrency": "USD" },
+    "author": {
+      "@type": "Person",
+      "name": {{ site.author.name | jsonify }},
+      "url": {{ '/' | absolute_url | jsonify }}
+    },
+    "publisher": {
+      "@type": "Person",
+      "name": {{ site.author.name | jsonify }},
+      "url": {{ '/' | absolute_url | jsonify }}
+    }
+  }
+  </script>
+  {%- endif -%}
+
   {{ page.head_extra }}
 
   {%- include analytics.html %}
 </head>
-<body class="signal-body">
+<body class="signal-body ext-body">
 
-  <!-- ══ Grain overlay + scanline (parity with the homepage) ══ -->
+  <!-- ══ Grain overlay (parity with the homepage) ══ -->
   <div class="grain" aria-hidden="true"></div>
 
   <!-- ══ Navigation - visually native to the portfolio ══ -->
@@ -62,41 +92,89 @@
       <li><a href="{{ '/' | absolute_url }}">Home</a></li>
       <li><a href="{{ '/#experience' | absolute_url }}">Experience</a></li>
       <li><a href="{{ '/#publications' | absolute_url }}">Research</a></li>
-      <li><a href="{{ '/extensions/' | relative_url }}">Extensions</a></li>
-      <li><a href="{{ '/blog/' | relative_url }}" class="{% if page.url contains '/blog' %}active{% endif %}">The Signal</a></li>
+      <li><a href="{{ '/extensions/' | relative_url }}" class="{% if page.url contains '/extensions' %}active{% endif %}">Extensions</a></li>
+      <li><a href="{{ '/blog/' | relative_url }}">The Signal</a></li>
       <li><a href="{{ '/#contact' | absolute_url }}" class="nav-cta">Connect</a></li>
     </ul>
   </nav>
 
   <!-- ══ Page content ══ -->
-  <main id="main" class="signal-main">
-    {{ content }}
+  <main id="main" class="signal-main ext-main">
+
+    {%- comment -%}
+      Shared page header. Individual extension pages additionally render an
+      install block and a Marketplace link from their front matter.
+    {%- endcomment -%}
+    <header class="ext-header">
+      {%- if page.eyebrow %}
+      <div class="sec-eyebrow"><span class="eyebrow-mark">//</span> {{ page.eyebrow }}</div>
+      {%- endif %}
+      <h1 class="ext-title">{{ page.title }}</h1>
+      {%- if page.tagline %}
+      <p class="ext-tagline">{{ page.tagline }}</p>
+      {%- endif %}
+
+      {%- if page.marketplace_id %}
+      <div class="ext-meta">
+        <span class="ext-meta-item">Publisher <strong>{{ site.author.name }}</strong></span>
+        <span class="ext-meta-item">License <strong>Apache-2.0</strong></span>
+        {%- if page.first_published %}
+        <span class="ext-meta-item">Published <strong>{{ page.first_published }}</strong></span>
+        {%- endif %}
+      </div>
+
+      <div class="ext-actions">
+        <a class="ext-btn ext-btn-primary" href="{{ page.marketplace_url }}" rel="noopener">View on VS Marketplace ↗</a>
+        <a class="ext-btn" href="{{ page.repo_url }}" rel="noopener">Source on GitHub ↗</a>
+      </div>
+
+      <div class="ext-install">
+        <div class="ext-install-label">Install from the command line</div>
+        <pre class="ext-install-cmd"><code>code --install-extension {{ page.marketplace_id }}</code></pre>
+        <p class="ext-install-note">
+          Or search <strong>{{ page.ext_name }}</strong> in the Extensions panel
+          (<kbd>Ctrl</kbd>/<kbd>Cmd</kbd>+<kbd>Shift</kbd>+<kbd>X</kbd>).
+        </p>
+      </div>
+      {%- endif %}
+    </header>
+
+    <article class="ext-content">
+      {{ content }}
+    </article>
+
+    <nav class="ext-pagenav" aria-label="Extension pages">
+      <a href="{{ '/extensions/' | relative_url }}">← All extensions</a>
+      <a href="{{ '/extensions/support/' | relative_url }}">Support</a>
+      <a href="{{ '/extensions/privacy/' | relative_url }}">Privacy</a>
+    </nav>
   </main>
 
   <!-- ══ Footer ══ -->
   <footer class="signal-footer">
     <div class="signal-footer-inner">
       <div class="footer-brand">
-        <span class="footer-mark">{{ site.blog.brand }}</span>
+        <span class="footer-mark">VS Code Extensions</span>
         <span class="footer-by">by {{ site.author.name }}</span>
       </div>
-      <p class="footer-disclaimer">{{ site.blog.disclaimer }}</p>
+      <p class="footer-disclaimer">
+        Published to the Visual Studio Marketplace under the publisher
+        <strong>{{ site.author.name }}</strong>. All extensions are Apache-2.0 licensed and send no telemetry.
+      </p>
       <div class="footer-links">
-        <a href="{{ '/blog/' | relative_url }}">Archive</a>
-        <a href="{{ '/feed.xml' | relative_url }}">RSS</a>
+        <a href="{{ '/extensions/' | relative_url }}">Extensions</a>
+        <a href="{{ '/extensions/support/' | relative_url }}">Support</a>
+        <a href="{{ '/extensions/privacy/' | relative_url }}">Privacy</a>
+        <a href="https://marketplace.visualstudio.com/publishers/AniketSoni" rel="noopener">Marketplace</a>
         <a href="https://github.com/{{ site.author.github }}" rel="noopener">GitHub</a>
-        <a href="https://www.linkedin.com/in/{{ site.author.linkedin }}" rel="noopener">LinkedIn</a>
         <a href="{{ '/' | absolute_url }}">Portfolio</a>
       </div>
-      <p class="footer-copy">&copy; {{ site.time | date: "%Y" }} {{ site.author.name }}. Built with a schema-first, validation-first pipeline.</p>
-      <!-- TOTAL is GoatCounter's reserved path for the site-wide figure. -->
-      <p class="footer-total" data-views="TOTAL" hidden><span data-views-n></span> total views</p>
+      <p class="footer-copy">&copy; {{ site.time | date: "%Y" }} {{ site.author.name }}.</p>
     </div>
   </footer>
 
   <!-- ══ Theme toggle (parity with homepage) ══ -->
   <button id="theme-toggle" aria-label="Toggle light/dark theme" title="Toggle theme">
-    <!-- Sun icon - visible in dark mode -->
     <svg class="t-icon t-sun" width="18" height="18" viewBox="0 0 24 24" fill="none"
          stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true">
       <circle cx="12" cy="12" r="4"/>
@@ -109,7 +187,6 @@
       <line x1="4.22"  y1="19.78" x2="6.34"  y2="17.66"/>
       <line x1="17.66" y1="6.34"  x2="19.78" y2="4.22"/>
     </svg>
-    <!-- Moon icon - visible in light mode -->
     <svg class="t-icon t-moon" width="18" height="18" viewBox="0 0 24 24" fill="none"
          stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
       <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/>
@@ -126,13 +203,11 @@
       };
       onScroll();
       window.addEventListener('scroll', onScroll, { passive: true });
-      // Close the mobile menu after a tap on any link.
       document.querySelectorAll('.nav-menu a').forEach(function (a) {
         a.addEventListener('click', function () {
           document.getElementById('nav-toggle').checked = false;
         });
       });
-      // Theme toggle - same localStorage key as the homepage.
       var html = document.documentElement;
       var btn = document.getElementById('theme-toggle');
       btn.addEventListener('click', function () {
@@ -143,6 +218,5 @@
     })();
   </script>
 
-  {%- include view-counts.html %}
 </body>
 </html>

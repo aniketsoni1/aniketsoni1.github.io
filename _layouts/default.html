@@ -807,6 +807,10 @@ h2.sec-title{
 }
 .proj-card:nth-child(1){grid-row:span 2}
 .proj-card:nth-child(5){grid-column:span 2}
+/* The VS Code extensions group is a plain 3-up row - opt it out of the
+   masonry span rules above so all three cards share equal weight. */
+.projects-masonry--ext .proj-card:nth-child(1){grid-row:auto}
+.projects-masonry--ext .proj-card:nth-child(5){grid-column:auto}
 .proj-card::after{
   content:'';position:absolute;inset:0;
   background:radial-gradient(circle at 50% 0%,var(--lime-dim),transparent 60%);
@@ -1834,6 +1838,7 @@ tr.pub-row[data-href]:hover .pub-doi { color: var(--lime); }
     <li><a href="#skills">Stack</a></li>
     <li><a href="#experience">Experience</a></li>
     <li><a href="#projects">Projects</a></li>
+    <li><a href="/extensions/">Extensions</a></li>
     <li><a href="#publications">Research</a></li>
     <li><a href="#press">Media</a></li>
     <li><a href="#recognition">Recognition</a></li>
@@ -2276,6 +2281,56 @@ tr.pub-row[data-href]:hover .pub-doi { color: var(--lime); }
     <div class="gh-grid reveal" id="ghGrid">
       <div class="gh-loading"><div class="gh-spinner"></div>Fetching repositories...</div>
     </div>
+    <div class="proj-group-label reveal">Published VS Code Extensions</div>
+    <div class="projects-masonry projects-masonry--ext reveal">
+
+      <article class="proj-card">
+        <div class="proj-cat">VS Code · TypeScript · Offline</div>
+        <h3 class="proj-title">Code Trio - Compare Beautify Spellcheck</h3>
+        <p class="proj-desc">Four offline developer tools in one extension: compare/diff with word- and character-level refinement, three-way merge that reads git's conflict stages directly, a code-aware spell checker that splits camelCase and suppresses URLs, hashes and UUIDs before lookup, and a beautifier that bundles Prettier and uses Ruff, gofmt, rustfmt and clang-format when already installed. No network calls, no telemetry, ever.</p>
+        <div class="proj-stats">
+          <span class="proj-stat">Fully Offline</span>
+          <span class="proj-stat">Shared CLI Core</span>
+          <span class="proj-stat">Apache-2.0</span>
+        </div>
+        <a href="/extensions/code-trio/" class="proj-link">Details →</a>
+        <a href="https://marketplace.visualstudio.com/items?itemName=AniketSoni.code-trio-compare-beautify-spellcheck" target="_blank" rel="noopener noreferrer" class="proj-link">Marketplace ↗</a>
+        <a href="https://github.com/aniketsoni1/code-trio-compare-beautify-spellcheck" target="_blank" rel="noopener noreferrer" class="proj-link">GitHub ↗</a>
+        <div class="proj-year">July 2026 · VS Marketplace</div>
+      </article>
+
+      <article class="proj-card">
+        <div class="proj-cat">VS Code · Data Engineering · Root Cause</div>
+        <h3 class="proj-title">Pipeline Failure Agent</h3>
+        <p class="proj-desc">Investigates failed data pipelines, jobs, queries and workflows without leaving the editor. Isolates the earliest meaningful failure from cascading noise, diffs the failed run against a healthy baseline, and correlates root causes across Databricks, Snowflake, dbt, GitHub, MongoDB and Jira into a ranked report where every finding is labeled by evidence strength. Deterministic-first; AI optional and off by default.</p>
+        <div class="proj-stats">
+          <span class="proj-stat">Evidence-Labeled</span>
+          <span class="proj-stat">PII Redaction</span>
+          <span class="proj-stat">6 Connectors</span>
+        </div>
+        <a href="/extensions/pipeline-failure-agent/" class="proj-link">Details →</a>
+        <a href="https://marketplace.visualstudio.com/items?itemName=AniketSoni.pipeline-failure-agent-vscode" target="_blank" rel="noopener noreferrer" class="proj-link">Marketplace ↗</a>
+        <a href="https://github.com/aniketsoni1/pipeline-failure-agent" target="_blank" rel="noopener noreferrer" class="proj-link">GitHub ↗</a>
+        <div class="proj-year">July 2026 · VS Marketplace</div>
+      </article>
+
+      <article class="proj-card">
+        <div class="proj-cat">VS Code · Document Generation · AI</div>
+        <h3 class="proj-title">DocForge - Document Generator</h3>
+        <p class="proj-desc">Turns a prompt into a polished Markdown or HTML document, resolving the best available generator through a transparent ladder - the VS Code Language Model API, a compatible AI extension, your own API key, or built-in deterministic templates - and always reporting which one ran. The offline template path means it never hard-fails, even with no AI and no network.</p>
+        <div class="proj-stats">
+          <span class="proj-stat">Offline Fallback</span>
+          <span class="proj-stat">Sanitized HTML</span>
+          <span class="proj-stat">Strict CSP</span>
+        </div>
+        <a href="/extensions/docforge/" class="proj-link">Details →</a>
+        <a href="https://marketplace.visualstudio.com/items?itemName=AniketSoni.docforge-vscode" target="_blank" rel="noopener noreferrer" class="proj-link">Marketplace ↗</a>
+        <a href="https://github.com/aniketsoni1/doc-forge" target="_blank" rel="noopener noreferrer" class="proj-link">GitHub ↗</a>
+        <div class="proj-year">July 2026 · VS Marketplace</div>
+      </article>
+
+    </div>
+
     <div class="proj-group-label reveal">Curated Highlights</div>
     <div class="projects-masonry reveal">
 
@@ -2987,6 +3042,7 @@ tr.pub-row[data-href]:hover .pub-doi { color: var(--lime); }
       <div class="footer-nav-links">
         <a href="#about">About</a>
         <a href="#publications">Research</a>
+        <a href="/extensions/">Extensions</a>
         <a href="#press">Media</a>
         <a href="#recognition">Recognition</a>
         <a href="#experience">Experience</a>

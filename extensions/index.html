@@ -1,0 +1,118 @@
+---
+layout: extension
+title: "VS Code Extensions"
+permalink: /extensions/
+eyebrow: "Developer tools"
+tagline: "Three open-source Visual Studio Code extensions - offline-first, deterministic, Apache-2.0, and free of telemetry. Each one shares a TypeScript core with a matching command-line tool."
+description: "Open-source VS Code extensions by Aniket Abhishek Soni: Code Trio (compare, merge, spell check, beautify), DocForge (document generator) and Pipeline Failure Agent (data pipeline root-cause analysis). Offline-first, Apache-2.0, no telemetry."
+---
+
+<p>
+  All three extensions are published to the Visual Studio Marketplace under the publisher
+  <a href="https://marketplace.visualstudio.com/publishers/AniketSoni" rel="noopener"><strong>Aniket Abhishek Soni</strong></a>,
+  and developed in the open on <a href="https://github.com/aniketsoni1" rel="noopener">GitHub</a>.
+  They share a common design philosophy: <strong>deterministic-first</strong> behaviour, no
+  network calls unless you explicitly ask for them, no telemetry, and an offline fallback
+  that always works.
+</p>
+
+<div class="ext-grid">
+
+  <a class="ext-card" href="{{ '/extensions/code-trio/' | relative_url }}">
+    <div class="ext-card-cat">Formatters · Linters · Visualization</div>
+    <h2 class="ext-card-title">Code Trio - Compare Beautify Spellcheck</h2>
+    <p class="ext-card-desc">
+      Four offline developer tools in one extension: compare/diff, three-way merge, a
+      code-aware spell checker, and a beautifier. Prettier is bundled; Ruff, Black, gofmt,
+      rustfmt and clang-format are used when already installed. No network calls, ever.
+    </p>
+    <div class="ext-card-tags">
+      <span class="ext-card-tag">Diff &amp; merge</span>
+      <span class="ext-card-tag">Spell check</span>
+      <span class="ext-card-tag">Formatting</span>
+      <span class="ext-card-tag">Offline</span>
+    </div>
+  </a>
+
+  <a class="ext-card" href="{{ '/extensions/pipeline-failure-agent/' | relative_url }}">
+    <div class="ext-card-cat">Data Science · Testing · Debuggers</div>
+    <h2 class="ext-card-title">Pipeline Failure Agent</h2>
+    <p class="ext-card-desc">
+      Investigate failed data pipelines, jobs, queries and workflows without leaving the
+      editor. Isolates the earliest meaningful failure from cascading noise and produces a
+      ranked, evidence-labeled incident report. Optional AI, off by default.
+    </p>
+    <div class="ext-card-tags">
+      <span class="ext-card-tag">Root cause</span>
+      <span class="ext-card-tag">Databricks</span>
+      <span class="ext-card-tag">Snowflake</span>
+      <span class="ext-card-tag">dbt</span>
+    </div>
+  </a>
+
+  <a class="ext-card" href="{{ '/extensions/docforge/' | relative_url }}">
+    <div class="ext-card-cat">Other · Formatters · Machine Learning</div>
+    <h2 class="ext-card-title">DocForge - Document Generator</h2>
+    <p class="ext-card-desc">
+      Generate polished Markdown or HTML documents from a prompt, using whatever AI you
+      already have - with an always-on offline template fallback so it never hard-fails.
+      Every document tells you which generator produced it.
+    </p>
+    <div class="ext-card-tags">
+      <span class="ext-card-tag">Markdown</span>
+      <span class="ext-card-tag">HTML</span>
+      <span class="ext-card-tag">Offline fallback</span>
+    </div>
+  </a>
+
+</div>
+
+<h2>Shared principles</h2>
+
+<p>
+  These are not three unrelated side projects. They are built the same way, and the
+  constraints below are enforced by tests rather than merely documented.
+</p>
+
+<ul>
+  <li>
+    <strong>Deterministic-first.</strong> The core behaviour of every extension is
+    reproducible and runs locally. Where AI is available it is additive, optional, and
+    clearly labelled - never a prerequisite.
+  </li>
+  <li>
+    <strong>No telemetry.</strong> None of the three extensions collects usage data,
+    analytics, or crash reports. See the <a href="{{ '/extensions/privacy/' | relative_url }}">privacy policy</a>.
+  </li>
+  <li>
+    <strong>Explicit network access.</strong> Code Trio makes no network calls at all.
+    DocForge and Pipeline Failure Agent only contact services you have explicitly
+    configured and approved.
+  </li>
+  <li>
+    <strong>Workspace Trust aware.</strong> Operations that write to disk or execute
+    external tools are disabled in untrusted workspaces.
+  </li>
+  <li>
+    <strong>Secrets in SecretStorage.</strong> API keys and credentials are stored in
+    VS Code SecretStorage - never in <code>settings.json</code>, never in logs.
+  </li>
+  <li>
+    <strong>Shared core with a CLI.</strong> Each extension is a thin UI over a pure
+    TypeScript core that also powers a cross-platform command-line tool, so the editor
+    and the terminal never disagree.
+  </li>
+  <li>
+    <strong>Apache-2.0.</strong> Free to use, modify and distribute. Source, issues and
+    changelogs are public.
+  </li>
+</ul>
+
+<h2>Support and issues</h2>
+
+<p>
+  Bug reports and feature requests go to the GitHub issue tracker for the relevant
+  repository - that is the fastest route and keeps the discussion public and searchable.
+  See the <a href="{{ '/extensions/support/' | relative_url }}">support page</a> for
+  per-extension links and what to include in a report.
+</p>
