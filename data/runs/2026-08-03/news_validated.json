@@ -1,0 +1,864 @@
+{
+  "post_date": "2026-08-03",
+  "sources_checked": 48,
+  "count": 45,
+  "items": [
+    {
+      "title": "Cortex completes OSTIF security audit",
+      "summary": "The Open Source Technology Improvement Fund is proud to share the results of our security audit of Cortex. Cortex functions as a long-term, multi-tenant scalable open source storage for Prometheus and OpenTelemetry. Thanks to Quarkslab and...",
+      "source_name": "CNCF",
+      "source_url": "https://www.cncf.io/blog/2026/08/03/cortex-completes-ostif-security-audit/",
+      "published_at": "2026-08-03T11:30:00Z",
+      "category": "open_source_foundations",
+      "tags": [
+        "Open Source",
+        "Security",
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8814,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.cncf.io/?p=171238"
+    },
+    {
+      "title": "Critical CVE issued for hallucinated SQLite vulnerability",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/",
+      "published_at": "2026-08-03T11:28:54Z",
+      "category": "aggregators",
+      "tags": [
+        "Security",
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.8513,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49154332"
+    },
+    {
+      "title": "Prevent cognitive debt by manually retyping LLM-generated code",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/",
+      "published_at": "2026-08-03T09:32:07Z",
+      "category": "aggregators",
+      "tags": [
+        "LLMs",
+        "Hacker News"
+      ],
+      "confidence_score": 0.6765,
+      "importance_score": 0.8432,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49153374"
+    },
+    {
+      "title": "Don't be a meat proxy",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://gruhn.me/blog/2026-08-03/",
+      "published_at": "2026-08-03T06:28:01Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.8304,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49151933"
+    },
+    {
+      "title": "Empty sandboxes break developer experience",
+      "summary": "Learn how Docker Sandbox kits turn empty sandboxes into productive development environments with repeatable tooling, credentials, and configuration.",
+      "source_name": "Docker Blog",
+      "source_url": "https://www.docker.com/blog/empty-sandboxes-break-developer-experience/",
+      "published_at": "2026-08-03T13:00:00Z",
+      "category": "developer_platforms",
+      "tags": [
+        "Containers",
+        "Developer Platforms"
+      ],
+      "confidence_score": 0.87,
+      "importance_score": 0.8276,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.docker.com/?p=92667"
+    },
+    {
+      "title": "Docker AI Governance: Audit Logs, Now Where Your Security Team Already Works",
+      "summary": "Now in Docker AI Governance: a single searchable record of every policy decision your agents trigger, streamed to the SIEM your security team already runs, so you can show what your agents did and what your policy stopped. Today, Docker AI Governance now streams every policy decision in your organization into the SIEM your security...",
+      "source_name": "Docker Blog",
+      "source_url": "https://www.docker.com/blog/docker-ai-governance-audit-logs-now-where-your-security-team-already-works/",
+      "published_at": "2026-08-03T13:00:00Z",
+      "category": "developer_platforms",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Containers",
+        "Security",
+        "Data Governance",
+        "Developer Platforms"
+      ],
+      "confidence_score": 0.87,
+      "importance_score": 0.8276,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.docker.com/?p=92655"
+    },
+    {
+      "title": "Bonsai: Janestreet's UI Library",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://github.com/janestreet/bonsai",
+      "published_at": "2026-08-03T08:29:57Z",
+      "category": "aggregators",
+      "tags": [
+        "AI",
+        "Hacker News"
+      ],
+      "confidence_score": 0.644,
+      "importance_score": 0.8239,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49152842"
+    },
+    {
+      "title": "Behind the scenes: How we build, test, and scale Google Agent Skills",
+      "summary": "AI agents are only as good as the instructions and context you give them. When we launched Google Agent Skills , our goal was simple: encode Google Cloud domain knowledge into structured, open-source instructions that make AI coding agents significantly smarter, safer, and more accurate. Today, I want to take you behind the scenes of Google Agent Skills. As a team member working directly on these skills, I will share how we started, how we maintain quality at scale, and how…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/topics/developers-practitioners/behind-the-scenes-how-we-build-test-and-scale-google-agent-skills/",
+      "published_at": "2026-08-03T11:23:00Z",
+      "category": "cloud_providers",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Cloud",
+        "Google Cloud",
+        "Open Source",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.8209,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/topics/developers-practitioners/behind-the-scenes-how-we-build-test-and-scale-google-agent-skills/"
+    },
+    {
+      "title": "Qwen3.8-Max: A New Bar for Coding and Cowork",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://qwen.ai/blog?id=qwen3.8",
+      "published_at": "2026-08-03T02:16:09Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.8129,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49150470"
+    },
+    {
+      "title": "Show HN: Isopolis – Isometric pixel map of SF",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://sf.isopolis.city/",
+      "published_at": "2026-08-03T00:46:38Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.8067,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49149966"
+    },
+    {
+      "title": "Rust project goals: Immobile types and guaranteed destructors",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://github.com/rust-lang/rust-project-goals/blob/main/src/2026/move-trait.md",
+      "published_at": "2026-08-03T06:42:00Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.634,
+      "importance_score": 0.7914,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49152023"
+    },
+    {
+      "title": "Secure every commit to production with Claude and GitLab",
+      "summary": "Agentic coding is moving faster than many enterprise governance programs can keep up with. Coding assistants, like the Claude security guidance plugin and Claude Security , can flag and fix common vulnerabilities in code as it's written, in the same session. This is valuable for writing more secure code, but security doesn't stop there. A commit is one stage in the path to production: Merges, dependency updates, infrastructure changes, and audits happen after the session…",
+      "source_name": "GitLab Blog",
+      "source_url": "https://about.gitlab.com/blog/claude-security-and-gitlab/",
+      "published_at": "2026-08-03T00:00:00Z",
+      "category": "developer_platforms",
+      "tags": [
+        "AI Agents",
+        "Security",
+        "Data Governance",
+        "Developer Platforms"
+      ],
+      "confidence_score": 0.86,
+      "importance_score": 0.7735,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://about.gitlab.com/blog/claude-security-and-gitlab/"
+    },
+    {
+      "title": "What Are Companies Getting for All That A.I. Spending?",
+      "summary": "A new field of “tokenomics” has emerged to measure the return on all the money companies are pouring into artificial intelligence.",
+      "source_name": "The New York Times - Technology",
+      "source_url": "https://www.nytimes.com/2026/08/03/business/economy/ai-spending-tokenomics.html",
+      "published_at": "2026-08-03T15:40:01Z",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7587,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.nytimes.com/2026/08/03/business/economy/ai-spending-tokenomics.html"
+    },
+    {
+      "title": "Interior designers share 5 of the best and 3 of the worst ways to use extra space in your home",
+      "summary": "From styling bookshelves to skipping built-in cabinets, here's what designers have to say about the best and worst ways to use extra space in a home.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/best-and-worst-ways-to-use-extra-space-home-designers-2026-8",
+      "published_at": "2026-08-03T15:25:02Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7577,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/best-and-worst-ways-to-use-extra-space-home-designers-2026-8"
+    },
+    {
+      "title": "SpaceX’s Stock Lockup Is Expiring. Prepare for a Bumpy Ride.",
+      "summary": "On Thursday, employees and other insiders at Elon Musk’s rocket company will be released from their first stock “lockup” and can start selling some of their shares.",
+      "source_name": "The New York Times - Technology",
+      "source_url": "https://www.nytimes.com/2026/08/03/technology/spacex-lockup-stock-market.html",
+      "published_at": "2026-08-03T15:10:56Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7567,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.nytimes.com/2026/08/03/technology/spacex-lockup-stock-market.html"
+    },
+    {
+      "title": "Google Earth Disables A.I. Tool After One Day Over Disinformation Concerns",
+      "summary": "A new Google Earth tool allowed the creation of A.I. deepfake maps. The company quickly pulled it back after users noted there were no safeguards to prevent content that could be harmful.",
+      "source_name": "The New York Times - Technology",
+      "source_url": "https://www.nytimes.com/2026/08/02/technology/google-earth-ai-satellite-images.html",
+      "published_at": "2026-08-03T14:31:11Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.754,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.nytimes.com/2026/08/02/technology/google-earth-ai-satellite-images.html"
+    },
+    {
+      "title": "My husband and I want our kids to learn from our financial mistakes, not repeat them",
+      "summary": "Our financial missteps impact the way we talk to our kids about money. For us, no topic is off-limits.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/teach-kids-to-learn-from-parents-financial-mistakes-2026-8",
+      "published_at": "2026-08-03T14:28:01Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7537,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/teach-kids-to-learn-from-parents-financial-mistakes-2026-8"
+    },
+    {
+      "title": "I moved to Japan on a one-year visa. I'm spending less on housing than I did back home while exploring new cities.",
+      "summary": "I moved from Canada to Japan on a one-year visa. Living in short-term rentals in different cities, from Tokyo to Osaka, has more pros than cons.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/moved-to-japan-year-living-different-cities-pros-cons-cheaper-2026-8",
+      "published_at": "2026-08-03T14:25:01Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7535,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/moved-to-japan-year-living-different-cities-pros-cons-cheaper-2026-8"
+    },
+    {
+      "title": "MediaTek lines up $5B war chest for AI datacenter push",
+      "summary": "Taiwanese silicon biz believes it can take up to 20% of $80B market with upcoming ASIC chips, but analysts are sceptical",
+      "source_name": "The Register",
+      "source_url": "https://www.theregister.com/ai-and-ml/2026/08/03/mediatek-lines-up-5b-war-chest-for-ai-datacenter-push/5282304",
+      "published_at": "2026-08-03T14:15:06Z",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7528,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.theregister.com/a/5282304"
+    },
+    {
+      "title": "Police National Legal Database confirms data theft after dark web leak",
+      "summary": "ExfilSquad claims 135,000 contact records weeks after hitting the Department for Education",
+      "source_name": "The Register",
+      "source_url": "https://www.theregister.com/cyber-crime/2026/08/03/police-national-legal-database-confirms-data-theft-after-dark-web-leak/5282332",
+      "published_at": "2026-08-03T14:13:00Z",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "Databases",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7527,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.theregister.com/a/5282332"
+    },
+    {
+      "title": "⚡ Weekly Recap: Rogue AI Models, $88M Bitcoin Theft, Water-System Attacks and Dangling DNS Hijacks",
+      "summary": "This week kept coming back to permission. A model crossed a boundary. A wallet trusted bad randomness. Webmail kept an intruder around. Public systems, package feeds, hotel networks, and login flows all gave away more than intended. Some of it was clever. Most of it was just access left lying around: old bugs, exposed gear, poisoned dependencies, weak defaults, and tooling that moved from",
+      "source_name": "The Hacker News",
+      "source_url": "https://thehackernews.com/2026/08/weekly-recap-rogue-ai-models-88m.html",
+      "published_at": "2026-08-03T14:03:11Z",
+      "category": "cybersecurity",
+      "tags": [
+        "AI",
+        "AI Models",
+        "Cybersecurity"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.752,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://thehackernews.com/2026/08/weekly-recap-rogue-ai-models-88m.html"
+    },
+    {
+      "title": "I lost my job after burnout. It became the fresh start I needed.",
+      "summary": "Mary Roberts says recovering from burnout helped her lose weight reverse her declining health, and regain the confidence to launch her own consultancy.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/lost-job-health-transformation-weight-loss-2026-8",
+      "published_at": "2026-08-03T14:01:57Z",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7519,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/lost-job-health-transformation-weight-loss-2026-8"
+    },
+    {
+      "title": "The VC firm behind Shopify is doubling down on robotics and defense",
+      "summary": "The venture capital firm, best known for bets on Shopify, Notion, and Mercor, has hired a new partner to invest in physical world technologies.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/felicis-hires-graham-littlehale-to-lead-hard-tech-startup-focus-2026-8",
+      "published_at": "2026-08-03T14:00:01Z",
+      "category": "mainstream_press",
+      "tags": [
+        "APIs",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7518,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/felicis-hires-graham-littlehale-to-lead-hard-tech-startup-focus-2026-8"
+    },
+    {
+      "title": "MiniMax H3 Day-0 Support in ComfyUI: Open Weights, Native Audio, and 2K Video",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://blog.comfy.org/p/minimax-h3-day-0-support-in-comfyui",
+      "published_at": "2026-08-03T13:34:43Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.6065,
+      "importance_score": 0.7512,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49155629"
+    },
+    {
+      "title": "NASA boss balks at billion-dollar estimate for recycled Moon rover",
+      "summary": "Turning two Mars testbeds into one lunar explorer may prove anything but cheap",
+      "source_name": "The Register",
+      "source_url": "https://www.theregister.com/science/2026/08/03/nasa-boss-balks-at-billion-dollar-estimate-for-recycled-moon-rover/5282355",
+      "published_at": "2026-08-03T13:47:43Z",
+      "category": "enterprise_technology",
+      "tags": [
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7509,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.theregister.com/a/5282355"
+    },
+    {
+      "title": "OpenClaw and Ollama in Agentic AI: Toward Fully Autonomous and Scalable AI Agent Systems",
+      "summary": "arXiv:2607.28629v1 Announce Type: new Abstract: The rapid transition from reactive large language models (LLMs) to persistent, action-capable systems has exposed critical gaps in the architectural understanding of Agentic AI, particularly in separating inference, orchestration, and execution layers for autonomous AI agents. Despite recent advances, unified frameworks for designing and evaluating full-stack agentic systems remain limited. This paper presents a comprehensive…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2607.28629",
+      "published_at": "2026-08-03T04:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "LLMs",
+        "AI Agents",
+        "APIs",
+        "AI Models",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7501,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2607.28629v1"
+    },
+    {
+      "title": "Can AI Evaluate AI Scientists? A Benchmarking Study of Autonomous Research Generation Systems Using Automated Multi-Model Review",
+      "summary": "arXiv:2607.28631v1 Announce Type: new Abstract: AI Scientist systems capable of autonomous research have the potential to significantly accelerate scientific discovery. However, evaluating and comparing the quality of AI-generated papers remains an open challenge. We propose and implement a rigorous benchmarking protocol using an automated peer-review system that harnesses frontier large language models to assess scientific papers across four core dimensions: originality…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2607.28631",
+      "published_at": "2026-08-03T04:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "LLMs",
+        "AI Models",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7501,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2607.28631v1"
+    },
+    {
+      "title": "LLM Framework for Discovering Major Mathematical Conjectures: AI's Quest for the Next Riemann Hypothesis",
+      "summary": "arXiv:2607.28632v1 Announce Type: new Abstract: Major mathematical conjectures still depend heavily on expert intuition, so a unified method for the systematic generation and validation of conjectures with substantial mathematical potential remains unavailable. We present a three stage pipeline for major conjecture discovery, with region search from explicit local evidence modules, reflective validation for foundationality, novelty, and potential significance, and formal…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2607.28632",
+      "published_at": "2026-08-03T04:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "LLMs",
+        "Data Pipelines",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7501,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2607.28632v1"
+    },
+    {
+      "title": "ThinkReset: Learnable Intermediate Interface Construction for Bounded-Context Long-Horizon Reasoning",
+      "summary": "arXiv:2607.28642v1 Announce Type: new Abstract: Long chain-of-thought reasoning improves performance on complex problems, but it also introduces redundancy accumulation, context overflow, and error anchoring. We argue that under bounded context windows, the core bottleneck is not trajectory compression or test-time control, but the absence of a reusable intermediate interface that can replace discarded history and support continued solving. We further identify a key failure…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2607.28642",
+      "published_at": "2026-08-03T04:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7501,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2607.28642v1"
+    },
+    {
+      "title": "TAPR: Enhancing LLM Performance with a Task-Aware Prompt Rewriter",
+      "summary": "arXiv:2607.28657v1 Announce Type: new Abstract: Large Language Models (LLMs) often require carefully crafted prompts to unlock their full potential, which can be a barrier for non-expert users. This work addresses the challenge by introducing a Task-Aware Prompt Rewriter (TAPR), a model that reformulates user prompts into task-optimized prompts with the explicit goal of improving downstream LLM performance. We train TAPR using reinforcement learning with Group Relative…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2607.28657",
+      "published_at": "2026-08-03T04:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "LLMs",
+        "AI Models",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7501,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2607.28657v1"
+    },
+    {
+      "title": "Empowering Cross-Domain Sequential Recommendation with Hybrid Tokenization and Serial-Parallel Decoding",
+      "summary": "arXiv:2607.28659v1 Announce Type: new Abstract: Cross-domain sequential recommendation (CDSR) aims to model users' dynamic interest transitions and sequential patterns across multiple domains. Recently, generative recommendation (GR) has emerged. It first learns semantic identifiers (SIDs) from item semantics and formulates recommendation as autoregressive generation. However, existing methods face two critical issues: (1) they ignore collaborative correlations across…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2607.28659",
+      "published_at": "2026-08-03T04:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "GenAI",
+        "AI Models",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7501,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2607.28659v1"
+    },
+    {
+      "title": "An Ontology-Guided, Deduplication-Aware Extraction Layer for Knowledge Graph Construction from Heterogeneous Documents",
+      "summary": "arXiv:2607.28662v1 Announce Type: new Abstract: Large language models extract entities and relationships from unstructured documents fluently but inconsistently: type vocabularies fracture across documents, the same person surfaces under several name variants, relationships duplicate, and distinct individuals who share a name risk silent conflation. This paper presents the design, implementation, and empirical refinement of a production extraction layer that converts a live…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2607.28662",
+      "published_at": "2026-08-03T04:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "LLMs",
+        "AI Models",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7501,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2607.28662v1"
+    },
+    {
+      "title": "How Hard Does It Think? Analyzing Step-Aware Reasoning Energy in LLM Chain-of-Thought Trajectories",
+      "summary": "arXiv:2607.28674v1 Announce Type: new Abstract: Understanding how computational effort is allocated across individual chain-of-thought (CoT) reasoning steps remains an open challenge: existing interpretability methods rely on output-level signals or collapse processing depth into a single trajectory-level scalar, leaving step-wise effort opaque. We propose Step-Aware Reasoning Energy (SARE), a geometric framework that quantifies effort at the granularity of individual CoT…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2607.28674",
+      "published_at": "2026-08-03T04:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "LLMs",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7501,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2607.28674v1"
+    },
+    {
+      "title": "Reasoning in Real World Clinical Care: Why Large Language Models Are Not Yet Safe for Autonomous Clinical Decision Support",
+      "summary": "arXiv:2607.28677v1 Announce Type: new Abstract: LLM now pass medical licensing examinations and, in curated cases, can rival physicians at diagnostic reasoning. These developments have accelerated the use of LLMs for symptom assessment and clinical decision support in diagnostic and treatment guidance, administrative documentation, and rules-based alert enhancement. This Perspective concerns the most consequential of these applications: the autonomous triage of…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2607.28677",
+      "published_at": "2026-08-03T04:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "LLMs",
+        "AI Models",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7501,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2607.28677v1"
+    },
+    {
+      "title": "ViSAGE: Constructing Self-Correcting Memories for Long-Form Video Understanding",
+      "summary": "arXiv:2607.28678v1 Announce Type: new Abstract: Multimodal agents operating in long-horizon environments must build and continually update multimedia memories to support entity-consistent, temporally grounded reasoning. However, existing agentic memory approaches often discard fine-grained dentity cues under aggressive compression and segment-wise processing. They also rely heavily on vector similarity retrieval, which can surface semantically related yet identity-mismatched…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2607.28678",
+      "published_at": "2026-08-03T04:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Vector Databases",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7501,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2607.28678v1"
+    },
+    {
+      "title": "Multi-Agent Planning with Spatio-Temporal and Topological Constraints using STL-GO",
+      "summary": "arXiv:2607.28679v1 Announce Type: new Abstract: Multi-agent planning problems arise in a variety of engineering applications, such as multi-robot wildfire fighting and unmanned aerial inspection in factories. A particular challenge is the existence of spatio-temporal (i.e., when and/or where an agent should do what) and topological constraints (i.e., how agents should interact), as typically formalized via the notion of graphs. Over the last years, various frameworks have…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2607.28679",
+      "published_at": "2026-08-03T04:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7501,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2607.28679v1"
+    },
+    {
+      "title": "Library Reachability in LSR-Synth: How Anti-Memorization Design Changes the Measurement of Symbolic Discovery",
+      "summary": "arXiv:2607.28684v1 Announce Type: new Abstract: Existing benchmarks for scientific equation discovery are largely composed of well-known equations available in the public domain, making it difficult to determine whether a model is discovering laws from data or merely recalling answers from its training corpus. LSR-Synth mitigates this problem by introducing novel synthetic terms into established scientific mechanisms and filtering the resulting tasks for novelty…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2607.28684",
+      "published_at": "2026-08-03T04:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "AWS",
+        "AI Models",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7501,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2607.28684v1"
+    },
+    {
+      "title": "Topology-Aware Data Movement for Disaggregated GPU Inference",
+      "summary": "arXiv:2607.28633v1 Announce Type: new Abstract: Disaggregated LLM inference creates a datacenter networking problem that no existing system solves correctly. When prefill and decode run on separate GPU pools, the KV cache must be transferred between them. For a 70B model this is 2.6 GB per request, exceeding 100 GB/s aggregate at production scale. Yet DistServe, Splitwise, and Mooncake all use uniform RDMA, ignoring that bandwidth between two GPUs varies by 72x depending on…",
+      "source_name": "arXiv cs.LG (Machine Learning)",
+      "source_url": "https://arxiv.org/abs/2607.28633",
+      "published_at": "2026-08-03T04:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "LLMs",
+        "GPUs",
+        "AI Models",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7501,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2607.28633v1"
+    },
+    {
+      "title": "Sensitivity Analysis of GRU, LSTM and Transformer Encoder in Classification of Automated Driving Systems",
+      "summary": "arXiv:2607.28665v1 Announce Type: new Abstract: Automated driving systems (ADSs) are becoming ubiquitous. Future Software Defined Vehicles (SDVs) may be able to run multiple ADSs, both native and aftermarket such as Comma.ai's Openpilot. Monitoring systems to independently verify which automated driving system is active are important for safety monitoring, regulatory compliance, insurance assessment, and anomaly detection. In this paper, we first evaluate the effectiveness…",
+      "source_name": "arXiv cs.LG (Machine Learning)",
+      "source_url": "https://arxiv.org/abs/2607.28665",
+      "published_at": "2026-08-03T04:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7501,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2607.28665v1"
+    },
+    {
+      "title": "Guarantees on Dynamical System Distinguishability for LLM Token Generation",
+      "summary": "arXiv:2607.28667v1 Announce Type: new Abstract: Recent work has shown that classifying large language models (LLMs)' responses can be distinguished by modeling token embeddings as trajectories of a black-box dynamical system (DS) and comparing prediction residuals of two DSs. Despite the empirical success of this dynamical approach, a theoretical understanding of why it works, how well it scales as a function of the token sequence, and when it transfers across embedding…",
+      "source_name": "arXiv cs.LG (Machine Learning)",
+      "source_url": "https://arxiv.org/abs/2607.28667",
+      "published_at": "2026-08-03T04:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "LLMs",
+        "AI Models",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7501,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2607.28667v1"
+    },
+    {
+      "title": "LARA: Lightweight Adapters in the Residual Stream for Composable Adaptation and Alignment",
+      "summary": "arXiv:2607.28669v1 Announce Type: new Abstract: We present LARA (Lightweight Additive Residual Adaptation), a method for efficient adaptation that operates in the residual stream of a frozen model rather than in its weights. Where LoRA adds an update of low rank to weight matrices, LARA reads the hidden state at a small set of layers and adds a correction of low rank back to the residual stream, leaving all base weights untouched. On a code fine-tuning task and on preference…",
+      "source_name": "arXiv cs.LG (Machine Learning)",
+      "source_url": "https://arxiv.org/abs/2607.28669",
+      "published_at": "2026-08-03T04:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "AI Models",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7501,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2607.28669v1"
+    },
+    {
+      "title": "Hierarchical Copula-Gumbel-Top-\\texorpdfstring{$K$}{K} Routing: Two-Sided Dependence Control for Frozen Mixture-of-Experts at Fixed Per-Token Routing Laws",
+      "summary": "arXiv:2607.28670v1 Announce Type: new Abstract: A stochastic Gumbel-Top-$K$ router defines, for every token of a mixture-of-experts (MoE) model, a \\emph{routing law}: a distribution over ordered expert lists and mixture weights. We ask which \\emph{joint} distributions over the routing choices of different tokens are reachable while every individual token's complete routing law is held exactly fixed. We give a two-sided construction, \\emph{Hierarchical Copula-Gumbel-Top-$K$}…",
+      "source_name": "arXiv cs.LG (Machine Learning)",
+      "source_url": "https://arxiv.org/abs/2607.28670",
+      "published_at": "2026-08-03T04:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "AWS",
+        "AI Models",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7501,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2607.28670v1"
+    },
+    {
+      "title": "LAWFUL: Law-Aligned Witness for Faithful Use of Latents",
+      "summary": "arXiv:2607.28672v1 Announce Type: new Abstract: When a neural network predicts a physical system accurately, has it learned the governing law as formal, structured knowledge, and if so, does the network's internal computation actually use that representation throughout the law's domain of validity? We identify four interpretability gaps that limit answering these questions for {\\em physics laws over continuous variables}: the absence of a coverage-aware causal-consistency…",
+      "source_name": "arXiv cs.LG (Machine Learning)",
+      "source_url": "https://arxiv.org/abs/2607.28672",
+      "published_at": "2026-08-03T04:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "AWS",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7501,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2607.28672v1"
+    },
+    {
+      "title": "MPP-GNN: Subject-Adaptive Community Detection for fMRI-Based Alzheimer's Disease Classification",
+      "summary": "arXiv:2607.28681v1 Announce Type: new Abstract: Functional magnetic resonance imaging (fMRI) is a widely used technique for studying the brain. Recent methods that utilize graph neural networks (GNNs) for analysis of brain functional connectivity have shown great potential for the classification of brain disorders, such as Alzheimer's disease (AD). However, these methods often assume a preset number of functional modules across all subjects, which overlooks inter-subject…",
+      "source_name": "arXiv cs.LG (Machine Learning)",
+      "source_url": "https://arxiv.org/abs/2607.28681",
+      "published_at": "2026-08-03T04:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7501,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2607.28681v1"
+    },
+    {
+      "title": "Technological Advances in Detecting and Managing Cognitive Impairment in Older Adults: Trends, Challenges, and Future Directions",
+      "summary": "arXiv:2607.28687v1 Announce Type: new Abstract: As populations age, cognitive decline from mild cognitive impairment (MCI) to dementia is a defining health challenge of the coming decades, yet routine assessment often misses its earliest signs. This article critically synthesizes recent technological advances for detecting and managing cognitive impairment in older adults, spanning neurophysiological signals (chiefly electroencephalography, EEG), structural and molecular…",
+      "source_name": "arXiv cs.LG (Machine Learning)",
+      "source_url": "https://arxiv.org/abs/2607.28687",
+      "published_at": "2026-08-03T04:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7501,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2607.28687v1"
+    }
+  ]
+}
