@@ -14,11 +14,11 @@ name: Weekly Signal Perspective
 #  Between jobs, data moves via workflow artifacts.
 #
 #  Uses the native `timezone:` cron key (DST handled by GitHub). The guard
-#  keeps a Sunday + 10:00–12:59 ET sanity window, tolerant of scheduler lag.
+#  keeps a Sunday + 12:00–14:59 ET sanity window, tolerant of scheduler lag.
 # ════════════════════════════════════════════════════════════════════
 on:
   schedule:
-    - cron: "0 10 * * 0"
+    - cron: "0 12 * * 0"
       timezone: "America/New_York"
   workflow_dispatch:
 
