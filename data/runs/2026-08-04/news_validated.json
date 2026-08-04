@@ -1,0 +1,833 @@
+{
+  "post_date": "2026-08-04",
+  "sources_checked": 48,
+  "count": 45,
+  "items": [
+    {
+      "title": "The latest AI news we announced in July 2026",
+      "summary": "July AI recap header",
+      "source_name": "Google AI (The Keyword)",
+      "source_url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/",
+      "published_at": "2026-08-04T13:00:00Z",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.8889,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/"
+    },
+    {
+      "title": "You can’t debug what you can’t see — Observability for AI Agents",
+      "summary": "Traditional APM can’t tell you why your agent spent far more than usual asking the same question three times. We’ve been running AI agents in production for months. The hardest part isn’t building them, it’s understanding...",
+      "source_name": "CNCF",
+      "source_url": "https://www.cncf.io/blog/2026/08/04/you-cant-debug-what-you-cant-see-observability-for-ai-agents/",
+      "published_at": "2026-08-04T11:00:00Z",
+      "category": "open_source_foundations",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8805,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.cncf.io/?p=170576"
+    },
+    {
+      "title": "Xbox goes down. You can't play games you own on disc",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://birchtree.me/blog/xbox-goes-down-you-cant-play-games-you-own-on-disc/",
+      "published_at": "2026-08-04T12:01:02Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.8547,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49167448"
+    },
+    {
+      "title": "AI-Generated Images Discourage Me from Reading Your Blog",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://nelson.cloud/ai-generated-images-discourage-me-from-reading-your-blog/",
+      "published_at": "2026-08-04T11:30:17Z",
+      "category": "aggregators",
+      "tags": [
+        "AI",
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.8526,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49167113"
+    },
+    {
+      "title": "Ray Bradbury's \"There Will Come Soft Rains\" is set today (2026-08-04)",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://short-stories.co/@raybradbury/there-will-come-soft-rains-6k8vr4xxlnmj",
+      "published_at": "2026-08-04T10:13:13Z",
+      "category": "aggregators",
+      "tags": [
+        "AI",
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.8473,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49166491"
+    },
+    {
+      "title": "DeepSeek V4 Flash on a Single AMD MI300X",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://github.com/ryanzhou/deepseek-v4-flash-mi300x",
+      "published_at": "2026-08-04T10:00:55Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.667,
+      "importance_score": 0.8464,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49166386"
+    },
+    {
+      "title": "The Software Supply Chain Is Under Siege. Devs Are Still the First Line of Defense",
+      "summary": "77% of organizations experienced a software supply chain incident in the past year. Explore Omdia's latest research on top risks, security gaps, and why developers are your first line of defense.",
+      "source_name": "Docker Blog",
+      "source_url": "https://www.docker.com/blog/software-supply-chain-security-omdia-2026-report/",
+      "published_at": "2026-08-04T15:10:16Z",
+      "category": "developer_platforms",
+      "tags": [
+        "AI",
+        "Security",
+        "Research",
+        "Developer Platforms"
+      ],
+      "confidence_score": 0.87,
+      "importance_score": 0.8379,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.docker.com/?p=92640"
+    },
+    {
+      "title": "NVIDIA Alpamayo 2 Super, the Frontier Open Model for Robotaxis and Autonomous Vehicles, Now Available for Commercial Use",
+      "summary": "For robotaxis and other autonomous vehicles (AVs), the hardest problems aren’t the everyday scenarios. They’re the rare, complex situations that are difficult to anticipate and train for. Handling these long‑tail events takes more than just object detection and motion prediction. AVs must understand the situation, reason about cause and effect, choose the right action and […]",
+      "source_name": "NVIDIA Blog",
+      "source_url": "https://blogs.nvidia.com/blog/alpamayo-2-super-open-model-now-available/",
+      "published_at": "2026-08-04T15:00:49Z",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "GPUs",
+        "AI Models",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8373,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://blogs.nvidia.com/?p=97163&preview=true&preview_id=97163"
+    },
+    {
+      "title": "As AI Increases Demands on Memory, Storage Steps Up",
+      "summary": "Surging AI demands are driving the need for massive datasets and context windows that burst past the confines of system memory. But rising needs aren’t met by simply adding more storage capacity. What’s needed is useful, grounded insights from AI factories and efficient, secure storage architectures that enable those insights. At this week’s Future of […]",
+      "source_name": "NVIDIA Blog",
+      "source_url": "https://blogs.nvidia.com/blog/ai-storage-fms/",
+      "published_at": "2026-08-04T15:00:47Z",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8373,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://blogs.nvidia.com/?p=97151&preview=true&preview_id=97151"
+    },
+    {
+      "title": "Generate Trajectories, Reasoning Traces, and Auto-Labels with NVIDIA Alpamayo 2 Super",
+      "summary": "Autonomous vehicle (AV) development often relies on separate models for trajectory generation, high-level intent prediction, scene understanding, and data...",
+      "source_name": "NVIDIA Developer Blog",
+      "source_url": "https://developer.nvidia.com/blog/generate-trajectories-reasoning-traces-and-auto-labels-with-nvidia-alpamayo-2-super/",
+      "published_at": "2026-08-04T15:00:00Z",
+      "category": "mlops",
+      "tags": [
+        "GPUs",
+        "AI Models",
+        "Mlops"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8372,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://developer.nvidia.com/blog/?p=120281"
+    },
+    {
+      "title": "Deploy local agents everywhere with LFM2.5-2.6B",
+      "summary": "",
+      "source_name": "Hugging Face",
+      "source_url": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
+      "published_at": "2026-08-04T13:58:29Z",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI Agents",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.9,
+      "importance_score": 0.8329,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b"
+    },
+    {
+      "title": "AI Leaders Propose SAFE Guidelines for Cybersecurity Transparency",
+      "summary": "Members of the Open Secure AI Alliance — now more than 120 organizations strong — are developing new guidelines to strengthen agentic AI cybersecurity as the annual Black Hat conference begins in Las Vegas today. The Linux Foundation today shared a Request for Comments on Shared AI Findings Exchange (SAFE), a proposed set of guidelines […]",
+      "source_name": "NVIDIA Blog",
+      "source_url": "https://blogs.nvidia.com/blog/open-secure-ai-alliance-contributions/",
+      "published_at": "2026-08-04T13:00:47Z",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Security",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8289,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://blogs.nvidia.com/?p=97121"
+    },
+    {
+      "title": "Apple is getting this wrong",
+      "summary": "OpenAI addresses Apple’s baseless lawsuit, corrects claims about its employees, and shares messages documenting what happened.",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/apple-is-getting-this-wrong",
+      "published_at": "2026-08-03T22:00:00Z",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI",
+        "AWS",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.99,
+      "importance_score": 0.8264,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/index/apple-is-getting-this-wrong"
+    },
+    {
+      "title": "Kubeflow SDK evolution- One million downloads and counting",
+      "summary": "The unified kubeflow-sdk has officially crossed 1 million downloads on PyPI! This milestone reflects the rapid adoption of this streamlined interface. In this post, we celebrate this community milestone and highlight the core concepts driving the...",
+      "source_name": "CNCF",
+      "source_url": "https://www.cncf.io/blog/2026/08/03/kubeflow-sdk-evolution-one-million-downloads-and-counting/",
+      "published_at": "2026-08-03T20:25:24Z",
+      "category": "open_source_foundations",
+      "tags": [
+        "APIs",
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8198,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.cncf.io/?p=171966"
+    },
+    {
+      "title": "Harness Engineering for Self-Improvement",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://lilianweng.github.io/posts/2026-07-04-harness/",
+      "published_at": "2026-08-04T06:17:54Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.6445,
+      "importance_score": 0.8172,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49164896"
+    },
+    {
+      "title": "There Will Come Soft Rains (1950) [pdf]",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf",
+      "published_at": "2026-08-03T23:24:53Z",
+      "category": "aggregators",
+      "tags": [
+        "AI",
+        "Hacker News"
+      ],
+      "confidence_score": 0.6845,
+      "importance_score": 0.8022,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49162653"
+    },
+    {
+      "title": "Inside our 353,000-person vibe coding course",
+      "summary": "Illustrations of a laptop, an AI spark, messages, code, and a 3-D cube",
+      "source_name": "Google AI (The Keyword)",
+      "source_url": "https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/",
+      "published_at": "2026-08-03T15:00:00Z",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI",
+        "Apache Spark",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.92,
+      "importance_score": 0.7972,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/"
+    },
+    {
+      "title": "LLMs reward expertise",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.seangoedecke.com/llms-reward-expertise/",
+      "published_at": "2026-08-03T21:13:53Z",
+      "category": "aggregators",
+      "tags": [
+        "LLMs",
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7931,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49161518"
+    },
+    {
+      "title": "Cortex completes OSTIF security audit",
+      "summary": "The Open Source Technology Improvement Fund is proud to share the results of our security audit of Cortex. Cortex functions as a long-term, multi-tenant scalable open source storage for Prometheus and OpenTelemetry. Thanks to Quarkslab and...",
+      "source_name": "CNCF",
+      "source_url": "https://www.cncf.io/blog/2026/08/03/cortex-completes-ostif-security-audit/",
+      "published_at": "2026-08-03T11:30:00Z",
+      "category": "open_source_foundations",
+      "tags": [
+        "Open Source",
+        "Security",
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.87,
+      "importance_score": 0.7826,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.cncf.io/?p=171238"
+    },
+    {
+      "title": "Show HN: Run an 80B Qwen in 4.3 GB of RAM on a Mac, and a 35B on an iPhone",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://github.com/leonickson1/Swiftlet",
+      "published_at": "2026-08-03T16:54:15Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.6815,
+      "importance_score": 0.7751,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49158333"
+    },
+    {
+      "title": "Ten advances in mathematics and theoretical computer science",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://openai.com/index/ten-advances-in-mathematics/",
+      "published_at": "2026-08-03T16:27:12Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7732,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49157930"
+    },
+    {
+      "title": "Twenty Years of Pandoc",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://pandoc.org/twenty-years-of-pandoc.html",
+      "published_at": "2026-08-03T15:04:53Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7675,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49156750"
+    },
+    {
+      "title": "Devtools must be open source",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://blog.exe.dev/devtools-must-be-open-source",
+      "published_at": "2026-08-03T14:15:47Z",
+      "category": "aggregators",
+      "tags": [
+        "Open Source",
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7641,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49156111"
+    },
+    {
+      "title": "How we built a realtime system for responsive voice AI in six months",
+      "summary": "GPT-Live enables continuous voice interaction with AI, using a turnless speech model and low-latency architecture for faster, more natural conversations.",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
+      "published_at": "2026-08-03T07:00:00Z",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI",
+        "AI Models",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.97,
+      "importance_score": 0.7639,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/index/continuous-voice-interaction-with-gpt-live"
+    },
+    {
+      "title": "Gateway API v1.6: TCPRoute and UDPRoute Graduate to Standard",
+      "summary": "The Kubernetes SIG Network community is thrilled to share the release of Gateway API v1.6.0 , which was released on June 30th of this year! Gateway API has become the standard for modern, role-oriented, and expressive service networking in Kubernetes. In previous releases, Gateway API established a production-grade foundation for HTTP and TLS layer 7 traffic. With version 1.6.0, Gateway API takes a major step forward by expanding standard layer 4 protocol routing and…",
+      "source_name": "Kubernetes Blog",
+      "source_url": "https://kubernetes.io/blog/2026/08/03/gateway-api-v1-6-release/",
+      "published_at": "2026-08-03T16:00:00Z",
+      "category": "open_source_foundations",
+      "tags": [
+        "Kubernetes",
+        "APIs",
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.92,
+      "importance_score": 0.7614,
+      "source_type": "release_notes",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://kubernetes.io/blog/2026/08/03/gateway-api-v1-6-release/"
+    },
+    {
+      "title": "My in-laws moved 2 doors down from us 5 years ago. The proximity comes with many perks and some unexpected challenges.",
+      "summary": "Living next to my in-laws has been great for us and our kids, who have a great relationship with their grandparents. It has its challenges, though.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/in-laws-bought-house-next-door-drawbacks-benefits-family-grandkids-2026-8",
+      "published_at": "2026-08-04T15:32:01Z",
+      "category": "mainstream_press",
+      "tags": [
+        "AWS",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7594,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/in-laws-bought-house-next-door-drawbacks-benefits-family-grandkids-2026-8"
+    },
+    {
+      "title": "Landmark Deal Would Officially Add Laser Weapons to US Army Arsenal",
+      "summary": "Facing a growing drone threat, the Pentagon is poised to sign a first-of-its-kind contract for “Enduring High Energy Lasers”—and make directed energy weapons an official part of the Army’s kit.",
+      "source_name": "Wired",
+      "source_url": "https://www.wired.com/story/landmark-deal-would-officially-add-laser-weapons-to-us-army-arsenal/",
+      "published_at": "2026-08-04T15:29:45Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7592,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "6a70c914aec0b0f5f6d35ea7"
+    },
+    {
+      "title": "Paramount's David Ellison seeks to distance himself from partisan politics after courting Trump",
+      "summary": "David Ellison courted Trump when seeking approval for his WBD deal. He argues in a new op-ed that his politics are \"just like most Americans.\"",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/paramount-david-ellison-politics-president-donald-trump-wbd-deal-lawsuit-2026-8",
+      "published_at": "2026-08-04T15:28:22Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7591,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/paramount-david-ellison-politics-president-donald-trump-wbd-deal-lawsuit-2026-8"
+    },
+    {
+      "title": "I spent 2 nights at an all-inclusive resort by myself and made 3 mistakes",
+      "summary": "I spent two nights at Mohonk Mountain House, an all-inclusive resort in New York, and regretted traveling solo and not packing snacks.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/all-inclusive-resort-travel-mistakes-2026-8",
+      "published_at": "2026-08-04T15:26:01Z",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.759,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/all-inclusive-resort-travel-mistakes-2026-8"
+    },
+    {
+      "title": "McDonald's is facing slowing sales. Its under $3 value menu shows why",
+      "summary": "McDonald's new Under $3 menu didn't meet expectations, slowing US sales growth. CEO Chris Kempczinski acknowledged issues with franchise adoption.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/mcdonalds-value-menu-slows-us-sales-ceo-assesses-impact-2026-8",
+      "published_at": "2026-08-04T15:23:26Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7588,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/mcdonalds-value-menu-slows-us-sales-ceo-assesses-impact-2026-8"
+    },
+    {
+      "title": "Elon Musk spends half his time talking robots and AI on Tesla earnings calls",
+      "summary": "An analysis of the last seven years of Tesla earnings calls shows just little attention Musk pays to Tesla's car business.",
+      "source_name": "TechCrunch - AI",
+      "source_url": "https://techcrunch.com/2026/08/04/elon-musk-spends-half-his-time-talking-robots-and-ai-on-tesla-earnings-calls/",
+      "published_at": "2026-08-04T15:20:06Z",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7586,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://techcrunch.com/?p=3149611"
+    },
+    {
+      "title": "Apparel retailers are turning to AI as supply chain regulations tighten in the US and Europe",
+      "summary": "Apparel brands like Target, H&M, and Gap use AI to enhance supply chain transparency and meet new sustainability regulations effectively.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/asos-gap-target-supply-chain-transparency-regulations-ai-2026-8",
+      "published_at": "2026-08-04T15:03:56Z",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7574,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/asos-gap-target-supply-chain-transparency-regulations-ai-2026-8"
+    },
+    {
+      "title": "A SpaceX Rocket Will Soon Crash Into the Moon",
+      "summary": "The second stage of a Falcon 9 rocket, which sent two private landers to the moon last year, will collide with the moon early Wednesday morning.",
+      "source_name": "The New York Times - Technology",
+      "source_url": "https://www.nytimes.com/2026/08/04/science/spacex-rocket-moon-crash.html",
+      "published_at": "2026-08-04T14:44:08Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7561,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.nytimes.com/2026/08/04/science/spacex-rocket-moon-crash.html"
+    },
+    {
+      "title": "AI helps Microsoft bug hunters chase a record $20M payday",
+      "summary": "Broader bounty rules added to a swelling volume of machine-assisted vulnerability reports",
+      "source_name": "The Register",
+      "source_url": "https://www.theregister.com/security/2026/08/04/ai-helps-microsoft-bug-hunters-chase-a-record-20m-payday/5282821",
+      "published_at": "2026-08-04T14:40:49Z",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "Security",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7559,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.theregister.com/a/5282821"
+    },
+    {
+      "title": "You can't escape ads for the new Spider-Man movie — even in your BMW",
+      "summary": "Owners of newer BMW models will see an ad for \"Spider-Man: Brand New Day\" when they turn their cars on for the next week.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/bmw-new-spider-man-movie-advert-into-cars-faces-backlash-2026-8",
+      "published_at": "2026-08-04T14:30:38Z",
+      "category": "mainstream_press",
+      "tags": [
+        "AI Models",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7551,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/bmw-new-spider-man-movie-advert-into-cars-faces-backlash-2026-8"
+    },
+    {
+      "title": "I relocated from New York to Atlanta. Here are 5 things I'm glad I did to make the move easier, and 5 things I regret.",
+      "summary": "My move from New York City to Atlanta was a success. Still, there were a few things I would've done differently to save money through the process.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/relocating-from-nyc-to-atlanta-moving-tips-regrets-2026-8",
+      "published_at": "2026-08-04T14:12:01Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7538,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/relocating-from-nyc-to-atlanta-moving-tips-regrets-2026-8"
+    },
+    {
+      "title": "I cook for the Kardashians' kids and other famous families. Here are 5 tips for getting children to try new, healthy foods.",
+      "summary": "Chef K is a private chef for the Kardashians. She says kids are more likely to try new foods if you make the dishes look and feel familiar.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/celebrity-private-chef-get-children-try-new-foods-2026-8",
+      "published_at": "2026-08-04T14:11:49Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7538,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/celebrity-private-chef-get-children-try-new-foods-2026-8"
+    },
+    {
+      "title": "Apple says more ex-employees may have taken confidential data to OpenAI",
+      "summary": "Apple says its trade secrets investigation into OpenAI has widened. In a new court filing, Apple claims additional former staff may have retained or accessed confidential information.",
+      "source_name": "TechCrunch - AI",
+      "source_url": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/",
+      "published_at": "2026-08-04T14:03:01Z",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7532,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://techcrunch.com/?p=3149547"
+    },
+    {
+      "title": "Postpartum psychosis made me think I was a prophet. I couldn't bring myself back.",
+      "summary": "Ayana Lage says postpartum psychosis caused frightening delusions that sent her to the hospital just days after giving birth.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/postpartum-psychosis-after-giving-birth-2026-8",
+      "published_at": "2026-08-04T14:00:11Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.753,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/postpartum-psychosis-after-giving-birth-2026-8"
+    },
+    {
+      "title": "Traveling to the Caribbean? See what the US State Department wants Americans to know about each destination",
+      "summary": "See the latest US State Department travel advisories for Caribbean destinations such as Venezuela and Haiti, and for countries Americans should avoid.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/caribbean-travel-state-department-advisory-guide",
+      "published_at": "2026-08-04T13:56:18Z",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7527,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/caribbean-travel-state-department-advisory-guide"
+    },
+    {
+      "title": "OpenClaw and Ollama in Agentic AI: Toward Fully Autonomous and Scalable AI Agent Systems",
+      "summary": "arXiv:2607.28629v1 Announce Type: new Abstract: The rapid transition from reactive large language models (LLMs) to persistent, action-capable systems has exposed critical gaps in the architectural understanding of Agentic AI, particularly in separating inference, orchestration, and execution layers for autonomous AI agents. Despite recent advances, unified frameworks for designing and evaluating full-stack agentic systems remain limited. This paper presents a comprehensive…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2607.28629",
+      "published_at": "2026-08-04T04:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "LLMs",
+        "AI Agents",
+        "APIs",
+        "AI Models",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7514,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2607.28629v1"
+    },
+    {
+      "title": "Can AI Evaluate AI Scientists? A Benchmarking Study of Autonomous Research Generation Systems Using Automated Multi-Model Review",
+      "summary": "arXiv:2607.28631v1 Announce Type: new Abstract: AI Scientist systems capable of autonomous research have the potential to significantly accelerate scientific discovery. However, evaluating and comparing the quality of AI-generated papers remains an open challenge. We propose and implement a rigorous benchmarking protocol using an automated peer-review system that harnesses frontier large language models to assess scientific papers across four core dimensions: originality…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2607.28631",
+      "published_at": "2026-08-04T04:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "LLMs",
+        "AI Models",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7514,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2607.28631v1"
+    },
+    {
+      "title": "LLM Framework for Discovering Major Mathematical Conjectures: AI's Quest for the Next Riemann Hypothesis",
+      "summary": "arXiv:2607.28632v1 Announce Type: new Abstract: Major mathematical conjectures still depend heavily on expert intuition, so a unified method for the systematic generation and validation of conjectures with substantial mathematical potential remains unavailable. We present a three stage pipeline for major conjecture discovery, with region search from explicit local evidence modules, reflective validation for foundationality, novelty, and potential significance, and formal…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2607.28632",
+      "published_at": "2026-08-04T04:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "LLMs",
+        "Data Pipelines",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7514,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2607.28632v1"
+    },
+    {
+      "title": "ThinkReset: Learnable Intermediate Interface Construction for Bounded-Context Long-Horizon Reasoning",
+      "summary": "arXiv:2607.28642v1 Announce Type: new Abstract: Long chain-of-thought reasoning improves performance on complex problems, but it also introduces redundancy accumulation, context overflow, and error anchoring. We argue that under bounded context windows, the core bottleneck is not trajectory compression or test-time control, but the absence of a reusable intermediate interface that can replace discarded history and support continued solving. We further identify a key failure…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2607.28642",
+      "published_at": "2026-08-04T04:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7514,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2607.28642v1"
+    },
+    {
+      "title": "TAPR: Enhancing LLM Performance with a Task-Aware Prompt Rewriter",
+      "summary": "arXiv:2607.28657v1 Announce Type: new Abstract: Large Language Models (LLMs) often require carefully crafted prompts to unlock their full potential, which can be a barrier for non-expert users. This work addresses the challenge by introducing a Task-Aware Prompt Rewriter (TAPR), a model that reformulates user prompts into task-optimized prompts with the explicit goal of improving downstream LLM performance. We train TAPR using reinforcement learning with Group Relative…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2607.28657",
+      "published_at": "2026-08-04T04:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "LLMs",
+        "AI Models",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7514,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2607.28657v1"
+    }
+  ]
+}
