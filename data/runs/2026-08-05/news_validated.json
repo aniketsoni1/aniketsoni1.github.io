@@ -1,0 +1,854 @@
+{
+  "post_date": "2026-08-05",
+  "sources_checked": 48,
+  "count": 45,
+  "items": [
+    {
+      "title": "OpenCost 1.121.0: First-of-a-kind Kubernetes inference cost tracking",
+      "summary": "Your GPU bill is rising. Your models are serving billions of tokens. Yet one question remains unanswered: what does each token actually cost? This is not a hypothetical problem. Platform teams today operate in a fog...",
+      "source_name": "CNCF",
+      "source_url": "https://www.cncf.io/blog/2026/08/05/opencost-1-121-0-first-of-a-kind-kubernetes-inference-cost-tracking/",
+      "published_at": "2026-08-05T11:00:00Z",
+      "category": "open_source_foundations",
+      "tags": [
+        "AI",
+        "Kubernetes",
+        "GPUs",
+        "AI Models",
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8811,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.cncf.io/?p=171304"
+    },
+    {
+      "title": "U.S. Army Human Resources Command Deploys Agentforce to Deliver 24/7 AI-Powered Support to 9.2 Million Soldiers, Veterans, and Military Families",
+      "summary": "Army HRC becomes the first Department of War organization to deploy the newly authorized Agentforce Public Sector in Salesforce’s Impact Level 5 environment SAN FRANCISCO and WASHINGTON, August 5, 2026 — Salesforce, the world’s #1 Agentic CRM, today announced that the U.S. Army Human Resources Command (HRC) has selected Missionforce National Security to deploy secure, […]",
+      "source_name": "Salesforce News",
+      "source_url": "https://www.salesforce.com/news/press-releases/2026/08/05/us-army-hrc-agentforce-ai-powered-support/",
+      "published_at": "2026-08-05T09:00:00Z",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Security",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.8727,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.salesforce.com/?post_type=sf_press_release&p=94480"
+    },
+    {
+      "title": "Missionforce National Security Unveils IL5-Authorized AI Agents and Apps to Drive Decision Advantage, Readiness, and Enhanced Warfighter Support",
+      "summary": "With new IL5 authorization, Agentforce 360 — Salesforce’s full portfolio of AI agents, data capabilities, and apps — is now embedded into the Missionforce National Security platform. The Department of War (DOW) can now deploy autonomous AI agents to streamline defense logistics, fast-track recruit onboarding and training, alleviate administrative burdens for military families, and transform […]",
+      "source_name": "Salesforce News",
+      "source_url": "https://www.salesforce.com/news/press-releases/2026/08/05/dow-agentforce-mission-readiness/",
+      "published_at": "2026-08-05T09:00:00Z",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Security",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.8727,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.salesforce.com/?post_type=sf_press_release&p=94497"
+    },
+    {
+      "title": "Civilian plane crash in New Mexico tied to military GPS blocking",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.wired.com/story/a-civilian-plane-crashed-in-new-mexico-was-the-militarys-tech-to-blame/",
+      "published_at": "2026-08-05T11:03:13Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.694,
+      "importance_score": 0.8513,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49181099"
+    },
+    {
+      "title": "Amazon DynamoDB now supports real-time vector search at any scale",
+      "summary": "DynamoDB now supports native vector search with single-digit millisecond latency at 99%+ recall. It is designed for any scale, even trillions of vectors and requires zero infrastructure management.",
+      "source_name": "AWS News Blog",
+      "source_url": "https://aws.amazon.com/blogs/aws/amazon-dynamodb-now-supports-real-time-vector-search-at-any-scale/",
+      "published_at": "2026-08-05T14:45:10Z",
+      "category": "cloud_providers",
+      "tags": [
+        "Vector Databases",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.8367,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "13572f01241ca7108f49e50344decc868ddde5d7"
+    },
+    {
+      "title": "Unlocking the future of shared storage: Filestore on Colossus",
+      "summary": "Today, enterprise storage must be as agile, elastic, and responsive as the workloads it supports. Filestore, Google Cloud’s first-party, secure, scalable NFS file service, can service a wide-range of enterprise use cases as well as cutting-edge AI and agentic workflows. Today, we’re sharing a major enhancement: Filestore now incorporates a cloud-native backend storage layer built directly on Colossus , Google’s foundational distributed storage system. Leveraging Colossus…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/products/storage-data-transfer/filestore-file-service-runs-on-colossus/",
+      "published_at": "2026-08-05T13:00:00Z",
+      "category": "cloud_providers",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Cloud",
+        "Google Cloud",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.8294,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/products/storage-data-transfer/filestore-file-service-runs-on-colossus/"
+    },
+    {
+      "title": "Governance Is a Developer Experience Problem",
+      "summary": "Learn why AI governance is about more than security. Discover how trust, clear boundaries, and developer experience enable AI adoption at scale.",
+      "source_name": "Docker Blog",
+      "source_url": "https://www.docker.com/blog/governance-is-a-developer-experience-problem/",
+      "published_at": "2026-08-05T13:00:00Z",
+      "category": "developer_platforms",
+      "tags": [
+        "AI",
+        "Security",
+        "Data Governance",
+        "Developer Platforms"
+      ],
+      "confidence_score": 0.87,
+      "importance_score": 0.8294,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.docker.com/?p=92675"
+    },
+    {
+      "title": "Cloudflare OS: an open platform for agents, apps, and work",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://blog.cloudflare.com/cloudflare-os/",
+      "published_at": "2026-08-05T13:58:53Z",
+      "category": "aggregators",
+      "tags": [
+        "AI Agents",
+        "Cloud",
+        "Hacker News"
+      ],
+      "confidence_score": 0.6345,
+      "importance_score": 0.8247,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49182996"
+    },
+    {
+      "title": "Third-party cyber evaluations involving OpenAI models",
+      "summary": "OpenAI explains recent third-party cybersecurity evaluation incidents and outlines new safeguards to strengthen AI model testing and evaluation.",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
+      "published_at": "2026-08-04T19:00:00Z",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI",
+        "Security",
+        "AI Models",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.99,
+      "importance_score": 0.8144,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models"
+    },
+    {
+      "title": "Tino Cuellar joins Anthropic as Chief Global Affairs Officer",
+      "summary": "Tino Cuellar joins Anthropic as Chief Global Affairs Officer Anthropic",
+      "source_name": "Anthropic",
+      "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9vODE3REpJODF0TzhuZTBCTFpEdTNMNXFsV2QtOHhzZ0NUVUlmTDVESzZQM2ZHQWl4MkxaSzY1Z0pNSWVUaTB4NzRsX0dUVGxqWWIwVkFB?oc=5",
+      "published_at": "2026-08-04T17:05:54Z",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.99,
+      "importance_score": 0.8065,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "CBMiVkFVX3lxTE9vODE3REpJODF0TzhuZTBCTFpEdTNMNXFsV2QtOHhzZ0NUVUlmTDVESzZQM2ZHQWl4MkxaSzY1Z0pNSWVUaTB4NzRsX0dUVGxqWWIwVkFB"
+    },
+    {
+      "title": "Pi's Minimalism Is Its Advantage",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://earendil.com/posts/pi-autoresearch-and-databricks/",
+      "published_at": "2026-08-04T22:22:12Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7984,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49176038"
+    },
+    {
+      "title": "Position: LLMs Can't Jump",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3DklU4737opt",
+      "published_at": "2026-08-05T11:01:37Z",
+      "category": "aggregators",
+      "tags": [
+        "LLMs",
+        "Hacker News"
+      ],
+      "confidence_score": 0.6285,
+      "importance_score": 0.7974,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49181083"
+    },
+    {
+      "title": "The latest AI news we announced in July 2026",
+      "summary": "July AI recap header",
+      "source_name": "Google AI (The Keyword)",
+      "source_url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/",
+      "published_at": "2026-08-04T13:00:00Z",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.92,
+      "importance_score": 0.7894,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/"
+    },
+    {
+      "title": "You can’t debug what you can’t see — Observability for AI Agents",
+      "summary": "This article reflects practical experience building and operating production AI agent systems. Traditional APM can’t tell you why your agent spent far more than usual asking the same question three times. We’ve been running AI agents...",
+      "source_name": "CNCF",
+      "source_url": "https://www.cncf.io/blog/2026/08/04/you-cant-debug-what-you-cant-see-observability-for-ai-agents/",
+      "published_at": "2026-08-04T11:00:00Z",
+      "category": "open_source_foundations",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.87,
+      "importance_score": 0.7811,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.cncf.io/?p=170576"
+    },
+    {
+      "title": "TIME Is Serving AI Bots a Different Website, with Ads Built In",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.vincentschmalbach.com/time-serves-ai-bots-a-different-website/",
+      "published_at": "2026-08-05T12:41:47Z",
+      "category": "aggregators",
+      "tags": [
+        "AI",
+        "Hacker News"
+      ],
+      "confidence_score": 0.617,
+      "importance_score": 0.7756,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49182041"
+    },
+    {
+      "title": "Mistral's Shieldstral: 3B open-weights model for multimodal moderation",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://mistral.ai/news/shieldstral/",
+      "published_at": "2026-08-04T16:36:05Z",
+      "category": "aggregators",
+      "tags": [
+        "AI Models",
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7744,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49171268"
+    },
+    {
+      "title": "MAGA Is In Turmoil Over Tucker Carlson's Possible 2028 Presidential Bid",
+      "summary": "Joe Kent says that he and other anti-Donald Trump MAGA figures have formed a new movement. They want Tucker Carlson to run for the presidency in 2028.",
+      "source_name": "Wired",
+      "source_url": "https://www.wired.com/story/maga-is-in-turmoil-over-tucker-carlsons-possible-2028-presidential-bid/",
+      "published_at": "2026-08-05T15:30:21Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7598,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "6a7337bf5a1482e275ec6ed6"
+    },
+    {
+      "title": "Uber keeps AI spending stable using cheaper models and employees tracking cost, CFO says",
+      "summary": "Uber uses AI for small operational changes, keeping AI spending stable while enhancing app features and efficiency, CEO Dara Khosrowshahi reports.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/uber-ai-cost-stable-cheaper-models-operational-efficiency-2026-8",
+      "published_at": "2026-08-05T15:12:55Z",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "AI Models",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7586,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/uber-ai-cost-stable-cheaper-models-operational-efficiency-2026-8"
+    },
+    {
+      "title": "Hedge fund manager Gavin Baker says investors have been too quick to judge Big Tech's AI spending",
+      "summary": "Gavin Baker, managing partner of Atreides Management, says Big Tech's huge AI infrastructure spending is beginning to pay off.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/gavin-baker-big-tech-ai-capex-spending-investing-2026-8",
+      "published_at": "2026-08-05T15:12:16Z",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7586,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/gavin-baker-big-tech-ai-capex-spending-investing-2026-8"
+    },
+    {
+      "title": "TechCrunch Disrupt 2026’s Real World AI Stage features robots, automated factories, and extinct animals",
+      "summary": "On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a blending of the two.",
+      "source_name": "TechCrunch - AI",
+      "source_url": "https://techcrunch.com/2026/08/05/techcrunch-disrupt-2026s-real-world-ai-stage-features-robots-automated-factories-and-extinct-animals/",
+      "published_at": "2026-08-05T15:05:00Z",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7581,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://techcrunch.com/?p=3149903"
+    },
+    {
+      "title": "Operationalize AI at scale with HPE and NVIDIA",
+      "summary": "SPONSORED POST: The AI factory concept encompasses the new AI stack, explain HPE’s Thierry Pienaar and NVIDIA’s Kaushik Shirhatti",
+      "source_name": "The Register",
+      "source_url": "https://www.theregister.com/ai-and-ml/2026/08/05/sponsored-operational-ai-at-scale-with-hpe-and-nvidia/5282929",
+      "published_at": "2026-08-05T15:00:00Z",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "GPUs",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7577,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.theregister.com/a/5282929"
+    },
+    {
+      "title": "This startup that just raised $6.5 million bets the next big side hustle is controlling robots with VR headsets",
+      "summary": "Avatar Robotics, led by Colin Webb, is paying people to control warehouse robots, which generates the data needed to train autonomous machines.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/avatar-robotics-raises-6-5m-to-expand-robot-workforce-2026-8",
+      "published_at": "2026-08-05T15:00:01Z",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7577,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/avatar-robotics-raises-6-5m-to-expand-robot-workforce-2026-8"
+    },
+    {
+      "title": "I left a job that paid me $150,000 a year to 'soft retire' at 57. Now, I make about twice that.",
+      "summary": "Veterinarian Ron Titterington says stepping back from management let him enjoy medicine again while earning more than before.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/soft-retired-for-work-life-balance-earn-twice-much-2026-8",
+      "published_at": "2026-08-05T14:51:35Z",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7571,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/soft-retired-for-work-life-balance-earn-twice-much-2026-8"
+    },
+    {
+      "title": "Disney's CEO just confirmed the company is exploring a move into free streaming",
+      "summary": "Disney is looking at moving into free streaming, CEO Josh D'Amaro said, confirming a July report from Business Insider.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/disney-exploring-free-streaming-confirmed-ceo-josh-damaro-2026-8",
+      "published_at": "2026-08-05T14:31:31Z",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Streaming",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7557,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/disney-exploring-free-streaming-confirmed-ceo-josh-damaro-2026-8"
+    },
+    {
+      "title": "Veeam, Terraform MCP, Django Patch Critical Flaws, Led by CVSS 10.0 Cross-Tenant Bug",
+      "summary": "HashiCorp, Veeam, and the Django Software Foundation have patched 11 vulnerabilities across Terraform MCP Server, Veeam Service Provider Console, and Django. The three most serious: An unauthenticated flaw in Veeam's console that hands over a managed agent's credentials, rated 9.5 A cross-tenant flaw in HashiCorp's MCP server that lets one user's Terraform token be reused for later users'",
+      "source_name": "The Hacker News",
+      "source_url": "https://thehackernews.com/2026/08/veeam-terraform-mcp-django-patch.html",
+      "published_at": "2026-08-05T14:27:30Z",
+      "category": "cybersecurity",
+      "tags": [
+        "AI Agents",
+        "AWS",
+        "Security",
+        "Cybersecurity"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7555,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://thehackernews.com/2026/08/veeam-terraform-mcp-django-patch.html"
+    },
+    {
+      "title": "I pitched Tinder the job I wanted to do — and ended up getting hired full-time",
+      "summary": "Ryan Stewart said he made an effort throughout his internship to work with different teams and fill the gaps he saw.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/tinder-intern-pitched-job-hired-fulltime-2026-8",
+      "published_at": "2026-08-05T14:23:21Z",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7552,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/tinder-intern-pitched-job-hired-fulltime-2026-8"
+    },
+    {
+      "title": "Interior designers share 5 of the best and 3 of the worst ways to use extra space in your home",
+      "summary": "From styling bookshelves to skipping built-in cabinets, here's what designers have to say about the best and worst ways to use extra space in a home.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/best-and-worst-ways-to-use-extra-space-home-designers-2026-8",
+      "published_at": "2026-08-05T14:20:14Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.755,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/best-and-worst-ways-to-use-extra-space-home-designers-2026-8"
+    },
+    {
+      "title": "They went to Epstein Island. Now they're being sued.",
+      "summary": "Videos across YouTube have popped up showing influencers and conspiracy theorists sneaking onto the island once owned by sex offender Jeffrey Epstein.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/what-happens-if-you-go-to-epstein-island-now-2026-8",
+      "published_at": "2026-08-05T14:18:18Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7548,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/what-happens-if-you-go-to-epstein-island-now-2026-8"
+    },
+    {
+      "title": "I live in a 97-square-foot micro-apartment in Paris. Tiny living comes with pros and cons that I didn't expect.",
+      "summary": "There are surprising benefits and downsides to living in a small micro-apartment. I like the coziness and low rent, but I wish I could host guests.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/live-in-micro-apartment-tiny-living-benefits-downsides-surprises-2026-8",
+      "published_at": "2026-08-05T14:16:01Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7547,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/live-in-micro-apartment-tiny-living-benefits-downsides-surprises-2026-8"
+    },
+    {
+      "title": "How the GitHub legal team used Copilot CLI to streamline their workflows",
+      "summary": "Learn how to build tools to simplify how you work—without writing a single line of code. The post How the GitHub legal team used Copilot CLI to streamline their workflows appeared first on The GitHub Blog .",
+      "source_name": "The GitHub Blog",
+      "source_url": "https://github.blog/ai-and-ml/github-copilot/how-the-github-legal-team-used-copilot-cli-to-streamline-their-workflows/",
+      "published_at": "2026-08-04T19:02:34Z",
+      "category": "developer_platforms",
+      "tags": [
+        "Developer Tools",
+        "Developer Platforms"
+      ],
+      "confidence_score": 0.92,
+      "importance_score": 0.7546,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://github.blog/?p=97698"
+    },
+    {
+      "title": "SpaceX revenue rockets while AI spending burns billions",
+      "summary": "Investors balk as quarterly capex climbs to $18.4B",
+      "source_name": "The Register",
+      "source_url": "https://www.theregister.com/ai-and-ml/2026/08/05/spacex-revenue-rockets-while-ai-spending-burns-billions/5283404",
+      "published_at": "2026-08-05T14:15:00Z",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7546,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.theregister.com/a/5283404"
+    },
+    {
+      "title": "8 working parents share how they use AI to give them more time with their kids",
+      "summary": "Working parents say AI platforms like ChatGPT and Claude help them manage schedules, freeing them up to spend more time with their kids.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/working-parents-use-ai-chatgpt-claude-family-kids-2026-8",
+      "published_at": "2026-08-05T14:15:03Z",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7546,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/working-parents-use-ai-chatgpt-claude-family-kids-2026-8"
+    },
+    {
+      "title": "Anthropic is hiring an AI chip design team",
+      "summary": "Anthropic is building a team for designing its own custom AI chips. The Claude maker said it would co-design hardware and models to help its technology run faster and more efficiently.",
+      "source_name": "TechCrunch - AI",
+      "source_url": "https://techcrunch.com/2026/08/05/anthropic-is-hiring-an-ai-chip-design-team/",
+      "published_at": "2026-08-05T14:13:18Z",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "AI Models",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7545,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://techcrunch.com/?p=3150081"
+    },
+    {
+      "title": "How China’s A.I. Is Surging Across Africa",
+      "summary": "In African tech hubs, developers are picking China’s cheap, freely available artificial intelligence models over more powerful U.S. ones.",
+      "source_name": "The New York Times - Technology",
+      "source_url": "https://www.nytimes.com/2026/08/05/technology/ai-china-africa.html",
+      "published_at": "2026-08-05T14:12:57Z",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "AI Models",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7545,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.nytimes.com/2026/08/05/technology/ai-china-africa.html"
+    },
+    {
+      "title": "Disney CEO Josh D'Amaro outlines his vision for Disney+ and AI in a new staff memo after a strong quarter",
+      "summary": "Disney CEO Josh D'Amaro said the company's strong quarter \"reflects the strength of our businesses\" and \"the extraordinary work you do every day.\"",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/disney-ceo-josh-damaro-read-the-memo-employees-strong-quarter-2026-8",
+      "published_at": "2026-08-05T13:46:49Z",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7526,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/disney-ceo-josh-damaro-read-the-memo-employees-strong-quarter-2026-8"
+    },
+    {
+      "title": "Ukraine says Western interceptor supply has dropped threefold this year, leaving it unable to stop Russian missiles",
+      "summary": "Ukraine didn't stop any of the Russian missiles launched in the latest attack, an increasingly common outcome for Kyiv.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/ukraine-western-missile-interceptor-supply-dropped-threefold-this-year-2026-8",
+      "published_at": "2026-08-05T13:45:06Z",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7525,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/ukraine-western-missile-interceptor-supply-dropped-threefold-this-year-2026-8"
+    },
+    {
+      "title": "Trojanized npm Packages Decode C2 IP From Ethereum Recipient Addresses",
+      "summary": "Cybersecurity researchers have flagged an evolution of the EtherHiding blockchain-based command-and-control (C2) technique that conceals the C2 server IP address inside a made-up destination address of a completely empty Ethereum transfer. The new dead drop resolver approach, observed in two trojanized npm package \"bianira-ui\" and \"fluid-type-ui,\" has been codenamed NullReceiver by",
+      "source_name": "The Hacker News",
+      "source_url": "https://thehackernews.com/2026/08/trojanized-npm-packages-decode-c2-ip.html",
+      "published_at": "2026-08-05T13:41:27Z",
+      "category": "cybersecurity",
+      "tags": [
+        "AI",
+        "Security",
+        "Research",
+        "Cybersecurity"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7523,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://thehackernews.com/2026/08/trojanized-npm-packages-decode-c2-ip.html"
+    },
+    {
+      "title": "ISEE: Interactive Semantic Enrichment for Database Fields",
+      "summary": "arXiv:2608.02604v1 Announce Type: new Abstract: LLM-based agents are increasingly being deployed for data-related tasks, including data sense-making, exploration, and retrieval. However, their performance heavily depends on the clarity and completeness of data semantics. In practice, many field descriptions remain ambiguous or incomplete, as much of the essential context (e.g., the meaning of a customized field) originates from users' domain knowledge and is rarely…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2608.02604",
+      "published_at": "2026-08-05T04:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "LLMs",
+        "AI Agents",
+        "Databases",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7519,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2608.02604v1"
+    },
+    {
+      "title": "Self-Organising Digital Circuits",
+      "summary": "arXiv:2608.02606v1 Announce Type: new Abstract: Fault tolerance in classical computing has traditionally relied on static strategies like hardware redundancy and error-correcting codes. Biological systems, in contrast, exhibit adaptive plasticity, maintaining function through dynamic re-organisation around damage. Inspired by this principle, we introduce Self-Organising Digital Circuits, framing functional logic generation and maintenance as a meta-learning problem on…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2608.02606",
+      "published_at": "2026-08-05T04:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7519,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2608.02606v1"
+    },
+    {
+      "title": "Beyond the Hivemind: Escaping LLM Homogeneity via Meta-Persona Anchoring and Sequential Temperature Scaling",
+      "summary": "arXiv:2608.02618v1 Announce Type: new Abstract: Recent studies have identified an ``Artificial Hivemind'' effect in Large Language Models (LLMs) causing models to converge on a narrow, homogenized consensus even for open questions. This semantic collapse limits the diversity of AI, resulting in high inter-response similarity ($\\approx 0.80-0.90$) even under high-temperature sampling. In this paper, we propose a novel mitigation framework to increase diversity: Meta-Persona…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2608.02618",
+      "published_at": "2026-08-05T04:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "LLMs",
+        "APIs",
+        "AI Models",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7519,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2608.02618v1"
+    },
+    {
+      "title": "PULSE: An Executable Contract Language for Spatiotemporal Knowledge Graph Engineering",
+      "summary": "arXiv:2608.02630v1 Announce Type: new Abstract: Knowledge graph engineering often distributes accepted state, observations, constraints, processes, and hypothetical scenarios across artifacts whose combined execution contract remains external. We present PULSE, an Object-Process-Methodology-inspired language that localizes four operational roles and their write effects in one typed runtime. Here, modes denote operational roles rather than modal or deontic logic. The…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2608.02630",
+      "published_at": "2026-08-05T04:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7519,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2608.02630v1"
+    },
+    {
+      "title": "HyperAgent: Planning and Acting over Tool-Schema Hypergraphs for Tool-Use LLM Agents",
+      "summary": "arXiv:2608.02650v1 Announce Type: new Abstract: Large language model (LLM) agents increasingly rely on external tools to complete complex real-world tasks. However, reliable tool-use planning remains challenging due to the limitations of implicit reasoning and the evolving nature of real-world execution environments. Existing tool-use agents typically rely on LLMs to infer tool compositions from textual descriptions, which can lead to inefficient exploration and unreliable…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2608.02650",
+      "published_at": "2026-08-05T04:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "LLMs",
+        "AI Agents",
+        "AI Models",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7519,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2608.02650v1"
+    },
+    {
+      "title": "Explainable AI for the EU Right to Explanation: A Systematic Review of the Law-XAI Translation Gap",
+      "summary": "arXiv:2608.02699v1 Announce Type: new Abstract: When algorithms make or influence consequential decisions---about loan eligibility, hiring, or healthcare---EU law grants affected individuals a Right to Explanation. Yet whether (and how) Explainable AI (XAI) can satisfy this right in practice remains poorly understood, with direct implications for individuals' ability to contest automated decisions that affect their lives. This paper presents a systematic literature review of…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2608.02699",
+      "published_at": "2026-08-05T04:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7519,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2608.02699v1"
+    },
+    {
+      "title": "Predictive Set Theory: A Generative Framework for Cognitive Architecture with Operationalized Core Mechanisms",
+      "summary": "arXiv:2608.02704v1 Announce Type: new Abstract: Predictive processing theories portray the brain as a hierarchical prediction engine that minimizes prediction error, yet they lack operational definitions for the structure of a \"prediction,\" the standardized response to a prediction error, and the mechanism that maintains consistency across successive updates. Bayesian cognitive science attempts to subsume all uncertainty under probabilistic belief updating, but it…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2608.02704",
+      "published_at": "2026-08-05T04:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "GenAI",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7519,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2608.02704v1"
+    },
+    {
+      "title": "Towards a new paradigm of scientific discovery with socialized artificial intelligence",
+      "summary": "arXiv:2608.02775v1 Announce Type: new Abstract: Scientific discovery has advanced through successive transformations in the organization of knowledge. Observation and experimentation established the empirical foundations of science. Theory made it possible to derive general principles from particular phenomena. Computation extended inquiry into systems beyond direct observation, while data-intensive methods opened new spaces of pattern and prediction. Science now confronts a…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2608.02775",
+      "published_at": "2026-08-05T04:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7519,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2608.02775v1"
+    }
+  ]
+}
