@@ -1,0 +1,831 @@
+{
+  "post_date": "2026-08-07",
+  "sources_checked": 48,
+  "count": 45,
+  "items": [
+    {
+      "title": "Salesforce Agentic Enterprise Index: Agent Deployments More Than Double Year-Over-Year",
+      "summary": "An analysis of Agentforce usage among businesses consistently leveraging agents from February 2025 to April 2026 shows how different industries deploy AI agents while building trust and recognizing ROI.",
+      "source_name": "Salesforce News",
+      "source_url": "https://www.salesforce.com/news/stories/agentic-enterprise-index-insights-2026/",
+      "published_at": "2026-08-07T12:00:00Z",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.8897,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.salesforce.com/?p=94476"
+    },
+    {
+      "title": "Does Kubernetes DRA Replace HAMi?",
+      "summary": "Projects that want to share a GPU on Kubernetes have to work around an API instead of with it. The device plugin interface could count devices, and that was the whole vocabulary: nvidia.com/gpu: 1. It meant one...",
+      "source_name": "CNCF",
+      "source_url": "https://www.cncf.io/blog/2026/08/07/does-kubernetes-dra-replace-hami/",
+      "published_at": "2026-08-07T11:30:00Z",
+      "category": "open_source_foundations",
+      "tags": [
+        "Kubernetes",
+        "GPUs",
+        "APIs",
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8876,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.cncf.io/?p=171753"
+    },
+    {
+      "title": "Shadow AI in CI/CD: Threat-modeling the path from developer laptop to Kubernetes",
+      "summary": "Artificial intelligence is becoming part of daily software delivery, often before it becomes part of the security architecture. That gap has a name: Shadow AI. It is any AI tool, model, agent, extension, or integration used...",
+      "source_name": "CNCF",
+      "source_url": "https://www.cncf.io/blog/2026/08/07/shadow-ai-in-ci-cd-threat-modeling-the-path-from-developer-laptop-to-kubernetes/",
+      "published_at": "2026-08-07T11:00:00Z",
+      "category": "open_source_foundations",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Kubernetes",
+        "Security",
+        "AI Models",
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8856,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.cncf.io/?p=171972"
+    },
+    {
+      "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
+      "summary": "Discover how HSP GRUPPE uses ChatGPT Enterprise to boost productivity, improve work quality, and create more capacity for tax advisory and client service.",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/hsp-gruppe",
+      "published_at": "2026-08-07T09:00:00Z",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.99,
+      "importance_score": 0.8772,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/index/hsp-gruppe"
+    },
+    {
+      "title": "US strikes $1.2B deal to pay German firm to halt offshore wind projects",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.bbc.com/news/articles/c1e1vg0gjl5o",
+      "published_at": "2026-08-07T10:28:55Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.8534,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49208314"
+    },
+    {
+      "title": "Improving Fable 5's biology safeguards",
+      "summary": "Improving Fable 5's biology safeguards Anthropic",
+      "source_name": "Anthropic",
+      "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE95RXUtcVFIR1hIbmVDRk5sRDZEVWZSRTlXNXRMU1RXQk1JdE1kRzBMR3RuOGhzOVRZdEs2bGRIX3JIa1ZZbjlCbGx5RzlZRGdQZ3RwLXVidjZyZUpXeU1sM0hYeTQ2QW0zOXlCWnJQenFhZ0dEUFNFUA?oc=5",
+      "published_at": "2026-08-07T02:22:29Z",
+      "category": "ai_model_companies",
+      "tags": [
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.99,
+      "importance_score": 0.8496,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "CBMieEFVX3lxTE95RXUtcVFIR1hIbmVDRk5sRDZEVWZSRTlXNXRMU1RXQk1JdE1kRzBMR3RuOGhzOVRZdEs2bGRIX3JIa1ZZbjlCbGx5RzlZRGdQZ3RwLXVidjZyZUpXeU1sM0hYeTQ2QW0zOXlCWnJQenFhZ0dEUFNFUA"
+    },
+    {
+      "title": "New Mexico court orders Meta to pay $567m over harms to children’s mental health",
+      "summary": "https://www.reuters.com/world/new-mexico-court-orders-meta-p... https://www.theguardian.com/technology/2026/aug/06/new-mexic... https://www.kob.com/new-mexico/nm-court-orders-meta-to-pay-5... https://www.bbc.com/news/articles/cd7lz3wr2rlo…",
+      "source_name": "Hacker News",
+      "source_url": "https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta",
+      "published_at": "2026-08-07T00:06:28Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.8102,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49204352"
+    },
+    {
+      "title": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
+      "summary": "",
+      "source_name": "Google DeepMind",
+      "source_url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
+      "published_at": "2026-08-06T15:06:15Z",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI",
+        "AI Models",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.97,
+      "importance_score": 0.8027,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/"
+    },
+    {
+      "title": "U.S. economy lost 23,000 jobs in July, a sudden reversal",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.nbcnews.com/business/economy/july-2026-jobs-report-rcna591138",
+      "published_at": "2026-08-07T12:42:58Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.623,
+      "importance_score": 0.7952,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49209546"
+    },
+    {
+      "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
+      "summary": "https://ir.amd.com/news-events/press-releases/detail/1296/am... https://chatjimmy.ai/",
+      "source_name": "Hacker News",
+      "source_url": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
+      "published_at": "2026-08-06T20:23:11Z",
+      "category": "aggregators",
+      "tags": [
+        "AI Models",
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7946,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49201970"
+    },
+    {
+      "title": "Herdr is joining Y Combinator. The runtime stays open",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://herdr.dev/blog/herdr-is-joining-y-combinator/",
+      "published_at": "2026-08-06T19:14:21Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.6735,
+      "importance_score": 0.7899,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49201003"
+    },
+    {
+      "title": "LitmusChaos Q1-Q2 2026 update: community, contributions, and project progress",
+      "summary": "About LitmusChaos LitmusChaos is an open source chaos engineering platform that helps teams identify weaknesses and potential outages in their infrastructure by running controlled chaos experiments. Built on cloud native principles, LitmusChaos enables teams to validate...",
+      "source_name": "CNCF",
+      "source_url": "https://www.cncf.io/blog/2026/08/06/litmuschaos-q1-q2-2026-update-community-contributions-and-project-progress/",
+      "published_at": "2026-08-06T11:30:00Z",
+      "category": "open_source_foundations",
+      "tags": [
+        "Cloud",
+        "Open Source",
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.87,
+      "importance_score": 0.7876,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.cncf.io/?p=171599"
+    },
+    {
+      "title": "Welcoming the Nepalese Government to Have I Been Pwned",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/",
+      "published_at": "2026-08-06T21:52:16Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.6425,
+      "importance_score": 0.7821,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49203105"
+    },
+    {
+      "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
+      "summary": "ChatGPT introduces improved GPT-5.6 Sol with better accuracy and consistency, plus expanded access for free users and unlimited everyday chats with GPT-5.6 Luna.",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
+      "published_at": "2026-08-06T10:00:00Z",
+      "category": "ai_model_companies",
+      "tags": [
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.97,
+      "importance_score": 0.7814,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt"
+    },
+    {
+      "title": "Taste Is All That's Left",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://notashelf.dev/posts/taste-is-all-thats-left",
+      "published_at": "2026-08-06T17:01:33Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7806,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49199346"
+    },
+    {
+      "title": "Launch HN: ProvenMetal (YC S26) delivers circuit boards in days instead of weeks",
+      "summary": "Hey HN, we’re Will & Johnny from ProvenMetal ( https://provenmetal.com ). You send us design files or specs and we give you assembled boards domestically in days. The US produced 30% of PCBs globally in 2000, now they produce 4%. Chinese manufacturers have completely dominated this space at 55% of…",
+      "source_name": "Hacker News",
+      "source_url": "https://provenmetal.com",
+      "published_at": "2026-08-06T15:59:15Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.6565,
+      "importance_score": 0.7763,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49198464"
+    },
+    {
+      "title": "GitHub Actions and Pages are experiencing degraded availability",
+      "summary": "https://www.githubstatus.com/uptime/br0l2tvcx85d",
+      "source_name": "Hacker News",
+      "source_url": "https://www.githubstatus.com/incidents/qcvjkzcs7j74",
+      "published_at": "2026-08-06T15:49:38Z",
+      "category": "aggregators",
+      "tags": [
+        "AI",
+        "Developer Tools",
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7756,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49198302"
+    },
+    {
+      "title": "Runtime instances: persistent compute for production AI agents on Amazon Bedrock AgentCore",
+      "summary": "Announcing runtime instances in Amazon Bedrock AgentCore—persistent, managed EC2 infrastructure for production AI agents with multi-agent collaboration, GPU support, and sessions lasting up to 14 days.",
+      "source_name": "AWS News Blog",
+      "source_url": "https://aws.amazon.com/blogs/aws/runtime-instances-persistent-compute-for-production-ai-agents-on-amazon-bedrock-agentcore/",
+      "published_at": "2026-08-06T22:58:00Z",
+      "category": "cloud_providers",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "GPUs",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.7754,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "7bc89749c1b638955cb1927019d33a1150693c0f"
+    },
+    {
+      "title": "Working with the American Psychological Association on youth mental health and AI",
+      "summary": "OpenAI and the American Psychological Association advance evidence-based guidance, resources, and safeguards for responsible AI use and youth mental health.",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai",
+      "published_at": "2026-08-06T06:00:00Z",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.97,
+      "importance_score": 0.7647,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai"
+    },
+    {
+      "title": "A guide to slash commands in the GitHub Copilot app",
+      "summary": "Go beyond chat in the GitHub Copilot app with these slash commands. They'll help you plan, collaborate, automate, and customize your dev workflow. The post A guide to slash commands in the GitHub Copilot app appeared first on The GitHub Blog .",
+      "source_name": "The GitHub Blog",
+      "source_url": "https://github.blog/ai-and-ml/github-copilot/a-guide-to-slash-commands-in-the-github-copilot-app/",
+      "published_at": "2026-08-06T19:49:34Z",
+      "category": "developer_platforms",
+      "tags": [
+        "Developer Tools",
+        "Developer Platforms"
+      ],
+      "confidence_score": 0.92,
+      "importance_score": 0.7623,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://github.blog/?p=98013"
+    },
+    {
+      "title": "Bioengineered chewing gum may offer a way to fight HPV and other microbes",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.sciencedaily.com/releases/2026/08/260803080917.htm",
+      "published_at": "2026-08-06T21:18:32Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.635,
+      "importance_score": 0.761,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49202716"
+    },
+    {
+      "title": "Airbnb says AI is helping it ship features faster as it tests a new search function",
+      "summary": "Airbnb will debut a new AI-powered search experience with a toggle.",
+      "source_name": "TechCrunch - AI",
+      "source_url": "https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/",
+      "published_at": "2026-08-07T14:22:49Z",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7596,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://techcrunch.com/?p=3151106"
+    },
+    {
+      "title": "Our restaurant burned down. Now we make $4 million a year.",
+      "summary": "Smokey John's makes nearly $4 million in annual revenue and goes through roughly 2,000 pounds of brisket each week.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/making-4-million-with-texas-bbq-2026-8",
+      "published_at": "2026-08-07T14:18:03Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7593,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/making-4-million-with-texas-bbq-2026-8"
+    },
+    {
+      "title": "I spent most of my 20s traveling all over the world. By 29, I was completely over it.",
+      "summary": "I spent most of my 20s exploring the world and traveling while working. I got tired of the lifestyle, though, and ended up moving back to New York.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/traveled-full-time-downsides-challenges-stopped-went-home-2026-8",
+      "published_at": "2026-08-07T14:18:01Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7593,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/traveled-full-time-downsides-challenges-stopped-went-home-2026-8"
+    },
+    {
+      "title": "MIT boffins' TONTOU attack slips through Spectre defenses on Intel and AMD CPUs",
+      "summary": "Timer interrupts reopen branch predictor poisoning window, with a working Zen 2 exploit to prove it",
+      "source_name": "The Register",
+      "source_url": "https://www.theregister.com/security/2026/08/07/mit-boffins-tontou-attack-slips-through-spectre-defenses-on-intel-and-amd-cpus/5284081",
+      "published_at": "2026-08-07T14:15:00Z",
+      "category": "enterprise_technology",
+      "tags": [
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7591,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.theregister.com/a/5284081"
+    },
+    {
+      "title": "Satellite images show the damage Ukrainian strikes have inflicted on Russian e-commerce giant Wildberries' warehouses",
+      "summary": "Ukraine has carried out attacks on warehouses belonging to Wildberries, considered Russia's version of Amazon, in recent weeks.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/satellite-images-ukrainian-strikes-wildberries-russia-retail-giant-amazon-2026-8",
+      "published_at": "2026-08-07T14:14:39Z",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7591,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/satellite-images-ukrainian-strikes-wildberries-russia-retail-giant-amazon-2026-8"
+    },
+    {
+      "title": "Scientists Used AI to Create 16 New Viruses",
+      "summary": "The use of AI systems to create viruses opens up new possibilities for combating bacterial resistance. It also raises concerns about the pace at which technology is outstripping regulation.",
+      "source_name": "Wired",
+      "source_url": "https://www.wired.com/story/scientists-used-ai-to-create-16-new-viruses/",
+      "published_at": "2026-08-07T14:13:57Z",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.759,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "6a75dcabddaef387fe994fff"
+    },
+    {
+      "title": "The White House’s Secret A.I. Rules + The State of Model Alignment With METR’s Chris Painter + The Final Hot Mess Express",
+      "summary": "A few details from the White House’s A.I. plan have leaked to the news media, but the administration has officially communicated almost nothing.",
+      "source_name": "The New York Times - Technology",
+      "source_url": "https://www.nytimes.com/2026/08/07/podcasts/hardfork-white-house-secret-rules.html",
+      "published_at": "2026-08-07T14:11:56Z",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "AI Models",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7589,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.nytimes.com/2026/08/07/podcasts/hardfork-white-house-secret-rules.html"
+    },
+    {
+      "title": "Michael Burry says he's shorting AI stars Oracle and Nebius",
+      "summary": "Michael Burry of \"The Big Short\" fame said on his Substack that he's shorting Oracle and Nebius, and several AI companies look vulnerable to him.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/big-short-michael-burry-oracle-nebius-ai-stocks-data-centers-2026-8",
+      "published_at": "2026-08-07T14:12:31Z",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7589,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/big-short-michael-burry-oracle-nebius-ai-stocks-data-centers-2026-8"
+    },
+    {
+      "title": "I've been visiting Hersheypark for over 30 years. Here are 12 things I do whenever I visit the Pennsylvania gem.",
+      "summary": "From free attractions and chocolate dishes at lodges, here are the best things I do and eat when I visit Hersheypark amusement park in Pennsylvania.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/best-things-hershey-park-do-eat-recommendations-frequent-visitor-2026-8",
+      "published_at": "2026-08-07T14:09:24Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7587,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/best-things-hershey-park-do-eat-recommendations-frequent-visitor-2026-8"
+    },
+    {
+      "title": "How ideas of a vast censorship network moved from the online fringe to Trump policy",
+      "summary": "This article was produced in partnership with Type Investigations, with support from the Wayne Barrett Project. One morning in April 2025, employees of a small office in the US State Department got the email many of them had been dreading. For months, Elon Musk’s Department of Government Efficiency had been cutting a wide swath through…",
+      "source_name": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/08/07/1141105/how-ideas-of-a-vast-censorship-network-moved-from-the-online-fringe-to-trump-policy/",
+      "published_at": "2026-08-07T14:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.758,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.technologyreview.com/?p=1141105"
+    },
+    {
+      "title": "Scot NHS trust probes access to medical records of 9-year-old girl after man arrested on suspicion of murder",
+      "summary": "Investigation into whether staff improperly accessed Minnie Merriman’s file after she was named for the first time this week",
+      "source_name": "The Register",
+      "source_url": "https://www.theregister.com/security/2026/08/07/nhs-tayside-investigates-breach-concerning-data-of-dead-girl/5284815",
+      "published_at": "2026-08-07T13:59:16Z",
+      "category": "enterprise_technology",
+      "tags": [
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.758,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.theregister.com/a/5284815"
+    },
+    {
+      "title": "Our Favorite Fans Are on Sale to Help With Summer Heat Waves (2026)",
+      "summary": "We’re still in the dog days of summer—keep your cool with deals on the best fans we’ve tested for on the go and at home.",
+      "source_name": "Wired",
+      "source_url": "https://www.wired.com/story/fan-deals-august-2026/",
+      "published_at": "2026-08-07T13:56:51Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7578,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "6a74aec9551a7f9933fd3b1a"
+    },
+    {
+      "title": "We toured a specially modified Boeing 747 used as a 'flying laboratory' to test new jet engines. See inside.",
+      "summary": "GE Aerospace is building the world's largest jet engine for Boeing's new 777X, and it's using a giant 747 to test it. We toured the unique plane.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/photos-inside-boeing-747-flying-laboratory-engines-777x-2026-8",
+      "published_at": "2026-08-07T13:53:26Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7576,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/photos-inside-boeing-747-flying-laboratory-engines-777x-2026-8"
+    },
+    {
+      "title": "Mario Meets Pareto",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.mayerowitz.io/blog/mario-meets-pareto",
+      "published_at": "2026-08-06T11:24:53Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7573,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49195231"
+    },
+    {
+      "title": "Agentic Nesting: A New Methodology for Existing Enterprise Application Integration and Services",
+      "summary": "arXiv:2608.05159v1 Announce Type: new Abstract: Enterprise operations extensively rely on multiple heterogeneous business systems and information applications, which also result in severe data silos and process fragmentation. Enterprises have invested considerable financial and material resources in building these applications, however, effectively leveraging and orchestrating them remains a formidable challenge. Conventional approaches to enterprise application integration…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2608.05159",
+      "published_at": "2026-08-07T04:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7564,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2608.05159v1"
+    },
+    {
+      "title": "The Ignition Index: Measuring Global Workspace Dynamics in Language Models",
+      "summary": "arXiv:2608.05160v1 Announce Type: new Abstract: We introduce the Ignition Index (I), a validated scalar metric that operationalizes Global Workspace Theory's (GWT) all-or-none ignition prediction in transformer language models. The metric fits a four-parameter sigmoid to per-layer linear probe accuracy as a function of input signal strength, extracting steepness parameter beta-hat: high values indicate abrupt, ignition-like transitions; low values indicate graded build-up…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2608.05160",
+      "published_at": "2026-08-07T04:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "AI Models",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7564,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2608.05160v1"
+    },
+    {
+      "title": "Woodpecker Distillation: Weak Models Diagnose Reasoning Bugs in Strong Models",
+      "summary": "arXiv:2608.05168v1 Announce Type: new Abstract: Large language models often fail on reasoning tasks despite possessing the capability to solve them. We argue that many such failures arise from localized reasoning bugs in intermediate steps rather than from global incompetence. We show that these bugs are frequently repairable: inserting a short patch generated by a weak probe model after the same strong-model reasoning prefix can redirect the trajectory toward a correct…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2608.05168",
+      "published_at": "2026-08-07T04:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "LLMs",
+        "AI Models",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7564,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2608.05168v1"
+    },
+    {
+      "title": "From Continuous Predictors to Clinical Thresholds: Early Evidence on Performance Trade-offs of Guideline-Based Categorisation for Ischaemic Stroke Outcome Prediction",
+      "summary": "arXiv:2608.05203v1 Announce Type: new Abstract: Machine learning models achieve strong predictive accuracy for 90-day outcome prediction in acute ischaemic stroke, yet clinical adoption is limited by the misalignment of model explanations with clinicians' reasoning. Motivated by a clinician user study calling for clinical guideline-aligned cut-offs, we ask whether continuous predictors can be replaced by clinically informed categorical encodings without sacrificing…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2608.05203",
+      "published_at": "2026-08-07T04:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "Machine Learning",
+        "AI Models",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7564,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2608.05203v1"
+    },
+    {
+      "title": "SkillTrace: Multi-Trace Provenance Auditing for LLM-Agent Skill Reuse",
+      "summary": "arXiv:2608.05204v1 Announce Type: new Abstract: LLM-agent ecosystems are rapidly growing around reusable skills: mixed-modality packages of metadata, natural-language instructions, code, tools, references, and operational workflows. As skills become marketplace artifacts, auditing their reuse is no longer the same problem as ordinary code clone detection. Existing detectors target single-modality source code or whole-package similarity, yet skill reuse evidence is…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2608.05204",
+      "published_at": "2026-08-07T04:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "LLMs",
+        "AI Agents",
+        "APIs",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7564,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2608.05204v1"
+    },
+    {
+      "title": "Abstract Event Causal Rules: Induction and Application",
+      "summary": "arXiv:2608.05205v1 Announce Type: new Abstract: Event-centric intelligent analytical systems heavily depend on explicit causal event knowledge for risk early warning, decision-making support and narrative comprehension. Nevertheless, existing instance-level causal pairs suffer severe generalization deficits on low-frequency long-tail and unseen event combinations. To address this limitation, this work proposes Abstract Event Causal Rule (AECR), a novel relation-level causal…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2608.05205",
+      "published_at": "2026-08-07T04:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7564,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2608.05205v1"
+    },
+    {
+      "title": "Otter: A Time-Aware, History-Conditioned Human Chess AI",
+      "summary": "arXiv:2608.05206v1 Announce Type: new Abstract: Otter is a 15.3M-parameter human chess AI that predicts human move selection by modeling play as a time-aware, sequential process rather than treating each position in isolation. It combines two conditioning signals: (1) a move history encoder that conditions predictions on the last 20 moves, capturing opening preferences, positional drift, and intra-game behavioral tendencies; and (2) a time control module that modulates…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2608.05206",
+      "published_at": "2026-08-07T04:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "AI Models",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7564,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2608.05206v1"
+    },
+    {
+      "title": "SearchAuditor: Auditing and Attributing Failures in Long-Horizon Search Agents",
+      "summary": "arXiv:2608.05212v1 Announce Type: new Abstract: Deep search agents tackle challenging questions through long-horizon web interactions, a process that is both complex and fragile: small reasoning errors may propagate through long, noisy trajectories into fluent but incorrect answers. Diagnosing such failures is difficult, requiring the manual inspection of extremely long execution traces, which could be beyond human capacity. We therefore introduce SearchAuditBench, a…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2608.05212",
+      "published_at": "2026-08-07T04:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7564,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2608.05212v1"
+    },
+    {
+      "title": "PD-GS: Phoneme-Driven 3DGS for Audio-Driven Talking Heads",
+      "summary": "arXiv:2608.05218v1 Announce Type: new Abstract: 3D Gaussian Splatting (3DGS) enables fast, photorealistic talking-head rendering, yet accurate lip articulation remains elusive: mouth motion is often over-smoothed and may violate hard articulatory constraints such as bilabial closures, producing the notorious ``leaky mouth'' artifact. A key difficulty is that brief, discrete articulatory events are inferred from a continuous acoustic embedding under a regression objective…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2608.05218",
+      "published_at": "2026-08-07T04:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7564,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2608.05218v1"
+    },
+    {
+      "title": "When Privileged Guidance Misaligns: State-Matched Routing and Contextualized Self-Distillation for Multi-Turn Agents",
+      "summary": "arXiv:2608.05219v1 Announce Type: new Abstract: Privileged on-policy distillation provides dense supervision for multi-turn agents by allowing a synchronized teacher to re-score the student's response at every turn with access to training-only references, such as successful trajectories. In interactive environments, however, the student's preceding actions continually change the execution state. As the student takes different actions or completes subgoals in a different…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2608.05219",
+      "published_at": "2026-08-07T04:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7564,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2608.05219v1"
+    }
+  ]
+}
