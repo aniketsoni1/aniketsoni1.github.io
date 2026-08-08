@@ -1,0 +1,824 @@
+{
+  "post_date": "2026-08-08",
+  "sources_checked": 48,
+  "count": 45,
+  "items": [
+    {
+      "title": "Hardware backdoors in some x86 CPUs",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://github.com/xoreaxeaxeax/rosenbridge",
+      "published_at": "2026-08-08T07:04:51Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.65,
+      "importance_score": 0.841,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49219508"
+    },
+    {
+      "title": "Firebird Launches CIS Region’s Largest AI Factory in Armenia",
+      "summary": "The global buildout of AI infrastructure reached a new milestone today — Firebird, an emerging AI cloud, launched the CIS region’s largest AI factory in Armenia, establishing a new AI computing hub powered by NVIDIA accelerated computing and Dell Technologies high-performance AI infrastructure. Nikol Pashinyan, prime minister of the Republic of Armenia; Zhaslan Madiyev, deputy […]",
+      "source_name": "NVIDIA Blog",
+      "source_url": "https://blogs.nvidia.com/blog/firebird-ai-factory-armenia-blackwell-rubin-dsx/",
+      "published_at": "2026-08-08T10:24:54Z",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "Cloud",
+        "GPUs",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8249,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://blogs.nvidia.com/?p=97258"
+    },
+    {
+      "title": "NASA figured out how to keep its Voyager 2 probe running for another year",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year",
+      "published_at": "2026-08-08T01:49:11Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.6955,
+      "importance_score": 0.8191,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49218179"
+    },
+    {
+      "title": "The Nixpkgs core team has disbanded",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413",
+      "published_at": "2026-08-08T01:12:45Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.8166,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49217993"
+    },
+    {
+      "title": "Responding to the next frontier of critical cyber capabilities",
+      "summary": "OpenAI is sharing preliminary cybersecurity evaluations for Astra and the steps we’re taking to strengthen safeguards and security controls.",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
+      "published_at": "2026-08-07T15:20:00Z",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI",
+        "Security",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.99,
+      "importance_score": 0.8055,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities"
+    },
+    {
+      "title": "U.S. Department of Energy Launches the Genesis Open Models Initiative",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://genesisopenmodels.anl.gov/",
+      "published_at": "2026-08-07T22:24:27Z",
+      "category": "aggregators",
+      "tags": [
+        "AI Models",
+        "Hacker News"
+      ],
+      "confidence_score": 0.6905,
+      "importance_score": 0.8049,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49216946"
+    },
+    {
+      "title": "Salesforce Agentic Enterprise Index: Agent Deployments More Than Double Year over Year",
+      "summary": "An analysis of Agentforce usage among businesses consistently leveraging agents from February 2025 to April 2026 shows how different industries deploy AI agents while building trust and recognizing ROI.",
+      "source_name": "Salesforce News",
+      "source_url": "https://www.salesforce.com/news/stories/agentic-enterprise-index-insights-2026/",
+      "published_at": "2026-08-07T12:00:00Z",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7915,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.salesforce.com/?p=94476"
+    },
+    {
+      "title": "Ancient Library – 1,060 Greek/Latin texts, click any word to parse it",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://ancientlibrary.net/",
+      "published_at": "2026-08-07T18:51:14Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.6625,
+      "importance_score": 0.7901,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49214770"
+    },
+    {
+      "title": "Does Kubernetes DRA Replace HAMi?",
+      "summary": "Projects that want to share a GPU on Kubernetes have to work around an API instead of with it. The device plugin interface could count devices, and that was the whole vocabulary: nvidia.com/gpu: 1. It meant one...",
+      "source_name": "CNCF",
+      "source_url": "https://www.cncf.io/blog/2026/08/07/does-kubernetes-dra-replace-hami/",
+      "published_at": "2026-08-07T11:30:00Z",
+      "category": "open_source_foundations",
+      "tags": [
+        "Kubernetes",
+        "GPUs",
+        "APIs",
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.87,
+      "importance_score": 0.7895,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.cncf.io/?p=171753"
+    },
+    {
+      "title": "Managing AI Coding Costs at Scale",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
+      "published_at": "2026-08-07T18:25:17Z",
+      "category": "aggregators",
+      "tags": [
+        "AI",
+        "Hacker News"
+      ],
+      "confidence_score": 0.6835,
+      "importance_score": 0.7883,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49214468"
+    },
+    {
+      "title": "Shadow AI in CI/CD: Threat-modeling the path from developer laptop to Kubernetes",
+      "summary": "Artificial intelligence is becoming part of daily software delivery, often before it becomes part of the security architecture. That gap has a name: Shadow AI. It is any AI tool, model, agent, extension, or integration used...",
+      "source_name": "CNCF",
+      "source_url": "https://www.cncf.io/blog/2026/08/07/shadow-ai-in-ci-cd-threat-modeling-the-path-from-developer-laptop-to-kubernetes/",
+      "published_at": "2026-08-07T11:00:00Z",
+      "category": "open_source_foundations",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Kubernetes",
+        "Security",
+        "AI Models",
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.87,
+      "importance_score": 0.7874,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.cncf.io/?p=171972"
+    },
+    {
+      "title": "Assembly Hall of Shame",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://github.com/xoreaxeaxeax/asm-hall-of-shame",
+      "published_at": "2026-08-07T18:01:30Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7866,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49214098"
+    },
+    {
+      "title": "DeepSeek V4 Flash 0731",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://arcprize.org/results/deepseek-v4-flash-0731",
+      "published_at": "2026-08-07T17:56:20Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7863,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49214008"
+    },
+    {
+      "title": "Oracle bans AI-generated code from OpenJDK",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
+      "published_at": "2026-08-07T17:36:30Z",
+      "category": "aggregators",
+      "tags": [
+        "AI",
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7849,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49213754"
+    },
+    {
+      "title": "New Amazon Data Center Is Set to Have the Most Polluting Power Plant in the U.S.",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html",
+      "published_at": "2026-08-08T10:07:06Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.6225,
+      "importance_score": 0.7849,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49220350"
+    },
+    {
+      "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
+      "summary": "Discover how HSP GRUPPE uses ChatGPT Enterprise to boost productivity, improve work quality, and create more capacity for tax advisory and client service.",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/hsp-gruppe",
+      "published_at": "2026-08-07T09:00:00Z",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.97,
+      "importance_score": 0.7791,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/index/hsp-gruppe"
+    },
+    {
+      "title": "What happens if an entire class of workers loses faith in their careers",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
+      "published_at": "2026-08-07T12:42:27Z",
+      "category": "aggregators",
+      "tags": [
+        "AI",
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7645,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49209539"
+    },
+    {
+      "title": "The Sharpest Image Ever Taken of the Sun Reveals a Hidden Phenomenon",
+      "summary": "The photograph, taken in visible light, made it possible to observe for the first time the tiny plasma vortices that had been predicted for more than a century.",
+      "source_name": "Wired",
+      "source_url": "https://www.wired.com/story/the-sharpest-image-ever-taken-of-the-sun-reveals-a-beautiful-hidden-phenomenon/",
+      "published_at": "2026-08-08T14:00:15Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7599,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "6a763d9ec404430b49c6fc21"
+    },
+    {
+      "title": "Making Postgres 300x faster for analytics: batching, operator fusion, and SIMD",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://malisper.me/how-we-made-postgres-hundreds-of-times-faster-the-query-engine/",
+      "published_at": "2026-08-07T11:00:35Z",
+      "category": "aggregators",
+      "tags": [
+        "Databases",
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7574,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49208535"
+    },
+    {
+      "title": "I saved over $1,900 on my family trip to Orlando using credit card points. These are the hacks I used.",
+      "summary": "Our six-day Orlando trip for a family of five cost about $8,620. But I strategized beforehand to earn credit card points that reduced the cost.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/saved-family-trip-orlando-using-credit-card-points-2026-8",
+      "published_at": "2026-08-08T13:17:01Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7569,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/saved-family-trip-orlando-using-credit-card-points-2026-8"
+    },
+    {
+      "title": "I moved to NYC at 22 and lived with a 70-year-old roommate. She had rules, meals, and a busier social life than me.",
+      "summary": "In NYC, finding a place to live isn't easy. So when William Swanson found the right listing, he jumped on it — even though his new roommate was 70.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/moved-to-nyc-at-22-lived-with-70-year-old-roommate-2026-8",
+      "published_at": "2026-08-08T13:08:01Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7563,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/moved-to-nyc-at-22-lived-with-70-year-old-roommate-2026-8"
+    },
+    {
+      "title": "TutorMoments: Do AI tutors know when to help and when to hold back?",
+      "summary": "",
+      "source_name": "Hugging Face",
+      "source_url": "https://huggingface.co/blog/allenai/tutormoments",
+      "published_at": "2026-08-07T17:53:32Z",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.9,
+      "importance_score": 0.7561,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://huggingface.co/blog/allenai/tutormoments"
+    },
+    {
+      "title": "Kitesurf: Agent-first browser that runs in V8 isolates",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://blog.cloudflare.com/kitesurf/",
+      "published_at": "2026-08-07T10:42:07Z",
+      "category": "aggregators",
+      "tags": [
+        "AI Agents",
+        "Hacker News"
+      ],
+      "confidence_score": 0.651,
+      "importance_score": 0.7561,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49208393"
+    },
+    {
+      "title": "Old Rover Data Constructs a New Picture of Water on Mars",
+      "summary": "The new analysis suggests water was far more abundant than previously expected",
+      "source_name": "IEEE Spectrum",
+      "source_url": "https://spectrum.ieee.org/water-on-mars-spirit-rover",
+      "published_at": "2026-08-08T13:00:01Z",
+      "category": "research_feeds",
+      "tags": [
+        "Research Feeds"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.7557,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://spectrum.ieee.org/water-on-mars-spirit-rover"
+    },
+    {
+      "title": "Devs to Anthropic, OpenAI, Cursor, and friends: Make security and privacy the default",
+      "summary": "Researchers scour social media to measure developer concerns about AI coding tools",
+      "source_name": "The Register",
+      "source_url": "https://www.theregister.com/ai-and-ml/2026/08/08/devs-to-anthropic-openai-cursor-and-friends-make-security-and-privacy-the-default/5285107",
+      "published_at": "2026-08-08T13:00:00Z",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "Security",
+        "Research",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7557,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.theregister.com/a/5285107"
+    },
+    {
+      "title": "Wearing shorts to the office isn't always a fashion faux pas. Here's how to pull them off.",
+      "summary": "Instagram head Adam Mosseri said he's \"pro\" wearing shorts at the office. A stylist told us how to wear them and still look professional.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/how-to-wear-shorts-to-work-office-stylist-advice-2026-8",
+      "published_at": "2026-08-08T12:58:01Z",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7556,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/how-to-wear-shorts-to-work-office-stylist-advice-2026-8"
+    },
+    {
+      "title": "I dreaded raising 5 teens under one roof. Then they all started becoming people I'd love to hang out with.",
+      "summary": "Everyone warned me about parenting during the teen years. Sure, there are hard parts, but there's a fun side to it, too.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/enjoying-parenting-raising-tweens-teens-2026-8",
+      "published_at": "2026-08-08T12:52:01Z",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7552,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/enjoying-parenting-raising-tweens-teens-2026-8"
+    },
+    {
+      "title": "The US Army wants soldiers to test tomorrow's tech while preparing to fight today. It's a balancing act.",
+      "summary": "Soldiers can provide feedback on new systems, but they also have to learn how to use them without sacrificing the combat training they need.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/testing-new-tech-while-training-work-in-progress-us-army-2026-8",
+      "published_at": "2026-08-08T12:41:01Z",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7544,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/testing-new-tech-while-training-work-in-progress-us-army-2026-8"
+    },
+    {
+      "title": "Zero-code, low-cost data ingestion: New BigQuery DTS capabilities",
+      "summary": "In a fast-paced digital economy, data is your most critical engine. Yet, many enterprises find themselves trapped in a costly paradox, spending over 100 hours a week building and fixing fragile, in-house ETL pipelines or wrestling with unpredictable third-party tools. Trusted by thousands of customers every single day , BigQuery Data Transfer Service (DTS) eliminates this engineering burden. As a fully managed, zero-code data movement solution, BigQuery DTS automates data…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/products/data-analytics/new-bigquery-data-transfer-service-capabilities/",
+      "published_at": "2026-08-07T17:00:00Z",
+      "category": "cloud_providers",
+      "tags": [
+        "Data Pipelines",
+        "ETL",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.7524,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/products/data-analytics/new-bigquery-data-transfer-service-capabilities/"
+    },
+    {
+      "title": "Improving Fable 5's biology safeguards",
+      "summary": "Improving Fable 5's biology safeguards Anthropic",
+      "source_name": "Anthropic",
+      "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE95RXUtcVFIR1hIbmVDRk5sRDZEVWZSRTlXNXRMU1RXQk1JdE1kRzBMR3RuOGhzOVRZdEs2bGRIX3JIa1ZZbjlCbGx5RzlZRGdQZ3RwLXVidjZyZUpXeU1sM0hYeTQ2QW0zOXlCWnJQenFhZ0dEUFNFUA?oc=5",
+      "published_at": "2026-08-07T02:22:29Z",
+      "category": "ai_model_companies",
+      "tags": [
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.97,
+      "importance_score": 0.7515,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "CBMieEFVX3lxTE95RXUtcVFIR1hIbmVDRk5sRDZEVWZSRTlXNXRMU1RXQk1JdE1kRzBMR3RuOGhzOVRZdEs2bGRIX3JIa1ZZbjlCbGx5RzlZRGdQZ3RwLXVidjZyZUpXeU1sM0hYeTQ2QW0zOXlCWnJQenFhZ0dEUFNFUA"
+    },
+    {
+      "title": "Here Are the First Images of the Crater Left on the Moon by SpaceX’s Rocket",
+      "summary": "The Korea Aerospace Research Institute shared images that show the gash on the surface. It’s pretty small.",
+      "source_name": "Wired",
+      "source_url": "https://www.wired.com/story/first-images-spacex-rocket-moon-crater/",
+      "published_at": "2026-08-08T12:00:00Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Research",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7515,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "6a7651c9ff4b3e6c00b63e7a"
+    },
+    {
+      "title": "The AI boom is creating data center jobs that pay more",
+      "summary": "Data centers are driving demand for electricians, installers, and maintenance workers, with some jobs paying $10 more an hour than similar roles.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/ai-data-center-jobs-higher-pay-2026-8",
+      "published_at": "2026-08-08T12:00:01Z",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7515,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/ai-data-center-jobs-higher-pay-2026-8"
+    },
+    {
+      "title": "The Excellent HP OmniBook 5 Is $550 Off Its Retail Price Today",
+      "summary": "My favorite budget laptop, the HP OmniBook 5, has an OLED screen and gets great battery life, despite being just $750 right now.",
+      "source_name": "Wired",
+      "source_url": "https://www.wired.com/story/hp-omnibook-5-50-percent-off/",
+      "published_at": "2026-08-08T11:34:00Z",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7497,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "6a74e02678bea608b59e5e8b"
+    },
+    {
+      "title": "After a trip to see my parents, my family moved across the country to live with them. My dad's recent diagnosis made me grateful we did.",
+      "summary": "My family moved in with my parents because I wanted more time with them. When my dad was diagnosed with Parkinson's, I knew it was the right call.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/moved-in-parents-dads-diagnosis-confirmed-decision-2026-8",
+      "published_at": "2026-08-08T11:33:01Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7497,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/moved-in-parents-dads-diagnosis-confirmed-decision-2026-8"
+    },
+    {
+      "title": "Amazon OpenSearch Service extends version lifecycle support timelines",
+      "summary": "In November 2024, we announced Standard and Extended Support dates for legacy Elasticsearch and OpenSearch versions on Amazon OpenSearch Service. We are extending security and operating system patch coverage for these versions by 12 months, through November 7, 2027, and announcing support dates for additional Elasticsearch and OpenSearch versions.",
+      "source_name": "AWS Big Data Blog",
+      "source_url": "https://aws.amazon.com/blogs/big-data/amazon-opensearch-service-extends-version-lifecycle-support-timelines/",
+      "published_at": "2026-08-07T16:13:44Z",
+      "category": "cloud_providers",
+      "tags": [
+        "Security",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.92,
+      "importance_score": 0.7492,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "99bc89f6a6853ebd1dc513d2169d1647ae7d8090"
+    },
+    {
+      "title": "DeepMind's WeatherNext model achieves breakthrough forecasting cyclones",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
+      "published_at": "2026-08-08T09:18:50Z",
+      "category": "aggregators",
+      "tags": [
+        "AI Models",
+        "Hacker News"
+      ],
+      "confidence_score": 0.6095,
+      "importance_score": 0.749,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49220126"
+    },
+    {
+      "title": "Norwegian soldiers say they're training Ukrainian soldiers with a 'Viking mentality' built for harsh conditions",
+      "summary": "Norwegian troops are bringing battlefield skills and a Viking-inspired warrior mentality to training Ukrainian soldiers on NATO soil.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/norway-soldiers-training-ukraine-troops-viking-mentality-2026-8",
+      "published_at": "2026-08-08T11:20:01Z",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7488,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/norway-soldiers-training-ukraine-troops-viking-mentality-2026-8"
+    },
+    {
+      "title": "An all-sky map of half a million supermassive black holes",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.sdss.org/black-hole-mapper-release-20/",
+      "published_at": "2026-08-07T15:24:53Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.639,
+      "importance_score": 0.7483,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49211921"
+    },
+    {
+      "title": "What’s new with Google Cloud",
+      "summary": "Want to know the latest from Google Cloud? Find it here in one handy location. Check back regularly for our newest updates, announcements, resources, events, learning opportunities, and more. Tip : Not sure where to find what you’re looking for on the Google Cloud blog? Start here: Google Cloud blog 101: Full list of topics, links, and resources . aside_block <ListValue: []> Aug 3 - Aug 7 Navigate data sovereignty and AI innovation with hybrid cloud For enterprises facing…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
+      "published_at": "2026-08-07T16:00:00Z",
+      "category": "cloud_providers",
+      "tags": [
+        "AI",
+        "Cloud",
+        "Google Cloud",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.7482,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/"
+    },
+    {
+      "title": "How Google Cloud detects, contains, and protects against emerging threats",
+      "summary": "At Google Cloud, securing your data and business systems is our foundational commitment. We empower our customers with the tools, governance, and infrastructure needed to securely deploy workloads and maintain long-term trust. We approach security from a shared fate model , and we continuously work to proactively identify and mitigate potential threats before they can compromise your data and misuse your infrastructure. Understanding the risk: How bad actors attempt to…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/products/identity-security/how-google-cloud-detects-contains-and-protects-against-emerging-threats/",
+      "published_at": "2026-08-07T16:00:00Z",
+      "category": "cloud_providers",
+      "tags": [
+        "AI",
+        "Cloud",
+        "Google Cloud",
+        "Security",
+        "Data Governance",
+        "AI Models",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.7482,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/products/identity-security/how-google-cloud-detects-contains-and-protects-against-emerging-threats/"
+    },
+    {
+      "title": "Unifying Structured and Unstructured Data Insights with BQ Search Innovations",
+      "summary": "Modern enterprises possess a vast amount of unstructured data, yet they frequently encounter significant challenges in managing and extracting value from it. Historically, unlocking the insights hidden within PDFs, audio files, images, and unstructured text required a fragmented architecture: moving data out of your warehouse, stitching together complex LLM pipelines, and managing disparate search indexes. BigQuery has worked with many enterprises to make sense of their…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/products/data-analytics/bigquery-search-innovations-unify-structured-unstructured-data/",
+      "published_at": "2026-08-07T16:00:00Z",
+      "category": "cloud_providers",
+      "tags": [
+        "LLMs",
+        "Data Pipelines",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.7482,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/products/data-analytics/bigquery-search-innovations-unify-structured-unstructured-data/"
+    },
+    {
+      "title": "GOL! How TelevisaUnivision streamed the FIFA World Cup to millions with Google Cloud",
+      "summary": "Live sports broadcasting represents the ultimate stress test for digital media infrastructure, where operational success or failure is measured in milliseconds and observed live by millions of viewers simultaneously. During the 2026 FIFA World Cup, the stakes reached a high for TelevisaUnivision, the leading Spanish-language media conglomerate. With Mexico serving as both a primary host nation and a core contender on home soil, fan engagement created unprecedented demand…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/products/networking/streaming-the-fifa-world-cup-with-televisaunivision/",
+      "published_at": "2026-08-07T16:00:00Z",
+      "category": "cloud_providers",
+      "tags": [
+        "AI",
+        "Cloud",
+        "Google Cloud",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.7482,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/products/networking/streaming-the-fifa-world-cup-with-televisaunivision/"
+    },
+    {
+      "title": "Best Gaming Laptops (2026): Razer, Asus, Dell, and More",
+      "summary": "You don’t want any old gaming laptop. Here’s my take on which to get, based on hundreds of hours of testing.",
+      "source_name": "Wired",
+      "source_url": "https://www.wired.com/story/best-gaming-laptops/",
+      "published_at": "2026-08-08T11:01:00Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7474,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "69dfc38fdd85d0a93e8a4ba6"
+    },
+    {
+      "title": "Xteink X4 Pro Pocket E-Reader Review (2026): Fun but Limited",
+      "summary": "Xteink’s new X4 Pro e-reader is its best yet, but the lack of an ebook store can be limiting.",
+      "source_name": "Wired",
+      "source_url": "https://www.wired.com/review/xteink-x4-pro-e-reader/",
+      "published_at": "2026-08-08T10:36:00Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7457,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "6a6abcfd0c80624b1296c92d"
+    },
+    {
+      "title": "Flock’s Plans for Rideshare Dashcams and Coaching Police, Revealed",
+      "summary": "Plus: A judge rules cell tower dumps unconstitutional, water utility hacks spread to a dozen states, a phishing email opens a missile-parts supplier’s inbox, and a ransomware boss gets 16 years.",
+      "source_name": "Wired",
+      "source_url": "https://www.wired.com/story/flocks-plans-for-rideshare-dashcams-and-coaching-police-revealed/",
+      "published_at": "2026-08-08T10:30:00Z",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7453,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "6a7605b338d20e49f19d178f"
+    }
+  ]
+}
