@@ -1,0 +1,139 @@
+{
+  "post_date": "2026-08-09",
+  "week_start": "2026-08-03",
+  "week_label": "August 3–9, 2026",
+  "theme": "AI",
+  "related_themes": [
+    "AI Models",
+    "Security",
+    "Ai Model Companies",
+    "AI Agents",
+    "Cloud"
+  ],
+  "tag_counts": [
+    {
+      "tag": "AI",
+      "count": 28
+    },
+    {
+      "tag": "AI Models",
+      "count": 11
+    },
+    {
+      "tag": "Security",
+      "count": 9
+    },
+    {
+      "tag": "Ai Model Companies",
+      "count": 9
+    },
+    {
+      "tag": "AI Agents",
+      "count": 8
+    },
+    {
+      "tag": "Cloud",
+      "count": 7
+    }
+  ],
+  "stories_reviewed": 70,
+  "runs_used": [
+    "2026-08-03",
+    "2026-08-04",
+    "2026-08-05",
+    "2026-08-06",
+    "2026-08-07",
+    "2026-08-08",
+    "2026-08-09"
+  ],
+  "sources_count": 14,
+  "citations": [
+    {
+      "date": "2026-08-06",
+      "title": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
+      "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
+      "source_name": "Google DeepMind",
+      "tags": [
+        "AI",
+        "AI Models",
+        "Ai Model Companies"
+      ],
+      "summary": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
+      "why": "Signals how frontier-model capabilities and access may shift for AI engineers and product teams.",
+      "score": 0.8981
+    },
+    {
+      "date": "2026-08-04",
+      "title": "The latest AI news we announced in July 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/",
+      "source_name": "Google AI (The Keyword)",
+      "tags": [
+        "AI",
+        "Ai Model Companies"
+      ],
+      "summary": "July AI recap header",
+      "why": "Signals how frontier-model capabilities and access may shift for AI engineers and product teams.",
+      "score": 0.8889
+    },
+    {
+      "date": "2026-08-07",
+      "title": "Shadow AI in CI/CD: Threat-modeling the path from developer laptop to Kubernetes",
+      "url": "https://www.cncf.io/blog/2026/08/07/shadow-ai-in-ci-cd-threat-modeling-the-path-from-developer-laptop-to-kubernetes/",
+      "source_name": "CNCF",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Kubernetes",
+        "Security",
+        "AI Models",
+        "Open Source Foundations"
+      ],
+      "summary": "Artificial intelligence is becoming part of daily software delivery, often before it becomes part of the security architecture. That gap has a name: Shadow AI. It is any AI tool, model, agent, extension, or integration used...",
+      "why": "Matters for platform teams tracking the open-source dependencies under their stack.",
+      "score": 0.8856
+    },
+    {
+      "date": "2026-08-05",
+      "title": "OpenCost 1.121.0: First-of-a-kind Kubernetes inference cost tracking",
+      "url": "https://www.cncf.io/blog/2026/08/05/opencost-1-121-0-first-of-a-kind-kubernetes-inference-cost-tracking/",
+      "source_name": "CNCF",
+      "tags": [
+        "AI",
+        "Kubernetes",
+        "GPUs",
+        "AI Models",
+        "Open Source Foundations"
+      ],
+      "summary": "Your GPU bill is rising. Your models are serving billions of tokens. Yet one question remains unanswered: what does each token actually cost? This is not a hypothetical problem. Platform teams today operate in a fog...",
+      "why": "Matters for platform teams tracking the open-source dependencies under their stack.",
+      "score": 0.8811
+    },
+    {
+      "date": "2026-08-04",
+      "title": "You can’t debug what you can’t see — Observability for AI Agents",
+      "url": "https://www.cncf.io/blog/2026/08/04/you-cant-debug-what-you-cant-see-observability-for-ai-agents/",
+      "source_name": "CNCF",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Open Source Foundations"
+      ],
+      "summary": "Traditional APM can’t tell you why your agent spent far more than usual asking the same question three times. We’ve been running AI agents in production for months. The hardest part isn’t building them, it’s understanding...",
+      "why": "Matters for platform teams tracking the open-source dependencies under their stack.",
+      "score": 0.8805
+    },
+    {
+      "date": "2026-08-07",
+      "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
+      "url": "https://openai.com/index/hsp-gruppe",
+      "source_name": "OpenAI",
+      "tags": [
+        "AI",
+        "Ai Model Companies"
+      ],
+      "summary": "Discover how HSP GRUPPE uses ChatGPT Enterprise to boost productivity, improve work quality, and create more capacity for tax advisory and client service.",
+      "why": "Signals how frontier-model capabilities and access may shift for AI engineers and product teams.",
+      "score": 0.8772
+    }
+  ]
+}
