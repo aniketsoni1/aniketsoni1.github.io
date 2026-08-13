@@ -1,0 +1,829 @@
+{
+  "post_date": "2026-08-13",
+  "sources_checked": 48,
+  "count": 44,
+  "items": [
+    {
+      "title": "Lightweight Dragonfly Deployment: P2P Distribution Without the Database Stack",
+      "summary": "Dragonfly speeds up file and container image distribution using peer-to-peer (P2P) technology, but a standard installation deploys several components and dependencies. Beyond the Scheduler, Seed Client, and Client that move data, a traditional setup requires a...",
+      "source_name": "CNCF",
+      "source_url": "https://www.cncf.io/blog/2026/08/13/lightweight-dragonfly-deployment-p2p-distribution-without-the-database-stack/",
+      "published_at": "2026-08-13T11:30:00Z",
+      "category": "open_source_foundations",
+      "tags": [
+        "AI",
+        "Databases",
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8872,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.cncf.io/?p=172927"
+    },
+    {
+      "title": "LLMOps and platform engineering: Who should own the AI pipeline?",
+      "summary": "A few years ago, getting a model into production meant a data scientist, a DevOps engineer, and a narrow set of tools: train it, test it, ship it, watch the dashboards. Large language models broke that...",
+      "source_name": "CNCF",
+      "source_url": "https://www.cncf.io/blog/2026/08/13/llmops-and-platform-engineering-who-should-own-the-ai-pipeline/",
+      "published_at": "2026-08-13T11:00:00Z",
+      "category": "open_source_foundations",
+      "tags": [
+        "AI",
+        "LLMs",
+        "Data Pipelines",
+        "AI Models",
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8851,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.cncf.io/?p=172946"
+    },
+    {
+      "title": "Deutsche Bank becomes first foreign yuan clearing bank in Europe",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://tradersunion.com/news/central-banks/show/2973571-deutsche-bank-becomes/",
+      "published_at": "2026-08-13T12:09:50Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.6515,
+      "importance_score": 0.8599,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49284774"
+    },
+    {
+      "title": "Class Is in Session: GeForce NOW Levels Up Linux, Chromebooks and More",
+      "summary": "GeForce NOW is giving cloud gaming an extra-credit upgrade just in time for back-to-school season. The native Linux app for GeForce NOW is officially out of beta. GeForce NOW is also delivering new cloud optimizations that make Frame Generation feel even more responsive while streaming. On top of that, Performance members will see higher frame […]",
+      "source_name": "NVIDIA Blog",
+      "source_url": "https://blogs.nvidia.com/blog/geforce-now-thursday-linux-native-app/",
+      "published_at": "2026-08-13T13:00:33Z",
+      "category": "enterprise_technology",
+      "tags": [
+        "Streaming",
+        "Cloud",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8334,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://blogs.nvidia.com/?p=97471"
+    },
+    {
+      "title": "ChatGPT Desktop (Codex Desktop) for Linux",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://openai.com/codex/",
+      "published_at": "2026-08-13T04:53:41Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.8296,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49281916"
+    },
+    {
+      "title": "Agentic AI workforce is more than doubling year on year, says Salesforce",
+      "summary": "",
+      "source_name": "Salesforce News",
+      "source_url": "https://www.salesforce.com/news/linked-content/agentic-ai-workforce-is-more-than-doubling-year-on-year-says-salesforce/",
+      "published_at": "2026-08-12T17:00:19Z",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.8101,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.salesforce.com/?post_type=sf_linked_content&p=94603"
+    },
+    {
+      "title": "Principia Mathematica is modern and insightful",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://okmij.org/ftp/Computation/Impressions/PrincipiaMathematica.html",
+      "published_at": "2026-08-12T23:26:21Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.667,
+      "importance_score": 0.8069,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49279928"
+    },
+    {
+      "title": "Putting sign language AI into users’ hands",
+      "summary": "Introducing sign-language-to-text (SL2T), our breakthrough model powering new sign language features for Deaf and hard of hearing users.",
+      "source_name": "Google DeepMind",
+      "source_url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
+      "published_at": "2026-08-12T14:01:59Z",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI",
+        "AI Models",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.97,
+      "importance_score": 0.7977,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/"
+    },
+    {
+      "title": "Good apps aren’t born, they’re guided: Building observable policy as code",
+      "summary": "As parents in tech, we’ve learned that neither children nor applications thrive without clear boundaries. There are no “good” or “bad” kids, just as there are no inherently “good” or “bad” applications, only behaviors shaped by...",
+      "source_name": "CNCF",
+      "source_url": "https://www.cncf.io/blog/2026/08/12/good-apps-arent-born-theyre-guided-building-observable-policy-as-code/",
+      "published_at": "2026-08-12T11:16:00Z",
+      "category": "open_source_foundations",
+      "tags": [
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.87,
+      "importance_score": 0.7862,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.cncf.io/?p=172096"
+    },
+    {
+      "title": "Advancing AI model interoperability with Docker and ModelPack",
+      "summary": "The rise in the number of tools available for creating and running AI content has lowered the barrier of entry and offered the flexibility of choice when choosing the appropriate solution for a given use case....",
+      "source_name": "CNCF",
+      "source_url": "https://www.cncf.io/blog/2026/08/12/advancing-ai-model-interoperability-with-docker-and-modelpack/",
+      "published_at": "2026-08-12T11:00:00Z",
+      "category": "open_source_foundations",
+      "tags": [
+        "AI",
+        "Containers",
+        "AI Models",
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.87,
+      "importance_score": 0.7851,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.cncf.io/?p=172631"
+    },
+    {
+      "title": "DeepSeek Harness",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://github.com/deepseek-ai/deepseek-harness",
+      "published_at": "2026-08-13T12:58:02Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.6175,
+      "importance_score": 0.7821,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49285244"
+    },
+    {
+      "title": "DeepSeek V4 Pro 0813",
+      "summary": "https://api-docs.deepseek.com/ https://artificialanalysis.ai/models/deepseek-v4-pro https://twitter.com/ChrisGPT/status/2087572834650407024 , https://xcancel.com/ChrisGPT/status/2087572834650407024",
+      "source_name": "Hacker News",
+      "source_url": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
+      "published_at": "2026-08-12T16:04:50Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7762,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49274600"
+    },
+    {
+      "title": "GitHub availability report: July 2026",
+      "summary": "In July, we experienced eight incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: July 2026 appeared first on The GitHub Blog .",
+      "source_name": "The GitHub Blog",
+      "source_url": "https://github.blog/news-insights/company-news/github-availability-report-july-2026/",
+      "published_at": "2026-08-12T22:17:32Z",
+      "category": "developer_platforms",
+      "tags": [
+        "AI",
+        "Developer Tools",
+        "Developer Platforms"
+      ],
+      "confidence_score": 0.92,
+      "importance_score": 0.7721,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://github.blog/?p=98241"
+    },
+    {
+      "title": "Qwen3.8-2.4T",
+      "summary": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B-FP8",
+      "source_name": "Hacker News",
+      "source_url": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
+      "published_at": "2026-08-12T15:01:17Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7718,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49273478"
+    },
+    {
+      "title": "Tracking down the 16-year-old WAL-reset SQLite bug",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
+      "published_at": "2026-08-12T14:22:30Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7691,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49272832"
+    },
+    {
+      "title": "Flutter 3.47",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://flutter.dev/blog/whats-new-in-flutter-3-47",
+      "published_at": "2026-08-12T23:46:00Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.633,
+      "importance_score": 0.7658,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49280061"
+    },
+    {
+      "title": "From assistance to execution: How enterprises put AI to work",
+      "summary": "OpenAI research reveals how enterprises are adopting agentic AI, using ChatGPT and Codex, and how frontier firms are pulling ahead in AI adoption.",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/how-enterprises-put-ai-to-work",
+      "published_at": "2026-08-12T06:00:00Z",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Research",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.97,
+      "importance_score": 0.7643,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/index/how-enterprises-put-ai-to-work"
+    },
+    {
+      "title": "Apple in talks to pay publishers to provide Siri with current news: report",
+      "summary": "The tech giant has considered a nine-figure budget for the payments, according to the WSJ.",
+      "source_name": "TechCrunch - AI",
+      "source_url": "https://techcrunch.com/2026/08/13/apple-in-talks-to-pay-publishers-to-provide-siri-with-current-news-report/",
+      "published_at": "2026-08-13T14:34:43Z",
+      "category": "enterprise_technology",
+      "tags": [
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.76,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://techcrunch.com/?p=3152741"
+    },
+    {
+      "title": "Pirates held her hostage for 93 days. She says surviving taught her what really matters when life falls apart.",
+      "summary": "Jessica Buchanan endured scorpions, death threats, and weeks of isolation in the Somali desert. She says survival came down to protecting one thing.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/hostage-93-days-near-death-what-kept-jessica-buchanan-going-2026-8",
+      "published_at": "2026-08-13T14:28:59Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7596,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/hostage-93-days-near-death-what-kept-jessica-buchanan-going-2026-8"
+    },
+    {
+      "title": "Flock is making changes after public backlash and 'arrests of several law enforcement officers'",
+      "summary": "On Thursday, CEO Garrett Langley outlined new safety and privacy changes for the surveillance camera network \"that came from listening.\"",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/flock-safety-surveillance-cameras-policy-changes-law-enforcement-arrests-2026-8",
+      "published_at": "2026-08-13T14:23:32Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7592,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/flock-safety-surveillance-cameras-policy-changes-law-enforcement-arrests-2026-8"
+    },
+    {
+      "title": "2026 Eclipse Webcams",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://jonty.github.io/2026_eclipse_webcams/",
+      "published_at": "2026-08-12T11:53:01Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7587,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49270953"
+    },
+    {
+      "title": "Write your first prompt with the GitHub Copilot app",
+      "summary": "Learn how to write your first prompt in the GitHub Copilot app, choose the right context and model, and start your first task with confidence. The post Write your first prompt with the GitHub Copilot app appeared first on The GitHub Blog .",
+      "source_name": "The GitHub Blog",
+      "source_url": "https://github.blog/ai-and-ml/github-copilot/write-your-first-prompt-with-the-github-copilot-app/",
+      "published_at": "2026-08-12T19:00:00Z",
+      "category": "developer_platforms",
+      "tags": [
+        "Developer Tools",
+        "AI Models",
+        "Developer Platforms"
+      ],
+      "confidence_score": 0.92,
+      "importance_score": 0.7584,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://github.blog/?p=98221"
+    },
+    {
+      "title": "My parents could spend their retirement doing anything. They chose to help raise my children.",
+      "summary": "Dr. Brintha Vasagar says her retired parents live with her and provide full-time childcare for her two sons, an arrangement that works for everyone.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/retired-parents-help-raise-grandchildren-2026-8",
+      "published_at": "2026-08-13T14:06:30Z",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.758,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/retired-parents-help-raise-grandchildren-2026-8"
+    },
+    {
+      "title": "I flew long-haul on United's aging Boeing 777 in basic economy. A few key updates made it feel much more modern.",
+      "summary": "The plane I flew on was first delivered in 1997, but the modern seats, large seatback screens, and Bluetooth connectivity made its age hard to tell.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/flew-united-old-boeing-777-long-haul-basic-economy-2026-8",
+      "published_at": "2026-08-13T14:03:01Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7578,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/flew-united-old-boeing-777-long-haul-basic-economy-2026-8"
+    },
+    {
+      "title": "uBlock Origin Is Giving Up the Fight to Keep Ads Off Facebook",
+      "summary": "https://reddit.com/r/uBlockOrigin/comments/1vgcjg5/about_dis... https://www.neowin.net/news/facebook-ads-are-so-hard-to-bloc...",
+      "source_name": "Hacker News",
+      "source_url": "https://digitalescapetools.com/2026/08/ublock-origin-stops-chasing-facebook-ads.html",
+      "published_at": "2026-08-12T11:28:27Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.757,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49270726"
+    },
+    {
+      "title": "Creator talent giant DBA is buying a boutique management shop to help influencers build their own businesses",
+      "summary": "Digital Brand Architects is acquiring the talent firm V1sion Ventures as it looks to expand its work in creator entrepreneurship and brand building.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/influencer-firm-dba-is-acquiring-a-creator-founded-management-company-2026-8",
+      "published_at": "2026-08-13T13:45:40Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7566,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/influencer-firm-dba-is-acquiring-a-creator-founded-management-company-2026-8"
+    },
+    {
+      "title": "Flock is tightening its rules in response to a growing surveillance backlash",
+      "summary": "The police-tech giant Flock is announcing today that it will change officers’ access to its nationwide network of license plate readers, in an apparent effort to quell a growing backlash and win back contracts lost amid concerns about mass surveillance and police abuse. Several changes aim directly at a problem that has made recent headlines:…",
+      "source_name": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/08/13/1141904/flock-is-tightening-its-rules-in-response-to-a-growing-surveillance-backlash/",
+      "published_at": "2026-08-13T13:41:10Z",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.7563,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.technologyreview.com/?p=1141904"
+    },
+    {
+      "title": "Dynamic Governance of Multi-LLM Agent Systems for Collaborative Conversational Outcomes",
+      "summary": "arXiv:2608.11207v1 Announce Type: new Abstract: When two LLM agents with structurally opposed objectives interact across multiple turns, the absence of a shared goal function produces not competition but collapse: the visitor capitulates, the site agent stops varying its approach, and the conversation terminates without achieving either agent's stated objective. This paper asks whether a control-theoretic governance layer can substitute for that missing goal function. The…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2608.11207",
+      "published_at": "2026-08-13T04:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "LLMs",
+        "AI Agents",
+        "Data Governance",
+        "APIs",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7559,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2608.11207v1"
+    },
+    {
+      "title": "Distribird: Literature-Informed Prior Distribution Design for Bayesian Model Calibration",
+      "summary": "arXiv:2608.11210v1 Announce Type: new Abstract: Bayesian calibration of process-based models requires a prior distribution for each model parameter. Despite decades of methodological work, researchers almost always fall back on uniform priors. The main reason is that building informative priors from scientific literature is slow and needs both domain and statistical expertise. We present \\textbf{Distribird}, an agentic web application that automates this process. Given a…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2608.11210",
+      "published_at": "2026-08-13T04:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "AI Models",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7559,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2608.11210v1"
+    },
+    {
+      "title": "A Forced-Structure Reduction and Verifiable Bounds for Conway's 99-Graph",
+      "summary": "arXiv:2608.11211v1 Announce Type: new Abstract: Conway's 99-graph problem asks whether a strongly regular graph with parameters $\\mathrm{srg}(99,14,1,2)$ exists. We report a systematic, fully reproducible attack by an autonomous AI research agent, scored under the track's partial-credit metric. Our verifiable contributions are: (1) an exhaustive proof that no circulant graph on $\\mathbb{Z}/99$ satisfies more than $3366/4950=68.0\\%$ of the constraints ($33$ of $49$…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2608.11211",
+      "published_at": "2026-08-13T04:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7559,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2608.11211v1"
+    },
+    {
+      "title": "Detecting a Route Flip Is Easier Than Knowing Whether to Fix It: Causal Route-Mediated Damage in Quantized Mixture-of-Experts",
+      "summary": "arXiv:2608.11212v1 Announce Type: new Abstract: Top-k Mixture-of-Experts (MoE) routing is discontinuous, so a deployment-motivated numerical disturbance -- simulated 4-bit KV-cache quantization read by a protected BF16 gate -- pushes tokens across decision boundaries and flips which experts fire. This paper proposes no new mitigation; it supplies a causal apparatus, empirical findings, and a detection-limit result. A four-run apparatus prices the route-mediated fraction…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2608.11212",
+      "published_at": "2026-08-13T04:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7559,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2608.11212v1"
+    },
+    {
+      "title": "Poor Man's Agentic Modeling: Simulating Large LLM-Agent Societies on a Laptop",
+      "summary": "arXiv:2608.11215v1 Announce Type: new Abstract: Simulating societies of many large language model (LLM) agents is expensive, yet the questions asked of such simulations are usually macroscopic: phase behaviour, stylised facts, and scaling with the number of agents $N$, not the cognition of any single agent. We turn a statistical-physics observation into a method: replace each LLM agent by a low-parameter model fitted from a few hundred to a few thousand cheap queries, then…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2608.11215",
+      "published_at": "2026-08-13T04:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "LLMs",
+        "AI Agents",
+        "AI Models",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7559,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2608.11215v1"
+    },
+    {
+      "title": "AutoWorldModel-Bench: A State-Centric Benchmark for Automated World-Model Research",
+      "summary": "arXiv:2608.11216v1 Announce Type: new Abstract: World modeling is an unsettled field: architectures, training objectives, and state representations interact in complex ways, and no single recipe dominates across environments. This makes it an ideal testbed for AI coding agents acting as autonomous researchers--a setting in which the improvement direction is not specified in advance, unlike the engineering-to-spec tasks that dominate current agent benchmarks. We introduce…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2608.11216",
+      "published_at": "2026-08-13T04:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "AI Models",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7559,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2608.11216v1"
+    },
+    {
+      "title": "MaSRead: Content-Addressed Reading of Replicated Latent Stores",
+      "summary": "arXiv:2608.11218v1 Announce Type: new Abstract: Independent agents that reason in latent space can share computed state as key-value cache fragments rather than text. Merged by a conflict-free replicated data type, these fragments form a store that converges under any delivery order or duplication. Yet a later query, unknown at encode time, cannot reliably read the merged cache: colocated fragments interfere, so colocation is not addressability. MaSRead addresses the read to…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2608.11218",
+      "published_at": "2026-08-13T04:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "AI Agents",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7559,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2608.11218v1"
+    },
+    {
+      "title": "From Monolithic to Modular: Segment-level Automatic Prompt Optimization",
+      "summary": "arXiv:2608.11219v1 Announce Type: new Abstract: Automatic Prompt Optimization (APO) often rewrites prompts monolithically, which can improve one behavior while degrading others. We present SAPO, a segment-level APO method that decomposes prompts into role, context, tasks, and output format, then applies targeted improvements based on top-5 and bottom-5 examples. The optimization loop uses one LLM with static meta-prompts and structured outputs for segmentation, weakness…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2608.11219",
+      "published_at": "2026-08-13T04:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "LLMs",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7559,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2608.11219v1"
+    },
+    {
+      "title": "LLMs in Process Diagram Engineering: From Optimal PFDs to Validated P&IDs",
+      "summary": "arXiv:2608.11220v1 Announce Type: new Abstract: Nowadays, the creation of a process flow diagram (PFD) and its subsequent transformation into a piping and instrumentation diagram (P&ID) is predominantly performed manually. Applying artificial intelligence in the task could potentially lead not only to process automation and time savings, but also to financial gains by exploring numerous diagram's topology options and reducing manual labor. This research presents P&ID Pilot -…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2608.11220",
+      "published_at": "2026-08-13T04:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "LLMs",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7559,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2608.11220v1"
+    },
+    {
+      "title": "A Conceptual Framework for Refining Influence Knowledge from Simulation Evidence in Cyber-Physical Systems",
+      "summary": "arXiv:2608.11221v1 Announce Type: new Abstract: Cyber-physical systems (CPS) are typically developed by multiple stakeholders who produce artefacts tailored to their specific domains of expertise. The behaviour of these systems emerges from the interaction between those artefacts and their operational environment. Simulation and co-simulation have become essential approaches for analysing CPS behaviour and, through simulation campaigns, developers can explore system…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2608.11221",
+      "published_at": "2026-08-13T04:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7559,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2608.11221v1"
+    },
+    {
+      "title": "Harnessing agent memory to build lifelong AI partners for materials scientists",
+      "summary": "arXiv:2608.11224v1 Announce Type: new Abstract: Materials research advances through accumulated experience - scripts that work, protocols that are trusted, warnings attached to failed calculations or experiments, and judgement that links a new question to an old result. This experience is essential for reproducibility and knowledge transfer, yet it is usually fragmented across notebooks, repositories, job logs and individual memory, and it is rarely portable across…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2608.11224",
+      "published_at": "2026-08-13T04:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7559,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2608.11224v1"
+    },
+    {
+      "title": "Identity from the Outside: A Conceptual Framework and Research Program for AI Personality Clones",
+      "summary": "arXiv:2608.11225v1 Announce Type: new Abstract: AI \"personality clones\" force a re-examination of personal identity in operational terms. Setting aside the hard problem of consciousness, we approach identity through the indiscernibility of manifestations, as assessed by an observer over a duration. We distinguish three criteria that \"identity\" conflates: fidelity to a target person, generic human-likeness, and individuality. We propose a six-term factorization of observed…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2608.11225",
+      "published_at": "2026-08-13T04:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7559,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2608.11225v1"
+    },
+    {
+      "title": "FarSky: Task-Aware Latent-Space Coupling for Generative Intra-Hour Solar Forecasting",
+      "summary": "arXiv:2608.11254v1 Announce Type: new Abstract: Accurate solar irradiance forecasting is essential for the reliable integration of photovoltaic power into modern electricity grids. All-sky imagers (ASI) provide high-resolution observations of clouds, making them well suited for intra-hour forecasting. Recent deep learning approaches have substantially improved forecast accuracy but are often limited by deterministic predictions and a reduced capability to anticipate ramp…",
+      "source_name": "arXiv cs.LG (Machine Learning)",
+      "source_url": "https://arxiv.org/abs/2608.11254",
+      "published_at": "2026-08-13T04:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "GenAI",
+        "Cloud",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7559,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2608.11254v1"
+    },
+    {
+      "title": "Why AI Detection Fails for Academic Integrity",
+      "summary": "arXiv:2608.11256v1 Announce Type: new Abstract: Institutions use commercial AI detectors for academic integrity, yet detectors cannot distinguish AI editing from full LLM drafts and may treat both as misconduct. In a controlled study of published English abstracts (four domains; 2013 to 2015 vs. 2023 to 2025), we quantify this policy failure under proxy human/AI labels at tau=0.50. Light \"refine abstract only\" edits, a proxy for guideline-compliant AI assistance, are flagged…",
+      "source_name": "arXiv cs.LG (Machine Learning)",
+      "source_url": "https://arxiv.org/abs/2608.11256",
+      "published_at": "2026-08-13T04:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "LLMs",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7559,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2608.11256v1"
+    },
+    {
+      "title": "Basin: Efficient and Extensible Numerical Optimization in Rust",
+      "summary": "arXiv:2608.11279v1 Announce Type: new Abstract: Basin is a numerical optimization library for the Rust programming language. Numerical optimization is the task of finding the inputs that minimize a function, and it is a fundamental element across the sciences: fitting a model to data, calibrating a simulation, training a machine learning model, or choosing engineering parameters that minimize cost. Basin gives users a single, consistent way to both state and solve such…",
+      "source_name": "arXiv cs.LG (Machine Learning)",
+      "source_url": "https://arxiv.org/abs/2608.11279",
+      "published_at": "2026-08-13T04:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "Machine Learning",
+        "AI Models",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7559,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2608.11279v1"
+    },
+    {
+      "title": "Federated Learning for Distributed CNC Tool Wear Prediction",
+      "summary": "arXiv:2608.11281v1 Announce Type: new Abstract: Tool wear prediction is an important task in CNC machining, where accurate monitoring of tool condition supports product quality and process reliability. Machine learning methods have shown potential for this task, but their use in industrial environments is limited by the distributed nature of machining data and by restrictions on data sharing between machines, sites, or organizations. Federated learning offers a suitable…",
+      "source_name": "arXiv cs.LG (Machine Learning)",
+      "source_url": "https://arxiv.org/abs/2608.11281",
+      "published_at": "2026-08-13T04:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "Machine Learning",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7559,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2608.11281v1"
+    },
+    {
+      "title": "Terminal Symmetry as a Decision Resource: Statewise Refinement for Anytime Verified Construction",
+      "summary": "arXiv:2608.11318v1 Announce Type: new Abstract: Many sequential construction tasks exhibit exact symmetry at completion while their execution remains directed and history-dependent. We develop a decision-resource view of terminal symmetry: process evidence supplies directionality, terminal correspondence transports that structure across equivalent outcomes, realized-state evidence refines its current decision relevance after transitions, and a fixed verifier certifies…",
+      "source_name": "arXiv cs.LG (Machine Learning)",
+      "source_url": "https://arxiv.org/abs/2608.11318",
+      "published_at": "2026-08-13T04:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7559,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2608.11318v1"
+    }
+  ]
+}
