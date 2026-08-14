@@ -1,0 +1,849 @@
+{
+  "generated_at": "2026-08-14T14:28:31.888766+00:00",
+  "post_date": "2026-08-14",
+  "sources_checked": 48,
+  "candidates": 45,
+  "items": [
+    {
+      "title": "Eleven minutes, zero humans: Building a self-healing Kubernetes upgrade pipeline on Kairos",
+      "summary": "Once upon a time, upgrading a Kubernetes control plane meant staying awake for it. SSH into every node. Run the upgrade by hand. Watch etcd health the whole time, hoping quorum holds through every reboot. This...",
+      "source_name": "CNCF",
+      "source_url": "https://www.cncf.io/blog/2026/08/14/eleven-minutes-zero-humans-building-a-self-healing-kubernetes-upgrade-pipeline-on-kairos/",
+      "published_at": "2026-08-14T11:14:00+00:00",
+      "category": "open_source_foundations",
+      "tags": [
+        "AI",
+        "Data Pipelines",
+        "Kubernetes",
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8865,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.cncf.io/?p=172952"
+    },
+    {
+      "title": "Why does Opus 5 feel worse to work with?",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://mun-logadan.github.io/why-does-opus-5-feel-worse/",
+      "published_at": "2026-08-14T10:12:48+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.696,
+      "importance_score": 0.8522,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49296740"
+    },
+    {
+      "title": "Reproducible ESP32 Firmware Development with Docker and Docker Sandboxes",
+      "summary": "Build ESP32 firmware with reproducible Docker environments and use Docker Sandboxes for isolated AI-assisted development and hardware testing.",
+      "source_name": "Docker Blog",
+      "source_url": "https://www.docker.com/blog/reproducible-esp32-firmware-development-with-docker-and-docker-sandboxes/",
+      "published_at": "2026-08-14T13:00:00+00:00",
+      "category": "developer_platforms",
+      "tags": [
+        "AI",
+        "Containers",
+        "Developer Platforms"
+      ],
+      "confidence_score": 0.87,
+      "importance_score": 0.8339,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.docker.com/?p=92784"
+    },
+    {
+      "title": "GLM-5.3: Frontier coding with emergent cyber capabilities",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://z.ai/blog/glm-5.3",
+      "published_at": "2026-08-14T05:19:59+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.8319,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49294997"
+    },
+    {
+      "title": "Introducing Gemini 3.7 Flash",
+      "summary": "",
+      "source_name": "Google DeepMind",
+      "source_url": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
+      "published_at": "2026-08-13T17:04:18+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.97,
+      "importance_score": 0.8108,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://deepmind.google/blog/introducing-gemini-3-7-flash/"
+    },
+    {
+      "title": "Bring your spreadsheet data to life with Sheets canvas",
+      "summary": "The video shows Sheets canvas in action.",
+      "source_name": "Google AI (The Keyword)",
+      "source_url": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/",
+      "published_at": "2026-08-13T16:45:00+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.8095,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/"
+    },
+    {
+      "title": "Bluesky Protocol Services",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://atproto.com/blog/introducing-bluesky-protocol-services",
+      "published_at": "2026-08-14T00:14:28+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.6485,
+      "importance_score": 0.807,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49293324"
+    },
+    {
+      "title": "Salesforce ‘headed in the right direction’ for agentic AI, Evercore says",
+      "summary": "",
+      "source_name": "Salesforce News",
+      "source_url": "https://www.salesforce.com/news/linked-content/salesforce-headed-in-the-right-direction-for-agentic-ai-evercore-says/",
+      "published_at": "2026-08-13T15:00:01+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.8022,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.salesforce.com/?post_type=sf_linked_content&p=94607"
+    },
+    {
+      "title": "Understanding is the new bottleneck",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck",
+      "published_at": "2026-08-13T18:47:19+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.788,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49290299"
+    },
+    {
+      "title": "Lightweight Dragonfly Deployment: P2P Distribution Without the Database Stack",
+      "summary": "Dragonfly speeds up file and container image distribution using peer-to-peer (P2P) technology, but a standard installation deploys several components and dependencies. Beyond the Scheduler, Seed Client, and Client that move data, a traditional setup requires a...",
+      "source_name": "CNCF",
+      "source_url": "https://www.cncf.io/blog/2026/08/13/lightweight-dragonfly-deployment-p2p-distribution-without-the-database-stack/",
+      "published_at": "2026-08-13T11:30:00+00:00",
+      "category": "open_source_foundations",
+      "tags": [
+        "AI",
+        "Databases",
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.87,
+      "importance_score": 0.7876,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.cncf.io/?p=172927"
+    },
+    {
+      "title": "Hello, me. It's been a while",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://themech.net/2026/08/hello-me-its-been-a-while/",
+      "published_at": "2026-08-13T18:37:18+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7873,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49290166"
+    },
+    {
+      "title": "The builder’s guide to GPT‑5.6",
+      "summary": "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities.",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/builders-guide-to-gpt-5-6",
+      "published_at": "2026-08-13T11:00:00+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "APIs",
+        "AI Models",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.97,
+      "importance_score": 0.7855,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/index/builders-guide-to-gpt-5-6"
+    },
+    {
+      "title": "LLMOps and platform engineering: Who should own the AI pipeline?",
+      "summary": "A few years ago, getting a model into production meant a data scientist, a DevOps engineer, and a narrow set of tools: train it, test it, ship it, watch the dashboards. Large language models broke that...",
+      "source_name": "CNCF",
+      "source_url": "https://www.cncf.io/blog/2026/08/13/llmops-and-platform-engineering-who-should-own-the-ai-pipeline/",
+      "published_at": "2026-08-13T11:00:00+00:00",
+      "category": "open_source_foundations",
+      "tags": [
+        "AI",
+        "LLMs",
+        "Data Pipelines",
+        "AI Models",
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.87,
+      "importance_score": 0.7855,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.cncf.io/?p=172946"
+    },
+    {
+      "title": "Accelerating GPT-5.6 Sol Ultrafast",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
+      "published_at": "2026-08-13T18:10:02+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7854,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49289844"
+    },
+    {
+      "title": "Choose Boring Technology (2015)",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://mcfunley.com/choose-boring-technology",
+      "published_at": "2026-08-13T17:48:13+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7839,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49289512"
+    },
+    {
+      "title": "Where did the old web go? We followed 657,607 links to find out",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://0.mk/blog/link-rot",
+      "published_at": "2026-08-13T17:49:18+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.6555,
+      "importance_score": 0.7839,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49289532"
+    },
+    {
+      "title": "Donkey.bas is 45 Years Old – 131 line of Glory",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://donkeybas.com/",
+      "published_at": "2026-08-13T17:45:50+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.6805,
+      "importance_score": 0.7837,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49289465"
+    },
+    {
+      "title": "Gemini 3.7 Flash",
+      "summary": "https://ai.google.dev/gemini-api/docs/models/gemini-3.7-flas...",
+      "source_name": "Hacker News",
+      "source_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
+      "published_at": "2026-08-13T17:23:22+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7821,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49289112"
+    },
+    {
+      "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
+      "summary": "Preview Ultrafast, a new OpenAI API service tier that runs GPT-5.6 Sol up to 14× faster. Powered by Cerebras, it delivers up to 750 output tokens per second.",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/previewing-ultrafast",
+      "published_at": "2026-08-13T10:00:00+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI",
+        "APIs",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.97,
+      "importance_score": 0.7814,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/index/previewing-ultrafast"
+    },
+    {
+      "title": "Mistral OCR 4.1",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://docs.mistral.ai/models/ocr-4-1",
+      "published_at": "2026-08-13T17:05:12+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7809,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49288889"
+    },
+    {
+      "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
+      "summary": "OpenAI appoints Dali Rajic as Chief Revenue Officer to lead its global revenue organization and help businesses realize the full value of AI.",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/dali-rajic-chief-revenue-officer",
+      "published_at": "2026-08-13T09:00:00+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.97,
+      "importance_score": 0.7772,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/index/dali-rajic-chief-revenue-officer"
+    },
+    {
+      "title": "DeepSeek peak/off-peak pricing update",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://api-docs.deepseek.com/news/news260813/",
+      "published_at": "2026-08-14T09:55:33+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.62,
+      "importance_score": 0.776,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49296627"
+    },
+    {
+      "title": "How Compaction Works in Pi",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://earendil.com/posts/compaction-in-pi/",
+      "published_at": "2026-08-13T17:57:50+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.6465,
+      "importance_score": 0.7758,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49289654"
+    },
+    {
+      "title": "Spaghettifying DRAM",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts",
+      "published_at": "2026-08-13T14:17:13+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7692,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49286341"
+    },
+    {
+      "title": "Nine PBS sues Iron Mountain over blocked access to archival data",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://current.org/2026/08/nine-pbs-sues-iron-mountain-over-blocked-access-to-archival-data/",
+      "published_at": "2026-08-13T13:14:12+00:00",
+      "category": "aggregators",
+      "tags": [
+        "AI",
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7648,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49285418"
+    },
+    {
+      "title": "DeepSeek Harness developer preview",
+      "summary": "https://github.com/deepseek-ai/deepseek-harness https://deepseek-harness.github.io/deepseek-harness/en/guide...",
+      "source_name": "Hacker News",
+      "source_url": "https://deepseek.com/harness/en/",
+      "published_at": "2026-08-13T12:58:02+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7637,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49285244"
+    },
+    {
+      "title": "French tax authority admits data heist after crook touts 2M records",
+      "summary": "Government disputes claims of continued access as investigators measure damage",
+      "source_name": "The Register",
+      "source_url": "https://www.theregister.com/security/2026/08/14/french-tax-authority-admits-data-heist-after-crook-touts-2m-records/5287885",
+      "published_at": "2026-08-14T14:27:00+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7599,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.theregister.com/a/5287885"
+    },
+    {
+      "title": "Evidence of unfair use: AI books squeeze human authors out of the market",
+      "summary": "Anthropic's AI training using millions of used books raised copyright concerns. The market impact of AI-generated content is a key issue.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/ai-books-anthropic-training-human-authors-market-amazon-research-2026-8",
+      "published_at": "2026-08-14T14:19:19+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7594,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/ai-books-anthropic-training-human-authors-market-amazon-research-2026-8"
+    },
+    {
+      "title": "Your guide to GitHub Universe 2026 is here: The schedule just launched!",
+      "summary": "The GitHub Universe session catalog is live. Explore interactive workshops, community talks, demos, and panels. Plus, register before August 19 to save $300. The post Your guide to GitHub Universe 2026 is here: The schedule just launched! appeared first on The GitHub Blog .",
+      "source_name": "The GitHub Blog",
+      "source_url": "https://github.blog/news-insights/company-news/your-guide-to-github-universe-2026-is-here-the-schedule-just-launched/",
+      "published_at": "2026-08-13T19:00:00+00:00",
+      "category": "developer_platforms",
+      "tags": [
+        "Developer Tools",
+        "Developer Platforms"
+      ],
+      "confidence_score": 0.92,
+      "importance_score": 0.7589,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://github.blog/?p=98265"
+    },
+    {
+      "title": "I Tested a Popular A.I. Slop Detector. It Felt Empowering.",
+      "summary": "Pangram excels at distinguishing chatbot-generated words from human writing. But it’s not reliable for spotting artificial images.",
+      "source_name": "The New York Times - Technology",
+      "source_url": "https://www.nytimes.com/2026/08/13/technology/personaltech/pangram-ai-detector-test.html",
+      "published_at": "2026-08-14T14:08:51+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7586,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.nytimes.com/2026/08/13/technology/personaltech/pangram-ai-detector-test.html"
+    },
+    {
+      "title": "Virgin Galactic flights stay grounded while ticket prices head for the Moon",
+      "summary": "Turns out this space thing really is hard",
+      "source_name": "The Register",
+      "source_url": "https://www.theregister.com/offbeat/2026/08/14/virgin-galactic-flights-stay-grounded-while-ticket-prices-head-for-the-moon/5287860",
+      "published_at": "2026-08-14T13:45:00+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.757,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.theregister.com/a/5287860"
+    },
+    {
+      "title": "Position: Reasoning is a Learnable Rule-Based Process",
+      "summary": "arXiv:2608.12325v1 Announce Type: new Abstract: Autonomous reasoning is among the most scientifically and economically motivating topics in AI today. Historically the purview of symbolic AI, recent advances have mainly emerged from deep probabilistic generative models. Despite immense interest and rapid progress, the generative AI community has not clearly converged on operational definitions for reasoning and often implicitly rejects the historical treatment of this topic…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2608.12325",
+      "published_at": "2026-08-14T04:00:00+00:00",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "GenAI",
+        "APIs",
+        "AI Models",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7564,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2608.12325v1"
+    },
+    {
+      "title": "Diagnostic Foundation for Evaluating LLMs' Research Integrity as Co-Scientists",
+      "summary": "arXiv:2608.12345v1 Announce Type: new Abstract: Language models are increasingly deployed as co-scientists, yet their ability to uphold research integrity under institutional pressure remains unmeasured. We introduce IntegrityBench, a benchmark evaluating misconduct classification, ethical action reasoning and artifact-grounded decision making across 36 paired tasks under a 5-level implicit-explicit pressure protocol spanning 3 domains and 4 research stages. Evaluating 18…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2608.12345",
+      "published_at": "2026-08-14T04:00:00+00:00",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "LLMs",
+        "AI Models",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7564,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2608.12345v1"
+    },
+    {
+      "title": "Position: The Alignment Community is Unintentionally Building a Censor's Toolkit",
+      "summary": "arXiv:2608.12346v1 Announce Type: new Abstract: This position paper argues that modern AI alignment methods - originally designed to prevent harmful output - are dual-use technologies that may easily be misused by malicious actors for censorship and manipulation. By mapping current alignment techniques to the possibility and actual cases of misuse, we show that the quest for a \"perfectly aligned\" model inadvertently also provides malicious actors with an ever-improving tool…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2608.12346",
+      "published_at": "2026-08-14T04:00:00+00:00",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "AI Models",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7564,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2608.12346v1"
+    },
+    {
+      "title": "Agreement Is Not Alignment: Divergent Moral Grounds in Human and LLM Ethical Judgments",
+      "summary": "arXiv:2608.12368v1 Announce Type: new Abstract: Agreement with human judgments is a common proxy for evaluating the alignment of large language models (LLMs). Yet agreement in final labels does not show that human annotators and models rely on the same moral grounds. Two agents may reach the same judgment while appealing to different principles, contextual assumptions, or interpretations of the situation. We test this distinction using a curated 500-item ETHICS-derived…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2608.12368",
+      "published_at": "2026-08-14T04:00:00+00:00",
+      "category": "research_feeds",
+      "tags": [
+        "LLMs",
+        "AI Agents",
+        "AI Models",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7564,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2608.12368v1"
+    },
+    {
+      "title": "Multi-Agent Scheduling with LLM-Assisted Contract Net Negotiation for Stream Processing in Mobile Edge Computing",
+      "summary": "arXiv:2608.12371v1 Announce Type: new Abstract: Stream-processing systems increasingly operate across heterogeneous mobile edge--cloud infrastructures, where workload volatility, resource contention, and stringent quality-of-service (QoS) requirements complicate decentralized scheduling. This paper proposes \\emph{MAS-DecStream}, whose main contribution is \\emph{LLM-MR-CNP}: an extension of the classical Contract Net Protocol with semantic CFP formulation, progressive context…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2608.12371",
+      "published_at": "2026-08-14T04:00:00+00:00",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "LLMs",
+        "AI Agents",
+        "Cloud",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7564,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2608.12371v1"
+    },
+    {
+      "title": "Position: We Need Practical AI Alignment Methods to Mirror Human Reasoning",
+      "summary": "arXiv:2608.12372v1 Announce Type: new Abstract: AI systems are increasingly employed as decision aids, decision delegates, or autonomous decision-makers. This position paper argues that in many settings, particularly high-stakes decision-making, we need accurate cognitively-aligned AI systems that reason similarly to their users, and faithfully communicate their reasoning. We review evidence that cognitive alignment improves understandability and trustworthiness, and provide…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2608.12372",
+      "published_at": "2026-08-14T04:00:00+00:00",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7564,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2608.12372v1"
+    },
+    {
+      "title": "Don't Want Your LLM to Recommend Nuclear Strike? Try Asking It in Japanese",
+      "summary": "arXiv:2608.12373v1 Announce Type: new Abstract: Large language models are increasingly used in strategic and advisory contexts, yet their safety alignment is typically evaluated in English only. We test nine models from six providers and ask whether the language of a prompt can change a model's decision in a high-stakes scenario. We use single-turn game-theoretic vignettes in which a model advises a nuclear-armed nation on whether to strike a defenseless opponent. The prompt…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2608.12373",
+      "published_at": "2026-08-14T04:00:00+00:00",
+      "category": "research_feeds",
+      "tags": [
+        "LLMs",
+        "AI Models",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7564,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2608.12373v1"
+    },
+    {
+      "title": "Dual-Flow Transformers: Decoupling the Primary Prefill Path from Additional Decode Computation",
+      "summary": "arXiv:2608.12385v1 Announce Type: new Abstract: As large language models serve more requests, cumulative inference cost is becoming increasingly important relative to one-time training cost. The two inference phases stress hardware differently: prompt prefill is parallel and typically compute-bound, whereas autoregressive decode is sequential and often memory-bandwidth-bound. Conventional width or depth scaling increases both costs together because every added layer is…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2608.12385",
+      "published_at": "2026-08-14T04:00:00+00:00",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "LLMs",
+        "AI Models",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7564,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2608.12385v1"
+    },
+    {
+      "title": "Learning to Adapt Cross-Domain Preferences via Meta-LoRA for LLM Personalization",
+      "summary": "arXiv:2608.12389v1 Announce Type: new Abstract: Cross-domain zero- or few-shot personalization aims to generate user-preferred responses in unseen conversational domains from only a handful of target-domain interactions. Existing adaptation methods struggle to calibrate update magnitude under sparse evidence and thus overfit, whereas history-transfer methods often entangle user preferences with source-domain artifacts, yielding unreliable personalization priors and negative…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2608.12389",
+      "published_at": "2026-08-14T04:00:00+00:00",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "LLMs",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7564,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2608.12389v1"
+    },
+    {
+      "title": "Research Assistant: AstraZeneca's Agentic System for RD",
+      "summary": "arXiv:2608.12395v1 Announce Type: new Abstract: We describe Research Assistant, an internal LLM-based system developed at AstraZeneca to help scientists and clinicians explore biomedical questions across a broad range of data sources. The system provides a chat-style interface that brings together evidence from scientific literature, knowledge graphs, chemistry, clinical trials, safety resources, expression data, and internal experimental systems. It supports both a fast…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2608.12395",
+      "published_at": "2026-08-14T04:00:00+00:00",
+      "category": "research_feeds",
+      "tags": [
+        "LLMs",
+        "AI Agents",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7564,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2608.12395v1"
+    },
+    {
+      "title": "Large Language Models Can Follow Instructions, But Not Many at Once: Phase Transitions in Compositional Constraint Satisfaction",
+      "summary": "arXiv:2608.12426v1 Announce Type: new Abstract: Large language models are increasingly deployed in settings that require simultaneous adherence to multiple explicit constraints - reasoning structure, safety boundaries, output schemas. Individual constraints are handled proficiently, but the compositional regime, where many must hold jointly, remains poorly characterized: how rapidly does performance degrade, what governs the degradation, and can the collapse be mitigated? We…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2608.12426",
+      "published_at": "2026-08-14T04:00:00+00:00",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "LLMs",
+        "APIs",
+        "AI Models",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7564,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2608.12426v1"
+    },
+    {
+      "title": "MindMemOS: A Portable and Self-Evolving Memory Operating Layer for AI Agents",
+      "summary": "arXiv:2608.12428v1 Announce Type: new Abstract: Memory is a core component of AI agents, enabling them to accumulate experience, maintain personalization, and adapt over long-term interactions. However, existing memory systems often remain fixed after development, limiting their ability to adapt their memory models, organization strategies, and procedural knowledge through continued use. We present MindMemOS, a portable and self-evolving memory operating layer that organizes…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2608.12428",
+      "published_at": "2026-08-14T04:00:00+00:00",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "AI Models",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7564,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2608.12428v1"
+    },
+    {
+      "title": "LoKiFormer: Locality-aware Attention with Decoupled Knowledge Memory for Efficient Large Language Model Pretraining",
+      "summary": "arXiv:2608.12419v1 Announce Type: new Abstract: Large language models (LLMs) have achieved remarkable breakthroughs across various applications. However, their architectures remain inefficient in pretraining due to two main limitations: (i) self-attention lacks an explicit inductive bias for locality, leading to redundant modeling of sequence-internal local information; (ii) mixture-of-experts (MoE) implicitly couples knowledge storage with computational pathways, hindering…",
+      "source_name": "arXiv cs.LG (Machine Learning)",
+      "source_url": "https://arxiv.org/abs/2608.12419",
+      "published_at": "2026-08-14T04:00:00+00:00",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "LLMs",
+        "AI Models",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7564,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2608.12419v1"
+    },
+    {
+      "title": "Which Site, and When: A Free-Satellite-Data Test of Himalayan Glacial Lake Bursts, Landslides, and Ice Floods",
+      "summary": "arXiv:2608.12422v1 Announce Type: new Abstract: Two free satellite signals carry real information about glacial-lake outburst risk in the Nepal Himalaya: radar interferometry sees a moraine dam slowly sagging, and satellite weather marks the weeks when a primed lake is under stress. A companion feasibility study found that deformation indicates which lake is destabilizing and weather indicates when it is at risk, but proposed no predictive model. To address this gap, we…",
+      "source_name": "arXiv cs.LG (Machine Learning)",
+      "source_url": "https://arxiv.org/abs/2608.12422",
+      "published_at": "2026-08-14T04:00:00+00:00",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "AI Models",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7564,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2608.12422v1"
+    }
+  ]
+}
