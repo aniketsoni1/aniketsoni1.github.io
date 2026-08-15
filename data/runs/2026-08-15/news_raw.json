@@ -1,0 +1,842 @@
+{
+  "generated_at": "2026-08-15T13:46:50.916496+00:00",
+  "post_date": "2026-08-15",
+  "sources_checked": 48,
+  "candidates": 45,
+  "items": [
+    {
+      "title": "The other Sean Byrne doesn't exist",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://conic.al/writing/the-other-sean-byrne-doesnt-exist/",
+      "published_at": "2026-08-15T04:18:44+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.6795,
+      "importance_score": 0.8305,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49307592"
+    },
+    {
+      "title": "How Claude's text watermarking works",
+      "summary": "How Claude's text watermarking works Anthropic",
+      "source_name": "Anthropic",
+      "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8xMjZ5Ynd3TkptcUFtRGZxalN0VUxKTWRxSktRTkhsa1llV0w0OUphLXRYWDkyaGJvendtY0drMTRCTWV1QjJxeVc5MzFxb2NXQVpXRWhRZDY3eC1Zak5QZWV3?oc=5",
+      "published_at": "2026-08-14T19:22:20+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.99,
+      "importance_score": 0.8233,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "CBMiYkFVX3lxTE8xMjZ5Ynd3TkptcUFtRGZxalN0VUxKTWRxSktRTkhsa1llV0w0OUphLXRYWDkyaGJvendtY0drMTRCTWV1QjJxeVc5MzFxb2NXQVpXRWhRZDY3eC1Zak5QZWV3"
+    },
+    {
+      "title": "Magnitude 7.7 Earthquake – 68 km NNW of Ende, Indonesia",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive",
+      "published_at": "2026-08-15T01:14:05+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.6535,
+      "importance_score": 0.8177,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49306577"
+    },
+    {
+      "title": "eigendrum",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://eigendrum.com/#p=circle",
+      "published_at": "2026-08-14T22:15:12+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.648,
+      "importance_score": 0.8003,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49305250"
+    },
+    {
+      "title": "Going Dark, and the era of law enforcement hacking",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/",
+      "published_at": "2026-08-14T20:52:44+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7996,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49304447"
+    },
+    {
+      "title": "Firefox is now the last major browser that still supports uBlock Origin",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html",
+      "published_at": "2026-08-14T19:03:20+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.792,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49303202"
+    },
+    {
+      "title": "Eleven minutes, zero humans: Building a self-healing Kubernetes upgrade pipeline on Kairos",
+      "summary": "Once upon a time, upgrading a Kubernetes control plane meant staying awake for it. SSH into every node. Run the upgrade by hand. Watch etcd health the whole time, hoping quorum holds through every reboot. This...",
+      "source_name": "CNCF",
+      "source_url": "https://www.cncf.io/blog/2026/08/14/eleven-minutes-zero-humans-building-a-self-healing-kubernetes-upgrade-pipeline-on-kairos/",
+      "published_at": "2026-08-14T11:14:00+00:00",
+      "category": "open_source_foundations",
+      "tags": [
+        "AI",
+        "Data Pipelines",
+        "Kubernetes",
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.87,
+      "importance_score": 0.7894,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.cncf.io/?p=172952"
+    },
+    {
+      "title": "Maximizing the value of your Claude Code sessions",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions",
+      "published_at": "2026-08-14T16:15:21+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.684,
+      "importance_score": 0.7803,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49300800"
+    },
+    {
+      "title": "RustDesk now supports true unattended remote access on Wayland",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://rustdesk.com/blog/unattended-remote-access-wayland/",
+      "published_at": "2026-08-14T16:12:52+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7801,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49300759"
+    },
+    {
+      "title": "AI by Hand",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.byhand.ai/",
+      "published_at": "2026-08-14T15:58:59+00:00",
+      "category": "aggregators",
+      "tags": [
+        "AI",
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7792,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49300568"
+    },
+    {
+      "title": "Google is making private AI practical with homomorphic encryption",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
+      "published_at": "2026-08-14T15:43:10+00:00",
+      "category": "aggregators",
+      "tags": [
+        "AI",
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7781,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49300314"
+    },
+    {
+      "title": "Qwen 3.8 27B",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
+      "published_at": "2026-08-14T15:00:00+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7751,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49299605"
+    },
+    {
+      "title": "Position: Reasoning is a Learnable Rule-Based Process",
+      "summary": "arXiv:2608.12325v1 Announce Type: new Abstract: Autonomous reasoning is among the most scientifically and economically motivating topics in AI today. Historically the purview of symbolic AI, recent advances have mainly emerged from deep probabilistic generative models. Despite immense interest and rapid progress, the generative AI community has not clearly converged on operational definitions for reasoning and often implicitly rejects the historical treatment of this topic…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2608.12325",
+      "published_at": "2026-08-15T04:00:00+00:00",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "GenAI",
+        "APIs",
+        "AI Models",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7593,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2608.12325v1"
+    },
+    {
+      "title": "Diagnostic Foundation for Evaluating LLMs' Research Integrity as Co-Scientists",
+      "summary": "arXiv:2608.12345v1 Announce Type: new Abstract: Language models are increasingly deployed as co-scientists, yet their ability to uphold research integrity under institutional pressure remains unmeasured. We introduce IntegrityBench, a benchmark evaluating misconduct classification, ethical action reasoning and artifact-grounded decision making across 36 paired tasks under a 5-level implicit-explicit pressure protocol spanning 3 domains and 4 research stages. Evaluating 18…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2608.12345",
+      "published_at": "2026-08-15T04:00:00+00:00",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "LLMs",
+        "AI Models",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7593,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2608.12345v1"
+    },
+    {
+      "title": "Position: The Alignment Community is Unintentionally Building a Censor's Toolkit",
+      "summary": "arXiv:2608.12346v1 Announce Type: new Abstract: This position paper argues that modern AI alignment methods - originally designed to prevent harmful output - are dual-use technologies that may easily be misused by malicious actors for censorship and manipulation. By mapping current alignment techniques to the possibility and actual cases of misuse, we show that the quest for a \"perfectly aligned\" model inadvertently also provides malicious actors with an ever-improving tool…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2608.12346",
+      "published_at": "2026-08-15T04:00:00+00:00",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "AI Models",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7593,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2608.12346v1"
+    },
+    {
+      "title": "Agreement Is Not Alignment: Divergent Moral Grounds in Human and LLM Ethical Judgments",
+      "summary": "arXiv:2608.12368v1 Announce Type: new Abstract: Agreement with human judgments is a common proxy for evaluating the alignment of large language models (LLMs). Yet agreement in final labels does not show that human annotators and models rely on the same moral grounds. Two agents may reach the same judgment while appealing to different principles, contextual assumptions, or interpretations of the situation. We test this distinction using a curated 500-item ETHICS-derived…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2608.12368",
+      "published_at": "2026-08-15T04:00:00+00:00",
+      "category": "research_feeds",
+      "tags": [
+        "LLMs",
+        "AI Agents",
+        "AI Models",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7593,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2608.12368v1"
+    },
+    {
+      "title": "Multi-Agent Scheduling with LLM-Assisted Contract Net Negotiation for Stream Processing in Mobile Edge Computing",
+      "summary": "arXiv:2608.12371v1 Announce Type: new Abstract: Stream-processing systems increasingly operate across heterogeneous mobile edge--cloud infrastructures, where workload volatility, resource contention, and stringent quality-of-service (QoS) requirements complicate decentralized scheduling. This paper proposes \\emph{MAS-DecStream}, whose main contribution is \\emph{LLM-MR-CNP}: an extension of the classical Contract Net Protocol with semantic CFP formulation, progressive context…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2608.12371",
+      "published_at": "2026-08-15T04:00:00+00:00",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "LLMs",
+        "AI Agents",
+        "Cloud",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7593,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2608.12371v1"
+    },
+    {
+      "title": "Position: We Need Practical AI Alignment Methods to Mirror Human Reasoning",
+      "summary": "arXiv:2608.12372v1 Announce Type: new Abstract: AI systems are increasingly employed as decision aids, decision delegates, or autonomous decision-makers. This position paper argues that in many settings, particularly high-stakes decision-making, we need accurate cognitively-aligned AI systems that reason similarly to their users, and faithfully communicate their reasoning. We review evidence that cognitive alignment improves understandability and trustworthiness, and provide…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2608.12372",
+      "published_at": "2026-08-15T04:00:00+00:00",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7593,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2608.12372v1"
+    },
+    {
+      "title": "Don't Want Your LLM to Recommend Nuclear Strike? Try Asking It in Japanese",
+      "summary": "arXiv:2608.12373v1 Announce Type: new Abstract: Large language models are increasingly used in strategic and advisory contexts, yet their safety alignment is typically evaluated in English only. We test nine models from six providers and ask whether the language of a prompt can change a model's decision in a high-stakes scenario. We use single-turn game-theoretic vignettes in which a model advises a nuclear-armed nation on whether to strike a defenseless opponent. The prompt…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2608.12373",
+      "published_at": "2026-08-15T04:00:00+00:00",
+      "category": "research_feeds",
+      "tags": [
+        "LLMs",
+        "AI Models",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7593,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2608.12373v1"
+    },
+    {
+      "title": "Dual-Flow Transformers: Decoupling the Primary Prefill Path from Additional Decode Computation",
+      "summary": "arXiv:2608.12385v1 Announce Type: new Abstract: As large language models serve more requests, cumulative inference cost is becoming increasingly important relative to one-time training cost. The two inference phases stress hardware differently: prompt prefill is parallel and typically compute-bound, whereas autoregressive decode is sequential and often memory-bandwidth-bound. Conventional width or depth scaling increases both costs together because every added layer is…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2608.12385",
+      "published_at": "2026-08-15T04:00:00+00:00",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "LLMs",
+        "AI Models",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7593,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2608.12385v1"
+    },
+    {
+      "title": "Learning to Adapt Cross-Domain Preferences via Meta-LoRA for LLM Personalization",
+      "summary": "arXiv:2608.12389v1 Announce Type: new Abstract: Cross-domain zero- or few-shot personalization aims to generate user-preferred responses in unseen conversational domains from only a handful of target-domain interactions. Existing adaptation methods struggle to calibrate update magnitude under sparse evidence and thus overfit, whereas history-transfer methods often entangle user preferences with source-domain artifacts, yielding unreliable personalization priors and negative…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2608.12389",
+      "published_at": "2026-08-15T04:00:00+00:00",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "LLMs",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7593,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2608.12389v1"
+    },
+    {
+      "title": "Research Assistant: AstraZeneca's Agentic System for RD",
+      "summary": "arXiv:2608.12395v1 Announce Type: new Abstract: We describe Research Assistant, an internal LLM-based system developed at AstraZeneca to help scientists and clinicians explore biomedical questions across a broad range of data sources. The system provides a chat-style interface that brings together evidence from scientific literature, knowledge graphs, chemistry, clinical trials, safety resources, expression data, and internal experimental systems. It supports both a fast…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2608.12395",
+      "published_at": "2026-08-15T04:00:00+00:00",
+      "category": "research_feeds",
+      "tags": [
+        "LLMs",
+        "AI Agents",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7593,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2608.12395v1"
+    },
+    {
+      "title": "Large Language Models Can Follow Instructions, But Not Many at Once: Phase Transitions in Compositional Constraint Satisfaction",
+      "summary": "arXiv:2608.12426v1 Announce Type: new Abstract: Large language models are increasingly deployed in settings that require simultaneous adherence to multiple explicit constraints - reasoning structure, safety boundaries, output schemas. Individual constraints are handled proficiently, but the compositional regime, where many must hold jointly, remains poorly characterized: how rapidly does performance degrade, what governs the degradation, and can the collapse be mitigated? We…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2608.12426",
+      "published_at": "2026-08-15T04:00:00+00:00",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "LLMs",
+        "APIs",
+        "AI Models",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7593,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2608.12426v1"
+    },
+    {
+      "title": "MindMemOS: A Portable and Self-Evolving Memory Operating Layer for AI Agents",
+      "summary": "arXiv:2608.12428v1 Announce Type: new Abstract: Memory is a core component of AI agents, enabling them to accumulate experience, maintain personalization, and adapt over long-term interactions. However, existing memory systems often remain fixed after development, limiting their ability to adapt their memory models, organization strategies, and procedural knowledge through continued use. We present MindMemOS, a portable and self-evolving memory operating layer that organizes…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2608.12428",
+      "published_at": "2026-08-15T04:00:00+00:00",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "AI Models",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7593,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2608.12428v1"
+    },
+    {
+      "title": "I bought my first investment property while still in college. Now I'm 24 and own 30 homes as a full-time landlord.",
+      "summary": "Real estate investor Lawrence Guerguis bought his first home in college. Now he owns 30 homes in the Midwest and is a full-time landlord.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/i-own-30-homes-at-24-full-time-landlord-2026-8",
+      "published_at": "2026-08-15T13:17:01+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7579,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/i-own-30-homes-at-24-full-time-landlord-2026-8"
+    },
+    {
+      "title": "We moved abroad when our kids were 5 and 7. Keeping them close to their grandparents became a priority.",
+      "summary": "Moving to London put thousands of miles between our kids and their grandparents. We made travel a priority, and their relationships became even stronger.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/moved-abroad-kids-grandparents-long-distance-2026-8",
+      "published_at": "2026-08-15T13:10:01+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7574,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/moved-abroad-kids-grandparents-long-distance-2026-8"
+    },
+    {
+      "title": "I tried Ina Garten's penne alla vodka. It's one of the best pasta dishes I've ever made.",
+      "summary": "Ina Garten's penne alla vodka is super delicious, and the recipe is easy to follow. It's also one of the most beautiful pastas I've ever made.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/ina-garten-penne-alla-vodka-pasta-dinner-recipe",
+      "published_at": "2026-08-15T13:05:02+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7571,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/ina-garten-penne-alla-vodka-pasta-dinner-recipe"
+    },
+    {
+      "title": "Common Earth Project Aims to End Chip Supply Chain Bottlenecks",
+      "summary": "Michigan researchers seek ways to make chips without rare earths and other problematic materials",
+      "source_name": "IEEE Spectrum",
+      "source_url": "https://spectrum.ieee.org/rare-earth-metals-in-semiconductors",
+      "published_at": "2026-08-15T13:00:01+00:00",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.7568,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://spectrum.ieee.org/rare-earth-metals-in-semiconductors"
+    },
+    {
+      "title": "I 'soft retired' at 64. I work 3 days a week and take extended vacations.",
+      "summary": "George Crabtree retired after 40 years in commercial printing, then returned 11 days later. He now works three flexible days a week and calls it soft retirement.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/retired-returned-to-work-soft-retirement-2026-8",
+      "published_at": "2026-08-15T12:39:01+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7553,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/retired-returned-to-work-soft-retirement-2026-8"
+    },
+    {
+      "title": "Universitas Gadjah Mada, Indosat and NVIDIA Open Indonesia’s First University AI Center to Develop Local AI Talent",
+      "summary": "Indonesia is taking charge of its AI future. This week, the Ministry of Communication and Digital Affairs (Komdigi), Indosat Ooredoo Hutchison (Indosat or IOH), NVIDIA and Universitas Gadjah Mada (UGM) launched the UGM Indosat NVIDIA AI Technology Center (NVAITC) in Yogyakarta — the country’s first university-based AI technology center. Established under Indonesia’s AI Center of […]",
+      "source_name": "NVIDIA Blog",
+      "source_url": "https://blogs.nvidia.com/blog/ugm-indosat-nvidia-ai-technology-center/",
+      "published_at": "2026-08-14T17:13:05+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "GPUs",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.7543,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://blogs.nvidia.com/?p=97549"
+    },
+    {
+      "title": "DARPA wants injured brains to rewire and repair themselves as the US military confronts traumatic brain injuries",
+      "summary": "The Pentagon's research arm wants new, noninvasive ways to help injured brains heal themselves.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/darpa-wants-to-help-injured-brains-rewire-themselves-after-injury-2026-8",
+      "published_at": "2026-08-15T12:24:01+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Research",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7543,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/darpa-wants-to-help-injured-brains-rewire-themselves-after-injury-2026-8"
+    },
+    {
+      "title": "What’s new with Google Cloud",
+      "summary": "Want to know the latest from Google Cloud? Find it here in one handy location. Check back regularly for our newest updates, announcements, resources, events, learning opportunities, and more. Tip : Not sure where to find what you’re looking for on the Google Cloud blog? Start here: Google Cloud blog 101: Full list of topics, links, and resources . aside_block <ListValue: []> Aug 10 - Aug 14 Diagnosing Apigee Hybrid Cassandra Read Latency for Peak Performance Diagnose…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
+      "published_at": "2026-08-14T16:00:00+00:00",
+      "category": "cloud_providers",
+      "tags": [
+        "Cloud",
+        "Google Cloud",
+        "APIs",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.7493,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/"
+    },
+    {
+      "title": "How to bring your software delivery workflow into GitHub with agent apps",
+      "summary": "See how four GitHub agent apps can help you scope, secure, roll out, and ship a feature across the SDLC–all without leaving GitHub. The post How to bring your software delivery workflow into GitHub with agent apps appeared first on The GitHub Blog .",
+      "source_name": "The GitHub Blog",
+      "source_url": "https://github.blog/ai-and-ml/github-copilot/how-to-bring-your-software-delivery-workflow-into-github-with-agent-apps/",
+      "published_at": "2026-08-14T16:00:00+00:00",
+      "category": "developer_platforms",
+      "tags": [
+        "AI Agents",
+        "Developer Tools",
+        "Developer Platforms"
+      ],
+      "confidence_score": 0.92,
+      "importance_score": 0.7493,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://github.blog/?p=98252"
+    },
+    {
+      "title": "My husband and I are about to be empty nesters. To reconnect, we took a trip together, but it was awkward at first.",
+      "summary": "My husband and I will become empty nesters in the fall, and it will be a different life. When we took a trip, we found how much we have changed.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/husband-wife-took-trip-reconnect-becoming-empty-nesters-2026-8",
+      "published_at": "2026-08-15T11:07:01+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7489,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/husband-wife-took-trip-reconnect-becoming-empty-nesters-2026-8"
+    },
+    {
+      "title": "This Beautifully Weird Necklace Is Secretly a USB Drive",
+      "summary": "Noware’s Puff necklace whimsically reimagines flash drives, turning something functional into personalized jewelry.",
+      "source_name": "Wired",
+      "source_url": "https://www.wired.com/story/this-beautifully-weird-necklace-is-secretly-a-usb-drive/",
+      "published_at": "2026-08-15T11:00:00+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "ETL",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7484,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "6a7b3f3b327f770305481703"
+    },
+    {
+      "title": "Retrospec Joe Rev 2 Review (2026): Putting the ‘Joy’ in Joyride",
+      "summary": "This affordable electric BMX delighted my entire family, even if its range, ride comfort, and actual BMX abilities are limited.",
+      "source_name": "Wired",
+      "source_url": "https://www.wired.com/review/retrospec-joe-rev-2/",
+      "published_at": "2026-08-15T11:00:00+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7484,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "6a7a0b04929c1cd02c9472a3"
+    },
+    {
+      "title": "EY is creating a 'value realization' office to make sure its AI spending pays off",
+      "summary": "AI can't be managed by any existing department, so the Big Four firm EY is creating a new one. It's called the AI Value Realization Office.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/big-four-ey-creates-ai-value-realization-office-2026-8",
+      "published_at": "2026-08-15T10:32:01+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7465,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/big-four-ey-creates-ai-value-realization-office-2026-8"
+    },
+    {
+      "title": "ChainDrop worm crawls into npm supply chain, evades standard defenses",
+      "summary": "Shai-Hulud variant poisons 444 packages, spreads via tarballs and dev-tool hooks",
+      "source_name": "The Register",
+      "source_url": "https://www.theregister.com/security/2026/08/15/chaindrop-worm-crawls-into-npm-supply-chain-evades-standard-defenses/5287958",
+      "published_at": "2026-08-15T10:31:00+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7464,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.theregister.com/a/5287958"
+    },
+    {
+      "title": "Instapaper, the Original Read-It-Later App, Just Got a Huge Upgrade",
+      "summary": "New fonts, better customization, and a whole new layout all make it worth dusting off your Instapaper account.",
+      "source_name": "Wired",
+      "source_url": "https://www.wired.com/story/instapaper-the-original-read-it-later-app-just-got-a-huge-upgrade/",
+      "published_at": "2026-08-15T10:30:00+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7463,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "6a7cf12cd921c67563be5b24"
+    },
+    {
+      "title": "6 Best Apple Watch Accessories to Upgrade Your Watch (2026)",
+      "summary": "These are the Apple Watch accessories I recommend adding to your setup.",
+      "source_name": "Wired",
+      "source_url": "https://www.wired.com/story/best-apple-watch-accessories/",
+      "published_at": "2026-08-15T10:30:00+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7463,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "6a7b62b8dcfecfc7d561f206"
+    },
+    {
+      "title": "Everything we know about how biggest Wall Street banks are using AI",
+      "summary": "Wall Street banks like JPMorgan, Citi, and Goldman Sachs are investing billions in AI, reshaping workflows and culture.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/wall-street-banks-ai-strategy-spending-jpmorgan-citi-goldman-2026",
+      "published_at": "2026-08-15T10:25:02+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "APIs",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.746,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/wall-street-banks-ai-strategy-spending-jpmorgan-citi-goldman-2026"
+    },
+    {
+      "title": "I'm 76 and can't afford to stop working full time. Caring for my brother costs $10,000 a month.",
+      "summary": "Fran Judd works full-time at 76 while caring for her disabled daughter and helping pay for her 85-year-old brother's long-term care.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/long-term-care-housing-adu-caregiving-working-full-time-2026-8",
+      "published_at": "2026-08-15T10:13:01+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7452,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/long-term-care-housing-adu-caregiving-working-full-time-2026-8"
+    },
+    {
+      "title": "I stared deep into the heart of LinkedIn AI cringe slop. Darkness (and engagement) stared back.",
+      "summary": "Turns out a deliberately cringy AI slop generator is better at LinkedIn than I am. This doesn't bode well.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/cringebot3000-ai-slop-linkedin-post-engagement-2026-8",
+      "published_at": "2026-08-15T10:02:01+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7444,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/cringebot3000-ai-slop-linkedin-post-engagement-2026-8"
+    },
+    {
+      "title": "Auk Mini 2 Indoor Smart Garden Review: Better Where It Counts",
+      "summary": "Auk’s Mini 2 improves on the original model with better lights, a sleeker design, and fun new colors.",
+      "source_name": "Wired",
+      "source_url": "https://www.wired.com/review/auk-mini-2-indoor-smart-garden/",
+      "published_at": "2026-08-15T10:01:00+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "AI Models",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7443,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "6a7b52cb00d20f2f2ae77e5b"
+    },
+    {
+      "title": "Factory to front lines: A Western spy drone’s journey to war in Ukraine",
+      "summary": "Business Insider traveled from a production line in the UK to southeastern Ukraine, following a surveillance drone on its journey to war.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/western-spy-drones-journey-from-factory-to-ukraine-war-2026-8",
+      "published_at": "2026-08-15T10:00:01+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7443,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/western-spy-drones-journey-from-factory-to-ukraine-war-2026-8"
+    }
+  ]
+}
