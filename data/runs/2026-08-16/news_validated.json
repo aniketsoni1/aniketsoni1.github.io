@@ -1,0 +1,803 @@
+{
+  "post_date": "2026-08-16",
+  "sources_checked": 48,
+  "count": 45,
+  "items": [
+    {
+      "title": "What happens when an LLM never sees material beyond fifth grade?",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://littlelearner-ll.github.io/",
+      "published_at": "2026-08-16T07:37:53Z",
+      "category": "aggregators",
+      "tags": [
+        "LLMs",
+        "Hacker News"
+      ],
+      "confidence_score": 0.6435,
+      "importance_score": 0.8281,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49317760"
+    },
+    {
+      "title": "Software Engineering fundamentals matter more",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://rhonabwy.com/2026/08/15/software-engineering-fundamentals-matter-more-than-ever/",
+      "published_at": "2026-08-15T22:31:09Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.6565,
+      "importance_score": 0.8063,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49314902"
+    },
+    {
+      "title": "Abdominal fat predicts heart disease risk better than BMI",
+      "summary": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13470613/",
+      "source_name": "Hacker News",
+      "source_url": "https://www.acc.org/about-acc/press-releases/2026/08/11/14/59/abdominal-fat-predicts-heart-disease-risk-better-than-bmi",
+      "published_at": "2026-08-15T21:14:34Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.6945,
+      "importance_score": 0.801,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49314403"
+    },
+    {
+      "title": "Cultivating a state of mind where new ideas are born (2023)",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.henrikkarlsson.xyz/p/good-ideas",
+      "published_at": "2026-08-15T20:54:11Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.652,
+      "importance_score": 0.7996,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49314235"
+    },
+    {
+      "title": "Super El Niño Keeps Growing as New Forecasts Reach Record Territory Ahead Winter",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.severe-weather.eu/long-range-2/super-el-nino-growth-accelerating-to-record-strength-fall-winter-2026-2027-forecast-impact-united-states-canada-europe-fa/",
+      "published_at": "2026-08-15T19:20:51Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7931,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49313428"
+    },
+    {
+      "title": "Semaglutide linked to lower predicted dementia risk",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432",
+      "published_at": "2026-08-15T15:58:53Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7791,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49311651"
+    },
+    {
+      "title": "A spectre is haunting Unicode",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.dampfkraft.com/ghost-characters.html",
+      "published_at": "2026-08-15T14:34:04Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.6705,
+      "importance_score": 0.7732,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49310926"
+    },
+    {
+      "title": "At-home test for infected ticks could improve Lyme Disease diagnosis",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis-180989235/",
+      "published_at": "2026-08-15T14:04:49Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.6845,
+      "importance_score": 0.7712,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49310682"
+    },
+    {
+      "title": "The CPU Comeback Is Upon Us",
+      "summary": "Agentic AI has made CPUs the new performance bottleneck",
+      "source_name": "IEEE Spectrum",
+      "source_url": "https://spectrum.ieee.org/ai-cpu-comeback",
+      "published_at": "2026-08-16T13:00:01Z",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.7567,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://spectrum.ieee.org/ai-cpu-comeback"
+    },
+    {
+      "title": "Patterns and problems in emerging multi-agent systems",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.anthropic.com/research/multiagent-systems",
+      "published_at": "2026-08-16T02:12:53Z",
+      "category": "aggregators",
+      "tags": [
+        "AI Agents",
+        "Hacker News"
+      ],
+      "confidence_score": 0.623,
+      "importance_score": 0.7542,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49316271"
+    },
+    {
+      "title": "These 4 homeowners built tiny homes in their yards to be better caregivers for their loved ones",
+      "summary": "Four homeowners said that building an accessory dwelling unit (ADU) on their properties has allowed them to be better caregivers to their loved ones.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/homeowners-built-adu-tiny-homes-family-aging-parents-2026-8",
+      "published_at": "2026-08-16T12:23:01Z",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7541,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/homeowners-built-adu-tiny-homes-family-aging-parents-2026-8"
+    },
+    {
+      "title": "My son went to culinary school, and my daughter majors in theater. It's not what I planned for either of them, and that's OK.",
+      "summary": "My son never liked school and decided to skip college for trade school. My daughter is majoring in theater, which some think is a waste of money.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/kids-pursued-culinary-school-theater-surprised-2026-8",
+      "published_at": "2026-08-16T12:07:01Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.753,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/kids-pursued-culinary-school-theater-surprised-2026-8"
+    },
+    {
+      "title": "Why a new Western training program for Ukrainian soldiers skips drone piloting and electronic warfare lessons",
+      "summary": "Ukrainian troops are getting trained in Norway-led Operation Legio, and Ukraine didn't request pilot skills as it already has such good education.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/western-training-ukraine-troops-not-drone-pilot-skills-good-already-2026-8",
+      "published_at": "2026-08-16T11:29:01Z",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7504,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/western-training-ukraine-troops-not-drone-pilot-skills-good-already-2026-8"
+    },
+    {
+      "title": "I can't find a job at 57. I'm fighting feelings of humiliation and panic.",
+      "summary": "Job searching at 57 has led to situational depression for Gregory Brooks. He shared how hobbies, family, and counseling is helping him adjust.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/cant-find-job-57-unemployment-counseling-2026-8",
+      "published_at": "2026-08-16T11:08:01Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7489,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/cant-find-job-57-unemployment-counseling-2026-8"
+    },
+    {
+      "title": "Samsung Galaxy Z Fold8 and Galaxy Z Fold8 Ultra Review: The Right Shape",
+      "summary": "Nearly a decade after its debut, Samsung’s Galaxy Fold finally comes into its own.",
+      "source_name": "Wired",
+      "source_url": "https://www.wired.com/review/samsung-galaxy-z-fold8-and-z-fold8-ultra/",
+      "published_at": "2026-08-16T11:00:00Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7483,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "6a75b69f0d880c43a7feaa2b"
+    },
+    {
+      "title": "Astronomers Discover the Existence of a Black Hole Star",
+      "summary": "An object observed by the James Webb Space Telescope lends credence to a strange explanation for the mysterious red spots in the early universe.",
+      "source_name": "Wired",
+      "source_url": "https://www.wired.com/story/black-hole-stars-are-becoming-less-hypothetical/",
+      "published_at": "2026-08-16T11:00:00Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7483,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "6a7f4c7217c50f32a0cf27a3"
+    },
+    {
+      "title": "It’s Never Too Early to Start Planning for the Next Two Solar Eclipses",
+      "summary": "In 2027 and 2028, there will be two spectacular, long-duration solar eclipses. Here’s what you need to know about them.",
+      "source_name": "Wired",
+      "source_url": "https://www.wired.com/story/its-never-too-early-to-start-planning-for-the-next-two-solar-eclipses/",
+      "published_at": "2026-08-16T10:30:00Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7463,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "6a7f86426a3123db993a9383"
+    },
+    {
+      "title": "Someone Finally Fixed Installing Apps on a Mac",
+      "summary": "The installation utility EasyDMG makes it so you never drag and drop an icon again.",
+      "source_name": "Wired",
+      "source_url": "https://www.wired.com/story/easydmg-finally-fixed-installing-apps-on-a-mac/",
+      "published_at": "2026-08-16T10:30:00Z",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7463,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "6a7ce864f8503d5e8d367e6d"
+    },
+    {
+      "title": "TerraMow V1000 Review: Show Your Lawn Some Love",
+      "summary": "With automatic mapping, Spot Mode functionality, and smart AI cameras, the TerraMow V1000 is the complete package.",
+      "source_name": "Wired",
+      "source_url": "https://www.wired.com/review/terramow-v1000/",
+      "published_at": "2026-08-16T10:30:00Z",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7463,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "6a7c60b47c15d30fa36e5902"
+    },
+    {
+      "title": "The AI boom has echoes of Enron — but that might be okay, a tech guru says",
+      "summary": "Ram Bala, an AI and analytics guru, said the AI boom showcasing three of Enron's signature financial tactics, but it's \"not like bubbles of the past.\"",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/ai-boom-enron-tech-stocks-debt-demand-forecasts-circular-deals-2026-8",
+      "published_at": "2026-08-16T10:30:01Z",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7463,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/ai-boom-enron-tech-stocks-debt-demand-forecasts-circular-deals-2026-8"
+    },
+    {
+      "title": "Motherhood didn't make me less ambitious. It sharpened my focus and made me more intentional about the work I take on.",
+      "summary": "I wondered if motherhood would make me less ambitious. It didn't. It only sharpened my focus and made me more intentional about work.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/motherhood-ambition-focus-career-2026-8",
+      "published_at": "2026-08-16T10:27:01Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.746,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/motherhood-ambition-focus-career-2026-8"
+    },
+    {
+      "title": "How Dropbox's co-CEO decides which meetings to skip",
+      "summary": "Dropbox co-CEO Ashraf Alkarmi said he sets five goals each quarter and spends his time on tasks related to them.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/hack-dropbox-co-ceo-uses-decide-meetings-skip-2026-8",
+      "published_at": "2026-08-16T10:07:01Z",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7447,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/hack-dropbox-co-ceo-uses-decide-meetings-skip-2026-8"
+    },
+    {
+      "title": "Stopping a cyberattack while walking your dog - defensive AI security CEO says it's not ruff to do",
+      "summary": "Corma CEO tells The Reg it's building 'One ring to rule them all, for the defenders to have this power'",
+      "source_name": "The Register",
+      "source_url": "https://www.theregister.com/security/2026/08/16/stopping-a-cyberattack-while-walking-your-dog-defensive-ai-security-ceo-says-its-not-ruff-to-do/5288126",
+      "published_at": "2026-08-16T10:06:00Z",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "Security",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7446,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.theregister.com/a/5288126"
+    },
+    {
+      "title": "Inside the Experimental Traps Scientists Set for Ghostly Neutrinos",
+      "summary": "Observatories have been built in mines, deep under the Antarctic ice sheet, and elsewhere in an effort to detect the fleeting particles.",
+      "source_name": "Wired",
+      "source_url": "https://www.wired.com/story/inside-experimental-traps-scientists-set-for-neutrinos/",
+      "published_at": "2026-08-16T10:00:00Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7442,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "6a7f3c20f053c389839cb809"
+    },
+    {
+      "title": "How savvy real estate investors are using HELOCs to buy rental properties and build wealth",
+      "summary": "Savvy property investors are tapping the equity in their primary homes to fund an investment purchase. Here's how it works.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/how-to-use-heloc-to-buy-investment-properties-build-wealth-2026-8",
+      "published_at": "2026-08-16T09:40:01Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7428,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/how-to-use-heloc-to-buy-investment-properties-build-wealth-2026-8"
+    },
+    {
+      "title": "The Best Cat Water Fountains of 2026: Petlibro, Petkit, Oneisall",
+      "summary": "Ensuring your cat stays hydrated is one of the best ways to keep your pet healthy. The right pet water fountain can help.",
+      "source_name": "Wired",
+      "source_url": "https://www.wired.com/gallery/best-cat-water-fountains/",
+      "published_at": "2026-08-16T09:33:00Z",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "ETL",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7423,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "677d8d6a9c20569cd9f8080f"
+    },
+    {
+      "title": "The skill BCG's North America boss thinks matters more in the AI era",
+      "summary": "BCG wants consultants with strong AI skills, but says critical thinking and judgment matter more than ever.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/bcg-consultants-ai-skills-technical-training-mel-wolfgang-2026-8",
+      "published_at": "2026-08-16T09:33:01Z",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7423,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/bcg-consultants-ai-skills-technical-training-mel-wolfgang-2026-8"
+    },
+    {
+      "title": "A top personal trainer shares 3 common mistakes people make when trying to build muscle",
+      "summary": "Harley Pasternak has spent 30 years helping people build strength and muscle. He's seen the same mistakes along the way.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/top-personal-trainer-shares-3-common-muscle-building-mistakes-2026-8",
+      "published_at": "2026-08-16T09:30:03Z",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7421,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/top-personal-trainer-shares-3-common-muscle-building-mistakes-2026-8"
+    },
+    {
+      "title": "Instagram promised to remove harassing Meta glasses videos. I keep finding them.",
+      "summary": "Instagram said it would remove harassing videos filmed with Meta AI glasses. Weeks later, dozens remain.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/instagram-crackdown-meta-ai-glasses-pickup-rizz-videos-moderation-challenges-2026-8",
+      "published_at": "2026-08-16T09:30:01Z",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7421,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/instagram-crackdown-meta-ai-glasses-pickup-rizz-videos-moderation-challenges-2026-8"
+    },
+    {
+      "title": "I went back to work 10 days after giving birth. Two decades later, I finally took a break.",
+      "summary": "After decades of putting work first, a real estate executive stepped away from her career to be there for her college-age sons.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/returned-work-after-birth-taking-time-off-grown-kids-2026-8",
+      "published_at": "2026-08-16T09:13:01Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7409,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/returned-work-after-birth-taking-time-off-grown-kids-2026-8"
+    },
+    {
+      "title": "AI in drug discovery – what it is, where we stand and the path forward",
+      "summary": "https://www.nature.com/articles/s41573-026-01496-2",
+      "source_name": "Hacker News",
+      "source_url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
+      "published_at": "2026-08-15T19:12:53Z",
+      "category": "aggregators",
+      "tags": [
+        "AI",
+        "Hacker News"
+      ],
+      "confidence_score": 0.628,
+      "importance_score": 0.7376,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49313367"
+    },
+    {
+      "title": "The what, why, and how of pull requests and source comments",
+      "summary": "Microsoft veteran on knowing the difference and convincing approvers to accept a change",
+      "source_name": "The Register",
+      "source_url": "https://www.theregister.com/offbeat/2026/08/16/the-what-why-and-how-of-pull-requests-and-source-comments/5287914",
+      "published_at": "2026-08-16T07:58:00Z",
+      "category": "enterprise_technology",
+      "tags": [
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7357,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.theregister.com/a/5287914"
+    },
+    {
+      "title": "How Claude's text watermarking works",
+      "summary": "How Claude's text watermarking works Anthropic",
+      "source_name": "Anthropic",
+      "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8xMjZ5Ynd3TkptcUFtRGZxalN0VUxKTWRxSktRTkhsa1llV0w0OUphLXRYWDkyaGJvendtY0drMTRCTWV1QjJxeVc5MzFxb2NXQVpXRWhRZDY3eC1Zak5QZWV3?oc=5",
+      "published_at": "2026-08-14T19:22:20Z",
+      "category": "ai_model_companies",
+      "tags": [
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.97,
+      "importance_score": 0.7232,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "CBMiYkFVX3lxTE8xMjZ5Ynd3TkptcUFtRGZxalN0VUxKTWRxSktRTkhsa1llV0w0OUphLXRYWDkyaGJvendtY0drMTRCTWV1QjJxeVc5MzFxb2NXQVpXRWhRZDY3eC1Zak5QZWV3"
+    },
+    {
+      "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
+      "summary": "The woman claimed that AI tools are \"taking everyday life and turning it into child sexual abuse.\"",
+      "source_name": "TechCrunch - AI",
+      "source_url": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
+      "published_at": "2026-08-15T21:29:19Z",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.692,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://techcrunch.com/?p=3153313"
+    },
+    {
+      "title": "Anthropic shares more details about how Claude’s new watermarks will work",
+      "summary": "How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?",
+      "source_name": "TechCrunch - AI",
+      "source_url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
+      "published_at": "2026-08-15T18:58:39Z",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.6816,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://techcrunch.com/?p=3153310"
+    },
+    {
+      "title": "Robotics Special: Honor's Robot Phone finally launches",
+      "summary": "Robotics Special: Honor's Robot Phone finally launches Superhuman AI",
+      "source_name": "Superhuman (Zain Kahn)",
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMVk0RUlJNWNRb01GMmIycFNMNVdaTDNDY2piLUI5YUFZNmhMVnltYk9pLUp3emF1b1p2OHk0NnpPa0RhQm1iLWtjQjlZSkhJT2IycE44VDJGOHRRa1dSNHU0Nkc4aHFuWk5BcS1KUkpKSFc0TmNhLURLWF9mOHhLMlNGcnlldl9s?oc=5",
+      "published_at": "2026-08-15T17:25:41Z",
+      "category": "ai_newsletters",
+      "tags": [
+        "AI",
+        "Ai Newsletters"
+      ],
+      "confidence_score": 0.64,
+      "importance_score": 0.6751,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "CBMiiAFBVV95cUxOMVk0RUlJNWNRb01GMmIycFNMNVdaTDNDY2piLUI5YUFZNmhMVnltYk9pLUp3emF1b1p2OHk0NnpPa0RhQm1iLWtjQjlZSkhJT2IycE44VDJGOHRRa1dSNHU0Nkc4aHFuWk5BcS1KUkpKSFc0TmNhLURLWF9mOHhLMlNGcnlldl9s"
+    },
+    {
+      "title": "Tracking down a Zsh history data loss bug",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://michael.stapelberg.ch/posts/2026-08-09-zsh-history-truncation-bug/",
+      "published_at": "2026-08-15T21:39:09Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.598,
+      "importance_score": 0.6727,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49314579"
+    },
+    {
+      "title": "SpaceX officially closes its Cursor acquisition",
+      "summary": "AI coding startup Cursor is now officially a part of SpaceX.",
+      "source_name": "TechCrunch - AI",
+      "source_url": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
+      "published_at": "2026-08-15T16:30:00Z",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.6713,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://techcrunch.com/?p=3153306"
+    },
+    {
+      "title": "Guiding Ships with Moire Patterns",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://tinkerings.org/2018/03/28/guiding-ships-with-moire-patterns/",
+      "published_at": "2026-08-16T01:26:44Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.59,
+      "importance_score": 0.6685,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49315995"
+    },
+    {
+      "title": "Claude: System Prompts",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
+      "published_at": "2026-08-16T12:48:21Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.571,
+      "importance_score": 0.6684,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49319556"
+    },
+    {
+      "title": "Research papers using \"kidney disappointment\" instead of \"kidney failure\"",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://scholar.google.com/scholar?q=%22kidney+disappointment%22",
+      "published_at": "2026-08-16T12:22:20Z",
+      "category": "aggregators",
+      "tags": [
+        "AI",
+        "Research",
+        "Hacker News"
+      ],
+      "confidence_score": 0.5715,
+      "importance_score": 0.6679,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49319389"
+    },
+    {
+      "title": "Common Earth Project Aims to End Chip Supply Chain Bottlenecks",
+      "summary": "Michigan researchers seek ways to make chips without rare earths and other problematic materials",
+      "source_name": "IEEE Spectrum",
+      "source_url": "https://spectrum.ieee.org/rare-earth-metals-in-semiconductors",
+      "published_at": "2026-08-15T13:00:01Z",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.87,
+      "importance_score": 0.6567,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://spectrum.ieee.org/rare-earth-metals-in-semiconductors"
+    },
+    {
+      "title": "Universitas Gadjah Mada, Indosat and NVIDIA Open Indonesia’s First University AI Center to Develop Local AI Talent",
+      "summary": "Indonesia is taking charge of its AI future. This week, the Ministry of Communication and Digital Affairs (Komdigi), Indosat Ooredoo Hutchison (Indosat or IOH), NVIDIA and Universitas Gadjah Mada (UGM) launched the UGM Indosat NVIDIA AI Technology Center (NVAITC) in Yogyakarta — the country’s first university-based AI technology center. Established under Indonesia’s AI Center of […]",
+      "source_name": "NVIDIA Blog",
+      "source_url": "https://blogs.nvidia.com/blog/ugm-indosat-nvidia-ai-technology-center/",
+      "published_at": "2026-08-14T17:13:05Z",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "GPUs",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.87,
+      "importance_score": 0.6543,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://blogs.nvidia.com/?p=97549"
+    },
+    {
+      "title": "Show HN: Mic Drop, a real-time multiplayer karaoke game",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.micdrop.gg/",
+      "published_at": "2026-08-16T00:46:29Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.5845,
+      "importance_score": 0.652,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49315742"
+    },
+    {
+      "title": "What’s new with Google Cloud",
+      "summary": "Want to know the latest from Google Cloud? Find it here in one handy location. Check back regularly for our newest updates, announcements, resources, events, learning opportunities, and more. Tip : Not sure where to find what you’re looking for on the Google Cloud blog? Start here: Google Cloud blog 101: Full list of topics, links, and resources . aside_block <ListValue: []> Aug 10 - Aug 14 Diagnosing Apigee Hybrid Cassandra Read Latency for Peak Performance Diagnose…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
+      "published_at": "2026-08-14T16:00:00Z",
+      "category": "cloud_providers",
+      "tags": [
+        "Cloud",
+        "Google Cloud",
+        "APIs",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.92,
+      "importance_score": 0.6492,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/"
+    }
+  ]
+}
