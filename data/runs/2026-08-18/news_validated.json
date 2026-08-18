@@ -1,0 +1,862 @@
+{
+  "post_date": "2026-08-18",
+  "sources_checked": 48,
+  "count": 45,
+  "items": [
+    {
+      "title": "Cloud Native platform sovereignty through multi-plane architecture",
+      "summary": "When people talk about cloud sovereignty, the conversation often starts with regions: where a workload runs and where its data is stored. But choosing a region is only part of the story. The architecture of the...",
+      "source_name": "CNCF",
+      "source_url": "https://www.cncf.io/blog/2026/08/18/cloud-native-platform-sovereignty-through-multi-plane-architecture/",
+      "published_at": "2026-08-18T11:30:00Z",
+      "category": "open_source_foundations",
+      "tags": [
+        "Cloud",
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8896,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.cncf.io/?p=172964"
+    },
+    {
+      "title": "Partnering with CodeAI to prepare the first AI generation",
+      "summary": "OpenAI and CodeAI are partnering to help students build AI literacy, think critically about AI, and develop the skills to use and shape it responsibly.",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/partnering-with-codeai",
+      "published_at": "2026-08-18T11:00:00Z",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.99,
+      "importance_score": 0.8875,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/index/partnering-with-codeai"
+    },
+    {
+      "title": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
+      "summary": "ChatGPT for Teens helps teens learn, think critically, and use AI with confidence, with stronger built-in protections, healthy-use features, and additional controls for parents.",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/chatgpt-for-teens",
+      "published_at": "2026-08-18T11:00:00Z",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.99,
+      "importance_score": 0.8875,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/index/chatgpt-for-teens"
+    },
+    {
+      "title": "Google buys crashed airline Spirit's data at auction, because AI",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962",
+      "published_at": "2026-08-18T10:13:28Z",
+      "category": "aggregators",
+      "tags": [
+        "AI",
+        "Hacker News"
+      ],
+      "confidence_score": 0.6925,
+      "importance_score": 0.8542,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49343559"
+    },
+    {
+      "title": "Linux 7.3 improves performance when running out of vRAM",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://pixelcluster.dev/VRAM-Overcommit/",
+      "published_at": "2026-08-18T07:51:50Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.8444,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49342719"
+    },
+    {
+      "title": "In the works: AWS Builder Lofts in Berlin, Hyderabad, and São Paulo",
+      "summary": "Each location will be a permanent community space to offer free workshops, networking events, pitch nights, content creation spaces, collaboration/co-working areas, and event hosting for developers, students, or tech professionals who want to walk through the doors.",
+      "source_name": "AWS News Blog",
+      "source_url": "https://aws.amazon.com/blogs/aws/in-the-works-aws-builder-lofts-in-berlin-hyderabad-and-sao-paulo/",
+      "published_at": "2026-08-18T13:58:41Z",
+      "category": "cloud_providers",
+      "tags": [
+        "AWS",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.8399,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "5bd92664f8ba6ec61ac2d68e8b4b52a7f2988613"
+    },
+    {
+      "title": "Coding Agent Horror Stories: The Command You Already Approved",
+      "summary": "Learn how AI coding agents can run attacker code through commands you already approved and how Docker Sandboxes limit what an attack can reach.",
+      "source_name": "Docker Blog",
+      "source_url": "https://www.docker.com/blog/coding-agent-horror-stories-the-command-you-already-approved/",
+      "published_at": "2026-08-18T13:00:00Z",
+      "category": "developer_platforms",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Containers",
+        "Developer Platforms"
+      ],
+      "confidence_score": 0.87,
+      "importance_score": 0.8358,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.docker.com/?p=92821"
+    },
+    {
+      "title": "Welcome Falkey the Falco and Ky the Kyverno Pyrenees",
+      "summary": "If you have yet to meet Phippy, she’s a friendly PHP app exploring the cloud native world with her pals. Over the last decade, Phippy’s circle has grown to include eighteen friends, with the newest members...",
+      "source_name": "CNCF",
+      "source_url": "https://www.cncf.io/blog/2026/08/17/welcome-falkey-the-falco-and-ky-the-kyverno-pyrenees/",
+      "published_at": "2026-08-17T17:50:06Z",
+      "category": "open_source_foundations",
+      "tags": [
+        "Cloud",
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8159,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.cncf.io/?p=173067"
+    },
+    {
+      "title": "CNCF Announces Kubeflow’s Graduation, Solidifying a Standard for Cloud Native AI Operations",
+      "summary": "Milestone marks widespread enterprise adoption for automating end-to-end AI and machine learning lifecycles on Kubernetes Key Highlights SAN FRANCISCO — August 17, 2026 — The Cloud Native Computing Foundation® (CNCF®), which builds sustainable ecosystems for cloud...",
+      "source_name": "CNCF",
+      "source_url": "https://www.cncf.io/announcements/2026/08/17/cncf-announces-kubeflows-graduation-solidifying-the-standard-for-cloud-native-ai-operations/",
+      "published_at": "2026-08-17T16:00:00Z",
+      "category": "open_source_foundations",
+      "tags": [
+        "AI",
+        "Machine Learning",
+        "Kubernetes",
+        "Cloud",
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8083,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.cncf.io/?p=173146"
+    },
+    {
+      "title": "How Bluesky draws its logo on screenshots",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://timmarinin.net/2026/bluesky-screenshots/",
+      "published_at": "2026-08-17T22:20:40Z",
+      "category": "aggregators",
+      "tags": [
+        "AWS",
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.8047,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49338459"
+    },
+    {
+      "title": "Quake Shareware, a CD-ROM just a little too full",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://fabiensanglard.net/quake_shareware_cd/index.html",
+      "published_at": "2026-08-17T22:06:14Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.8037,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49338328"
+    },
+    {
+      "title": "Fairphone 6 and PostmarketOS working main camera",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera",
+      "published_at": "2026-08-17T22:01:17Z",
+      "category": "aggregators",
+      "tags": [
+        "AI",
+        "Hacker News"
+      ],
+      "confidence_score": 0.6755,
+      "importance_score": 0.8034,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49338285"
+    },
+    {
+      "title": "GPT-5.6 Sol Pricing Cut by 50%",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://openrouter.ai/openai/gpt-5.6-sol",
+      "published_at": "2026-08-17T21:03:18Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7994,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49337602"
+    },
+    {
+      "title": "Israel creates fake think tank in likely attempt to dupe AI chatbots",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://responsiblestatecraft.org/israel-influence-chatgpt/",
+      "published_at": "2026-08-17T20:46:10Z",
+      "category": "aggregators",
+      "tags": [
+        "AI",
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7982,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49337392"
+    },
+    {
+      "title": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
+      "summary": "",
+      "source_name": "Hugging Face",
+      "source_url": "https://huggingface.co/blog/multi-vector-encoder",
+      "published_at": "2026-08-18T00:00:00Z",
+      "category": "ai_model_companies",
+      "tags": [
+        "Vector Databases",
+        "AI Models",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.9,
+      "importance_score": 0.7816,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://huggingface.co/blog/multi-vector-encoder"
+    },
+    {
+      "title": "Get closer to the game with Gemini and Pixel",
+      "summary": "Low-angle view of a soccer player kicking a ball mid-air against a bright blue sky, with grass flying from their cleats.",
+      "source_name": "Google AI (The Keyword)",
+      "source_url": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/",
+      "published_at": "2026-08-17T08:00:00Z",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.92,
+      "importance_score": 0.775,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/"
+    },
+    {
+      "title": "AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
+      "published_at": "2026-08-17T14:18:38Z",
+      "category": "aggregators",
+      "tags": [
+        "AI",
+        "Snowflake",
+        "Developer Tools",
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7713,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49331423"
+    },
+    {
+      "title": "A Preview of DuckDB v2.0",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://duckdb.org/2026/08/17/duckdb-20-highlights",
+      "published_at": "2026-08-17T13:46:27Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.769,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49330781"
+    },
+    {
+      "title": "The Defender’s Window",
+      "summary": "AI is reshaping cybersecurity for attackers and defenders alike. Learn how OpenAI is strengthening its defenses and what security teams can do now.",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/the-defenders-window",
+      "published_at": "2026-08-17T05:30:00Z",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI",
+        "Security",
+        "APIs",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.97,
+      "importance_score": 0.7646,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/index/the-defenders-window"
+    },
+    {
+      "title": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
+      "summary": "",
+      "source_name": "Hugging Face",
+      "source_url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
+      "published_at": "2026-08-17T19:46:21Z",
+      "category": "ai_model_companies",
+      "tags": [
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.9,
+      "importance_score": 0.764,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2"
+    },
+    {
+      "title": "Rethinking Database Programming",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://acadia.engineering/blog/rethinking-database-programming",
+      "published_at": "2026-08-18T07:28:27Z",
+      "category": "aggregators",
+      "tags": [
+        "Databases",
+        "Hacker News"
+      ],
+      "confidence_score": 0.618,
+      "importance_score": 0.7628,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49342530"
+    },
+    {
+      "title": "OpenAI joins PORTS-Pike project",
+      "summary": "OpenAI joins PORTS-Pike project, expanding community investment and supporting thousands of Southern Ohio jobs",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/openai-joins-ports-pike-project",
+      "published_at": "2026-08-17T05:00:00Z",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.97,
+      "importance_score": 0.7625,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/index/openai-joins-ports-pike-project"
+    },
+    {
+      "title": "Warp’s new system is an out-of-the-box software factory for AI development",
+      "summary": "On Tuesday, Warp introduced Warp Factories, a new infrastrructure system designed to make building AI software factories as easy as possible.",
+      "source_name": "TechCrunch - AI",
+      "source_url": "https://techcrunch.com/2026/08/18/warps-new-system-is-an-out-of-the-box-software-factory-for-ai-development/",
+      "published_at": "2026-08-18T14:00:00Z",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.76,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://techcrunch.com/?p=3153863"
+    },
+    {
+      "title": "OpenAI launches a safer ChatGPT for teens — years after teens started using it",
+      "summary": "ChatGPT for Teens adds age-appropriate safety measures, parental controls, and learning tools designed to steer teens away from harmful content — and from using AI to cheat on their homework.",
+      "source_name": "TechCrunch - AI",
+      "source_url": "https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it/",
+      "published_at": "2026-08-18T13:50:30Z",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7593,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://techcrunch.com/?p=3153830"
+    },
+    {
+      "title": "Perplexity’s free AI offer left it with millions more users in India",
+      "summary": "Perplexity's India revenue rose about 60% after the Airtel offer ended for new users, even as downloads declined.",
+      "source_name": "TechCrunch - AI",
+      "source_url": "https://techcrunch.com/2026/08/18/perplexitys-free-ai-offer-left-it-with-millions-more-users-in-india/",
+      "published_at": "2026-08-18T13:45:40Z",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.759,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://techcrunch.com/?p=3153831"
+    },
+    {
+      "title": "FLOPs vs Real Work: The Importance of Replication in AI Efficiency Assessment",
+      "summary": "arXiv:2608.14550v1 Announce Type: new Abstract: AI efficiency has recently taken the spotlight in both academy and industry due to massive model scales, high energy demands, and environmental costs. While reporting Floating Point Operations (FLOPs) is a traditional approach for assessing computational costs, the relationship between FLOPs and execution time is not straightforward, as layers with the same number of FLOPs may not have the same execution time because some…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2608.14550",
+      "published_at": "2026-08-18T04:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "AI Models",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7583,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2608.14550v1"
+    },
+    {
+      "title": "Large Language Models Show Metacognitive Sensitivity in Medical Reasoning",
+      "summary": "arXiv:2608.14552v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly evaluated and used in medicine, but clinical usefulness depends on answer accuracy and whether confidence tracks evidence quality and uncertainty. We developed a controlled, psychophysics-inspired clinical benchmark to test diagnostic choice and confidence behavior in a medical LLM. The benchmark focused on probable Alzheimer-type neurocognitive disorder (AT-NCD) versus…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2608.14552",
+      "published_at": "2026-08-18T04:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "LLMs",
+        "AI Models",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7583,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2608.14552v1"
+    },
+    {
+      "title": "The Unwritten Benchmark: A New Challenge for Multimodal Machine Learning in Abstract Perceptual Reasoning",
+      "summary": "arXiv:2608.14558v1 Announce Type: new Abstract: Current multimodal models have demonstrated remarkable proficiency in recognizing static visual and auditory content. However, their capacity for abstract perceptual reasoning, inferring unseen information from dynamic, generative processes, remains a critical and underexplored frontier. In this paper, we introduce The Unwritten Benchmark, a new challenge designed to probe this abstract perceptual and cognitive ability. We…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2608.14558",
+      "published_at": "2026-08-18T04:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "Machine Learning",
+        "GenAI",
+        "AI Models",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7583,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2608.14558v1"
+    },
+    {
+      "title": "When to Communicate: Belief Distributions and KL Divergence for Principled Gating in Multi-Agent RL",
+      "summary": "arXiv:2608.14559v1 Announce Type: new Abstract: Effective communication in multi-agent reinforcement learning requires agents to decide not only \\textit{what} to communicate, but when? Existing approaches either communicate at every timestep or learn a binary gate through REINFORCE policy gradients \\cite{singh2019}, a high-variance signal that produces unstable and uninterpretable gating behavior. I propose a principled alternative: agents communicate only when the KL…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2608.14559",
+      "published_at": "2026-08-18T04:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "AI Agents",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7583,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2608.14559v1"
+    },
+    {
+      "title": "Global AI Regulations for FAIR and Ethics in High-Risk Use Cases: A Comparative Review",
+      "summary": "arXiv:2608.14562v1 Announce Type: new Abstract: AI governance is shifting from voluntary ethics to enforceable, risk-based regulation, yet cross-jurisdictional divergence creates compliance uncertainty for operators of high-stakes AI. We present a comparative matrix for the EU, US, and China that maps (i) risk classification triggers, (ii) binding obligations, (iii) enforcement and accountability mechanisms, and (iv) the degree to which FAIR principles are operationalised in…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2608.14562",
+      "published_at": "2026-08-18T04:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "Data Governance",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7583,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2608.14562v1"
+    },
+    {
+      "title": "Position: AI Lock-In Is in Progress, and We Must Be Prepared",
+      "summary": "arXiv:2608.14565v1 Announce Type: new Abstract: AI safety research has mainly focused on two areas: technical alignment (ensuring AI systems produce human-aligned outputs) and the regulation of generative AI's societal impacts (including unemployment risk and labor market disruption). However, an equally important dimension remains underexplored: the risk inherent in dependence on AI systems themselves. In this position paper, we argue that AI safety research should address…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2608.14565",
+      "published_at": "2026-08-18T04:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "GenAI",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7583,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2608.14565v1"
+    },
+    {
+      "title": "Position: Evaluations of AI Moral Reasoning Still Miss Half of the Picture",
+      "summary": "arXiv:2608.14566v1 Announce Type: new Abstract: Recent work on evaluating the moral competence of large language models (LLMs) has focused primarily on what we call the moral value problem, i.e., whether model outputs align with human moral values. In contrast, the moral norm problem, i.e., whether models can identify and correctly apply context-sensitive moral norms, remains underexplored. We posit that this imbalance stems from the field's reliance on descriptive ethics…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2608.14566",
+      "published_at": "2026-08-18T04:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "LLMs",
+        "AI Models",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7583,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2608.14566v1"
+    },
+    {
+      "title": "From Doyle to AGM: A Survey and an Implementation Roadmap for Belief Change",
+      "summary": "arXiv:2608.14567v1 Announce Type: new Abstract: This paper presents a targeted narrative review establishing the historical and theoretical foundations for computational belief change implementation. Seeded by Doyle and London's foundational 1980 taxonomy, we trace the evolution of belief revision from computational origins through the theoretical transformation of the AGM framework to contemporary approaches. Our analysis demonstrates how pre-AGM computational pragmatism…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2608.14567",
+      "published_at": "2026-08-18T04:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7583,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2608.14567v1"
+    },
+    {
+      "title": "Position: AI Governance Needs ISO-like Interoperability Protocols, Not Just Laws",
+      "summary": "arXiv:2608.14568v1 Announce Type: new Abstract: As Artificial Intelligence (AI) systems become deeply integrated into critical global infrastructure, the urgency for robust governance frameworks has intensified. However, current approaches, led by jurisdiction-specific laws, policies, and voluntary frameworks such as the EU AI Act, China's algorithm governance, and the NIST AI Risk Management Framework in the U.S., create a fragmented regulatory landscape. In this position…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2608.14568",
+      "published_at": "2026-08-18T04:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "AWS",
+        "Data Governance",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7583,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2608.14568v1"
+    },
+    {
+      "title": "Position: Certified Correctness in Neural Constraint Reasoning Requires Symbolic Integration",
+      "summary": "arXiv:2608.14569v1 Announce Type: new Abstract: Neural solvers for constraint satisfaction problems have achieved remarkable in-distribution accuracy, yet they suffer from a fundamental limitation persistent constraint violations occur under distribution shifts even when the model reports high confidence. This position paper argues that when hard constraints exist and the cost of verification is relatively low, neural constraint reasoning must prioritize symbolic integration…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2608.14569",
+      "published_at": "2026-08-18T04:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "AI Models",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7583,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2608.14569v1"
+    },
+    {
+      "title": "Position: Want Better ML Reviews? Stop Asking Nicely and Start Incentivizing with a Credit System",
+      "summary": "arXiv:2608.14571v1 Announce Type: new Abstract: With soaring submission counts, stricter reciprocal review policies, widespread adoption of platforms like OpenReview, and without the offsetting pressure of publication fees, the machine learning (ML) community has one of the largest scholarly presences among all scientific fields. And yet, \\textbf{almost \\textit{everyone} has \\textit{many} unpleasant things to share about their review experience.} Worse, there is little…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2608.14571",
+      "published_at": "2026-08-18T04:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "Machine Learning",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7583,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2608.14571v1"
+    },
+    {
+      "title": "Longitudinal and Graph-Augmented Prediction of Adolescent Substance Use Onset in the ABCD Study",
+      "summary": "arXiv:2608.14578v1 Announce Type: new Abstract: Early identification of adolescent substance-use risk is an important prevention challenge, yet the relative value of baseline characteristics, longitudinal trajectories, and relational context remains unclear. Using data from approximately 11,860 participants in the Adolescent Brain Cognitive Development (ABCD) Study, we compare cross-sectional, longitudinal, and graph-based approaches for predicting alcohol sipping, alcohol…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2608.14578",
+      "published_at": "2026-08-18T04:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7583,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2608.14578v1"
+    },
+    {
+      "title": "Learning Discrete Riemannian Metrics for Physical Fields with Cochain-Frame Equivarianc",
+      "summary": "arXiv:2608.14556v1 Announce Type: new Abstract: Physical fields on meshes require a separation between topology and geometry: conservation laws are topological and should be exact, while geometry, material response, and anisotropic coupling must be learned from data. Existing neural surrogates often mix these roles inside unconstrained message passing. We introduce Riemannian Hodge Message Passing (RHMP), which turns this separation into an architectural principle. RHMP…",
+      "source_name": "arXiv cs.LG (Machine Learning)",
+      "source_url": "https://arxiv.org/abs/2608.14556",
+      "published_at": "2026-08-18T04:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "AWS",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7583,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2608.14556v1"
+    },
+    {
+      "title": "Forward Pass Domain Adaptation (Without Cross-Layer Backpropagation)",
+      "summary": "arXiv:2608.14563v1 Announce Type: new Abstract: Forward-Pass-Only MLP training (FPO) adapts large language models without a backward pass through the model body, achieving 2.7--3.2x the throughput of standard fine-tuning at ~40% less peak training memory, while leaving off-domain benchmarks within seed-noise of baseline, a property that full-network fine-tuning does not reliably reproduce. FPO rests on a single empirical observation: at late layers of a transformer, the…",
+      "source_name": "arXiv cs.LG (Machine Learning)",
+      "source_url": "https://arxiv.org/abs/2608.14563",
+      "published_at": "2026-08-18T04:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "LLMs",
+        "AI Models",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7583,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2608.14563v1"
+    },
+    {
+      "title": "Coarse-to-Fine Multi-Resolution Diffusion Models for Trajectory Generation in Urban Systems",
+      "summary": "arXiv:2608.14570v1 Announce Type: new Abstract: Understanding human mobility is critical for a wide range of urban applications, including traffic management, epidemic control, and urban planning. However, due to privacy concerns, the availability of large-scale public trajectory data remains limited, posing challenges for downstream mobility analysis. Existing methods for synthetic trajectory generation primarily focus on matching global distribution similarity, while often…",
+      "source_name": "arXiv cs.LG (Machine Learning)",
+      "source_url": "https://arxiv.org/abs/2608.14570",
+      "published_at": "2026-08-18T04:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "AI Models",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7583,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2608.14570v1"
+    },
+    {
+      "title": "Geometry Is Not Robustness: A Trajectory-Level Study of PGD Evaluation",
+      "summary": "arXiv:2608.14594v1 Announce Type: new Abstract: Projected Gradient Descent (PGD) is widely used to evaluate adversarial robustness, typically via final adversarial accuracy, which does not capture model behaviour throughout the attack. Recent work proposes trajectory-level diagnostics, such as loss evolution, gradient alignment, and steps-to-failure, for deeper insight into adversarial optimisation dynamics. However, whether these diagnostics reliably indicate robustness…",
+      "source_name": "arXiv cs.LG (Machine Learning)",
+      "source_url": "https://arxiv.org/abs/2608.14594",
+      "published_at": "2026-08-18T04:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "AI Models",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7583,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2608.14594v1"
+    },
+    {
+      "title": "DumpsterCluster: From Dumpster Diving to Serving LLaMA-70B on $60 GPUs",
+      "summary": "arXiv:2608.14614v1 Announce Type: new Abstract: As AI datacenters retire functional GPUs, vast quantities of still capable accelerators enter secondary markets. This paper investigates whether these retired GPUs can find a productive afterlife to form a DumpsterCluster that can serve modern LLM inference, and under what conditions such repurposing is economically viable and environmentally sustainable. We physically built a 128-GPU DumpsterCluster from scratch using only…",
+      "source_name": "arXiv cs.LG (Machine Learning)",
+      "source_url": "https://arxiv.org/abs/2608.14614",
+      "published_at": "2026-08-18T04:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "LLMs",
+        "GPUs",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7583,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2608.14614v1"
+    },
+    {
+      "title": "Calibrated Trust, Not Sharper Prediction: An Empirical Test of Uncertainty Fusion",
+      "summary": "arXiv:2608.14617v1 Announce Type: new Abstract: A recurring proposal in legal AI is to improve case-outcome prediction by fusing uncertainty tools (evidence graphs with belief propagation, sequential Bayesian odds updating, Dempster-Shafer combination, and conformal prediction) into one pipeline. We test this on 1,000 real European Court of Human Rights cases from LexGLUE and FairLex, predicting whether the Court found a Convention violation from the case's fact paragraphs…",
+      "source_name": "arXiv cs.LG (Machine Learning)",
+      "source_url": "https://arxiv.org/abs/2608.14617",
+      "published_at": "2026-08-18T04:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "Data Pipelines",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7583,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2608.14617v1"
+    },
+    {
+      "title": "PIKFNO: An Interpretable Neural Operator Based on Physics Informed Kernel Function",
+      "summary": "arXiv:2608.14619v1 Announce Type: new Abstract: This work proposes a new interpretable neural operator framework, termed the Physics Informed Kernel Function Neural Operator (PIKFNO), which explicitly incorporates physics informed kernel functions derived from governing equations into the neural operator architecture. Unlike traditional neural operators such as DeepONet, which rely on deep networks to implicitly learn basis functions, PIKFNO constrains the trunk network…",
+      "source_name": "arXiv cs.LG (Machine Learning)",
+      "source_url": "https://arxiv.org/abs/2608.14619",
+      "published_at": "2026-08-18T04:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7583,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2608.14619v1"
+    },
+    {
+      "title": "Explaining Reinforcement Learning Decisions in Self-adaptive Systems",
+      "summary": "arXiv:2608.14620v1 Announce Type: new Abstract: Reinforcement Learning (RL) has been extensively used in autonomous and self-* systems, but RL policies, especially deep RL ones relying on neural networks, lack transparency and are difficult to understand. This can lead to diminished user trust, and makes for a more challenging verification of systems. To address this challenge, this paper introduces Explanations using Alternative Realities for Reinforcement Learning (EARL)…",
+      "source_name": "arXiv cs.LG (Machine Learning)",
+      "source_url": "https://arxiv.org/abs/2608.14620",
+      "published_at": "2026-08-18T04:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7583,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2608.14620v1"
+    }
+  ]
+}
