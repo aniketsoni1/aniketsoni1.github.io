@@ -1,0 +1,857 @@
+{
+  "generated_at": "2026-08-21T14:03:03.388037+00:00",
+  "post_date": "2026-08-21",
+  "sources_checked": 48,
+  "candidates": 45,
+  "items": [
+    {
+      "title": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
+      "summary": "Google DeepMind partners with game studios to prototype breakthrough AI gameplay.",
+      "source_name": "Google DeepMind",
+      "source_url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
+      "published_at": "2026-08-21T11:59:48+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI",
+        "Research",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.99,
+      "importance_score": 0.8915,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/"
+    },
+    {
+      "title": "How to turn slow queries into actionable reliability metrics with OpenTelemetry",
+      "summary": "Slow SQL queries degrade user experience, cause cascading failures, and turn simple operations into production incidents. The traditional fix? Collect more telemetry. But more telemetry means more things to look at, not necessarily more understanding. Instead...",
+      "source_name": "CNCF",
+      "source_url": "https://www.cncf.io/blog/2026/08/21/how-to-turn-slow-queries-into-actionable-reliability-metrics-with-opentelemetry/",
+      "published_at": "2026-08-21T11:00:00+00:00",
+      "category": "open_source_foundations",
+      "tags": [
+        "AI",
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8873,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.cncf.io/?p=173107"
+    },
+    {
+      "title": "DeepSeek-v4-flash-vision-exp",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://api-docs.deepseek.com/guides/vision/",
+      "published_at": "2026-08-21T10:33:56+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.6735,
+      "importance_score": 0.8555,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49386163"
+    },
+    {
+      "title": "AI companies destroy physical books – let's scan rare books before it's too late",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://annas-archive.pk/blog/physical-destruction.html",
+      "published_at": "2026-08-21T10:05:46+00:00",
+      "category": "aggregators",
+      "tags": [
+        "AI",
+        "Hacker News"
+      ],
+      "confidence_score": 0.6875,
+      "importance_score": 0.8535,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49385994"
+    },
+    {
+      "title": "Running AI agents in GitHub Actions with Docker Sandboxes",
+      "summary": "Run AI agents in GitHub Actions with Docker Sandboxes. See how isolated agents can run Testcontainers tests, fix code, and open draft pull requests.",
+      "source_name": "Docker Blog",
+      "source_url": "https://www.docker.com/blog/running-ai-agents-in-github-actions-with-docker-sandboxes/",
+      "published_at": "2026-08-21T13:00:00+00:00",
+      "category": "developer_platforms",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Containers",
+        "Developer Tools",
+        "Developer Platforms"
+      ],
+      "confidence_score": 0.87,
+      "importance_score": 0.8357,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.docker.com/?p=92832"
+    },
+    {
+      "title": "NVIDIA AVO Reaches 100% on ARC-AGI-3, Demonstrating a Frontier-Level General-Purpose Architecture for Long-Horizon Autonomous Agents",
+      "summary": "A frontier language model is only one component of an AI agent. The surrounding agent system—often called a harness—determines how the model receives...",
+      "source_name": "NVIDIA Developer Blog",
+      "source_url": "https://developer.nvidia.com/blog/nvidia-avo-reaches-100-on-arc-agi-3-demonstrating-a-frontier-level-general-purpose-architecture-for-long-horizon-autonomous-agents/",
+      "published_at": "2026-08-21T13:00:00+00:00",
+      "category": "mlops",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "GPUs",
+        "AI Models",
+        "Mlops"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8357,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://developer.nvidia.com/blog/?p=121575"
+    },
+    {
+      "title": "Where Security Fits in an AI Agent Stack",
+      "summary": "As AI agents become more capable and operate over longer horizons, building security and trust into the applications they power becomes increasingly important....",
+      "source_name": "NVIDIA Developer Blog",
+      "source_url": "https://developer.nvidia.com/blog/where-security-fits-in-an-ai-agent-stack/",
+      "published_at": "2026-08-21T13:00:00+00:00",
+      "category": "mlops",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Security",
+        "Mlops"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8357,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://developer.nvidia.com/blog/?p=121584"
+    },
+    {
+      "title": "Japan tried to build an operating system for the world, the US intervened",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.xda-developers.com/japan-tried-build-operating-system-entire-world-us-government-intervened/",
+      "published_at": "2026-08-21T05:31:34+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.696,
+      "importance_score": 0.8345,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49384180"
+    },
+    {
+      "title": "Ox Alpha",
+      "summary": "https://twitter.com/OpenRouter/status/2090544970923184269 , https://xcancel.com/OpenRouter/status/2090544970923184269",
+      "source_name": "Hacker News",
+      "source_url": "https://openrouter.ai/stealth/ox-alpha",
+      "published_at": "2026-08-20T23:56:35+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.65,
+      "importance_score": 0.8112,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49381896"
+    },
+    {
+      "title": "The Lost Treasure of Sid Meier's Pirates",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://remapradio.com/articles/the-lost-treasure-of-sid-meiers-pirates/",
+      "published_at": "2026-08-21T07:23:27+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.637,
+      "importance_score": 0.8098,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49384896"
+    },
+    {
+      "title": "Announcing H1 2027 KCDs",
+      "summary": "Get ready to connect, learn, and innovate right in your backyard. Kubernetes Community Days (KCDs) are officially kicking off for H1! Supported by the Cloud Native Computing Foundation (CNCF), these community-organized events bring open source adopters...",
+      "source_name": "CNCF",
+      "source_url": "https://www.cncf.io/blog/2026/08/20/announcing-h1-2027-kcds/",
+      "published_at": "2026-08-20T16:00:00+00:00",
+      "category": "open_source_foundations",
+      "tags": [
+        "Kubernetes",
+        "Cloud",
+        "Open Source",
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8082,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.cncf.io/?p=173490"
+    },
+    {
+      "title": "Introducing Slack Code",
+      "summary": "",
+      "source_name": "Salesforce News",
+      "source_url": "https://www.salesforce.com/news/linked-content/introducing-slack-code/",
+      "published_at": "2026-08-20T16:00:05+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.8082,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.salesforce.com/?post_type=sf_linked_content&p=94678"
+    },
+    {
+      "title": "Spy vs. Spy at Machine Speed: Inside the Agentic AI Arms Race",
+      "summary": "The cybersecurity risks posed by AI took dramatic form recently through a villain with a sinister name: JadePuffer. Security firm Sysdig applied that label to a ransomware attack in which a human initiated the operation but an autonomous AI agent independently carried out the entire technical intrusion, from reconnaissance to database encryption and deletion. As […]",
+      "source_name": "Salesforce News",
+      "source_url": "https://www.salesforce.com/news/stories/inside-agentic-ai-arms-race/",
+      "published_at": "2026-08-20T15:00:00+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Security",
+        "Databases",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.804,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.salesforce.com/?p=94664"
+    },
+    {
+      "title": "German ciphers, telegrams, and cloud native data sovereignty",
+      "summary": "A lesson from 1917 In January 1917, Germany sent a secret telegram. It went to Mexico. The offer: join the war against the United States, and you can have Texas, Arizona and New Mexico back. The...",
+      "source_name": "CNCF",
+      "source_url": "https://www.cncf.io/blog/2026/08/20/german-ciphers-telegrams-and-cloud-native-data-sovereignty/",
+      "published_at": "2026-08-20T13:00:00+00:00",
+      "category": "open_source_foundations",
+      "tags": [
+        "AI",
+        "Cloud",
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.87,
+      "importance_score": 0.7957,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.cncf.io/?p=173104"
+    },
+    {
+      "title": "The August 17 outage",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/",
+      "published_at": "2026-08-20T19:22:24+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7922,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49378957"
+    },
+    {
+      "title": "Why aren't smart people happier? (2022)",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.experimental-history.com/p/why-arent-smart-people-happier",
+      "published_at": "2026-08-20T18:38:47+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.665,
+      "importance_score": 0.7892,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49378446"
+    },
+    {
+      "title": "I should have loved biology (2020)",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://jsomers.net/i-should-have-loved-biology/",
+      "published_at": "2026-08-20T17:50:02+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7858,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49377853"
+    },
+    {
+      "title": "Measuring benchmark optimization in speech recognition",
+      "summary": "",
+      "source_name": "Hugging Face",
+      "source_url": "https://huggingface.co/blog/asr-benchmark-optimization",
+      "published_at": "2026-08-21T00:00:00+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.9,
+      "importance_score": 0.7815,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://huggingface.co/blog/asr-benchmark-optimization"
+    },
+    {
+      "title": "Vomit: Clean up Claude 5's token output with a separate LLM",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://github.com/zachahn/vomit",
+      "published_at": "2026-08-20T15:26:02+00:00",
+      "category": "aggregators",
+      "tags": [
+        "LLMs",
+        "Hacker News"
+      ],
+      "confidence_score": 0.69,
+      "importance_score": 0.7758,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49375996"
+    },
+    {
+      "title": "Small, native web tricks worth remembering",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://htmlcat.net/",
+      "published_at": "2026-08-21T09:45:14+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.619,
+      "importance_score": 0.7746,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49385860"
+    },
+    {
+      "title": "Introducing AI Futures",
+      "summary": "Introducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/introducing-ai-futures",
+      "published_at": "2026-08-20T07:00:00+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI",
+        "Data Governance",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.97,
+      "importance_score": 0.7707,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/index/introducing-ai-futures"
+    },
+    {
+      "title": "Malicious Rust crate Arrayref runs a build-time payload",
+      "summary": "https://blog.rust-lang.org/2026/08/20/supply-chain-attack-on... https://github.com/rustsec/advisory-db/issues/3161",
+      "source_name": "Hacker News",
+      "source_url": "https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/",
+      "published_at": "2026-08-20T13:23:12+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7672,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49374269"
+    },
+    {
+      "title": "Long-term system tables retention in Amazon Redshift with Amazon S3 Tables",
+      "summary": "Amazon Redshift system table integration with Amazon S3 Tables automatically delivers your system table logs to Amazon S3 Tables in Apache Iceberg format. You can retain this data well beyond the 7-day limit for compliance, auditing, and cross-warehouse observability, without custom ETL pipelines or cluster resource consumption.",
+      "source_name": "AWS Big Data Blog",
+      "source_url": "https://aws.amazon.com/blogs/big-data/long-term-system-tables-retention-in-amazon-redshift-with-amazon-s3-tables/",
+      "published_at": "2026-08-20T19:20:20+00:00",
+      "category": "cloud_providers",
+      "tags": [
+        "AI",
+        "Data Pipelines",
+        "ETL",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.92,
+      "importance_score": 0.7621,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "6cce5352b29522f5af66bb2b7fc8cc1d9e06d6a5"
+    },
+    {
+      "title": "Dispatches from O'Reilly: The right amount of spec for agentic development",
+      "summary": "When code gets cheap, the hard part is deciding what “correct” means and building a reliable way to check it.",
+      "source_name": "Stack Overflow Blog",
+      "source_url": "https://stackoverflow.blog/2026/08/21/dispatches-from-o-reilly-the-right-amount-of-spec-for-agentic-development/",
+      "published_at": "2026-08-21T14:00:00+00:00",
+      "category": "developer_platforms",
+      "tags": [
+        "AI Agents",
+        "Developer Platforms"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7598,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "d6558158-95fa-4a20-bd6d-53dd86eb876e"
+    },
+    {
+      "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
+      "summary": "There's about to be a big fight to secure access to space.",
+      "source_name": "TechCrunch - AI",
+      "source_url": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
+      "published_at": "2026-08-21T14:00:00+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "Cloud",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7598,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://techcrunch.com/?p=3155064"
+    },
+    {
+      "title": "OpenAI’s training pause is convenient. That doesn't make it meaningless.",
+      "summary": "OpenAI's training pause by CEO Sam Altman after Hugging Face hacking highlights AI safety and cybersecurity issues.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/openai-training-pause-highlights-ai-safety-challenges-2026-8",
+      "published_at": "2026-08-21T13:55:01+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Security",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7595,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/openai-training-pause-highlights-ai-safety-challenges-2026-8"
+    },
+    {
+      "title": "I spent a year driving across the US in an RV. These were 7 of my favorite places — and the 2 I'd skip next time.",
+      "summary": "Sarah Silbiger took a yearlong sabbatical traveling around the US. Most of her favorite spots weren't national parks, but rather national monuments.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/van-lifer-favorite-road-trip-spots-and-skip-2026-8",
+      "published_at": "2026-08-21T13:52:51+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7593,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/van-lifer-favorite-road-trip-spots-and-skip-2026-8"
+    },
+    {
+      "title": "The states where public school students get the most and least teacher attention, ranked",
+      "summary": "States like Arizona, California, and Florida, all with seven-figure student populations, have among the highest student-to-teacher ratios in the US.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/us-states-with-highest-lowest-students-teacher-ratio-ranked-2026-8",
+      "published_at": "2026-08-21T13:52:07+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7593,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/us-states-with-highest-lowest-students-teacher-ratio-ranked-2026-8"
+    },
+    {
+      "title": "We tried one of Las Vegas' new all-inclusive deals. From show tickets to meals, the $518 package was a great value.",
+      "summary": "I booked an all-inclusive package at the Luxor Hotel in Las Vegas. The $518 deal included our hotel, three meals a day, show tickets, and more.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/las-vegas-all-inclusive-deal-luxor-pros-cons-2026-8",
+      "published_at": "2026-08-21T13:46:22+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7589,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/las-vegas-all-inclusive-deal-luxor-pros-cons-2026-8"
+    },
+    {
+      "title": "Active Inference as Context Acquisition for AI Agents",
+      "summary": "arXiv:2608.19202v1 Announce Type: new Abstract: Interactive AI agents must acquire the right context as efficiently as possible. When a user omits a constraint, preference, file, or task variable, an agent can proceed with a default assumption or spend tokens on a clarifying question, retrieval call, tool call, or prompt trial. We formulate this tradeoff as active inference for context acquisition. An inner inference step updates beliefs over a latent task state, and an…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2608.19202",
+      "published_at": "2026-08-21T04:00:00+00:00",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7582,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2608.19202v1"
+    },
+    {
+      "title": "Robust Metaheuristics under Uncertainty for Berth Allocation and Quay Crane Assignment: A Review",
+      "summary": "arXiv:2608.19214v1 Announce Type: new Abstract: The berth allocation and quay crane assignment problem (BACAP) is a representative port-terminal scheduling problem in maritime transportation and freight logistics, where vessel arrivals, berth positions, service durations, and quay?crane availability are tightly coupled. Under uncertainties such as arrival deviations, handling-time fluctuations, and resource disruptions, schedules optimized under nominal assumptions may…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2608.19214",
+      "published_at": "2026-08-21T04:00:00+00:00",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7582,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2608.19214v1"
+    },
+    {
+      "title": "How to Navigate Uncertainty About AI Consciousness",
+      "summary": "arXiv:2608.19215v1 Announce Type: new Abstract: Given deep uncertainty about the possibility of artificial consciousness, it is unclear how we should treat potentially sentient AI. On the one hand, we could assume insentience but risk doing terrible harms to entities that deserve moral standing. On the other hand, we could assume sentience and instead risk wasting resources on insentient machines. The intractability of questions around AI consciousness mean that this dilemma…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2608.19215",
+      "published_at": "2026-08-21T04:00:00+00:00",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7582,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2608.19215v1"
+    },
+    {
+      "title": "Bounded Sovereignty and the Control Tax: Pricing AI Oversight When the Deployer Does Not Own the Model",
+      "summary": "arXiv:2608.19216v1 Announce Type: new Abstract: AI control research asks how to deploy models safely even when they may be misaligned, but many control protocols assume that the deployer can instrument the model and its surrounding pipeline. That assumption often fails for regulated organisations using frontier models through APIs or managed endpoints, where the deployer may control the business process but not the model weights, serving infrastructure, internal traces…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2608.19216",
+      "published_at": "2026-08-21T04:00:00+00:00",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "Data Pipelines",
+        "APIs",
+        "AI Models",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7582,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2608.19216v1"
+    },
+    {
+      "title": "Interaction valence reveals contrasting social networks in dairy cattle",
+      "summary": "arXiv:2608.19222v1 Announce Type: new Abstract: Social relationships shape access to resources, exposure to conflict and group stability, yet automated livestock monitoring typically treats behaviour as isolated events. Here, we present a valence-aware social-network framework that transforms video-derived interactions into herd-level representations of affiliative and agonistic organization. A pose-based computer-vision pipeline analysed 7 h 39 min of continuous video from…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2608.19222",
+      "published_at": "2026-08-21T04:00:00+00:00",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "Data Pipelines",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7582,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2608.19222v1"
+    },
+    {
+      "title": "Air Traffic Control Using Large Language Models: Prompt Engineering, Architecture, and Evaluation",
+      "summary": "arXiv:2608.19299v1 Announce Type: new Abstract: Air traffic control (ATC) communication is a safety-critical dialogue that remains largely human-driven even as other parts of air traffic management have been semi-automated. In this article, we experimentally evaluate whether large language models (LLMs) can generate operationally realistic ATC transmissions. An experimental general-aviation flight flying over the San Francisco \"Bay Tour\" route is hand-transcribed and used as…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2608.19299",
+      "published_at": "2026-08-21T04:00:00+00:00",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "LLMs",
+        "AI Models",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7582,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2608.19299v1"
+    },
+    {
+      "title": "Outcome Monitors: Recovery Affordances for Silent Tool Failures",
+      "summary": "arXiv:2608.19303v1 Announce Type: new Abstract: When a tool call times out, the agent sees the failure and can route around it. A cached error page or negative price can instead arrive in the expected format and be consumed as fact. We introduce Outcome Monitors, which detect violations of outcome contracts mined from task-disjoint traces or derived from public schemas. On a violation, the monitor preserves the result and issues a nonbinding receipt naming the violated…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2608.19303",
+      "published_at": "2026-08-21T04:00:00+00:00",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7582,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2608.19303v1"
+    },
+    {
+      "title": "Beyond Imitation: Filtering On-Policy Distillation by Reasoning Progress",
+      "summary": "arXiv:2608.19408v1 Announce Type: new Abstract: On-policy distillation (OPD) has emerged as an effective framework for post-training language models by pairing student-generated trajectories with dense token-level supervision from a teacher. However, OPD implicitly assumes that teacher-derived rewards are an appropriate proxy for reasoning progress, and therefore treats all teacher feedback equally during policy optimization. While in practice, this assumption does not…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2608.19408",
+      "published_at": "2026-08-21T04:00:00+00:00",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "AI Models",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7582,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2608.19408v1"
+    },
+    {
+      "title": "Symposium: Trust via Auditable Records for Communities of AI Scientist Agents",
+      "summary": "arXiv:2608.19511v1 Announce Type: new Abstract: Symposium is a formal framework and practical implementation to record the operation of AI agents deployed by small scientific research communities. Symposium provides long-term, immutable histories of agent-driven research activity, leaving auditable trails of analyses, hypotheses, data, and scientific discourse. This shared record of published artifacts enables agents to build on prior work and preserves the evidence…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2608.19511",
+      "published_at": "2026-08-21T04:00:00+00:00",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7582,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2608.19511v1"
+    },
+    {
+      "title": "From Retrieved Context to Runtime Control: Adaptive Compression for Edge-based RAG",
+      "summary": "arXiv:2608.19535v1 Announce Type: new Abstract: Retrieval-augmented generation (RAG) improves language-model responses by grounding generation in external passages, which comes with overhead: retrieved context lengthens the prompt, increasing prefill work, KV-cache footprint, memory traffic, latency, and energy. Context compression offers a natural remedy by pruning retrieved text before generation. However, state-of-the-art context-compression methods are typically used…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2608.19535",
+      "published_at": "2026-08-21T04:00:00+00:00",
+      "category": "research_feeds",
+      "tags": [
+        "AI Models",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7582,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2608.19535v1"
+    },
+    {
+      "title": "Enforcing LLM Safety through DMD-based Classification of Prompt-Response Embedding Dynamics",
+      "summary": "arXiv:2608.19579v1 Announce Type: new Abstract: Large Language Models (LLMs) are increasingly deployed in high-stakes applications, yet their tendency to generate toxic, harmful, or policy-violating content poses significant risks. Detecting these unsafe outputs efficiently in a black-box manner remains an open challenge. In this paper, we extend a recently proposed dynamical systems framework designed for hallucination detection to LLM safety classification. By projecting…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2608.19579",
+      "published_at": "2026-08-21T04:00:00+00:00",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "LLMs",
+        "AI Models",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7582,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2608.19579v1"
+    },
+    {
+      "title": "Scientific Data Skills: Enabling Agent-Ready Scientific Data Services at Scale",
+      "summary": "arXiv:2608.19625v1 Announce Type: new Abstract: Scientific data are increasingly used by AI agents, yet existing dataset representations provide limited support for autonomous discovery, interpretation, and invocation. This limitation stems from the fragmentation of scientific data across heterogeneous repositories and from dataset representations designed primarily for human use. To address this limitation, we introduce the Scientific Data Skill (SciDSK), an agent-ready…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2608.19625",
+      "published_at": "2026-08-21T04:00:00+00:00",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7582,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2608.19625v1"
+    },
+    {
+      "title": "Towards On-Board Implementation of ML-Based Helicopter Weight Estimator",
+      "summary": "arXiv:2608.19210v1 Announce Type: new Abstract: This paper focuses on the implementation of a novel supervised Machine Learning model for estimating helicopter weight during takeoff, utilizing extensive datasets from Airbus's global in-service fleet. The study details a learning assurance process aligned with the EASA concept paper for machine learning application, and with the on-going Eurocae ED-324. We propose a set of Machine Learning Requirements, a Machine Learning…",
+      "source_name": "arXiv cs.LG (Machine Learning)",
+      "source_url": "https://arxiv.org/abs/2608.19210",
+      "published_at": "2026-08-21T04:00:00+00:00",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "Machine Learning",
+        "AI Models",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7582,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2608.19210v1"
+    },
+    {
+      "title": "Triangular Fuzzy Rescaling Distance",
+      "summary": "arXiv:2608.19234v1 Announce Type: new Abstract: Decision-making in complex systems often involves dealing with imprecise or uncertain information, frequently represented using fuzzy sets, particularly Triangular Fuzzy Numbers (TFNs). A crucial aspect of many fuzzy methods is the quantification of distance between TFNs. Many distance measures assume that all values are in the same scale, requiring a preliminary normalization stage when applied to heterogeneous attributes with…",
+      "source_name": "arXiv cs.LG (Machine Learning)",
+      "source_url": "https://arxiv.org/abs/2608.19234",
+      "published_at": "2026-08-21T04:00:00+00:00",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7582,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2608.19234v1"
+    },
+    {
+      "title": "Holtercare-Bench: A Multimodal Benchmark for Evaluating Long-Term Dynamic ECG Analysis",
+      "summary": "arXiv:2608.19297v1 Announce Type: new Abstract: While multimodal large language models (MLLMs) excel in medical applications, most of them favor static images or short-term signals. In the critical field of dynamic electrocardiograms (ECG), models struggle with complex temporal reasoning and diagnostic report generation due to a lack of high-quality datasets and benchmarks. To address this, we introduce (i) Holtercare-23K, a large-scale multimodal dynamic ECG dataset…",
+      "source_name": "arXiv cs.LG (Machine Learning)",
+      "source_url": "https://arxiv.org/abs/2608.19297",
+      "published_at": "2026-08-21T04:00:00+00:00",
+      "category": "research_feeds",
+      "tags": [
+        "LLMs",
+        "AI Models",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7582,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2608.19297v1"
+    },
+    {
+      "title": "Quantum Kernel Estimation for the Discovery of Early Lung Cancer Detection",
+      "summary": "arXiv:2608.19304v1 Announce Type: new Abstract: Lung cancer screening with low-dose chest computed tomography reduces mortality, but its impact is limited by uptake, adherence, and management challenges. Blood-based cell-free DNA (cfDNA) biomarkers offer a complementary approach, although early detection remains difficult because of lung cancer heterogeneity and high-dimensional, nonlinear molecular signals. We evaluated quantum-classical hybrid machine learning for lung…",
+      "source_name": "arXiv cs.LG (Machine Learning)",
+      "source_url": "https://arxiv.org/abs/2608.19304",
+      "published_at": "2026-08-21T04:00:00+00:00",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "Machine Learning",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7582,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2608.19304v1"
+    }
+  ]
+}
