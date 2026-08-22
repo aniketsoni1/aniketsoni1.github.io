@@ -1,0 +1,807 @@
+{
+  "post_date": "2026-08-22",
+  "sources_checked": 48,
+  "count": 45,
+  "items": [
+    {
+      "title": "Canada suspends trade negotiations with USA and match tariffs dollar for dollar",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.pm.gc.ca/en/news/statements/2026/08/21/statement-prime-minister-carney-canada-us-trade-negotiations",
+      "published_at": "2026-08-22T10:26:09Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.856,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49398304"
+    },
+    {
+      "title": "There's no reason for software to be slow anymore",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://danluu.com/perf-opt/",
+      "published_at": "2026-08-22T01:06:17Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.8171,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49395628"
+    },
+    {
+      "title": "Rust Glancer: Rust LSP using 100x less RAM",
+      "summary": "https://matklad.github.io/2026/08/21/rust-glancer.html",
+      "source_name": "Hacker News",
+      "source_url": "https://rust-glancer.github.io/blog/hello-world/",
+      "published_at": "2026-08-21T19:51:54Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7953,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49393052"
+    },
+    {
+      "title": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
+      "summary": "Google DeepMind partners with game studios to prototype breakthrough AI gameplay.",
+      "source_name": "Google DeepMind",
+      "source_url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
+      "published_at": "2026-08-21T11:59:48Z",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI",
+        "Research",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.97,
+      "importance_score": 0.7925,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/"
+    },
+    {
+      "title": "Scientists release biggest 2D map of the universe",
+      "summary": "Direct link to Legacy Survey Sky Viewer: https://viewer.legacysurvey.org",
+      "source_name": "Hacker News",
+      "source_url": "https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/",
+      "published_at": "2026-08-21T18:36:34Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.6605,
+      "importance_score": 0.79,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49392200"
+    },
+    {
+      "title": "How to turn slow queries into actionable reliability metrics with OpenTelemetry",
+      "summary": "Slow SQL queries degrade user experience, cause cascading failures, and turn simple operations into production incidents. The traditional fix? Collect more telemetry. But more telemetry means more things to look at, not necessarily more understanding. Instead...",
+      "source_name": "CNCF",
+      "source_url": "https://www.cncf.io/blog/2026/08/21/how-to-turn-slow-queries-into-actionable-reliability-metrics-with-opentelemetry/",
+      "published_at": "2026-08-21T11:00:00Z",
+      "category": "open_source_foundations",
+      "tags": [
+        "AI",
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.87,
+      "importance_score": 0.7884,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.cncf.io/?p=173107"
+    },
+    {
+      "title": "Kobo can run apps now",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://bandarlabs.github.io/Cobalt/",
+      "published_at": "2026-08-21T16:25:25Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7809,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49390427"
+    },
+    {
+      "title": "Felony Bench",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.felonybench.com/",
+      "published_at": "2026-08-21T15:17:04Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7762,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49389430"
+    },
+    {
+      "title": "Three important steps in my maturation process",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/",
+      "published_at": "2026-08-21T22:29:00Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.638,
+      "importance_score": 0.7762,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49394496"
+    },
+    {
+      "title": "Claudette: Make Claude stop talking like a BuzzFeed article",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://github.com/adnanakil/nobuzz/blob/main/README.md",
+      "published_at": "2026-08-21T14:31:52Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7731,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49388752"
+    },
+    {
+      "title": "Kagi added a setting for removing paywalled links from search results",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://kagi.com/changelog#11296",
+      "published_at": "2026-08-21T13:56:37Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7706,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49388154"
+    },
+    {
+      "title": "I accidentally logged hundreds of thousands of phone calls to military bases",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://lina.sh/blog/hijacking-e164-arpa",
+      "published_at": "2026-08-21T13:11:28Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7675,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49387570"
+    },
+    {
+      "title": "New Worlds: We are living in the future of J.G. Ballard or William Gibson",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://precastreinforced.co.uk/2026/08/16/new-worlds/",
+      "published_at": "2026-08-21T13:07:26Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.6795,
+      "importance_score": 0.7672,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49387525"
+    },
+    {
+      "title": "Felony charges for citizen deleting phone data at US Border",
+      "summary": "https://archive.ph/SflVC https://www.youtube.com/watch?v=_2rokxux5cU",
+      "source_name": "Hacker News",
+      "source_url": "https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html",
+      "published_at": "2026-08-21T12:10:13Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7632,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49386895"
+    },
+    {
+      "title": "I'm becoming AI-blind",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://cymerys.com/w/im-becoming-ai-blind",
+      "published_at": "2026-08-21T11:48:05Z",
+      "category": "aggregators",
+      "tags": [
+        "AI",
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7617,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49386699"
+    },
+    {
+      "title": "AWS Glue 6.0 now available with 30% lower price and full Apache Iceberg v3 support",
+      "summary": "AWS Glue 6.0 is built on a fully modernized runtime, Apache Spark 4.1, Python 3.12, and Scala 2.13, delivering 30% lower pricing than previous AWS Glue versions.",
+      "source_name": "AWS News Blog",
+      "source_url": "https://aws.amazon.com/blogs/aws/aws-glue-6-0-now-available-with-30-lower-price-and-full-apache-iceberg-v3-support/",
+      "published_at": "2026-08-21T18:53:26Z",
+      "category": "cloud_providers",
+      "tags": [
+        "AI",
+        "Apache Spark",
+        "AWS",
+        "Python",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.7612,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "3e7f6047f5812686137b8832bd55b853dd906a34"
+    },
+    {
+      "title": "Mark Zuckerberg Buys an Irish Castle",
+      "summary": "The prominent landowner has added a nearly 200-year-old estate to his holdings. Archival information says it can take “a brisk walk of 4½ minutes to reach the dining room from the kitchen.”",
+      "source_name": "The New York Times - Technology",
+      "source_url": "https://www.nytimes.com/2026/08/21/world/europe/zuckerberg-castle-ireland.html",
+      "published_at": "2026-08-22T13:28:51Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7587,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.nytimes.com/2026/08/21/world/europe/zuckerberg-castle-ireland.html"
+    },
+    {
+      "title": "AI slop is good for business if you know what you're doing",
+      "summary": "Your irresponsibility is someone else's opportunity",
+      "source_name": "The Register",
+      "source_url": "https://www.theregister.com/ai-and-ml/2026/08/22/ai-slop-is-good-for-business-if-you-know-what-youre-doing/5291382",
+      "published_at": "2026-08-22T13:19:00Z",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.758,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.theregister.com/a/5291382"
+    },
+    {
+      "title": "Gravitational Wave Detectors Turn to Quantum Mechanics",
+      "summary": "A new NASA proposal seeks to expand the frequency range of detections",
+      "source_name": "IEEE Spectrum",
+      "source_url": "https://spectrum.ieee.org/gravitational-waves-quantum-mechanics-nasa",
+      "published_at": "2026-08-22T13:00:01Z",
+      "category": "research_feeds",
+      "tags": [
+        "Research Feeds"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.7567,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://spectrum.ieee.org/gravitational-waves-quantum-mechanics-nasa"
+    },
+    {
+      "title": "Saily Ultra eSIM Premum Plan Review: Packed With Perks",
+      "summary": "For uninterrupted service as you country-hop, the Saily Ultra eSIM works well and comes with plentiful perks. It’s pricey though.",
+      "source_name": "Wired",
+      "source_url": "https://www.wired.com/review/saily-ultra-esim/",
+      "published_at": "2026-08-22T13:00:00Z",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7567,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "6a84387d03b7ff172932c1cc"
+    },
+    {
+      "title": "I dropped out of college and now earn $159,000 as a software engineer. Lifestyle creep left me $30,000 in debt.",
+      "summary": "A Brooklyn-based software engineer, shares his journey from college dropout to a six-figure salary and managing NYC's high living costs.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/software-engineer-cost-of-living-in-nyc-2026-8",
+      "published_at": "2026-08-22T13:00:01Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7567,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/software-engineer-cost-of-living-in-nyc-2026-8"
+    },
+    {
+      "title": "Your favorite products hit by Trump’s new 50% tariffs on Canada",
+      "summary": "President Donald Trump's new 50% tariffs on Canadian goods impact whisky, dairy products, hockey gear, and many other products.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/list-of-trump-tariffs-canada-whisky-dairy-hockey-gear-2026-8",
+      "published_at": "2026-08-22T12:56:28Z",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7564,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/list-of-trump-tariffs-canada-whisky-dairy-hockey-gear-2026-8"
+    },
+    {
+      "title": "Uber driver says these 3 behaviors will get passengers a 1-star rating",
+      "summary": "Uber driver Levi Spires says the number one way to get a 1-star rating from him is making him wait without an explanation or apology.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/uber-driver-3-behaviors-get-you-1-star-rating-2026-8",
+      "published_at": "2026-08-22T12:55:01Z",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7563,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/uber-driver-3-behaviors-get-you-1-star-rating-2026-8"
+    },
+    {
+      "title": "AI's $3T elephant in the room",
+      "summary": "AI's $3T elephant in the room Superhuman AI",
+      "source_name": "Superhuman (Zain Kahn)",
+      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBZWDl4YnIwV3hmaG96MzJSQVkwVjA3dDdWLWhoWWd2Z0FtY2dpdHRDTXpfNjhzazNmZzE5MUZnVUVNNFdmRGlhSVp4VU9jdDRyc1M4YXRqSndFUlZXSVFKZGtBQk1zSEE?oc=5",
+      "published_at": "2026-08-22T12:43:02Z",
+      "category": "ai_newsletters",
+      "tags": [
+        "AI",
+        "Ai Newsletters"
+      ],
+      "confidence_score": 0.64,
+      "importance_score": 0.7555,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "CBMiZ0FVX3lxTFBZWDl4YnIwV3hmaG96MzJSQVkwVjA3dDdWLWhoWWd2Z0FtY2dpdHRDTXpfNjhzazNmZzE5MUZnVUVNNFdmRGlhSVp4VU9jdDRyc1M4YXRqSndFUlZXSVFKZGtBQk1zSEE"
+    },
+    {
+      "title": "Breaking down my $159,000 salary in Brooklyn, New York",
+      "summary": "Devonte Duncan, 27, lives in Brooklyn, New York, and works as a software engineer at a tech company, earning $159,000 a year.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/personal-finance/cost-of-living-brooklyn-software-engineer-salary-rent-savings",
+      "published_at": "2026-08-22T12:30:01Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7546,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/personal-finance/cost-of-living-brooklyn-software-engineer-salary-rent-savings"
+    },
+    {
+      "title": "I took a cruise with my mom and aunt. I loved it, but I made 3 mistakes.",
+      "summary": "I took a seven-night cruise around Spain with my mom and aunt. The trip was unforgettable, but I'd change how we handled rooms, transportation, and planning.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/multigenerational-cruise-travel-mistakes-2026-8",
+      "published_at": "2026-08-22T11:57:01Z",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7523,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/multigenerational-cruise-travel-mistakes-2026-8"
+    },
+    {
+      "title": "Divorce is getting a lucrative rebrand. These influencers are cashing in.",
+      "summary": "Influencers like Mikayla Noguiera, Jen Hamilton, Gabrielle Stone, and Meghan McTavish are reframing their divorces as empowering — and making money off it.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/divorce-influencers-instagram-tiktok-rebrand-making-money-2026-8",
+      "published_at": "2026-08-22T11:55:01Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7522,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/divorce-influencers-instagram-tiktok-rebrand-making-money-2026-8"
+    },
+    {
+      "title": "GPU-Accelerated Clustering for Financial Instruments at Scale",
+      "summary": "Use AdaptGrow, a GPU-accelerated matrix factorization algorithm, to turn rolling correlation and tail-dependence matrices into hard clusters, soft factor...",
+      "source_name": "NVIDIA Developer Blog",
+      "source_url": "https://developer.nvidia.com/blog/gpu-accelerated-clustering-for-financial-instruments-at-scale/",
+      "published_at": "2026-08-21T16:21:04Z",
+      "category": "mlops",
+      "tags": [
+        "AI",
+        "GPUs",
+        "Mlops"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.7506,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://developer.nvidia.com/blog/?p=121550"
+    },
+    {
+      "title": "What’s new with Google Cloud",
+      "summary": "Want to know the latest from Google Cloud? Find it here in one handy location. Check back regularly for our newest updates, announcements, resources, events, learning opportunities, and more. Tip : Not sure where to find what you’re looking for on the Google Cloud blog? Start here: Google Cloud blog 101: Full list of topics, links, and resources . aside_block <ListValue: []> Aug 17 - Aug 21 Webinar: Agent Identity as the backbone for secure AI innovation An AI agent with a…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
+      "published_at": "2026-08-21T16:00:00Z",
+      "category": "cloud_providers",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Cloud",
+        "Google Cloud",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.7492,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/"
+    },
+    {
+      "title": "Cloud CISO Perspectives: Sticking to security fundamentals in the AI era",
+      "summary": "Welcome to the first Cloud CISO Perspectives for August 2026. Today, Chris Betz explains why the AI era makes it more important than ever to lean into security fundamentals. As with all Cloud CISO Perspectives, the contents of this newsletter are posted to the Google Cloud blog . If you’re reading this on the website and you’d like to receive the email version, you can subscribe here . aside_block <ListValue: [StructValue([('title', 'Get vital board insights with Google…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-sticking-to-security-fundamentals-in-the-ai-era/",
+      "published_at": "2026-08-21T16:00:00Z",
+      "category": "cloud_providers",
+      "tags": [
+        "AI",
+        "Cloud",
+        "Google Cloud",
+        "Security",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.7492,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-sticking-to-security-fundamentals-in-the-ai-era/"
+    },
+    {
+      "title": "How agents can delegate better",
+      "summary": "In any organizational behavior class, students will learn that effective delegation is among the most important skills for a seasoned leader. Getting meaningful work done involves careful coordination, starting with a subdivision of projects into manageable tasks, mapped onto the skills of the team, and assigned to the right people. At Google Cloud, we’re learning a similar lesson when it comes to building and deploying AI agents in enterprise workflows. These workflows are…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/products/ai-machine-learning/how-agents-can-delegate-better/",
+      "published_at": "2026-08-21T16:00:00Z",
+      "category": "cloud_providers",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Cloud",
+        "Google Cloud",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.7492,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/products/ai-machine-learning/how-agents-can-delegate-better/"
+    },
+    {
+      "title": "I'm 53, and my partner is 29. My recent health crisis brought our age gap to the forefront.",
+      "summary": "I recently tripped and found I have arthritis in the knee, so my younger partner had to care for me. It made us question our age gap relationship.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/age-gap-relationship-faced-first-health-crisis-2026-8",
+      "published_at": "2026-08-22T11:07:01Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7488,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/age-gap-relationship-faced-first-health-crisis-2026-8"
+    },
+    {
+      "title": "The 10 most and 10 least expensive cities to own a home and pay for childcare",
+      "summary": "In cities like Los Angeles and New York, childcare and housing costs take a significant toll on family budgets, exceeding 90% of income.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/cities-with-high-and-low-combined-childcare-and-housing-costs-2026-8",
+      "published_at": "2026-08-22T11:03:01Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7486,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/cities-with-high-and-low-combined-childcare-and-housing-costs-2026-8"
+    },
+    {
+      "title": "The 4 Best Monitor Arms to Clear Up Your Desk Space (2026)",
+      "summary": "Your desk setup needs a monitor arm, and I’ve been testing every one I can get my hands on to find the best.",
+      "source_name": "Wired",
+      "source_url": "https://www.wired.com/gallery/best-monitor-arms/",
+      "published_at": "2026-08-22T11:01:00Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7484,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "69278b76ca35020b3a07c60e"
+    },
+    {
+      "title": "Set Up a Separate Work Profile on Your Android Phone",
+      "summary": "It is possible to achieve your desired work-life balance on your smartphone. Just set up separate accounts using this built-in Android feature.",
+      "source_name": "Wired",
+      "source_url": "https://www.wired.com/story/set-up-a-separate-work-profile-on-your-android-phone/",
+      "published_at": "2026-08-22T11:00:00Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7483,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "6a87423d69d906b2a99999a7"
+    },
+    {
+      "title": "The Best Mattress Toppers I've Tried (2026): Supportive, Plush, Memory Foam",
+      "summary": "These toppers will transform your mattress into exactly what you need, whether that’s a super-plush pillow top, memory foam, or targeted back support.",
+      "source_name": "Wired",
+      "source_url": "https://www.wired.com/gallery/the-best-mattress-toppers/",
+      "published_at": "2026-08-22T10:32:00Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7464,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "6712cce01ba4f640c938c359"
+    },
+    {
+      "title": "Your Expired Visa Card Could Be ‘Zombified’ to Make Contactless Payments",
+      "summary": "Plus: Apple sends out an “unprecedented” number of spyware warnings, Ukraine hits a Russian ecommerce giant with cyber and drone attacks, and more.",
+      "source_name": "Wired",
+      "source_url": "https://www.wired.com/story/security-news-this-week-your-expired-visa-card-could-be-zombiefied-to-make-contactless-payments/",
+      "published_at": "2026-08-22T10:30:00Z",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7463,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "6a887c31de471e876212f076"
+    },
+    {
+      "title": "Forget longevity buzzwords like Zone 2 and VO2 max, a top personal trainer says. Focus on this simple metric.",
+      "summary": "Buzzy metrics are not helpful for the average person looking to improve their health, the celebrity trainer Harley Pasternak said.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/trainer-forget-buzzwords-zone-2-vo2-max-simple-metric-2026-8",
+      "published_at": "2026-08-22T10:30:01Z",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7463,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/trainer-forget-buzzwords-zone-2-vo2-max-simple-metric-2026-8"
+    },
+    {
+      "title": "Maximizing AI Factory Performance per Watt with NVIDIA DSX MaxLPS",
+      "summary": "AI factories are power-constrained industrial systems. The question is no longer how many GPUs fit in a data center, but how much AI output each available...",
+      "source_name": "NVIDIA Developer Blog",
+      "source_url": "https://developer.nvidia.com/blog/maximizing-ai-factory-performance-per-watt-with-nvidia-dsx-maxlps/",
+      "published_at": "2026-08-21T15:00:00Z",
+      "category": "mlops",
+      "tags": [
+        "AI",
+        "GPUs",
+        "Mlops"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.745,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://developer.nvidia.com/blog/?p=121508"
+    },
+    {
+      "title": "OpenAI's chief economist says this is what it takes to work on his team at the ChatGPT maker",
+      "summary": "Ronnie Chatterji leads a team of researchers at the company who study how AI is affecting workers, employers, and the economy.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/openai-chief-economist-studying-ai-impact-work-team-2026-8",
+      "published_at": "2026-08-22T09:50:01Z",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Research",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7435,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/openai-chief-economist-studying-ai-impact-work-team-2026-8"
+    },
+    {
+      "title": "Business-class fliers love sliding doors — but they’re causing a nuisance for airlines and planemakers",
+      "summary": "Airlines are competing for the fanciest business class following the boom in premium travel, but new suites require rigorous certification testing.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/fancy-new-business-class-suites-cause-headache-certification-delays-2026-8",
+      "published_at": "2026-08-22T09:44:01Z",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7431,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/fancy-new-business-class-suites-cause-headache-certification-delays-2026-8"
+    },
+    {
+      "title": "A gut health scientist easily eats 50 grams of fiber a day. Here's her breakfast, lunch, and dinner.",
+      "summary": "Fiber feeds the beneficial microbes that live in the gut microbiome and influence our overall health.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/how-to-eat-50-grams-fiber-daily-gut-health-fibermaxxing-2026-8",
+      "published_at": "2026-08-22T09:36:01Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7425,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/how-to-eat-50-grams-fiber-daily-gut-health-fibermaxxing-2026-8"
+    },
+    {
+      "title": "Skylab completists, clear some shelf space for 26 DVDs",
+      "summary": "Decades of archive hunting recover downlinks, silent reels, and footage once thought lost",
+      "source_name": "The Register",
+      "source_url": "https://www.theregister.com/offbeat/2026/08/22/skylab-completists-clear-some-shelf-space-for-26-dvds/5290531",
+      "published_at": "2026-08-22T09:15:00Z",
+      "category": "enterprise_technology",
+      "tags": [
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7411,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.theregister.com/a/5290531"
+    },
+    {
+      "title": "Sick of Constant Pings, They’re Sending Texts at the Speed of Carrier Pigeon",
+      "summary": "Apps that let users send digital messages at ultraslow speeds have taken off, with users reveling in a slower pace of life. (Just don’t use the them to make dinner plans.)",
+      "source_name": "The New York Times - Technology",
+      "source_url": "https://www.nytimes.com/2026/08/22/technology/carrier-pigeon-app-texting-technology.html",
+      "published_at": "2026-08-22T09:02:08Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7402,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.nytimes.com/2026/08/22/technology/carrier-pigeon-app-texting-technology.html"
+    },
+    {
+      "title": "NASA Cancels Its Rescue Mission for the Aging Swift Telescope",
+      "summary": "The LINK probe was supposed to use robotic arms to capture Swift and lift it into a safe orbit. Problems with its control system forced NASA to call off the attempt.",
+      "source_name": "Wired",
+      "source_url": "https://www.wired.com/story/nasa-cancels-its-rescue-mission-for-the-aging-swift-telescope/",
+      "published_at": "2026-08-22T09:00:00Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.74,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "6a8871d34cde17b7139992c0"
+    }
+  ]
+}
