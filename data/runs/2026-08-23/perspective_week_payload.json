@@ -1,0 +1,132 @@
+{
+  "post_date": "2026-08-23",
+  "week_start": "2026-08-17",
+  "week_label": "August 17–23, 2026",
+  "theme": "AI",
+  "related_themes": [
+    "Ai Model Companies",
+    "Open Source Foundations",
+    "Cloud",
+    "AI Agents",
+    "Security"
+  ],
+  "tag_counts": [
+    {
+      "tag": "AI",
+      "count": 27
+    },
+    {
+      "tag": "Ai Model Companies",
+      "count": 13
+    },
+    {
+      "tag": "Open Source Foundations",
+      "count": 8
+    },
+    {
+      "tag": "Cloud",
+      "count": 6
+    },
+    {
+      "tag": "AI Agents",
+      "count": 5
+    },
+    {
+      "tag": "Security",
+      "count": 5
+    }
+  ],
+  "stories_reviewed": 70,
+  "runs_used": [
+    "2026-08-17",
+    "2026-08-18",
+    "2026-08-19",
+    "2026-08-20",
+    "2026-08-21",
+    "2026-08-22",
+    "2026-08-23"
+  ],
+  "sources_count": 11,
+  "citations": [
+    {
+      "date": "2026-08-20",
+      "title": "German ciphers, telegrams, and cloud native data sovereignty",
+      "url": "https://www.cncf.io/blog/2026/08/20/german-ciphers-telegrams-and-cloud-native-data-sovereignty/",
+      "source_name": "CNCF",
+      "tags": [
+        "AI",
+        "Cloud",
+        "Open Source Foundations"
+      ],
+      "summary": "A lesson from 1917 In January 1917, Germany sent a secret telegram. It went to Mexico. The offer: join the war against the United States, and you can have Texas, Arizona and New Mexico back. The...",
+      "why": "Matters for platform teams tracking the open-source dependencies under their stack.",
+      "score": 0.8955
+    },
+    {
+      "date": "2026-08-21",
+      "title": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
+      "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
+      "source_name": "Google DeepMind",
+      "tags": [
+        "AI",
+        "Research",
+        "Ai Model Companies"
+      ],
+      "summary": "Google DeepMind partners with game studios to prototype breakthrough AI gameplay.",
+      "why": "Signals how frontier-model capabilities and access may shift for AI engineers and product teams.",
+      "score": 0.8915
+    },
+    {
+      "date": "2026-08-18",
+      "title": "Partnering with CodeAI to prepare the first AI generation",
+      "url": "https://openai.com/index/partnering-with-codeai",
+      "source_name": "OpenAI",
+      "tags": [
+        "AI",
+        "Ai Model Companies"
+      ],
+      "summary": "OpenAI and CodeAI are partnering to help students build AI literacy, think critically about AI, and develop the skills to use and shape it responsibly.",
+      "why": "Signals how frontier-model capabilities and access may shift for AI engineers and product teams.",
+      "score": 0.8875
+    },
+    {
+      "date": "2026-08-18",
+      "title": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
+      "url": "https://openai.com/index/chatgpt-for-teens",
+      "source_name": "OpenAI",
+      "tags": [
+        "AI",
+        "Ai Model Companies"
+      ],
+      "summary": "ChatGPT for Teens helps teens learn, think critically, and use AI with confidence, with stronger built-in protections, healthy-use features, and additional controls for parents.",
+      "why": "Signals how frontier-model capabilities and access may shift for AI engineers and product teams.",
+      "score": 0.8875
+    },
+    {
+      "date": "2026-08-21",
+      "title": "How to turn slow queries into actionable reliability metrics with OpenTelemetry",
+      "url": "https://www.cncf.io/blog/2026/08/21/how-to-turn-slow-queries-into-actionable-reliability-metrics-with-opentelemetry/",
+      "source_name": "CNCF",
+      "tags": [
+        "AI",
+        "Open Source Foundations"
+      ],
+      "summary": "Slow SQL queries degrade user experience, cause cascading failures, and turn simple operations into production incidents. The traditional fix? Collect more telemetry. But more telemetry means more things to look at, not necessarily more understanding. Instead...",
+      "why": "Matters for platform teams tracking the open-source dependencies under their stack.",
+      "score": 0.8873
+    },
+    {
+      "date": "2026-08-17",
+      "title": "Get closer to the game with Gemini and Pixel",
+      "url": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/",
+      "source_name": "Google AI (The Keyword)",
+      "tags": [
+        "AI",
+        "Ai Model Companies"
+      ],
+      "summary": "Low-angle view of a soccer player kicking a ball mid-air against a bright blue sky, with grass flying from their cleats.",
+      "why": "Signals how frontier-model capabilities and access may shift for AI engineers and product teams.",
+      "score": 0.8753
+    }
+  ]
+}
