@@ -1,0 +1,850 @@
+{
+  "post_date": "2026-08-25",
+  "sources_checked": 48,
+  "count": 45,
+  "items": [
+    {
+      "title": "The lazy developer’s guide to observing your own code",
+      "summary": "It’s no secret that developers are increasingly being asked to shift left. It seems there’s always something new to shift left on. And now developers are being asked to shift left on observability. This means that...",
+      "source_name": "CNCF",
+      "source_url": "https://www.cncf.io/blog/2026/08/25/the-lazy-developers-guide-to-observing-your-own-code/",
+      "published_at": "2026-08-25T11:34:00Z",
+      "category": "open_source_foundations",
+      "tags": [
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8892,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.cncf.io/?p=173136"
+    },
+    {
+      "title": "Stop trying to learn all of Kubernetes at once",
+      "summary": "As a recovering VMware architect, it took me a little while to grasp Kubernetes. And I noticed I’m not alone in this.. From developers on our own team who need to get fluent in Kubernetes fast...",
+      "source_name": "CNCF",
+      "source_url": "https://www.cncf.io/blog/2026/08/25/stop-trying-to-learn-all-of-kubernetes-at-once/",
+      "published_at": "2026-08-25T11:00:00Z",
+      "category": "open_source_foundations",
+      "tags": [
+        "Kubernetes",
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8869,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.cncf.io/?p=173421"
+    },
+    {
+      "title": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
+      "published_at": "2026-08-25T13:01:22Z",
+      "category": "aggregators",
+      "tags": [
+        "AI",
+        "Hacker News"
+      ],
+      "confidence_score": 0.6715,
+      "importance_score": 0.8653,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49433292"
+    },
+    {
+      "title": "Disrupting a new covert influence campaign from Russia",
+      "summary": "OpenAI banned Russia-origin accounts using AI to promote a fake Israel-based think tank and a “sovereignty” index praising Russia and criticizing the West.",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
+      "published_at": "2026-08-25T00:00:00Z",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.99,
+      "importance_score": 0.841,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia"
+    },
+    {
+      "title": "Now introducing Gemini Enterprise for Legal",
+      "summary": "Few professions are as exacting as the practice of law. A team reviewing a contract or building a case works inside strictly privileged information, firm-specific playbooks, and a body of law that changes constantly. The work thrives on nuanced, professional judgment — and the systems supporting it inherit real obligations: ethical walls that cannot be crossed, matter permissions that cannot be flattened, and a duty of confidentiality that does not bend for convenience…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/products/ai-machine-learning/introducing-gemini-enterprise-for-legal/",
+      "published_at": "2026-08-25T12:00:00Z",
+      "category": "cloud_providers",
+      "tags": [
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.831,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/products/ai-machine-learning/introducing-gemini-enterprise-for-legal/"
+    },
+    {
+      "title": "Now introducing Gemini Enterprise for Financial Services",
+      "summary": "Protecting capital in today's markets requires immense speed and precision. A financial analyst preparing a deal memo works across licensed market data, internal models, and confidential client files. General-purpose AI lacks the real-time accuracy, verifiable data lineage, and strict security that financial institutions demand. While model intelligence is necessary, without deep integration into trusted financial systems, it is not sufficient. Making AI genuinely useful…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/products/ai-machine-learning/introducing-gemini-enterprise-for-financial-services/",
+      "published_at": "2026-08-25T12:00:00Z",
+      "category": "cloud_providers",
+      "tags": [
+        "AI",
+        "Security",
+        "APIs",
+        "AI Models",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.831,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/products/ai-machine-learning/introducing-gemini-enterprise-for-financial-services/"
+    },
+    {
+      "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
+      "summary": "",
+      "source_name": "Hugging Face",
+      "source_url": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
+      "published_at": "2026-08-25T11:39:24Z",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI Models",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.9,
+      "importance_score": 0.8296,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing"
+    },
+    {
+      "title": "Apple Introduces New Mac Studio with M5 Max and M5 Ultra",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/",
+      "published_at": "2026-08-25T13:03:17Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.6305,
+      "importance_score": 0.8166,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49433316"
+    },
+    {
+      "title": "iCloud+ Hide My Email addresses will remain on icloud.com",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://developer.apple.com/news/?id=1ptvdtcm",
+      "published_at": "2026-08-24T22:13:40Z",
+      "category": "aggregators",
+      "tags": [
+        "AI",
+        "Cloud",
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.8036,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49426564"
+    },
+    {
+      "title": "Moon (2024)",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://ciechanow.ski/moon/",
+      "published_at": "2026-08-24T22:06:02Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.664,
+      "importance_score": 0.8031,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49426466"
+    },
+    {
+      "title": "How Universities Should Prepare Founders",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://paulgraham.com/prepare.html",
+      "published_at": "2026-08-25T01:40:39Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.641,
+      "importance_score": 0.7955,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49428121"
+    },
+    {
+      "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
+      "summary": "GPT‑5.6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance.",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/gpt-5-6-in-kiro",
+      "published_at": "2026-08-24T12:00:00Z",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.97,
+      "importance_score": 0.791,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/index/gpt-5-6-in-kiro"
+    },
+    {
+      "title": "Automating root cause analysis at scale: Multi-signal correlation for cloud native incident response",
+      "summary": "The problem: Humans shouldn’t be correlation engines At Atlassian’s scale, hundreds of interconnected microservices distributed across multiple regions mean a production incident generates an overwhelming volume of telemetry. The problem is that finding the causal factor...",
+      "source_name": "CNCF",
+      "source_url": "https://www.cncf.io/blog/2026/08/24/automating-root-cause-analysis-at-scale-multi-signal-correlation-for-cloud-native-incident-response/",
+      "published_at": "2026-08-24T11:00:00Z",
+      "category": "open_source_foundations",
+      "tags": [
+        "Cloud",
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.87,
+      "importance_score": 0.7869,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.cncf.io/?p=173115"
+    },
+    {
+      "title": "Where did all the public bathrooms go?",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://daily.jstor.org/where-did-all-the-public-bathrooms-go/",
+      "published_at": "2026-08-24T17:07:01Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.695,
+      "importance_score": 0.7823,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49422800"
+    },
+    {
+      "title": "The entire city of San Francisco as a video game",
+      "summary": "https://twitter.com/cdngdev/status/2091909073038082139 , https://xcancel.com/cdngdev/status/2091909073038082139",
+      "source_name": "Hacker News",
+      "source_url": "https://sf.thijs.gg/",
+      "published_at": "2026-08-24T17:05:38Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7822,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49422784"
+    },
+    {
+      "title": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
+      "summary": "",
+      "source_name": "Hugging Face",
+      "source_url": "https://huggingface.co/blog/gradio-workflow-guide",
+      "published_at": "2026-08-25T00:00:00Z",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.9,
+      "importance_score": 0.781,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://huggingface.co/blog/gradio-workflow-guide"
+    },
+    {
+      "title": "Scale software delivery pipelines in isolation without owning the runner fleet",
+      "summary": "Many enterprises choose GitLab Dedicated for a clear reason: a secure and compliant, single-tenant GitLab instance, managed by GitLab. As agentic workflows drive more pipeline volume, full data isolation and runner infrastructure operational burden become a challenge. This leads to the question, “Does owning the runner fleet still make sense?” With GitLab Dedicated, there is no more need to provision, patch, build, and scale your own runner fleet. Hosted Runners for GitLab…",
+      "source_name": "GitLab Blog",
+      "source_url": "https://about.gitlab.com/blog/hosted-runners-for-gitlab-dedicated/",
+      "published_at": "2026-08-25T00:00:00Z",
+      "category": "developer_platforms",
+      "tags": [
+        "AI Agents",
+        "Data Pipelines",
+        "Developer Platforms"
+      ],
+      "confidence_score": 0.86,
+      "importance_score": 0.781,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://about.gitlab.com/blog/hosted-runners-for-gitlab-dedicated/"
+    },
+    {
+      "title": "Jabber/XMPP: 25 Years of Digital Independence",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://gultsch.de/posts/25-years-of-digital-independence/",
+      "published_at": "2026-08-24T15:51:31Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.6755,
+      "importance_score": 0.7771,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49421536"
+    },
+    {
+      "title": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/",
+      "published_at": "2026-08-24T15:28:04Z",
+      "category": "aggregators",
+      "tags": [
+        "AI",
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7755,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49421158"
+    },
+    {
+      "title": "Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded",
+      "summary": "https://xcancel.com/lemire/status/2091894299289874926",
+      "source_name": "Hacker News",
+      "source_url": "https://twitter.com/lemire/status/2091894299289874926",
+      "published_at": "2026-08-24T15:08:17Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7741,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49420873"
+    },
+    {
+      "title": "Your alt text passes automated checks. That doesn’t mean it’s any good.",
+      "summary": "We built a plugin for the GitHub Accessibility Scanner to make sure your alt text is actually accessible. Here's how it works. The post Your alt text passes automated checks. That doesn’t mean it’s any good. appeared first on The GitHub Blog .",
+      "source_name": "The GitHub Blog",
+      "source_url": "https://github.blog/engineering/user-experience/your-alt-text-passes-automated-checks-that-doesnt-mean-its-any-good/",
+      "published_at": "2026-08-24T20:56:32Z",
+      "category": "developer_platforms",
+      "tags": [
+        "Developer Tools",
+        "Developer Platforms"
+      ],
+      "confidence_score": 0.92,
+      "importance_score": 0.7683,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://github.blog/?p=98354"
+    },
+    {
+      "title": "Peppermint oil reduces blood pressure by 8.48 mmHg in small study",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0344538",
+      "published_at": "2026-08-24T14:44:55Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.6475,
+      "importance_score": 0.7662,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49420530"
+    },
+    {
+      "title": "What's new in Emacs 31.1",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.masteringemacs.org/article/whats-new-in-emacs-311",
+      "published_at": "2026-08-24T13:07:22Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.6765,
+      "importance_score": 0.7657,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49419252"
+    },
+    {
+      "title": "How Europe is killing makers and micro-entrepreneurs",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://lectronz.com/u/lectronz/articles/how-europe-is-killing-makers-and-micro-entrepreneurs",
+      "published_at": "2026-08-24T13:05:25Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7656,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49419237"
+    },
+    {
+      "title": "Introducing AWS Glue 6.0 for faster and more cost-effective data integration",
+      "summary": "AWS Glue 6.0 is now available, lowering AWS Glue pricing by 30%, adding an AWS optimized build of Apache Spark 4.1, and introducing Apache Iceberg V3 capabilities suitable for enterprise adoption. This post covers the key capabilities and performance benefits, with code examples to help you get started.",
+      "source_name": "AWS Big Data Blog",
+      "source_url": "https://aws.amazon.com/blogs/big-data/introducing-aws-glue-6-0-for-apache-spark/",
+      "published_at": "2026-08-24T19:06:39Z",
+      "category": "cloud_providers",
+      "tags": [
+        "AI",
+        "Apache Spark",
+        "AWS",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.92,
+      "importance_score": 0.7607,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "6e2e94ef9817fdbc98c934aa3fa0902000d8b2a1"
+    },
+    {
+      "title": "Upgrade AWS Glue jobs to Glue 6.0 with AI-powered Spark upgrades",
+      "summary": "Walk through upgrading a PySpark ETL job from AWS Glue 5.1 to AWS Glue 6.0 using the generative AI upgrades for Apache Spark. The upgrade analysis automatically detects incompatibilities, applies fixes, and validates results with data quality checks.",
+      "source_name": "AWS Big Data Blog",
+      "source_url": "https://aws.amazon.com/blogs/big-data/upgrade-aws-glue-jobs-to-glue-6-0-with-ai-powered-spark-upgrades/",
+      "published_at": "2026-08-24T19:06:16Z",
+      "category": "cloud_providers",
+      "tags": [
+        "AI",
+        "GenAI",
+        "ETL",
+        "Apache Spark",
+        "AWS",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.92,
+      "importance_score": 0.7606,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "b701ea01f9a32fe7b0961dd09a27ddeb65ec2130"
+    },
+    {
+      "title": "We toured United's fanciest Airbus jet yet, which will fly 5 all-new routes to Europe in 2027. See inside the A321XLR.",
+      "summary": "The Airbus A321XLR underscores United's continued push to court higher-paying travelers. United just unveiled its first destinations.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/united-new-airbus-jet-tour-seats-features-a321xlr-photos-2026-7",
+      "published_at": "2026-08-25T14:03:57Z",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7596,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/united-new-airbus-jet-tour-seats-features-a321xlr-photos-2026-7"
+    },
+    {
+      "title": "30 major US airports with the most departure delays, ranked",
+      "summary": "The Bureau of Transportation Statistics found that Fort Lauderdale-Hollywood International Airport in Florida had the lowest on-time departure rate.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/major-us-airports-ranked-departure-delays-2026-8",
+      "published_at": "2026-08-25T14:02:10Z",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7595,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/major-us-airports-ranked-departure-delays-2026-8"
+    },
+    {
+      "title": "I moved to Greece 4 years ago. I've learned that there are downsides to Mediterranean living.",
+      "summary": "I moved from the US to Greece in 2022. As much as I love my life in Athens, the slower pace of life has brought inconveniences I had to adjust to.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/moved-to-greece-downsides-challenges-slow-living-in-athens-2026-8",
+      "published_at": "2026-08-25T13:53:11Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7589,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/moved-to-greece-downsides-challenges-slow-living-in-athens-2026-8"
+    },
+    {
+      "title": "I'm a Canadian who fell in love with an American. Moving to the US to be with him meant giving up almost everything.",
+      "summary": "After falling in love with an American on vacation, I sold my dream home and made sacrifices to leave Canada and move to the US to be with my partner.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/left-canada-moved-to-us-for-american-love-sacrifices-california-2026-8",
+      "published_at": "2026-08-25T13:43:40Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7582,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/left-canada-moved-to-us-for-american-love-sacrifices-california-2026-8"
+    },
+    {
+      "title": "KVBoost: Chunk-Level Key-Value Cache Reuse with Deviation-Guided Recomputation for Efficient Large Language Model Inference",
+      "summary": "arXiv:2608.21362v1 Announce Type: new Abstract: Transformer-based large language models (LLMs) incur high prefill latency because key-value (KV) tensors must be recomputed for each request. Existing prefix-caching systems reduce this cost but require prompts to share a leading contiguous prefix, limiting effectiveness when shared content appears at arbitrary positions. We present KVBoost, a chunk-level KV cache reuse system for HuggingFace-compatible decoder models that…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2608.21362",
+      "published_at": "2026-08-25T04:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "LLMs",
+        "AI Models",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7577,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2608.21362v1"
+    },
+    {
+      "title": "AIREP: A Protocol for Per-Decision Evidence in AI Runtime Governance",
+      "summary": "arXiv:2608.21363v1 Announce Type: new Abstract: A protocol is presented for recording the governance decisions of automated AI runtimes. When a runtime releases, blocks, defers, redacts, or escalates an individual output, AIREP records that decision as a single signed object that any party can check offline, independent of the runtime that produced it. A record carries the decision as one of a closed set of verbs under a stated policy basis, references its input, output, and…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2608.21363",
+      "published_at": "2026-08-25T04:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "Data Governance",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7577,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2608.21363v1"
+    },
+    {
+      "title": "Reviewing Model Collapse and Countermeasures",
+      "summary": "arXiv:2608.21366v1 Announce Type: new Abstract: Driven by massive amounts of web-scale data, generative AI (GenAI) has achieved remarkable progress, enabling various applications in diverse sectors. The advances of GenAI have actuated practitioners to use AI-synthesized data for training next-generation AI models. Undeniably, using synthetic data has alleviated the increasing stringent demand for data supply. Unfortunately, it also introduces a new critical issue: in a…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2608.21366",
+      "published_at": "2026-08-25T04:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "GenAI",
+        "AI Models",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7577,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2608.21366v1"
+    },
+    {
+      "title": "AI Learning and Conceptual Transfer in the Game of Hidden Rules",
+      "summary": "arXiv:2608.21372v1 Announce Type: new Abstract: This report summarizes the work conducted on the Game of Hidden Rules (GOHR), focusing on reinforcement learning agents trained to infer hidden rules from trial-and-error feedback, representation design, rule difficulty analysis, transfer learning, generalization, and pseudo-bot-assisted human learning analysis. The report focuses on the Transformer-based A2C framework, Feature-Centric and Object-Centric representations…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2608.21372",
+      "published_at": "2026-08-25T04:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7577,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2608.21372v1"
+    },
+    {
+      "title": "LitReview Arena: Evaluating Literature Review Agents with Battle-Style Peer Review Platform",
+      "summary": "arXiv:2608.21374v1 Announce Type: new Abstract: Literature reviews are essential to scientific progress, but rigorously evaluating automatically generated reviews remains difficult because many aspects of research utility depend on expert judgment rather than reference-overlap metrics. We introduce LitReview Arena, a battle-style evaluation platform with a structured protocol tailored to literature review quality: domain experts with AI paper-writing experience compare…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2608.21374",
+      "published_at": "2026-08-25T04:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7577,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2608.21374v1"
+    },
+    {
+      "title": "SchemaRouter: Field-Aware Tool Routing for Efficient Heterogeneous Agentic RAG",
+      "summary": "arXiv:2608.21375v1 Announce Type: new Abstract: Heterogeneous agentic retrieval-augmented generation (RAG) systems increasingly orchestrate external APIs, internal databases, vector stores, and graph stores. Exposing all tool descriptions to an LLM agent, or selecting tools only by vector similarity, causes two costly failures: over-fetching, which increases payload size, token use, and latency, and under-fetching, which omits fields needed to answer the query. We present…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2608.21375",
+      "published_at": "2026-08-25T04:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "LLMs",
+        "AI Agents",
+        "Databases",
+        "Vector Databases",
+        "APIs",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7577,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2608.21375v1"
+    },
+    {
+      "title": "RIACT: A Responsible AI System for Personalized Study Habit Tracking and Early Burnout Signal Detection in University Students",
+      "summary": "arXiv:2608.21379v1 Announce Type: new Abstract: Student burnout is highly prevalent in higher education, with reported rates ranging from 12% to over 70% and consistently exceeding those of the working population - yet it is typically identified only retrospectively, after academic decline has already occurred. A contributing factor is that students have little structured visibility into their own study behaviour, and existing productivity tools record activity without…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2608.21379",
+      "published_at": "2026-08-25T04:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7577,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2608.21379v1"
+    },
+    {
+      "title": "There Is No Neutral Harness: Modern LLM Leaderboards Are Manufactured by Config-Fragile Items",
+      "summary": "arXiv:2608.21382v1 Announce Type: new Abstract: Multiple-choice benchmarks fix the questions and the correct answers, but not the harness: the order of the options, the wording of the prompt, and whether a language model's answer is read from generated text or from per-option likelihoods. Work on this harness sensitivity reports it as aggregate score variance, leaving unexamined which items the variance falls on and whether they are the items that separate one model from the…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2608.21382",
+      "published_at": "2026-08-25T04:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "LLMs",
+        "AI Models",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7577,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2608.21382v1"
+    },
+    {
+      "title": "Spyre-Accelerated Retrieval-Augmented Generation on IBM LinuxONE: A Cloud-Native Architecture for Secure, High-Throughput Enterprise AI Inference",
+      "summary": "arXiv:2608.21393v1 Announce Type: new Abstract: Running large language models inside enterprise environments has always bumped up against a practical wall: the data lives in one place, the AI horsepower sits somewhere else, and moving sensitive records between the two creates real headaches around latency, security, and regulatory exposure. IBM's Spyre accelerator PCIe inference card built for LinuxONE and the broader IBM Z family changes that equation. In this paper we lay…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2608.21393",
+      "published_at": "2026-08-25T04:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "LLMs",
+        "Cloud",
+        "Security",
+        "AI Models",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7577,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2608.21393v1"
+    },
+    {
+      "title": "Hate Speech Classification In Roman Urdu: A Comparative Study On Parameter Efficient Fine-Tuning And Prompt Engineering",
+      "summary": "arXiv:2608.21408v1 Announce Type: new Abstract: Due to the widespread accessibility of the internet and social media, toxic and hateful con-tent has grown exponentially, causing significant distress and negative societal impacts. Ro-man Urdu, a low-resource language used in Pakistan and among Urdu-speaking communities worldwide, presents additional challenges because of its informal grammar, inconsistent sen-tence structures, and multiple variations in word spellings. This…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2608.21408",
+      "published_at": "2026-08-25T04:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7577,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2608.21408v1"
+    },
+    {
+      "title": "The Abstention Protocol: RCA for Clos Fabrics",
+      "summary": "arXiv:2608.21412v1 Announce Type: new Abstract: Root cause analysis (RCA) in large datacenter networks is challenging because telemetry is noisy, partial, and asynchronous. Score-based approaches degrade under these conditions, often yielding unstable or incorrect attributions. We present \\textsc{CoreSec}, a production RCA system that replaces weighted fusion with a PAM-style abstention algebra. Telemetry agents are composed using control flags that yield deterministic…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2608.21412",
+      "published_at": "2026-08-25T04:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "AI Agents",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7577,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2608.21412v1"
+    },
+    {
+      "title": "Retrieval-grounded robot program generation and simulation-based correction via Model Context Protocol",
+      "summary": "arXiv:2608.21417v1 Announce Type: new Abstract: Flexible manufacturing requires industrial robots to be reprogrammed rapidly as product variants change. This paper presents a language-model-based workflow that generates, validates, and iteratively corrects ABB RAPID robot programs from natural language task descriptions. A dual-stream retrieval-augmented generation (RAG) pipeline grounds code generation in verified technical documentation and production templates, reducing…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2608.21417",
+      "published_at": "2026-08-25T04:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "Data Pipelines",
+        "APIs",
+        "AI Models",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7577,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2608.21417v1"
+    },
+    {
+      "title": "Bankruptcy Prediction via Hybrid Resampling and Stacking Ensemble Techniques with Explainable Artificial Intelligence (XAI)-Driven Analysis",
+      "summary": "arXiv:2608.20343v1 Announce Type: new Abstract: This study develops and evaluates a bankruptcy prediction framework that integrates consensus-based feature selection, hybrid resampling, stacking ensembles, and explainable artificial intelligence to improve minority-class detection in severely imbalanced financial data. Using the Taiwanese Bankruptcy Prediction dataset from the UCI Machine Learning Repository, five feature-selection algorithms were first applied, and a…",
+      "source_name": "arXiv cs.LG (Machine Learning)",
+      "source_url": "https://arxiv.org/abs/2608.20343",
+      "published_at": "2026-08-25T04:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "Machine Learning",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7577,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2608.20343v1"
+    },
+    {
+      "title": "Machine Learning and ARIMA Model Averaging for Adaptive Public Health Forecasting: Comparative Evaluation and an Ontario COVID-19 Case Study",
+      "summary": "arXiv:2608.20406v1 Announce Type: new Abstract: Public health forecasts must respond to abrupt changes in surveillance data without over-extrapolating noise, reporting artifacts, or temporary trends. We evaluated autoregressive integrated moving average (ARIMA), random forest, and extreme gradient boosting (XGBoost) models using 190 weekly observations of publicly available Ontario COVID-19 case counts from January 2020 to October 2023. Rolling-origin time-series…",
+      "source_name": "arXiv cs.LG (Machine Learning)",
+      "source_url": "https://arxiv.org/abs/2608.20406",
+      "published_at": "2026-08-25T04:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "Machine Learning",
+        "AI Models",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7577,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2608.20406v1"
+    },
+    {
+      "title": "From Thermal Preference Prediction to Adaptive Thermal Intervention: A Reinforcement Learning Approach Using Physiological and Environmental Sensing",
+      "summary": "arXiv:2608.20423v1 Announce Type: new Abstract: Personalised thermal comfort is essential for occupant wellbeing and for the development of more responsive building-control strategies, yet conventional Heating, Ventilation, and Air Conditioning (HVAC) systems rely on static setpoints and population-level comfort models that fail to capture individual physiological variability. This paper presents a two-stage personalised thermal comfort approach integrating multimodal…",
+      "source_name": "arXiv cs.LG (Machine Learning)",
+      "source_url": "https://arxiv.org/abs/2608.20423",
+      "published_at": "2026-08-25T04:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "AI Models",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7577,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2608.20423v1"
+    }
+  ]
+}
