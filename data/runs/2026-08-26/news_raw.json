@@ -1,0 +1,830 @@
+{
+  "generated_at": "2026-08-26T14:09:19.204190+00:00",
+  "post_date": "2026-08-26",
+  "sources_checked": 48,
+  "candidates": 45,
+  "items": [
+    {
+      "title": "Governance guidance for CNCF projects: Choosing the right structure for your project’s size and stage",
+      "summary": "Clear patterns have emerged from governance reviews across 72 CNCF projects, distinguishing between what the CNCF requires at each maturity level versus what the data recommends for long-term project health. This post captures those patterns as...",
+      "source_name": "CNCF",
+      "source_url": "https://www.cncf.io/blog/2026/08/26/governance-guidance-for-cncf-projects-choosing-the-right-structure-for-your-projects-size-and-stage/",
+      "published_at": "2026-08-26T11:30:00+00:00",
+      "category": "open_source_foundations",
+      "tags": [
+        "Data Governance",
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.889,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.cncf.io/?p=172974"
+    },
+    {
+      "title": "AWS Acquires DuckDB",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://ducklabs.com/news/2026/08/26/ducklabs-to-join-aws",
+      "published_at": "2026-08-26T12:59:26+00:00",
+      "category": "aggregators",
+      "tags": [
+        "AWS",
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.8651,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49448321"
+    },
+    {
+      "title": "Omarchy development practices lead to predictable security issues",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://blog.happyfellow.dev/merchants-of-insecurity/",
+      "published_at": "2026-08-26T12:17:43+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Security",
+        "Hacker News"
+      ],
+      "confidence_score": 0.664,
+      "importance_score": 0.8623,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49447682"
+    },
+    {
+      "title": "Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek",
+      "published_at": "2026-08-26T10:04:55+00:00",
+      "category": "aggregators",
+      "tags": [
+        "AI",
+        "AI Models",
+        "Hacker News"
+      ],
+      "confidence_score": 0.686,
+      "importance_score": 0.853,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49446422"
+    },
+    {
+      "title": "XCancel and Nitter are receiving C&D letters from XCorp",
+      "summary": "https://xcancel.com \"On Monday 24th August at 8PM EST, we received at letter from X Corp. asking to cease and desist the service XCancel. The service XCancel is stopped until further notice. We are seeking legal advice and won't share more details for now. Thank you for the trust you have put in…",
+      "source_name": "Hacker News",
+      "source_url": "https://news.ycombinator.com/item?id=49446210",
+      "published_at": "2026-08-26T09:34:38+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.665,
+      "importance_score": 0.8509,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49446210"
+    },
+    {
+      "title": "RAG Is Simpler Than You Think",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.lighthousenewsletter.com/p/rag-is-simpler-than-you-think",
+      "published_at": "2026-08-26T08:39:17+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.665,
+      "importance_score": 0.8471,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49445727"
+    },
+    {
+      "title": "How loveholidays is making everyone a builder with Codex",
+      "summary": "Discover how loveholidays uses OpenAI Codex to make software development accessible across the business, helping teams turn ideas into products faster.",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/loveholidays",
+      "published_at": "2026-08-26T00:00:00+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.99,
+      "importance_score": 0.8411,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/index/loveholidays"
+    },
+    {
+      "title": "Infrastructure for the AI era: Dynamic capacity management for agents",
+      "summary": "The internet connected billions of people and mobile devices, putting computers in every hand. Now, we’re in the middle of the next big technology shift, deploying millions of autonomous AI agents to work alongside employees and end users. Today, we announced new FinOps controls for Gemini Enterprise to help organizations manage project-level AI spend and eliminate token shock. But the sheer scale of the agentic era is placing new constraints at every layer of the stack…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/topics/ai-infrastructure/best-practices-for-dynamic-capacity-management/",
+      "published_at": "2026-08-26T13:30:00+00:00",
+      "category": "cloud_providers",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.8373,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/topics/ai-infrastructure/best-practices-for-dynamic-capacity-management/"
+    },
+    {
+      "title": "FinOps for the AI era: New flexible billing and cost controls for agents",
+      "summary": "As AI takes on more complex work, business leaders face a new challenge: enabling rapid innovation using agents while protecting their margins and budgets. To get a real return on AI, financial operations (FinOps) and cost management must evolve alongside technology, giving you clear visibility, proactive cost controls, and flexible payment models that fit your needs. That’s why today we’re introducing expanded billing flexibility and new cost management tools for agent…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/products/ai-machine-learning/flexible-billing-and-cost-controls-for-agents-on-google-cloud/",
+      "published_at": "2026-08-26T13:30:00+00:00",
+      "category": "cloud_providers",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "APIs",
+        "AI Models",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.8373,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/products/ai-machine-learning/flexible-billing-and-cost-controls-for-agents-on-google-cloud/"
+    },
+    {
+      "title": "AWS and DuckLabs: Building the future of analytics together",
+      "summary": "Today we are announcing that Amazon has signed a definitive agreement to acquire DuckLabs, the Amsterdam-based company behind the open-source analytical database DuckDB. We expect the transaction to close shortly, subject to customary closing conditions. Hannes Mühleisen and Mark Raasveldt, who created DuckDB and co-founded DuckLabs, will continue leading the team and the open-source project's technical direction as part of AWS. The DuckDB open-source project will also…",
+      "source_name": "AWS Big Data Blog",
+      "source_url": "https://aws.amazon.com/blogs/big-data/aws-and-ducklabs-building-the-future-of-analytics-together/",
+      "published_at": "2026-08-26T13:28:34+00:00",
+      "category": "cloud_providers",
+      "tags": [
+        "AWS",
+        "Open Source",
+        "Databases",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.92,
+      "importance_score": 0.8372,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "a72353e29fb62fc56273604ca91af83bfa9a1a94"
+    },
+    {
+      "title": "Queryable Executables",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://fzakaria.com/2026/08/24/actually-queryable-executables",
+      "published_at": "2026-08-26T00:20:49+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.681,
+      "importance_score": 0.8125,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49442589"
+    },
+    {
+      "title": "Fake US thinktank set up and funded by Israel sought to game AI for propaganda",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.theguardian.com/world/2026/aug/26/fake-thinktank-israel-ai-propaganda",
+      "published_at": "2026-08-26T12:11:19+00:00",
+      "category": "aggregators",
+      "tags": [
+        "AI",
+        "Hacker News"
+      ],
+      "confidence_score": 0.629,
+      "importance_score": 0.8093,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49447600"
+    },
+    {
+      "title": "Funding better evaluations of AI’s impact on wellbeing",
+      "summary": "Funding better evaluations of AI’s impact on wellbeing Anthropic",
+      "source_name": "Anthropic",
+      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5DNElZcS10WnJ1NHJEdmtYNkxUT1JQZ3plaDhZejA4UENGVlliUzRqM19sejJyOEFZbW9zbTZyZmpsZGpmOGYtaDc2T1pFTThXUG9wQi1nUFl3cVhIVDJyQVd6QnBsa2M?oc=5",
+      "published_at": "2026-08-25T16:10:44+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.99,
+      "importance_score": 0.8085,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "CBMiZ0FVX3lxTE5DNElZcS10WnJ1NHJEdmtYNkxUT1JQZ3plaDhZejA4UENGVlliUzRqM19sejJyOEFZbW9zbTZyZmpsZGpmOGYtaDc2T1pFTThXUG9wQi1nUFl3cVhIVDJyQVd6QnBsa2M"
+    },
+    {
+      "title": "5 ways to upgrade your home decor with Google Search",
+      "summary": "Illustration of ombre rainbow furniture items like a sofa, lamp, and chair against a purple background",
+      "source_name": "Google AI (The Keyword)",
+      "source_url": "https://blog.google/products-and-platforms/products/search/home-decor-tips/",
+      "published_at": "2026-08-25T16:00:00+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.8077,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://blog.google/products-and-platforms/products/search/home-decor-tips/"
+    },
+    {
+      "title": "Qwen3.8-Flash-Next: A New Architecture, Towards Ultimate Cost-Efficiency",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://qwen.ai/blog?id=qwen3.8-flash-next",
+      "published_at": "2026-08-26T12:52:12+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.626,
+      "importance_score": 0.8046,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49448210"
+    },
+    {
+      "title": "FDA authorizes first wearable device that monitors ketone and blood sugar levels",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar",
+      "published_at": "2026-08-25T19:07:01+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7907,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49439017"
+    },
+    {
+      "title": "The lazy developer’s guide to observing your own code",
+      "summary": "It’s no secret that developers are increasingly being asked to shift left. It seems there’s always something new to shift left on. And now developers are being asked to shift left on observability. This means that...",
+      "source_name": "CNCF",
+      "source_url": "https://www.cncf.io/blog/2026/08/25/the-lazy-developers-guide-to-observing-your-own-code/",
+      "published_at": "2026-08-25T11:34:00+00:00",
+      "category": "open_source_foundations",
+      "tags": [
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.87,
+      "importance_score": 0.7892,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.cncf.io/?p=173136"
+    },
+    {
+      "title": "Stop trying to learn all of Kubernetes at once",
+      "summary": "As a recovering VMware architect, it took me a little while to grasp Kubernetes. And I noticed I’m not alone in this.. From developers on our own team who need to get fluent in Kubernetes fast...",
+      "source_name": "CNCF",
+      "source_url": "https://www.cncf.io/blog/2026/08/25/stop-trying-to-learn-all-of-kubernetes-at-once/",
+      "published_at": "2026-08-25T11:00:00+00:00",
+      "category": "open_source_foundations",
+      "tags": [
+        "Kubernetes",
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.87,
+      "importance_score": 0.7869,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.cncf.io/?p=173421"
+    },
+    {
+      "title": "Nitter and XCancel receive cease and desist notices",
+      "summary": "https://github.com/zedeus/nitter/issues/1442 https://xcancel.com/",
+      "source_name": "Hacker News",
+      "source_url": "https://github.com/zedeus/nitter/issues/1442",
+      "published_at": "2026-08-25T17:08:21+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7824,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49437283"
+    },
+    {
+      "title": "Black hole singularity is a surface not a point",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://arxiv.org/abs/2608.21590",
+      "published_at": "2026-08-25T17:02:49+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.6915,
+      "importance_score": 0.782,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49437210"
+    },
+    {
+      "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
+      "summary": "",
+      "source_name": "Hugging Face",
+      "source_url": "https://huggingface.co/blog/train-multi-vector-encoder",
+      "published_at": "2026-08-26T00:00:00+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI",
+        "Vector Databases",
+        "AI Models",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.9,
+      "importance_score": 0.781,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://huggingface.co/blog/train-multi-vector-encoder"
+    },
+    {
+      "title": "Making room for what's next in the GitLab UI",
+      "summary": "Throughout this year, the product interface has been in a season of reduction. On the heels of dark mode , the tide has been moving out with a quieter application chrome, overall color reduction, and neutral controls. It can feel like loss, low tide always does. But low tide is also when you can see the shape of the shoreline clearly enough to build something new on it. What’s coming in is a user interface built for a different kind of work where you don't search for the…",
+      "source_name": "GitLab Blog",
+      "source_url": "https://about.gitlab.com/blog/making-room-for-whats-next-in-the-gitlab-ui/",
+      "published_at": "2026-08-26T00:00:00+00:00",
+      "category": "developer_platforms",
+      "tags": [
+        "Developer Platforms"
+      ],
+      "confidence_score": 0.86,
+      "importance_score": 0.781,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://about.gitlab.com/blog/making-room-for-whats-next-in-the-gitlab-ui/"
+    },
+    {
+      "title": "GitLab Patch Release: 19.3.1, 19.2.5, 19.1.7",
+      "summary": "",
+      "source_name": "GitLab Blog",
+      "source_url": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-3-1-released/",
+      "published_at": "2026-08-26T00:00:00+00:00",
+      "category": "developer_platforms",
+      "tags": [
+        "Developer Platforms"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.781,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-3-1-released/"
+    },
+    {
+      "title": "Tooltips need a delay, and then they need to skip it",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://blog.master.dev/tooltips-need-a-delay-and-then-they-need-to-skip-it/",
+      "published_at": "2026-08-25T16:35:36+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.654,
+      "importance_score": 0.7802,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49436786"
+    },
+    {
+      "title": "Moving from Minimus to Docker Hardened Images",
+      "summary": "The Minimus registry goes offline on October 22. Here is the migration path, the free help Docker is offering, and where to start.",
+      "source_name": "Docker Blog",
+      "source_url": "https://www.docker.com/blog/moving-from-minimus-to-docker-hardened-images/",
+      "published_at": "2026-08-25T22:27:06+00:00",
+      "category": "developer_platforms",
+      "tags": [
+        "Containers",
+        "Developer Platforms"
+      ],
+      "confidence_score": 0.87,
+      "importance_score": 0.7746,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.docker.com/?p=93146"
+    },
+    {
+      "title": "Bomb fishing is wreaking havoc on Indonesia's coral reefs",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://e360.yale.edu/digest/bomb-fishing-coral-reefs",
+      "published_at": "2026-08-25T14:29:32+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7714,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49434820"
+    },
+    {
+      "title": "How to evaluate LLMs before production",
+      "summary": "These are the lessons we learned evaluating LLMs for real-world secret scanning. The post How to evaluate LLMs before production appeared first on The GitHub Blog .",
+      "source_name": "The GitHub Blog",
+      "source_url": "https://github.blog/ai-and-ml/llms/how-to-evaluate-llms-before-production/",
+      "published_at": "2026-08-25T21:35:11+00:00",
+      "category": "developer_platforms",
+      "tags": [
+        "LLMs",
+        "Developer Tools",
+        "Developer Platforms"
+      ],
+      "confidence_score": 0.92,
+      "importance_score": 0.771,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://github.blog/?p=98316"
+    },
+    {
+      "title": "Building a backyard office, the build and cost breakdown",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.imkylelambert.com/articles/building-a-backyard-office-the-build-and-cost-breakdown",
+      "published_at": "2026-08-25T14:20:36+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7708,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49434645"
+    },
+    {
+      "title": "The full stack behind abundant intelligence",
+      "summary": "OpenAI CFO Sarah Friar explains how advances across chips, compute, models, and products compound to deliver more useful intelligence at greater scale and lower cost.",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
+      "published_at": "2026-08-25T07:05:00+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI",
+        "AI Models",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.97,
+      "importance_score": 0.7706,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/index/the-full-stack-behind-abundant-intelligence"
+    },
+    {
+      "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
+      "summary": "Jalapeño is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern models.",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/jalapeno-first-results",
+      "published_at": "2026-08-25T07:00:00+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI",
+        "AI Models",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.97,
+      "importance_score": 0.7702,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/index/jalapeno-first-results"
+    },
+    {
+      "title": "OpenAI Jalapeño: Better than Nvidia Blackwell",
+      "summary": "https://www.bloomberg.com/news/articles/2026-08-25/openai-cl... , https://archive.ph/yCTrr",
+      "source_name": "Hacker News",
+      "source_url": "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia",
+      "published_at": "2026-08-25T14:06:02+00:00",
+      "category": "aggregators",
+      "tags": [
+        "AI",
+        "GPUs",
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7698,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49434378"
+    },
+    {
+      "title": "Run OpenBSD on DigitalOcean for $4/month",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/",
+      "published_at": "2026-08-25T17:23:07+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.6445,
+      "importance_score": 0.7698,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49437483"
+    },
+    {
+      "title": "Restore LLM Inference Capacity in Seconds with Shadow Engine Recovery in NVIDIA Dynamo",
+      "summary": "When an LLM engine process fails, the standard recovery path involves a cold restart. This requires loading weights into HBM from storage, compiling kernels,...",
+      "source_name": "NVIDIA Developer Blog",
+      "source_url": "https://developer.nvidia.com/blog/restore-llm-inference-capacity-in-seconds-with-shadow-engine-recovery-in-nvidia-dynamo/",
+      "published_at": "2026-08-25T20:57:54+00:00",
+      "category": "mlops",
+      "tags": [
+        "AI",
+        "LLMs",
+        "GPUs",
+        "Mlops"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.7684,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://developer.nvidia.com/blog/?p=121821"
+    },
+    {
+      "title": "New Mac mini, featuring M6 and M5 Pro",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/",
+      "published_at": "2026-08-25T13:13:00+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7661,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49433450"
+    },
+    {
+      "title": "New Mac Studio with M5 Max and M5 Ultra",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/",
+      "published_at": "2026-08-25T13:03:17+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7654,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49433316"
+    },
+    {
+      "title": "Apple introduces M6 and M5 Ultra",
+      "summary": "https://techcrunch.com/2026/08/25/apple-debuts-its-most-powe... https://9to5mac.com/2026/08/25/m6-mac-mini-vs-m4-mac-mini-he...",
+      "source_name": "Hacker News",
+      "source_url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
+      "published_at": "2026-08-25T13:01:22+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7653,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49433292"
+    },
+    {
+      "title": "PythonOperator and BashOperator Now Available on Amazon Managed Workflows for Apache Airflow (Amazon MWAA) Serverless",
+      "summary": "You can now use PythonOperator and BashOperator to run custom Python functions and shell scripts directly in the Amazon MWAA Serverless runtime, without provisioning additional infrastructure. This post walks through building a serverless pipeline that converts CSV files to JSON using a PythonOperator and verifies the output with a BashOperator.",
+      "source_name": "AWS Big Data Blog",
+      "source_url": "https://aws.amazon.com/blogs/big-data/pythonoperator-and-bashoperator-now-available-on-amazon-managed-workflows-for-apache-airflow-amazon-mwaa-serverless/",
+      "published_at": "2026-08-25T19:28:00+00:00",
+      "category": "cloud_providers",
+      "tags": [
+        "AI",
+        "Data Pipelines",
+        "Python",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.92,
+      "importance_score": 0.7622,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "9e37e8b20dda0aef314f0bff1c703779bef957c7"
+    },
+    {
+      "title": "Canadian tourists are avoiding the US. These 15 states could feel the loss the most.",
+      "summary": "Canadians are traveling to the US less and less amid Trump's presidency. It's hurting many state economies, especially Alaska, Nevada, and Vermont.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/us-states-most-dependent-on-canadian-tourists-2026-8",
+      "published_at": "2026-08-26T14:00:15+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7594,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/us-states-most-dependent-on-canadian-tourists-2026-8"
+    },
+    {
+      "title": "Dolly Parton and her husband Carl Dean were married nearly 59 years but rarely seen together. Here's a timeline of their relationship.",
+      "summary": "Dolly Parton's husband of nearly six decades, Carl Dean, supported Parton's country music career from behind the scenes.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/dolly-parton-husband-carl-dean-relationship-timeline",
+      "published_at": "2026-08-26T13:47:11+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7585,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/dolly-parton-husband-carl-dean-relationship-timeline"
+    },
+    {
+      "title": "Ukrainian soldiers are changing how they train to deliver medical care as casualty evacuation becomes more unpredictable",
+      "summary": "The drone-saturated kill zone on the battlefield means casualty evacuation timelines can be much longer than they were earlier in the war.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/ukrainian-troops-change-medical-care-training-casualty-evacuation-gets-deadlier-2026-8",
+      "published_at": "2026-08-26T13:40:34+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.758,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/ukrainian-troops-change-medical-care-training-casualty-evacuation-gets-deadlier-2026-8"
+    },
+    {
+      "title": "RENDER: Controlling Reader-Facing Evidence in LLM Memory Evaluation",
+      "summary": "arXiv:2608.23568v1 Announce Type: new Abstract: Memory and RAG evaluations often treat the answering model's input as an implementation detail, even though systems may render the same history as a memory entry, summary, typed record, or raw excerpt. We introduce RENDER, a benchmark control that fixes the conversation while varying the reader-facing artifact. RENDER combines a five-level packet ladder, localizing when answer-bearing content enters the input, with…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2608.23568",
+      "published_at": "2026-08-26T04:00:00+00:00",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "LLMs",
+        "AI Models",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7577,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2608.23568v1"
+    },
+    {
+      "title": "ESQ-Bench: A Multi-Tier Enterprise Oracle Benchmark for Evaluating NL2SQL Dialect Generalization and Silent Semantic Divergence",
+      "summary": "arXiv:2608.23569v1 Announce Type: new Abstract: State-of-the-art Natural Language to SQL (NL2SQL) models report execution accuracy exceeding 89 percent on established benchmarks such as Spider and BIRD. However, these benchmarks rely on simplified academic schemas and open-source SQL dialects that do not reflect the complexity of enterprise database environments. We introduce ESQ-Bench, an Oracle-first NL2SQL benchmark with systematic complexity tiers and silent-divergence…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2608.23569",
+      "published_at": "2026-08-26T04:00:00+00:00",
+      "category": "research_feeds",
+      "tags": [
+        "Open Source",
+        "Databases",
+        "AI Models",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7577,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2608.23569v1"
+    },
+    {
+      "title": "LLM Agents Perform Controlled Experiments Using Simulation Models",
+      "summary": "arXiv:2608.23622v1 Announce Type: new Abstract: Large language models (LLMs) have shown strong capabilities in reasoning, planning, and tool use, but many scientific and engineering tasks require more than plausible text and code generation. They require understanding how a system responds to intervention, which in practice depends on controlled experimentation. In this work, we propose a multi-agent framework that enables LLM agents to conduct controlled experiments with…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2608.23622",
+      "published_at": "2026-08-26T04:00:00+00:00",
+      "category": "research_feeds",
+      "tags": [
+        "LLMs",
+        "AI Agents",
+        "AI Models",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7577,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2608.23622v1"
+    },
+    {
+      "title": "A survey detection channel overrides the pixels in an astronomical foundation model, and biases tomographic mean redshifts",
+      "summary": "arXiv:2608.23626v1 Announce Type: new Abstract: Foundation models for astronomy are trained on survey pixels together with the catalogue products derived from those pixels. Those catalogues are incomplete at a measurable rate, and a model trained on both inherits that incompleteness as a systematic. We audit AION-1, a 39-modality transformer trained on more than 200 million objects, using causal interventions on its inputs. Holding the image tokens byte-identical and editing…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2608.23626",
+      "published_at": "2026-08-26T04:00:00+00:00",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "AI Models",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7577,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2608.23626v1"
+    },
+    {
+      "title": "TRACE: Transition-Aware Residual Control for Multi-Objective Materials Discovery",
+      "summary": "arXiv:2608.23631v1 Announce Type: new Abstract: Multi-objective materials discovery with LLM agents is often limited not only by how many candidates can be proposed, but by how effectively each costly property evaluation informs the next search step. Existing agents mainly store evaluated candidates and their scores, so they know which materials succeeded but not which executable edits caused useful property changes. This makes local refinement difficult when objectives…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2608.23631",
+      "published_at": "2026-08-26T04:00:00+00:00",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "LLMs",
+        "AI Agents",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7577,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2608.23631v1"
+    }
+  ]
+}
