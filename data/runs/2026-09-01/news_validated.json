@@ -1,0 +1,826 @@
+{
+  "post_date": "2026-09-01",
+  "sources_checked": 48,
+  "count": 45,
+  "items": [
+    {
+      "title": "Introducing agentic video understanding with Gemini",
+      "summary": "",
+      "source_name": "Google DeepMind",
+      "source_url": "https://deepmind.google/blog/introducing-agentic-video-in-gemini/",
+      "published_at": "2026-09-01T17:08:51Z",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI Agents",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.97,
+      "importance_score": 0.8991,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://deepmind.google/blog/introducing-agentic-video-in-gemini/"
+    },
+    {
+      "title": "Try Google Pics: Easy image creation and editing in Google Workspace",
+      "summary": "Collage of images created by Google Pics, with the text \"Say hello to Google Pics\" on top",
+      "source_name": "Google AI (The Keyword)",
+      "source_url": "https://blog.google/products-and-platforms/products/workspace/google-pics/",
+      "published_at": "2026-09-01T16:00:00Z",
+      "category": "ai_model_companies",
+      "tags": [
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.8944,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://blog.google/products-and-platforms/products/workspace/google-pics/"
+    },
+    {
+      "title": "Salesforce Named a Leader in the 2026 Gartner® Magic Quadrant™ for Healthcare Provider Industry Cloud Platforms",
+      "summary": "Agentforce Health helps health systems unify patient data and deploy autonomous AI agents to deliver faster, more personalized care.",
+      "source_name": "Salesforce News",
+      "source_url": "https://www.salesforce.com/news/stories/gartner-magic-quadrant-healthcare-provider-industry-cloud-platforms-2026/",
+      "published_at": "2026-09-01T13:00:00Z",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Cloud",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.8818,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.salesforce.com/?p=94769"
+    },
+    {
+      "title": "Platform engineering maturity: From toolchain to self-service",
+      "summary": "Most platform engineering conversations tend to split into two rooms pretty quickly. The first room is full of teams who don’t have a platform yet. Scattered scripts, tribal knowledge, and every team is doing the same...",
+      "source_name": "CNCF",
+      "source_url": "https://www.cncf.io/blog/2026/09/01/platform-engineering-maturity-from-toolchain-to-self-service/",
+      "published_at": "2026-09-01T11:35:00Z",
+      "category": "open_source_foundations",
+      "tags": [
+        "AI",
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8759,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.cncf.io/?p=173526"
+    },
+    {
+      "title": "AnkiDroid: Google Play no longer allowing Open Collective donation link",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://github.com/ankidroid/Anki-Android/issues/21656",
+      "published_at": "2026-09-01T10:11:02Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.8401,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49520022"
+    },
+    {
+      "title": "Claude Fable 5 and Claude Mythos 5",
+      "summary": "Claude Fable 5 and Claude Mythos 5 Anthropic",
+      "source_name": "Anthropic",
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcGIwaG56UlVPbC1ZYTUyT0JrQ25OdDNXdGVGY0hBQ2x3RjEwcHVQVlFWX0RxUlVrYlhsU29WaTgyczNiM1V4amxwV3duaXgwVXhVM2hpUHVIdF9oSkkteUhDM0hOaF9FbVMzay1pQ1ltOGZGM2ZPM002djBTYzI4TG9WOGZHcGR3Z2gzZmFuVEd6QnBnQ3pSODdVVVlnQ2lfcmFhNXRn?oc=5",
+      "published_at": "2026-09-01T02:56:02Z",
+      "category": "ai_model_companies",
+      "tags": [
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.99,
+      "importance_score": 0.8399,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "CBMipgFBVV95cUxNcGIwaG56UlVPbC1ZYTUyT0JrQ25OdDNXdGVGY0hBQ2x3RjEwcHVQVlFWX0RxUlVrYlhsU29WaTgyczNiM1V4amxwV3duaXgwVXhVM2hpUHVIdF9oSkkteUhDM0hOaF9FbVMzay1pQ1ltOGZGM2ZPM002djBTYzI4TG9WOGZHcGR3Z2gzZmFuVEd6QnBnQ3pSODdVVVlnQ2lfcmFhNXRn"
+    },
+    {
+      "title": "I trained a small transformer in 1.5hrs and it beats many LLMs",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://mvakde.github.io/blog/44-on-arc-1/",
+      "published_at": "2026-09-01T09:52:45Z",
+      "category": "aggregators",
+      "tags": [
+        "AI",
+        "LLMs",
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.8388,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49519939"
+    },
+    {
+      "title": "Building an Adaptive Agentic Cybersecurity System with NVIDIA Nemotron",
+      "summary": "AI is changing the pace of cybersecurity. Agentic systems can coordinate work and pursue complex objectives over long horizons. Security teams are beginning to...",
+      "source_name": "NVIDIA Developer Blog",
+      "source_url": "https://developer.nvidia.com/blog/building-an-adaptive-agentic-cybersecurity-system-with-nvidia-nemotron/",
+      "published_at": "2026-09-01T17:00:04Z",
+      "category": "mlops",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "GPUs",
+        "Security",
+        "Mlops"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8385,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://developer.nvidia.com/blog/?p=121995"
+    },
+    {
+      "title": "Observing and evaluating production agents using OpenSearch Agent Health",
+      "summary": "Learn how to observe and evaluate production AI agents by combining an agent running on AWS with OpenSearch Agent Health. This post walks through deploying an agent and its observability pipeline to AWS, then using Agent Health to explore traces and run evaluations that measure and improve agent quality over time.",
+      "source_name": "AWS Big Data Blog",
+      "source_url": "https://aws.amazon.com/blogs/big-data/observing-and-evaluating-production-agents-using-opensearch-agent-health/",
+      "published_at": "2026-09-01T16:19:02Z",
+      "category": "cloud_providers",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Data Pipelines",
+        "AWS",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.92,
+      "importance_score": 0.8357,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "b0b6f1eac15ab79405c85629aa2ce9e8420cb617"
+    },
+    {
+      "title": "Accelerate Apache Spark debugging on Amazon EMR with AWS DevOps Agent",
+      "summary": "Extend AWS DevOps Agent to investigate Apache Spark failures on Amazon EMR. This post shows how to register the Apache Spark Troubleshooting Agent for Amazon EMR as a custom MCP capability provider over AWS PrivateLink, so a single agent chat session diagnoses a failing Spark job from an Amazon CloudWatch alarm to a line-numbered root cause.",
+      "source_name": "AWS Big Data Blog",
+      "source_url": "https://aws.amazon.com/blogs/big-data/accelerate-apache-spark-debugging-on-amazon-emr-with-aws-devops-agent/",
+      "published_at": "2026-09-01T16:06:44Z",
+      "category": "cloud_providers",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Apache Spark",
+        "Cloud",
+        "AWS",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.92,
+      "importance_score": 0.8348,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "aca2a06510bb5601101dc9ed433507ac09b5ecf5"
+    },
+    {
+      "title": "How Blackline simplifies perimeter policy intelligence with VPC Service Controls",
+      "summary": "Establishing network-level perimeters with VPC Service Controls (VPC-SC) is a critical step that can help you protect your cloud environment against data exfiltration, compromised accounts, and insider threats. Today, Google Cloud is excited to share new policy intelligence capabilities in VPC-SC that can help drive even greater operational simplicity. With our latest release of the VPC-SC violation analyzer and violation dashboard , we have simplified policy management and…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/topics/customers/how-blackline-prevents-data-exfiltration-with-vpc-service-controls/",
+      "published_at": "2026-09-01T16:00:00Z",
+      "category": "cloud_providers",
+      "tags": [
+        "AI",
+        "Cloud",
+        "Google Cloud",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.8344,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/topics/customers/how-blackline-prevents-data-exfiltration-with-vpc-service-controls/"
+    },
+    {
+      "title": "Introducing TabFM in BigQuery: Predictive analytics reimagined",
+      "summary": "Historically, enterprise predictive analytics tasks such as predicting churn, purchase intent, or fraud scoring have meant building custom models using libraries like XGBoost, Random Forest, or Deep Neural Networks (DNNs). While effective, the traditional train-tune-deploy-retrain cycle can be complex and time-consuming. Additionally, the overhead of manual feature engineering, hyperparameter tuning, lengthy and expensive training, and the need for specialized data science…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/products/data-analytics/tabfm-adds-predictive-ml-to-bigquery/",
+      "published_at": "2026-09-01T16:00:00Z",
+      "category": "cloud_providers",
+      "tags": [
+        "AI",
+        "AI Models",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.8344,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/products/data-analytics/tabfm-adds-predictive-ml-to-bigquery/"
+    },
+    {
+      "title": "How to Size GPUs for AI Inference and TCO Without Overspending",
+      "summary": "The surge in AI adoption is transforming everything from chatbots to content generation. Still, a common pain point remains: How can organizations confidently...",
+      "source_name": "NVIDIA Developer Blog",
+      "source_url": "https://developer.nvidia.com/blog/how-to-size-gpus-for-ai-inference-and-tco-without-overspending/",
+      "published_at": "2026-09-01T15:00:00Z",
+      "category": "mlops",
+      "tags": [
+        "AI",
+        "GPUs",
+        "Mlops"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8302,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://developer.nvidia.com/blog/?p=121993"
+    },
+    {
+      "title": "Financially Motivated Threat Actor BREEZE COMET Targets Brazil",
+      "summary": "Introduction Beginning in 2024 Mandiant investigated a string of compromises affecting Brazilian financial services, retail, and eCommerce organizations. Google Threat Intelligence Group (GTIG) tracks this activity as BREEZE COMET (formerly UNC5669), a financially motivated threat actor specializing in manipulating payment systems and banking software in Brazil to conduct fraudulent transfers. This activity overlaps with operations publicly reported as Plump Spider and…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/topics/threat-intelligence/financially-motivated-threat-actor-breeze-comet-targets-brazil/",
+      "published_at": "2026-09-01T14:00:00Z",
+      "category": "cloud_providers",
+      "tags": [
+        "AI",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.826,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/topics/threat-intelligence/financially-motivated-threat-actor-breeze-comet-targets-brazil/"
+    },
+    {
+      "title": "Improving our alignment and security practices",
+      "summary": "Improving our alignment and security practices Anthropic",
+      "source_name": "Anthropic",
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE00LWY0NEplRlIyRFlGZENXb0VQc0ZNb3BuSjlZeTB3OWdqWEh5eEFxbzJMa0hFTkhrYy03NjZ5MGdsMnNKbHJsXzVpVENSb014eXdXaEkzOXFHWUVRa1U3TXhpVWZCb0FJaHFqWTJhLW9JbGtYWGc?oc=5",
+      "published_at": "2026-08-31T22:43:26Z",
+      "category": "ai_model_companies",
+      "tags": [
+        "Security",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.99,
+      "importance_score": 0.8224,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "CBMidkFVX3lxTE00LWY0NEplRlIyRFlGZENXb0VQc0ZNb3BuSjlZeTB3OWdqWEh5eEFxbzJMa0hFTkhrYy03NjZ5MGdsMnNKbHJsXzVpVENSb014eXdXaEkzOXFHWUVRa1U3TXhpVWZCb0FJaHFqWTJhLW9JbGtYWGc"
+    },
+    {
+      "title": "Play Store blocks AuroraStore, hurting GrapheneOS users",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://gitlab.com/AuroraOSS/AuroraStore/-/work_items/1566",
+      "published_at": "2026-09-01T15:55:53Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.633,
+      "importance_score": 0.8215,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49523754"
+    },
+    {
+      "title": "Restroom Archive",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://restroomarchive.com",
+      "published_at": "2026-09-01T03:23:48Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.8118,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49517624"
+    },
+    {
+      "title": "GPU World",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.gpuworld.org/",
+      "published_at": "2026-09-01T03:16:36Z",
+      "category": "aggregators",
+      "tags": [
+        "GPUs",
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.8113,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49517584"
+    },
+    {
+      "title": "Fastpotify",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://fastpotify.rocks/",
+      "published_at": "2026-09-01T02:52:14Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.8096,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49517448"
+    },
+    {
+      "title": "Top Innovations in the Winter ’27 Release: AI Agents Run the Work, Freeing the Enterprise to Work Smarter and Faster",
+      "summary": "The Winter ’27 Release marks a fundamental shift in how AI agents operate within the enterprise. Instead of assisting employees one task at a time, agents now run entire workflows — qualifying pipeline, resolving service cases, booking appointments, underwriting risk. They operate from start to finish on every channel companies already use, from Slack and […]",
+      "source_name": "Salesforce News",
+      "source_url": "https://www.salesforce.com/news/stories/winter-2027-product-release-announcement/",
+      "published_at": "2026-08-31T12:00:00Z",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Data Pipelines",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7777,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.salesforce.com/?p=94889"
+    },
+    {
+      "title": "OpenTelemetry has graduated… now what?",
+      "summary": "In case you missed it: OpenTelemetry (OTel) has officially achieved CNCF graduated status! It now stands proudly alongside amazing open source projects such as Kubernetes and Prometheus, to name just a few. It’s been a long...",
+      "source_name": "CNCF",
+      "source_url": "https://www.cncf.io/blog/2026/08/31/opentelemetry-has-graduated-now-what-2/",
+      "published_at": "2026-08-31T11:30:00Z",
+      "category": "open_source_foundations",
+      "tags": [
+        "Kubernetes",
+        "Open Source",
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.87,
+      "importance_score": 0.7756,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.cncf.io/?p=173486"
+    },
+    {
+      "title": "Observability in Kubernetes: From metrics to meaning",
+      "summary": "Kubernetes made infrastructure more programmable, scalable, and resilient. It also made production systems harder to reason about. Workloads move, replicas churn, dependencies multiply, and a single user request can cross ingress, services, queues, storage, and background...",
+      "source_name": "CNCF",
+      "source_url": "https://www.cncf.io/blog/2026/08/31/observability-in-kubernetes-from-metrics-to-meaning/",
+      "published_at": "2026-08-31T11:00:00Z",
+      "category": "open_source_foundations",
+      "tags": [
+        "Kubernetes",
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.87,
+      "importance_score": 0.7735,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.cncf.io/?p=172949"
+    },
+    {
+      "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
+      "summary": "",
+      "source_name": "Hugging Face",
+      "source_url": "https://huggingface.co/blog/webgpu-kernels",
+      "published_at": "2026-09-01T00:00:00Z",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI",
+        "GPUs",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.9,
+      "importance_score": 0.7677,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://huggingface.co/blog/webgpu-kernels"
+    },
+    {
+      "title": "I turned my security cameras into an automatic bird identification system",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/",
+      "published_at": "2026-08-31T16:47:11Z",
+      "category": "aggregators",
+      "tags": [
+        "Security",
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7676,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49511856"
+    },
+    {
+      "title": "Kubernetes v1.37: Storage Version Migration Enabled by Default",
+      "summary": "I am excited that storage version migration (SVM) has graduated to General Availability (GA) in Kubernetes v1.37! After a number of releases of work and testing, the built-in StorageVersionMigration API ( storagemigration.k8s.io/v1 ) and control plane controller are now fully stable and enabled by default across all v1.37 Kubernetes clusters. The problem with stale storage versions In Kubernetes, stored API resources are written using a specific storage version (schema…",
+      "source_name": "Kubernetes Blog",
+      "source_url": "https://kubernetes.io/blog/2026/08/31/kubernetes-v1-37-storage-version-migration-ga/",
+      "published_at": "2026-08-31T18:30:00Z",
+      "category": "open_source_foundations",
+      "tags": [
+        "AI",
+        "Kubernetes",
+        "APIs",
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.92,
+      "importance_score": 0.7648,
+      "source_type": "release_notes",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://kubernetes.io/blog/2026/08/31/kubernetes-v1-37-storage-version-migration-ga/"
+    },
+    {
+      "title": "Deliver real-time data to streaming tables for Apache Iceberg with Amazon Kinesis Data Streams",
+      "summary": "Amazon Kinesis Data Streams now supports streaming tables, a fully managed capability that continuously delivers your streaming data as queryable Apache Iceberg tables on Amazon S3 Tables. Streaming tables cut delivery costs by up to 25% and query costs by up to 30% through inline compaction, with no infrastructure to operate.",
+      "source_name": "AWS Big Data Blog",
+      "source_url": "https://aws.amazon.com/blogs/big-data/deliver-real-time-data-to-streaming-tables-for-apache-iceberg-with-amazon-kinesis-data-streams/",
+      "published_at": "2026-08-31T23:03:25Z",
+      "category": "cloud_providers",
+      "tags": [
+        "Streaming",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.92,
+      "importance_score": 0.7638,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "dcfc2043b085b9273944141d7e341354d1c31e28"
+    },
+    {
+      "title": "BigQuery Graph is now GA: the knowledge foundation for the agentic era",
+      "summary": "Many of the questions that matter in enterprise data aren't just about individual rows — they're about how things connect: how two accounts are linked, what path a payment took, what context grounds an AI agent's answer. That’s what a graph is built to solve. Historically, unlocking these insights meant extracting data into standalone graph databases, creating silos and operational overhead. To remove these barriers, we brought native graph capabilities directly to the data…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/products/data-analytics/bigquery-graph-connecting-data-and-ai-at-scale/",
+      "published_at": "2026-08-31T23:00:00Z",
+      "category": "cloud_providers",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Databases",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.7635,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/products/data-analytics/bigquery-graph-connecting-data-and-ai-at-scale/"
+    },
+    {
+      "title": "Introducing Ad Blocker for Firefox on iOS",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://blog.mozilla.org/en/firefox/ad-blocker-on-ios/",
+      "published_at": "2026-09-01T13:46:49Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.613,
+      "importance_score": 0.7626,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49521973"
+    },
+    {
+      "title": "Playa Phone",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://playaphone.com/",
+      "published_at": "2026-08-31T14:52:26Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7596,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49510514"
+    },
+    {
+      "title": "Map Apps Are Handling Trump’s Renaming of Lake Ontario to Lake America Differently",
+      "summary": "Navigation companies face a new dilemma after President Trump ordered Lake Ontario to be renamed Lake America.",
+      "source_name": "The New York Times - Technology",
+      "source_url": "https://www.nytimes.com/2026/09/01/us/lake-ontario-america-name-apple-maps-mapquest.html",
+      "published_at": "2026-09-01T17:03:35Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7587,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.nytimes.com/2026/09/01/us/lake-ontario-america-name-apple-maps-mapquest.html"
+    },
+    {
+      "title": "ChatGPT Health adds Epic integration for clinicians to import patient data",
+      "summary": "OpenAI said that the integration provides read-only access to health records for clinicians.",
+      "source_name": "TechCrunch - AI",
+      "source_url": "https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data/",
+      "published_at": "2026-09-01T17:00:00Z",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7585,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://techcrunch.com/?p=3159529"
+    },
+    {
+      "title": "ReactOS 0.4.16 serves '90s Windows nostalgia with fewer bugs",
+      "summary": "30 years on, it's still alpha, but 0.4.16 brings plenty of bug fixes and quality-of-life improvements - just in time for Windows XP's 25th anniversary",
+      "source_name": "The Register",
+      "source_url": "https://www.theregister.com/os-platforms/2026/09/01/reactos-0416-serves-90s-windows-nostalgia-with-fewer-bugs/5293694",
+      "published_at": "2026-09-01T16:43:19Z",
+      "category": "enterprise_technology",
+      "tags": [
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7574,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.theregister.com/a/5293694"
+    },
+    {
+      "title": "OpenAI supports California’s bill to advance youth AI safety",
+      "summary": "OpenAI supports California SB 1119, advancing strong, age-appropriate AI safeguards for teens while preserving opportunities to learn, create, and explore.",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
+      "published_at": "2026-08-31T07:00:00Z",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.97,
+      "importance_score": 0.7569,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety"
+    },
+    {
+      "title": "Polimill builds Japan's next-generation public AI infrastructure",
+      "summary": "Polimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development.",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/polimill",
+      "published_at": "2026-08-31T07:00:00Z",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI",
+        "AI Models",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.97,
+      "importance_score": 0.7569,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/index/polimill"
+    },
+    {
+      "title": "We thought we'd be empty nesters at 50. Instead, 3 of our adult kids are living at home, and one's moving back in soon.",
+      "summary": "We always thought we'd have an empty house once our youngest kid graduated from high school, but all four of our children have plans to stay home.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/adult-kids-still-living-home-plans-changing-good-for-relationship-2026-9",
+      "published_at": "2026-09-01T16:32:33Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7566,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/adult-kids-still-living-home-plans-changing-good-for-relationship-2026-9"
+    },
+    {
+      "title": "Sequoia-incubated Empirik launches with $21M to predict outages before they happen",
+      "summary": "The startup wants to do for IT infrastructure what Cursor did for software engineering.",
+      "source_name": "TechCrunch - AI",
+      "source_url": "https://techcrunch.com/2026/09/01/sequoia-incubated-empirik-launches-with-21m-to-predict-outages-before-they-happen/",
+      "published_at": "2026-09-01T16:31:04Z",
+      "category": "enterprise_technology",
+      "tags": [
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7565,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://techcrunch.com/?p=3159706"
+    },
+    {
+      "title": "Measuring and improving search quality with Amazon OpenSearch Service",
+      "summary": "Most teams struggle to answer a deceptively simple question: is my search returning relevant results? This post shows how to capture User Behavior Insights (UBI) data on Amazon OpenSearch Service and use Search Relevance Workbench (SRW) to turn those signals into relevance judgments and evaluate search quality.",
+      "source_name": "AWS Big Data Blog",
+      "source_url": "https://aws.amazon.com/blogs/big-data/measuring-and-improving-search-quality-with-amazon-opensearch-service/",
+      "published_at": "2026-08-31T21:13:36Z",
+      "category": "cloud_providers",
+      "tags": [
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.92,
+      "importance_score": 0.7561,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "b79e36a631c786973f43d88f11ece44cb75be727"
+    },
+    {
+      "title": "Western training manuals update too slowly to properly prepare Ukrainian troops for a fast-changing battlefield, commander says",
+      "summary": "Training for Ukrainian troops on NATO soil aims to mirror the battlefield, but the commander in charge says bureaucratic manuals can't keep up.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/annual-training-manuals-too-slow-training-ukraine-soldiers-nato-commander-2026-9",
+      "published_at": "2026-09-01T16:18:33Z",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7556,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/annual-training-manuals-too-slow-training-ukraine-soldiers-nato-commander-2026-9"
+    },
+    {
+      "title": "LAST CALL: Nominate an up-and-comer for Business Insider's Rising Stars of Wall Street",
+      "summary": "Tell us about young finance hotshots we should know.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/rising-stars-of-wall-street-nominations-2026",
+      "published_at": "2026-09-01T16:10:01Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.755,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/rising-stars-of-wall-street-nominations-2026"
+    },
+    {
+      "title": "Oracle pins hopes on 'Star Wars' productivity jump to lightspeed from AI-assisted engineering",
+      "summary": "Big Red talks up superhuman coders after shedding 21,000 staff",
+      "source_name": "The Register",
+      "source_url": "https://www.theregister.com/ai-and-ml/2026/09/01/oracle-pins-hopes-on-star-wars-productivity-jump-to-lightspeed-from-ai-assisted-engineering-1/5293596",
+      "published_at": "2026-09-01T16:06:00Z",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7548,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.theregister.com/a/5293596"
+    },
+    {
+      "title": "Student-loan borrowers have 1 month to enroll in a temporary repayment benefit",
+      "summary": "Student-loan borrowers can enroll in autopay by September 30 to receive a 1-percentage-point interest-rate reduction for 2 years.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/student-loan-borrowers-one-month-left-interest-rate-reduction-benefit-2026-9",
+      "published_at": "2026-09-01T16:04:52Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7547,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/student-loan-borrowers-one-month-left-interest-rate-reduction-benefit-2026-9"
+    },
+    {
+      "title": "I tried 5 different protein sodas. One stood out for having the best flavor and highest protein content.",
+      "summary": "I compared sparkling protein drinks from Summit Popz, Clean Simple Eats, Premier Protein, Proda, Barebells to find the best soda at the grocery store.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/best-protein-soda-to-get-grocery-store-ranking-review-photos-2026-9",
+      "published_at": "2026-09-01T16:02:01Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Apache Spark",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7545,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/best-protein-soda-to-get-grocery-store-ranking-review-photos-2026-9"
+    },
+    {
+      "title": "Every couple from the 'Love Island USA' universe who are still together",
+      "summary": "The \"Love Island USA\" season eight reunion debuted on August 31. Only 13 couples remain together, including six from season eight.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/love-island-usa-couples-still-together",
+      "published_at": "2026-09-01T15:57:40Z",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7542,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/love-island-usa-couples-still-together"
+    },
+    {
+      "title": "Graduates of a small West Coast college are earning more than Harvard and Stanford alums. Here's why.",
+      "summary": "Samuel Merritt University, a small college in the Bay Area, has some of America's highest-earning graduates — thanks to its focus and location.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/west-coast-nursing-school-harvard-stanford-graduate-pay",
+      "published_at": "2026-09-01T15:57:09Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7541,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/west-coast-nursing-school-harvard-stanford-graduate-pay"
+    },
+    {
+      "title": "Amazon Alexa can now alert you when something new might tempt you to shop",
+      "summary": "Amazon is adding a new Alexa-powered feature called “Update Me When” that can send personalized alerts about product launches, tours, books, shows, and other events that could trigger a purchase.",
+      "source_name": "TechCrunch - AI",
+      "source_url": "https://techcrunch.com/2026/09/01/amazon-alexa-can-now-alert-you-when-something-new-might-tempt-you-to-shop/",
+      "published_at": "2026-09-01T15:51:55Z",
+      "category": "enterprise_technology",
+      "tags": [
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7538,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://techcrunch.com/?p=3159627"
+    }
+  ]
+}
