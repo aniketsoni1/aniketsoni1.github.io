@@ -11,15 +11,16 @@ name: Daily Tech Signal Engine
 #  plus the rendered _posts/*.md from gold onward).
 #
 #  Schedule note
-#  Uses GitHub Actions' native `timezone:` on the cron (supported since
-#  March 2026) - DST is handled automatically. The guard keeps a sanity
-#  window (09:00–11:59 ET) because GitHub's scheduler can fire 15 min to
-#  2+ hours late at peak; a drifted run must still publish.
+#  Fires on a PLAIN UTC cron. GitHub's native `timezone:` cron key proved
+#  unreliable and silently shifted the fire time, so scheduled runs landed
+#  outside the guard window and no-op'd. The guard now accepts a wide ET
+#  window so a correctly-timed run still publishes even when GitHub's
+#  scheduler fires hours late; only dead-of-night misfires are skipped.
 # ════════════════════════════════════════════════════════════════════
 on:
   schedule:
-    - cron: "24 9 * * *"
-      timezone: "America/New_York"
+    # 13:24 UTC ~= 09:24 ET (EDT) / 08:24 ET (EST).
+    - cron: "24 13 * * *"
   workflow_dispatch:
 
 permissions:
@@ -48,12 +49,12 @@ jobs:
           fi
           HOUR=$(TZ='America/New_York' date +%H)
           echo "Current America/New_York hour: $HOUR"
-          # Accept 09–11 ET: the scheduler routinely fires late; a drifted
+          # Accept a wide 06-16 ET window: tolerate GitHub scheduler lag; a drifted
           # daily run must publish, not silently no-op.
           case "$HOUR" in
-            09|10|11) echo "run=true"  >> "$GITHUB_OUTPUT" ;;
+            0[6-9]|1[0-6]) echo "run=true"  >> "$GITHUB_OUTPUT" ;;
             *)        echo "run=false" >> "$GITHUB_OUTPUT"
-                      echo "Outside the 09:00–11:59 ET window - no-op." ;;
+                      echo "Outside the 06:00-16:59 ET window - no-op." ;;
           esac
 
   # ── Stage 1 · Bronze - raw ingestion ────────────────────────────────

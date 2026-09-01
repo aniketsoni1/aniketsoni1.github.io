@@ -13,13 +13,14 @@ name: Weekly Signal Perspective
 #  data/runs/*/daily_signal_payload.json files, so checkout carries them.
 #  Between jobs, data moves via workflow artifacts.
 #
-#  Uses the native `timezone:` cron key (DST handled by GitHub). The guard
-#  keeps a Sunday + 12:00–14:59 ET sanity window, tolerant of scheduler lag.
+#  Fires on a PLAIN UTC cron (the native `timezone:` cron key proved
+#  unreliable and shifted fire times). The guard accepts a wide Sunday ET
+#  window, tolerant of DST and scheduler lag.
 # ════════════════════════════════════════════════════════════════════
 on:
   schedule:
-    - cron: "0 12 * * 0"
-      timezone: "America/New_York"
+    # 16:00 UTC ~= 12:00 ET (EDT) / 11:00 ET (EST) on Sundays.
+    - cron: "17 16 * * 0"
   workflow_dispatch:
 
 permissions:
@@ -48,13 +49,15 @@ jobs:
           HOUR=$(TZ='America/New_York' date +%H)
           DOW=$(TZ='America/New_York' date +%u)   # 7 = Sunday
           echo "America/New_York now: day=$DOW hour=$HOUR"
-          # Accept Sunday 10–12 ET (scheduler can fire late).
-          if [ "$DOW" = "7" ] && { [ "$HOUR" = "10" ] || [ "$HOUR" = "11" ] || [ "$HOUR" = "12" ]; }; then
-            echo "run=true" >> "$GITHUB_OUTPUT"
-          else
-            echo "run=false" >> "$GITHUB_OUTPUT"
-            echo "Outside the Sunday 10:00–12:59 ET window - no-op."
+          # Accept Sunday 09-16 ET: a wide window tolerant of DST and of
+          # GitHub's scheduler firing hours late; only off-day / dead-of-
+          # night triggers are skipped.
+          RUN=false
+          if [ "$DOW" = "7" ]; then
+            case "$HOUR" in 09|1[0-6]) RUN=true ;; esac
           fi
+          echo "run=$RUN" >> "$GITHUB_OUTPUT"
+          [ "$RUN" = "true" ] || echo "Outside the Sunday 09:00-16:59 ET window - no-op."
 
   # ── Stage 1 · Bronze - aggregate the week + link re-validation ──────
   bronze-aggregate:
