@@ -1,0 +1,842 @@
+{
+  "generated_at": "2026-09-01T03:19:16.316659+00:00",
+  "post_date": "2026-08-31",
+  "sources_checked": 48,
+  "candidates": 45,
+  "items": [
+    {
+      "title": "Improving our alignment and security practices",
+      "summary": "Improving our alignment and security practices Anthropic",
+      "source_name": "Anthropic",
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE00LWY0NEplRlIyRFlGZENXb0VQc0ZNb3BuSjlZeTB3OWdqWEh5eEFxbzJMa0hFTkhrYy03NjZ5MGdsMnNKbHJsXzVpVENSb014eXdXaEkzOXFHWUVRa1U3TXhpVWZCb0FJaHFqWTJhLW9JbGtYWGc?oc=5",
+      "published_at": "2026-08-31T22:43:26+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "Security",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.99,
+      "importance_score": 0.8809,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "CBMidkFVX3lxTE00LWY0NEplRlIyRFlGZENXb0VQc0ZNb3BuSjlZeTB3OWdqWEh5eEFxbzJMa0hFTkhrYy03NjZ5MGdsMnNKbHJsXzVpVENSb014eXdXaEkzOXFHWUVRa1U3TXhpVWZCb0FJaHFqWTJhLW9JbGtYWGc"
+    },
+    {
+      "title": "Google Has Removed MV2 Extensions from the Chrome Web Store, Including UBO",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://webiterate.dev/google-removed-extensions-ublock-origin-108/",
+      "published_at": "2026-08-31T21:10:58+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.8444,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49514878"
+    },
+    {
+      "title": "Financially Motivated Threat Actor BREEZE COMET Targets Brazil",
+      "summary": "Introduction Beginning in 2024 Mandiant investigated a string of compromises affecting Brazilian financial services, retail, and eCommerce organizations. Google Threat Intelligence Group (GTIG) tracks this activity as BREEZE COMET (formerly UNC5669), a financially motivated threat actor specializing in manipulating payment systems and banking software in Brazil to conduct fraudulent transfers. This activity overlaps with operations publicly reported as Plump Spider and…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/topics/threat-intelligence/financially-motivated-threat-actor-breeze-comet-targets-brazil/",
+      "published_at": "2026-09-01T14:00:00+00:00",
+      "category": "cloud_providers",
+      "tags": [
+        "AI",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.84,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/topics/threat-intelligence/financially-motivated-threat-actor-breeze-comet-targets-brazil/"
+    },
+    {
+      "title": "Top Innovations in the Winter ’27 Release: AI Agents Run the Work, Freeing the Enterprise to Work Smarter and Faster",
+      "summary": "The Winter ’27 Release marks a fundamental shift in how AI agents operate within the enterprise. Instead of assisting employees one task at a time, agents now run entire workflows — qualifying pipeline, resolving service cases, booking appointments, underwriting risk. They operate from start to finish on every channel companies already use, from Slack and […]",
+      "source_name": "Salesforce News",
+      "source_url": "https://www.salesforce.com/news/stories/winter-2027-product-release-announcement/",
+      "published_at": "2026-08-31T12:00:00+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Data Pipelines",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.8362,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.salesforce.com/?p=94889"
+    },
+    {
+      "title": "OpenTelemetry has graduated… now what?",
+      "summary": "In case you missed it: OpenTelemetry (OTel) has officially achieved CNCF graduated status! It now stands proudly alongside amazing open source projects such as Kubernetes and Prometheus, to name just a few. It’s been a long...",
+      "source_name": "CNCF",
+      "source_url": "https://www.cncf.io/blog/2026/08/31/opentelemetry-has-graduated-now-what-2/",
+      "published_at": "2026-08-31T11:30:00+00:00",
+      "category": "open_source_foundations",
+      "tags": [
+        "Kubernetes",
+        "Open Source",
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8341,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.cncf.io/?p=173486"
+    },
+    {
+      "title": "A walkable ASCII cyberpunk city in one HTML file [video]",
+      "summary": "ASCII City: Traffic and Detail Update - https://www.youtube.com/watch?v=DSRooHo_HSI ASCII City Update: Interiors, Elevation and Skyscrapers - https://www.youtube.com/watch?v=UCKEDWowc0o",
+      "source_name": "Hacker News",
+      "source_url": "https://www.youtube.com/watch?v=3YtygAx_C6A",
+      "published_at": "2026-08-31T18:21:33+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.6655,
+      "importance_score": 0.8327,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49512975"
+    },
+    {
+      "title": "I turned my security cameras into an automatic bird identification system",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/",
+      "published_at": "2026-08-31T16:47:11+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Security",
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.8261,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49511856"
+    },
+    {
+      "title": "Kubernetes v1.37: Storage Version Migration Enabled by Default",
+      "summary": "I am excited that storage version migration (SVM) has graduated to General Availability (GA) in Kubernetes v1.37! After a number of releases of work and testing, the built-in StorageVersionMigration API ( storagemigration.k8s.io/v1 ) and control plane controller are now fully stable and enabled by default across all v1.37 Kubernetes clusters. The problem with stale storage versions In Kubernetes, stored API resources are written using a specific storage version (schema…",
+      "source_name": "Kubernetes Blog",
+      "source_url": "https://kubernetes.io/blog/2026/08/31/kubernetes-v1-37-storage-version-migration-ga/",
+      "published_at": "2026-08-31T18:30:00+00:00",
+      "category": "open_source_foundations",
+      "tags": [
+        "AI",
+        "Kubernetes",
+        "APIs",
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.92,
+      "importance_score": 0.8233,
+      "source_type": "release_notes",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://kubernetes.io/blog/2026/08/31/kubernetes-v1-37-storage-version-migration-ga/"
+    },
+    {
+      "title": "Deliver real-time data to streaming tables for Apache Iceberg with Amazon Kinesis Data Streams",
+      "summary": "Amazon Kinesis Data Streams now supports streaming tables, a fully managed capability that continuously delivers your streaming data as queryable Apache Iceberg tables on Amazon S3 Tables. Streaming tables cut delivery costs by up to 25% and query costs by up to 30% through inline compaction, with no infrastructure to operate.",
+      "source_name": "AWS Big Data Blog",
+      "source_url": "https://aws.amazon.com/blogs/big-data/deliver-real-time-data-to-streaming-tables-for-apache-iceberg-with-amazon-kinesis-data-streams/",
+      "published_at": "2026-08-31T23:03:25+00:00",
+      "category": "cloud_providers",
+      "tags": [
+        "Streaming",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.92,
+      "importance_score": 0.8223,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "dcfc2043b085b9273944141d7e341354d1c31e28"
+    },
+    {
+      "title": "BigQuery Graph is now GA: the knowledge foundation for the agentic era",
+      "summary": "Many of the questions that matter in enterprise data aren't just about individual rows — they're about how things connect: how two accounts are linked, what path a payment took, what context grounds an AI agent's answer. That’s what a graph is built to solve. Historically, unlocking these insights meant extracting data into standalone graph databases, creating silos and operational overhead. To remove these barriers, we brought native graph capabilities directly to the data…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/products/data-analytics/bigquery-graph-connecting-data-and-ai-at-scale/",
+      "published_at": "2026-08-31T23:00:00+00:00",
+      "category": "cloud_providers",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Databases",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.822,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/products/data-analytics/bigquery-graph-connecting-data-and-ai-at-scale/"
+    },
+    {
+      "title": "Playa Phone",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://playaphone.com/",
+      "published_at": "2026-08-31T14:52:26+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.8181,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49510514"
+    },
+    {
+      "title": "Polimill builds Japan's next-generation public AI infrastructure",
+      "summary": "Polimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development.",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/polimill",
+      "published_at": "2026-08-31T07:00:00+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI",
+        "AI Models",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.99,
+      "importance_score": 0.8154,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/index/polimill"
+    },
+    {
+      "title": "Measuring and improving search quality with Amazon OpenSearch Service",
+      "summary": "Most teams struggle to answer a deceptively simple question: is my search returning relevant results? This post shows how to capture User Behavior Insights (UBI) data on Amazon OpenSearch Service and use Search Relevance Workbench (SRW) to turn those signals into relevance judgments and evaluate search quality.",
+      "source_name": "AWS Big Data Blog",
+      "source_url": "https://aws.amazon.com/blogs/big-data/measuring-and-improving-search-quality-with-amazon-opensearch-service/",
+      "published_at": "2026-08-31T21:13:36+00:00",
+      "category": "cloud_providers",
+      "tags": [
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.92,
+      "importance_score": 0.8146,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "b79e36a631c786973f43d88f11ece44cb75be727"
+    },
+    {
+      "title": "Amazon EC2 R9g and R9gd instances powered by AWS Graviton5 processors are now generally available",
+      "summary": "Amazon EC2 R9g and R9gd instances powered by AWS Graviton5 are now generally available, delivering up to 25% better compute performance than R8g, ideal for databases, in-memory caches, and real-time analytics.",
+      "source_name": "AWS News Blog",
+      "source_url": "https://aws.amazon.com/blogs/aws/amazon-ec2-r9g-and-r9gd-instances-powered-by-aws-graviton5-processors-are-now-generally-available/",
+      "published_at": "2026-08-31T19:53:34+00:00",
+      "category": "cloud_providers",
+      "tags": [
+        "AI",
+        "AWS",
+        "Databases",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.8091,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "691506bc5e95268a961b15cf0a07d63a6837a457"
+    },
+    {
+      "title": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/",
+      "published_at": "2026-08-31T12:41:22+00:00",
+      "category": "aggregators",
+      "tags": [
+        "AI",
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.809,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49508982"
+    },
+    {
+      "title": "I think the military commissary's freezers were hacked",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://signalandsilence.substack.com/p/i-think-someone-hacked-the-commissary",
+      "published_at": "2026-08-31T11:45:48+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.6825,
+      "importance_score": 0.8052,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49508506"
+    },
+    {
+      "title": "ChatGPT Work Tool and Skill Reference",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://codex-tool-reference.simonw.chatgpt.site/",
+      "published_at": "2026-08-31T14:07:15+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.6455,
+      "importance_score": 0.8037,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49510000"
+    },
+    {
+      "title": "A milestone in expanding access to AI",
+      "summary": "ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options.",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
+      "published_at": "2026-08-31T04:00:00+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.99,
+      "importance_score": 0.8029,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads"
+    },
+    {
+      "title": "Integrate Amazon Redshift and IAM Identity Center with enhanced VPC routing",
+      "summary": "Amazon Redshift now supports AWS IAM Identity Center authentication on clusters and workgroups that use enhanced VPC routing. Create two interface VPC endpoints to give your users single sign-on with their corporate credentials while keeping all authentication traffic on the AWS private network.",
+      "source_name": "AWS Big Data Blog",
+      "source_url": "https://aws.amazon.com/blogs/big-data/integrate-amazon-redshift-and-iam-identity-center-with-enhanced-vpc-routing/",
+      "published_at": "2026-08-31T17:22:40+00:00",
+      "category": "cloud_providers",
+      "tags": [
+        "AWS",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.92,
+      "importance_score": 0.7986,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "092741ff8ccf9ff0fea9ea4810f51e835a692a01"
+    },
+    {
+      "title": "Run NVIDIA BioNeMo NIM Microservices for Protein Structure Prediction in Claude Science",
+      "summary": "Agentic AI is changing how research is done. AI scientists can read papers, propose hypotheses, call models, and determine which experiments to prioritize next....",
+      "source_name": "NVIDIA Developer Blog",
+      "source_url": "https://developer.nvidia.com/blog/run-nvidia-bionemo-nim-microservices-for-protein-structure-prediction-in-claude-science/",
+      "published_at": "2026-08-31T16:30:00+00:00",
+      "category": "mlops",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "GPUs",
+        "AI Models",
+        "Research",
+        "Mlops"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.7949,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://developer.nvidia.com/blog/?p=121350"
+    },
+    {
+      "title": "Build a real-time event pipeline with Spark Real-Time Mode on AWS Glue 6.0",
+      "summary": "With AWS Glue 6.0, you can build real-time, near-real-time, and batch data pipelines on a single platform. Using a financial market-risk example, learn how to flag high-risk trades with sub-second latency using Spark Real-Time Mode, store heterogeneous pricing vectors with Apache Iceberg v3 Variant columns, and run batch analytics with Arrow-native UDFs.",
+      "source_name": "AWS Big Data Blog",
+      "source_url": "https://aws.amazon.com/blogs/big-data/build-a-real-time-event-pipeline-with-spark-real-time-mode-on-aws-glue-6-0/",
+      "published_at": "2026-08-31T16:22:11+00:00",
+      "category": "cloud_providers",
+      "tags": [
+        "Data Pipelines",
+        "Apache Spark",
+        "AWS",
+        "Vector Databases",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.92,
+      "importance_score": 0.7944,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "9b304b56606038dfa42fe23fe7695c503b9144ba"
+    },
+    {
+      "title": "RavynOS: Pre-alpha open-source OS based on Darwin, FreeBSD, Apple open-source",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://ravynos.com/",
+      "published_at": "2026-08-31T16:19:36+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Open Source",
+        "Hacker News"
+      ],
+      "confidence_score": 0.638,
+      "importance_score": 0.7942,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49511534"
+    },
+    {
+      "title": "Cloud CISO Perspectives: Tips on securing the water sector in the AI era",
+      "summary": "Welcome to the second Cloud CISO Perspectives for August 2026. Today, Chris Sistrunk and Stephanie Kiel detail the critical issues facing the water sector, and actionable steps that OT operators can take to secure their infrastructure. As with all Cloud CISO Perspectives, the contents of this newsletter are posted to the Google Cloud blog . If you’re reading this on the website and you’d like to receive the email version, you can subscribe here . aside_block <ListValue…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-tips-on-securing-water-sector-ai-era/",
+      "published_at": "2026-08-31T16:00:00+00:00",
+      "category": "cloud_providers",
+      "tags": [
+        "AI",
+        "Cloud",
+        "Google Cloud",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.7928,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-tips-on-securing-water-sector-ai-era/"
+    },
+    {
+      "title": "From weeks to minutes: The new agentic era of data pipelines",
+      "summary": "Data pipelines are the backbone of the modern enterprise, yet a barrier to entry exists for orchestrating them, making this critical capability unavailable to many data professionals. Following our announcements at Google Cloud NEXT ’26 , where we introduced the Orchestration Pipelines framework, we are fundamentally changing this dynamic. To bring this powerful framework directly to practitioners, we offer the Data Agent Kit — a unified, freely available, and open-source…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/products/data-analytics/build-data-pipelines-in-less-time-with-data-agent-kit/",
+      "published_at": "2026-08-31T16:00:00+00:00",
+      "category": "cloud_providers",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Data Pipelines",
+        "Cloud",
+        "Google Cloud",
+        "Open Source",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.7928,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/products/data-analytics/build-data-pipelines-in-less-time-with-data-agent-kit/"
+    },
+    {
+      "title": "What’s new in AI infrastructure and orchestration in August",
+      "summary": "Welcome back to What’s new in AI infrastructure and orchestration this month , a collection of product updates, how-tos, customer stories, research and other resources about all the AI compute, networks, storage, frameworks, and orchestration software that you can find at Google Cloud. To be honest, we thought August would be a slow month, but nothing could be further from the truth. Read on and you’ll see what we mean. August 2026 Product, technology, and tools updates…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/topics/ai-infrastructure/whats-new-in-ai-infrastructure-this-month/",
+      "published_at": "2026-08-31T16:00:00+00:00",
+      "category": "cloud_providers",
+      "tags": [
+        "AI",
+        "Cloud",
+        "Google Cloud",
+        "Research",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.7928,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/topics/ai-infrastructure/whats-new-in-ai-infrastructure-this-month/"
+    },
+    {
+      "title": "Scale AV Perception Across Vehicle Platforms with NVIDIA Omniverse NuRec",
+      "summary": "A perception stack is shaped by the vehicle that carries it. Move the same software to a new carline—for example, from an SUV to a sedan or another vehicle...",
+      "source_name": "NVIDIA Developer Blog",
+      "source_url": "https://developer.nvidia.com/blog/scale-av-perception-across-vehicle-platforms-with-nvidia-omniverse-nurec/",
+      "published_at": "2026-08-31T16:00:00+00:00",
+      "category": "mlops",
+      "tags": [
+        "GPUs",
+        "Mlops"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.7928,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://developer.nvidia.com/blog/?p=121899"
+    },
+    {
+      "title": "AWS Weekly Roundup: Welcome DuckLabs to the team, Agentic Resource Discovery (ARD), and more (August 31, 2026)",
+      "summary": "The news that interested me the most last week was the DuckLabs acquisition. AWS has signed a definitive agreement to acquire DuckLabs, the Amsterdam-based company behind DuckDB, the popular open source analytical database that runs in-process and executes SQL directly against files like Parquet, CSV, and JSON. DuckDB stays open source under its independent foundation […]",
+      "source_name": "AWS News Blog",
+      "source_url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-welcome-ducklabs-to-the-team-agentic-resource-discovery-ard-and-more-august-31-2026/",
+      "published_at": "2026-08-31T14:45:25+00:00",
+      "category": "cloud_providers",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "AWS",
+        "Open Source",
+        "Databases",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.7877,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "3418fcf622154fda93d6ae0475d0ab9d6ec4180f"
+    },
+    {
+      "title": "Secure by default is your only way forward",
+      "summary": "The newest worker on your team builds with whatever it finds and never asks what deserves your trust. Our answer is a hardened foundation and a boundary built for agents.",
+      "source_name": "Docker Blog",
+      "source_url": "https://www.docker.com/blog/secure-by-default-is-your-only-way-forward/",
+      "published_at": "2026-08-31T13:00:00+00:00",
+      "category": "developer_platforms",
+      "tags": [
+        "AI Agents",
+        "Developer Platforms"
+      ],
+      "confidence_score": 0.87,
+      "importance_score": 0.7803,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.docker.com/?p=93270"
+    },
+    {
+      "title": "Run macOS Software on Linux",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.darlinghq.org/",
+      "published_at": "2026-08-31T22:53:45+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.6195,
+      "importance_score": 0.7753,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49515830"
+    },
+    {
+      "title": "Anthropic tightens security on its training environment after Claude agents went rogue 3 times",
+      "summary": "Anthropic tightened its AI security and paused some programs after Claude models accessed three organizations' systems without permission in April.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/anthropic-tightens-training-security-after-claude-agents-went-rogue-2026-8",
+      "published_at": "2026-09-01T02:05:31+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Security",
+        "AI Models",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7549,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/anthropic-tightens-training-security-after-claude-agents-went-rogue-2026-8"
+    },
+    {
+      "title": "Internet centralization and the original sin of NAT",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://dreamstation.systems/personal/ntppost.html",
+      "published_at": "2026-08-31T02:23:03+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.6455,
+      "importance_score": 0.7548,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49504905"
+    },
+    {
+      "title": "Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI",
+      "summary": "Apple says it has evidence that a former employee destroyed evidence of data theft after learning he was under investigation.",
+      "source_name": "TechCrunch - AI",
+      "source_url": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/",
+      "published_at": "2026-09-01T00:13:00+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7471,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://techcrunch.com/?p=3159449"
+    },
+    {
+      "title": "AI adoption at work is broad but shallow",
+      "summary": "GenAI now reaches 80% of occupations, but in most of those fewer than half of workers use it",
+      "source_name": "The Register",
+      "source_url": "https://www.theregister.com/ai-and-ml/2026/09/01/ai-adoption-at-work-is-broad-but-shallow/5293545",
+      "published_at": "2026-08-31T23:43:37+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "GenAI",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.745,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.theregister.com/a/5293545"
+    },
+    {
+      "title": "Nvidia is building an IP licensing empire on the back of NVLink",
+      "summary": "Even when you think you're not buying Nvidia, you might still be buying Nvidia",
+      "source_name": "The Register",
+      "source_url": "https://www.theregister.com/systems/2026/08/31/nvidia-is-building-an-ip-licensing-empire-on-the-back-of-nvlink/5293530",
+      "published_at": "2026-08-31T22:54:24+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "GPUs",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7416,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.theregister.com/a/5293530"
+    },
+    {
+      "title": "Ukraine dissects Russia’s Zircon missile as Moscow leans on harder-to-intercept weapons",
+      "summary": "A Ukrainian official says Russia's growing use of harder-to-intercept missiles marks a dangerous new stage as Patriot interceptor stocks run low.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/ukraine-releases-intel-on-russias-harder-to-intercept-zircon-missile-2026-8",
+      "published_at": "2026-08-31T22:38:01+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7405,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/ukraine-releases-intel-on-russias-harder-to-intercept-zircon-missile-2026-8"
+    },
+    {
+      "title": "AI is hitting an inflection point, says Jensen",
+      "summary": "AI is hitting an inflection point, says Jensen Superhuman AI",
+      "source_name": "Superhuman (Zain Kahn)",
+      "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1OZmFUT0ttSzNGT1lzQTNXOHpHaDhRelIzTlpfend2N0poZkdfVzAzQnZIeVdNOHk4TElWdVZtX25kMmd2YnFCenJkS0JLVktoNWdZUkwtbTdBQ2FVWHUxVTZuRERUOVlreTlnMm5FU0o1Rks2RjhMblRZc2ZHdw?oc=5",
+      "published_at": "2026-08-31T22:29:17+00:00",
+      "category": "ai_newsletters",
+      "tags": [
+        "AI",
+        "Ai Newsletters"
+      ],
+      "confidence_score": 0.64,
+      "importance_score": 0.7399,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "CBMifkFVX3lxTE1OZmFUT0ttSzNGT1lzQTNXOHpHaDhRelIzTlpfend2N0poZkdfVzAzQnZIeVdNOHk4TElWdVZtX25kMmd2YnFCenJkS0JLVktoNWdZUkwtbTdBQ2FVWHUxVTZuRERUOVlreTlnMm5FU0o1Rks2RjhMblRZc2ZHdw"
+    },
+    {
+      "title": "FTC and 22 States Sue Amazon Over Advertising Practices",
+      "summary": "Regulators say the e-commerce giant forced more than a million advertisers to pay more than they should have. The company denies the claims.",
+      "source_name": "The New York Times - Technology",
+      "source_url": "https://www.nytimes.com/2026/08/31/technology/ftc-amazon-lawsuit-ad-prices.html",
+      "published_at": "2026-08-31T22:26:37+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7397,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.nytimes.com/2026/08/31/technology/ftc-amazon-lawsuit-ad-prices.html"
+    },
+    {
+      "title": "Healthcare cyberattacks hit pacemakers and millions of patient records",
+      "summary": "McKesson admits breach as ShinyHunters demands $55.2M",
+      "source_name": "The Register",
+      "source_url": "https://www.theregister.com/cyber-crime/2026/08/31/healthcare-cyberattacks-hit-pacemakers-and-millions-of-patient-records/5293537",
+      "published_at": "2026-08-31T22:10:38+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7386,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.theregister.com/a/5293537"
+    },
+    {
+      "title": "The Best Labor Day Mattress Deals on Beds We’ve Tried in Our Homes",
+      "summary": "It’s one of the best times of the year to buy a mattress, and our top tested picks are on sale.",
+      "source_name": "Wired",
+      "source_url": "https://www.wired.com/story/labor-day-mattress-deals-2026/",
+      "published_at": "2026-08-31T22:05:42+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7382,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "6a957135d71ace5d4ba5afe3"
+    },
+    {
+      "title": "Florida orders removal of Flock cameras from state highways",
+      "summary": "The Florida Department of Transportation is revoking permits for automated license plate readers on roads in the state highway system.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/florida-orders-removal-flock-camera-state-highways-license-plate-readers-2026-8",
+      "published_at": "2026-08-31T22:00:33+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7379,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/florida-orders-removal-flock-camera-state-highways-license-plate-readers-2026-8"
+    },
+    {
+      "title": "VMware uses Nvidia-favored 'AI factory' brand to build something with rival AMD",
+      "summary": "Forget the confusing branding and focus on your shrinking token bill",
+      "source_name": "The Register",
+      "source_url": "https://www.theregister.com/virtualization/2026/08/31/vmware-uses-nvidia-favored-ai-factory-brand-to-build-something-with-rival-amd/5293520",
+      "published_at": "2026-08-31T20:48:35+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "GPUs",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7329,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.theregister.com/a/5293520"
+    },
+    {
+      "title": "Best Early Tech Labor Day Sales I’d Shop Myself (2026): AirTags, Dyson, and More",
+      "summary": "From the best Dyson vacuum to the best wireless earbuds we’ve tested, you can get some great gadgets on sale already ahead of Labor Day.",
+      "source_name": "Wired",
+      "source_url": "https://www.wired.com/story/early-tech-labor-day-sales-2026/",
+      "published_at": "2026-08-31T20:47:46+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7328,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "6a849878eab23e58b199cad6"
+    },
+    {
+      "title": "The Pentagon now has its own version of ChatGPT and Grok",
+      "summary": "Versions of OpenAI's ChatGPT and SpaceXAI's Grok will join Google's Gemini on the Pentagon's central portal for AI tools.",
+      "source_name": "TechCrunch - AI",
+      "source_url": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
+      "published_at": "2026-08-31T20:13:45+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7305,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://techcrunch.com/?p=3158932"
+    },
+    {
+      "title": "Orbify.eu pitches warped Inception-style 3D maps for navigation",
+      "summary": "'You mustn't be afraid to dream a little bigger, darling'",
+      "source_name": "The Register",
+      "source_url": "https://www.theregister.com/software/2026/08/31/orbifyeu-pitches-warped-inception-style-3d-maps-for-navigation/5293496",
+      "published_at": "2026-08-31T19:52:56+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.729,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.theregister.com/a/5293496"
+    },
+    {
+      "title": "Asus ProArt 27 QD-OLED (PA279cdv) Review: HDR for All",
+      "summary": "I wouldn’t call it cheap, but this monitor from Asus brings proper HDR-capable video editing to creators who couldn’t previously afford an OLED display.",
+      "source_name": "Wired",
+      "source_url": "https://www.wired.com/review/asus-proart-pa279cdv/",
+      "published_at": "2026-08-31T19:48:26+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7287,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "6a8386697324fbaabab0408a"
+    }
+  ]
+}
