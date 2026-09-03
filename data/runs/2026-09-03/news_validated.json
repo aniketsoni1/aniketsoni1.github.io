@@ -1,0 +1,827 @@
+{
+  "post_date": "2026-09-03",
+  "sources_checked": 48,
+  "count": 45,
+  "items": [
+    {
+      "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+      "summary": "",
+      "source_name": "Google DeepMind",
+      "source_url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
+      "published_at": "2026-09-03T15:02:08Z",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI",
+        "AI Models",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.97,
+      "importance_score": 0.8914,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/"
+    },
+    {
+      "title": "New Salesforce Editions Bundle Everything Businesses Need for Agentic Transformation",
+      "summary": "New editions bundle Slack, Tableau Next, the Premier Success Plan, enterprise-grade security, and out-of-the-box AI built for every role into every edition The new Max edition alone delivers 60% more value than the Agentforce 1 Edition, at no additional cost Salesforce is launching new Core, Advanced, and Max editions for Agentforce Sales, Agentforce Service, and […]",
+      "source_name": "Salesforce News",
+      "source_url": "https://www.salesforce.com/news/stories/salesforce-simplifies-editions-2026/",
+      "published_at": "2026-09-03T13:00:00Z",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Security",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.8829,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.salesforce.com/?p=94976"
+    },
+    {
+      "title": "Join OSPOlogy + OSPO Summit China 2026 in Shanghai",
+      "summary": "There’s still time to join OSPOlogy + OSPO Summit China 2026, taking place on September 7, 2026, in Shanghai, China as part of KubeCon + CloudNativeCon + OpenInfra Summit + PyTorch Conference China. This event will...",
+      "source_name": "CNCF",
+      "source_url": "https://www.cncf.io/blog/2026/09/03/join-ospology-ospo-summit-china-2026-in-shanghai/",
+      "published_at": "2026-09-03T12:32:33Z",
+      "category": "open_source_foundations",
+      "tags": [
+        "AI",
+        "Cloud",
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.881,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.cncf.io/?p=174207"
+    },
+    {
+      "title": "Smarsh Scales Salesforce’s Agentforce After Delivering Strong Customer Support Results",
+      "summary": "",
+      "source_name": "Salesforce News",
+      "source_url": "https://www.salesforce.com/news/linked-content/smarsh-scales-salesforces-agentforce-after-delivering-strong-customer-support-results/",
+      "published_at": "2026-09-03T12:00:25Z",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI Agents",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.8788,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.salesforce.com/?post_type=sf_linked_content&p=94993"
+    },
+    {
+      "title": "Migrating a critical Kubernetes deployment from the default namespace without any downtime",
+      "summary": "Somewhere in your cluster there’s probably a deployment sitting in the default namespace that everyone knows shouldn’t be there. Nobody put it there maliciously, it just happened, early on, before anyone had opinions about namespace hygiene,...",
+      "source_name": "CNCF",
+      "source_url": "https://www.cncf.io/blog/2026/09/03/migrating-a-critical-kubernetes-deployment-from-the-default-namespace-without-any-downtime/",
+      "published_at": "2026-09-03T11:00:00Z",
+      "category": "open_source_foundations",
+      "tags": [
+        "Kubernetes",
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8746,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.cncf.io/?p=174128"
+    },
+    {
+      "title": ".name Termination",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://neil.fraser.name/news/2026/09/03/",
+      "published_at": "2026-09-03T14:54:39Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.6955,
+      "importance_score": 0.8609,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49550772"
+    },
+    {
+      "title": "Nvidia to Acquire Hugging Face",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face/",
+      "published_at": "2026-09-03T12:10:33Z",
+      "category": "aggregators",
+      "tags": [
+        "GPUs",
+        "Hacker News"
+      ],
+      "confidence_score": 0.656,
+      "importance_score": 0.8495,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49548952"
+    },
+    {
+      "title": "Audacity 4.0",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://github.com/audacity/audacity/releases/tag/Audacity-4.0.0",
+      "published_at": "2026-09-03T10:53:08Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.8441,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49548395"
+    },
+    {
+      "title": "Network connectivity patterns for the next generation of Amazon OpenSearch Serverless",
+      "summary": "The next generation of Amazon OpenSearch Serverless uses standard AWS PrivateLink endpoints on the on.aws domain. This post shows nine connectivity patterns for private access, from a single VPC to multiple VPCs, cross-account, on-premises, and cross-Region, with the DNS resolution and data path for each.",
+      "source_name": "AWS Big Data Blog",
+      "source_url": "https://aws.amazon.com/blogs/big-data/network-connectivity-patterns-for-the-next-generation-of-amazon-opensearch-serverless/",
+      "published_at": "2026-09-03T16:26:58Z",
+      "category": "cloud_providers",
+      "tags": [
+        "AI",
+        "AWS",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.92,
+      "importance_score": 0.8373,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "8e39757e00b66d46befcf4cc76c297f56946b5d7"
+    },
+    {
+      "title": "How Moovit achieved 33% cost optimization through architectural modernization",
+      "summary": "Learn how Moovit modernized its data platform with a multi-engine lakehouse architecture: offloading heavy aggregation workloads from Amazon Redshift to Amazon EMR with Spark SQL, isolating workloads with Amazon Redshift Serverless, and cutting overall data pipeline cost by 33%.",
+      "source_name": "AWS Big Data Blog",
+      "source_url": "https://aws.amazon.com/blogs/big-data/how-moovit-achieved-33-cost-optimization-through-architectural-modernization/",
+      "published_at": "2026-09-03T16:23:46Z",
+      "category": "cloud_providers",
+      "tags": [
+        "Data Pipelines",
+        "Lakehouse",
+        "Apache Spark",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.92,
+      "importance_score": 0.8371,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "ae1009c12e15ea82d9ff5164d82c7638c5b8109c"
+    },
+    {
+      "title": "Sparks Fly: NVIDIA Accelerates Local AI at IFA 2026",
+      "summary": "Frontier intelligence is going local. At IFA 2026, NVIDIA, Microsoft and its partners are teaming up to provide faster inference and new tools that make agents easier to set up and run locally on NVIDIA hardware. New compact NVIDIA RTX Spark Windows PCs are also coming in October to give AI enthusiasts, developers and creators […]",
+      "source_name": "NVIDIA Blog",
+      "source_url": "https://blogs.nvidia.com/blog/local-ai-ifa-next-gen-agents-nv-pair-rtx-spark/",
+      "published_at": "2026-09-03T16:00:59Z",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Apache Spark",
+        "GPUs",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8355,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://blogs.nvidia.com/?p=98045"
+    },
+    {
+      "title": "GitHub Copilot app for Beginners: Run several agents at once",
+      "summary": "Learn how to run parallel agents in the GitHub Copilot app, and experience the moment it stops feeling scary and starts feeling powerful. The post GitHub Copilot app for Beginners: Run several agents at once appeared first on The GitHub Blog .",
+      "source_name": "The GitHub Blog",
+      "source_url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-run-several-agents-at-once/",
+      "published_at": "2026-09-03T16:00:00Z",
+      "category": "developer_platforms",
+      "tags": [
+        "AI Agents",
+        "Developer Tools",
+        "Developer Platforms"
+      ],
+      "confidence_score": 0.92,
+      "importance_score": 0.8354,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://github.blog/?p=98638"
+    },
+    {
+      "title": "NVIDIA PAIR Virtual Inference Router Expands Available Compute on Your Local Network",
+      "summary": "AI agents are learning to do more by working together. A lead agent can break a complex task into smaller jobs and assign those jobs to specialized subagents....",
+      "source_name": "NVIDIA Developer Blog",
+      "source_url": "https://developer.nvidia.com/blog/nvidia-pair-virtual-inference-router-expands-available-compute-on-your-local-network/",
+      "published_at": "2026-09-03T16:00:00Z",
+      "category": "mlops",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "GPUs",
+        "Mlops"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8354,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://developer.nvidia.com/blog/?p=121926"
+    },
+    {
+      "title": "Pre-Release of Polars 2.0",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://pola.rs/posts/announcing-polars-2/",
+      "published_at": "2026-09-03T06:59:08Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.8279,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49546753"
+    },
+    {
+      "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+      "summary": "",
+      "source_name": "Hugging Face",
+      "source_url": "https://huggingface.co/blog/Hcompany/neomme",
+      "published_at": "2026-09-03T13:13:48Z",
+      "category": "ai_model_companies",
+      "tags": [
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.9,
+      "importance_score": 0.8239,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://huggingface.co/blog/Hcompany/neomme"
+    },
+    {
+      "title": "‘NBA 2K27’ With NVIDIA DLSS 5 Leads 28 New Games Coming to GeForce NOW",
+      "summary": "September is here with 28 more games streaming on GeForce NOW this month, led by a slam dunk: NBA 2K27 with the NVIDIA DLSS 5 3D-Guided Neural Rendering feature. Through NVIDIA’s close collaboration with Visual Concepts and 2K, DLSS 5 brings a new level of lifelike lighting and material detail to the court — tuned […]",
+      "source_name": "NVIDIA Blog",
+      "source_url": "https://blogs.nvidia.com/blog/geforce-now-thursday-september-2026-games-list/",
+      "published_at": "2026-09-03T13:00:35Z",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "Streaming",
+        "GPUs",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.823,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://blogs.nvidia.com/?p=98028"
+    },
+    {
+      "title": "Operational Intelligence: Turning Enterprise Data Into Enterprise Decisions with AI",
+      "summary": "",
+      "source_name": "Salesforce News",
+      "source_url": "https://www.salesforce.com/news/linked-content/operational-intelligence-turning-enterprise-data-into-enterprise-decisions-with-ai/",
+      "published_at": "2026-09-02T21:30:30Z",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.8184,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.salesforce.com/?post_type=sf_linked_content&p=94984"
+    },
+    {
+      "title": "Google named a Leader in 2026 Gartner® Magic Quadrant™ for Strategic Cloud Platform Services",
+      "summary": "For the ninth consecutive year, Gartner® has named Google a Leader in the Gartner Magic Quadrant™ for Strategic Cloud Platform Services , positioned furthest for Completeness of Vision. We believe this recognition reflects our longstanding dedication to helping customers build and scale their most demanding workloads reliably and securely on Google Cloud. As we enter the agentic era, we're accelerating their journeys with a dynamic infrastructure, and connecting enterprise…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/products/compute/google-named-a-leader-in-2026-gartner-magic-quadrant-for-scps/",
+      "published_at": "2026-09-03T07:30:00Z",
+      "category": "cloud_providers",
+      "tags": [
+        "AI Agents",
+        "Cloud",
+        "Google Cloud",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.8,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/products/compute/google-named-a-leader-in-2026-gartner-magic-quadrant-for-scps/"
+    },
+    {
+      "title": "Proactive cyber defense for governments and enterprises",
+      "summary": "",
+      "source_name": "Google DeepMind",
+      "source_url": "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/",
+      "published_at": "2026-09-02T16:24:24Z",
+      "category": "ai_model_companies",
+      "tags": [
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.95,
+      "importance_score": 0.7972,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/"
+    },
+    {
+      "title": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
+      "summary": "",
+      "source_name": "Google DeepMind",
+      "source_url": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/",
+      "published_at": "2026-09-02T16:18:31Z",
+      "category": "ai_model_companies",
+      "tags": [
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.95,
+      "importance_score": 0.7967,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/"
+    },
+    {
+      "title": "What It Takes to Make AI Customer Service Actually Work",
+      "summary": "2026 CSA Award winners show the importance of solving the right problem, building the right foundation, and teaming with the right people",
+      "source_name": "Salesforce News",
+      "source_url": "https://www.salesforce.com/news/stories/customer-success-award-winners-2026/",
+      "published_at": "2026-09-02T15:00:00Z",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7913,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.salesforce.com/?p=94959"
+    },
+    {
+      "title": "Muse Spark 1.3",
+      "summary": "https://research.meta.ai/blog/introducing-muse-spark-1-3",
+      "source_name": "Hacker News",
+      "source_url": "https://developer.meta.com/ai/models/muse-spark/",
+      "published_at": "2026-09-02T19:35:04Z",
+      "category": "aggregators",
+      "tags": [
+        "Apache Spark",
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7804,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49541256"
+    },
+    {
+      "title": "Grok outage",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://status.x.ai/",
+      "published_at": "2026-09-03T15:26:01Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.6165,
+      "importance_score": 0.7793,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49551589"
+    },
+    {
+      "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
+      "summary": "ATV Big Air Tour uses ChatGPT Work to speed up marketing, merchandising, and more. It even turned merchandise photos into an inventory website in 15 minutes.",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/atv-big-air-tour",
+      "published_at": "2026-09-02T12:00:00Z",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.97,
+      "importance_score": 0.7788,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/index/atv-big-air-tour"
+    },
+    {
+      "title": "Metal3 meets KubeVirtBMC: Provisioning KubeVirt VMs like bare metal",
+      "summary": "In the previous post , we introduced KubeVirtBMC and showed how it provides virtual BMC endpoints for KubeVirt VMs. We tested it with raw IPMI and Redfish commands. That was fun, but the real power of...",
+      "source_name": "CNCF",
+      "source_url": "https://www.cncf.io/blog/2026/09/02/metal3-meets-kubevirtbmc-provisioning-kubevirt-vms-like-bare-metal/",
+      "published_at": "2026-09-02T11:31:00Z",
+      "category": "open_source_foundations",
+      "tags": [
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.87,
+      "importance_score": 0.7768,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.cncf.io/?p=173563"
+    },
+    {
+      "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
+      "summary": "",
+      "source_name": "Hugging Face",
+      "source_url": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
+      "published_at": "2026-09-03T00:00:00Z",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI Models",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.9,
+      "importance_score": 0.7688,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://huggingface.co/blog/grpo-with-trl-ifstruct"
+    },
+    {
+      "title": "Give Your Coding Agents a Memory You Own",
+      "summary": "",
+      "source_name": "Hugging Face",
+      "source_url": "https://huggingface.co/blog/funes",
+      "published_at": "2026-09-03T00:00:00Z",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI Agents",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.9,
+      "importance_score": 0.7688,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://huggingface.co/blog/funes"
+    },
+    {
+      "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
+      "summary": "",
+      "source_name": "Hugging Face",
+      "source_url": "https://huggingface.co/blog/train-to-paint-with-code",
+      "published_at": "2026-09-03T00:00:00Z",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI",
+        "AI Models",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.9,
+      "importance_score": 0.7688,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://huggingface.co/blog/train-to-paint-with-code"
+    },
+    {
+      "title": "Kubernetes v1.37: Scale Workloads to Zero with HorizontalPodAutoscaler",
+      "summary": "Kubernetes v1.37 includes API support for horizontal autoscaling of workloads down to zero replicas. This feature is now Beta and enabled by default. A HorizontalPodAutoscaler (HPA) that uses a suitable object metric or external metric can now scale a workload to zero replicas, then bring it back when the metric changes. Before v1.37, you needed an add-on or external component, or you had to enable the Alpha feature gate, to scale from zero. It is now part of core…",
+      "source_name": "Kubernetes Blog",
+      "source_url": "https://kubernetes.io/blog/2026/09/02/kubernetes-v1-37-hpa-scale-to-zero-beta/",
+      "published_at": "2026-09-02T18:30:00Z",
+      "category": "open_source_foundations",
+      "tags": [
+        "Kubernetes",
+        "APIs",
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.92,
+      "importance_score": 0.7659,
+      "source_type": "release_notes",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://kubernetes.io/blog/2026/09/02/kubernetes-v1-37-hpa-scale-to-zero-beta/"
+    },
+    {
+      "title": "Any Human Ever – One life, drawn at random from all who have ever lived",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://anyhumanever.com/",
+      "published_at": "2026-09-03T14:51:10Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.612,
+      "importance_score": 0.7657,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49550698"
+    },
+    {
+      "title": "Gemini 3.8 Flash and 3.8 Flash Cyber",
+      "summary": "https://deepmind.google/models/model-cards/gemini-3-8-flash/",
+      "source_name": "Hacker News",
+      "source_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
+      "published_at": "2026-09-02T15:12:40Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7621,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49537553"
+    },
+    {
+      "title": "Google avoids a breakup of its ad tech business",
+      "summary": "https://archive.ph/rlAbY https://www.reuters.com/legal/litigation/google-defeats-us-b...",
+      "source_name": "Hacker News",
+      "source_url": "https://www.nytimes.com/2026/09/02/technology/google-ad-tech-remedies.html",
+      "published_at": "2026-09-02T14:46:16Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7603,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49537131"
+    },
+    {
+      "title": "I was just laid off from Uber for the second time. As a boomerang employee, it's everything I feared coming true.",
+      "summary": "Kori X rerturned to Uber earlier this year after being laid off in 2023.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/uber-employee-laid-off-second-time-worst-fear-2026-9",
+      "published_at": "2026-09-03T17:02:11Z",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7598,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/uber-employee-laid-off-second-time-worst-fear-2026-9"
+    },
+    {
+      "title": "The largest college by enrollment in every state",
+      "summary": "Students looking for a more diverse student body, an array of majors, and lots of extracurriculars often enroll at larger universities.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/largest-college-enrollment-every-state-2026-8",
+      "published_at": "2026-09-03T17:01:11Z",
+      "category": "mainstream_press",
+      "tags": [
+        "LLMs",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7597,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/largest-college-enrollment-every-state-2026-8"
+    },
+    {
+      "title": "😺 Is GPT-6 / Astra about to launch? We’re going LIVE",
+      "summary": "OpenAI says Astra is coming soon. Now ChatGPT is teasing that “the stars are almost aligned.” We’re going live at 10 AM PT in case the next major model drops.",
+      "source_name": "The Neuron",
+      "source_url": "https://www.theneurondaily.com/p/gpt-6-astra-could-launch-today-live",
+      "published_at": "2026-09-03T16:55:00Z",
+      "category": "ai_newsletters",
+      "tags": [
+        "AI",
+        "AI Models",
+        "Ai Newsletters"
+      ],
+      "confidence_score": 0.64,
+      "importance_score": 0.7593,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.theneurondaily.com/p/gpt-6-astra-could-launch-today-live"
+    },
+    {
+      "title": "Legendary economist Gary Shilling says consumer signals point to a recession in the next 12 months",
+      "summary": "Gary Shilling says he sees a 60% to 70% chance of a US recession in the next year, pointing to red flags waving among American consumers.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/recession-outlook-warning-signs-us-consumer-spending-economy-gary-shilling-2026-9",
+      "published_at": "2026-09-03T16:46:18Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7587,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/recession-outlook-warning-signs-us-consumer-spending-economy-gary-shilling-2026-9"
+    },
+    {
+      "title": "OpenAI Cut Off a Billion-Dollar Customer to Avoid Elon Musk",
+      "summary": "OpenAI recently estimated its Cursor partnership would make more than $1 billion in revenue a year, WIRED has learned. It still walked away after Elon Musk’s SpaceX acquired the AI coding startup.",
+      "source_name": "Wired",
+      "source_url": "https://www.wired.com/story/openai-elon-musk-cursor-billion-revenue/",
+      "published_at": "2026-09-03T16:42:40Z",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7584,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "6a98617d3d2b77debeec8dca"
+    },
+    {
+      "title": "2 planes came shockingly close to crashing into a stadium on live TV. Now investigators are probing the incident.",
+      "summary": "Videos from inside the stadium show just how close two Airlink planes came to a potential disaster in South Africa.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/airlink-2-planes-flew-shockingly-close-to-stadium-roof-2026-9",
+      "published_at": "2026-09-03T16:14:22Z",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7564,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/airlink-2-planes-flew-shockingly-close-to-stadium-roof-2026-9"
+    },
+    {
+      "title": "Bye-bye 'Chicken Shop Date' — one of YouTube's most iconic shows is ending after over a decade",
+      "summary": "Amelia Dimoldenberg announced on Thursday that her hit show \"Chicken Shop Date\" is coming to an end.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/amelia-dimoldenberg-chicken-shop-date-youtube-show-ending-2026-9",
+      "published_at": "2026-09-03T16:13:48Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7564,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/amelia-dimoldenberg-chicken-shop-date-youtube-show-ending-2026-9"
+    },
+    {
+      "title": "Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my!",
+      "summary": "From loop engineering to harnesses, squads, and open weights, the GitHub Podcast breaks down the AI terms showing up in developer conversations. The post Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my! appeared first on The GitHub Blog .",
+      "source_name": "The GitHub Blog",
+      "source_url": "https://github.blog/ai-and-ml/decoding-the-new-ai-lingo-loops-harnesses-squads-hill-climbing-oh-my/",
+      "published_at": "2026-09-02T21:00:00Z",
+      "category": "developer_platforms",
+      "tags": [
+        "AI",
+        "Developer Tools",
+        "Developer Platforms"
+      ],
+      "confidence_score": 0.92,
+      "importance_score": 0.7563,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://github.blog/?p=98631"
+    },
+    {
+      "title": "Ollie is betting its focus on privacy can help it win the AI assistant race",
+      "summary": "The family-focused AI assistant wants access to the details of your everyday life, but says it won’t use that data to train AI models or share it with others.",
+      "source_name": "TechCrunch - AI",
+      "source_url": "https://techcrunch.com/2026/09/03/ollie-is-betting-privacy-can-win-the-ai-assistant-race/",
+      "published_at": "2026-09-03T16:09:01Z",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "AI Models",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7561,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://techcrunch.com/?p=3160393"
+    },
+    {
+      "title": "NASA wires up Dragonfly and names the landing area",
+      "summary": "Titan-bound rotorcraft set for launch in 2028",
+      "source_name": "The Register",
+      "source_url": "https://www.theregister.com/science/2026/09/03/nasa-wires-up-dragonfly-and-names-the-landing-area/5294231",
+      "published_at": "2026-09-03T16:02:19Z",
+      "category": "enterprise_technology",
+      "tags": [
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7556,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.theregister.com/a/5294231"
+    },
+    {
+      "title": "17 'Harry Potter' stars, ranked from least to most successful",
+      "summary": "The first \"Harry Potter\" movie was released 25 years ago. Here's how the stars' careers have progressed since.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/harry-potter-child-stars-ranked-success-2021-3",
+      "published_at": "2026-09-03T16:02:04Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7556,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/harry-potter-child-stars-ranked-success-2021-3"
+    },
+    {
+      "title": "Ask HN: Why are OpenAI, Claude, and Grok simultaneously down? Coincidence?",
+      "summary": "https://status.openai.com https://status.claude.com https://status.x.ai",
+      "source_name": "Hacker News",
+      "source_url": "https://news.ycombinator.com/item?id=49551096",
+      "published_at": "2026-09-03T15:07:01Z",
+      "category": "aggregators",
+      "tags": [
+        "AI",
+        "Hacker News"
+      ],
+      "confidence_score": 0.6075,
+      "importance_score": 0.7555,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49551096"
+    },
+    {
+      "title": "Elevating security, control, and accessibility: Stack Internal 2026.6",
+      "summary": "In our 2026.6 release, we are shipping updates across administrative security, programmatic API control, developer portal integrations, and platform-wide accessibility—ensuring both your engineers and your AI agents act on verified, decision-grade knowledge.",
+      "source_name": "Stack Overflow Blog",
+      "source_url": "https://stackoverflow.blog/2026/09/03/security-control-and-accessibility-si-2026-6/",
+      "published_at": "2026-09-03T16:00:00Z",
+      "category": "developer_platforms",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Security",
+        "APIs",
+        "Developer Platforms"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7554,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "12c6a8a7-135f-401f-ac1a-1c26c33e69c0"
+    }
+  ]
+}
