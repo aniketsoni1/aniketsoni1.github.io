@@ -1,0 +1,833 @@
+{
+  "generated_at": "2026-09-04T16:54:15.183503+00:00",
+  "post_date": "2026-09-04",
+  "sources_checked": 48,
+  "candidates": 45,
+  "items": [
+    {
+      "title": "CPU + GPU: Why AI platform engineering is a heterogeneous infrastructure problem",
+      "summary": "AI infrastructure conversations often start with GPUs. Accelerators provide much of the compute behind model training and inference, so the focus is understandable. But a production AI workload rarely starts and ends on a GPU. Data...",
+      "source_name": "CNCF",
+      "source_url": "https://www.cncf.io/blog/2026/09/04/cpu-gpu-why-ai-platform-engineering-is-a-heterogeneous-infrastructure-problem/",
+      "published_at": "2026-09-04T11:00:00+00:00",
+      "category": "open_source_foundations",
+      "tags": [
+        "AI",
+        "GPUs",
+        "AI Models",
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8754,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.cncf.io/?p=173482"
+    },
+    {
+      "title": "Kubernetes isn’t new, but AI makes It scary again",
+      "summary": "Kubernetes isn’t brand new anymore. Yet, for many teams, adopting it still feels intimidating. Even if you’ve watched Kubernetes become the default foundation for production software and AI workloads, it can still feel like a big...",
+      "source_name": "CNCF",
+      "source_url": "https://www.cncf.io/blog/2026/09/04/kubernetes-isnt-new-but-ai-makes-it-scary-again/",
+      "published_at": "2026-09-04T11:00:00+00:00",
+      "category": "open_source_foundations",
+      "tags": [
+        "AI",
+        "Kubernetes",
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8754,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.cncf.io/?p=174210"
+    },
+    {
+      "title": "Google AI Mode shows same products 21.6% more expensive than traditional search",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://productrise.app/blog/google-ai-mode-prefers-more-expensive-products",
+      "published_at": "2026-09-04T11:59:15+00:00",
+      "category": "aggregators",
+      "tags": [
+        "AI",
+        "Hacker News"
+      ],
+      "confidence_score": 0.691,
+      "importance_score": 0.8495,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49563386"
+    },
+    {
+      "title": "Discovery of a new OpenAI agent message board",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://collusion.wiki/",
+      "published_at": "2026-09-04T11:54:53+00:00",
+      "category": "aggregators",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.8492,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49563355"
+    },
+    {
+      "title": "Solving the Jane Street Reverse Engineering Challenge",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://jestoph.com/2026/09/04/jane-street-challenge.html",
+      "published_at": "2026-09-04T10:17:01+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.6865,
+      "importance_score": 0.8424,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49562657"
+    },
+    {
+      "title": "Frontier Reasoning Reaches the Edge: How to Deploy and Optimize Models on NVIDIA Jetson",
+      "summary": "Running reasoning and agentic AI at the edge has been harder than it needs to be. Until recently, models capable of multi-step reasoning were too large to run...",
+      "source_name": "NVIDIA Developer Blog",
+      "source_url": "https://developer.nvidia.com/blog/frontier-reasoning-reaches-the-edge-how-to-deploy-and-optimize-models-on-nvidia-jetson/",
+      "published_at": "2026-09-04T16:21:04+00:00",
+      "category": "mlops",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "GPUs",
+        "AI Models",
+        "Mlops"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8377,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://developer.nvidia.com/blog/?p=122184"
+    },
+    {
+      "title": "Project HydraFusion: Frontier quality via multi-model orchestration",
+      "summary": "In controlled offline evaluations, HydraFusion’s selective coding workflows matched or exceeded the evaluated Opus 5 baseline while reducing estimated workflow cost. Now available as a research preview in GitHub Copilot. The post Project HydraFusion: Frontier quality via multi-model orchestration appeared first on The GitHub Blog .",
+      "source_name": "The GitHub Blog",
+      "source_url": "https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration/",
+      "published_at": "2026-09-04T16:04:14+00:00",
+      "category": "developer_platforms",
+      "tags": [
+        "AI",
+        "Developer Tools",
+        "AI Models",
+        "Research",
+        "Developer Platforms"
+      ],
+      "confidence_score": 0.92,
+      "importance_score": 0.8365,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://github.blog/?p=98615"
+    },
+    {
+      "title": "How Yahoo optimizes resources with flexible VMs in Managed Service for Apache Spark",
+      "summary": "As a global media and technology company connecting hundreds of millions of users to finance, sports, and entertainment platforms, Yahoo operates a massive data infrastructure where analytics workloads must run continuously at high speed. In deadline-driven data environments, relying on fixed virtual machine (VM) configurations creates a brittle system; if a specific machine shape faces a regional capacity constraint, cluster provisioning in Managed Service for Apache Spark…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/products/data-analytics/how-yahoo-optimizes-apache-spark-with-flexible-vms/",
+      "published_at": "2026-09-04T16:00:00+00:00",
+      "category": "cloud_providers",
+      "tags": [
+        "AI",
+        "Apache Spark",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.8363,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/products/data-analytics/how-yahoo-optimizes-apache-spark-with-flexible-vms/"
+    },
+    {
+      "title": "Spanner migrations: Automating dual-write with Antigravity CLI for minimal disruption",
+      "summary": "When Google's Finance Engineering team needed to modernize their legacy data layer, they chose Spanner , a globally distributed, strongly consistent, multi-model database with high availability capabilities. But migrating to Spanner without taking production services offline was a daunting engineering challenge: As the internal team responsible for the application, we needed to manually rewrite dual-write logic across dozens of Data Access Objects (DAOs), a process that is…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/topics/developers-practitioners/using-antigravity-cli-to-streamline-dual-write-database-migration/",
+      "published_at": "2026-09-04T16:00:00+00:00",
+      "category": "cloud_providers",
+      "tags": [
+        "AI",
+        "Databases",
+        "AI Models",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.8363,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/topics/developers-practitioners/using-antigravity-cli-to-streamline-dual-write-database-migration/"
+    },
+    {
+      "title": "Hackers Had a Live Feed of Every ID Verification Company Scanned for over a Year",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "http://www.techdirt.com/2026/09/03/hackers-had-a-live-feed-of-every-id-this-verification-company-scanned-for-over-a-year/",
+      "published_at": "2026-09-04T06:47:51+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.8279,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49561320"
+    },
+    {
+      "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+      "summary": "",
+      "source_name": "Google DeepMind",
+      "source_url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
+      "published_at": "2026-09-03T15:02:08+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI",
+        "AI Models",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.95,
+      "importance_score": 0.7922,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/"
+    },
+    {
+      "title": "Which tools do Claude, Codex and Cursor choose? We measured 17k runs to find out",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://armature.tech/blog/which-tools-coding-agents-install",
+      "published_at": "2026-09-03T21:20:34+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.6895,
+      "importance_score": 0.7885,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49557206"
+    },
+    {
+      "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
+      "summary": "OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services.",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/daybreak-for-frontline-defenders",
+      "published_at": "2026-09-03T13:15:00+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.97,
+      "importance_score": 0.7848,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/index/daybreak-for-frontline-defenders"
+    },
+    {
+      "title": "New Salesforce Editions Bundle Everything Businesses Need for Agentic Transformation",
+      "summary": "New editions bundle Slack, Tableau Next, the Premier Success Plan, enterprise-grade security, and out-of-the-box AI built for every role into every edition The new Max edition alone delivers 60% more value than the Agentforce 1 Edition, at no additional cost Salesforce is launching new Core, Advanced, and Max editions for Agentforce Sales, Agentforce Service, and […]",
+      "source_name": "Salesforce News",
+      "source_url": "https://www.salesforce.com/news/stories/salesforce-simplifies-editions-2026/",
+      "published_at": "2026-09-03T13:00:00+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Security",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7837,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.salesforce.com/?p=94976"
+    },
+    {
+      "title": "Join OSPOlogy + OSPO Summit China 2026 in Shanghai",
+      "summary": "There’s still time to join OSPOlogy + OSPO Summit China 2026, taking place on September 7, 2026, in Shanghai, China as part of KubeCon + CloudNativeCon + OpenInfra Summit + PyTorch Conference China. This event will...",
+      "source_name": "CNCF",
+      "source_url": "https://www.cncf.io/blog/2026/09/03/join-ospology-ospo-summit-china-2026-in-shanghai/",
+      "published_at": "2026-09-03T12:32:33+00:00",
+      "category": "open_source_foundations",
+      "tags": [
+        "AI",
+        "Cloud",
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.87,
+      "importance_score": 0.7818,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.cncf.io/?p=174207"
+    },
+    {
+      "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+      "summary": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/legora-financial-statement-review-with-astra",
+      "published_at": "2026-09-03T12:00:00+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.97,
+      "importance_score": 0.7796,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/index/legora-financial-statement-review-with-astra"
+    },
+    {
+      "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+      "summary": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/playco-game-prototyping-with-astra",
+      "published_at": "2026-09-03T12:00:00+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI Models",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.97,
+      "importance_score": 0.7796,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/index/playco-game-prototyping-with-astra"
+    },
+    {
+      "title": "Smarsh Scales Salesforce’s Agentforce After Delivering Strong Customer Support Results",
+      "summary": "",
+      "source_name": "Salesforce News",
+      "source_url": "https://www.salesforce.com/news/linked-content/smarsh-scales-salesforces-agentforce-after-delivering-strong-customer-support-results/",
+      "published_at": "2026-09-03T12:00:25+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI Agents",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.8,
+      "importance_score": 0.7796,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.salesforce.com/?post_type=sf_linked_content&p=94993"
+    },
+    {
+      "title": "GPT-6 Astra",
+      "summary": "System Card: https://deploymentsafety.openai.com/gpt-6-astra Related ongoing threads: OpenAI's GPT-6 Astra on ARC-AGI-3 - https://news.ycombinator.com/item?id=49555691 GPT-6 Astra makes major gains in the Artificial Analysis Coding Agent Index - https://news.ycombinator.com/item?id=49556147",
+      "source_name": "Hacker News",
+      "source_url": "https://openai.com/index/gpt-6-astra/",
+      "published_at": "2026-09-03T18:41:05+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7774,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49554643"
+    },
+    {
+      "title": "Qwen 3.8 27B available on Cerebras at 1500 tokens/s",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://inference-docs.cerebras.ai/models/overview",
+      "published_at": "2026-09-03T18:32:13+00:00",
+      "category": "aggregators",
+      "tags": [
+        "AI",
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7768,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49554520"
+    },
+    {
+      "title": "Migrating a critical Kubernetes deployment from the default namespace without any downtime",
+      "summary": "Somewhere in your cluster there’s probably a deployment sitting in the default namespace that everyone knows shouldn’t be there. Nobody put it there maliciously, it just happened, early on, before anyone had opinions about namespace hygiene,...",
+      "source_name": "CNCF",
+      "source_url": "https://www.cncf.io/blog/2026/09/03/migrating-a-critical-kubernetes-deployment-from-the-default-namespace-without-any-downtime/",
+      "published_at": "2026-09-03T11:00:00+00:00",
+      "category": "open_source_foundations",
+      "tags": [
+        "Kubernetes",
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.87,
+      "importance_score": 0.7754,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.cncf.io/?p=174128"
+    },
+    {
+      "title": "Artificial beaver dams saw juvenile coho salmon survival rates go from 8% to 60%",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.discoverwildlife.com/animal-facts/artificial-beaver-dams-california",
+      "published_at": "2026-09-03T16:21:33+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7677,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49552572"
+    },
+    {
+      "title": "Kubernetes v1.37: DRA Updates",
+      "summary": "Kubernetes 1.37 is here and Dynamic Resource Allocation (DRA) keeps pushing past where it started! This release brings DRA Extended Resource support to GA, a milestone the team has been building toward for three straight releases. Several more features graduate to Beta or GA. A fresh batch of alpha features rounds out the release. I'll dive into what's new for DRA in Kubernetes 1.37! What's stable in 1.37 DRA Extended Resource support has graduated to GA. This is the…",
+      "source_name": "Kubernetes Blog",
+      "source_url": "https://kubernetes.io/blog/2026/09/03/kubernetes-v1-37-dra-updates/",
+      "published_at": "2026-09-03T18:30:00+00:00",
+      "category": "open_source_foundations",
+      "tags": [
+        "AI",
+        "Kubernetes",
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.92,
+      "importance_score": 0.7667,
+      "source_type": "release_notes",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://kubernetes.io/blog/2026/09/03/kubernetes-v1-37-dra-updates/"
+    },
+    {
+      "title": "K2 Horizon: A connected fleet of six open models",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://ifm.ai/blog/k2/",
+      "published_at": "2026-09-03T15:36:43+00:00",
+      "category": "aggregators",
+      "tags": [
+        "AI Models",
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7646,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49551760"
+    },
+    {
+      "title": "How to Carry User Identity Across Federated Kubernetes and AI Platforms",
+      "summary": "Modern AI platforms are no longer a single application behind one login screen. A user may start in a central portal, open a governed dataset, launch a notebook...",
+      "source_name": "NVIDIA Developer Blog",
+      "source_url": "https://developer.nvidia.com/blog/how-to-carry-user-identity-across-federated-kubernetes-and-ai-platforms/",
+      "published_at": "2026-09-03T22:36:02+00:00",
+      "category": "mlops",
+      "tags": [
+        "AI",
+        "Kubernetes",
+        "Mlops"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.7637,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://developer.nvidia.com/blog/?p=122235"
+    },
+    {
+      "title": ".name Termination",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://neil.fraser.name/news/2026/09/03/",
+      "published_at": "2026-09-03T14:54:39+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7617,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49550772"
+    },
+    {
+      "title": "Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly",
+      "summary": "These are my notes from porting my Amiga game, which I originally built in Baghdad in 1993 in MC68000 assembly, to Godot, using Claude Fable 5 during last July holiday. It took an evening! Getting the feel right and shipping it took a few more weekends and evenings. I spent the last few weeks…",
+      "source_name": "Hacker News",
+      "source_url": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/",
+      "published_at": "2026-09-03T14:28:18+00:00",
+      "category": "aggregators",
+      "tags": [
+        "LLMs",
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7599,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49550375"
+    },
+    {
+      "title": "We spent over $12,000 replacing our carpets with vinyl-plank flooring. It looks very nice, but I regret it every day.",
+      "summary": "We thought replacing our carpets with vinyl-plank flooring would cost $6,000 and be easy. We spent more than double that and uncovered many issues.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/mistakes-getting-floors-replaced-vinyl-plank-regrets-expensive-2026-9",
+      "published_at": "2026-09-04T16:33:10+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7585,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/mistakes-getting-floors-replaced-vinyl-plank-regrets-expensive-2026-9"
+    },
+    {
+      "title": "Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge",
+      "summary": "It's the latest failure of OpenAI's internal monitoring and security systems.",
+      "source_name": "TechCrunch - AI",
+      "source_url": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/",
+      "published_at": "2026-09-04T16:21:11+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Security",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7577,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://techcrunch.com/?p=3160899"
+    },
+    {
+      "title": "MKBHD is feeling confident that he won't have to shave his head after Cybercab event",
+      "summary": "YouTuber Marques Brownlee, popularly known as MKBHD, famously bet he'll shave his head if Tesla delivered its lofty Cybercab promise.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/mkbhd-my-hair-is-safe-after-tesla-cybercab-bet-2026-9",
+      "published_at": "2026-09-04T16:13:37+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7572,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/mkbhd-my-hair-is-safe-after-tesla-cybercab-bet-2026-9"
+    },
+    {
+      "title": "Why the Hugging Face Hack Should Make You Worry More About A.I.",
+      "summary": "The attack by an aggressive “collective” of OpenAI agents shows the danger of artificial intelligence systems that organize themselves.",
+      "source_name": "The New York Times - Technology",
+      "source_url": "https://www.nytimes.com/2026/09/03/technology/openai-hugging-face-hacking.html",
+      "published_at": "2026-09-04T16:12:19+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7571,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.nytimes.com/2026/09/03/technology/openai-hugging-face-hacking.html"
+    },
+    {
+      "title": "Apple’s Ternus era begins as Nvidia bets on the whole AI stack",
+      "summary": "It’s officially the Ternus era at Apple. Tim Cook stepped down as CEO this week, handing the company to former hardware chief John Ternus, whose first memo promised a “huge launch next week” — timing that puts Apple’s next iPhone event on his desk before he’s even settled in. Cook isn’t going far, though: he’s staying on as Executive Chairman, focused on the kind of policy […]",
+      "source_name": "TechCrunch - AI",
+      "source_url": "https://techcrunch.com/podcast/apples-ternus-era-begins-as-nvidia-bets-on-the-whole-ai-stack/",
+      "published_at": "2026-09-04T16:04:08+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "GPUs",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7565,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://techcrunch.com/?post_type=tc_podcast&p=3160877"
+    },
+    {
+      "title": "Rogue OpenAI agents used dead German web site to communicate in May, months before Hugging Face incident",
+      "summary": "Two cases of agents escaping to solve unsolvable problems paints an uncomfortable question: Is the entire internet in OpenAI's experimental agentic firing line?",
+      "source_name": "The Register",
+      "source_url": "https://www.theregister.com/ai-and-ml/2026/09/04/rogue-openai-agents-used-dead-german-web-site-to-communicate-in-may-months-before-hugging-face-incident/5294554",
+      "published_at": "2026-09-04T16:02:08+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "APIs",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7564,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.theregister.com/a/5294554"
+    },
+    {
+      "title": "Video Friday: Digit Redecorates",
+      "summary": "Your selection of awesome videos this week shows robots that grip like koalas, triage, run restaurants, harvest grapes, and more",
+      "source_name": "IEEE Spectrum",
+      "source_url": "https://spectrum.ieee.org/video-friday-agility-robotics-digit",
+      "published_at": "2026-09-04T16:00:05+00:00",
+      "category": "research_feeds",
+      "tags": [
+        "Research Feeds"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.7562,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://spectrum.ieee.org/video-friday-agility-robotics-digit"
+    },
+    {
+      "title": "Phishing Campaign Sends Millions of Emails Using Invisible Unicode to Evade Filters",
+      "summary": "Microsoft is alerting of a \"high-volume phishing campaign\" that's using invisible Unicode tag characters to bypass email filters. \"Instead of using these characters to hide instructions from people while exposing them to AI models, the attacker used them to split financial lure words such as 'funding' to prevent email filters from parsing them,\" the Microsoft Security Research team said. The",
+      "source_name": "The Hacker News",
+      "source_url": "https://thehackernews.com/2026/09/phishing-campaign-sends-millions-of.html",
+      "published_at": "2026-09-04T15:57:15+00:00",
+      "category": "cybersecurity",
+      "tags": [
+        "AI",
+        "Security",
+        "AI Models",
+        "Research",
+        "Cybersecurity"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.756,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://thehackernews.com/2026/09/phishing-campaign-sends-millions-of.html"
+    },
+    {
+      "title": "OpenAI's ad for its latest model looks straight out of the movie 'WALL-E' — and people have thoughts",
+      "summary": "OpenAI's Astra model can order food, list items on eBay, and create games. Its demo has some users comparing the AI to the dystopian world of \"WALL-E.\"",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/openai-astra-ad-wall-e-her-dystopian-laziness-work-jobs-2026-9",
+      "published_at": "2026-09-04T15:53:40+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "AI Models",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7558,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/openai-astra-ad-wall-e-her-dystopian-laziness-work-jobs-2026-9"
+    },
+    {
+      "title": "August's blowout jobs report was good news for blue-collar workers, while white-collar professionals fell behind",
+      "summary": "The US added 162,000 jobs in August, led by leisure and hospitality. White-collar fields were the only major industries to lose jobs.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/job-growth-losses-august-industries-labor-market-2026-9",
+      "published_at": "2026-09-04T15:44:48+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7552,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/job-growth-losses-august-industries-labor-market-2026-9"
+    },
+    {
+      "title": "I toured the Obama Presidential Center and saw 12 of Michelle Obama's best looks, including a $19 Target dress",
+      "summary": "The Obama Presidential Center has 12 iconic Michelle Obama dresses — including the former president's favorite dress worn by the first lady.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/michelle-obama-dresses-obama-presidential-center",
+      "published_at": "2026-09-04T15:37:50+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7547,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/michelle-obama-dresses-obama-presidential-center"
+    },
+    {
+      "title": "This will be the most expensive Labor Day ever for gas. Here are the 10 states with the highest fuel prices — and 10 with the lowest.",
+      "summary": "Average gas prices have soared above $4, setting a fuel price record for Labor Day weekend. Southern states are among the cheapest places to fill up.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/the-states-with-highest-lowest-gas-fuel-prices-us-2026-9",
+      "published_at": "2026-09-04T15:35:53+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7546,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/the-states-with-highest-lowest-gas-fuel-prices-us-2026-9"
+    },
+    {
+      "title": "Tesla’s Cybercab Is Being Investigated by Federal Regulators",
+      "summary": "The National Highway Traffic Safety Administration said it would examine whether the company’s new self-driving taxi, which has no steering wheel, meets federal auto regulations.",
+      "source_name": "The New York Times - Technology",
+      "source_url": "https://www.nytimes.com/2026/09/04/business/tesla-cybercab-nhtsa-investigation.html",
+      "published_at": "2026-09-04T15:29:53+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7541,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.nytimes.com/2026/09/04/business/tesla-cybercab-nhtsa-investigation.html"
+    },
+    {
+      "title": "After visiting all 50 states, there are 5 small towns I can't stop thinking about",
+      "summary": "After visiting all 50 states, some of my favorite small towns in the US include Kennebunkport, Maine, Bayfield, Wisconsin, and Abiquiu, New Mexico.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/favorite-us-small-towns-from-frequent-traveler-2026-9",
+      "published_at": "2026-09-04T15:26:02+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7539,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/favorite-us-small-towns-from-frequent-traveler-2026-9"
+    },
+    {
+      "title": "Nearly impossible? How Fairphone built the ethical, repairable Fairphone Gen 6+",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://arstechnica.com/gadgets/2026/09/nearly-impossible-how-fairphone-built-the-ethical-repairable-fairphone-gen-6/",
+      "published_at": "2026-09-04T12:43:49+00:00",
+      "category": "aggregators",
+      "tags": [
+        "AI",
+        "Hacker News"
+      ],
+      "confidence_score": 0.6105,
+      "importance_score": 0.7539,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49563784"
+    },
+    {
+      "title": "PostgreSQL Fixes 12-Year-Old Logical Decoding Flaw Enabling Replication-Role Code Execution",
+      "summary": "PostgreSQL has released updates to address a security flaw that allows an account with the REPLICATION attribute to run arbitrary code as the operating-system user running the database server. The flaw, tracked as CVE-2026-6471 (CVSS score: 7.2), has been present since logical decoding was introduced in PostgreSQL 9.4 in 2014. Versions before PostgreSQL 18.6, 17.11, 16.15, 15.19, and 14.24 are",
+      "source_name": "The Hacker News",
+      "source_url": "https://thehackernews.com/2026/09/postgresql-fixes-12-year-old-logical.html",
+      "published_at": "2026-09-04T15:20:19+00:00",
+      "category": "cybersecurity",
+      "tags": [
+        "Security",
+        "Databases",
+        "Cybersecurity"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7535,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://thehackernews.com/2026/09/postgresql-fixes-12-year-old-logical.html"
+    },
+    {
+      "title": "My Word. Microsoft's prepping Similarity Checker for retirement",
+      "summary": "Built-in plagiarism police to hand in badge next month",
+      "source_name": "The Register",
+      "source_url": "https://www.theregister.com/applications/2026/09/04/my-word-microsofts-prepping-similarity-checker-for-retirement/5294550",
+      "published_at": "2026-09-04T15:19:00+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7534,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.theregister.com/a/5294550"
+    },
+    {
+      "title": "Tesla’s Cybercab Officially Launches Today. It’s Already Under Investigation",
+      "summary": "The US government is investigating whether the Cybercab, which lacks a steering wheel and pedals, meets vehicle safety standards.",
+      "source_name": "Wired",
+      "source_url": "https://www.wired.com/story/tesla-cybercab-officially-launches-today-its-already-under-investigation/",
+      "published_at": "2026-09-04T15:17:12+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7533,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "6a9ad3f40b83212f05715bbc"
+    }
+  ]
+}
