@@ -1,0 +1,801 @@
+{
+  "generated_at": "2026-09-06T16:20:46.734412+00:00",
+  "post_date": "2026-09-06",
+  "sources_checked": 48,
+  "candidates": 45,
+  "items": [
+    {
+      "title": "Research acceleration: The view inside OpenAI",
+      "summary": "Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration.",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/research-acceleration-view-inside-openai",
+      "published_at": "2026-09-06T08:00:00+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "APIs",
+        "Research",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.99,
+      "importance_score": 0.8652,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/index/research-acceleration-view-inside-openai"
+    },
+    {
+      "title": "A/I shuts down – Stay human",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/",
+      "published_at": "2026-09-06T14:34:34+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.6635,
+      "importance_score": 0.8626,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49586898"
+    },
+    {
+      "title": "QBittorrent breaks out of sandbox to commit crimes",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://beige.party/@intransitivelie/117057396732763183",
+      "published_at": "2026-09-06T13:02:41+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.6825,
+      "importance_score": 0.8562,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49586171"
+    },
+    {
+      "title": "Intellectual Fly Is Open (2025)",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/",
+      "published_at": "2026-09-06T11:56:43+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.6855,
+      "importance_score": 0.8517,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49585644"
+    },
+    {
+      "title": "Doomscrolling Ourselves to Death",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.edwest.co.uk/p/doomscrolling-ourselves-to-death",
+      "published_at": "2026-09-06T11:53:40+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.652,
+      "importance_score": 0.8515,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49585627"
+    },
+    {
+      "title": "Isar Aerospace reaches orbit and deploys payloads on second flight",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://isaraerospace.com/press/history-for-european-spaceflight-isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight",
+      "published_at": "2026-09-06T07:21:06+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.8325,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49584083"
+    },
+    {
+      "title": "Cloud in a Bottle: making self-hosting accessible to everyone",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://cloudinabottle.org/blog/launch-post",
+      "published_at": "2026-09-06T00:03:29+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Cloud",
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.8021,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49582000"
+    },
+    {
+      "title": "The revolt of the reader",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/",
+      "published_at": "2026-09-05T21:37:49+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.792,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49580939"
+    },
+    {
+      "title": "Learn Programming with OCaml",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://usr.lmf.cnrs.fr/lpo/",
+      "published_at": "2026-09-05T16:45:02+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.697,
+      "importance_score": 0.7717,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49578280"
+    },
+    {
+      "title": "I left my 3-year-old at home for a weeklong cruise with my parents. It reminded me I'm still their daughter, too.",
+      "summary": "I left my toddler at home in Denmark to travel with my parents. For one week, I wasn't just Mom. I got to feel like their daughter again.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/mom-left-toddler-home-trip-with-aging-parents-2026-9",
+      "published_at": "2026-09-06T15:53:01+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7581,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/mom-left-toddler-home-trip-with-aging-parents-2026-9"
+    },
+    {
+      "title": "I left Austin for NYC 7 years ago. Here are 9 things I still miss about my old life, and 3 reminders of why I moved.",
+      "summary": "While I miss the tacos, music festivals, and outdoor activities in the Texas capital, I'm glad to be out of the scorching heat of Austin.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/moving-from-austin-to-new-york-city-pros-cons-2026-9",
+      "published_at": "2026-09-06T15:36:02+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "APIs",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7569,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/moving-from-austin-to-new-york-city-pros-cons-2026-9"
+    },
+    {
+      "title": "I Changed My License",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://bergie.iki.fi/blog/eupl/",
+      "published_at": "2026-09-06T10:39:44+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.614,
+      "importance_score": 0.7563,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49585161"
+    },
+    {
+      "title": "I Feel about AI",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://beza1e1.tuxen.de/ai_feelings.html",
+      "published_at": "2026-09-06T15:00:19+00:00",
+      "category": "aggregators",
+      "tags": [
+        "AI",
+        "Hacker News"
+      ],
+      "confidence_score": 0.6045,
+      "importance_score": 0.7507,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49587128"
+    },
+    {
+      "title": "US Marines are training to jam enemy drones before they can reach US amphibious assault ships",
+      "summary": "Marines aboard USS Makin Island have been training with upgraded counter-drone vehicles designed to detect, track, and jam hostile drones.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/marines-training-jam-drones-before-they-can-reach-navy-ships-2026-9",
+      "published_at": "2026-09-06T13:50:24+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7496,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/marines-training-jam-drones-before-they-can-reach-navy-ships-2026-9"
+    },
+    {
+      "title": "How Sound Could Make Sense of Big Data",
+      "summary": "Sonification may become more important with the advent of 6G",
+      "source_name": "IEEE Spectrum",
+      "source_url": "https://spectrum.ieee.org/data-sonification-stephen-roddy",
+      "published_at": "2026-09-06T13:00:01+00:00",
+      "category": "research_feeds",
+      "tags": [
+        "Research Feeds"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.7461,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://spectrum.ieee.org/data-sonification-stephen-roddy"
+    },
+    {
+      "title": "I've made this easy, dietitian-approved meal for years. It's got protein and fiber — and the leftovers make great lunches.",
+      "summary": "This 30-minute, one-pan dish is easy to prep for lunch or dinner and dietitian-approved for its protein and fiber content. Here's the recipe I use.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/easy-meal-skillet-recipe-protein-fiber-dietitian-approved-leftovers-2026-9",
+      "published_at": "2026-09-06T12:48:01+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7452,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/easy-meal-skillet-recipe-protein-fiber-dietitian-approved-leftovers-2026-9"
+    },
+    {
+      "title": "A trip to South Africa showed me a side of my adult son I'd been too busy to notice",
+      "summary": "I went on a safari with my 30-year-old son and got a glimpse of the man he has become.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/african-safari-trip-with-parent-adult-child-multigenerational-travel-2026-9",
+      "published_at": "2026-09-06T12:17:01+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7431,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/african-safari-trip-with-parent-adult-child-multigenerational-travel-2026-9"
+    },
+    {
+      "title": "I named the main character in my first novel after my foster brother. I wanted him to know he was never temporary.",
+      "summary": "My foster brother only lived with us for two years, but I've always considered him my sibling. I named the main character in my first novel after him.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/foster-brother-sibling-named-character-novel-after-him-2026-9",
+      "published_at": "2026-09-06T12:03:01+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7421,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/foster-brother-sibling-named-character-novel-after-him-2026-9"
+    },
+    {
+      "title": "The Best Laptop Backpacks for Work, Travel, and Everything Between (2026)",
+      "summary": "The wrong bag can aggravate you every single day. These WIRED-tested picks get comfort, capacity, and organization just right.",
+      "source_name": "Wired",
+      "source_url": "https://www.wired.com/story/best-laptop-backpacks/",
+      "published_at": "2026-09-06T11:30:00+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7398,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "6a96e8ee4c85b3624a71d5f8"
+    },
+    {
+      "title": "My college-age son is independent and self-sufficient. I owe it all to traveling with him when he was young.",
+      "summary": "I traveled with my son around the world since he was 8 months old. I believe it has helped him become an independent and self-sufficient adult.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/independent-son-traveled-often-kid-2026-9",
+      "published_at": "2026-09-06T11:07:01+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7382,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/independent-son-traveled-often-kid-2026-9"
+    },
+    {
+      "title": "Create Custom Windows 11 Notifications to Remind Yourself of Anything",
+      "summary": "Take full control of your desktop alerts by sending yourself recurring reminders and custom notifications triggered by specific events.",
+      "source_name": "Wired",
+      "source_url": "https://www.wired.com/story/create-custom-windows-11-notifications-to-remind-yourself-of-anything/",
+      "published_at": "2026-09-06T11:00:00+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7377,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "6a9714a97adf158bd64dd408"
+    },
+    {
+      "title": "How a Blacklisted Chinese Tech Giant Kept Buying America’s Best A.I. Chips",
+      "summary": "Washington imposed sanctions on Inspur because of its work with the Chinese military. But the company’s subsidiary kept shipping Nvidia’s best chips to feed China’s leading A.I. firms.",
+      "source_name": "The New York Times - Technology",
+      "source_url": "https://www.nytimes.com/2026/09/06/technology/ai-chips-china-blacklist.html",
+      "published_at": "2026-09-06T10:45:11+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "GPUs",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7367,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.nytimes.com/2026/09/06/technology/ai-chips-china-blacklist.html"
+    },
+    {
+      "title": "These Cyborg Cockroaches Could Save Your Life",
+      "summary": "The team embedded electrodes into live cockroaches, then outfitted them with cameras and injection devices to deliver medication via remote control.",
+      "source_name": "Wired",
+      "source_url": "https://www.wired.com/story/cyborg-cockroaches-disaster-response/",
+      "published_at": "2026-09-06T10:30:00+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7356,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "6a9af4675fef9f935781a053"
+    },
+    {
+      "title": "My Brief Summer Fling With Siri AI",
+      "summary": "I was initially enamored with the beta version of Apple’s revamped smartphone assistant. As the full release approaches, I’ve forgotten Siri AI even exists.",
+      "source_name": "Wired",
+      "source_url": "https://www.wired.com/story/my-brief-summer-fling-with-siri-ai/",
+      "published_at": "2026-09-06T10:30:00+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7356,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "6a97057af5cd56d0322d3a8e"
+    },
+    {
+      "title": "American Express’ secret social media weapon: an in-house history nerd",
+      "summary": "Ira Galtman is American Express' in-house archivist. He's also a TikTok hit.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/american-express-social-media-tiktok-ira-galtman-history-nerd-2026-9",
+      "published_at": "2026-09-06T10:30:01+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7356,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/american-express-social-media-tiktok-ira-galtman-history-nerd-2026-9"
+    },
+    {
+      "title": "Best Water Leak Detectors (2026): Moen, Phyn, TP-Link",
+      "summary": "Don’t let busted pipes or an overflowing washing machine dampen your day. These smart water sensors can help you catch problems quicker.",
+      "source_name": "Wired",
+      "source_url": "https://www.wired.com/gallery/best-water-leak-detector/",
+      "published_at": "2026-09-06T10:09:00+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7342,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "626a8cdd9c87c5d9436820b8"
+    },
+    {
+      "title": "I ran Palantir’s rotational program for forward-deployed engineering. Here’s what rivals get wrong about FDEs.",
+      "summary": "Vinoo Ganesh led Palantir's program for staffers to try forward deployed engineering. He said companies setting up FDE programs are getting it wrong.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/palantir-rotational-forward-deployed-engineering-program-rivals-2026-8",
+      "published_at": "2026-09-06T10:03:01+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7338,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/palantir-rotational-forward-deployed-engineering-program-rivals-2026-8"
+    },
+    {
+      "title": "Why China Is the Bogeyman Data Center Enthusiasts Just Can't Quit",
+      "summary": "Polls show that overwhelming majorities of Americans hate data centers. China makes a perfect scapegoat for tech leaders and their allies—the only problem is a lack of evidence.",
+      "source_name": "Wired",
+      "source_url": "https://www.wired.com/story/why-china-is-still-the-bogeyman-for-data-center-enthusiasts/",
+      "published_at": "2026-09-06T10:00:00+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7336,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "6a9841fc882152f5a8e0044d"
+    },
+    {
+      "title": "Asahi Linux Now Officially Supports Apple M3 Macs – With Caveats",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.phoronix.com/news/Asahi-Linux-Official-M3",
+      "published_at": "2026-09-06T14:08:59+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.599,
+      "importance_score": 0.7333,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49586698"
+    },
+    {
+      "title": "I got laid off from my corporate job, and it pushed me to pursue my dream of working at Spirit Halloween",
+      "summary": "Maggie Bodner is a Halloween enthusiast who said she comes back from long shifts feeling energized.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/laid-off-corporate-worker-job-spirit-halloween-2026-9",
+      "published_at": "2026-09-06T09:52:01+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.733,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/laid-off-corporate-worker-job-spirit-halloween-2026-9"
+    },
+    {
+      "title": "The Best Gaming Chairs (2026): Are They Worth It?",
+      "summary": "The best gaming chair is actually an office chair. Here are our top picks from our real-life testing so far.",
+      "source_name": "Wired",
+      "source_url": "https://www.wired.com/gallery/best-gaming-chairs/",
+      "published_at": "2026-09-06T09:45:00+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7325,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "6a887770f20b0b9afe2ec7b0"
+    },
+    {
+      "title": "Job applicants are hiding secret AI messages in their résumés",
+      "summary": "Some job seekers are hiding AI prompts in white text on their résumés to try to influence screening tools. It's a risky move.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/resume-ai-prompt-injection-applicants-job-search-2026-9",
+      "published_at": "2026-09-06T09:43:01+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7324,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/resume-ai-prompt-injection-applicants-job-search-2026-9"
+    },
+    {
+      "title": "Attackers Hijack MikroTik Routers Through Internet-Exposed SSH Without Authentication",
+      "summary": "Attackers are exploiting MikroTik routers with their Secure Shell (SSH) remote-access service, which is reachable from the internet, to gain full administrative control without authentication, according to CERT Polska's attack warning, published on September 5. Successful attacks date to at least September 2. The Hacker News’s September 6 review of the warning found no victim count or",
+      "source_name": "The Hacker News",
+      "source_url": "https://thehackernews.com/2026/09/attackers-hijack-mikrotik-routers.html",
+      "published_at": "2026-09-06T09:32:38+00:00",
+      "category": "cybersecurity",
+      "tags": [
+        "AI",
+        "Cybersecurity"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7317,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://thehackernews.com/2026/09/attackers-hijack-mikrotik-routers.html"
+    },
+    {
+      "title": "We opened a taco shop because Meta is building an AI data center nearby. Now 40% of our business is tied to it.",
+      "summary": "Tim Allen and his family decided to open a restaurant after Meta announced plans to build an AI data center near their hometown in rural Louisiana.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/meta-ai-data-center-louisiana-economy-taco-restaurant-2026-9",
+      "published_at": "2026-09-06T09:31:01+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7315,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/meta-ai-data-center-louisiana-economy-taco-restaurant-2026-9"
+    },
+    {
+      "title": "Four REVSTEALER-Linked Modules Disable Windows Update and Defender to Run a Crypto Miner",
+      "summary": "Elastic Security Labs has documented four previously unreported programs associated with REVSTEALER, an emerging Windows information stealer, that remain on an infected machine after the stealer deletes itself. One of them switches off Windows Update and Microsoft Defender before running a cryptocurrency miner. The company named the four programs ProManager, WinUpdate, SoftManager, and",
+      "source_name": "The Hacker News",
+      "source_url": "https://thehackernews.com/2026/09/four-revstealer-linked-modules-disable.html",
+      "published_at": "2026-09-06T08:34:20+00:00",
+      "category": "cybersecurity",
+      "tags": [
+        "AI",
+        "Security",
+        "Cybersecurity"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7276,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://thehackernews.com/2026/09/four-revstealer-linked-modules-disable.html"
+    },
+    {
+      "title": "Time lords prepare to kick leap seconds into the next millennium",
+      "summary": "Risk of an unprecedented negative adjustment prompts plan to let UTC drift by as much as an hour",
+      "source_name": "The Register",
+      "source_url": "https://www.theregister.com/offbeat/2026/09/06/time-lords-prepare-to-kick-leap-seconds-into-the-next-millennium/5294538",
+      "published_at": "2026-09-06T08:09:00+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7259,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.theregister.com/a/5294538"
+    },
+    {
+      "title": "AI, Tools and Transformation",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation",
+      "published_at": "2026-09-06T02:12:46+00:00",
+      "category": "aggregators",
+      "tags": [
+        "AI",
+        "Hacker News"
+      ],
+      "confidence_score": 0.6115,
+      "importance_score": 0.7148,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49582656"
+    },
+    {
+      "title": "Formalizing Fermat's Last Theorem",
+      "summary": "Formalizing Fermat's Last Theorem Anthropic",
+      "source_name": "Anthropic",
+      "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5fSnRJTFR6WlMzenR4b3oyTGVqTW14XzRmRnVBckxURm90WWV4QXg5ekFwcW5vYS0wZWk3emV2b2toU2RDWE83eEVuV1lNYlRwblpqRGhrSmo1cDNtN1VGc21LWWlTR0lxWnV2SkZ5c3o?oc=5",
+      "published_at": "2026-09-04T18:35:51+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.97,
+      "importance_score": 0.7094,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "CBMicEFVX3lxTE5fSnRJTFR6WlMzenR4b3oyTGVqTW14XzRmRnVBckxURm90WWV4QXg5ekFwcW5vYS0wZWk3emV2b2toU2RDWE83eEVuV1lNYlRwblpqRGhrSmo1cDNtN1VGc21LWWlTR0lxWnV2SkZ5c3o"
+    },
+    {
+      "title": "US troops can still be tracked by purchased location data, and Congress wants to know why",
+      "summary": "DoD controls on mobile ad identifiers haven't stopped military location data turning up for sale",
+      "source_name": "The Register",
+      "source_url": "https://www.theregister.com/public-sector/2026/09/06/us-troops-can-still-be-tracked-by-purchased-location-data-and-congress-wants-to-know-why/5294652",
+      "published_at": "2026-09-06T01:06:00+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.6965,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.theregister.com/a/5294652"
+    },
+    {
+      "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
+      "summary": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.",
+      "source_name": "TechCrunch - AI",
+      "source_url": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
+      "published_at": "2026-09-05T22:49:55+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.687,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://techcrunch.com/?p=3161049"
+    },
+    {
+      "title": "Kenyans Made a Living Writing College Essays. Then A.I. Arrived.",
+      "summary": "Thousands of Kenyans made a living writing essays for overseas students. With A.I., the work has dried up, a warning for online gig work that has been a global lifeline.",
+      "source_name": "The New York Times - Technology",
+      "source_url": "https://www.nytimes.com/2026/09/05/technology/kenya-college-essays-ai.html",
+      "published_at": "2026-09-05T21:11:57+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.6802,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.nytimes.com/2026/09/05/technology/kenya-college-essays-ai.html"
+    },
+    {
+      "title": "AMD Based FreeBSD Desktop Reloaded",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://vermaden.wordpress.com/2026/09/06/amd-based-freebsd-desktop-reloaded/",
+      "published_at": "2026-09-06T02:24:57+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.597,
+      "importance_score": 0.6795,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49582719"
+    },
+    {
+      "title": "Unpatched Magento and Adobe Commerce Zero-Day Exploited to Backdoor Online Stores",
+      "summary": "Attackers are exploiting a new unpatched vulnerability in Magento Open Source and Adobe Commerce that lets them run malicious code on an online store's server without logging in, Dutch e-commerce security company Sansec said in an advisory published on September 5. Sansec, which discovered the flaw and named it StyleSmuggler, said attacks started on September 4. \"Sansec is",
+      "source_name": "The Hacker News",
+      "source_url": "https://thehackernews.com/2026/09/unpatched-magento-and-adobe-commerce.html",
+      "published_at": "2026-09-05T20:14:47+00:00",
+      "category": "cybersecurity",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Open Source",
+        "Security",
+        "Cybersecurity"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.6763,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://thehackernews.com/2026/09/unpatched-magento-and-adobe-commerce.html"
+    },
+    {
+      "title": "Hikers rescued after using Google Gemini for planning",
+      "summary": "The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required.\"",
+      "source_name": "TechCrunch - AI",
+      "source_url": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
+      "published_at": "2026-09-05T19:35:24+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.6735,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://techcrunch.com/?p=3161045"
+    },
+    {
+      "title": "Kubernetes v1.37: KubeletInUserNamespace (aka Rootless mode) Graduates to Beta",
+      "summary": "Kubernetes v1.37 promotes the KubeletInUserNamespace feature gate to beta. With this feature enabled, all of the node components (kubelet, CRI and OCI runtimes, CNI plugins, and kube-proxy) can run as a non-root user on the host, using a Linux user namespace . This technique is also known as rootless mode . The work started as an experiment in 2018, and was merged into Kubernetes v1.22 (2021) as an alpha feature (Kubernetes Enhancement Proposal KEP-2033 ). This feature…",
+      "source_name": "Kubernetes Blog",
+      "source_url": "https://kubernetes.io/blog/2026/09/04/kubernetes-v1-37-rootless-beta/",
+      "published_at": "2026-09-04T18:30:00+00:00",
+      "category": "open_source_foundations",
+      "tags": [
+        "Kubernetes",
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.9,
+      "importance_score": 0.669,
+      "source_type": "release_notes",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://kubernetes.io/blog/2026/09/04/kubernetes-v1-37-rootless-beta/"
+    }
+  ]
+}
