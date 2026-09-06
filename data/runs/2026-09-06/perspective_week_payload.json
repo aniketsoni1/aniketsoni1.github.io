@@ -1,0 +1,138 @@
+{
+  "post_date": "2026-09-06",
+  "week_start": "2026-08-31",
+  "week_label": "August 31 – September 6, 2026",
+  "theme": "AI",
+  "related_themes": [
+    "Cloud Providers",
+    "Ai Model Companies",
+    "AI Agents",
+    "AI Models",
+    "Open Source Foundations"
+  ],
+  "tag_counts": [
+    {
+      "tag": "AI",
+      "count": 37
+    },
+    {
+      "tag": "Cloud Providers",
+      "count": 14
+    },
+    {
+      "tag": "Ai Model Companies",
+      "count": 12
+    },
+    {
+      "tag": "AI Agents",
+      "count": 11
+    },
+    {
+      "tag": "AI Models",
+      "count": 9
+    },
+    {
+      "tag": "Open Source Foundations",
+      "count": 8
+    }
+  ],
+  "stories_reviewed": 84,
+  "runs_used": [
+    "2026-08-31",
+    "2026-09-01",
+    "2026-09-02",
+    "2026-09-03",
+    "2026-09-04",
+    "2026-09-05",
+    "2026-09-06"
+  ],
+  "sources_count": 14,
+  "citations": [
+    {
+      "date": "2026-09-03",
+      "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+      "url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
+      "source_name": "Google DeepMind",
+      "tags": [
+        "AI",
+        "AI Models",
+        "Ai Model Companies"
+      ],
+      "summary": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+      "why": "Signals how frontier-model capabilities and access may shift for AI engineers and product teams.",
+      "score": 0.8914
+    },
+    {
+      "date": "2026-09-03",
+      "title": "Join OSPOlogy + OSPO Summit China 2026 in Shanghai",
+      "url": "https://www.cncf.io/blog/2026/09/03/join-ospology-ospo-summit-china-2026-in-shanghai/",
+      "source_name": "CNCF",
+      "tags": [
+        "AI",
+        "Cloud",
+        "Open Source Foundations"
+      ],
+      "summary": "There’s still time to join OSPOlogy + OSPO Summit China 2026, taking place on September 7, 2026, in Shanghai, China as part of KubeCon + CloudNativeCon + OpenInfra Summit + PyTorch Conference China. This event will...",
+      "why": "Matters for platform teams tracking the open-source dependencies under their stack.",
+      "score": 0.881
+    },
+    {
+      "date": "2026-09-01",
+      "title": "Platform engineering maturity: From toolchain to self-service",
+      "url": "https://www.cncf.io/blog/2026/09/01/platform-engineering-maturity-from-toolchain-to-self-service/",
+      "source_name": "CNCF",
+      "tags": [
+        "AI",
+        "Open Source Foundations"
+      ],
+      "summary": "Most platform engineering conversations tend to split into two rooms pretty quickly. The first room is full of teams who don’t have a platform yet. Scattered scripts, tribal knowledge, and every team is doing the same...",
+      "why": "Matters for platform teams tracking the open-source dependencies under their stack.",
+      "score": 0.8759
+    },
+    {
+      "date": "2026-09-04",
+      "title": "CPU + GPU: Why AI platform engineering is a heterogeneous infrastructure problem",
+      "url": "https://www.cncf.io/blog/2026/09/04/cpu-gpu-why-ai-platform-engineering-is-a-heterogeneous-infrastructure-problem/",
+      "source_name": "CNCF",
+      "tags": [
+        "AI",
+        "GPUs",
+        "AI Models",
+        "Open Source Foundations"
+      ],
+      "summary": "AI infrastructure conversations often start with GPUs. Accelerators provide much of the compute behind model training and inference, so the focus is understandable. But a production AI workload rarely starts and ends on a GPU. Data...",
+      "why": "Matters for platform teams tracking the open-source dependencies under their stack.",
+      "score": 0.8754
+    },
+    {
+      "date": "2026-09-04",
+      "title": "Kubernetes isn’t new, but AI makes It scary again",
+      "url": "https://www.cncf.io/blog/2026/09/04/kubernetes-isnt-new-but-ai-makes-it-scary-again/",
+      "source_name": "CNCF",
+      "tags": [
+        "AI",
+        "Kubernetes",
+        "Open Source Foundations"
+      ],
+      "summary": "Kubernetes isn’t brand new anymore. Yet, for many teams, adopting it still feels intimidating. Even if you’ve watched Kubernetes become the default foundation for production software and AI workloads, it can still feel like a big...",
+      "why": "Matters for platform teams tracking the open-source dependencies under their stack.",
+      "score": 0.8754
+    },
+    {
+      "date": "2026-09-06",
+      "title": "Research acceleration: The view inside OpenAI",
+      "url": "https://openai.com/index/research-acceleration-view-inside-openai",
+      "source_name": "OpenAI",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "APIs",
+        "Research",
+        "Ai Model Companies"
+      ],
+      "summary": "Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration.",
+      "why": "Signals how frontier-model capabilities and access may shift for AI engineers and product teams.",
+      "score": 0.8652
+    }
+  ]
+}
