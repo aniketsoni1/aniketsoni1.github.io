@@ -1,0 +1,817 @@
+{
+  "post_date": "2026-09-07",
+  "sources_checked": 48,
+  "count": 44,
+  "items": [
+    {
+      "title": "Handling vulnerability reports: Recipe card",
+      "summary": "Recipe Handling Vulnerability Reports Target audience (the chef) This recipe is aimed at small and medium non-security focused projects. Maintainers of a high-risk security sensitive project, you probably need a more sophisticated approach (check out https://alpha-omega.dev/) Scope...",
+      "source_name": "CNCF",
+      "source_url": "https://www.cncf.io/blog/2026/09/07/handling-vulnerability-reports-recipe-card/",
+      "published_at": "2026-09-07T11:30:00Z",
+      "category": "open_source_foundations",
+      "tags": [
+        "AI",
+        "Security",
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8717,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.cncf.io/?p=174136"
+    },
+    {
+      "title": "De-Brainrot Vacations",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://devz.cl/posts/i-spent-my-vacations-de-brainrotting/",
+      "published_at": "2026-09-07T13:00:48Z",
+      "category": "aggregators",
+      "tags": [
+        "AI",
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.848,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49597907"
+    },
+    {
+      "title": "Smartphone makers don't bother to comply with EU repairability requirements",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.theregister.com/personal-tech/2026/09/07/smartphone-makers-dont-bother-to-comply-with-eu-repairability-requirements/5294532",
+      "published_at": "2026-09-07T11:46:37Z",
+      "category": "aggregators",
+      "tags": [
+        "AI",
+        "Hacker News"
+      ],
+      "confidence_score": 0.659,
+      "importance_score": 0.8428,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49597189"
+    },
+    {
+      "title": "Splash-free urinals (2025)",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://academic.oup.com/pnasnexus/article/4/4/pgaf087/8098745?login=false",
+      "published_at": "2026-09-07T12:58:57Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.6405,
+      "importance_score": 0.8241,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49597895"
+    },
+    {
+      "title": "Supporting independent journalism in Ukraine",
+      "summary": "OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent journalism.",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
+      "published_at": "2026-09-07T00:00:00Z",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.99,
+      "importance_score": 0.8238,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/index/supporting-independent-journalism-in-ukraine"
+    },
+    {
+      "title": "AWS Weekly Roundup: Claude Fable 5.1 on AWS, Amazon Linux 2027 preview, AWS Certified AI Business Strategist, and more (September 7, 2026)",
+      "summary": "Last week, Claude Fable 5.1 became available on AWS. According to Anthropic, Claude Fable 5.1 delivers frontier intelligence for ambitious tasks across coding, scientific research, and enterprise workflows. Claude Fable 5.1 is built for long-running, high-stakes work that runs for hours and spans many applications. It can own more of a software project on its […]",
+      "source_name": "AWS News Blog",
+      "source_url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-claude-fable-5-1-on-aws-amazon-linux-2027-preview-aws-certified-ai-business-strategist-and-more-september-7-2026/",
+      "published_at": "2026-09-07T14:24:08Z",
+      "category": "cloud_providers",
+      "tags": [
+        "AI",
+        "AWS",
+        "Research",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.8238,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "bd7e863a13091bede2374f2ed4b4748927b1e862"
+    },
+    {
+      "title": "LG smart TVs caught logging audio with screen off and snooping on local devices",
+      "summary": "https://www.youtube.com/watch?v=6IFVTcM28KA",
+      "source_name": "Hacker News",
+      "source_url": "https://www.notebookcheck.net/LG-smart-TVs-caught-logging-audio-with-screen-off-and-snooping-on-local-devices.1391214.0.html",
+      "published_at": "2026-09-07T07:03:20Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.8232,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49594878"
+    },
+    {
+      "title": "Keep Our Servers Running",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/",
+      "published_at": "2026-09-07T03:29:51Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.8083,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49593563"
+    },
+    {
+      "title": "Tiny $70 Xteink X3 e-reader",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.theatlantic.com/technology/2026/09/xteink-e-reader-best-technology-years/688539/",
+      "published_at": "2026-09-07T10:41:29Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.632,
+      "importance_score": 0.7933,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49596629"
+    },
+    {
+      "title": "Making a Python interpreter in 1024 bytes",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://austinhenley.com/blog/python1024.html",
+      "published_at": "2026-09-06T23:14:08Z",
+      "category": "aggregators",
+      "tags": [
+        "Python",
+        "Hacker News"
+      ],
+      "confidence_score": 0.698,
+      "importance_score": 0.7906,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49591876"
+    },
+    {
+      "title": "Caltech Mathathon – first hackathon ever devoted to research level mathematics",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://mathathonchallenge.com/index.html",
+      "published_at": "2026-09-07T09:26:53Z",
+      "category": "aggregators",
+      "tags": [
+        "Research",
+        "Hacker News"
+      ],
+      "confidence_score": 0.63,
+      "importance_score": 0.7831,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49596055"
+    },
+    {
+      "title": "It took a year to ship WebAssembly in Anubis",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://anubis.techaro.lol/blog/2026/anubis-wasm/",
+      "published_at": "2026-09-06T20:32:38Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7794,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49590611"
+    },
+    {
+      "title": "GrapheneOS Overhauled Default Apps and Secure Clipboard",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://grapheneos.social/@GrapheneOS/117225539756835649",
+      "published_at": "2026-09-06T20:24:00Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7788,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49590512"
+    },
+    {
+      "title": "Ask HN: How do you manage skills files?",
+      "summary": "How do you find skills, keep them organized, and make sure they actually work? Do you keep improving them over time? I believe skills will eventually be eating by model capabilities, but until then I'm just looking for a better way to manage things.",
+      "source_name": "Hacker News",
+      "source_url": "https://news.ycombinator.com/item?id=49589914",
+      "published_at": "2026-09-06T19:27:10Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.68,
+      "importance_score": 0.7748,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49589914"
+    },
+    {
+      "title": "Bill Gates tries to install MovieMaker",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.techemails.com/p/bill-gates-tries-to-install-movie-maker",
+      "published_at": "2026-09-07T15:27:03Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.6165,
+      "importance_score": 0.7744,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49599481"
+    },
+    {
+      "title": "Live map of public transport in Belgium",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://openbaarvervoerbelgie.be/",
+      "published_at": "2026-09-07T09:02:47Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.626,
+      "importance_score": 0.7715,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49595865"
+    },
+    {
+      "title": "Research acceleration: The view inside OpenAI",
+      "summary": "Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration.",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/research-acceleration-view-inside-openai",
+      "published_at": "2026-09-06T08:00:00Z",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "APIs",
+        "Research",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.97,
+      "importance_score": 0.7571,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/index/research-acceleration-view-inside-openai"
+    },
+    {
+      "title": "Home Depot Labor Day Sale (2026): BOGO on Best Grills and Tools",
+      "summary": "The Home Depot Labor Day sale goes hard on grills and tools. Here are our recommendations on what to buy—and what to ignore.",
+      "source_name": "Wired",
+      "source_url": "https://www.wired.com/story/home-depot-labor-day-sale-deals-2026/",
+      "published_at": "2026-09-07T16:35:52Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7529,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "6a9ac9e18b84c830298aba62"
+    },
+    {
+      "title": "Best Tech Labor Day Sales I’d Shop Myself (2026): Vacuums, Headphones, and More",
+      "summary": "From cordless vacuums to the best wireless earbuds we’ve tested, some of our favorite tech is on sale for Labor Day this year.",
+      "source_name": "Wired",
+      "source_url": "https://www.wired.com/story/tech-labor-day-sales-2026/",
+      "published_at": "2026-09-07T16:33:37Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7528,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "6a849878eab23e58b199cad6"
+    },
+    {
+      "title": "I left Texas for Europe more than a decade ago. Living in France is affordable, and I'm happier.",
+      "summary": "Leah Young told Business Insider she has a better quality of life in France and can't imagine living in the US again.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/thought-regret-moving-to-europe-but-im-happier-than-ever-2026-9",
+      "published_at": "2026-09-07T16:28:17Z",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7524,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/thought-regret-moving-to-europe-but-im-happier-than-ever-2026-9"
+    },
+    {
+      "title": "Here's what critics who saw Nathan Fielder's secret Elizabeth Holmes doc are saying",
+      "summary": "A24 surprised critics at the Telluride Film Festival with a screening of an Elizabeth Holmes documentary. Here were some of their impressions.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/elizabeth-holmes-a24-documentary-you-can-see-everything-reviews-2026-9",
+      "published_at": "2026-09-07T16:19:31Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7518,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/elizabeth-holmes-a24-documentary-you-can-see-everything-reviews-2026-9"
+    },
+    {
+      "title": "Matt Clifford to leave ARIA before Anthropic role becomes a 'distraction'",
+      "summary": "MPs welcome move but still want answers over how the conflict of interest was allowed to arise",
+      "source_name": "The Register",
+      "source_url": "https://www.theregister.com/public-sector/2026/09/07/matt-clifford-to-leave-aria-before-anthropic-role-becomes-a-distraction/5294861",
+      "published_at": "2026-09-07T16:02:47Z",
+      "category": "enterprise_technology",
+      "tags": [
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7506,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.theregister.com/a/5294861"
+    },
+    {
+      "title": "US watchdog opens probe into Tesla's Cybercab self-certification",
+      "summary": "Wheels turning on the road and in government",
+      "source_name": "The Register",
+      "source_url": "https://www.theregister.com/offbeat/2026/09/07/us-watchdog-opens-probe-into-teslas-cybercab-self-certification/5294833",
+      "published_at": "2026-09-07T15:53:00Z",
+      "category": "enterprise_technology",
+      "tags": [
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.75,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.theregister.com/a/5294833"
+    },
+    {
+      "title": "Fake IT Calls Target Executives in Microsoft 365 Data Theft and Extortion Attacks",
+      "summary": "Threat hunters have disclosed details of a widespread data theft and extortion threat cluster that's targeting Microsoft 365 and other software-as-a-service (SaaS) offerings through information technology (IT) help desk vishing, adversary-in-the-middle (AitM) token theft, and residential-proxy sign-ins. The activity, which mainly singles out directors, vice presidents, and other executive staff",
+      "source_name": "The Hacker News",
+      "source_url": "https://thehackernews.com/2026/09/microsoft-365-attackers-use-help-desk.html",
+      "published_at": "2026-09-07T15:51:56Z",
+      "category": "cybersecurity",
+      "tags": [
+        "AI",
+        "Cybersecurity"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7499,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://thehackernews.com/2026/09/microsoft-365-attackers-use-help-desk.html"
+    },
+    {
+      "title": "People ask how I manage 6 kids and caring for 3 relatives. I work a second job and barely get time to myself.",
+      "summary": "Kaitlin Manns shares her five-bedroom home with her husband, six kids, two young siblings, her mom, and stepdad while working as a caregiver.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/large-multigenerational-family-home-caregiving-2026-9",
+      "published_at": "2026-09-07T15:31:01Z",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7484,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/large-multigenerational-family-home-caregiving-2026-9"
+    },
+    {
+      "title": "DRAM contract prices forecast to grow only 13-18% in Q3",
+      "summary": "PC buyers already had enough of helping to fund the AI revolution, only essential refreshes happening now",
+      "source_name": "The Register",
+      "source_url": "https://www.theregister.com/storage/2026/09/07/dram-contract-prices-forecast-to-grow-only-13-18-in-q3/5294776",
+      "published_at": "2026-09-07T15:20:00Z",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7477,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.theregister.com/a/5294776"
+    },
+    {
+      "title": "Early Data Indicates an A.I.-Generated Drug Could Slow Aging",
+      "summary": "Artificial intelligence was used to help develop a drug candidate, rentosertib, for a rare lung condition. Its maker says the drug also seems to reduce the biological hallmarks of age.",
+      "source_name": "The New York Times - Technology",
+      "source_url": "https://www.nytimes.com/2026/09/07/science/ai-generated-drug-longevity.html",
+      "published_at": "2026-09-07T15:12:14Z",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "LLMs",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7471,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.nytimes.com/2026/09/07/science/ai-generated-drug-longevity.html"
+    },
+    {
+      "title": "I booked a 5-week trip to visit my long-distance boyfriend. We broke up a month before, but I went anyway.",
+      "summary": "I'd planned a long trip to visit my long-distance partner in the US, but we broke up shortly before my flight. Instead of canceling, I went alone.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/planned-trip-to-visit-partner-broke-up-went-anyway-2026-9",
+      "published_at": "2026-09-07T15:09:01Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7469,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/planned-trip-to-visit-partner-broke-up-went-anyway-2026-9"
+    },
+    {
+      "title": "Nightwing CEO has a Labor Day message for staff – and apparently The Register",
+      "summary": "Nothing says ‘For internal use only’ quite like emailing it to the press",
+      "source_name": "The Register",
+      "source_url": "https://www.theregister.com/security/2026/09/07/nightwing-ceo-has-a-labor-day-message-for-staff-and-apparently-the-register/5294819",
+      "published_at": "2026-09-07T14:43:00Z",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7451,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.theregister.com/a/5294819"
+    },
+    {
+      "title": "Jamie Dimon and AT&T CEO John Stankey shared 4 tips for crushing your career",
+      "summary": "JPMorgan CEO Jamie Dimon said the \"basic principles\" of career success won't change, while AT&T's John Stankey touted learning and relationships.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/jamie-dimon-john-stankey-career-strategy-advice-ai-work-tech-2026-9",
+      "published_at": "2026-09-07T14:43:05Z",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7451,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/jamie-dimon-john-stankey-career-strategy-advice-ai-work-tech-2026-9"
+    },
+    {
+      "title": "⚡ Weekly Recap: Chrome 0-Day, Router Hijacks, Coder Supply Chain Attack and More",
+      "summary": "Turning off email images should at least stop the pictures. This week, attackers had a workaround: a scannable QR code built out of text. It still appears, even with images blocked. A small detail, but an annoying one if that was a precaution you were counting on. Elsewhere, a trusted software source delivered code that stole credentials, and a protocol designed for secure network management",
+      "source_name": "The Hacker News",
+      "source_url": "https://thehackernews.com/2026/09/weekly-recap-chrome-0-day-router.html",
+      "published_at": "2026-09-07T14:36:07Z",
+      "category": "cybersecurity",
+      "tags": [
+        "AI",
+        "Cybersecurity"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7446,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://thehackernews.com/2026/09/weekly-recap-chrome-0-day-router.html"
+    },
+    {
+      "title": "9 startups helping homebuyers and sellers save money on traditional real estate agents",
+      "summary": "New platforms are disrupting real estate by providing homebuyers and sellers options, sometimes helping them avoid real estate agents entirely.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/startups-save-home-sellers-money-on-commissions-avoid-traditional-agents-2025-5",
+      "published_at": "2026-09-07T14:27:01Z",
+      "category": "mainstream_press",
+      "tags": [
+        "AI Agents",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.744,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/startups-save-home-sellers-money-on-commissions-avoid-traditional-agents-2025-5"
+    },
+    {
+      "title": "Vintage photos show how the role of women in the workforce has evolved in the last 100 years",
+      "summary": "In the 1920s, women entered the workforce in astonishing numbers as a result of the industrial revolution.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/vintage-photos-of-women-working-factories",
+      "published_at": "2026-09-07T14:10:01Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7428,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/vintage-photos-of-women-working-factories"
+    },
+    {
+      "title": "Oracle may be next in EU software licensing hot seat following SAP deal",
+      "summary": "Commission reportedly seeks third-party views, although no formal investigation is underway",
+      "source_name": "The Register",
+      "source_url": "https://www.theregister.com/software/2026/09/07/oracle-may-be-next-in-eu-software-licensing-hot-seat-following-sap-deal/5294805",
+      "published_at": "2026-09-07T13:56:51Z",
+      "category": "enterprise_technology",
+      "tags": [
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7419,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.theregister.com/a/5294805"
+    },
+    {
+      "title": "EXAONE Forecast for Finance",
+      "summary": "arXiv:2609.04239v1 Announce Type: new Abstract: This technical report presents EXAONE Forecast for Finance (EXAONE Finance), a financial time series (TS) foundation model (TSFM) tailored to financial forecasting. Recent TSFMs achieve strong zero-shot performance through large-scale pretraining. However, they are primarily developed for general-domain TS and largely rely on self-attention backbones whose computational cost grows quadratically with sequence length and variate…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2609.04239",
+      "published_at": "2026-09-07T04:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "AI Models",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7404,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2609.04239v1"
+    },
+    {
+      "title": "From Matching Models to Recruiting Agents: A Systematized Narrative Review of AI Recruitment Systems, Evaluation, and Governance",
+      "summary": "arXiv:2609.04286v1 Announce Type: new Abstract: Artificial intelligence in recruitment has shifted the object being automated from profile pairs and ranked lists to multi-stage workflows that retrieve evidence, compare candidates, and support or execute actions. This systematized narrative review traces that development from bilateral retrieval and behavioral ranking through neural person--job matching, large language model (LLM) components, and tool-using recruiting agents…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2609.04286",
+      "published_at": "2026-09-07T04:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "LLMs",
+        "AI Agents",
+        "Data Governance",
+        "AI Models",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7404,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2609.04286v1"
+    },
+    {
+      "title": "Harbor Adapters and Harbor-Index: Infrastructure and a Curated Meta-Dataset for Large-Scale Agentic Evaluation",
+      "summary": "arXiv:2609.04298v1 Announce Type: new Abstract: Evaluating agents on the growing number of agentic benchmarks is challenging because they often require complex environments and agent integrations. We introduce Harbor Adapters, a unified evaluation infrastructure for agentic benchmarks. Our work makes three contributions. First, we develop benchmark adapters that port more than 80 benchmarks to evaluate arbitrary agents, and validate them through rigorous code review and…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2609.04298",
+      "published_at": "2026-09-07T04:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "AI Agents",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7404,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2609.04298v1"
+    },
+    {
+      "title": "Data-Optimized Contingency Screening: A Machine Learning Approach to Power System Security",
+      "summary": "arXiv:2609.04300v1 Announce Type: new Abstract: Ensuring the security of the power system is essential for stability and reliability, especially in the event of disruption. Effective classification of contingency in power systems enables proactive decision-making and mitigates large-scale breakdowns and failures. This study explores the use of machine learning algorithms to classify security levels of contingencies in power systems into safe, moderate or severe classes. For…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2609.04300",
+      "published_at": "2026-09-07T04:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "Machine Learning",
+        "Security",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7404,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2609.04300v1"
+    },
+    {
+      "title": "Iris: Climbing to the Search Frontier",
+      "summary": "arXiv:2609.04304v1 Announce Type: new Abstract: We present Iris-mini and Iris-pro, two search agents trained at the 35B-A3B and 397B-A17B scales, together with the data pipeline and training recipe behind them. Tasks are reverse-constructed from the hyperlink structure of a web corpus: we author multi-hop chains over an entity graph distilled from a seed page and its out-links, rewrite every non-answer entity into a descriptive reference so that no clue can be resolved by…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2609.04304",
+      "published_at": "2026-09-07T04:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Data Pipelines",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7404,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2609.04304v1"
+    },
+    {
+      "title": "A Removal Based Approach to Improve LLM Faithfulness at Test-Time",
+      "summary": "arXiv:2609.04343v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly used for consequential decisions, making their explanations an important tool for auditing model behavior. Unfortunately, these explanations can be unfaithful, failing to reflect the actual reasoning underlying the model's decisions. We consider a setting in which an LLM provides both an answer and an explanation in response to a question. We identify two distinct dimensions of…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2609.04343",
+      "published_at": "2026-09-07T04:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "LLMs",
+        "AI Models",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7404,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2609.04343v1"
+    },
+    {
+      "title": "Why Better Models Can Create Riskier Systems: Evidence from LLM Agents in Financial Markets",
+      "summary": "arXiv:2609.04373v1 Announce Type: new Abstract: Large language models (LLMs) are being deployed at scale in consequential real-world systems, from financial markets to content moderation to hiring. We show that improving individual model capability can degrade rather than improve system-level outcomes. We hypothesize that shared training and architectures can lead more capable LLMs to behave more similarly, creating correlated actions that do not diversify away. We develop a…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2609.04373",
+      "published_at": "2026-09-07T04:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "LLMs",
+        "AI Agents",
+        "AI Models",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7404,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2609.04373v1"
+    },
+    {
+      "title": "Corporate Language Model (CLM): Transforming Tacit and Fragmented Enterprise Knowledge into a Sovereign, Auditable, and Executable Corporate Intelligence Layer",
+      "summary": "arXiv:2609.04377v1 Announce Type: new Abstract: Enterprise AI deployments fail not from model inadequacy, but because organizations lack a structured substrate encoding how they decide, negotiate, and execute. Generic LLMs carry no firm-specific ontological priors; RAG remains brittle, with no path to executable action; static playbooks encode logic but cannot reason or adapt. This demands an architecture treating tacit-knowledge capture, ontological grounding, sovereign…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2609.04377",
+      "published_at": "2026-09-07T04:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "LLMs",
+        "AI Models",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7404,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2609.04377v1"
+    },
+    {
+      "title": "HarvestBench: Measuring Whether LLM Agents Will Pay to Avoid Killing Animals",
+      "summary": "arXiv:2609.04444v1 Announce Type: new Abstract: Benchmarks for the side effects an agent causes on the way to a goal already exist, but HarvestBench is the first to put a price on avoiding the side effect and to name that side effect as a living creature. It is a farm simulation: LLM sub-agents drive a crew of two tractors through a cooperative corn harvest, with animals in the field. The environment is a reinforcement learning gridworld, every decision is made without…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2609.04444",
+      "published_at": "2026-09-07T04:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "LLMs",
+        "AI Agents",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7404,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2609.04444v1"
+    },
+    {
+      "title": "PerfReasoning: How Well Do LLMs Reason on Hardware Performance?",
+      "summary": "arXiv:2609.04476v1 Announce Type: new Abstract: Performance modeling is central to hardware design and software optimization, yet constructing these models requires structured reasoning about computation, data reuse, storage, and movement. We introduce PerfReasoning, a benchmark that evaluates LLMs both as direct performance reasoners and as generators of analytical performance-model code. Given workload, architecture, and mapping specifications, models compare mappings and…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2609.04476",
+      "published_at": "2026-09-07T04:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "LLMs",
+        "AI Models",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7404,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2609.04476v1"
+    }
+  ]
+}
