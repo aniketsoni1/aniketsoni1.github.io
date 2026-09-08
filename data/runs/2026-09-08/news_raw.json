@@ -1,0 +1,827 @@
+{
+  "generated_at": "2026-09-08T17:18:00.709144+00:00",
+  "post_date": "2026-09-08",
+  "sources_checked": 48,
+  "candidates": 45,
+  "items": [
+    {
+      "title": "Mastering Time Series Forecasting with Morai",
+      "summary": "Salesforce’s Moirai model predicts the future. It is designed for time series forecasting, which involves forecasting future patterns with anomaly detection as well. Since development began in 2023, Moirai has become an industry-leading model with over 30 million downloads on Hugging Face and top rankings across several time series benchmarks. Customer feedback has shown the […]",
+      "source_name": "Salesforce News",
+      "source_url": "https://www.salesforce.com/news/stories/video/mastering-time-series-forecasting-with-morai/",
+      "published_at": "2026-09-08T16:00:00+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "AI Models",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.8946,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.salesforce.com/?post_type=sf_video&p=95027"
+    },
+    {
+      "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
+      "summary": "AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome.",
+      "source_name": "Google DeepMind",
+      "source_url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
+      "published_at": "2026-09-08T14:00:15+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.99,
+      "importance_score": 0.8863,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/"
+    },
+    {
+      "title": "The Work Now Within Reach",
+      "summary": "Explore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical.",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/the-work-now-within-reach",
+      "published_at": "2026-09-08T13:00:00+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.99,
+      "importance_score": 0.8821,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/index/the-work-now-within-reach"
+    },
+    {
+      "title": "Kubernetes access via an identity provider: Public client, not confidential",
+      "summary": "Access control belongs on the same day-zero checklist as networking and storage. On most on-prem clusters, it never makes the list. The Identity Gap Managed cloud Kubernetes ships IAM or SSO integration out of the box....",
+      "source_name": "CNCF",
+      "source_url": "https://www.cncf.io/blog/2026/09/08/kubernetes-access-via-an-identity-provider-public-client-not-confidential/",
+      "published_at": "2026-09-08T11:30:00+00:00",
+      "category": "open_source_foundations",
+      "tags": [
+        "Kubernetes",
+        "Cloud",
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8759,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.cncf.io/?p=174217"
+    },
+    {
+      "title": "Distributed tracing for CI pipelines without touching a single workflow file",
+      "summary": "You’ve probably felt this one: GitHub Actions usage creeps up across your org, and your actual visibility into it doesn’t keep pace. Which workflows are slow? Which are flaky? How long are jobs sitting queued for...",
+      "source_name": "CNCF",
+      "source_url": "https://www.cncf.io/blog/2026/09/08/distributed-tracing-for-ci-pipelines-without-touching-a-single-workflow-file/",
+      "published_at": "2026-09-08T11:00:00+00:00",
+      "category": "open_source_foundations",
+      "tags": [
+        "Data Pipelines",
+        "Developer Tools",
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8738,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.cncf.io/?p=174357"
+    },
+    {
+      "title": "Funding grants for new research into AI and teen development",
+      "summary": "Apply now for OpenAI’s $5 million grant program supporting independent research on how generative AI affects teen development, well-being, and safety.",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/teen-development-research-grants",
+      "published_at": "2026-09-08T09:00:00+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI",
+        "GenAI",
+        "Research",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.99,
+      "importance_score": 0.8655,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/index/teen-development-research-grants"
+    },
+    {
+      "title": "DaVinci Resolve 21.1",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.blackmagicdesign.com/media/release/20260908-03",
+      "published_at": "2026-09-08T13:36:53+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.658,
+      "importance_score": 0.8546,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49610181"
+    },
+    {
+      "title": "Google DeepMind Releases AlphaGenome Atlas",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/",
+      "published_at": "2026-09-08T14:55:45+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.6475,
+      "importance_score": 0.8538,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49611251"
+    },
+    {
+      "title": "AWS recognized as a Leader in the 2026 Gartner Magic Quadrant for Strategic Cloud Platform Services for the 16th consecutive year",
+      "summary": "On September 1, Gartner published its Magic Quadrant for Strategic Cloud Platform Services (SCPS). Amazon Web Services (AWS) is the longest-running Leader in this Magic Quadrant, with Gartner naming AWS a Leader for the sixteenth consecutive year. In the report, Gartner once again placed AWS highest on the Ability to Execute axis. We believe this reflects our commitment to help customers innovate faster, operate more securely, and build at any scale, particularly as agentic…",
+      "source_name": "AWS Big Data Blog",
+      "source_url": "https://aws.amazon.com/blogs/big-data/aws-recognized-as-a-leader-in-the-2026-gartner-magic-quadrant-for-strategic-cloud-platform-services-for-the-16th-consecutive-year/",
+      "published_at": "2026-09-08T16:46:49+00:00",
+      "category": "cloud_providers",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Cloud",
+        "AWS",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.92,
+      "importance_score": 0.8379,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "37151ac424ba52cd649c40924134a74925bb36b6"
+    },
+    {
+      "title": "How Sony LIV built real-time video streaming analytics with AWS",
+      "summary": "Real-time data analytics is transforming how streaming platforms serve their audiences. Learn how Sony LIV built a comprehensive, real-time streaming analytics solution on AWS using Amazon Kinesis Data Streams, Amazon EMR, and Apache Iceberg.",
+      "source_name": "AWS Big Data Blog",
+      "source_url": "https://aws.amazon.com/blogs/big-data/how-sony-liv-built-real-time-video-streaming-analytics-with-aws/",
+      "published_at": "2026-09-08T16:43:05+00:00",
+      "category": "cloud_providers",
+      "tags": [
+        "Streaming",
+        "AWS",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.92,
+      "importance_score": 0.8376,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "0f1624b04e49f41793c895b8f3e582ded7e31e0c"
+    },
+    {
+      "title": "Cloud Native Computing Foundation Announces Karmada Graduation",
+      "summary": "Multi-cluster, multi-cloud Kubernetes orchestration project reaches production maturity as global enterprises scale AI training and inference across hybrid infrastructure Key Highlights SHANGHAI, China – KubeCon + CloudNativeCon + OpenInfra Summit + PyTorch Conference China 2026 –...",
+      "source_name": "CNCF",
+      "source_url": "https://www.cncf.io/announcements/2026/09/07/cloud-native-computing-foundation-announces-karmada-graduation/",
+      "published_at": "2026-09-08T02:06:17+00:00",
+      "category": "open_source_foundations",
+      "tags": [
+        "AI",
+        "Kubernetes",
+        "Cloud",
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8367,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.cncf.io/?p=174441"
+    },
+    {
+      "title": "CNCF Welcomes New Silver Members as Enterprises Scale AI From Training to Inference",
+      "summary": "New members including SoftBank Corp. and Crusoe join the cloud native community to help build cost-efficient, sovereign infrastructure SHANGHAI, China – KubeCon + CloudNativeCon + OpenInfra Summit + PyTorch Conference China 2026 – September 8, 2026...",
+      "source_name": "CNCF",
+      "source_url": "https://www.cncf.io/announcements/2026/09/07/cncf-welcomes-new-silver-members-as-enterprises-scale-ai-from-training-to-inference/",
+      "published_at": "2026-09-08T01:58:47+00:00",
+      "category": "open_source_foundations",
+      "tags": [
+        "AI",
+        "Cloud",
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8362,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.cncf.io/?p=174438"
+    },
+    {
+      "title": "China Merchants Bank Wins CNCF End User Case Study Contest for Unifying AI Training and Inference on Kubernetes",
+      "summary": "New cloud native platform lifted average accelerator compute utilization from 35% to more than 60% and cut inference cost per 1 million tokens by more than 60% Key Highlights SHANGHAI, China – KubeCon + CloudNativeCon +...",
+      "source_name": "CNCF",
+      "source_url": "https://www.cncf.io/announcements/2026/09/07/china-merchants-bank-wins-cncf-end-user-case-study-contest-for-unifying-ai-training-and-inference-on-kubernetes/",
+      "published_at": "2026-09-08T01:54:31+00:00",
+      "category": "open_source_foundations",
+      "tags": [
+        "AI",
+        "Kubernetes",
+        "Cloud",
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8359,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.cncf.io/?p=174435"
+    },
+    {
+      "title": "CNCF and SlashData Report Highlights China’s Cloud Native Momentum as AI Moves to Inference",
+      "summary": "New research finds China’s IIoT developers (48%) outpace the global average (42%) in cloud native adoption as AI infrastructure matures Key Highlights: SHANGHAI – KubeCon + CloudNativeCon + OpenInfra Summit + PyTorch Conference China —Sept. 8,...",
+      "source_name": "CNCF",
+      "source_url": "https://www.cncf.io/announcements/2026/09/07/cncf-and-slashdata-report-highlights-chinas-cloud-native-momentum-as-ai-moves-to-inference/",
+      "published_at": "2026-09-08T01:50:55+00:00",
+      "category": "open_source_foundations",
+      "tags": [
+        "AI",
+        "Cloud",
+        "Research",
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8357,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.cncf.io/?p=174432"
+    },
+    {
+      "title": "Power agent hubs or custom harnesses with the Antigravity SDK in one toolkit",
+      "summary": "Enterprise agent adoption isn’t one-size-fits-all. While many teams will opt for managed commercial platforms, such as Gemini Enterprise Agent Platform for turnkey agent deployment and governance, developers with bespoke workflows or custom execution engines often choose to build their own lightweight agent hubs. If you are building a centralized agent hub from the ground up, you need tools that run predictably, log everything, and stay in their sandbox. The Antigravity SDK…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/topics/developers-practitioners/power-agent-hubs-or-custom-harnesses-with-the-antigravity-sdk/",
+      "published_at": "2026-09-08T16:00:00+00:00",
+      "category": "cloud_providers",
+      "tags": [
+        "AI Agents",
+        "Data Governance",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.8346,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/topics/developers-practitioners/power-agent-hubs-or-custom-harnesses-with-the-antigravity-sdk/"
+    },
+    {
+      "title": "Agentic analytics with the Data Agent Kit",
+      "summary": "Imagine your director sends you a chat message Monday morning: Our average order value dropped 7% in January, but total revenue stayed flat. Why? If you’re a data practitioner, you know why these types of questions can be tough. They’re totally open ended. There’s not a single root cause dashboard you can open. Was there an error in the web logs? Was a promo code misconfigured? You won’t know until you start digging, and you rarely find the answer in just one place. Each…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/products/data-analytics/agentic-analytics-with-the-data-agent-kit/",
+      "published_at": "2026-09-08T16:00:00+00:00",
+      "category": "cloud_providers",
+      "tags": [
+        "AI Agents",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.8346,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/products/data-analytics/agentic-analytics-with-the-data-agent-kit/"
+    },
+    {
+      "title": "How KDDI built Buffmee, a faster, reliable consumer RAG app",
+      "summary": "When building consumer-facing generative AI applications, balancing high generation quality with fast response times across diverse media types, can be challenging. KDDI, a major telecommunications carrier in Japan, tackled this challenge head-on when they developed Buffmee, their consumer Retrieval-Augmented Generation (RAG) app. Buffmee is an interactive AI service built on the concept of 'AI that helps you grow.' By grounding responses in over 100 sources — including…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/topics/customers/how-kddi-optimized-rag-performance-with-agent-development-kit/",
+      "published_at": "2026-09-08T16:00:00+00:00",
+      "category": "cloud_providers",
+      "tags": [
+        "AI",
+        "GenAI",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.8346,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/topics/customers/how-kddi-optimized-rag-performance-with-agent-development-kit/"
+    },
+    {
+      "title": "DHS 'Predictive Policing' Unit Is Analyzing Americans' Financial Habits",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.404media.co/a-secretive-dhs-predictive-policing-unit-is-analyzing-americans-financial-habits-and-pulling-them-over/",
+      "published_at": "2026-09-08T14:40:30+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.638,
+      "importance_score": 0.8291,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49610988"
+    },
+    {
+      "title": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
+      "summary": "OpenAI is expanding support for journalism with tools, training, and partnerships for students, educators, journalists, and news organizations.",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms",
+      "published_at": "2026-09-08T00:00:00+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.99,
+      "importance_score": 0.828,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms"
+    },
+    {
+      "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
+      "summary": "",
+      "source_name": "Hugging Face",
+      "source_url": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
+      "published_at": "2026-09-08T14:23:07+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.9,
+      "importance_score": 0.8279,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom"
+    },
+    {
+      "title": "GTIG AI Threat Tracker: From Prompting to Autonomy – The Evolution of Adversarial AI",
+      "summary": "Executive Summary Since the release of our May 2026 report detailing adversarial misuse of artificial intelligence (AI), Google Threat Intelligence Group (GTIG) has observed forward leaning adversaries transition from basic prompting to agentic AI workflows and AI-enabled automation. In these operations, human-in-the-loop latency is dramatically reduced, compressing the traditional window for defenders to respond. In Q2 2026, GTIG observed threat actors compromise a cloud…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/topics/threat-intelligence/from-prompting-to-autonomy-the-evolution-of-adversarial-ai/",
+      "published_at": "2026-09-08T14:00:00+00:00",
+      "category": "cloud_providers",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Cloud",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.8263,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/topics/threat-intelligence/from-prompting-to-autonomy-the-evolution-of-adversarial-ai/"
+    },
+    {
+      "title": "Navier-Stokes – Tristan Buckmaster [pdf]",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://cims.nyu.edu/~tristanb/statement.pdf",
+      "published_at": "2026-09-08T05:42:28+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.8217,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49605915"
+    },
+    {
+      "title": "Introducing CUDA Rust: Two Tracks for Writing GPU Kernels",
+      "summary": "In September 2026, NVIDIA announced it is leaning into native GPU programming in Rust. CUDA C++ and CUDA Python are mature, enterprise-grade toolchains, and...",
+      "source_name": "NVIDIA Developer Blog",
+      "source_url": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/",
+      "published_at": "2026-09-08T12:00:00+00:00",
+      "category": "mlops",
+      "tags": [
+        "AI",
+        "GPUs",
+        "Python",
+        "Mlops"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8179,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://developer.nvidia.com/blog/?p=122285"
+    },
+    {
+      "title": "Antiquated HTML Snippets and Artefacts",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://vale.rocks/posts/html-relics",
+      "published_at": "2026-09-08T09:43:14+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.6415,
+      "importance_score": 0.8171,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49607991"
+    },
+    {
+      "title": "There's a new \"Google Jail\" for independent wikis",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://weirdgloop.org/blog/google-jail",
+      "published_at": "2026-09-08T01:57:23+00:00",
+      "category": "aggregators",
+      "tags": [
+        "AI",
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.8061,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49604870"
+    },
+    {
+      "title": "Paramount Caught Using 'Astroturf' Group to Drum Up Fake Support for Merger",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.techdirt.com/2026/09/08/paramount-caught-using-astroturf-group-to-drum-up-fake-support-for-merger/",
+      "published_at": "2026-09-08T14:33:52+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.6285,
+      "importance_score": 0.8048,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49610900"
+    },
+    {
+      "title": "I've factored the RSA keys of a Certificate Authority from the 90s",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://mcpherrin.ca/2026/09/07/rsa.html",
+      "published_at": "2026-09-08T01:16:59+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.8033,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49604637"
+    },
+    {
+      "title": "Introducing Claude Design by Anthropic Labs",
+      "summary": "Introducing Claude Design by Anthropic Labs Anthropic",
+      "source_name": "Anthropic",
+      "source_url": "https://news.google.com/rss/articles/CBMiyAxBVV95cUxQV1lKeHVOTjk0MzdaMG5DMUo5RTAwNzhnWnpobDhXMGVjdlVFUjc1aEhHeE14dkNXdU95RFZlV012MEhIRU5OZHRxdUNLOUx6azV1a1QtbGhnTEhrTUxvM3hpbFowc3RTVkRzajVVZGFXOXJMVlVITFNhQ2xIRWVpYXpzVlBERjFFZERMTE0temJHb1k1ZHppUWxKeFgyWnFISDVyRGJFSlRoOTJhUk9mbWRIOF9tWnJZOXZ6WlZPNHpNSVJXWmk3aGxBSjlUcG5QUjROSURKeEFySVVLOVAtUUNnM0xzSTB5cHc2Rk85cWRMUUJDN245Wlh0X0xCSW1vckpEVHpGc0QxeHBrSVF6UDBiVlNPMEMtemVyUERsVmV4dHNJZVNJbXRONUxGdVRPOVFFUVIyNHN0aDM0NGlEajc5NkpkRGtXeXVkMjZzcmtNOXk3c3Y2UWpweWNwZ1BBTzg2TFd2ZGItYUQtaVRLMWJxdjJpdzJyWXBLeTlLYVBKdzVwVGswbTRqaFlNb1dYeFpFWEpzOWVlMzhlVnhpa1l3QUtobkNzcHJ5N1V6NWZWZ0ZXeDRfYUxMQkZKUGN5MS1HcHhfaUlvRWcyQ2VhOXFWU09ydS1FSjFuek5iMDVzTEtzcEVaN1VMd3dSMkpRbUsyY0t2M1NTM2k4ZjA2blhuZGZWc21vVlZWb1ZCSGg0VVNpTS1MQ0FZZXZqSzRyc1VBWC16c1ZDdlI5ZDlxRjZPRFFKT1BjUWtKenNhY2ZRQUc2dVg2TEVtZTRsRG1GV091a3NMV1p3X085dXhJNHJRaEVKVFJQQW9YczJvZ0VSR3pNOUV0bUhZczlQUmtzbXVVUzFwOU8zbzNZdlluSXBDT1l0RnhCeXdGMnd1aUs3R3dIVmlpNHhERUJHOF91QVFiSm9RZHNyTnZDTzBlOTZvcnNLbm1qOHJieVZqdVcwR0dGcXJfS2dEakoxQUh5aFBNNHRsTWdBbXdGdHVISkpYeW1JMEpScndqa3YxbS1yQVhZeTJxMm5LYzNZaHJFRzltYUJvTHdsVW9iU0FPT2o1Y2dZMl9iVjBMNHJtUkNianlPWlk2VlZzdDVtbTJaZnprWHJ0MmVqck1aek1TQ2RmZHFCNE80NUxxdXVwbzRpRU5aUXVVUFBOc3dDVDVzTnVxdmt5Q0MtRzBnbkN6bThJbWp5NW9ZSVY2TGhzeER5bXpRTGVzRUdmd3FvZTVlWEJPZXFhU09qWnExTmlrM0lBZWF1NFNDVTJnUFhTZFhjNy1FM2lmN21rX29pa0NvZ2c5UjBIbHJDS242TTJSVEZPTTBtNGo3QWR1ekVSenVxMjB2bDB0WVZkX21Rdm4zTjgyWjZHOVlQYVU5MEdZWmpXZGVoSVh3ODhmY0VSeVBFQ0tJZEhweUNzc3Jvd3F5NzZiU3V6Mmowd2l6TGcydmFkYS1NWWJIRS05LTBMM2xieWhuMmNqbVhJNzlXVFBWY3p6SThGTEMwU0VRX1F2Y05oNGFNVGZQQXo0Um1BWXNtMmpKNTJZSTVGd2I1WEtDcVhKSWdIcXJKbkNza1ZUZ2JENVZBaHNEQlh3Rk04aWZRWHc1Vk5ycF83NnpLRkVoQWRmQXMzNVl4U1JtU04wdTdKVjZvS2FQRWU0bGIzMVhsRWlXTHFrS3FNLUd2akxJbzNmb24xcHk1TUxtOXlrTFRwRlZaYmxRd1J5Y3h6R2dJTC1KWnFCSzFrb3RxTzVDWGd0WmdCV3RESTJaMmpZZ0I5ZHF4YmZfS29fZG9PNi1iQlp6b2h2alBxdUpSanRfelN2dHladGJOVWlFaTNQZldfaEp3UnhLRlA5c2R1Rk1KVTRMampfeV94T0VoeVRUcE5hNGFnYnZnNjYwVXZQd1pfSEowT01PYTZzNmFzMUstRGtJMDBTN0U0OXgwVldnZVpPT04xMUhocDZ2TU16dnhxd0xhZUhXaGlGZVgteld5N0Z4N3FnSW9lSks0M1lYb2ZaTTZWQV9MVkhLNFR6c29nd3loV0NLcVJRTTBmcXJOU1RKazVOUVJUNGlRckp0OVJvVXdDWmtfVUstUGJVakxGT0RKVEZ4WHNWaVN6QTY2NjQ4R1J0TDhsNnBleG9UZXZkTllPSXc?oc=5",
+      "published_at": "2026-09-07T17:00:18+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.97,
+      "importance_score": 0.7988,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "CBMiyAxBVV95cUxQV1lKeHVOTjk0MzdaMG5DMUo5RTAwNzhnWnpobDhXMGVjdlVFUjc1aEhHeE14dkNXdU95RFZlV012MEhIRU5OZHRxdUNLOUx6azV1a1QtbGhnTEhrTUxvM3hpbFowc3RTVkRzajVVZGFXOXJMVlVITFNhQ2xIRWVpYXpzVlBERjFFZERMTE0temJHb1k1ZHppUWxKeFgyWnFISDVyRGJFSlRoOTJhUk9mbWRIOF9tWnJZOXZ6WlZPNHpNSVJXWmk3aGxBSjlUcG5QUjROSURKeEFySVVLOVAtUUNnM0xzSTB5cHc2Rk85cWRMUUJDN245Wlh0X0xCSW1vckpEVHpGc0QxeHBrSVF6UDBiVlNPMEMtemVyUERsVmV4dHNJZVNJbXRONUxGdVRPOVFFUVIyNHN0aDM0NGlEajc5NkpkRGtXeXVkMjZzcmtNOXk3c3Y2UWpweWNwZ1BBTzg2TFd2ZGItYUQtaVRLMWJxdjJpdzJyWXBLeTlLYVBKdzVwVGswbTRqaFlNb1dYeFpFWEpzOWVlMzhlVnhpa1l3QUtobkNzcHJ5N1V6NWZWZ0ZXeDRfYUxMQkZKUGN5MS1HcHhfaUlvRWcyQ2VhOXFWU09ydS1FSjFuek5iMDVzTEtzcEVaN1VMd3dSMkpRbUsyY0t2M1NTM2k4ZjA2blhuZGZWc21vVlZWb1ZCSGg0VVNpTS1MQ0FZZXZqSzRyc1VBWC16c1ZDdlI5ZDlxRjZPRFFKT1BjUWtKenNhY2ZRQUc2dVg2TEVtZTRsRG1GV091a3NMV1p3X085dXhJNHJRaEVKVFJQQW9YczJvZ0VSR3pNOUV0bUhZczlQUmtzbXVVUzFwOU8zbzNZdlluSXBDT1l0RnhCeXdGMnd1aUs3R3dIVmlpNHhERUJHOF91QVFiSm9RZHNyTnZDTzBlOTZvcnNLbm1qOHJieVZqdVcwR0dGcXJfS2dEakoxQUh5aFBNNHRsTWdBbXdGdHVISkpYeW1JMEpScndqa3YxbS1yQVhZeTJxMm5LYzNZaHJFRzltYUJvTHdsVW9iU0FPT2o1Y2dZMl9iVjBMNHJtUkNianlPWlk2VlZzdDVtbTJaZnprWHJ0MmVqck1aek1TQ2RmZHFCNE80NUxxdXVwbzRpRU5aUXVVUFBOc3dDVDVzTnVxdmt5Q0MtRzBnbkN6bThJbWp5NW9ZSVY2TGhzeER5bXpRTGVzRUdmd3FvZTVlWEJPZXFhU09qWnExTmlrM0lBZWF1NFNDVTJnUFhTZFhjNy1FM2lmN21rX29pa0NvZ2c5UjBIbHJDS242TTJSVEZPTTBtNGo3QWR1ekVSenVxMjB2bDB0WVZkX21Rdm4zTjgyWjZHOVlQYVU5MEdZWmpXZGVoSVh3ODhmY0VSeVBFQ0tJZEhweUNzc3Jvd3F5NzZiU3V6Mmowd2l6TGcydmFkYS1NWWJIRS05LTBMM2xieWhuMmNqbVhJNzlXVFBWY3p6SThGTEMwU0VRX1F2Y05oNGFNVGZQQXo0Um1BWXNtMmpKNTJZSTVGd2I1WEtDcVhKSWdIcXJKbkNza1ZUZ2JENVZBaHNEQlh3Rk04aWZRWHc1Vk5ycF83NnpLRkVoQWRmQXMzNVl4U1JtU04wdTdKVjZvS2FQRWU0bGIzMVhsRWlXTHFrS3FNLUd2akxJbzNmb24xcHk1TUxtOXlrTFRwRlZaYmxRd1J5Y3h6R2dJTC1KWnFCSzFrb3RxTzVDWGd0WmdCV3RESTJaMmpZZ0I5ZHF4YmZfS29fZG9PNi1iQlp6b2h2alBxdUpSanRfelN2dHladGJOVWlFaTNQZldfaEp3UnhLRlA5c2R1Rk1KVTRMampfeV94T0VoeVRUcE5hNGFnYnZnNjYwVXZQd1pfSEowT01PYTZzNmFzMUstRGtJMDBTN0U0OXgwVldnZVpPT04xMUhocDZ2TU16dnhxd0xhZUhXaGlGZVgteld5N0Z4N3FnSW9lSks0M1lYb2ZaTTZWQV9MVkhLNFR6c29nd3loV0NLcVJRTTBmcXJOU1RKazVOUVJUNGlRckp0OVJvVXdDWmtfVUstUGJVakxGT0RKVEZ4WHNWaVN6QTY2NjQ4R1J0TDhsNnBleG9UZXZkTllPSXc"
+    },
+    {
+      "title": "Getting your hands dirty is good for you",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.bbc.com/future/article/20260904-how-getting-your-hands-dirty-boosts-your-health-within-weeks",
+      "published_at": "2026-09-08T09:48:24+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.6275,
+      "importance_score": 0.7826,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49608023"
+    },
+    {
+      "title": "Handling vulnerability reports: Recipe card",
+      "summary": "Recipe Handling Vulnerability Reports Target audience (the chef) This recipe is aimed at small and medium non-security focused projects. Maintainers of a high-risk security sensitive project, you probably need a more sophisticated approach (check out https://alpha-omega.dev/) Scope...",
+      "source_name": "CNCF",
+      "source_url": "https://www.cncf.io/blog/2026/09/07/handling-vulnerability-reports-recipe-card/",
+      "published_at": "2026-09-07T11:30:00+00:00",
+      "category": "open_source_foundations",
+      "tags": [
+        "AI",
+        "Security",
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.87,
+      "importance_score": 0.7759,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.cncf.io/?p=174136"
+    },
+    {
+      "title": "Show HN: Copperhead – Hardware as Fast as Software",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://copperhead.sh/",
+      "published_at": "2026-09-08T13:26:45+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.6165,
+      "importance_score": 0.7701,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49610059"
+    },
+    {
+      "title": "Bring your own model to GitLab Duo Self-Hosted with Microsoft Foundry",
+      "summary": "For many organizations, the question about AI coding tools isn't whether they help, but where the code goes. Teams under data sovereignty, residency, or regulatory constraints need to know which network handles their source code before they can adopt anything. GitLab Duo Self-Hosted answers that by letting administrators connect GitLab Duo features to models running on infrastructure they choose, with control over hosting, region, network path, and credentials. In this…",
+      "source_name": "GitLab Blog",
+      "source_url": "https://about.gitlab.com/blog/gitlab-duo-self-hosted-models-on-microsoft-foundry/",
+      "published_at": "2026-09-08T00:00:00+00:00",
+      "category": "developer_platforms",
+      "tags": [
+        "AI",
+        "AI Models",
+        "Developer Platforms"
+      ],
+      "confidence_score": 0.86,
+      "importance_score": 0.7679,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://about.gitlab.com/blog/gitlab-duo-self-hosted-models-on-microsoft-foundry/"
+    },
+    {
+      "title": "Delivering Real-Time Personalization with Databricks and Redis",
+      "summary": "Why real-time matters A customer is browsing an e-commerce site. They search for running shoes, open a product, read reviews, and add an item to the cart. Every one of those actions is a signal about what they want right now. If the homepage they lan...",
+      "source_name": "Redis Blog",
+      "source_url": "https://redis.io/blog/delivering-real-time-personalization-with-databricks-and-redis/",
+      "published_at": "2026-09-08T00:00:00+00:00",
+      "category": "databases",
+      "tags": [
+        "Databricks",
+        "Databases"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7679,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://redis.io/blog/delivering-real-time-personalization-with-databricks-and-redis/"
+    },
+    {
+      "title": "A Hacking Tool Built With A.I. Can Breach Phones Without a Click",
+      "summary": "An attack discovered by A.I. researchers could have compromised hundreds of millions of devices within hours, experts said.",
+      "source_name": "The New York Times - Technology",
+      "source_url": "https://www.nytimes.com/2026/09/08/us/politics/calif-ai-worm-wechat-hack.html",
+      "published_at": "2026-09-08T16:50:25+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Research",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7581,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.nytimes.com/2026/09/08/us/politics/calif-ai-worm-wechat-hack.html"
+    },
+    {
+      "title": "The 25 colleges where students graduate with the most debt",
+      "summary": "College isn't cheap. Students graduate from these 25 institutions with the highest median federal debt.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/colleges-students-graduate-with-most-federal-debt-2026-9",
+      "published_at": "2026-09-08T16:48:53+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.758,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/colleges-students-graduate-with-most-federal-debt-2026-9"
+    },
+    {
+      "title": "OpenAI Just Claimed a Huge Math Discovery. Some Academics Are Crying Foul",
+      "summary": "A landmark announcement by the frontier AI lab has been overshadowed by accusations of impropriety.",
+      "source_name": "Wired",
+      "source_url": "https://www.wired.com/story/openai-navier-stokes-math-discovery-academics/",
+      "published_at": "2026-09-08T16:42:05+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7575,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "6aa019df196e8ca64468263f"
+    },
+    {
+      "title": "Floating nuclear startup Bluecore lands $50M funding before setting sail",
+      "summary": "Startup wants to take atomic power generation on a barge to wherever the need is",
+      "source_name": "The Register",
+      "source_url": "https://www.theregister.com/systems/2026/09/08/floating-nuclear-startup-bluecore-lands-50m-funding-before-setting-sail/5295032",
+      "published_at": "2026-09-08T16:30:00+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7567,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.theregister.com/a/5295032"
+    },
+    {
+      "title": "Google Cloud races to catch up in the AI deployment wars with Accenture deal",
+      "summary": "Google Cloud expands its enterprise AI push with Accenture, betting on forward-deployed engineers to drive adoption and overcome deployment bottlenecks.",
+      "source_name": "TechCrunch - AI",
+      "source_url": "https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/",
+      "published_at": "2026-09-08T16:20:31+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "Cloud",
+        "Google Cloud",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.756,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://techcrunch.com/?p=3161424"
+    },
+    {
+      "title": "Slim Spider Steals Crypto Custody Secrets From Brazilian Financial Institution",
+      "summary": "A previously undocumented financially motivated threat actor has been linked to attacks targeting Brazilian financial institutions since at least March 2026. Cybersecurity company CrowdStrike is tracking the Brazil-based activity cluster under the name Slim Spider. \"The adversary demonstrates deep operational knowledge of Brazilian financial infrastructure, including the instant payment",
+      "source_name": "The Hacker News",
+      "source_url": "https://thehackernews.com/2026/09/slim-spider-steals-crypto-custody.html",
+      "published_at": "2026-09-08T16:20:23+00:00",
+      "category": "cybersecurity",
+      "tags": [
+        "Security",
+        "Cybersecurity"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.756,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://thehackernews.com/2026/09/slim-spider-steals-crypto-custody.html"
+    },
+    {
+      "title": "AI Slop Is Changing How Engineers Review Code",
+      "summary": "Companies rethink how early-career engineers can get vital coding experience",
+      "source_name": "IEEE Spectrum",
+      "source_url": "https://spectrum.ieee.org/ai-code-review-software-engineers",
+      "published_at": "2026-09-08T16:16:49+00:00",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.7558,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://spectrum.ieee.org/ai-code-review-software-engineers"
+    },
+    {
+      "title": "Apple Expected to Unveil a Folding iPhone at Annual Launch Event",
+      "summary": "Fans of the company’s products widely believe it will unveil a folding smartphone at its annual launch event on Wednesday.",
+      "source_name": "The New York Times - Technology",
+      "source_url": "https://www.nytimes.com/2026/09/08/technology/apple-iphone-event.html",
+      "published_at": "2026-09-08T16:03:26+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7548,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.nytimes.com/2026/09/08/technology/apple-iphone-event.html"
+    },
+    {
+      "title": "This Ina Garten recipe helped me turn one easy lunch into 2 different meals I actually crave — and kept me fed all week",
+      "summary": "I tried Ina Garten's \"two-fer\" or \"2-for-1\" recipe for a tomato soup and baked pasta. It was easy to turn one meal into a new lunch the next day.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/tried-2-for-1-recipe-ina-garten-review-pasta-soup-2026-9",
+      "published_at": "2026-09-08T16:02:01+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7547,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/tried-2-for-1-recipe-ina-garten-review-pasta-soup-2026-9"
+    },
+    {
+      "title": "Here’s Samsung’s Advice for Apple and Its Upcoming Folding iPhone",
+      "summary": "The competition is “absolutely welcome” by the pioneering Korean giant, but Samsung warns that the device’s “weight” is crucial.",
+      "source_name": "Wired",
+      "source_url": "https://www.wired.com/story/samsung-advice-for-apple-and-its-upcoming-folding-iphone/",
+      "published_at": "2026-09-08T16:00:00+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7546,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "6a99a3d36f7d62b638e2170a"
+    },
+    {
+      "title": "Boston Scientific left nursing its bottom line after cyberattack",
+      "summary": "Medical device giant warns August intrusion will hit Q3 and full-year sales and earnings as recovery drags on",
+      "source_name": "The Register",
+      "source_url": "https://www.theregister.com/security/2026/09/08/boston-scientific-left-nursing-its-bottom-line-after-cyberattack/5295026",
+      "published_at": "2026-09-08T15:45:00+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7536,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.theregister.com/a/5295026"
+    },
+    {
+      "title": "We once had to melt snow just to flush our toilet. It was one of several unexpected challenges of living off-grid.",
+      "summary": "My husband and I lived off the grid in a rural area. We dealt with unexpected challenges, like snow blocking our solar powers and tons of critters.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/lived-off-the-grid-biggest-challenges-inconveniences-surprises-2026-9",
+      "published_at": "2026-09-08T15:40:01+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7532,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/lived-off-the-grid-biggest-challenges-inconveniences-surprises-2026-9"
+    }
+  ]
+}
