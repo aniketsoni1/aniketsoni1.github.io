@@ -1,0 +1,844 @@
+{
+  "post_date": "2026-09-10",
+  "sources_checked": 48,
+  "count": 45,
+  "items": [
+    {
+      "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
+      "summary": "César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections.",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
+      "published_at": "2026-09-10T16:00:00Z",
+      "category": "ai_model_companies",
+      "tags": [
+        "Research",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.99,
+      "importance_score": 0.8957,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials"
+    },
+    {
+      "title": "3 ways to prep for your next big race with Search",
+      "summary": "Illustration on a blue background of technicolor runners with a magnifying glass and Gemini spark overlaid",
+      "source_name": "Google AI (The Keyword)",
+      "source_url": "https://blog.google/products-and-platforms/products/search/running-race-training-tips/",
+      "published_at": "2026-09-10T16:00:00Z",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI",
+        "Apache Spark",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.8957,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://blog.google/products-and-platforms/products/search/running-race-training-tips/"
+    },
+    {
+      "title": "Salesforce’s Agentforce 360 Powers the Future of Chess with FIDE",
+      "summary": "Salesforce becomes the Title Sponsor and Technological partner of FIDE. Partnership brings the Agentforce 360 portfolio, including Slack, to the world’s largest chess events and forums, powering real-time player rankings and AI-driven fan experiences for over 800 million global fans. SAN FRANCISCO and LAUSANNE, September 10, 2026 — Salesforce (NYSE: CRM), the #1 AI CRM, […]",
+      "source_name": "Salesforce News",
+      "source_url": "https://www.salesforce.com/news/press-releases/2026/09/10/agentforce-360-powers-future-of-chess-with-fide/",
+      "published_at": "2026-09-10T16:00:00Z",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.8956,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.salesforce.com/?post_type=sf_press_release&p=95149"
+    },
+    {
+      "title": "Now everyone can put data to work",
+      "summary": "Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language.",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/put-data-to-work",
+      "published_at": "2026-09-10T15:00:00Z",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.99,
+      "importance_score": 0.8915,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/index/put-data-to-work"
+    },
+    {
+      "title": "Salesforce Introduces the Trusted Enterprise AI Harness",
+      "summary": "A new architecture that gives AI a shared understanding of the customer and the business — and enables it to act with trust Six trusted capabilities and a new AI Control Plane, built for an open and composable AI ecosystem The Agentic Enterprise is changing how work gets done — and the role every […]",
+      "source_name": "Salesforce News",
+      "source_url": "https://www.salesforce.com/news/stories/enterprise-ai-harness/",
+      "published_at": "2026-09-10T13:00:00Z",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.8831,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.salesforce.com/?p=95187"
+    },
+    {
+      "title": "Salesforce Completes Acquisition of Fin",
+      "summary": "Fin’s customer agent platform joins Salesforce, giving companies faster, more flexible ways to automate customer service and deliver measurable outcomes SAN FRANCISCO, CA — September 10, 2026 — Salesforce (NYSE: CRM), the world’s #1 AI CRM, today announced it has completed its acquisition of Fin, formerly Intercom, an industry-leading customer agent company. The close of […]",
+      "source_name": "Salesforce News",
+      "source_url": "https://www.salesforce.com/news/press-releases/2026/09/10/salesforce-completes-acquisition-of-fin/",
+      "published_at": "2026-09-10T13:00:00Z",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.8831,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.salesforce.com/?post_type=sf_press_release&p=95171"
+    },
+    {
+      "title": "Kubernetes disaster recovery: Guidance from three reproducible failure scenarios",
+      "summary": "Scope This document describes three failure scenarios that separate having backups from being able to recover, and the guidance that follows from each. Every scenario is reproducible on a laptop from the lab repository above, and...",
+      "source_name": "CNCF",
+      "source_url": "https://www.cncf.io/blog/2026/09/10/kubernetes-disaster-recovery-guidance-from-three-reproducible-failure-scenarios/",
+      "published_at": "2026-09-10T11:37:00Z",
+      "category": "open_source_foundations",
+      "tags": [
+        "AI",
+        "Kubernetes",
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8774,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.cncf.io/?p=174488"
+    },
+    {
+      "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
+      "summary": "OpenAI and GSA will offer eligible federal, state, local, and tribal governments $0 license fees, 50% off usage, and expanded cyber defense support.",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/expanding-ai-access-us-government",
+      "published_at": "2026-09-10T07:00:00Z",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.99,
+      "importance_score": 0.8582,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/index/expanding-ai-access-us-government"
+    },
+    {
+      "title": "Shopify moves back to Native from React Native",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://shopify.engineering/back-to-native",
+      "published_at": "2026-09-10T14:09:31Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.858,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49643982"
+    },
+    {
+      "title": "Rust Is Tier-1 Language at Microsoft",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/",
+      "published_at": "2026-09-10T13:39:16Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.693,
+      "importance_score": 0.8559,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49643546"
+    },
+    {
+      "title": "List of references on Sony websites to players \"owning\" their digital games",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://consumerrights.wiki/w/Sony_PlayStation_digital_game_ownership_lawsuit",
+      "published_at": "2026-09-10T12:18:06Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.661,
+      "importance_score": 0.8502,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49642531"
+    },
+    {
+      "title": "Introducing the Google Cloud Developer Plugin for AI Coding Agents",
+      "summary": "Agent skills fit well alongside documentation and remote MCP servers as ways of enabling the success of your AI workflows. They reduce context window usage for certain use cases, and they're straightforward to install. However, you might have noticed that managing individual skills can be unwieldy, or that some skills are most useful when they act alongside other skills or MCP servers toward the same goal. That's where plugins come in to help. Today, we're thrilled to…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/topics/developers-practitioners/introducing-the-google-cloud-developer-plugin-for-ai-coding-agents/",
+      "published_at": "2026-09-10T19:53:00Z",
+      "category": "cloud_providers",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Cloud",
+        "Google Cloud",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.84,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/topics/developers-practitioners/introducing-the-google-cloud-developer-plugin-for-ai-coding-agents/"
+    },
+    {
+      "title": "How Full-Stack NIM Optimizations Deliver 2.5x More Users on Nemotron 3 Ultra",
+      "summary": "Deploying a large language model is only the first step toward production-ready serving. Production teams also need to serve as many concurrent users as...",
+      "source_name": "NVIDIA Developer Blog",
+      "source_url": "https://developer.nvidia.com/blog/how-full-stack-nim-optimizations-deliver-2-5x-more-users-on-nemotron-3-ultra/",
+      "published_at": "2026-09-10T16:55:32Z",
+      "category": "mlops",
+      "tags": [
+        "LLMs",
+        "AI Models",
+        "Mlops"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8395,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://developer.nvidia.com/blog/?p=122372"
+    },
+    {
+      "title": "Skild AI Taps NVIDIA Physical AI to Teach Robots New Tasks From a Single Video",
+      "summary": "Manufacturing floors, warehouses and production lines rarely stay fixed — tasks change, layouts shift and new products arrive, and most robots can’t keep up without significant reprogramming. Skild AI’s new S1 robot foundation model helps address this, designed to learn previously unseen, long-horizon tasks from a single video demonstration. The model, launched last week, uses […]",
+      "source_name": "NVIDIA Blog",
+      "source_url": "https://blogs.nvidia.com/blog/skild-ai-s1-physical-ai/",
+      "published_at": "2026-09-10T16:30:35Z",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "GPUs",
+        "AI Models",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8378,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://blogs.nvidia.com/?p=98131"
+    },
+    {
+      "title": "What algorithm did Windows XP use to choose your initial user picture?",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing/20260909-00/?p=112683",
+      "published_at": "2026-09-10T09:04:14Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.6815,
+      "importance_score": 0.8368,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49640646"
+    },
+    {
+      "title": "How to migrate from Amazon CloudSearch to Amazon OpenSearch Serverless",
+      "summary": "Learn how to migrate an Amazon CloudSearch domain to Amazon OpenSearch Serverless: assess your configuration, create a collection with explicit index mappings, convert your documents and queries to the OpenSearch query DSL, configure security, load data with Amazon OpenSearch Ingestion, and validate before cutover.",
+      "source_name": "AWS Big Data Blog",
+      "source_url": "https://aws.amazon.com/blogs/big-data/how-to-migrate-from-amazon-cloudsearch-to-amazon-opensearch-serverless/",
+      "published_at": "2026-09-10T16:06:42Z",
+      "category": "cloud_providers",
+      "tags": [
+        "AI",
+        "Cloud",
+        "Security",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.92,
+      "importance_score": 0.8361,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "bf777f5bab542f56a24f05e05d9b0c2ad22ded30"
+    },
+    {
+      "title": "Accelerating Spark queries with Iceberg materialized views",
+      "summary": "Accelerate slow, repetitive Apache Spark analytical queries on Apache Iceberg tables without rewriting any SQL. This post shows how automatic query rewrite in Amazon EMR and AWS Glue uses Iceberg materialized views in the AWS Glue Data Catalog to transparently substitute matching query plans, and how to design materialized views for the best speedup.",
+      "source_name": "AWS Big Data Blog",
+      "source_url": "https://aws.amazon.com/blogs/big-data/accelerating-spark-queries-with-iceberg-materialized-views/",
+      "published_at": "2026-09-10T16:05:45Z",
+      "category": "cloud_providers",
+      "tags": [
+        "Apache Spark",
+        "AWS",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.92,
+      "importance_score": 0.8361,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "f7504fce8cffe082d1e3efae9f5e5c99384ec13e"
+    },
+    {
+      "title": "What’s new with Google Data Cloud",
+      "summary": "September 7 - September 10 Pub/Sub SMTs can now AI Inference your Gemini Enterprise Agent Platform models! Pub/Sub AI Inference SMTs allow you to apply inference on an incoming stream of events using models hosted in Gemini Enterprise Agent Platform. The model’s prediction is appended to your event, making it available for downstream processing in your data warehouse (like BigQuery) or operational database (like BigTable). This feature, now generally available, can…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/products/data-analytics/whats-new-with-google-data-cloud/",
+      "published_at": "2026-09-10T16:00:00Z",
+      "category": "cloud_providers",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Cloud",
+        "Databases",
+        "AI Models",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.8357,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/products/data-analytics/whats-new-with-google-data-cloud/"
+    },
+    {
+      "title": "What’s new with Google Cloud",
+      "summary": "Want to know the latest from Google Cloud? Find it here in one handy location. Check back regularly for our newest updates, announcements, resources, events, learning opportunities, and more. Tip : Not sure where to find what you’re looking for on the Google Cloud blog? Start here: Google Cloud blog 101: Full list of topics, links, and resources . aside_block <ListValue: []> Sept 7 - Sept 10 Why Your Voice Agent Needs Session Auditing Moving voice agents to production…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
+      "published_at": "2026-09-10T16:00:00Z",
+      "category": "cloud_providers",
+      "tags": [
+        "AI Agents",
+        "Cloud",
+        "Google Cloud",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.8357,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/"
+    },
+    {
+      "title": "Every team is a data team — bring Amazon Redshift analytics to ChatGPT Work",
+      "summary": "AWS is announcing the AWS Data Analytics plugin for the new Data agent in ChatGPT Work. Teams can ask questions in natural language, analyze governed data across their Amazon Redshift data warehouse and data lakes, and build shareable dashboards, all from a conversation in ChatGPT Work.",
+      "source_name": "AWS Big Data Blog",
+      "source_url": "https://aws.amazon.com/blogs/big-data/every-team-is-a-data-team-bring-amazon-redshift-analytics-to-chatgpt-work/",
+      "published_at": "2026-09-10T15:14:01Z",
+      "category": "cloud_providers",
+      "tags": [
+        "AI Agents",
+        "AWS",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.92,
+      "importance_score": 0.8325,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "bfcb19e5913c73719fbbf22751605789aa04153a"
+    },
+    {
+      "title": "High-Throughput Structure Prediction with BioNeMo Inference Runtime",
+      "summary": "Biomolecular structure prediction is now often run at proteome scale, where the goal is to move an entire worklist through the pipeline efficiently. NVIDIA...",
+      "source_name": "NVIDIA Developer Blog",
+      "source_url": "https://developer.nvidia.com/blog/high-throughput-structure-prediction-with-bionemo-inference-runtime/",
+      "published_at": "2026-09-10T15:00:00Z",
+      "category": "mlops",
+      "tags": [
+        "Data Pipelines",
+        "GPUs",
+        "Mlops"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8315,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://developer.nvidia.com/blog/?p=122343"
+    },
+    {
+      "title": "DeepSeek v4.1 Flash",
+      "summary": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash",
+      "source_name": "Hacker News",
+      "source_url": "https://twitter.com/deepseek_ai/status/2097930608790167907",
+      "published_at": "2026-09-10T06:11:05Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.8247,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49639090"
+    },
+    {
+      "title": "d-Matrix Adopts NVIDIA NVLink Fusion for Rack-Scale XPU Deployment",
+      "summary": "AI inference chipmaker d-Matrix today announced it will use NVIDIA NVLink Fusion to connect its next-generation Raptor XPUs to NVIDIA’s AI infrastructure platform — joining a growing roster of ecosystem partners. By connecting Raptor to NVIDIA NVLink scale-up and Spectrum-X scale-out networking, the NVIDIA MGX rack architecture and the broader NVIDIA AI platform, NVLink Fusion […]",
+      "source_name": "NVIDIA Blog",
+      "source_url": "https://blogs.nvidia.com/blog/d-matrix-nvlink-fusion/",
+      "published_at": "2026-09-10T13:00:21Z",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "GPUs",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8232,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://blogs.nvidia.com/?p=98153"
+    },
+    {
+      "title": "Boots on the Ground: ‘WARDOGS’ Goes All Out on GeForce NOW at Early-Access Launch",
+      "summary": "Gear up: The latest PC games and major updates are ready to play on GeForce NOW this week. WARDOGS drops onto the cloud at early-access launch, alongside the Valheim 1.0 Deep North update and Bus Simulator 27 — part of nine new titles joining the cloud. The newest PC releases can demand serious hardware, storage […]",
+      "source_name": "NVIDIA Blog",
+      "source_url": "https://blogs.nvidia.com/blog/geforce-now-thursday-wardogs/",
+      "published_at": "2026-09-10T13:00:18Z",
+      "category": "enterprise_technology",
+      "tags": [
+        "Cloud",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8232,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://blogs.nvidia.com/?p=98103"
+    },
+    {
+      "title": "Show HN: What if the speed of light was 5 km/h?",
+      "summary": "I've always wanted to make a visualization where the speed of light was scaled down to human speeds, so that we could intuit relativistic effects with everyday objects. Here is the first version of it!",
+      "source_name": "Hacker News",
+      "source_url": "https://rivendell.dmitrybrant.com/relativity/",
+      "published_at": "2026-09-10T01:58:00Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.8072,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49637385"
+    },
+    {
+      "title": "From Wafer-Out to First Token: Codifying Supply Chain Expertise with Nemotron and Palantir Foundry",
+      "summary": "NVIDIA has one of the largest and most complex supply chains in the world, and its performance is measured from wafer-out to first token. The interval is in two...",
+      "source_name": "NVIDIA Developer Blog",
+      "source_url": "https://developer.nvidia.com/blog/from-wafer-out-to-first-token-codifying-supply-chain-expertise-with-nemotron-and-palantir-foundry/",
+      "published_at": "2026-09-10T09:00:00Z",
+      "category": "mlops",
+      "tags": [
+        "AI",
+        "GPUs",
+        "Mlops"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8065,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://developer.nvidia.com/blog/?p=122401"
+    },
+    {
+      "title": "Paul Christiano joins OpenAI Foundation Board",
+      "summary": "Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee, bringing experience in AI alignment, safety, and standards.",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
+      "published_at": "2026-09-09T17:00:00Z",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI",
+        "Security",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.97,
+      "importance_score": 0.7998,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/index/paul-christiano-joins-openai-foundation-board"
+    },
+    {
+      "title": "Get ready for the game with new football features in Search",
+      "summary": "An illustrated graphic set against a vibrant green background featuring American football elements, including a gold trophy, a blue helmet, a silver whistle, a football, a mini scoreboard, and play diagrams, with the icon for AI Mode in Google Search in t",
+      "source_name": "Google AI (The Keyword)",
+      "source_url": "https://blog.google/products-and-platforms/products/search/football-features-google-search/",
+      "published_at": "2026-09-09T16:00:00Z",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.92,
+      "importance_score": 0.7957,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://blog.google/products-and-platforms/products/search/football-features-google-search/"
+    },
+    {
+      "title": "Recreating a 70-year love story frame by frame",
+      "summary": "An elderly couple sitting in a movie theater. Overlayed are \"Teulluride Film Festival\" and \"Love, Rendered\"",
+      "source_name": "Google AI (The Keyword)",
+      "source_url": "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/",
+      "published_at": "2026-09-09T16:00:00Z",
+      "category": "ai_model_companies",
+      "tags": [
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.92,
+      "importance_score": 0.7957,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/"
+    },
+    {
+      "title": "Pioneering Salesforce Engineering’s Agentic Shift: Part 2",
+      "summary": "Key Takeaways In May, Srinivas Tallapragada shared what happened when Salesforce Engineering went agentic. This is the story of how we scaled that work across 15,000 engineers. It’s one thing to talk about agentic coding on a greenfield side project. It’s a different problem entirely to do it across a business running production systems for […]",
+      "source_name": "Salesforce News",
+      "source_url": "https://www.salesforce.com/news/stories/agentic-shift-for-salesforce-engineers/",
+      "published_at": "2026-09-09T15:00:00Z",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI Agents",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7915,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.salesforce.com/?p=95005"
+    },
+    {
+      "title": "The AI policy window is open. We need to act.",
+      "summary": "Chris Lehane argues that stronger AI capabilities require stronger safety evidence, shared standards, and durable policy action while the policy window remains open.",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/ai-policy-window",
+      "published_at": "2026-09-09T13:00:00Z",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.97,
+      "importance_score": 0.7832,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/index/ai-policy-window"
+    },
+    {
+      "title": "New Research: CFOs Turn to AI and Agents to Tame Growing Revenue Complexity",
+      "summary": "Key Takeaways Salesforce’s new CFO Priorities Report, based on a double-blind survey of 865 finance leaders across three continents, finds the role in the middle of a shift. Financial oversight is still the job. But advanced AI has become part of it in two ways at once: managing a new tool to improve finance workflows […]",
+      "source_name": "Salesforce News",
+      "source_url": "https://www.salesforce.com/news/stories/cfos-ai-agents-to-tame-revenue-complexity/",
+      "published_at": "2026-09-09T13:00:00Z",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Research",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7831,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.salesforce.com/?p=95063"
+    },
+    {
+      "title": "GitHub availability report: August 2026",
+      "summary": "In August, we experienced five incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: August 2026 appeared first on The GitHub Blog .",
+      "source_name": "The GitHub Blog",
+      "source_url": "https://github.blog/news-insights/company-news/github-availability-report-august-2026/",
+      "published_at": "2026-09-10T02:05:17Z",
+      "category": "developer_platforms",
+      "tags": [
+        "AI",
+        "Developer Tools",
+        "Developer Platforms"
+      ],
+      "confidence_score": 0.92,
+      "importance_score": 0.7777,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://github.blog/?p=98774"
+    },
+    {
+      "title": "Whose GPUs are these, anyway? Secure, self-service metrics for multi-tenant Kubernetes",
+      "summary": "The question that stopped the meeting It was a routine cost review. The slide showed the month’s GPU spend, the biggest line on the whole infrastructure bill, and someone asked a five-word question: “Are we using...",
+      "source_name": "CNCF",
+      "source_url": "https://www.cncf.io/blog/2026/09/09/whose-gpus-are-these-anyway-secure-self-service-metrics-for-multi-tenant-kubernetes/",
+      "published_at": "2026-09-09T11:27:00Z",
+      "category": "open_source_foundations",
+      "tags": [
+        "Kubernetes",
+        "GPUs",
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.87,
+      "importance_score": 0.7767,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.cncf.io/?p=174478"
+    },
+    {
+      "title": "iPhone Duo",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.apple.com/iphone-duo/",
+      "published_at": "2026-09-09T18:15:43Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7751,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49630931"
+    },
+    {
+      "title": "GPT-6 Astra: The next generation in intelligence for work",
+      "summary": "Meet GPT-6 Astra, OpenAI’s most capable model for business, with advanced reasoning, computer use, and stronger writing and design judgment.",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/gpt-6-astra-next-generation-work",
+      "published_at": "2026-09-09T11:00:00Z",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI",
+        "AI Models",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.97,
+      "importance_score": 0.7748,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/index/gpt-6-astra-next-generation-work"
+    },
+    {
+      "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
+      "summary": "",
+      "source_name": "Hugging Face",
+      "source_url": "https://huggingface.co/blog/gradio-workflow-1111",
+      "published_at": "2026-09-10T00:00:00Z",
+      "category": "ai_model_companies",
+      "tags": [
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.9,
+      "importance_score": 0.769,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://huggingface.co/blog/gradio-workflow-1111"
+    },
+    {
+      "title": "Co-Create: Building GitLab with our users",
+      "summary": "GitLab users bring firsthand experience of the workflows they want to improve. Through our Co-Create program, they collaborate directly with us to design, build, and deliver product improvements that benefit more teams. In the first half of 2026, our users helped us extend APIs, add CI/CD capabilities , expand language support for AI-powered code understanding, strengthen security controls, increase the flexibility of integrations, and make GitLab easier to use and…",
+      "source_name": "GitLab Blog",
+      "source_url": "https://about.gitlab.com/blog/co-create-h1-2026/",
+      "published_at": "2026-09-10T00:00:00Z",
+      "category": "developer_platforms",
+      "tags": [
+        "AI",
+        "Security",
+        "APIs",
+        "Developer Platforms"
+      ],
+      "confidence_score": 0.86,
+      "importance_score": 0.769,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://about.gitlab.com/blog/co-create-h1-2026/"
+    },
+    {
+      "title": "Kubernetes v1.37: Introducing Node Lifecycle Conditions",
+      "summary": "Kubernetes has many ways to describe what is happening on a Node. Readiness, taints, Pod state, labels, annotations, and provider-specific APIs each expose part of the picture. What has been missing is a shared, Kubernetes-owned way to say that a Node is draining , undergoing maintenance, or undergoing Graceful Node Shutdown . Kubernetes v1.37 introduces five well-known Node conditions that provide that description: DrainInProgress Drained MaintenancePlanned…",
+      "source_name": "Kubernetes Blog",
+      "source_url": "https://kubernetes.io/blog/2026/09/09/kubernetes-v1-37-node-lifecycle-conditions/",
+      "published_at": "2026-09-09T18:30:00Z",
+      "category": "open_source_foundations",
+      "tags": [
+        "AI",
+        "Kubernetes",
+        "APIs",
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.92,
+      "importance_score": 0.7661,
+      "source_type": "release_notes",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://kubernetes.io/blog/2026/09/09/kubernetes-v1-37-node-lifecycle-conditions/"
+    },
+    {
+      "title": "How cloud native goes AI native",
+      "summary": "“A sales guy writing code” used to be the lead-up to a joke. But now no one’s laughing. Designers used to sit meekly waiting for the high priests of code to make their designs real. Now...",
+      "source_name": "CNCF",
+      "source_url": "https://www.cncf.io/blog/2026/09/09/how-cloud-native-goes-ai-native/",
+      "published_at": "2026-09-09T08:13:23Z",
+      "category": "open_source_foundations",
+      "tags": [
+        "AI",
+        "Cloud",
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.87,
+      "importance_score": 0.7632,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.cncf.io/?p=174533"
+    },
+    {
+      "title": "Hitachi launches CO2 heat pump water heaters with solar-friendly tariff controls",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.pv-magazine.com/2026/09/07/hitachi-launches-co2-heat-pump-water-heaters-with-solar-friendly-tariff-controls/",
+      "published_at": "2026-09-09T14:54:12Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.655,
+      "importance_score": 0.7611,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49627634"
+    },
+    {
+      "title": "Introducing Amazon EBS Volume Clones across AWS accounts",
+      "summary": "AWS introduces Amazon EBS Volume Clones with cross-account copy, so you can create copies of your EBS volumes into other AWS accounts and optionally re-encrypt them with an AWS Key Management Service (AWS KMS) key in the target account.",
+      "source_name": "AWS News Blog",
+      "source_url": "https://aws.amazon.com/blogs/aws/introducing-amazon-ebs-volume-clones-across-aws-accounts/",
+      "published_at": "2026-09-09T22:01:47Z",
+      "category": "cloud_providers",
+      "tags": [
+        "AWS",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.7608,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "a7eafcc0229cd1fa7f057426d064a4eca2d0738b"
+    },
+    {
+      "title": "Gas prices are climbing again. See the states where it is the most and least expensive.",
+      "summary": "Gas prices have surged past $4 a gallon as the Iran conflict pushes oil higher, raising fresh concerns about inflation.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/americans-paying-4-gallon-gas-2026-3",
+      "published_at": "2026-09-10T16:57:50Z",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7597,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/americans-paying-4-gallon-gas-2026-3"
+    },
+    {
+      "title": "SpaceX sues to block release of tax-break records for its Texas Terafab project",
+      "summary": "Americans cite a lack of transparency as one of their biggest concerns around large AI infrastructure projects.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/spacex-terafab-tax-break-records-ai-transparency-texas-2026-9",
+      "published_at": "2026-09-10T16:35:16Z",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7581,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/spacex-terafab-tax-break-records-ai-transparency-texas-2026-9"
+    },
+    {
+      "title": "Which iPhone 18 Model Should You Buy?",
+      "summary": "Apple's new folding iPhone Duo is finally here, alongside refreshed Pro models. Our primer has all the details you need to choose the iPhone 18 that's right for you.",
+      "source_name": "Wired",
+      "source_url": "https://www.wired.com/story/which-apple-iphone-18-models-to-buy/",
+      "published_at": "2026-09-10T16:30:00Z",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "AI Models",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7577,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "6aa28246c73c665c6f5752b3"
+    }
+  ]
+}
