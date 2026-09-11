@@ -1,0 +1,826 @@
+{
+  "generated_at": "2026-09-11T17:03:47.320508+00:00",
+  "post_date": "2026-09-11",
+  "sources_checked": 48,
+  "candidates": 45,
+  "items": [
+    {
+      "title": "Salesforce Expands Agentforce With a New Portfolio of AI Agents Built for High-Value Work",
+      "summary": "New job-ready agents help companies get to business outcomes faster across sales, service, commerce, and the workforce — driving revenue, reducing costs, and improving customer experiences Advances across Agentforce enable these agents to take on more complex work — pursuing goals over days and weeks, learning new skills, working together, and continuously improving SAN FRANCISCO, […]",
+      "source_name": "Salesforce News",
+      "source_url": "https://www.salesforce.com/news/stories/agentforce-job-ready-ai-agents/",
+      "published_at": "2026-09-11T12:00:00+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.8789,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.salesforce.com/?p=95263"
+    },
+    {
+      "title": "Building a reliable cloud native foundation for distributed AI training",
+      "summary": "AI workloads are changing what platform teams need from infrastructure. Provisioning GPUs and standing up a cluster no longer makes a platform “AI-ready.” Once training spans more than one node, the bottlenecks show up in places...",
+      "source_name": "CNCF",
+      "source_url": "https://www.cncf.io/blog/2026/09/11/building-a-reliable-cloud-native-foundation-for-distributed-ai-training/",
+      "published_at": "2026-09-11T11:00:00+00:00",
+      "category": "open_source_foundations",
+      "tags": [
+        "AI",
+        "Cloud",
+        "GPUs",
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8747,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.cncf.io/?p=174536"
+    },
+    {
+      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
+      "summary": "Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second.",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
+      "published_at": "2026-09-11T10:00:00+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI",
+        "Python",
+        "APIs",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.99,
+      "importance_score": 0.8706,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/index/scaling-storage-one-billion-users-part-one"
+    },
+    {
+      "title": "Houthis 'take control' of key island in global shipping route",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.bbc.com/news/live/cmd683p01eljt",
+      "published_at": "2026-09-11T13:41:38+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.6855,
+      "importance_score": 0.856,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49658299"
+    },
+    {
+      "title": "Claude is only available to people over 18 years",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
+      "published_at": "2026-09-11T10:48:00+00:00",
+      "category": "aggregators",
+      "tags": [
+        "AI",
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.8439,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49656225"
+    },
+    {
+      "title": "Everything from Dreamforce 2026: Claudeforce, Customer Success, and Agents at Scale",
+      "summary": "",
+      "source_name": "Salesforce News",
+      "source_url": "https://www.salesforce.com/news/linked-content/everything-from-dreamforce-2026-claudeforce-customer-success-and-agents-at-scale/",
+      "published_at": "2026-09-10T19:00:42+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI Agents",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.8081,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.salesforce.com/?post_type=sf_linked_content&p=95251"
+    },
+    {
+      "title": "Cherenkov Radiation - traveling faster than light",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "http://www.iaea.org/newscenter/news/what-is-cherenkov-radiation",
+      "published_at": "2026-09-11T08:42:04+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.638,
+      "importance_score": 0.8052,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49655286"
+    },
+    {
+      "title": "Mexican student creates an acoustic fire extinguisher to put out fire in seconds",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.upsocl.com/en/16-year-old-mexican-student-creates-an-acoustic-fire-extinguisher-that-uses-sound-waves-to-put-out-fires-in-seconds/",
+      "published_at": "2026-09-11T01:00:56+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.8031,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49652237"
+    },
+    {
+      "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
+      "summary": "César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections.",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
+      "published_at": "2026-09-10T16:00:00+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "Research",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.97,
+      "importance_score": 0.7956,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials"
+    },
+    {
+      "title": "3 ways to prep for your next big race with Search",
+      "summary": "Illustration on a blue background of technicolor runners with a magnifying glass and Gemini spark overlaid",
+      "source_name": "Google AI (The Keyword)",
+      "source_url": "https://blog.google/products-and-platforms/products/search/running-race-training-tips/",
+      "published_at": "2026-09-10T16:00:00+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI",
+        "Apache Spark",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.92,
+      "importance_score": 0.7956,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://blog.google/products-and-platforms/products/search/running-race-training-tips/"
+    },
+    {
+      "title": "Salesforce’s Agentforce 360 Powers the Future of Chess with FIDE",
+      "summary": "Salesforce becomes the Title Sponsor and Technological partner of FIDE. Partnership brings the Agentforce 360 portfolio, including Slack, to the world’s largest chess events and forums, powering real-time player rankings and AI-driven fan experiences for over 800 million global fans. SAN FRANCISCO and LAUSANNE, September 10, 2026 — Salesforce (NYSE: CRM), the #1 AI CRM, […]",
+      "source_name": "Salesforce News",
+      "source_url": "https://www.salesforce.com/news/press-releases/2026/09/10/agentforce-360-powers-future-of-chess-with-fide/",
+      "published_at": "2026-09-10T16:00:00+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7956,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.salesforce.com/news/press-releases/2026/09/10/agentforce-360-powers-future-of-chess-with-fide/"
+    },
+    {
+      "title": "Now everyone can put data to work",
+      "summary": "Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language.",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/put-data-to-work",
+      "published_at": "2026-09-10T15:00:00+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.97,
+      "importance_score": 0.7914,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/index/put-data-to-work"
+    },
+    {
+      "title": "Salesforce Introduces the Trusted Enterprise AI Harness",
+      "summary": "A new architecture that gives AI a shared understanding of the customer and the business — and enables it to act with trust Six trusted capabilities and a new AI Control Plane, built for an open and composable AI ecosystem The Agentic Enterprise is changing how work gets done — and the role every […]",
+      "source_name": "Salesforce News",
+      "source_url": "https://www.salesforce.com/news/stories/enterprise-ai-harness/",
+      "published_at": "2026-09-10T13:00:00+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7831,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.salesforce.com/?p=95187"
+    },
+    {
+      "title": "Salesforce Completes Acquisition of Fin",
+      "summary": "Fin’s customer agent platform joins Salesforce, giving companies faster, more flexible ways to automate customer service and deliver measurable outcomes SAN FRANCISCO, CA — September 10, 2026 — Salesforce (NYSE: CRM), the world’s #1 AI CRM, today announced it has completed its acquisition of Fin, formerly Intercom, an industry-leading customer agent company. The close of […]",
+      "source_name": "Salesforce News",
+      "source_url": "https://www.salesforce.com/news/press-releases/2026/09/10/salesforce-completes-acquisition-of-fin/",
+      "published_at": "2026-09-10T13:00:00+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7831,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.salesforce.com/news/press-releases/2026/09/10/salesforce-completes-acquisition-of-fin/"
+    },
+    {
+      "title": "OpenAI Agents API",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://developers.openai.com/api/docs/guides/agents-api/overview",
+      "published_at": "2026-09-10T19:43:22+00:00",
+      "category": "aggregators",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "APIs",
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7811,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49649213"
+    },
+    {
+      "title": "Kubernetes disaster recovery: Guidance from three reproducible failure scenarios",
+      "summary": "Scope This document describes three failure scenarios that separate having backups from being able to recover, and the guidance that follows from each. Every scenario is reproducible on a laptop from the lab repository above, and...",
+      "source_name": "CNCF",
+      "source_url": "https://www.cncf.io/blog/2026/09/10/kubernetes-disaster-recovery-guidance-from-three-reproducible-failure-scenarios/",
+      "published_at": "2026-09-10T11:37:00+00:00",
+      "category": "open_source_foundations",
+      "tags": [
+        "AI",
+        "Kubernetes",
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.87,
+      "importance_score": 0.7773,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.cncf.io/?p=174488"
+    },
+    {
+      "title": "How to calculate DevOps platform total cost of ownership",
+      "summary": "There’s nothing like budget pressure to put your DevOps platform under a microscope. But subscription fees and license costs only tell one part of the story. The total cost of ownership (TCO) for a DevOps platform also includes variable costs like CI/CD compute and AI usage, along with the infrastructure, tools, and employee time required to keep software delivery moving. That wider view matters when you’re tasked with defending platform spend or comparing options with a…",
+      "source_name": "GitLab Blog",
+      "source_url": "https://about.gitlab.com/blog/how-to-calculate-devops-platform-total-cost-of-ownership/",
+      "published_at": "2026-09-11T00:00:00+00:00",
+      "category": "developer_platforms",
+      "tags": [
+        "AI",
+        "Developer Platforms"
+      ],
+      "confidence_score": 0.86,
+      "importance_score": 0.7689,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://about.gitlab.com/blog/how-to-calculate-devops-platform-total-cost-of-ownership/"
+    },
+    {
+      "title": "GitLab Critical Patch Release: 19.3.2, 19.2.6, 19.1.8",
+      "summary": "",
+      "source_name": "GitLab Blog",
+      "source_url": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-3-2-released/",
+      "published_at": "2026-09-11T00:00:00+00:00",
+      "category": "developer_platforms",
+      "tags": [
+        "Developer Platforms"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7689,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-3-2-released/"
+    },
+    {
+      "title": "HuggingFace: Security.txt",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://huggingface.co/security.txt",
+      "published_at": "2026-09-11T14:38:13+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Security",
+        "Hacker News"
+      ],
+      "confidence_score": 0.6135,
+      "importance_score": 0.7687,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49659245"
+    },
+    {
+      "title": "Kubernetes v1.37: Scheduler Preemption for In-Place Pod Resize (Alpha)",
+      "summary": "In Kubernetes, resource allocation has historically been a static decision made during a Pod's initial scheduling and placement. With the graduation of the core in-Place Pod resize feature to General Availability in v1.35, application developers and cluster operators gained the powerful ability to dynamically adjust CPU and memory allocations of running containers without incurring disruptive restarts or application downtime. However, in-place resizing introduced a unique…",
+      "source_name": "Kubernetes Blog",
+      "source_url": "https://kubernetes.io/blog/2026/09/10/kubernetes-v1-37-scheduler-preemption-for-in-place-pod-resize-alpha/",
+      "published_at": "2026-09-10T18:30:00+00:00",
+      "category": "open_source_foundations",
+      "tags": [
+        "AI",
+        "Kubernetes",
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.92,
+      "importance_score": 0.766,
+      "source_type": "release_notes",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://kubernetes.io/blog/2026/09/10/kubernetes-v1-37-scheduler-preemption-for-in-place-pod-resize-alpha/"
+    },
+    {
+      "title": "Technique for Manipulating Satellite Photos Now Reveals Ancient Images (2025)",
+      "summary": "https://dstretch.com/DecorrelationStretch.pdf https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-...",
+      "source_name": "Hacker News",
+      "source_url": "https://spinoff.nasa.gov/Manipulating_Satellite_Photos_Now_Reveals_Ancient_Images",
+      "published_at": "2026-09-10T15:29:30+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7635,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49645437"
+    },
+    {
+      "title": "Don't let anyone take away your big box of cables",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://blog.jim-nielsen.com/2026/hands-off-my-cables/",
+      "published_at": "2026-09-10T15:27:22+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7633,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49645393"
+    },
+    {
+      "title": "Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO",
+      "summary": "The No. 2 exec at OpenAI also led Instacart through its IPO in 2023.",
+      "source_name": "TechCrunch - AI",
+      "source_url": "https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/",
+      "published_at": "2026-09-11T16:46:25+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7588,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://techcrunch.com/?p=3163102"
+    },
+    {
+      "title": "GitHub Copilot app for Beginners: Using the diff, terminal, and browser",
+      "summary": "Checking agent-generated code usually means hopping between tabs. Learn how to view diffs, run terminal commands, and preview web apps side by side in the GitHub Copilot app. The post GitHub Copilot app for Beginners: Using the diff, terminal, and browser appeared first on The GitHub Blog .",
+      "source_name": "The GitHub Blog",
+      "source_url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-using-the-diff-terminal-and-browser/",
+      "published_at": "2026-09-10T21:31:19+00:00",
+      "category": "developer_platforms",
+      "tags": [
+        "AI Agents",
+        "Developer Tools",
+        "Developer Platforms"
+      ],
+      "confidence_score": 0.92,
+      "importance_score": 0.7586,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://github.blog/?p=98771"
+    },
+    {
+      "title": "Brooks Brothers was steps from the World Trade Center on 9/11. Its creative director still can't look at the pictures.",
+      "summary": "Like many people, Brooks Brothers creative director Michael Bastian remembers exactly where he was on the morning of September 11, 2001.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/brooks-brothers-9-11-store-ground-zero-2026-9",
+      "published_at": "2026-09-11T16:38:12+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7582,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/brooks-brothers-9-11-store-ground-zero-2026-9"
+    },
+    {
+      "title": "Introducing ChatGPT for Financial Services",
+      "summary": "Introducing ChatGPT for Financial Services, combining built-in financial data and GPT-6 Astra for research, modeling, and client-ready materials.",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/introducing-chatgpt-financial-services",
+      "published_at": "2026-09-10T07:00:00+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI Models",
+        "Research",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.97,
+      "importance_score": 0.7581,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/index/introducing-chatgpt-financial-services"
+    },
+    {
+      "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
+      "summary": "OpenAI and GSA will offer eligible federal, state, local, and tribal governments $0 license fees, 50% off usage, and expanded cyber defense support.",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/expanding-ai-access-us-government",
+      "published_at": "2026-09-10T07:00:00+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.97,
+      "importance_score": 0.7581,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/index/expanding-ai-access-us-government"
+    },
+    {
+      "title": "Shopify is moving from React Native back to Swift and Kotlin",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://shopify.engineering/back-to-native",
+      "published_at": "2026-09-10T14:09:31+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7579,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49643982"
+    },
+    {
+      "title": "I took a 6-day trip to Italy after dreaming of going my whole life. 6 surprises have stayed with me for years.",
+      "summary": "I traveled by train from Venice to Rome and Milan during my first trip to Italy. Each destination surprised me with unique experiences.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/first-italy-trip-surprises-in-venice-milan-rome-2026-9",
+      "published_at": "2026-09-11T16:29:17+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7576,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/first-italy-trip-surprises-in-venice-milan-rome-2026-9"
+    },
+    {
+      "title": "Confluent cofounder says believing in AI's upside means reckoning with its 'dark side'",
+      "summary": "Confluent's cofounder, Jay Kreps, says AI's rapid progress makes its risks impossible to dismiss as a marketing ploy.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/confluent-cofounder-ai-dark-side-marketing-ploy-2026-9",
+      "published_at": "2026-09-11T16:23:35+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "APIs",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7572,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/confluent-cofounder-ai-dark-side-marketing-ploy-2026-9"
+    },
+    {
+      "title": "Petlibro Offers: 30% Off in September 2026",
+      "summary": "Save on Petlibro essentials, including automatic feeders, water fountains, and accessories to keep cats and dogs fed, hydrated, and comfortable every day.",
+      "source_name": "Wired",
+      "source_url": "https://www.wired.com/story/petlibro-discount-code/",
+      "published_at": "2026-09-11T16:19:49+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "ETL",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7569,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "696a9f4eb35feb809a8fe080"
+    },
+    {
+      "title": "Parents loved sharing photos of their kids online. Then came AI.",
+      "summary": "A viral video about Meta AI's suggested questions has parents worried. Meta said the AI suggestions were a mistake that has been fixed.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/parents-stop-posting-kid-photos-ai-fears-meta-ai-suggestions-2026-9",
+      "published_at": "2026-09-11T16:16:09+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7567,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/parents-stop-posting-kid-photos-ai-fears-meta-ai-suggestions-2026-9"
+    },
+    {
+      "title": "Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Container Management",
+      "summary": "Microsoft was named a Leader in the 2026 Gartner® Magic Quadrant™ for Container Management. Discover how AKS, Azure Arc, and Azure Container Apps help organizations run AI and hybrid workloads at scale. The post Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Container Management appeared first on Microsoft Azure Blog .",
+      "source_name": "Microsoft Azure Blog",
+      "source_url": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-container-management/",
+      "published_at": "2026-09-10T21:00:00+00:00",
+      "category": "cloud_providers",
+      "tags": [
+        "AI",
+        "Azure",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.92,
+      "importance_score": 0.7564,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://azure.microsoft.com/en-us/blog/?p=53828"
+    },
+    {
+      "title": "5 jewelry trends that are in right now and 4 that are out, according to jewelers and stylists",
+      "summary": "Jewelers and stylists said chunky pearls and statement cuffs are in this fall. However, rose-gold pieces and dainty rings are becoming less popular.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/best-and-worst-jewelry-right-now-fall-trends-jewelers-stylists-2026-9",
+      "published_at": "2026-09-11T16:07:01+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7561,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/best-and-worst-jewelry-right-now-fall-trends-jewelers-stylists-2026-9"
+    },
+    {
+      "title": "I was laid off from HP after 30 years. At 59, I moved to Antarctica for work — and the wildest adventure of my life.",
+      "summary": "I was planning on retiring from HP, but I was laid off. I took it as an opportunity to reinvent my life and become a seasonal worker in Antarctica.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/laid-off-from-hp-after-retirement-work-antarctica-2026-9",
+      "published_at": "2026-09-11T16:02:53+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7558,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/laid-off-from-hp-after-retirement-work-antarctica-2026-9"
+    },
+    {
+      "title": "7 of the best outfits and 7 that missed the mark at the 2026 Venice Film Festival",
+      "summary": "Celebrities like the Clooneys stepped out in style at the 2026 Venice Film Festival. Other stars made fashion mistakes on the red carpet.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/venice-film-festival-red-carpet-best-worst-dressed-celebrities-2026-9",
+      "published_at": "2026-09-11T16:02:29+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7557,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/venice-film-festival-red-carpet-best-worst-dressed-celebrities-2026-9"
+    },
+    {
+      "title": "How Amazon’s Zoox Is Taking On Waymo in San Francisco",
+      "summary": "The Amazon-owned driverless car company is a distant second to Waymo. Its pitch to riders? Wine pop-ups, festival sponsorships and a car built to be filmed.",
+      "source_name": "The New York Times - Technology",
+      "source_url": "https://www.nytimes.com/2026/09/09/technology/zoox-waymo-san-francisco.html",
+      "published_at": "2026-09-11T15:41:46+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7543,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.nytimes.com/2026/09/09/technology/zoox-waymo-san-francisco.html"
+    },
+    {
+      "title": "Video Friday: Humanoid Robot Takes On Monkey Bars",
+      "summary": "Your weekly selection of awesome robot videos",
+      "source_name": "IEEE Spectrum",
+      "source_url": "https://spectrum.ieee.org/video-friday-disaster-response-robots",
+      "published_at": "2026-09-11T15:30:04+00:00",
+      "category": "research_feeds",
+      "tags": [
+        "Research Feeds"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.7535,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://spectrum.ieee.org/video-friday-disaster-response-robots"
+    },
+    {
+      "title": "Anthropic says Russian and Chinese threat actors used Claude as a weapons engineering assistant for drone swarming and more",
+      "summary": "The report documents threat actors using Claude to research and develop drone swarms, anti-torpedo weapons systems, and targeting recommendations.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/anthropic-says-threat-actors-used-claude-for-weapons-2026-9",
+      "published_at": "2026-09-11T15:30:22+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Research",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7535,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/anthropic-says-threat-actors-used-claude-for-weapons-2026-9"
+    },
+    {
+      "title": "How the New iPhone Duo’s Glass Screen Bends Without Breaking",
+      "summary": "The screens of foldable phones are a triumph of materials science and microengineering.",
+      "source_name": "The New York Times - Technology",
+      "source_url": "https://www.nytimes.com/2026/09/10/science/iphone-duo-apple-foldable-glass.html",
+      "published_at": "2026-09-11T15:17:42+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7526,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.nytimes.com/2026/09/10/science/iphone-duo-apple-foldable-glass.html"
+    },
+    {
+      "title": "Introducing the Google Cloud Developer Plugin for AI Coding Agents",
+      "summary": "Agent skills fit well alongside documentation and remote MCP servers as ways of enabling the success of your AI workflows. They reduce context window usage for certain use cases, and they're straightforward to install. However, you might have noticed that managing individual skills can be unwieldy, or that some skills are most useful when they act alongside other skills or MCP servers toward the same goal. That's where plugins come in to help. Today, we're thrilled to…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/topics/developers-practitioners/introducing-the-google-cloud-developer-plugin-for-ai-coding-agents/",
+      "published_at": "2026-09-10T19:53:00+00:00",
+      "category": "cloud_providers",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Cloud",
+        "Google Cloud",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.7518,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/topics/developers-practitioners/introducing-the-google-cloud-developer-plugin-for-ai-coding-agents/"
+    },
+    {
+      "title": "One of AI’s Fiercest Critics Says All the Doom Talk Is ‘Meant to Distract Us’",
+      "summary": "Timnit Gebru argues that AI companies are stoking fears of extinction to avoid discussing actual harms, like autonomous weapons.",
+      "source_name": "Wired",
+      "source_url": "https://www.wired.com/story/one-of-ais-fiercest-critics-says-all-the-doom-talk-is-meant-to-distract-us/",
+      "published_at": "2026-09-11T15:00:00+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7514,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "6aa2ebafac09546d4c4d2127"
+    },
+    {
+      "title": "Michael Burry says the best defense against dollar doom and AI disasters might be a fine Bordeaux",
+      "summary": "Michael Burry of \"The Big Short\" fame said fine wines can protect investors against dollar weakness, fiat flight, and \"hellscapes\" caused by AI.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/big-short-michael-burry-fine-wines-dollar-ai-investing-substack-2026-9",
+      "published_at": "2026-09-11T14:51:33+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7508,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/big-short-michael-burry-fine-wines-dollar-ai-investing-substack-2026-9"
+    },
+    {
+      "title": "The rise and fall of America's drive-in restaurants",
+      "summary": "America used to have 40,000 drive-in restaurants. But today, family-owned ones have disappeared. What happened?",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/the-rise-and-fall-of-americas-drive-in-restaurants-2026-9",
+      "published_at": "2026-09-11T14:38:51+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7499,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/the-rise-and-fall-of-americas-drive-in-restaurants-2026-9"
+    },
+    {
+      "title": "I live with a disease that worsens with stress. I 'lean out' when I can, but I can't avoid it all.",
+      "summary": "My multiple sclerosis (MS) symptoms worsen with stress. I 'lean out' when and where I can, but it's impossible to avoid stress completely.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/stress-worsens-symptoms-multiple-sclerosis-unavoidable-2026-9",
+      "published_at": "2026-09-11T14:36:14+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7498,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/stress-worsens-symptoms-multiple-sclerosis-unavoidable-2026-9"
+    }
+  ]
+}
