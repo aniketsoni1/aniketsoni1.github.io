@@ -1,0 +1,840 @@
+{
+  "generated_at": "2026-09-12T16:23:06.315319+00:00",
+  "post_date": "2026-09-12",
+  "sources_checked": 48,
+  "candidates": 45,
+  "items": [
+    {
+      "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+      "summary": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+      "published_at": "2026-09-14T00:00:00+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI Models",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.99,
+      "importance_score": 0.9,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/index/perplexity-improving-accuracy-with-astra"
+    },
+    {
+      "title": "Fuck it, make it anyway",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.joelotter.com/posts/2026/09/make-it-anyway/",
+      "published_at": "2026-09-12T11:42:32+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.8505,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49671329"
+    },
+    {
+      "title": "google.com/goto: Google's anti-scraping update",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.autom.dev/blog/google-search-goto-links",
+      "published_at": "2026-09-12T03:14:20+00:00",
+      "category": "aggregators",
+      "tags": [
+        "APIs",
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.8152,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49668386"
+    },
+    {
+      "title": "Welcome to Slackforce",
+      "summary": "",
+      "source_name": "Salesforce News",
+      "source_url": "https://www.salesforce.com/news/linked-content/your-vision-your-data-now-with-a-ui-introducing-slack-surfaces/",
+      "published_at": "2026-09-11T18:00:42+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.8068,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.salesforce.com/?post_type=sf_linked_content&p=95032"
+    },
+    {
+      "title": "Retrospectively Reverse-Engineering Apple's Neural Engine",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://eiln.github.io/posts/ane.html",
+      "published_at": "2026-09-12T07:54:03+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.637,
+      "importance_score": 0.8022,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49670032"
+    },
+    {
+      "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
+      "summary": "https://simonwillison.net/2026/Sep/12/openai-agents-rubygems...",
+      "source_name": "Hacker News",
+      "source_url": "https://www.rubyhack.ai/",
+      "published_at": "2026-09-11T23:17:42+00:00",
+      "category": "aggregators",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7988,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49666735"
+    },
+    {
+      "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
+      "summary": "GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more.",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/cognition-devin-testing-with-astra",
+      "published_at": "2026-09-11T16:00:00+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.97,
+      "importance_score": 0.7984,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/index/cognition-devin-testing-with-astra"
+    },
+    {
+      "title": "Salesforce Expands Agentforce With a New Portfolio of AI Agents Built for High-Value Work",
+      "summary": "New job-ready agents help companies get to business outcomes faster across sales, service, commerce, and the workforce — driving revenue, reducing costs, and improving customer experiences Advances across Agentforce enable these agents to take on more complex work — pursuing goals over days and weeks, learning new skills, working together, and continuously improving SAN FRANCISCO, […]",
+      "source_name": "Salesforce News",
+      "source_url": "https://www.salesforce.com/news/stories/agentforce-job-ready-ai-agents/",
+      "published_at": "2026-09-11T12:00:00+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7817,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.salesforce.com/?p=95263"
+    },
+    {
+      "title": "I spent $220 on Google app ads and 60% of the installs were robots",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://dayzlegame.com/blog/google-ads-bot-farm/",
+      "published_at": "2026-09-11T18:24:55+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7785,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49662990"
+    },
+    {
+      "title": "Building a reliable cloud native foundation for distributed AI training",
+      "summary": "AI workloads are changing what platform teams need from infrastructure. Provisioning GPUs and standing up a cluster no longer makes a platform “AI-ready.” Once training spans more than one node, the bottlenecks show up in places...",
+      "source_name": "CNCF",
+      "source_url": "https://www.cncf.io/blog/2026/09/11/building-a-reliable-cloud-native-foundation-for-distributed-ai-training/",
+      "published_at": "2026-09-11T11:00:00+00:00",
+      "category": "open_source_foundations",
+      "tags": [
+        "AI",
+        "Cloud",
+        "GPUs",
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.87,
+      "importance_score": 0.7776,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.cncf.io/?p=174536"
+    },
+    {
+      "title": "A misalignment of AI in mathematics",
+      "summary": "https://terrytao.wordpress.com/2026/09/11/a-severe-misalignm... https://www.economist.com/science-and-technology/2026/09/11/... , https://unwall.app/www.economist.com/science-and-technology/...",
+      "source_name": "Hacker News",
+      "source_url": "https://mathandai.org/",
+      "published_at": "2026-09-11T17:45:12+00:00",
+      "category": "aggregators",
+      "tags": [
+        "AI",
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7757,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49662371"
+    },
+    {
+      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
+      "summary": "Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second.",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
+      "published_at": "2026-09-11T10:00:00+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI",
+        "Python",
+        "APIs",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.97,
+      "importance_score": 0.7734,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/index/scaling-storage-one-billion-users-part-one"
+    },
+    {
+      "title": "Mind-altering drugs played key role in rise of Andean civilization",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.science.org/content/article/mind-altering-drugs-played-key-role-rise-andean-civilization",
+      "published_at": "2026-09-11T17:25:23+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.649,
+      "importance_score": 0.7718,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49662020"
+    },
+    {
+      "title": "Kubernetes v1.37: Native Histograms Graduates to Beta",
+      "summary": "I'm excited to announce that native histogram support for Kubernetes metrics is graduating to Beta and is enabled by default in Kubernetes v1.37! Native histograms (previously introduced as Alpha in Kubernetes v1.36 under KEP-5808 ) bring high-resolution, low-cardinality observability to Kubernetes metrics. By adopting Prometheus Native Histograms , Kubernetes components now expose latency and duration metrics with far greater accuracy while significantly reducing telemetry…",
+      "source_name": "Kubernetes Blog",
+      "source_url": "https://kubernetes.io/blog/2026/09/11/kubernetes-v1-37-native-histograms-beta/",
+      "published_at": "2026-09-11T18:30:00+00:00",
+      "category": "open_source_foundations",
+      "tags": [
+        "Kubernetes",
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.92,
+      "importance_score": 0.7688,
+      "source_type": "release_notes",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://kubernetes.io/blog/2026/09/11/kubernetes-v1-37-native-histograms-beta/"
+    },
+    {
+      "title": "Why It’s Difficult for Tech Companies to Rein In A.I.",
+      "summary": "Researchers say artificial intelligence is developing faster than the systems put in place to monitor and control it.",
+      "source_name": "The New York Times - Technology",
+      "source_url": "https://www.nytimes.com/2026/09/12/technology/why-its-tough-for-tech-companies-to-keep-ai-out-of-trouble.html",
+      "published_at": "2026-09-12T16:18:06+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Research",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7597,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.nytimes.com/2026/09/12/technology/why-its-tough-for-tech-companies-to-keep-ai-out-of-trouble.html"
+    },
+    {
+      "title": "We spent 2 weeks in Portugal. It was great, but our trip would've been way better if we'd avoided these 6 mistakes.",
+      "summary": "From spending too long in Lisbon to making packing, planning, and transportation mistakes, here's what I wish we did differently on our Portugal trip.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/mistakes-traveling-to-portugal-2-weeks-regrets-lisbon-2026-9",
+      "published_at": "2026-09-12T16:16:01+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7595,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/mistakes-traveling-to-portugal-2-weeks-regrets-lisbon-2026-9"
+    },
+    {
+      "title": "Anthropic C.E.O. Dario Amodei Calls for A.I. Slowdown",
+      "summary": "In a 3,800-word essay, Dario Amodei laid out the rapidly advancing capabilities of artificial intelligence and said there needed to be greater safety controls across the industry.",
+      "source_name": "The New York Times - Technology",
+      "source_url": "https://www.nytimes.com/2026/09/12/technology/anthropic-dario-amodei-ai-slowdown.html",
+      "published_at": "2026-09-12T16:03:00+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "APIs",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7586,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.nytimes.com/2026/09/12/technology/anthropic-dario-amodei-ai-slowdown.html"
+    },
+    {
+      "title": "Inside the Discussions at AI Companies Over a Superintelligence Doomsday",
+      "summary": "Researchers at Anthropic, OpenAI, Meta and Google are increasingly trying to raise awareness about the risks of artificial intelligence.",
+      "source_name": "The New York Times - Technology",
+      "source_url": "https://www.nytimes.com/2026/09/12/technology/doomsday-discussions-ai-companies.html",
+      "published_at": "2026-09-12T16:03:19+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Research",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7586,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.nytimes.com/2026/09/12/technology/doomsday-discussions-ai-companies.html"
+    },
+    {
+      "title": "Anthropic CEO outlines plan to ‘pace the frontier’",
+      "summary": "What would it actually look like to \"pace the frontier\"?",
+      "source_name": "TechCrunch - AI",
+      "source_url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
+      "published_at": "2026-09-12T15:52:11+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7579,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://techcrunch.com/?p=3163373"
+    },
+    {
+      "title": "Dario Amodei says OpenAI's Hugging Face hack helped convince him AI needs to slow down",
+      "summary": "Anthropic CEO Dario Amodei said in a new essay on Saturday that he's 'become convinced' in recent months that AI development needs to slow down.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/dario-amodei-slow-ai-safety-essay-openai-hugging-face-hack-2026-9",
+      "published_at": "2026-09-12T15:29:53+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7563,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/dario-amodei-slow-ai-safety-essay-openai-hugging-face-hack-2026-9"
+    },
+    {
+      "title": "My 3-year-old has been to more than a dozen big concerts. We don't worry about late bedtimes.",
+      "summary": "Having a kid didn't make my partner and I give up late-night concerts. She comes with us and we don't worry about her missing bedtime.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/young-child-big-concerts-misses-bedtime-no-regrets-2026-9",
+      "published_at": "2026-09-12T15:27:01+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7561,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/young-child-big-concerts-misses-bedtime-no-regrets-2026-9"
+    },
+    {
+      "title": "I secretly emailed my son for 15 years. On his 18th birthday, I finally gave him the password.",
+      "summary": "I emailed my son memories of his childhood for 15 years. When he turned 18, I finally gave him the password.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/gmail-account-son-childhood-memories-digital-time-capsule-2026-9",
+      "published_at": "2026-09-12T13:47:01+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "ETL",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7492,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/gmail-account-son-childhood-memories-digital-time-capsule-2026-9"
+    },
+    {
+      "title": "Marketing ops as code: Automating events from planning to follow-up on GitHub",
+      "summary": "If you can write down how you do your work, you can automate it. Here's what I did to support GitHub's APAC marketing team. The post Marketing ops as code: Automating events from planning to follow-up on GitHub appeared first on The GitHub Blog .",
+      "source_name": "The GitHub Blog",
+      "source_url": "https://github.blog/ai-and-ml/github-copilot/marketing-ops-as-code-automating-events-from-planning-to-follow-up-on-github/",
+      "published_at": "2026-09-11T18:26:10+00:00",
+      "category": "developer_platforms",
+      "tags": [
+        "Developer Tools",
+        "Developer Platforms"
+      ],
+      "confidence_score": 0.92,
+      "importance_score": 0.7486,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://github.blog/?p=98799"
+    },
+    {
+      "title": "Probabilistic Focal Search: Accelerating Bounded-Suboptimal Search via Lower-Bound Advancement",
+      "summary": "arXiv:2609.10584v1 Announce Type: new Abstract: Bounded-suboptimal search seeks a solution within a factor $w$ of optimal while reducing search effort. Focal Search (FS) uses heuristic guidance within FOCAL, the frontier nodes eligible under the threshold $w f_{\\min}$, but its deterministic policy may leave $f_{\\min}$ unchanged for many expansions. We introduce Probabilistic Focal Search (PFS), which follows the FS guided choice with probability $p$ and expands a minimum-$f$…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2609.10584",
+      "published_at": "2026-09-12T04:00:00+00:00",
+      "category": "research_feeds",
+      "tags": [
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7484,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2609.10584v1"
+    },
+    {
+      "title": "Automating Quadratic Unconstrained Binary Optimization (QUBO) Formulation Generation from Natural Language",
+      "summary": "arXiv:2609.10629v1 Announce Type: new Abstract: Quadratic Unconstrained Binary Optimization (QUBO) is a central formulation for combinatorial optimization and has gained increasing attention due to its compatibility with quantum, hybrid quantum-classical, and quantum-inspired solvers. However, translating natural-language problem descriptions into correct QUBO formulations remains difficult, requiring the identification of binary variables, constraints, objective functions…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2609.10629",
+      "published_at": "2026-09-12T04:00:00+00:00",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7484,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2609.10629v1"
+    },
+    {
+      "title": "A Multi-Stage Rule-Chaining Framework for Compositional and Interpretable Cognitive Reasoning",
+      "summary": "arXiv:2609.10654v1 Announce Type: new Abstract: The Abstraction and Reasoning Corpus (ARC) benchmarks cognitive generalization, the ability to infer and apply abstract rules from limited examples. This paper presents a multi-stage rule-chaining framework that performs compositional reasoning across symbolic, structural, and conceptual levels. The framework integrates three complementary solvers: (1) a deterministic rule discovery module that induces atomic transformations…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2609.10654",
+      "published_at": "2026-09-12T04:00:00+00:00",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7484,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2609.10654v1"
+    },
+    {
+      "title": "Understanding LoRA Rank Trade-offs in Diffusion Model Fine-Tuning",
+      "summary": "arXiv:2609.10656v1 Announce Type: new Abstract: Selecting LoRA rank for diffusion fine-tuning requires balancing quality and compute cost. We present a controlled study on CIFAR-10 using a DDPM U-Net with ranks {2,4,8,16,32}, fixed optimization settings, and a reproducible local-folder pytorch-fid protocol. We report FID, trainable parameters, runtime, and GPU memory, then validate trends with extended-budget DDPM runs (20 epochs; ranks 4/8/16) and a Tiny DiT backbone (10…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2609.10656",
+      "published_at": "2026-09-12T04:00:00+00:00",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "GPUs",
+        "AI Models",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7484,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2609.10656v1"
+    },
+    {
+      "title": "Quantifying the Memorization-to-Generalization Transition: Scaling Laws and Phase Structure in Grokking",
+      "summary": "arXiv:2609.10657v1 Announce Type: new Abstract: Neural networks trained past memorization frequently undergo a delayed transition to generalization, a phenomenon known as grokking. Despite theoretical progress on \\emph{why} this transition occurs, the quantitative structure of \\emph{when} it occurs in hyperparameter space remains uncharacterized. We map the memorization-to-generalization boundary across 384 configurations of two-hidden-layer MLPs on modular arithmetic…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2609.10657",
+      "published_at": "2026-09-12T04:00:00+00:00",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "AWS",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7484,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2609.10657v1"
+    },
+    {
+      "title": "An Open Recipe for IMO Gold: Training Nemotron for Olympiad Mathematics",
+      "summary": "arXiv:2609.10712v1 Announce Type: new Abstract: We study how model post-training and test-time inference design affect natural-language proof generation for hard olympiad mathematics. Starting from Nemotron 3 Ultra, we train two specialist checkpoints using supervised fine-tuning and reinforcement learning, and evaluate checkpoint choice, verification, and refinement. Based on these findings, we present an open-model test-time-compute pipeline. The system operates entirely…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2609.10712",
+      "published_at": "2026-09-12T04:00:00+00:00",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "Data Pipelines",
+        "AI Models",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7484,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2609.10712v1"
+    },
+    {
+      "title": "Finishing the Task Is Not Enough: Evaluating Agent Resilience and Considerate Participation under Accumulating Challenge",
+      "summary": "arXiv:2609.10724v1 Announce Type: new Abstract: Sustained deployment of generative AI agents requires more than isolated task success. Agents must remain useful across repeated interactions, changing conditions, and dependencies on people within shared workflows, especially as technical, human, and operational disruptions accumulate over time. We propose operational resilience and considerate participation as two complementary aspects of evaluating such agents: the former…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2609.10724",
+      "published_at": "2026-09-12T04:00:00+00:00",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "GenAI",
+        "AI Agents",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7484,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2609.10724v1"
+    },
+    {
+      "title": "Towards a Deterministic Math Solver for Clinical Language Models",
+      "summary": "arXiv:2609.10728v1 Announce Type: new Abstract: Large language models are unreliable at arithmetic, which is a problem for clinical calculators where a single numerical error changes the recommendation. The standard response is to hardcode each calculator as a validated function, one at a time. We test an alternative: the model does not calculate. Instead, it writes case-specific Python that a restricted local executor runs as a deterministic solver, and the model's task…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2609.10728",
+      "published_at": "2026-09-12T04:00:00+00:00",
+      "category": "research_feeds",
+      "tags": [
+        "LLMs",
+        "Python",
+        "AI Models",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7484,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2609.10728v1"
+    },
+    {
+      "title": "Studying Without a Syllabus: Task-Agnostic Environment Preprocessing",
+      "summary": "arXiv:2609.10824v1 Announce Type: new Abstract: Before an LLM agent tackles tasks in a new environment, it can inspect available corpora and tools and construct reusable resources such as indices, scripts, or procedural guidance. Most automated adaptation methods, however, rely on task examples, trajectories, or evaluation feedback to decide what to build. Existing task-agnostic approaches avoid this supervision but commit in advance to a preparation strategy for a…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2609.10824",
+      "published_at": "2026-09-12T04:00:00+00:00",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "LLMs",
+        "AI Agents",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7484,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2609.10824v1"
+    },
+    {
+      "title": "When Validation Stops Learning: Auditing Update Admission for Continual Embodied Agents",
+      "summary": "arXiv:2609.10873v1 Announce Type: new Abstract: Independent evaluation can reject harmful policy updates yet also prevent useful continual learning. We argue that update admission must be assessed through both error control and retained learning opportunities at a stated interaction budget. We identify a concrete failure: a range-based confidence gate cannot certify unchanged old-task behavior within otherwise substantial budgets. A standard paired-binomial construction…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2609.10873",
+      "published_at": "2026-09-12T04:00:00+00:00",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7484,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2609.10873v1"
+    },
+    {
+      "title": "Decoupling Readiness from Release for Tail-Aware Scheduling of Agentic LLM Workflows",
+      "summary": "arXiv:2609.10964v1 Announce Type: new Abstract: Agentic LLM workflows consist of sequences of model turns interleaved with tool interactions, so their end-to-end completion time depends not only on inference speed but also on when ready turns are released. Most runtimes release each turn immediately upon readiness. Under contention, this eager release policy can accumulate released but unfinished work; once submitted, those turns can no longer be reordered by the…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2609.10964",
+      "published_at": "2026-09-12T04:00:00+00:00",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "LLMs",
+        "AI Agents",
+        "AI Models",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7484,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2609.10964v1"
+    },
+    {
+      "title": "Demystifying the Privacy-Utility Trade-off in LLM Interactions",
+      "summary": "arXiv:2609.10992v1 Announce Type: new Abstract: The integration of Large Language Models into daily tasks relies on context-rich instructions, inevitably exposing sensitive user information. Current privacy-preserving methods typically employ context-agnostic static rules, causing severe utility degradation. However, the specific mechanisms governing how sanitization impacts downstream performance remain largely underexplored. To address this, we conduct a systematic…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2609.10992",
+      "published_at": "2026-09-12T04:00:00+00:00",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "LLMs",
+        "AI Models",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7484,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2609.10992v1"
+    },
+    {
+      "title": "Nvidia's Groq acquihire is on the DOJ's radar, but it's already too late",
+      "summary": "Even if regulators did somehow unwind the $20B deal, there's a growing list of alternatives ready to take Groq's place, no merger required",
+      "source_name": "The Register",
+      "source_url": "https://www.theregister.com/systems/2026/09/12/nvidias-groq-acquihire-is-on-the-dojs-radar-but-its-already-too-late/5295986",
+      "published_at": "2026-09-12T13:26:00+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "GPUs",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7477,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.theregister.com/a/5295986"
+    },
+    {
+      "title": "U.S. Tech Firms Change Strategies to Hire International Talent",
+      "summary": "Shifting rules around H-1B visas have companies building and hiring elsewhere",
+      "source_name": "IEEE Spectrum",
+      "source_url": "https://spectrum.ieee.org/h-1b-visa-us-government",
+      "published_at": "2026-09-12T13:00:02+00:00",
+      "category": "research_feeds",
+      "tags": [
+        "Research Feeds"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.7459,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://spectrum.ieee.org/h-1b-visa-us-government"
+    },
+    {
+      "title": "I went from earning $173,000 a year to making $6 one month. I don't regret quitting.",
+      "summary": "Heigi Jeong quit a $173,000 tech job with good work-life balance to write a book and create content. She's giving self-employment one year.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/quit-six-figure-tech-job-self-employment-career-break-2026-9",
+      "published_at": "2026-09-12T12:32:01+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.744,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/quit-six-figure-tech-job-self-employment-career-break-2026-9"
+    },
+    {
+      "title": "My family of 4 visits the same vacation spot multiple times a year. I hope my kids look back on it fondly.",
+      "summary": "As a family, we visit the same vacation spot multiple times a year. I hope my two kids look back on our trips to the Catskills fondly.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/family-visits-same-vacation-spot-multiple-times-year-2026-9",
+      "published_at": "2026-09-12T12:19:01+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7431,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/family-visits-same-vacation-spot-multiple-times-year-2026-9"
+    },
+    {
+      "title": "I let my 15-year-old fly home alone from Europe. It didn't go smoothly, but I'm still glad she earned the independence.",
+      "summary": "I booked an extended family trip to Spain, but my teenage daughter complained it was too long. I reluctantly agreed to let her fly home alone.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/mom-let-teenage-daughter-fly-home-alone-europe-2026-9",
+      "published_at": "2026-09-12T11:47:01+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7408,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/mom-let-teenage-daughter-fly-home-alone-europe-2026-9"
+    },
+    {
+      "title": "Moving from New York to Kentucky gave me an affordable life I love — and retiring at 55 is now on the table",
+      "summary": "Born and raised on Long Island, Nick Lyktey thought he'd end up back on the East Coast. After taking a job in Kentucky, he decided to stay a while.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/a-longtime-east-coaster-enjoys-the-affordability-in-kentucky-2026-9",
+      "published_at": "2026-09-12T11:40:01+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7403,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/a-longtime-east-coaster-enjoys-the-affordability-in-kentucky-2026-9"
+    },
+    {
+      "title": "Dell's 52-inch enormo-monitor is a tsunami of impractical fun",
+      "summary": "You probably don't need it, but as an example of the possible it impresses",
+      "source_name": "The Register",
+      "source_url": "https://www.theregister.com/personal-tech/2026/09/12/dells-52-inch-enormo-monitor-is-a-tsunami-of-impractical-fun/5290753",
+      "published_at": "2026-09-12T11:20:00+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.739,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.theregister.com/a/5290753"
+    },
+    {
+      "title": "10 Best Standing Desks Worth Buying in 2026",
+      "summary": "Take your home office to new heights with our favorite motorized standing desks.",
+      "source_name": "Wired",
+      "source_url": "https://www.wired.com/gallery/best-standing-desks/",
+      "published_at": "2026-09-12T11:08:00+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7381,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "67191fbf6528f427186f6982"
+    },
+    {
+      "title": "My husband and I have a weekly marriage check-in. We use the same questions each time.",
+      "summary": "The best habit we've adopted in our marriage is our weekly check-in. The questions we ask help us show gratitude and catch problems early.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/weekly-marriage-check-in-questions-relationship-habit-2026-9",
+      "published_at": "2026-09-12T11:07:01+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7381,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/weekly-marriage-check-in-questions-relationship-habit-2026-9"
+    },
+    {
+      "title": "The Anti-Woke Right Can’t Figure Out How to Stop ‘Grand Theft Auto VI’",
+      "summary": "A subset of male gamers have spent years warning that the transgressive series has been neutered by progressive developers, but the backlash isn’t taking hold.",
+      "source_name": "Wired",
+      "source_url": "https://www.wired.com/story/the-anti-woke-right-cant-figure-out-how-to-stop-grand-theft-auto-vi/",
+      "published_at": "2026-09-12T11:00:00+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7376,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "6aa2daa562e2993fc6686641"
+    }
+  ]
+}
