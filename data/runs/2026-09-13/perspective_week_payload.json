@@ -1,0 +1,135 @@
+{
+  "post_date": "2026-09-13",
+  "week_start": "2026-09-07",
+  "week_label": "September 7–13, 2026",
+  "theme": "AI",
+  "related_themes": [
+    "Ai Model Companies",
+    "Open Source Foundations",
+    "Cloud",
+    "AI Agents",
+    "Cloud Providers"
+  ],
+  "tag_counts": [
+    {
+      "tag": "AI",
+      "count": 35
+    },
+    {
+      "tag": "Ai Model Companies",
+      "count": 19
+    },
+    {
+      "tag": "Open Source Foundations",
+      "count": 10
+    },
+    {
+      "tag": "Cloud",
+      "count": 9
+    },
+    {
+      "tag": "AI Agents",
+      "count": 7
+    },
+    {
+      "tag": "Cloud Providers",
+      "count": 6
+    }
+  ],
+  "stories_reviewed": 77,
+  "runs_used": [
+    "2026-09-07",
+    "2026-09-08",
+    "2026-09-09",
+    "2026-09-10",
+    "2026-09-11",
+    "2026-09-12",
+    "2026-09-13"
+  ],
+  "sources_count": 14,
+  "citations": [
+    {
+      "date": "2026-09-10",
+      "title": "3 ways to prep for your next big race with Search",
+      "url": "https://blog.google/products-and-platforms/products/search/running-race-training-tips/",
+      "source_name": "Google AI (The Keyword)",
+      "tags": [
+        "AI",
+        "Apache Spark",
+        "Ai Model Companies"
+      ],
+      "summary": "Illustration on a blue background of technicolor runners with a magnifying glass and Gemini spark overlaid",
+      "why": "Signals how frontier-model capabilities and access may shift for AI engineers and product teams.",
+      "score": 0.8957
+    },
+    {
+      "date": "2026-09-09",
+      "title": "Get ready for the game with new football features in Search",
+      "url": "https://blog.google/products-and-platforms/products/search/football-features-google-search/",
+      "source_name": "Google AI (The Keyword)",
+      "tags": [
+        "AI",
+        "Ai Model Companies"
+      ],
+      "summary": "An illustrated graphic set against a vibrant green background featuring American football elements, including a gold trophy, a blue helmet, a silver whistle, a football, a mini scoreboard, and play diagrams, with the icon for AI Mode in Google Search in t",
+      "why": "Signals how frontier-model capabilities and access may shift for AI engineers and product teams.",
+      "score": 0.895
+    },
+    {
+      "date": "2026-09-10",
+      "title": "Now everyone can put data to work",
+      "url": "https://openai.com/index/put-data-to-work",
+      "source_name": "OpenAI",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Ai Model Companies"
+      ],
+      "summary": "Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language.",
+      "why": "Signals how frontier-model capabilities and access may shift for AI engineers and product teams.",
+      "score": 0.8915
+    },
+    {
+      "date": "2026-09-08",
+      "title": "The Work Now Within Reach",
+      "url": "https://openai.com/index/the-work-now-within-reach",
+      "source_name": "OpenAI",
+      "tags": [
+        "AI",
+        "Ai Model Companies"
+      ],
+      "summary": "Explore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical.",
+      "why": "Signals how frontier-model capabilities and access may shift for AI engineers and product teams.",
+      "score": 0.8821
+    },
+    {
+      "date": "2026-09-10",
+      "title": "Kubernetes disaster recovery: Guidance from three reproducible failure scenarios",
+      "url": "https://www.cncf.io/blog/2026/09/10/kubernetes-disaster-recovery-guidance-from-three-reproducible-failure-scenarios/",
+      "source_name": "CNCF",
+      "tags": [
+        "AI",
+        "Kubernetes",
+        "Open Source Foundations"
+      ],
+      "summary": "Scope This document describes three failure scenarios that separate having backups from being able to recover, and the guidance that follows from each. Every scenario is reproducible on a laptop from the lab repository above, and...",
+      "why": "Matters for platform teams tracking the open-source dependencies under their stack.",
+      "score": 0.8774
+    },
+    {
+      "date": "2026-09-11",
+      "title": "Building a reliable cloud native foundation for distributed AI training",
+      "url": "https://www.cncf.io/blog/2026/09/11/building-a-reliable-cloud-native-foundation-for-distributed-ai-training/",
+      "source_name": "CNCF",
+      "tags": [
+        "AI",
+        "Cloud",
+        "GPUs",
+        "Open Source Foundations"
+      ],
+      "summary": "AI workloads are changing what platform teams need from infrastructure. Provisioning GPUs and standing up a cluster no longer makes a platform “AI-ready.” Once training spans more than one node, the bottlenecks show up in places...",
+      "why": "Matters for platform teams tracking the open-source dependencies under their stack.",
+      "score": 0.8747
+    }
+  ]
+}
