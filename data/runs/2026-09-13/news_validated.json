@@ -1,0 +1,800 @@
+{
+  "post_date": "2026-09-13",
+  "sources_checked": 48,
+  "count": 45,
+  "items": [
+    {
+      "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+      "summary": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+      "published_at": "2026-09-14T00:00:00Z",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI Models",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.99,
+      "importance_score": 0.9,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/index/perplexity-improving-accuracy-with-astra"
+    },
+    {
+      "title": "Homebrew 7.0.0",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://brew.sh/2026/09/13/homebrew-7.0.0/",
+      "published_at": "2026-09-13T08:41:17Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.8354,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49681545"
+    },
+    {
+      "title": "JetKVM Mini",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://jetkvm.com/blog/introducing-jetkvm-mini",
+      "published_at": "2026-09-13T07:49:46Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.8318,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49681152"
+    },
+    {
+      "title": "Why are AI agents lying, cheating and coordinating?",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
+      "published_at": "2026-09-13T01:22:31Z",
+      "category": "aggregators",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.8049,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49678969"
+    },
+    {
+      "title": "Don't be the out of touch Kung Fu master",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://twitter.com/ID_AA_Carmack/status/2098443262214230095",
+      "published_at": "2026-09-12T21:51:43Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.658,
+      "importance_score": 0.7903,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49677577"
+    },
+    {
+      "title": "Astra and Fable still hack on simple variants of alignment evals from 2025",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment",
+      "published_at": "2026-09-13T14:28:36Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.6195,
+      "importance_score": 0.7833,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49684393"
+    },
+    {
+      "title": "Make your first edit to OpenStreetMap",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://high5apps.github.io/josm-plugin-website-wizard/",
+      "published_at": "2026-09-12T16:25:08Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7676,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49674050"
+    },
+    {
+      "title": "Revolut confirms customer data breach through fake government requests",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/",
+      "published_at": "2026-09-13T09:59:58Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.6195,
+      "importance_score": 0.7647,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49682087"
+    },
+    {
+      "title": "Nvidia is the central bank of AI",
+      "summary": "https://archive.ph/kt50V",
+      "source_name": "Hacker News",
+      "source_url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+      "published_at": "2026-09-12T15:08:27Z",
+      "category": "aggregators",
+      "tags": [
+        "AI",
+        "GPUs",
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7623,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49673098"
+    },
+    {
+      "title": "Anthropic has chosen the Nasdaq for its IPO listing",
+      "summary": "Anthropic is eyeing a $2 trillion IPO in October amid AI safety concerns.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/anthropic-selects-nasdaq-for-ipo-amid-ai-risk-concerns-2026-9",
+      "published_at": "2026-09-13T16:01:38Z",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.756,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/anthropic-selects-nasdaq-for-ipo-amid-ai-risk-concerns-2026-9"
+    },
+    {
+      "title": "What Anthropic’s C.E.O. Argued in His Call for Slower A.I. Development",
+      "summary": "Dario Amodei’s 3,800-word letter laid out a three-step plan to rein in artificial intelligence.",
+      "source_name": "The New York Times - Technology",
+      "source_url": "https://www.nytimes.com/2026/09/13/technology/anthropic-ceo-slower-ai-development.html",
+      "published_at": "2026-09-13T15:58:51Z",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7558,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.nytimes.com/2026/09/13/technology/anthropic-ceo-slower-ai-development.html"
+    },
+    {
+      "title": "My partner and I split our lives between the US and Canada — and have no plans to pick just one place",
+      "summary": "My partner is in Canada, and I live in the US. Neither of us is in a rush to move, and we've discussed splitting our time between both countries.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/we-live-in-us-and-canada-benefits-pros-cons-differences-2026-9",
+      "published_at": "2026-09-13T15:49:01Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7551,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/we-live-in-us-and-canada-benefits-pros-cons-differences-2026-9"
+    },
+    {
+      "title": "My husband and I were college athletes. We're not pushing competitive sports on our kids.",
+      "summary": "We've decided to take a low-pressure approach to competitive youth sports with our two kids.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/former-college-athletes-not-pushing-sports-ees-on-kids-2026-9",
+      "published_at": "2026-09-13T14:19:01Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7489,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/former-college-athletes-not-pushing-sports-ees-on-kids-2026-9"
+    },
+    {
+      "title": "The Interim Computer Museum",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://icm.museum/",
+      "published_at": "2026-09-13T02:43:57Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.625,
+      "importance_score": 0.7481,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49679459"
+    },
+    {
+      "title": "I've spent 20 years caring for 5 loved ones. At 54, I feel like I'm still waiting for my own life to begin.",
+      "summary": "Laura Lee Ehrlich, 54, spent two decades caring for five loved ones. She left work and used savings and her 401(k) along the way.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/caregiver-five-family-members-quit-job-spent-savings-2026-9",
+      "published_at": "2026-09-13T14:06:15Z",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.748,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/caregiver-five-family-members-quit-job-spent-savings-2026-9"
+    },
+    {
+      "title": "My 19-year-old moved across the country with 4 days' notice. What he packed made it easier to let him go.",
+      "summary": "My 19-year-old packed lightly before moving across the country. I didn't realize he'd taken one sentimental childhood possession until I visited.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/teen-son-moved-away-childhood-keepsake-parenting-19-2026-9",
+      "published_at": "2026-09-13T13:41:01Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7462,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/teen-son-moved-away-childhood-keepsake-parenting-19-2026-9"
+    },
+    {
+      "title": "Dario Amodei says OpenAI's Hugging Face hack helped convince him AI needs to slow down",
+      "summary": "Anthropic CEO Dario Amodei said in a new essay on Saturday that he's 'become convinced' in recent months that AI development needs to slow down.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/dario-amodei-slow-ai-safety-essay-openai-hugging-face-hack-2026-9",
+      "published_at": "2026-09-13T13:18:39Z",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7447,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/dario-amodei-slow-ai-safety-essay-openai-hugging-face-hack-2026-9"
+    },
+    {
+      "title": "The 19 actors with the most Emmy wins of all time",
+      "summary": "Bryan Cranston, Julia Louis-Dreyfus, Betty White, Michael J. Fox, and Cloris Leachman are among the actors with the most Emmy Awards.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/actors-with-most-emmy-awards",
+      "published_at": "2026-09-13T13:15:01Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7444,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/actors-with-most-emmy-awards"
+    },
+    {
+      "title": "10-Year-Old Children Predict the Future",
+      "summary": "Robot butlers. Underwater homes. Root beer perfume. Kids across the nation weigh in on what life will be like in the year 2050.",
+      "source_name": "The New York Times - Technology",
+      "source_url": "https://www.nytimes.com/2026/09/13/style/10-year-old-children-predict-the-future.html",
+      "published_at": "2026-09-13T13:05:14Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7437,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.nytimes.com/2026/09/13/style/10-year-old-children-predict-the-future.html"
+    },
+    {
+      "title": "Highway Test Reveals Limits for Connected Vehicle Communication",
+      "summary": "The results hint at how to improve collective perception at high speeds",
+      "source_name": "IEEE Spectrum",
+      "source_url": "https://spectrum.ieee.org/v2x-highway-vehicle-communication",
+      "published_at": "2026-09-13T13:00:03Z",
+      "category": "research_feeds",
+      "tags": [
+        "Research Feeds"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.7434,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://spectrum.ieee.org/v2x-highway-vehicle-communication"
+    },
+    {
+      "title": "The improbable music of the ZX Spectrum's one-bit speaker",
+      "summary": "Ingenious coders coaxed multichannel chiptunes from the humblest of sound hardware",
+      "source_name": "The Register",
+      "source_url": "https://www.theregister.com/offbeat/2026/09/13/the-improbable-music-of-the-zx-spectrums-one-bit-speaker/5295862",
+      "published_at": "2026-09-13T13:00:00Z",
+      "category": "enterprise_technology",
+      "tags": [
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7434,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.theregister.com/a/5295862"
+    },
+    {
+      "title": "The AI doomsday debate has reached a boiling point",
+      "summary": "In this Sunday edition of Business Insider Today, we're talking about the AI industry's existential angst, and its plan to slow everything down.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/bi-today-sunday-newsletter-ai-doomsday-debate-anthropic-openai-musk-2026-9",
+      "published_at": "2026-09-13T12:43:36Z",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7422,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/bi-today-sunday-newsletter-ai-doomsday-debate-anthropic-openai-musk-2026-9"
+    },
+    {
+      "title": "I travel often, but just took my first luxury cruise. The food was great, and it was easy to relax, but there was 1 unexpected drawback.",
+      "summary": "I'm a seasoned traveler, but hadn't been on a cruise until this summer. I realized I had misconceptions about cruising, but was right about one thing.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/first-luxury-cruise-surprised-me-pros-cons-2026-9",
+      "published_at": "2026-09-13T12:34:01Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7416,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/first-luxury-cruise-surprised-me-pros-cons-2026-9"
+    },
+    {
+      "title": "I started a real estate brokerage at 26 and am nearing $1 billion in deals. I have no work-life balance and still knock on doors.",
+      "summary": "Jordan Karp started his own real estate brokerage at 26. Now, he's nearing $1 billion in deals and works nonstop in Miami, Florida.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/miami-real-estate-broker-jordan-karp-day-in-the-life-2026-9",
+      "published_at": "2026-09-13T12:24:01Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7409,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/miami-real-estate-broker-jordan-karp-day-in-the-life-2026-9"
+    },
+    {
+      "title": "Aligned to whom?",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://hyperbo.la/w/aligned-to-whom/",
+      "published_at": "2026-09-13T03:17:18Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.621,
+      "importance_score": 0.7404,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49679643"
+    },
+    {
+      "title": "The US military is preparing for mass casualties in a major war. Its dentists say it's overlooking toothaches.",
+      "summary": "Army dentists warn toothaches and infections could sideline troops and strain evacuation systems in a future large-scale war.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/military-dentists-warn-toothaches-could-sideline-troops-in-next-war-2026-9",
+      "published_at": "2026-09-13T11:30:01Z",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7371,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/military-dentists-warn-toothaches-could-sideline-troops-in-next-war-2026-9"
+    },
+    {
+      "title": "Security through obscurity is dead, and AI delivered the fatal blow",
+      "summary": "RIP, you won't be mourned",
+      "source_name": "The Register",
+      "source_url": "https://www.theregister.com/security/2026/09/13/security-through-obscurity-is-dead-and-ai-delivered-the-fatal-blow/5296000",
+      "published_at": "2026-09-13T11:21:00Z",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "Security",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7365,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.theregister.com/a/5296000"
+    },
+    {
+      "title": "I moved away from my home country 6 years ago. When I returned, I felt like an outsider.",
+      "summary": "Six years ago, I left my home country, Mexico, and moved to New York, then to the UK. When I returned to Mexico, I realized how much I had changed.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/moved-from-mexico-to-uk-outsider-2026-9",
+      "published_at": "2026-09-13T11:07:01Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7355,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/moved-from-mexico-to-uk-outsider-2026-9"
+    },
+    {
+      "title": "The Smart Bird Feeders Everyone’s Talking About (and Actually Buying) (2026)",
+      "summary": "These bird feeders come with cameras and connected apps to let you see and learn about the birds in your neighborhood.",
+      "source_name": "Wired",
+      "source_url": "https://www.wired.com/story/best-smart-bird-feeders/",
+      "published_at": "2026-09-13T11:00:00Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.735,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "6671f1ec865e53584d1a830b"
+    },
+    {
+      "title": "Try These 3 iOS 27 Safari Settings to Get More Out of Apple’s Browser",
+      "summary": "Apple’s Safari browser gets a few helpful automation and personalization features in iOS 27.",
+      "source_name": "Wired",
+      "source_url": "https://www.wired.com/story/iphone-settings-ios-27-safari-browser/",
+      "published_at": "2026-09-13T10:30:00Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.733,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "6aa42b41b256773612c06987"
+    },
+    {
+      "title": "Best Indoor Garden Systems I’ve Been Testing All Year (2026)",
+      "summary": "Grow a backyard’s worth of greens and vegetables in your house with a vertical hydroponic garden. Here are a few that might be worth the investment.",
+      "source_name": "Wired",
+      "source_url": "https://www.wired.com/gallery/best-indoor-gardening-systems/",
+      "published_at": "2026-09-13T10:30:00Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.733,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "6877f4e6e1c1b51582845053"
+    },
+    {
+      "title": "Attackers Use Passkey Phishing to Hijack Microsoft Cloud Accounts and Exfiltrate Data",
+      "summary": "Microsoft has disclosed details of two campaigns in which threat actors are abusing third-party email delivery infrastructure to blast financial fraud scam messages and using passkey-themed social engineering to breach cloud environments. The first campaign, per the tech giant, involved sending over a million scam emails between August 3 and 5, 2026, by masquerading as chief executive officers",
+      "source_name": "The Hacker News",
+      "source_url": "https://thehackernews.com/2026/09/attackers-use-passkey-phishing-to.html",
+      "published_at": "2026-09-13T10:11:48Z",
+      "category": "cybersecurity",
+      "tags": [
+        "AI",
+        "Cloud",
+        "Cybersecurity"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7317,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://thehackernews.com/2026/09/attackers-use-passkey-phishing-to.html"
+    },
+    {
+      "title": "Coway Airmega Halo Review: Is Your Air Really Clean?",
+      "summary": "Coway’s new Airmega Halo runs quietly and clears visible smoke quickly, but its air-quality readings weren’t always reassuring.",
+      "source_name": "Wired",
+      "source_url": "https://www.wired.com/review/coway-airmega-halo/",
+      "published_at": "2026-09-13T10:05:00Z",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "ETL",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7312,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "6a9850ac882152f5a8e005a0"
+    },
+    {
+      "title": "AI Agents Are Thirsty for Power",
+      "summary": "Silicon Valley is shifting away from chatbot queries toward a future filled with resource-intensive agentic AI—and it's driving the data center buildout.",
+      "source_name": "Wired",
+      "source_url": "https://www.wired.com/story/ai-agents-are-thirsty-for-power/",
+      "published_at": "2026-09-13T10:00:00Z",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7309,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "6aa2ae4185a64f1534d84791"
+    },
+    {
+      "title": "With a Better Understanding of Physics, We Could Predict Volcanic Eruptions",
+      "summary": "“There’s no reason we can’t think that, at some point in the future, we can have volcano forecasts that are like weather forecasts.”",
+      "source_name": "Wired",
+      "source_url": "https://www.wired.com/story/physics-predict-volcanic-eruptions/",
+      "published_at": "2026-09-13T09:30:00Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7288,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "6a90b3d8180d3f9513510c88"
+    },
+    {
+      "title": "How to make Xfce look like almost any desktop you want",
+      "summary": "Panel Profiles handles the heavy lifting, once you've installed the plugins it expects",
+      "source_name": "The Register",
+      "source_url": "https://www.theregister.com/software/2026/09/13/how-to-make-xfce-look-like-almost-any-desktop-you-want/5295775",
+      "published_at": "2026-09-13T09:09:00Z",
+      "category": "enterprise_technology",
+      "tags": [
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7273,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.theregister.com/a/5295775"
+    },
+    {
+      "title": "US Customs supervisor busted for stealing hardware from Homeland Security PCs",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.tomshardware.com/pc-components/us-customs-supervisor-busted-for-stealing-core-i7-cpus-ram-and-hard-drives-from-homeland-security-pcs-stolen-tech-swapped-with-inferior-hardware-and-cashed-out-on-newegg",
+      "published_at": "2026-09-13T13:24:28Z",
+      "category": "aggregators",
+      "tags": [
+        "Security",
+        "Hacker News"
+      ],
+      "confidence_score": 0.594,
+      "importance_score": 0.7151,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49683729"
+    },
+    {
+      "title": "Welcome to Slackforce",
+      "summary": "",
+      "source_name": "Salesforce News",
+      "source_url": "https://www.salesforce.com/news/linked-content/your-vision-your-data-now-with-a-ui-introducing-slack-surfaces/",
+      "published_at": "2026-09-11T18:00:42Z",
+      "category": "enterprise_technology",
+      "tags": [
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.8,
+      "importance_score": 0.7043,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.salesforce.com/?post_type=sf_linked_content&p=95032"
+    },
+    {
+      "title": "'Fingerprints' inside the Sun could reveal if it once swallowed a planet",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://ras.ac.uk/news-and-press/research-highlights/fingerprints-inside-sun-could-reveal-if-it-once-swallowed-planet",
+      "published_at": "2026-09-13T12:01:52Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.588,
+      "importance_score": 0.6943,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49683033"
+    },
+    {
+      "title": "Anthropic C.E.O. Dario Amodei Calls for A.I. Slowdown",
+      "summary": "In an essay, the head of Anthropic laid out the rapidly advancing capabilities of artificial intelligence and said there needed to be greater safety controls across the industry.",
+      "source_name": "The New York Times - Technology",
+      "source_url": "https://www.nytimes.com/2026/09/12/technology/anthropic-dario-amodei-ai-slowdown.html",
+      "published_at": "2026-09-13T00:15:54Z",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "APIs",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.6903,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.nytimes.com/2026/09/12/technology/anthropic-dario-amodei-ai-slowdown.html"
+    },
+    {
+      "title": "Inside the Discussions at AI Companies Over a Superintelligence Doomsday",
+      "summary": "Researchers at Anthropic, OpenAI, Meta and Google are increasingly trying to raise awareness about the risks of artificial intelligence.",
+      "source_name": "The New York Times - Technology",
+      "source_url": "https://www.nytimes.com/2026/09/12/technology/doomsday-discussions-ai-companies.html",
+      "published_at": "2026-09-12T22:57:38Z",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Research",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.6849,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.nytimes.com/2026/09/12/technology/doomsday-discussions-ai-companies.html"
+    },
+    {
+      "title": "Why is the x86 undefined instruction called ud2? Why 2?",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing/20260910-00/?p=112689",
+      "published_at": "2026-09-13T12:30:15Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.582,
+      "importance_score": 0.6813,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49683262"
+    },
+    {
+      "title": "Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
+      "published_at": "2026-09-13T15:44:38Z",
+      "category": "aggregators",
+      "tags": [
+        "AI",
+        "AI Models",
+        "Hacker News"
+      ],
+      "confidence_score": 0.5755,
+      "importance_score": 0.6785,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49685253"
+    },
+    {
+      "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
+      "summary": "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman.",
+      "source_name": "TechCrunch - AI",
+      "source_url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
+      "published_at": "2026-09-12T20:19:16Z",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.6739,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://techcrunch.com/?p=3163386"
+    },
+    {
+      "title": "Anthropic CEO outlines plan to slow AI development",
+      "summary": "Anthropic's Dario Amodei and OpenAI's Sam Altman seem to agree that it's time to \"pace the frontier.\" What would that actually look like?",
+      "source_name": "TechCrunch - AI",
+      "source_url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
+      "published_at": "2026-09-12T19:34:44Z",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.6708,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://techcrunch.com/?p=3163373"
+    }
+  ]
+}
