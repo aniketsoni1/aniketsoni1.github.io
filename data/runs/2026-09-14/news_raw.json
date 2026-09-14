@@ -1,0 +1,839 @@
+{
+  "generated_at": "2026-09-14T18:42:56.437055+00:00",
+  "post_date": "2026-09-14",
+  "sources_checked": 48,
+  "candidates": 45,
+  "items": [
+    {
+      "title": "New AI Agent Ace Helps the TSA Support Travelers as They Navigate Airport Security",
+      "summary": "Ace, a new AI agent, handles 100,000 traveler conversations each month and resolves 96% of routine inquiries without escalation",
+      "source_name": "Salesforce News",
+      "source_url": "https://www.salesforce.com/news/press-releases/2026/09/14/tsa-improves-travel-experience-agentforce/",
+      "published_at": "2026-09-14T13:00:00+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Security",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.8762,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.salesforce.com/?post_type=sf_press_release&p=95296"
+    },
+    {
+      "title": "How Fyxer built an AI executive assistant people trust",
+      "summary": "Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice.",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/fyxer",
+      "published_at": "2026-09-14T12:00:00+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI",
+        "AI Models",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.99,
+      "importance_score": 0.872,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/index/fyxer"
+    },
+    {
+      "title": "Salesforce Launches Missionforce Military Fellowship to Help Service Members Build Careers in the Agentic Era",
+      "summary": "Key Takeaways As government agencies accelerate the adoption of AI and other emerging technologies, building the workforce to put those technologies to work is becoming an increasingly important part of national security readiness. Salesforce today announced that it has launched the Missionforce Military Fellowship, a 12-week Department of War (DOW) SkillBridge program designed to help […]",
+      "source_name": "Salesforce News",
+      "source_url": "https://www.salesforce.com/news/stories/missionforce-military-fellowship-announcement/",
+      "published_at": "2026-09-14T12:00:00+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Security",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.872,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.salesforce.com/?p=95355"
+    },
+    {
+      "title": "Salesforce Announces $27 Million in New Education Grants, Deepening Support for Public Schools and Educators",
+      "summary": "New funding includes $18 million for public schools, building on more than $180 million contributed to public schools nationwide, including $156 million in the Bay Area Salesforce deepens education focus at Dreamforce, with an expanded Adopt-a-School program, student learning, and mentorship Commitment is part of more than $1 billion in combined Bay Area contributions from […]",
+      "source_name": "Salesforce News",
+      "source_url": "https://www.salesforce.com/news/press-releases/2026/09/14/27-million-in-new-education-grants-announcement/",
+      "published_at": "2026-09-14T12:00:00+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.872,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.salesforce.com/?post_type=sf_press_release&p=95313"
+    },
+    {
+      "title": "Cilium 1.20: Gateway API ExternalAuth, TCPRoute/UDPRoute, ENI IPAM for IPv6, and more",
+      "summary": "Cilium 1.20, the second major open source Cilium release of 2026 after Cilium 1.19, is finally here. Three themes stand out in this release: Thank you to every contributor, reviewer and maintainer who made Cilium 1.20...",
+      "source_name": "CNCF",
+      "source_url": "https://www.cncf.io/blog/2026/09/14/cilium-1-20-gateway-api-externalauth-tcproute-udproute-eni-ipam-for-ipv6-and-more/",
+      "published_at": "2026-09-14T10:45:49+00:00",
+      "category": "open_source_foundations",
+      "tags": [
+        "AI",
+        "Open Source",
+        "APIs",
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8669,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.cncf.io/?p=173414"
+    },
+    {
+      "title": "OpenAI bots knew about the RubyGems caching vulnerability",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/",
+      "published_at": "2026-09-14T12:40:57+00:00",
+      "category": "aggregators",
+      "tags": [
+        "AI",
+        "Security",
+        "Hacker News"
+      ],
+      "confidence_score": 0.6545,
+      "importance_score": 0.8449,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49695876"
+    },
+    {
+      "title": "XCancel service is suspended until further notice",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://xcancel.com/#",
+      "published_at": "2026-09-14T09:51:50+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.65,
+      "importance_score": 0.8331,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49694296"
+    },
+    {
+      "title": "Accelerating Dropless MoE Training in JAX with NVIDIA Transformer Engine",
+      "summary": "Mixture of experts (MoE) has become one of the defining architectural trends in large-scale AI model training. DeepSeek, Qwen, and Mixtral are examples of MoE...",
+      "source_name": "NVIDIA Developer Blog",
+      "source_url": "https://developer.nvidia.com/blog/accelerating-dropless-moe-training-in-jax-with-nvidia-transformer-engine/",
+      "published_at": "2026-09-14T16:39:15+00:00",
+      "category": "mlops",
+      "tags": [
+        "AI",
+        "GPUs",
+        "AI Models",
+        "Mlops"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8314,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://developer.nvidia.com/blog/?p=121007"
+    },
+    {
+      "title": "Agent-ready analytics: Unlocking insights with BigQuery augmented analytics",
+      "summary": "BigQuery now features a suite of augmented analytics Table-Valued Functions (TVFs) designed to automate complex data analysis at scale. Augmented analytics combines AI, ML and statistical methods to automate insight discovery and pattern explanation. These functions allow you to diagnose why metrics changed, uncover underlying trends and relationships across the data, and even isolate the true impact of business decisions. These TVFs run directly where your data lives, which…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/products/data-analytics/bigquery-augmented-analytics-tvfs/",
+      "published_at": "2026-09-14T16:00:00+00:00",
+      "category": "cloud_providers",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.8287,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/products/data-analytics/bigquery-augmented-analytics-tvfs/"
+    },
+    {
+      "title": "Announcing Pause/Resume and NVIDIA RTX PRO 6000 Blackwell GPU support in Dataflow",
+      "summary": "Overview As enterprises scale their AI and agentic workflows, they require serverless platforms that make data preparation for model training, evaluation, and inference effortless and efficient. Dataflow is a critical component of Google Cloud’s AI stack. It enables our customers to create batch and streaming pipelines that support a variety of analytics and AI use cases. Today, we’re delivering significant enhancements to Dataflow that directly address your top challenges…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/products/data-analytics/new-dataflow-features-to-enable-large-scale-ai-workloads/",
+      "published_at": "2026-09-14T16:00:00+00:00",
+      "category": "cloud_providers",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Data Pipelines",
+        "Streaming",
+        "Cloud",
+        "Google Cloud",
+        "GPUs",
+        "AI Models"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.8287,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/products/data-analytics/new-dataflow-features-to-enable-large-scale-ai-workloads/"
+    },
+    {
+      "title": "Google is a leader in The Forrester Wave™: Public Cloud Platforms, Q3 2026",
+      "summary": "We are excited to share that Google Cloud was named a Leader and received the highest score in the ‘current offering’ category in the Forrester Wave™: Public Cloud Platforms, Q3 2026 report, which examines the 10 most significant public cloud providers across 30 comprehensive criteria, Google also received the highest possible score in 23 out of 30 evaluation criteria, including, but not limited to vision, innovation, AI development services, database services, analytics…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/products/compute/forrester-wave-public-cloud-platforms-q3-2026-report/",
+      "published_at": "2026-09-14T16:00:00+00:00",
+      "category": "cloud_providers",
+      "tags": [
+        "AI",
+        "Cloud",
+        "Google Cloud",
+        "Databases",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.8287,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/products/compute/forrester-wave-public-cloud-platforms-q3-2026-report/"
+    },
+    {
+      "title": "AWS Weekly Roundup: OpenAI GPT-6 Astra on Amazon Bedrock, Amazon Quick desktop GA, Kiro for students, and more (September 14, 2026)",
+      "summary": "There’s a particular energy to mid-September in New York. Pumpkin spice lattes are flowing, temperatures are dropping, and it’s nearly sweater weather. The city is back at full speed, and so is the AWS launch calendar. This week that energy showed up in a new frontier model on Amazon Bedrock, a desktop app for Amazon […]",
+      "source_name": "AWS News Blog",
+      "source_url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-openai-gpt-6-astra-on-amazon-bedrock-amazon-quick-desktop-ga-kiro-for-students-and-more-september-14-2026/",
+      "published_at": "2026-09-14T15:56:33+00:00",
+      "category": "cloud_providers",
+      "tags": [
+        "AI",
+        "AWS",
+        "AI Models",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.8285,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "936acd2588551fb9eea86f9b0eaf5f722128dc6e"
+    },
+    {
+      "title": "Scale down Kinesis Data Streams on-demand capacity with ODA warm throughput",
+      "summary": "Amazon Kinesis Data Streams now supports scaling down ingest capacity for on-demand Advantage streams with warm throughput. Learn how the scale-down works, how to monitor stream behavior with Amazon CloudWatch, and best practices for releasing excess capacity after transient traffic bursts.",
+      "source_name": "AWS Big Data Blog",
+      "source_url": "https://aws.amazon.com/blogs/big-data/scale-down-kinesis-data-streams-on-demand-capacity-with-oda-warm-throughput/",
+      "published_at": "2026-09-14T15:36:36+00:00",
+      "category": "cloud_providers",
+      "tags": [
+        "Cloud",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.92,
+      "importance_score": 0.8271,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "1829c8cc55833a33b97ef1faeb95d4da5454dce4"
+    },
+    {
+      "title": "Perplexity Portable Computer Is Now Available on Windows, Powered by NVIDIA RTX",
+      "summary": "As local models become more capable, AI agents can handle more work directly on a PC while keeping sensitive information on the device. Portable Computer is a local version of the agent Perplexity Computer that plans and carries out multistep tasks. Accelerated by NVIDIA GPUs, it uses local models to analyze data, bring together information […]",
+      "source_name": "NVIDIA Blog",
+      "source_url": "https://blogs.nvidia.com/blog/local-ai-perplexity-windows-pcs/",
+      "published_at": "2026-09-14T15:00:52+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "GPUs",
+        "AI Models",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8246,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://blogs.nvidia.com/?p=98202"
+    },
+    {
+      "title": "EuroBirdPortal – Live bird movements across Europe",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.eurobirdportal.org/ebp/en/",
+      "published_at": "2026-09-14T08:25:47+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.6485,
+      "importance_score": 0.8234,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49693610"
+    },
+    {
+      "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+      "summary": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+      "published_at": "2026-09-14T00:00:00+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI Models",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.99,
+      "importance_score": 0.822,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/index/perplexity-improving-accuracy-with-astra"
+    },
+    {
+      "title": "A 386 PC for Your RP2350",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://github.com/rh1tech/frank-386",
+      "published_at": "2026-09-14T08:25:57+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.642,
+      "importance_score": 0.8072,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49693613"
+    },
+    {
+      "title": "Steam Frame starts at $1059",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://store.steampowered.com/hardware/steamframe",
+      "published_at": "2026-09-14T17:27:55+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.614,
+      "importance_score": 0.7748,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49700661"
+    },
+    {
+      "title": "iOS 27, iPadOS 27, and macOS 27",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/",
+      "published_at": "2026-09-14T17:50:29+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.612,
+      "importance_score": 0.7714,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49701004"
+    },
+    {
+      "title": "Ask HN: What are you working on? (September 2026)",
+      "summary": "What are you working on? What have you been curious about lately?",
+      "source_name": "Hacker News",
+      "source_url": "https://news.ycombinator.com/item?id=49686380",
+      "published_at": "2026-09-13T17:31:38+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.677,
+      "importance_score": 0.7651,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49686380"
+    },
+    {
+      "title": "GitLab Dedicated: Compliance for a new regulatory era",
+      "summary": "Enforcements such as NIS2 are no longer a future planning consideration. The European Union Agency for Cybersecurity's (ENISA) NIS360 report confirms that supervisory authorities are actively assessing cybersecurity maturity across critical sectors. The agency is moving from guidance and consultation into active oversight, scrutiny, and accountability. This is the regulatory environment European enterprises now operate in. Multi-tenant cloud platforms remove operational…",
+      "source_name": "GitLab Blog",
+      "source_url": "https://about.gitlab.com/blog/gitlab-dedicated-compliance/",
+      "published_at": "2026-09-14T00:00:00+00:00",
+      "category": "developer_platforms",
+      "tags": [
+        "Cloud",
+        "Security",
+        "Developer Platforms"
+      ],
+      "confidence_score": 0.86,
+      "importance_score": 0.762,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://about.gitlab.com/blog/gitlab-dedicated-compliance/"
+    },
+    {
+      "title": "Here's the severance package Oracle offered laid-off US employees",
+      "summary": "Oracle's severance package appears less generous than policies at its peer companies, recently viewed by BI.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/oracle-severance-package-us-employees-2026-9",
+      "published_at": "2026-09-14T18:29:05+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.759,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/oracle-severance-package-us-employees-2026-9"
+    },
+    {
+      "title": "The 10 states that vaccinate the most — and the 10 that vaccinate the least",
+      "summary": "The data comes as flu season enters full swing and measles outbreaks continue across the US. Here are the states that vaccinate the most and least.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/the-states-with-the-highest-and-lowest-vaccination-rates-2026-9",
+      "published_at": "2026-09-14T17:54:53+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7567,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/the-states-with-the-highest-and-lowest-vaccination-rates-2026-9"
+    },
+    {
+      "title": "The AI industry has taken a doomer turn. What now?",
+      "summary": "This story appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. This weekend, Dario Amodei, CEO of Anthropic, posted an essay calling for a brake on the pace of development of LLMs. Amodei cites the looming dangers he sees from the technology, from its…",
+      "source_name": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/",
+      "published_at": "2026-09-14T17:54:22+00:00",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "LLMs",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.7566,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.technologyreview.com/?p=1144048"
+    },
+    {
+      "title": "I'm the CMO of Indeed. Companies are looking to hire a new kind of marketer",
+      "summary": "Indeed CMO James Whitemore says that while marketing job postings are down, it's the function itself that is evolving, Companies need versatile, business-literate marketers in an AI-driven world.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/as-marketing-job-postings-drop-companies-are-looking-for-new-skills-2026-9",
+      "published_at": "2026-09-14T17:43:32+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7559,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/as-marketing-job-postings-drop-companies-are-looking-for-new-skills-2026-9"
+    },
+    {
+      "title": "Datacenter developers want your backyard. FAS says negotiate harder",
+      "summary": "Tax breaks, water, noise, decommissioning - report tells local officials what to nail down before signing",
+      "source_name": "The Register",
+      "source_url": "https://www.theregister.com/on-prem/2026/09/14/datacenter-developers-want-your-backyard-fas-says-negotiate-harder/5296308",
+      "published_at": "2026-09-14T17:26:00+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7547,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.theregister.com/a/5296308"
+    },
+    {
+      "title": "'Diary of a CEO' star Steven Bartlett will bet up to $400 million to build a new generation of star creators",
+      "summary": "Star podcaster Steven Bartlett is joining with Authentic Brands Group to grow creator businesses through a venture called OBSN.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/diary-of-a-ceo-steven-bartlett-authentic-partner-creator-venture-2026-9",
+      "published_at": "2026-09-14T17:19:03+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7542,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/diary-of-a-ceo-steven-bartlett-authentic-partner-creator-venture-2026-9"
+    },
+    {
+      "title": "A 27-year-old AI researcher shot to fame after speaking out against AI's threat to humanity. Was it a smart career move?",
+      "summary": "Jacob Coxon quit Anthropic to warn that AI could threaten humanity. Recruiters say his viral post may have made him one of tech's hottest hires.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/jacob-coxon-anthropic-quit-viral-ai-warning-smart-career-move-2026-9",
+      "published_at": "2026-09-14T17:17:21+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Research",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7541,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/jacob-coxon-anthropic-quit-viral-ai-warning-smart-career-move-2026-9"
+    },
+    {
+      "title": "With iOS 27, I’m actually using Siri again",
+      "summary": "Apple’s long-delayed Siri overhaul is finally here with iOS 27, and it changes how useful the assistant feels day to day.",
+      "source_name": "TechCrunch - AI",
+      "source_url": "https://techcrunch.com/2026/09/14/with-ios-27-im-actually-using-siri-again/",
+      "published_at": "2026-09-14T17:10:30+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7536,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://techcrunch.com/?p=3163062"
+    },
+    {
+      "title": "Fashion app Daydream uses Apple Intelligence to help you shop the outfits in your camera roll",
+      "summary": "Thanks to the launch of iOS 27, Daydream's app now includes features that can turn saved outfit photos into shoppable results and search for products through Siri without opening the app.",
+      "source_name": "TechCrunch - AI",
+      "source_url": "https://techcrunch.com/2026/09/14/fashion-discovery-app-daydream-uses-apple-intelligence-to-help-you-shop-the-outfits-saved-in-your-camera-roll/",
+      "published_at": "2026-09-14T17:00:00+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7529,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://techcrunch.com/?p=3162850"
+    },
+    {
+      "title": "Ex-FTC boss Khan urges Uncle Sam to break out the handcuffs for AI CEOs, citing 1934 precedent",
+      "summary": "There are plenty of laws on the books to hold companies, and potentially their execs, accountable",
+      "source_name": "The Register",
+      "source_url": "https://www.theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325",
+      "published_at": "2026-09-14T16:59:24+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "AWS",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7528,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.theregister.com/a/5296325"
+    },
+    {
+      "title": "New DDRop Attack Breaks Intel TDX and AMD SEV-SNP Confidential Computing",
+      "summary": "Researchers have disclosed a new hardware attack, called DDRop, that breaks the memory protection in Intel and AMD confidential computing by silently dropping writes to a server's memory, so the processor keeps reading old encrypted data as if it were current. The attack requires an attacker who already controls the server's software and can briefly access the machine to insert a small circuit",
+      "source_name": "The Hacker News",
+      "source_url": "https://thehackernews.com/2026/09/new-ddrop-attack-breaks-intel-tdx-and.html",
+      "published_at": "2026-09-14T16:58:42+00:00",
+      "category": "cybersecurity",
+      "tags": [
+        "Research",
+        "Cybersecurity"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7528,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://thehackernews.com/2026/09/new-ddrop-attack-breaks-intel-tdx-and.html"
+    },
+    {
+      "title": "Red Heron Exploits Gitea RCE to Compromise 13 Organizations Across Six Countries",
+      "summary": "A Chinese threat actor tracked as Red Heron has been attributed to the rapid exploitation of a recently disclosed security vulnerability in Gitea to compromise internet-facing instances as part of a multi-national campaign. \"Red Heron scanned 1,386 Gitea instances across seven countries and maintained a separate dataset of 477 Taiwan-based systems,\" Acronis Threat Research Unit (TRU) said in an",
+      "source_name": "The Hacker News",
+      "source_url": "https://thehackernews.com/2026/09/red-heron-exploits-gitea-rce-to.html",
+      "published_at": "2026-09-14T16:56:30+00:00",
+      "category": "cybersecurity",
+      "tags": [
+        "AI",
+        "Security",
+        "APIs",
+        "Research",
+        "Cybersecurity"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7526,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://thehackernews.com/2026/09/red-heron-exploits-gitea-rce-to.html"
+    },
+    {
+      "title": "Trump's swing at green card holders on public benefits is facing a slew of lawsuits",
+      "summary": "NYC and San Francisco are suing the Trump administration over a policy that would limit green cards for immigrants deemed likely to use safety nets.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/states-cities-sue-trump-plan-to-limit-green-card-access-2026-9",
+      "published_at": "2026-09-14T16:52:38+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "AWS",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7523,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/states-cities-sue-trump-plan-to-limit-green-card-access-2026-9"
+    },
+    {
+      "title": "New York Seizes a Dozen Celebrity Deepfake Websites",
+      "summary": "In the biggest-ever legal action against harmful deepfake websites, the Manhattan District Attorney’s Office has seized 12 sites that collectively targeted around 1,200 victims.",
+      "source_name": "Wired",
+      "source_url": "https://www.wired.com/story/new-york-seizes-a-dozen-celebrity-deepfake-websites/",
+      "published_at": "2026-09-14T16:50:00+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7522,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "6aa7fa05ee6aa1b9c0aa69d0"
+    },
+    {
+      "title": "The best outfits and status symbols celebrities wore at the 2026 US Open",
+      "summary": "Serena Williams, Martha Stewart, and Orlando Bloom all attended the 2026 US Open — proving this tennis tournament also has a fashionable side.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/us-open-tennis-best-celebrity-outfits-status-symbols-2026-8",
+      "published_at": "2026-09-14T16:45:33+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7519,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/us-open-tennis-best-celebrity-outfits-status-symbols-2026-8"
+    },
+    {
+      "title": "Ubuntu Noble's likely last point release lands, then loses its desktop download",
+      "summary": "Installer bug crashes extended setups while Stonking Stingray circles ahead of October debut",
+      "source_name": "The Register",
+      "source_url": "https://www.theregister.com/os-platforms/2026/09/14/ubuntu-nobles-likely-last-point-release-lands-then-loses-its-desktop-download/5296292",
+      "published_at": "2026-09-14T16:45:00+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7518,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.theregister.com/a/5296292"
+    },
+    {
+      "title": "Amazon Suspends Flights With Airline Whose Plane Crashed in Miami",
+      "summary": "The online retailer said it would “pause” its relationship with 21 Air, the cargo airline operating a Boeing 767 that overshot a runway in Miami.",
+      "source_name": "The New York Times - Technology",
+      "source_url": "https://www.nytimes.com/2026/09/14/business/amazon-21-air-miami-airport-crash.html",
+      "published_at": "2026-09-14T16:42:19+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7516,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.nytimes.com/2026/09/14/business/amazon-21-air-miami-airport-crash.html"
+    },
+    {
+      "title": "We quit our jobs in our 30s to travel and live part-time from a sailboat. We have no regrets about giving up the golden handcuffs.",
+      "summary": "A Seattle couple quit their lucrative jobs for a 'first retirement' to travel and live part-time from a sailboat. Here's how they planned for it.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/quit-jobs-early-retirement-seattle-couple-sailboat-travel-golden-handcuffs-2026-9",
+      "published_at": "2026-09-14T16:29:12+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7507,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/quit-jobs-early-retirement-seattle-couple-sailboat-travel-golden-handcuffs-2026-9"
+    },
+    {
+      "title": "Microsoft’s new AI ‘code of conduct’ tells models not to hack systems or trick humans",
+      "summary": "The code of conduct lays out general principles that Microsoft AI models should uphold — supporting humans rather than replacing them, for instance, and accelerating human flourishing — as well as specific safety constraints meant to implement those principles.",
+      "source_name": "TechCrunch - AI",
+      "source_url": "https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/",
+      "published_at": "2026-09-14T16:27:53+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "AI Models",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7506,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://techcrunch.com/?p=3163598"
+    },
+    {
+      "title": "Donated livers can be made biologically younger",
+      "summary": "Once an organ is removed from a donor’s body, the clock starts ticking. Surgeons usually flush the organ with a preservative solution, bag it, and put it on ice—where it immediately starts to degrade. The team has a matter of hours to get it into a recipient’s body. There’s another option—one that has been growing…",
+      "source_name": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/09/14/1144010/donated-livers-can-be-made-biologically-younger/",
+      "published_at": "2026-09-14T16:11:42+00:00",
+      "category": "research_feeds",
+      "tags": [
+        "Research Feeds"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.7495,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.technologyreview.com/?p=1144010"
+    },
+    {
+      "title": "I shopped for fall decor at Hobby Lobby and Michaels. Both stores were winners — just not for the same holiday.",
+      "summary": "I compared shopping for fall decorations at Michaels and Hobby Lobby to find the better chain. One was best for Halloween, the other for Thanksgiving.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/fall-decoration-shopping-michaels-vs-hobby-lobby-review-halloween-2026-9",
+      "published_at": "2026-09-14T16:11:01+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7495,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/fall-decoration-shopping-michaels-vs-hobby-lobby-review-halloween-2026-9"
+    },
+    {
+      "title": "The new Miss America said her dad sent her daily questions about current events to prepare for the pageant",
+      "summary": "Regan Hutsell won the Miss America pageant on September 6 in Florida. She told Business Insider her dad was her \"toughest interview coach.\"",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/miss-america-winner-regan-hutsell-pageant-prep-interview-round-2026-9",
+      "published_at": "2026-09-14T16:02:34+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7489,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/miss-america-winner-regan-hutsell-pageant-prep-interview-round-2026-9"
+    },
+    {
+      "title": "AI agents blew the whistle on their cheating colleagues",
+      "summary": "A group of AI agents asked to solve a series of math problems split into rival factions—when some cheated, others tried to stop them. That whistleblowing behavior, seen for the first time in a recent experiment run by Google DeepMind, could have implications for alignment researchers trying to keep swarms of autonomous AI agents in…",
+      "source_name": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/",
+      "published_at": "2026-09-14T16:00:00+00:00",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.7487,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.technologyreview.com/?p=1144037"
+    },
+    {
+      "title": "Cyberattack sends International Meteor Organization crashing back to Earth",
+      "summary": "Attack dealt a 'critical blow' to aging infrastructure, with several weeks of disruption expected",
+      "source_name": "The Register",
+      "source_url": "https://www.theregister.com/cyber-crime/2026/09/14/cyberattack-sends-international-meteor-organization-crashing-back-to-earth/5296282",
+      "published_at": "2026-09-14T16:00:00+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7487,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.theregister.com/a/5296282"
+    }
+  ]
+}
