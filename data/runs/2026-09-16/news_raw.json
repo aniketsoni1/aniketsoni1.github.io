@@ -1,0 +1,839 @@
+{
+  "generated_at": "2026-09-16T17:39:48.067545+00:00",
+  "post_date": "2026-09-16",
+  "sources_checked": 48,
+  "candidates": 45,
+  "items": [
+    {
+      "title": "Helping older adults use AI in everyday life",
+      "summary": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely.",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
+      "published_at": "2026-09-16T16:00:00+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.99,
+      "importance_score": 0.8931,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life"
+    },
+    {
+      "title": "Everything Your Agents Need in One Place.",
+      "summary": "",
+      "source_name": "Salesforce News",
+      "source_url": "https://www.salesforce.com/news/linked-content/everything-your-agents-need-in-one-place/",
+      "published_at": "2026-09-16T15:00:29+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI Agents",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.8889,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.salesforce.com/?post_type=sf_linked_content&p=95426"
+    },
+    {
+      "title": "Why We Post-Trained Our Own Reasoning Model",
+      "summary": "A general model reasons about a refund policy the same way it reasons about a physics problem. So we trained one specifically for enterprise work.",
+      "source_name": "Salesforce News",
+      "source_url": "https://www.salesforce.com/news/stories/why-we-post-trained-our-own-reasoning-model/",
+      "published_at": "2026-09-16T15:00:00+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "AI Models",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.8889,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.salesforce.com/?p=95606"
+    },
+    {
+      "title": "Reimagining advertising with AI",
+      "summary": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/reimagining-advertising-with-ai",
+      "published_at": "2026-09-16T13:00:00+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.99,
+      "importance_score": 0.8806,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/index/reimagining-advertising-with-ai"
+    },
+    {
+      "title": "Salesforce Expands Missionforce with Purpose-Built AI and New Partnership with OpenAI to Advance Mission Intelligence",
+      "summary": "Missionforce plans to integrate OpenAI’s frontier models to power government missions New AI capabilities deliver faster service for citizens, less manual work for government teams, and support for always-on missions Salesforce today announced new Missionforce capabilities that give government agencies greater control over how they develop, customize, and deploy AI while streamlining policy execution, enhancing […]",
+      "source_name": "Salesforce News",
+      "source_url": "https://www.salesforce.com/news/stories/missionsforce-expansion-agents-nvidia-openai-partnerships/",
+      "published_at": "2026-09-16T12:00:00+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "AI Models",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.8764,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.salesforce.com/?p=95560"
+    },
+    {
+      "title": "Salesforce Marks One Year of Missionforce with Strong Growth Across Government and Defense",
+      "summary": "One year ago, Salesforce launched Missionforce, its agentic platform for government that brings trusted AI, data, apps, and cloud technology to the government’s most critical missions. Since then, public sector has become Salesforce’s fastest-growing industry business at scale, with its defense sector business growing 80% year over year as demand accelerates. Today, Salesforce supports some […]",
+      "source_name": "Salesforce News",
+      "source_url": "https://www.salesforce.com/news/stories/missionsforce-one-year-anniversary/",
+      "published_at": "2026-09-16T12:00:00+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Cloud",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.8764,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.salesforce.com/?p=95565"
+    },
+    {
+      "title": "Live Nation Makes Show Day Easier for Fans With Salesforce’s Agentforce",
+      "summary": "Building on a successful pilot at BottleRock Napa Valley, Agentforce to bring 24/7 fan support to Live Nation concert venues across the U.S.",
+      "source_name": "Salesforce News",
+      "source_url": "https://www.salesforce.com/news/press-releases/2026/09/16/live-nation-agentforce-expansion/",
+      "published_at": "2026-09-16T12:00:00+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI Agents",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.8764,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.salesforce.com/?post_type=sf_press_release&p=95536"
+    },
+    {
+      "title": "Running OpenBao on Kubernetes with a CloudNativePG PostgreSQL backend",
+      "summary": "Managing infrastructure secrets on Kubernetes needs a backend that is self-healing and free of vendor lock-in, and that is exactly what OpenBao (the Linux Foundation’s open-source fork of HashiCorp Vault) and CloudNativePG give you: an entirely...",
+      "source_name": "CNCF",
+      "source_url": "https://www.cncf.io/blog/2026/09/16/running-openbao-on-kubernetes-with-a-cloudnativepg-postgresql-backend/",
+      "published_at": "2026-09-16T11:30:00+00:00",
+      "category": "open_source_foundations",
+      "tags": [
+        "Kubernetes",
+        "Cloud",
+        "Open Source",
+        "Databases",
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8743,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.cncf.io/?p=174771"
+    },
+    {
+      "title": "How workers are unlocking new ways of working",
+      "summary": "New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work.",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/unlocking-new-ways-of-working",
+      "published_at": "2026-09-16T09:00:00+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI",
+        "Research",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.99,
+      "importance_score": 0.8639,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/index/unlocking-new-ways-of-working"
+    },
+    {
+      "title": "Hackers Got Inside a Flock Camera",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.wired.com/story/hackers-flock-camera-data-shows-how-system-works/",
+      "published_at": "2026-09-16T13:18:47+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.694,
+      "importance_score": 0.8519,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49726586"
+    },
+    {
+      "title": "The Google Play app review process now regularly takes longer than a week",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://gultsch.social/@daniel/117280438824908947",
+      "published_at": "2026-09-16T11:19:11+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.686,
+      "importance_score": 0.8436,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49724927"
+    },
+    {
+      "title": "Salesforce Global Outage",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://status.salesforce.com/products/all",
+      "published_at": "2026-09-16T10:37:08+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.664,
+      "importance_score": 0.8406,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49724488"
+    },
+    {
+      "title": "Original Sony PlayStation 2 security chip 'broken wide open' after 26 years",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.tomshardware.com/video-games/playstation/26-year-old-sony-ps2-security-chip-broken-wide-open-after-four-years-of-effort-reverse-engineering-enthusiast-successfully-unlocks-cxp102064-mechacon-chip",
+      "published_at": "2026-09-16T11:49:40+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Security",
+        "Hacker News"
+      ],
+      "confidence_score": 0.6475,
+      "importance_score": 0.8394,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49725356"
+    },
+    {
+      "title": "Translating CUDA Tile Operations from Python to Rust Using Agentic AI",
+      "summary": "cuTile Rust (cutile-rs) is a tile-based system for safe, idiomatic GPU kernel authoring in the Rust programming language. Extending the Rust ownership model to...",
+      "source_name": "NVIDIA Developer Blog",
+      "source_url": "https://developer.nvidia.com/blog/translating-cuda-tile-operations-from-python-to-rust-using-agentic-ai/",
+      "published_at": "2026-09-16T16:28:59+00:00",
+      "category": "mlops",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "GPUs",
+        "Python",
+        "AI Models",
+        "Mlops"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8351,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://developer.nvidia.com/blog/?p=122428"
+    },
+    {
+      "title": "For SeaVerse, GKE Agent Sandbox reduces infrastructure costs by 60%",
+      "summary": "Editor’s note: Today we hear from SeaVerse , a gaming startup from SeaArt that is building a platform for playable AI experiences , where users can open lightweight games, character chats, and interactive apps, or create their own experiences from a prompt. To support that creative loop, SeaVerse needed infrastructure that could run dynamic, multi-tenant sandbox workloads with strong isolation, low latency, better observability, and more flexible costs. Google Kubernetes…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/products/containers-kubernetes/seaverse-chooses-gke-agent-sandbox/",
+      "published_at": "2026-09-16T16:00:00+00:00",
+      "category": "cloud_providers",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Kubernetes",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.8331,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/products/containers-kubernetes/seaverse-chooses-gke-agent-sandbox/"
+    },
+    {
+      "title": "M4N VM family, now GA: Highest per-core IOPS and throughput for I/O and memory-bound workloads",
+      "summary": "As enterprise organizations scale mission-critical applications, storage I/O and memory access can become severe operational bottlenecks. Whether its Oracle databases, in-memory databases like SAP HANA, or high-throughput SQL Server clusters, EHR systems, and real-time big data analytics, memory-bound databases often force enterprises to over-provision compute cores (vCPUs) to get the RAM capacity and storage bandwidth they need, driving up costly third-party software…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/products/compute/compute-engine-m4n-vms/",
+      "published_at": "2026-09-16T16:00:00+00:00",
+      "category": "cloud_providers",
+      "tags": [
+        "Databases",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.8331,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/products/compute/compute-engine-m4n-vms/"
+    },
+    {
+      "title": "How Orange uses agents to make FinOps everyone's responsibility",
+      "summary": "At Orange , the leading France-based multinational telecom provider, there are days when engineering teams set aside their delivery backlogs and spend the day cleaning up cloud spend together. There's a leaderboard. There are goodies on the line. Experienced practitioners guide the newcomers, so people learn the work while doing it. By the end of the day, sponsors can see the results. Orange calls these FinOps Clean Days. Together with gamified hackathons, they've earned the…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/topics/telecommunications/how-orange-uses-agents-to-make-finops-everyones-responsibility/",
+      "published_at": "2026-09-16T16:00:00+00:00",
+      "category": "cloud_providers",
+      "tags": [
+        "AI Agents",
+        "Cloud",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.8331,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/topics/telecommunications/how-orange-uses-agents-to-make-finops-everyones-responsibility/"
+    },
+    {
+      "title": "Cloud CISO Perspectives: How Google monitors AI threats and advances AI defenses",
+      "summary": "Welcome to the first Cloud CISO Perspectives for September 2026. Today, Sandra Joyce shares the latest details on Google’s visibility into how attackers are using AI, and how we’re using AI to stop them. As with all Cloud CISO Perspectives, the contents of this newsletter are posted to the Google Cloud blog . If you’re reading this on the website and you’d like to receive the email version, you can subscribe here . aside_block <ListValue: [StructValue([('title', 'Get vital…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-how-google-monitors-ai-threats-advances-ai-defenses/",
+      "published_at": "2026-09-16T16:00:00+00:00",
+      "category": "cloud_providers",
+      "tags": [
+        "AI",
+        "Cloud",
+        "Google Cloud",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.8331,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-how-google-monitors-ai-threats-advances-ai-defenses/"
+    },
+    {
+      "title": "The Dreamforce 2026 Keynote in Under 7 Minutes",
+      "summary": "",
+      "source_name": "Salesforce News",
+      "source_url": "https://www.salesforce.com/news/linked-content/the-dreamforce-2026-keynote-in-under-7-minutes/",
+      "published_at": "2026-09-16T01:00:54+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.8306,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.salesforce.com/?post_type=sf_linked_content&p=95577"
+    },
+    {
+      "title": "Mistral X Mozilla: Private, Multilingual AI Browsing",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://mistral.ai/news/mistral-x-mozilla/",
+      "published_at": "2026-09-16T08:08:57+00:00",
+      "category": "aggregators",
+      "tags": [
+        "AI",
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.8304,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49723408"
+    },
+    {
+      "title": "Discover and govern Snowflake data using SageMaker Unified Studio",
+      "summary": "Connect Snowflake to Amazon SageMaker Unified Studio to build a unified data catalog. Query federated Snowflake tables without moving data, publish enriched assets to SageMaker Catalog, and validate data quality with AWS Glue Data Quality, all while keeping data in Snowflake.",
+      "source_name": "AWS Big Data Blog",
+      "source_url": "https://aws.amazon.com/blogs/big-data/discover-and-govern-snowflake-data-using-sagemaker-unified-studio/",
+      "published_at": "2026-09-16T15:19:51+00:00",
+      "category": "cloud_providers",
+      "tags": [
+        "Snowflake",
+        "AWS",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.92,
+      "importance_score": 0.8303,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "71973a3376f25fe0b8a1b95acb740ff9f20bf52e"
+    },
+    {
+      "title": "NVIDIA Vera Rubin NVL72 Delivers Leading Performance in MLPerf Inference v6.1 Debut",
+      "summary": "System performance, efficient infrastructure scaling and continuous software optimization are key levers that determine AI inference economics. Higher system performance means more tokens generated, resulting in higher revenue. Efficient scaling means throughput grows proportionally as hardware gets added, requiring fewer resources to serve users at scale. Continuous optimization means generating more value from infrastructure investments. […]",
+      "source_name": "NVIDIA Blog",
+      "source_url": "https://blogs.nvidia.com/blog/vera-rubin-nvl72-mlperf-inference/",
+      "published_at": "2026-09-16T15:00:48+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "GPUs",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.829,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://blogs.nvidia.com/?p=98215"
+    },
+    {
+      "title": "Emerald AI, Google and NVIDIA Launch Alliance to Advance Flexible AI Data Centers",
+      "summary": "AI factories are the infrastructure of the intelligence era. Scaling them responsibly will depend as much on innovation across the grid as inside the data center. Today, Emerald AI, Google and NVIDIA announced the launch of the AI Energy Management Alliance (AEMA), a first-of-its-kind coalition advancing data centers that can dynamically manage their electricity use […]",
+      "source_name": "NVIDIA Blog",
+      "source_url": "https://blogs.nvidia.com/blog/ai-energy-management-alliance/",
+      "published_at": "2026-09-16T13:00:33+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "GPUs",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8206,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://blogs.nvidia.com/?p=98287"
+    },
+    {
+      "title": "Apple Reference Image: A New Approach for Verified Photography",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://security.apple.com/blog/apple-reference-image/",
+      "published_at": "2026-09-16T02:07:31+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.8053,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49721322"
+    },
+    {
+      "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
+      "summary": "",
+      "source_name": "Google DeepMind",
+      "source_url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
+      "published_at": "2026-09-15T17:05:57+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.95,
+      "importance_score": 0.7977,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/"
+    },
+    {
+      "title": "Adecco Group announces Salesforce’s Agentforce Coworker rollout across 40 countries",
+      "summary": "",
+      "source_name": "Salesforce News",
+      "source_url": "https://www.salesforce.com/news/linked-content/adecco-group-announces-salesforces-agentforce-coworker-rollout-across-40-countries/",
+      "published_at": "2026-09-15T17:00:29+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI Agents",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.8,
+      "importance_score": 0.7973,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.salesforce.com/?post_type=sf_linked_content&p=95516"
+    },
+    {
+      "title": "What I learned organizing KCD Lima 2026",
+      "summary": "On July 18, 2026, we held the third edition of Kubernetes Community Days Lima at UTEC in Barranco. By now, we have already sent the Transparency Report to the CNCF, thanked our sponsors, and processed the...",
+      "source_name": "CNCF",
+      "source_url": "https://www.cncf.io/blog/2026/09/15/what-i-learned-organizing-kcd-lima-2026/",
+      "published_at": "2026-09-15T16:24:05+00:00",
+      "category": "open_source_foundations",
+      "tags": [
+        "Kubernetes",
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.87,
+      "importance_score": 0.7948,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.cncf.io/?p=174852"
+    },
+    {
+      "title": "AI for Societal Impact",
+      "summary": "Explore this collection to see how experts and local leaders are using AI breakthroughs to ensure everyone can share the opportunity of AI.",
+      "source_name": "Google AI (The Keyword)",
+      "source_url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/",
+      "published_at": "2026-09-15T16:00:00+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.92,
+      "importance_score": 0.7931,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/"
+    },
+    {
+      "title": "Building AI to accelerate science and improve lives",
+      "summary": "B-roll showing diverse environments and people, including a teacher and students in a classroom and a patient with a doctor",
+      "source_name": "Google AI (The Keyword)",
+      "source_url": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/",
+      "published_at": "2026-09-15T16:00:00+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.92,
+      "importance_score": 0.7931,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/"
+    },
+    {
+      "title": "AI for everyone in every language",
+      "summary": "Animation of several words in different languages slowly zooming past",
+      "source_name": "Google AI (The Keyword)",
+      "source_url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/",
+      "published_at": "2026-09-15T16:00:00+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.92,
+      "importance_score": 0.7931,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/"
+    },
+    {
+      "title": "University of Manchester Uses NVIDIA Earth-2 to Forecast Air Pollution Across the UK",
+      "summary": "Air pollution is a serious public health risk, contributing to an estimated 30,000 deaths in the U.K. alone last year. Data-driven insights can help — but computing air quality with traditional chemistry-based models is expensive, which limits how detailed they can be and how regularly they can be run. David Topping, a professor in the […]",
+      "source_name": "NVIDIA Blog",
+      "source_url": "https://blogs.nvidia.com/blog/uk-air-pollution-research-earth-2/",
+      "published_at": "2026-09-16T05:00:42+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "GPUs",
+        "AI Models",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.7873,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://blogs.nvidia.com/?p=98313"
+    },
+    {
+      "title": "New insights from Google’s AI & Economy ATLAS",
+      "summary": "Text \"AI & Economy Atlas v1.0 2026\" with the Google G and a spinning globe illustration",
+      "source_name": "Google AI (The Keyword)",
+      "source_url": "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026/",
+      "published_at": "2026-09-15T13:00:00+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.92,
+      "importance_score": 0.7806,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026/"
+    },
+    {
+      "title": "Introducing System One Models and Jev",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
+      "published_at": "2026-09-15T19:25:03+00:00",
+      "category": "aggregators",
+      "tags": [
+        "AI Models",
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7773,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49717558"
+    },
+    {
+      "title": "20 Years of The Trailblazer Community: Building the Agentic Enterprise",
+      "summary": "This year, Salesforce’s Trailblazer Community turns 20. For two decades, this global crew of millions has powered the Salesforce ecosystem. They’ve built apps, customized agents, and brought Salesforce technology to life for businesses everywhere. And in doing so, they’ve shaped Salesforce products, supercharged careers, and driven real economic growth around the world. Why it matters: […]",
+      "source_name": "Salesforce News",
+      "source_url": "https://www.salesforce.com/news/stories/trailblazers-twentieth-anniversary/",
+      "published_at": "2026-09-15T12:00:00+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7764,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.salesforce.com/?p=95336"
+    },
+    {
+      "title": "Salesforce Unveils AIforce, Bringing the Full Power of Its Platform to Any Interface",
+      "summary": "AIforce unlocks tremendous value by enabling agents anywhere to reason and take action across all the data, workflows, and logic inside Salesforce Instead of fixed UI, AIforce empowers anyone to build composable, intelligent, live interfaces, wherever work happens Today at Dreamforce, Salesforce, the #1 AI CRM, is unveiling AIforce, a live interface layer that brings […]",
+      "source_name": "Salesforce News",
+      "source_url": "https://www.salesforce.com/news/stories/aiforce-announcement/",
+      "published_at": "2026-09-15T12:00:00+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7764,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.salesforce.com/?p=95400"
+    },
+    {
+      "title": "AWS and Salesforce Put CRM Data, AI Agents, and Model Choice Into the Tools Teams Use Every Day",
+      "summary": "New integrations bring Salesforce data, context, and actions into Amazon Quick, AWS agents into Slack, and Agent2Agent (A2A) support for real-time, bidirectional voice between Agentforce Voice and Amazon Connect Customer — putting AI where customers work, grounded in data they trust, without requiring migrations. Amazon Web Services (AWS) and Salesforce today announced an expanded collaboration […]",
+      "source_name": "Salesforce News",
+      "source_url": "https://www.salesforce.com/news/stories/aws-salesforce-enterprise-ai-expansion/",
+      "published_at": "2026-09-15T12:00:00+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "AWS",
+        "AI Models",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7764,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.salesforce.com/?p=95405"
+    },
+    {
+      "title": "An update on Wayback Machine access",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/",
+      "published_at": "2026-09-15T17:52:18+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7709,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49716176"
+    },
+    {
+      "title": "Gemini 3.8 Live and 3.8 Live Extended Thinking",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/",
+      "published_at": "2026-09-15T17:38:18+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7699,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49715947"
+    },
+    {
+      "title": "Why I'm still bearish on LLMs after Navier-Stokes",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://dank.systems/posts/2026-09-15-ai-bear.html",
+      "published_at": "2026-09-15T17:37:12+00:00",
+      "category": "aggregators",
+      "tags": [
+        "LLMs",
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7698,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49715927"
+    },
+    {
+      "title": "When to use SAST versus an LLM security scanner",
+      "summary": "You're probably running some version of this experiment already: Point a frontier model at a merge request and ask it to double as a vulnerability scanner. On a single merge request, it often works well. The model reads the code, reasons about what it's supposed to do, and catches real issues, sometimes ones a pattern-based scanner misses entirely. So the next thought is reasonable: If a model reviews one merge request this well, why not let it replace the scanner across…",
+      "source_name": "GitLab Blog",
+      "source_url": "https://about.gitlab.com/blog/sast-vs-llm-security-scanner/",
+      "published_at": "2026-09-16T00:00:00+00:00",
+      "category": "developer_platforms",
+      "tags": [
+        "LLMs",
+        "Security",
+        "AI Models",
+        "Developer Platforms"
+      ],
+      "confidence_score": 0.86,
+      "importance_score": 0.7664,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://about.gitlab.com/blog/sast-vs-llm-security-scanner/"
+    },
+    {
+      "title": "Kubernetes v1.37: Pod-Level Resource Managers graduated to Beta",
+      "summary": "With the release of Kubernetes v1.37, the Pod-Level Resource Managers feature has graduated to Beta status (disabled by default)! First introduced as an Alpha feature in Kubernetes v1.36 , this enhancement builds on Pod-Level Resources by equipping Kubelet's Topology Manager, CPU Manager, and Memory Manager to use Pod-level resource declarations ( .spec.resources ) directly when making hardware placement decisions. Bringing pod-level resources to node managers Before this…",
+      "source_name": "Kubernetes Blog",
+      "source_url": "https://kubernetes.io/blog/2026/09/15/kubernetes-v1-37-pod-level-resource-managers-beta/",
+      "published_at": "2026-09-15T18:30:00+00:00",
+      "category": "open_source_foundations",
+      "tags": [
+        "Kubernetes",
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.92,
+      "importance_score": 0.7635,
+      "source_type": "release_notes",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://kubernetes.io/blog/2026/09/15/kubernetes-v1-37-pod-level-resource-managers-beta/"
+    },
+    {
+      "title": "‘Now We Can Know Everything and Do Anything,’ Jensen Huang Says at Dreamforce",
+      "summary": "Know everything. Do anything. That was the message NVIDIA founder and CEO Jensen Huang brought to Salesforce Dreamforce Tuesday, joining CEO Marc Benioff onstage in an appearance that coincided with the announcement of Koa — Salesforce’s first CRM reasoning model, built on NVIDIA Nemotron 3 Super. Huang didn’t just take the stage. He walked into […]",
+      "source_name": "NVIDIA Blog",
+      "source_url": "https://blogs.nvidia.com/blog/jensen-huang-dreamforce/",
+      "published_at": "2026-09-15T22:24:34+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "GPUs",
+        "AI Models",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.7598,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://blogs.nvidia.com/?p=98294"
+    },
+    {
+      "title": "Mark Zuckerberg Takes Aim at Anthropic in Debate Over A.I. Slowdown",
+      "summary": "On social media, Meta’s chief executive appeared to jab at Anthropic by saying that leading A.I. labs should be focused on safety rather than improving their own technology.",
+      "source_name": "The New York Times - Technology",
+      "source_url": "https://www.nytimes.com/2026/09/15/technology/mark-zuckerberg-anthropic-ai-safety.html",
+      "published_at": "2026-09-16T17:22:07+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7588,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.nytimes.com/2026/09/15/technology/mark-zuckerberg-anthropic-ai-safety.html"
+    },
+    {
+      "title": "Ed Sheeran resale ticket prices slide as the Macklemore fallout grows",
+      "summary": "Ed Sheeran resale ticket prices are down, according to the site Ticketdata. The drop-off comes after Macklemore was removed from Sheeran's tour.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/ed-sheeran-resale-ticket-prices-slide-macklemore-fallout-2026-9",
+      "published_at": "2026-09-16T17:22:28+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7588,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/ed-sheeran-resale-ticket-prices-slide-macklemore-fallout-2026-9"
+    },
+    {
+      "title": "Professional men are still obsessed with the quarter-zip. Here's why.",
+      "summary": "Men are still embracing the quarter-zip for work. Fashion pros say its appeal is simple: It looks polished without trying too hard.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/quarter-zip-mens-workwear-trend-2026-9",
+      "published_at": "2026-09-16T17:07:46+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7578,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/quarter-zip-mens-workwear-trend-2026-9"
+    }
+  ]
+}
