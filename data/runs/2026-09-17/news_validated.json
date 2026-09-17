@@ -1,0 +1,833 @@
+{
+  "post_date": "2026-09-17",
+  "sources_checked": 48,
+  "count": 45,
+  "items": [
+    {
+      "title": "Building the Agentic Enterprise: Secrets from Early Adopters",
+      "summary": "Salesforce customers are at the forefront of the agentic revolution, and they’re already seeing real-world value from it. Early adopters like Box and Engine are finding new efficiencies and improving the experiences of their own customers at scale. But these kinds of tech shifts don’t happen easily, and there are a lot of learning moments […]",
+      "source_name": "Salesforce News",
+      "source_url": "https://www.salesforce.com/news/stories/video/building-the-agentic-enterprise-secrets-from-early-adopters/",
+      "published_at": "2026-09-17T16:00:00Z",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI Agents",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.8931,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.salesforce.com/?post_type=sf_video&p=95635"
+    },
+    {
+      "title": "OpenTelemetry everywhere: Migrating a metrics platform at scale",
+      "summary": "Why we did this at all For most of the last decade our metrics pipeline ran on gostatsd, the open-source StatsD implementation we maintain. It primarily did two jobs: as sidecar on every host and the...",
+      "source_name": "CNCF",
+      "source_url": "https://www.cncf.io/blog/2026/09/17/opentelemetry-everywhere-migrating-a-metrics-platform-at-scale/",
+      "published_at": "2026-09-17T11:00:00Z",
+      "category": "open_source_foundations",
+      "tags": [
+        "AI",
+        "Data Pipelines",
+        "Open Source",
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8722,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.cncf.io/?p=174542"
+    },
+    {
+      "title": "Google named a Leader in the External Threat Intelligence Service Forrester Wave™",
+      "summary": "At Google, we see firsthand how the speed, scale, and sophistication of cyber threats continue to challenge traditional enterprise defenses. Today’s defenders can’t rely on reactive triage or fragmented data feeds; you require high-fidelity intelligence, deep underground visibility, and actionable context to anticipate adversary moves before an attack unfolds. We are proud to announce that Forrester has named Google a Leader in The Forrester Wave™: External Threat…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/products/identity-security/google-named-a-leader-in-the-external-threat-intelligence-service-forrester-wave/",
+      "published_at": "2026-09-17T17:00:00Z",
+      "category": "cloud_providers",
+      "tags": [
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.8372,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/products/identity-security/google-named-a-leader-in-the-external-threat-intelligence-service-forrester-wave/"
+    },
+    {
+      "title": "How a solo founder runs a five-continent tender platform on AlloyDB and MCP",
+      "summary": "Editor's note: Lucius AI, a tender-intelligence startup covering markets across five continents, runs its entire data platform on AlloyDB for PostgreSQL with a single operator. By migrating semantic search to a ScaNN index and managing database operations through Model Context Protocol (MCP), query latency dropped by 47x while automating day-to-day administrative tasks via MCP. Executive summary Lucius AI runs a global tender platform spanning more than 210,000 tenders…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/products/databases/solo-founder-runs-a-global-tender-platform-on-alloydb-and-mcp/",
+      "published_at": "2026-09-17T16:00:00Z",
+      "category": "cloud_providers",
+      "tags": [
+        "AI",
+        "Databases",
+        "AI Models",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.8331,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/products/databases/solo-founder-runs-a-global-tender-platform-on-alloydb-and-mcp/"
+    },
+    {
+      "title": "What’s new with Google Data Cloud",
+      "summary": "September 14 - September 17 Managed Service for Apache Kafka supports clusters with public Internet access! With Managed Kafka public clusters , you can now produce and consume messages from clients outside your VPC—including your local machine, for faster, frictionless testing. Public clusters unlock use cases like IoT devices, retail storefronts, and telco network towers. Enable public access on new or existing clusters via the Google Cloud console, gcloud CLI, or REST…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/products/data-analytics/whats-new-with-google-data-cloud/",
+      "published_at": "2026-09-17T16:00:00Z",
+      "category": "cloud_providers",
+      "tags": [
+        "AI",
+        "Streaming",
+        "Cloud",
+        "Google Cloud",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.8331,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/products/data-analytics/whats-new-with-google-data-cloud/"
+    },
+    {
+      "title": "How GLM built its own inference infrastructure",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://z.ai/blog/glm-built-its-inference-infrastructure",
+      "published_at": "2026-09-17T08:27:09Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.68,
+      "importance_score": 0.8316,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49737922"
+    },
+    {
+      "title": "One Year of Sponsored Servo Development",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://servo.org/blog/2026/09/15/one-year-of-sponsorship/",
+      "published_at": "2026-09-17T08:13:54Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.6945,
+      "importance_score": 0.8307,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49737849"
+    },
+    {
+      "title": "CCC invites all model citizens to 40C3",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://events.ccc.de/en/2026/09/12/40c3-model-citizens/",
+      "published_at": "2026-09-17T08:03:54Z",
+      "category": "aggregators",
+      "tags": [
+        "AI Models",
+        "Hacker News"
+      ],
+      "confidence_score": 0.6695,
+      "importance_score": 0.83,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49737787"
+    },
+    {
+      "title": "Cute Critters Come to the Cloud: ‘Aniimo’ Launches on GeForce NOW",
+      "summary": "A new creature-catching adventure is ready to stream from the cloud this week. Pawprint Studio’s Aniimo arrives on GeForce NOW at launch, inviting gamers to explore the vibrant continent of Idyll across supported devices. Also this week, 007 First Light receives a path-tracing update on GeForce NOW, alongside a smashing limited-time Deluxe Edition sale on […]",
+      "source_name": "NVIDIA Blog",
+      "source_url": "https://blogs.nvidia.com/blog/geforce-now-thursday-aniimo/",
+      "published_at": "2026-09-17T13:00:55Z",
+      "category": "enterprise_technology",
+      "tags": [
+        "Cloud",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8206,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://blogs.nvidia.com/?p=98338"
+    },
+    {
+      "title": "Keys Not Included: recovering the signing keys for US driver's license barcodes",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://ryan.science/blog/keys-not-included",
+      "published_at": "2026-09-17T03:03:23Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.68,
+      "importance_score": 0.8091,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49735930"
+    },
+    {
+      "title": "Our framework for reporting model misalignment",
+      "summary": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/model-misalignment-reporting-framework",
+      "published_at": "2026-09-16T17:00:00Z",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI",
+        "AI Models",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.97,
+      "importance_score": 0.7973,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/index/model-misalignment-reporting-framework"
+    },
+    {
+      "title": "Helping older adults use AI in everyday life",
+      "summary": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely.",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
+      "published_at": "2026-09-16T16:00:00Z",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.97,
+      "importance_score": 0.7931,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life"
+    },
+    {
+      "title": "Everything Your Agents Need in One Place.",
+      "summary": "",
+      "source_name": "Salesforce News",
+      "source_url": "https://www.salesforce.com/news/linked-content/everything-your-agents-need-in-one-place/",
+      "published_at": "2026-09-16T15:00:29Z",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI Agents",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.8,
+      "importance_score": 0.7889,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.salesforce.com/?post_type=sf_linked_content&p=95426"
+    },
+    {
+      "title": "Why We Post-Trained Our Own Reasoning Model",
+      "summary": "A general model reasons about a refund policy the same way it reasons about a physics problem. So we trained one specifically for enterprise work.",
+      "source_name": "Salesforce News",
+      "source_url": "https://www.salesforce.com/news/stories/why-we-post-trained-our-own-reasoning-model/",
+      "published_at": "2026-09-16T15:00:00Z",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "AI Models",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7889,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.salesforce.com/?p=95606"
+    },
+    {
+      "title": "Reimagining advertising with AI",
+      "summary": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/reimagining-advertising-with-ai",
+      "published_at": "2026-09-16T13:00:00Z",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.97,
+      "importance_score": 0.7806,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/index/reimagining-advertising-with-ai"
+    },
+    {
+      "title": "How to connect AI usage to business value",
+      "summary": "Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes.",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
+      "published_at": "2026-09-16T12:00:00Z",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.97,
+      "importance_score": 0.7764,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/index/how-to-connect-ai-usage-to-business-value"
+    },
+    {
+      "title": "Salesforce Expands Missionforce with Purpose-Built AI and New Partnership with OpenAI to Advance Mission Intelligence",
+      "summary": "Missionforce plans to integrate OpenAI’s frontier models to power government missions New AI capabilities deliver faster service for citizens, less manual work for government teams, and support for always-on missions Salesforce today announced new Missionforce capabilities that give government agencies greater control over how they develop, customize, and deploy AI while streamlining policy execution, enhancing […]",
+      "source_name": "Salesforce News",
+      "source_url": "https://www.salesforce.com/news/stories/missionsforce-expansion-agents-nvidia-openai-partnerships/",
+      "published_at": "2026-09-16T12:00:00Z",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "AI Models",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7764,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.salesforce.com/?p=95560"
+    },
+    {
+      "title": "Salesforce Marks One Year of Missionforce with Strong Growth Across Government and Defense",
+      "summary": "One year ago, Salesforce launched Missionforce, its agentic platform for government that brings trusted AI, data, apps, and cloud technology to the government’s most critical missions. Since then, public sector has become Salesforce’s fastest-growing industry business at scale, with its defense sector business growing 80% year over year as demand accelerates. Today, Salesforce supports some […]",
+      "source_name": "Salesforce News",
+      "source_url": "https://www.salesforce.com/news/stories/missionsforce-one-year-anniversary/",
+      "published_at": "2026-09-16T12:00:00Z",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Cloud",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7764,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.salesforce.com/?p=95565"
+    },
+    {
+      "title": "Live Nation Makes Show Day Easier for Fans With Salesforce’s Agentforce",
+      "summary": "Building on a successful pilot at BottleRock Napa Valley, Agentforce to bring 24/7 fan support to Live Nation concert venues across the U.S.",
+      "source_name": "Salesforce News",
+      "source_url": "https://www.salesforce.com/news/press-releases/2026/09/16/live-nation-agentforce-expansion/",
+      "published_at": "2026-09-16T12:00:00Z",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI Agents",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7764,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.salesforce.com/news/press-releases/2026/09/16/live-nation-agentforce-expansion/"
+    },
+    {
+      "title": "Running OpenBao on Kubernetes with a CloudNativePG PostgreSQL backend",
+      "summary": "Managing infrastructure secrets on Kubernetes needs a backend that is self-healing and free of vendor lock-in, and that is exactly what OpenBao (the Linux Foundation’s open-source fork of HashiCorp Vault) and CloudNativePG give you: an entirely...",
+      "source_name": "CNCF",
+      "source_url": "https://www.cncf.io/blog/2026/09/16/running-openbao-on-kubernetes-with-a-cloudnativepg-postgresql-backend/",
+      "published_at": "2026-09-16T11:30:00Z",
+      "category": "open_source_foundations",
+      "tags": [
+        "Kubernetes",
+        "Cloud",
+        "Open Source",
+        "Databases",
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.87,
+      "importance_score": 0.7743,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.cncf.io/?p=174771"
+    },
+    {
+      "title": "Migrating the GitHub Copilot runtime to Rust, using Copilot",
+      "summary": "A rewrite this size wasn't affordable before agents. Here's what porting the Copilot agent runtime to 800,000 lines of production Rust actually took. The post Migrating the GitHub Copilot runtime to Rust, using Copilot appeared first on The GitHub Blog .",
+      "source_name": "The GitHub Blog",
+      "source_url": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot/",
+      "published_at": "2026-09-17T00:26:43Z",
+      "category": "developer_platforms",
+      "tags": [
+        "AI Agents",
+        "Developer Tools",
+        "Developer Platforms"
+      ],
+      "confidence_score": 0.92,
+      "importance_score": 0.7683,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://github.blog/?p=98713"
+    },
+    {
+      "title": "Rate limits on GitLab.com are changing",
+      "summary": "GitLab.com hosts millions of projects for teams of every size that need a platform they can rely on. Demand is climbing quickly, and we expect platform load to grow several times over this year. Predictable limits are what keep GitLab.com fast for everyone on it, including the automation and agent workloads teams are building on the platform. To hold that as we scale, we're updating how rate limits work. Starting October 19, 2026, rate limits on GitLab.com will align with…",
+      "source_name": "GitLab Blog",
+      "source_url": "https://about.gitlab.com/blog/rate-limit-change-2026/",
+      "published_at": "2026-09-17T00:00:00Z",
+      "category": "developer_platforms",
+      "tags": [
+        "AI Agents",
+        "Developer Platforms"
+      ],
+      "confidence_score": 0.86,
+      "importance_score": 0.7664,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://about.gitlab.com/blog/rate-limit-change-2026/"
+    },
+    {
+      "title": "How workers are unlocking new ways of working",
+      "summary": "New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work.",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/unlocking-new-ways-of-working",
+      "published_at": "2026-09-16T09:00:00Z",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI",
+        "Research",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.97,
+      "importance_score": 0.7639,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/index/unlocking-new-ways-of-working"
+    },
+    {
+      "title": "How to Use AI Agents to Prepare 3D Scenes for Simulation",
+      "summary": "Agentic AI workflows can be used to prepare and validate digital twins for physical AI systems. Agents can inspect 3D scenes, author simulation-relevant data in...",
+      "source_name": "NVIDIA Developer Blog",
+      "source_url": "https://developer.nvidia.com/blog/how-to-use-ai-agents-to-prepare-3d-scenes-for-simulation/",
+      "published_at": "2026-09-16T23:20:33Z",
+      "category": "mlops",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Mlops"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.7637,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://developer.nvidia.com/blog/?p=122626"
+    },
+    {
+      "title": "Kubernetes v1.37: Hardening Container Storage with Bind Mount Options and EmptyDir Permissions",
+      "summary": "Kubernetes v1.37 brings important storage security features: emptyDir permission modes and bind mount options. They help application programmers and security professionals implement rigorous security policies, for example, prohibiting deletion of files across containers or execution of arbitrary binaries from writable volumes, directly in Kubernetes without any complicated circumvention. Linux storage and permission fundamentals Before diving into the new Kubernetes…",
+      "source_name": "Kubernetes Blog",
+      "source_url": "https://kubernetes.io/blog/2026/09/16/kubernetes-v1-37-hardening-container-storage/",
+      "published_at": "2026-09-16T18:30:00Z",
+      "category": "open_source_foundations",
+      "tags": [
+        "AI",
+        "Kubernetes",
+        "Security",
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.92,
+      "importance_score": 0.7635,
+      "source_type": "release_notes",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://kubernetes.io/blog/2026/09/16/kubernetes-v1-37-hardening-container-storage/"
+    },
+    {
+      "title": "Base Labs launches an open-weight AI safety partnership with Hugging Face and Goodfire",
+      "summary": "Base Labs, the research group Baseten spun up earlier this year, will develop and publish methods for training and monitoring open models.",
+      "source_name": "TechCrunch - AI",
+      "source_url": "https://techcrunch.com/2026/09/17/base-labs-launches-an-open-weight-ai-safety-partnership-with-hugging-face-and-goodfire/",
+      "published_at": "2026-09-17T17:15:59Z",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "AI Models",
+        "Research",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7583,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://techcrunch.com/?p=3165579"
+    },
+    {
+      "title": "Pinterest teases a new ‘Restyle’ feature that lets you redesign your room with AI",
+      "summary": "Pinterest is testing Restyle, a new AI-powered feature that lets users visualize furniture, decor, lighting and other changes in photos of their own rooms — potentially helping turn saved inspiration into purchases.",
+      "source_name": "TechCrunch - AI",
+      "source_url": "https://techcrunch.com/2026/09/17/pinterest-teases-a-new-restyle-feature-that-lets-you-redesign-your-room-with-ai/",
+      "published_at": "2026-09-17T17:15:00Z",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7583,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://techcrunch.com/?p=3165515"
+    },
+    {
+      "title": "Instacart should be worried about DoorDash and Uber's new deal",
+      "summary": "Uber Eats and DoorDash expand partnerships with Costco, challenging Instacart's dominance in the same-day grocery delivery sector.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/costco-uber-doordash-expands-delivery-instacart-competition-2026-9",
+      "published_at": "2026-09-17T16:58:23Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7571,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/costco-uber-doordash-expands-delivery-instacart-competition-2026-9"
+    },
+    {
+      "title": "Sydney Sweeney and tradwives are different sides of the same coin",
+      "summary": "PR strategists say stoking and capitalizing on outrage is part of their marketing playbook.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/sydney-sweeney-tradwives-are-different-sides-of-the-same-coin-2026-9",
+      "published_at": "2026-09-17T16:32:05Z",
+      "category": "mainstream_press",
+      "tags": [
+        "APIs",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7553,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/sydney-sweeney-tradwives-are-different-sides-of-the-same-coin-2026-9"
+    },
+    {
+      "title": "Florida is no longer the best state to retire. See why Wyoming is now the place to spend your golden years.",
+      "summary": "Wyoming narrowly took the top spot, largely because of its affordability — though its limited access to healthcare and climate are drawbacks.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/wyoming-beat-florida-best-retirement-state-2026-9",
+      "published_at": "2026-09-17T16:18:51Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7544,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/wyoming-beat-florida-best-retirement-state-2026-9"
+    },
+    {
+      "title": "The guy who wrote the surprisingly sexual toy pumpkin song wants you to know it wasn't AI",
+      "summary": "Parents are upset about seductive lyrics in \"Jabberin' Jack,\" a pumpkin toy. We talked to the song's writer, Peter McEvilley, about the controversy.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/jabberin-jack-pumpkin-song-writer-interview-2026-9",
+      "published_at": "2026-09-17T16:02:18Z",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7532,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/jabberin-jack-pumpkin-song-writer-interview-2026-9"
+    },
+    {
+      "title": "How televangelists actually work, according to a pastor",
+      "summary": "Costi Hinn is a pastor and author known for publicly criticizing the \"prosperity gospel\" televangelism model popularized by his uncle, Benny Hinn.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/how-millionaire-televangelists-actually-work-according-to-a-pastor-2026-9",
+      "published_at": "2026-09-17T16:00:01Z",
+      "category": "mainstream_press",
+      "tags": [
+        "AI Models",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7531,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/how-millionaire-televangelists-actually-work-according-to-a-pastor-2026-9"
+    },
+    {
+      "title": "TensorRT Edge-LLM Completes the MLPerf Edge Agentic Benchmark 6.4x Faster on Jetson AGX Thor",
+      "summary": "AI agents are moving from cloud data centers to vehicles, robots, and other edge devices. Unlike a chatbot that answers a single prompt, an agent works through...",
+      "source_name": "NVIDIA Developer Blog",
+      "source_url": "https://developer.nvidia.com/blog/tensorrt-edge-llm-completes-the-mlperf-edge-agentic-benchmark-6-4x-faster-on-jetson-agx-thor/",
+      "published_at": "2026-09-16T20:37:07Z",
+      "category": "mlops",
+      "tags": [
+        "AI",
+        "LLMs",
+        "AI Agents",
+        "Cloud",
+        "Mlops"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.7523,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://developer.nvidia.com/blog/?p=122604"
+    },
+    {
+      "title": "Codie Sanchez has an 'intense' approach to meetings. These are the 3 rules the entrepreneur and creator swears by.",
+      "summary": "The founder of Contrarian Thinking and author of the new book \"Own or Be Owned\" encourages people to leave a meeting at any time.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/codie-sanchez-contrarian-thinking-explains-her-intense-approach-to-meetings-2026-9",
+      "published_at": "2026-09-17T15:47:27Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7522,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/codie-sanchez-contrarian-thinking-explains-her-intense-approach-to-meetings-2026-9"
+    },
+    {
+      "title": "Why Macklemore was dropped from Ed Sheeran's tour — and why fans are asking for refunds",
+      "summary": "Sheeran's tour was hit by controversy after Macklemore's pro-Palestine comments led to his removal. Now the major players are pledging donations.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/ed-sheeran-loop-tour-macklemore-controversy-explained-2026-9",
+      "published_at": "2026-09-17T15:46:14Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7521,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/ed-sheeran-loop-tour-macklemore-controversy-explained-2026-9"
+    },
+    {
+      "title": "AI is fueling 'off-the-charts' anxiety among tech workers, says Menlo Ventures partner",
+      "summary": "AI is heightening tech workers' fears about jobs, money, housing, and their futures, Menlo Ventures partner Deedy Das said.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/ai-anxiety-tech-workers-silicon-valley-career-prospects-menlo-ventures-2026-9",
+      "published_at": "2026-09-17T15:36:01Z",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7514,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/ai-anxiety-tech-workers-silicon-valley-career-prospects-menlo-ventures-2026-9"
+    },
+    {
+      "title": "On ‘Cupertino,’ Creators of the ‘The Good Wife’ Go to Silicon Valley",
+      "summary": "The prolific producers Michelle and Robert King target tech bigwigs in their newest show. “They’re really the stupidest and dumbest people,” Robert King said.",
+      "source_name": "The New York Times - Technology",
+      "source_url": "https://www.nytimes.com/2026/09/17/arts/television/cupertino-robert-and-michelle-king.html",
+      "published_at": "2026-09-17T15:34:59Z",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7513,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.nytimes.com/2026/09/17/arts/television/cupertino-robert-and-michelle-king.html"
+    },
+    {
+      "title": "London property manager breach may have exposed bank details and lockbox codes",
+      "summary": "City Relay says intruders accessed its Metabase Cloud instance twice and extracted customer data",
+      "source_name": "The Register",
+      "source_url": "https://www.theregister.com/security/2026/09/17/london-property-manager-breach-may-have-exposed-bank-details-and-lockbox-codes/5297232",
+      "published_at": "2026-09-17T15:30:00Z",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "Cloud",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.751,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.theregister.com/a/5297232"
+    },
+    {
+      "title": "We stayed at an all-inclusive family resort in Europe. It wasn't the break I expected, but I'd do it again.",
+      "summary": "Our stay at Almhof Family Resort and Spa, an all-inclusive family resort in Europe, included free childcare and more perks. Some things surprised us.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/family-stayed-all-inclusive-resort-europe-mostly-worth-it-surprises-2026-9",
+      "published_at": "2026-09-17T15:22:01Z",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7504,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/family-stayed-all-inclusive-resort-europe-mostly-worth-it-surprises-2026-9"
+    },
+    {
+      "title": "Microsoft configuration change leaves SharePoint pages drawing a blank",
+      "summary": "Validation? Apparently that comes after deployment",
+      "source_name": "The Register",
+      "source_url": "https://www.theregister.com/saas/2026/09/17/microsoft-configuration-change-leaves-sharepoint-pages-drawing-a-blank/5297198",
+      "published_at": "2026-09-17T15:17:00Z",
+      "category": "enterprise_technology",
+      "tags": [
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7501,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.theregister.com/a/5297198"
+    },
+    {
+      "title": "My husband is an NFL star. I still don't understand the rules of the game.",
+      "summary": "Kandra Mathieu married NFL star Tyrann Mathieu despite knowing little about football. His retirement has changed their family life.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/tyrann-mathieu-wife-kandra-nfl-retirement-family-life-2026-9",
+      "published_at": "2026-09-17T15:18:01Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7501,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/tyrann-mathieu-wife-kandra-nfl-retirement-family-life-2026-9"
+    },
+    {
+      "title": "The 25 colleges where students study the most hours a week, ranked",
+      "summary": "Most college students all over the country are studying hard, but some are putting in more hours — and it's not just Ivy League students.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/colleges-where-students-study-the-most",
+      "published_at": "2026-09-17T15:12:08Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7497,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/colleges-where-students-study-the-most"
+    },
+    {
+      "title": "NATO is shifting from air policing to a new ‘360-degree’ defense as drone and missile threats grow, official says",
+      "summary": "NATO's new approach to its air defense operations comes amid a sharp rise in Russian drone incursions into allied airspace this year.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/nato-shifts-from-air-policing-new-defense-approach-threats-grow-2026-9",
+      "published_at": "2026-09-17T15:01:25Z",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.749,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/nato-shifts-from-air-policing-new-defense-approach-threats-grow-2026-9"
+    },
+    {
+      "title": "Cat Frazier, Whose Retro GIFs Celebrated a Weirder Internet, Dies at 35",
+      "summary": "She found a future in the internet’s past with a Tumblr blog of animated texts, a revolt against the clean minimalism of contemporary design aesthetics.",
+      "source_name": "The New York Times - Technology",
+      "source_url": "https://www.nytimes.com/2026/09/16/arts/catherine-frazier-dead.html",
+      "published_at": "2026-09-17T14:57:37Z",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7487,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.nytimes.com/2026/09/16/arts/catherine-frazier-dead.html"
+    },
+    {
+      "title": "Grassroots coalition asks politicians to choose voters over Big AI's $140M machine",
+      "summary": "QuitGPT-led pledge targets Leading the Future's push for lighter regulation ahead of the midterms",
+      "source_name": "The Register",
+      "source_url": "https://www.theregister.com/ai-and-ml/2026/09/17/grassroots-coalition-asks-politicians-to-choose-voters-over-big-ais-140m-machine/5297186",
+      "published_at": "2026-09-17T14:29:00Z",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7467,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.theregister.com/a/5297186"
+    }
+  ]
+}
