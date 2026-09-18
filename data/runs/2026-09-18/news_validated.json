@@ -1,0 +1,811 @@
+{
+  "post_date": "2026-09-18",
+  "sources_checked": 48,
+  "count": 44,
+  "items": [
+    {
+      "title": "New experts join Google’s AI & Economy team",
+      "summary": "Text \"AI & Economy Research Program\" all over a green grid background, with the Google G logo in the bottom right corner",
+      "source_name": "Google AI (The Keyword)",
+      "source_url": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/",
+      "published_at": "2026-09-18T14:00:00Z",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI",
+        "Research",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.887,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/"
+    },
+    {
+      "title": "Co-creating the future of fashion with Google",
+      "summary": "Jane Wade and Sergio Hudson",
+      "source_name": "Google AI (The Keyword)",
+      "source_url": "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week/",
+      "published_at": "2026-09-18T13:00:00Z",
+      "category": "ai_model_companies",
+      "tags": [
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.8828,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week/"
+    },
+    {
+      "title": "Cloudflare Quick Tunnels",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://try.cloudflare.com/",
+      "published_at": "2026-09-18T14:18:41Z",
+      "category": "aggregators",
+      "tags": [
+        "Cloud",
+        "Hacker News"
+      ],
+      "confidence_score": 0.6485,
+      "importance_score": 0.8546,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49754785"
+    },
+    {
+      "title": "I don't like passkeys",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://hawksley.dev/blog/i-dont-like-passkeys",
+      "published_at": "2026-09-18T12:06:50Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.8491,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49753211"
+    },
+    {
+      "title": "Warren Buffett Steps Down as Berkshire Chairman, Names Son to Replace Him",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.nytimes.com/2026/09/18/business/warren-buffett-berkshire-chairman.html",
+      "published_at": "2026-09-18T11:01:44Z",
+      "category": "aggregators",
+      "tags": [
+        "AI",
+        "Hacker News"
+      ],
+      "confidence_score": 0.659,
+      "importance_score": 0.8446,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49752614"
+    },
+    {
+      "title": "Microsoft exec called AI scraping 'the largest theft of labor in human history'",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
+      "published_at": "2026-09-18T09:45:07Z",
+      "category": "aggregators",
+      "tags": [
+        "AI",
+        "APIs",
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.8393,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49752056"
+    },
+    {
+      "title": "Announcing Native BM25 Ranking in AlloyDB and Cloud SQL",
+      "summary": "Vector search is a critical component of generative AI, retrieval-augmented generation (RAG), and data agent architectures, but sometimes vector search alone isn't enough. While vector embeddings are incredible at understanding conceptual meaning, they stumble on specific alphanumeric IDs and exact product SKU numbers. To build truly robust search and AI applications, you may need the combination of semantic vector search and traditional exact keyword full-text search — what…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/products/databases/native-bm25-search-in-alloydb-and-cloud-sql/",
+      "published_at": "2026-09-18T16:30:00Z",
+      "category": "cloud_providers",
+      "tags": [
+        "AI",
+        "GenAI",
+        "AI Agents",
+        "Cloud",
+        "Vector Databases",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.8374,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/products/databases/native-bm25-search-in-alloydb-and-cloud-sql/"
+    },
+    {
+      "title": "Changing the game: How Google uses agentic AI to secure hundreds of millions of lines of code",
+      "summary": "AI is accelerating software development at an unprecedented pace. But as code generation scales, so do the challenges of securing the code, especially emerging AI-based vulnerability exploitations. To meet these challenges, the Google AI and Infrastructure team is transforming how we approach security. In this article, we discuss new AI-native agentic methods that we’ve developed that systematically embed high-precision, pervasive vulnerability scanning and patching directly…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/topics/systems/using-ai-agents-to-secure-google-infrastructure/",
+      "published_at": "2026-09-18T16:00:00Z",
+      "category": "cloud_providers",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Security",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.8353,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/topics/systems/using-ai-agents-to-secure-google-infrastructure/"
+    },
+    {
+      "title": "Reimagining service delivery in the agentic era with Google Public Sector",
+      "summary": "State and local governments are driven by a shared mission to provide responsive, equitable, and accessible services. However, achieving this goal is often hindered by legacy technical debt, disconnected data, and heavy administrative burdens that slow down mission delivery. This systemic fragmentation creates costly operational bottlenecks across the public sector, including: Legacy data silos: Crucial caseworker information frequently resides in isolated repositories…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/topics/public-sector/reimagining-service-delivery-in-the-agentic-era-with-google-public-sector/",
+      "published_at": "2026-09-18T16:00:00Z",
+      "category": "cloud_providers",
+      "tags": [
+        "AI Agents",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.8353,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/topics/public-sector/reimagining-service-delivery-in-the-agentic-era-with-google-public-sector/"
+    },
+    {
+      "title": "The DevFest Community Workshop Experience: Building Real Agents Together",
+      "summary": "This week we kicked off the DevFest season in North America at Google Hudson Square in New York City with 80 engineers packed into the room. Typical technical workshops hand you a finished repo, tell you to blindly paste blocks of code into your terminal, and hope nothing crashes. You walk away with green checkmarks, but your brain stays on autopilot. We've introduced a completely different experience called Workbench . Workbench focuses on understanding core ideas and…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/topics/developers-practitioners/the-devfest-community-workshop-experience-building-real-agents-together/",
+      "published_at": "2026-09-18T16:00:00Z",
+      "category": "cloud_providers",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.8353,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/topics/developers-practitioners/the-devfest-community-workshop-experience-building-real-agents-together/"
+    },
+    {
+      "title": "How to upskill enterprise AI builders by using daily micro habits",
+      "summary": "As enterprises invest in generative AI, tech leaders keep seeing the same pattern: Developers test AI tools for a week, hit setup problems, and then drift back to the backlog. Nothing ships. The real gap is enablement. In this landmark Harvard Business Review article , Josh Bersin and Marc Zao-Sanders noted that knowledge workers carve out just five minutes a day for formal learning. Most enterprise training programs still lean on week-long classroom bootcamps, multi-week…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/topics/consulting/upskill-your-ai-using-daily-micro-habits/",
+      "published_at": "2026-09-18T16:00:00Z",
+      "category": "cloud_providers",
+      "tags": [
+        "AI",
+        "GenAI",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.8353,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/topics/consulting/upskill-your-ai-using-daily-micro-habits/"
+    },
+    {
+      "title": "Accelerating the borderless Lakehouse: Announcing preview of cross-cloud caching",
+      "summary": "Today, we are excited to announce enhancements to the borderless Lakehouse , our answer to how data engineers, data scientists, and increasingly, AI agents, can query governed data directly where it lives. To reason accurately and automate complex enterprise workflows, agents and data consumers of all types need fast, unified access to an organization's complete data estate, joining customer records, transaction logs, and operational telemetry across clouds. However, modern…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/products/data-analytics/borderless-lakehouse-cross-cloud-caching-and-connections/",
+      "published_at": "2026-09-18T16:00:00Z",
+      "category": "cloud_providers",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Lakehouse",
+        "Cloud",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.8353,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/products/data-analytics/borderless-lakehouse-cross-cloud-caching-and-connections/"
+    },
+    {
+      "title": "What’s new with Google Cloud",
+      "summary": "Want to know the latest from Google Cloud? Find it here in one handy location. Check back regularly for our newest updates, announcements, resources, events, learning opportunities, and more. Tip : Not sure where to find what you’re looking for on the Google Cloud blog? Start here: Google Cloud blog 101: Full list of topics, links, and resources . aside_block <ListValue: []> Sept 14 - Sept 18 Storage Intelligence Advisor for Google Cloud Storage is now GA Google Cloud…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
+      "published_at": "2026-09-18T16:00:00Z",
+      "category": "cloud_providers",
+      "tags": [
+        "Cloud",
+        "Google Cloud",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.8353,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/"
+    },
+    {
+      "title": "Should you read the code, is RAG dead, and did Skills kill MCP?",
+      "summary": "We dive into these questions and other AI hot takes on the latest episode of the GitHub Podcast. The post Should you read the code, is RAG dead, and did Skills kill MCP? appeared first on The GitHub Blog .",
+      "source_name": "The GitHub Blog",
+      "source_url": "https://github.blog/ai-and-ml/should-you-read-the-code-is-rag-dead-and-did-skills-kill-mcp/",
+      "published_at": "2026-09-18T15:00:00Z",
+      "category": "developer_platforms",
+      "tags": [
+        "AI",
+        "Developer Tools",
+        "Developer Platforms"
+      ],
+      "confidence_score": 0.92,
+      "importance_score": 0.8311,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://github.blog/?p=98893"
+    },
+    {
+      "title": "Jemalloc 5.4.0",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://github.com/jemalloc/jemalloc/releases/tag/5.4.0",
+      "published_at": "2026-09-18T04:20:24Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.693,
+      "importance_score": 0.8167,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49750152"
+    },
+    {
+      "title": "The scourge of x86 emulation",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://fex-emu.com/Scourge-of-emulation/",
+      "published_at": "2026-09-18T04:09:48Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.671,
+      "importance_score": 0.816,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49750094"
+    },
+    {
+      "title": "Making global data easier to explore",
+      "summary": "UN System Data Commons Data webpage",
+      "source_name": "Google AI (The Keyword)",
+      "source_url": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/",
+      "published_at": "2026-09-17T20:00:00Z",
+      "category": "ai_model_companies",
+      "tags": [
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.812,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/"
+    },
+    {
+      "title": "A heap overflow and SSO misconfiguration to compromise OpenAI internal repos",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.hacktron.ai/blog/hacking-openai",
+      "published_at": "2026-09-18T02:47:24Z",
+      "category": "aggregators",
+      "tags": [
+        "AI",
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.8103,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49749656"
+    },
+    {
+      "title": "An Empirical Study of Harness Design for Coding Agents",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://arxiv.org/abs/2609.20804",
+      "published_at": "2026-09-18T13:06:30Z",
+      "category": "aggregators",
+      "tags": [
+        "AI Agents",
+        "Hacker News"
+      ],
+      "confidence_score": 0.632,
+      "importance_score": 0.8083,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49753878"
+    },
+    {
+      "title": "Futures Issue 5: Agentic Enterprise Futures",
+      "summary": "",
+      "source_name": "Salesforce News",
+      "source_url": "https://www.salesforce.com/news/linked-content/futures-issue-5-agentic-enterprise-futures/",
+      "published_at": "2026-09-17T19:00:15Z",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI Agents",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.8078,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.salesforce.com/?post_type=sf_linked_content&p=95682"
+    },
+    {
+      "title": "Introducing the Life Sciences Verification Program",
+      "summary": "Introducing the Life Sciences Verification Program anthropic.com",
+      "source_name": "Anthropic",
+      "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1tdEtSOC1PRVFaSWU5TmlaMEtiZjRMdDdJLWg1bVIyUzlUTUV0UHZVa1Z3Y2JYeVVVLVEyeGZIQnVHR01tdC04X2x5Vk5LNDRKa3VyWnB2Vks0U3JpZDNNemZxczNDOFBNeGxrQnViOFNJQVU?oc=5",
+      "published_at": "2026-09-17T17:34:30Z",
+      "category": "ai_model_companies",
+      "tags": [
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.99,
+      "importance_score": 0.8019,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "CBMic0FVX3lxTE1tdEtSOC1PRVFaSWU5TmlaMEtiZjRMdDdJLWg1bVIyUzlUTUV0UHZVa1Z3Y2JYeVVVLVEyeGZIQnVHR01tdC04X2x5Vk5LNDRKa3VyWnB2Vks0U3JpZDNNemZxczNDOFBNeGxrQnViOFNJQVU"
+    },
+    {
+      "title": "Building the Agentic Enterprise: Secrets from Early Adopters",
+      "summary": "Salesforce customers are at the forefront of the agentic revolution, and they’re already seeing real-world value from it. Early adopters like Box and Engine are finding new efficiencies and improving the experiences of their own customers at scale. But these kinds of tech shifts don’t happen easily, and there are a lot of learning moments […]",
+      "source_name": "Salesforce News",
+      "source_url": "https://www.salesforce.com/news/stories/video/building-the-agentic-enterprise-secrets-from-early-adopters/",
+      "published_at": "2026-09-17T16:00:00Z",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI Agents",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7953,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.salesforce.com/?post_type=sf_video&p=95635"
+    },
+    {
+      "title": "Qwen 3.8 Omni Flash",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://qwen.ai/blog?id=qwen3.8-omni-flash",
+      "published_at": "2026-09-17T23:05:48Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7949,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49747925"
+    },
+    {
+      "title": "How to Write with an LLM",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
+      "published_at": "2026-09-17T21:48:38Z",
+      "category": "aggregators",
+      "tags": [
+        "LLMs",
+        "Hacker News"
+      ],
+      "confidence_score": 0.684,
+      "importance_score": 0.7895,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49747070"
+    },
+    {
+      "title": "Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://prismml.com/news/bonsai-2-27b",
+      "published_at": "2026-09-17T21:13:31Z",
+      "category": "aggregators",
+      "tags": [
+        "AI",
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7871,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49746618"
+    },
+    {
+      "title": "How Cooley is accelerating IPO work with ChatGPT",
+      "summary": "Cooley built GO Public with ChatGPT Work to bring intelligence to the IPO process, helping lawyers surface issues earlier and focus judgment where it matters most.",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/cooley-gopublic",
+      "published_at": "2026-09-17T12:00:00Z",
+      "category": "ai_model_companies",
+      "tags": [
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.97,
+      "importance_score": 0.7787,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/index/cooley-gopublic"
+    },
+    {
+      "title": "OpenTelemetry everywhere: Migrating a metrics platform at scale",
+      "summary": "Why we did this at all For most of the last decade our metrics pipeline ran on gostatsd, the open-source StatsD implementation we maintain. It primarily did two jobs: as sidecar on every host and the...",
+      "source_name": "CNCF",
+      "source_url": "https://www.cncf.io/blog/2026/09/17/opentelemetry-everywhere-migrating-a-metrics-platform-at-scale/",
+      "published_at": "2026-09-17T11:00:00Z",
+      "category": "open_source_foundations",
+      "tags": [
+        "AI",
+        "Data Pipelines",
+        "Open Source",
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.87,
+      "importance_score": 0.7745,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.cncf.io/?p=174542"
+    },
+    {
+      "title": "Automattic’s 33-Hour Coup, and can AI labs police themselves?",
+      "summary": "A week after an Anthropic researcher’s doomsday warning rattled the AI world, the company’s CEO Dario Amodei has outlined his plan to “pace the frontier” of AI development. The proposal leans on independent safety evaluators and coordination between AI labs in democratic countries, and it’s already picked up some industry support, along with some pointed pushback from Nvidia’s Jensen Huang. On […]",
+      "source_name": "TechCrunch - AI",
+      "source_url": "https://techcrunch.com/podcast/automattics-33-hour-coup-and-can-ai-labs-police-themselves/",
+      "published_at": "2026-09-18T17:06:32Z",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "GPUs",
+        "Research",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7599,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://techcrunch.com/?post_type=tc_podcast&p=3166233"
+    },
+    {
+      "title": "North Korea's fake job interviews infected 30,000 devices",
+      "summary": "WaterPlum recruiters used bogus coding tests to backdoor jobseekers and raid more than 7,000 crypto wallets",
+      "source_name": "The Register",
+      "source_url": "https://www.theregister.com/security/2026/09/18/north-koreas-fake-job-interviews-infected-30000-devices/5297461",
+      "published_at": "2026-09-18T16:53:00Z",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.759,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.theregister.com/a/5297461"
+    },
+    {
+      "title": "Ukraine is testing homemade remote-controlled buggies for the first time to keep troops supplied this winter",
+      "summary": "Kyiv hopes the locally built vehicles can overcome the winter challenges that slow many ground robots.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/ukraine-tests-homemade-remote-controlled-buggies-for-winter-logistics-2026-9",
+      "published_at": "2026-09-18T16:41:32Z",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7582,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/ukraine-tests-homemade-remote-controlled-buggies-for-winter-logistics-2026-9"
+    },
+    {
+      "title": "Manus seeks $4B valuation in new $500M fundraise as it resumes independent ops",
+      "summary": "Manus, which earlier this year had to break off a merger with Meta, is in discussions to raise $500M at a $4B valuation.",
+      "source_name": "TechCrunch - AI",
+      "source_url": "https://techcrunch.com/2026/09/18/manus-seeks-4b-valuation-in-new-500m-fundraise-as-it-resumes-independent-ops/",
+      "published_at": "2026-09-18T16:35:49Z",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7578,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://techcrunch.com/?p=3166149"
+    },
+    {
+      "title": "New low-cost burstable Amazon EC2 T8i instances are generally available",
+      "summary": "AWS introduces new low-cost burstable Amazon EC2 T8i instances powered by custom sixth generation Intel Xeon Scalable Processors (Granite Rapids), available only on AWS. T8i instances are among the lowest-cost EC2 instances and deliver up to 30% better price performance over previous generation T3 instances.",
+      "source_name": "AWS News Blog",
+      "source_url": "https://aws.amazon.com/blogs/aws/new-low-cost-burstable-amazon-ec2-t8i-instances-are-generally-available/",
+      "published_at": "2026-09-17T21:11:48Z",
+      "category": "cloud_providers",
+      "tags": [
+        "AI",
+        "AWS",
+        "APIs",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.757,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "e54808ff9073a2b426d2baf919a0236eb2f63e40"
+    },
+    {
+      "title": "FBI: Fake cop and government impersonation scams cost victims $1.6B",
+      "summary": "AI, fake uniforms, and mock offices help crooks sell the con",
+      "source_name": "The Register",
+      "source_url": "https://www.theregister.com/cyber-crime/2026/09/18/fbi-fake-cop-and-government-impersonation-scams-cost-victims-16b/5297499",
+      "published_at": "2026-09-18T16:19:27Z",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7567,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.theregister.com/a/5297499"
+    },
+    {
+      "title": "These 5 states are home to America's richest billionaires",
+      "summary": "Forbes released its annual list determining the 400 wealthiest people in the US. More than half of them live in these five states.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/the-states-with-the-highest-number-of-america-billionaires-2026-9",
+      "published_at": "2026-09-18T16:20:28Z",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7567,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/the-states-with-the-highest-number-of-america-billionaires-2026-9"
+    },
+    {
+      "title": "Video Friday: Two Birotors Make a Quadrotor",
+      "summary": "Your weekly selection of awesome robot videos includes robots building robots, Lunabotics challenge competitors, and more",
+      "source_name": "IEEE Spectrum",
+      "source_url": "https://spectrum.ieee.org/video-friday-quadrotor-from-birotor",
+      "published_at": "2026-09-18T16:01:05Z",
+      "category": "research_feeds",
+      "tags": [
+        "Research Feeds"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.7554,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://spectrum.ieee.org/video-friday-quadrotor-from-birotor"
+    },
+    {
+      "title": "An Undercover Google Analyst Infiltrated a Notorious Supply Chain Hacking Gang",
+      "summary": "TeamPCP pulled off the worst-ever software supply chain hacking spree and breached thousands of companies. Now Google’s threat intelligence group says it had a mole inside the hackers’ inner circle.",
+      "source_name": "Wired",
+      "source_url": "https://www.wired.com/story/an-undercover-google-analyst-infiltrated-a-notorious-supply-chain-hacking-gang/",
+      "published_at": "2026-09-18T16:00:00Z",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7553,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "6aa95109a7ffd397f96fea60"
+    },
+    {
+      "title": "The web was built for people. A tsunami of AI agents is changing that fast.",
+      "summary": "AI agents are rapidly becoming the internet's biggest users, reshaping websites, online services, and digital commerce.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/ai-agents-change-how-web-internet-works-2026-9",
+      "published_at": "2026-09-18T15:58:26Z",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "APIs",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7552,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/ai-agents-change-how-web-internet-works-2026-9"
+    },
+    {
+      "title": "The Pope's AI advisor says the technology can be worse for kids than cocaine",
+      "summary": "Paolo Benanti, a Franciscan friar and theologian, told the BBC that AI can produce \"emotional bending\" that affects young people worse than addiction.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/pope-advisor-ai-can-be-worse-for-kids-than-cocaine-2026-9",
+      "published_at": "2026-09-18T15:56:18Z",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.755,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/pope-advisor-ai-can-be-worse-for-kids-than-cocaine-2026-9"
+    },
+    {
+      "title": "As Big Tech Takes Over Hollywood, the Picture Onscreen Gets Darker",
+      "summary": "“The Social Reckoning” and other movies reflect growing discontent with Silicon Valley founders. But such films may be at the mercy of the companies themselves.",
+      "source_name": "The New York Times - Technology",
+      "source_url": "https://www.nytimes.com/2026/09/18/movies/tech-founder-movies-hollywood.html",
+      "published_at": "2026-09-18T15:30:28Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7533,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.nytimes.com/2026/09/18/movies/tech-founder-movies-hollywood.html"
+    },
+    {
+      "title": "Open or closed AI? Nvidia’s Nader Khalil and Sydney Sykes take on one of the decisions shaping next-gen startups at TechCrunch Disrupt 2026",
+      "summary": "Nvidia's Nader Khalil and Sydney Sykes discuss one of the decisions shaping next-gen startups on the Builders Stage at TechCrunch Disrupt 2026.",
+      "source_name": "TechCrunch - AI",
+      "source_url": "https://techcrunch.com/2026/09/18/open-or-closed-ai-nvidias-nader-khalil-and-sydney-sykes-take-on-one-of-the-decisions-shaping-next-gen-startups-at-techcrunch-disrupt-2026/",
+      "published_at": "2026-09-18T15:30:00Z",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "GPUs",
+        "APIs",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7532,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://techcrunch.com/?p=3165970"
+    },
+    {
+      "title": "Admins, you've been warned: The clock is ticking on Edge's IE Mode",
+      "summary": "Legacy web apps have guaranteed shelter only through 2029, and Redmond warns modernization can take years",
+      "source_name": "The Register",
+      "source_url": "https://www.theregister.com/software/2026/09/18/admins-youve-been-warned-the-clock-is-ticking-on-edges-ie-mode/5297408",
+      "published_at": "2026-09-18T15:29:00Z",
+      "category": "enterprise_technology",
+      "tags": [
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7532,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.theregister.com/a/5297408"
+    },
+    {
+      "title": "Photos show people lining up around the world for the iPhone 18 Pro launch",
+      "summary": "Apple's new CEO, John Ternus, visited the NYC flagship store for the iPhone 18 Pro launch, an appearance his predecessor, Tim Cook, has long made.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/apple-iphone-18-launch-day-store-lines-photos-2026-9",
+      "published_at": "2026-09-18T15:25:40Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7529,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/apple-iphone-18-launch-day-store-lines-photos-2026-9"
+    },
+    {
+      "title": "Transparent Tribe Deploys New Rust Backdoor Using Private GitHub Repositories for C2",
+      "summary": "The Pakistan-aligned threat group tracked as Transparent Tribe (aka APT36 and Earth Karkaddan) has been attributed to a fresh set of cyber attacks targeting government and defense entities in India and Afghanistan. The attacks, per Zscaler ThreatLabz, involve the use of previously undocumented tools called RUSTYSHADE, RUSTYMOVE, PSNATCH, and BASHNATCH. The activity has been codenamed Operation",
+      "source_name": "The Hacker News",
+      "source_url": "https://thehackernews.com/2026/09/transparent-tribe-deploys-new-rust.html",
+      "published_at": "2026-09-18T15:24:16Z",
+      "category": "cybersecurity",
+      "tags": [
+        "Developer Tools",
+        "Cybersecurity"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7528,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://thehackernews.com/2026/09/transparent-tribe-deploys-new-rust.html"
+    },
+    {
+      "title": "I'm a New Yorker who spent 2 days in Scottsdale and Paradise Valley. 8 things surprised me about Arizona's wealth hub.",
+      "summary": "I visited Scottsdale and Paradise Valley, Arizona. I was surprised by walkable neighborhoods and luxury estates in the desert hills.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/surprising-things-new-yorker-found-visiting-scottsdale-paradise-valley-arizona-2024-5",
+      "published_at": "2026-09-18T15:24:07Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7528,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/surprising-things-new-yorker-found-visiting-scottsdale-paradise-valley-arizona-2024-5"
+    }
+  ]
+}
