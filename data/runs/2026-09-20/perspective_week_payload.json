@@ -1,0 +1,132 @@
+{
+  "post_date": "2026-09-20",
+  "week_start": "2026-09-14",
+  "week_label": "September 14–20, 2026",
+  "theme": "AI",
+  "related_themes": [
+    "Cloud Providers",
+    "Ai Model Companies",
+    "Cloud",
+    "AI Agents",
+    "AI Models"
+  ],
+  "tag_counts": [
+    {
+      "tag": "AI",
+      "count": 35
+    },
+    {
+      "tag": "Cloud Providers",
+      "count": 17
+    },
+    {
+      "tag": "Ai Model Companies",
+      "count": 16
+    },
+    {
+      "tag": "Cloud",
+      "count": 12
+    },
+    {
+      "tag": "AI Agents",
+      "count": 12
+    },
+    {
+      "tag": "AI Models",
+      "count": 10
+    }
+  ],
+  "stories_reviewed": 77,
+  "runs_used": [
+    "2026-09-14",
+    "2026-09-15",
+    "2026-09-16",
+    "2026-09-17",
+    "2026-09-18",
+    "2026-09-19",
+    "2026-09-20"
+  ],
+  "sources_count": 15,
+  "citations": [
+    {
+      "date": "2026-09-16",
+      "title": "Helping older adults use AI in everyday life",
+      "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
+      "source_name": "OpenAI",
+      "tags": [
+        "AI",
+        "Ai Model Companies"
+      ],
+      "summary": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely.",
+      "why": "Signals how frontier-model capabilities and access may shift for AI engineers and product teams.",
+      "score": 0.8931
+    },
+    {
+      "date": "2026-09-15",
+      "title": "AI for Societal Impact",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/",
+      "source_name": "Google AI (The Keyword)",
+      "tags": [
+        "AI",
+        "Ai Model Companies"
+      ],
+      "summary": "Explore this collection to see how experts and local leaders are using AI breakthroughs to ensure everyone can share the opportunity of AI.",
+      "why": "Signals how frontier-model capabilities and access may shift for AI engineers and product teams.",
+      "score": 0.8929
+    },
+    {
+      "date": "2026-09-15",
+      "title": "Building AI to accelerate science and improve lives",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/",
+      "source_name": "Google AI (The Keyword)",
+      "tags": [
+        "AI",
+        "Ai Model Companies"
+      ],
+      "summary": "B-roll showing diverse environments and people, including a teacher and students in a classroom and a patient with a doctor",
+      "why": "Signals how frontier-model capabilities and access may shift for AI engineers and product teams.",
+      "score": 0.8929
+    },
+    {
+      "date": "2026-09-15",
+      "title": "AI for everyone in every language",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/",
+      "source_name": "Google AI (The Keyword)",
+      "tags": [
+        "AI",
+        "Ai Model Companies"
+      ],
+      "summary": "Animation of several words in different languages slowly zooming past",
+      "why": "Signals how frontier-model capabilities and access may shift for AI engineers and product teams.",
+      "score": 0.8929
+    },
+    {
+      "date": "2026-09-18",
+      "title": "New experts join Google’s AI & Economy team",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/",
+      "source_name": "Google AI (The Keyword)",
+      "tags": [
+        "AI",
+        "Research",
+        "Ai Model Companies"
+      ],
+      "summary": "Text \"AI & Economy Research Program\" all over a green grid background, with the Google G logo in the bottom right corner",
+      "why": "Signals how frontier-model capabilities and access may shift for AI engineers and product teams.",
+      "score": 0.887
+    },
+    {
+      "date": "2026-09-16",
+      "title": "Reimagining advertising with AI",
+      "url": "https://openai.com/index/reimagining-advertising-with-ai",
+      "source_name": "OpenAI",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Ai Model Companies"
+      ],
+      "summary": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.",
+      "why": "Signals how frontier-model capabilities and access may shift for AI engineers and product teams.",
+      "score": 0.8806
+    }
+  ]
+}
