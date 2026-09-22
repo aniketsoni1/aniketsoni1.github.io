@@ -1,0 +1,838 @@
+{
+  "generated_at": "2026-09-22T17:40:36.381680+00:00",
+  "post_date": "2026-09-22",
+  "sources_checked": 48,
+  "candidates": 45,
+  "items": [
+    {
+      "title": "From attendee badge to speaker badge: My first KubeCon at KubeCon + CloudNativeCon India 2026",
+      "summary": "There is something surreal about your first KubeCon being one where you walk onto the stage as a speaker. Most people ease into this community by attending a few conferences, lurking in hallway tracks, and working...",
+      "source_name": "CNCF",
+      "source_url": "https://www.cncf.io/blog/2026/09/22/from-attendee-badge-to-speaker-badge-my-first-kubecon-at-kubecon-cloudnativecon-india-2026/",
+      "published_at": "2026-09-22T13:34:05+00:00",
+      "category": "open_source_foundations",
+      "tags": [
+        "Cloud",
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8829,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.cncf.io/?p=175162"
+    },
+    {
+      "title": "Claude Opus 5.5",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.anthropic.com/claude-opus-5-5",
+      "published_at": "2026-09-22T16:29:05+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.696,
+      "importance_score": 0.865,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49803892"
+    },
+    {
+      "title": "Apple has added persistent 'ads' to iOS, and it's driving users crazy",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.techradar.com/phones/iphone/i-wish-apple-would-just-stop-that-crap-apple-has-added-persistent-ads-to-ios-and-its-driving-users-crazy",
+      "published_at": "2026-09-22T14:30:12+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.8568,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49801939"
+    },
+    {
+      "title": "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.cryptocellar.org/bgac/the-mvueh-break.html",
+      "published_at": "2026-09-22T13:52:15+00:00",
+      "category": "aggregators",
+      "tags": [
+        "AI",
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.8541,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49801324"
+    },
+    {
+      "title": "I asked Meta’s Muse for its filesystem and it sent me 6.8GB",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://mouse.dev/blog/muse-runtime-export/",
+      "published_at": "2026-09-22T15:25:12+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.644,
+      "importance_score": 0.8456,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49802871"
+    },
+    {
+      "title": "Enabling Private High-Performance Production AI Inference with NVIDIA Confidential Computing",
+      "summary": "As large language model (LLM) inference increasingly processes sensitive information and proprietary model context across personal, enterprise, and regulated...",
+      "source_name": "NVIDIA Developer Blog",
+      "source_url": "https://developer.nvidia.com/blog/enabling-private-high-performance-production-ai-inference-with-nvidia-confidential-computing/",
+      "published_at": "2026-09-22T17:27:41+00:00",
+      "category": "mlops",
+      "tags": [
+        "AI",
+        "LLMs",
+        "GPUs",
+        "AI Models",
+        "Mlops"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8391,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://developer.nvidia.com/blog/?p=122756"
+    },
+    {
+      "title": "Topology-Aware Workload Scheduling with NVIDIA Topograph",
+      "summary": "AI factories are power-limited systems that deliver maximum value when fully optimized. GPU workload placement is a key optimization. Poor workload placement...",
+      "source_name": "NVIDIA Developer Blog",
+      "source_url": "https://developer.nvidia.com/blog/topology-aware-workload-scheduling-with-nvidia-topograph/",
+      "published_at": "2026-09-22T17:16:28+00:00",
+      "category": "mlops",
+      "tags": [
+        "AI",
+        "GPUs",
+        "Mlops"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8383,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://developer.nvidia.com/blog/?p=122765"
+    },
+    {
+      "title": "AMD's random number generator can't generate a 0?",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://board.flatassembler.net/topic.php?t=24261",
+      "published_at": "2026-09-22T08:39:43+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.65,
+      "importance_score": 0.8324,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49798204"
+    },
+    {
+      "title": "Best practices for scaling large consumer groups on Amazon MSK",
+      "summary": "As consumer groups on Amazon MSK scale to thousands of members, the metadata record Kafka writes during rebalances can exceed the 1 MB limit and stall the group. Learn how to estimate metadata size, raise the topic-level limit safely, plan capacity, and apply complementary strategies for scaling large consumer groups.",
+      "source_name": "AWS Big Data Blog",
+      "source_url": "https://aws.amazon.com/blogs/big-data/best-practices-for-scaling-large-consumer-groups-on-amazon-msk/",
+      "published_at": "2026-09-22T15:16:06+00:00",
+      "category": "cloud_providers",
+      "tags": [
+        "AI",
+        "Streaming",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.92,
+      "importance_score": 0.83,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "91fbbf9981b2c753273c0c5f0c49f4784dfe9d87"
+    },
+    {
+      "title": "I said no and Apple said yes",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://dbushell.com/2026/09/22/apple-intelligence/",
+      "published_at": "2026-09-22T08:04:55+00:00",
+      "category": "aggregators",
+      "tags": [
+        "AI",
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.83,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49797982"
+    },
+    {
+      "title": "How Moeve standardized dbt runs across data lakes with Amazon Athena",
+      "summary": "Moeve standardized how it runs dbt across multiple data lakes by building a centralized, serverless launcher on Amazon Athena, AWS Step Functions, AWS Fargate, Amazon DynamoDB, and Amazon EventBridge, cutting new-project onboarding from days to about 15 minutes while keeping compute close to the data and orchestration loosely coupled.",
+      "source_name": "AWS Big Data Blog",
+      "source_url": "https://aws.amazon.com/blogs/big-data/how-moeve-standardized-dbt-runs-across-data-lakes-with-amazon-athena/",
+      "published_at": "2026-09-22T15:13:31+00:00",
+      "category": "cloud_providers",
+      "tags": [
+        "AWS",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.92,
+      "importance_score": 0.8298,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "edccae8f8147ce129dd7541f01c316b3e4ca47b7"
+    },
+    {
+      "title": "Meet the Ecosystem: Partners and Customers at WeAreDevelopers with Docker",
+      "summary": "Meet the partners and customers bringing practical AI, security, and development sessions to the Docker Pavilion at WeAreDevelopers. The post explains why a strong ecosystem matters to developers, announces the sessions and speakers, and invites attendees to connect with the teams building and using these technologies.",
+      "source_name": "Docker Blog",
+      "source_url": "https://www.docker.com/blog/wearedevelopers-partner-customer-sessions-2026/",
+      "published_at": "2026-09-22T15:06:15+00:00",
+      "category": "developer_platforms",
+      "tags": [
+        "AI",
+        "Containers",
+        "Security",
+        "Developer Platforms"
+      ],
+      "confidence_score": 0.87,
+      "importance_score": 0.8293,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.docker.com/?p=93953"
+    },
+    {
+      "title": "Priorities and principles for effective third party assessments",
+      "summary": "OpenAI outlines priorities and principles for rigorous, secure, and independent third-party AI safety assessments of frontier models and safeguards.",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/priorities-principles-third-party-assessments",
+      "published_at": "2026-09-22T00:00:00+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI",
+        "AI Models",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.99,
+      "importance_score": 0.8264,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/index/priorities-principles-third-party-assessments"
+    },
+    {
+      "title": "Can gzip be a language model?",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://nathan.rs/posts/gzip-lm/",
+      "published_at": "2026-09-22T06:08:39+00:00",
+      "category": "aggregators",
+      "tags": [
+        "AI Models",
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.8219,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49797323"
+    },
+    {
+      "title": "What’s New for Game Developers: DLSS 5 with 3D-Guided Neural Rendering, NVIDIA ACE Updates, and New RTX Kit Capabilities",
+      "summary": "NVIDIA DLSS 5 introduces DLSS 3D-Guided Neural Rendering and granular controls that help game developers add lifelike lighting and material detail while...",
+      "source_name": "NVIDIA Developer Blog",
+      "source_url": "https://developer.nvidia.com/blog/whats-new-for-game-developers-dlss-5-with-3d-guided-neural-rendering-nvidia-ace-updates-and-new-rtx-kit-capabilities/",
+      "published_at": "2026-09-22T13:00:00+00:00",
+      "category": "mlops",
+      "tags": [
+        "AI",
+        "GPUs",
+        "Mlops"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8205,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://developer.nvidia.com/blog/?p=122769"
+    },
+    {
+      "title": "NVIDIA Isaac ROS 5.0 Advances Agentic, Open Source Robotics Development",
+      "summary": "To build and deploy sophisticated robotics applications that can perceive, reason and act in dynamic environments, developers need new physical AI models and tools. The ROS open framework is a project from Open Robotics that helps humans build robots. NVIDIA Isaac ROS 5.0 — a collection of GPU-accelerated packages built on ROS, released today at […]",
+      "source_name": "NVIDIA Blog",
+      "source_url": "https://blogs.nvidia.com/blog/isaac-ros-5-0-agentic-open-source-robotics/",
+      "published_at": "2026-09-22T12:00:41+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "GPUs",
+        "Open Source",
+        "AI Models",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8164,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://blogs.nvidia.com/?p=98370"
+    },
+    {
+      "title": "Accelerating a ROS 2 Node with an AI Agent and NVIDIA Isaac ROS",
+      "summary": "GPU acceleration can speed up compute-intensive robotics workloads, but a fast CUDA kernel alone does not guarantee a fast ROS 2 graph. As messages move between...",
+      "source_name": "NVIDIA Developer Blog",
+      "source_url": "https://developer.nvidia.com/blog/accelerating-a-ros-2-node-with-an-ai-agent-and-nvidia-isaac-ros/",
+      "published_at": "2026-09-22T12:00:00+00:00",
+      "category": "mlops",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "GPUs",
+        "Mlops"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8164,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://developer.nvidia.com/blog/?p=122571"
+    },
+    {
+      "title": "OpenAI is well positioned to fast-follow Jev",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://arcturus-labs.com/blog/2026/09/21/will-openai-eat-jevs-lunch/",
+      "published_at": "2026-09-22T14:42:59+00:00",
+      "category": "aggregators",
+      "tags": [
+        "AI",
+        "Hacker News"
+      ],
+      "confidence_score": 0.626,
+      "importance_score": 0.7977,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49802161"
+    },
+    {
+      "title": "Spymarks, not Watermarks",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://brand.io/article/spymarks/",
+      "published_at": "2026-09-21T23:03:49+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7924,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49794615"
+    },
+    {
+      "title": "I don't want to read what you didn't write",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/",
+      "published_at": "2026-09-21T22:30:41+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7901,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49794330"
+    },
+    {
+      "title": "MiMo v2.6",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://mimo.xiaomi.com/mimo-v2-6",
+      "published_at": "2026-09-21T20:12:12+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7805,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49792730"
+    },
+    {
+      "title": "Transformers Explained Visually",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://poloclub.github.io/transformer-explainer/",
+      "published_at": "2026-09-21T19:43:49+00:00",
+      "category": "aggregators",
+      "tags": [
+        "AI",
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7786,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49792342"
+    },
+    {
+      "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+      "summary": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster.",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
+      "published_at": "2026-09-21T12:00:00+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.97,
+      "importance_score": 0.7764,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra"
+    },
+    {
+      "title": "Advisory Group on Mathematics and Artificial Intelligence",
+      "summary": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+      "published_at": "2026-09-21T12:00:00+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.97,
+      "importance_score": 0.7764,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/index/advisory-group-on-mathematics-and-ai"
+    },
+    {
+      "title": "Building standards for the next phase of AI",
+      "summary": "OpenAI outlines a path to shared global AI standards, calling for coordinated evaluation, reporting, and governance to improve safety.",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/building-standards-next-phase-ai",
+      "published_at": "2026-09-21T10:00:00+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI",
+        "Data Governance",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.97,
+      "importance_score": 0.768,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/index/building-standards-next-phase-ai"
+    },
+    {
+      "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
+      "summary": "",
+      "source_name": "Hugging Face",
+      "source_url": "https://huggingface.co/blog/evaleval-aisi",
+      "published_at": "2026-09-22T00:00:00+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.9,
+      "importance_score": 0.7664,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://huggingface.co/blog/evaleval-aisi"
+    },
+    {
+      "title": "Transformers now runs llama.cpp quants",
+      "summary": "",
+      "source_name": "Hugging Face",
+      "source_url": "https://huggingface.co/blog/transformers-llama-cpp-quants",
+      "published_at": "2026-09-22T00:00:00+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.9,
+      "importance_score": 0.7664,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://huggingface.co/blog/transformers-llama-cpp-quants"
+    },
+    {
+      "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
+      "summary": "",
+      "source_name": "Hugging Face",
+      "source_url": "https://huggingface.co/blog/omlx",
+      "published_at": "2026-09-22T00:00:00+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.9,
+      "importance_score": 0.7664,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://huggingface.co/blog/omlx"
+    },
+    {
+      "title": "How to design GitLab for enterprise scale",
+      "summary": "At enterprise scale, even small architecture choices can have outsized consequences. A deployment that works for a handful of teams can become a constraint once thousands of developers, repositories, and pipelines depend on it. That makes each decision made before rollout especially consequential. For example, your: Deployment model defines what your team must operate Runner strategy shapes how CI/CD workloads execute and stay isolated, as well as how much operational load…",
+      "source_name": "GitLab Blog",
+      "source_url": "https://about.gitlab.com/blog/how-to-design-gitlab-for-enterprise-scale/",
+      "published_at": "2026-09-22T00:00:00+00:00",
+      "category": "developer_platforms",
+      "tags": [
+        "AI",
+        "Data Pipelines",
+        "AI Models",
+        "Developer Platforms"
+      ],
+      "confidence_score": 0.86,
+      "importance_score": 0.7664,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://about.gitlab.com/blog/how-to-design-gitlab-for-enterprise-scale/"
+    },
+    {
+      "title": "How GitLab reduced code-per-agentic-flow ratio by 45%",
+      "summary": "GitLab Duo Agent Platform orchestrates and automates complex tasks through agentic flows. A key part of the platform is the Flow Registry, a declarative configuration framework, built from reusable components, that compiles YAML into fully functional LangGraph flows. By using Flow Registry, agent builders — both our GitLab engineers and our customers can use declarative YAML configurations instead of repetitive, ad-hoc Python implementations. Flow Registry turns bespoke…",
+      "source_name": "GitLab Blog",
+      "source_url": "https://about.gitlab.com/blog/how-gitlab-reduced-code-per-agentic-flow-ratio/",
+      "published_at": "2026-09-22T00:00:00+00:00",
+      "category": "developer_platforms",
+      "tags": [
+        "AI Agents",
+        "Python",
+        "Developer Platforms"
+      ],
+      "confidence_score": 0.86,
+      "importance_score": 0.7664,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://about.gitlab.com/blog/how-gitlab-reduced-code-per-agentic-flow-ratio/"
+    },
+    {
+      "title": "Redis introduces new capabilities to help you operate, build, and scale with confidence",
+      "summary": "Your apps are growing more distributed, data-intensive, and business-critical. As Redis has become a larger part of your architecture, managing deployments, connecting data sources, and responding to changing demand can introduce operational friction....",
+      "source_name": "Redis Blog",
+      "source_url": "https://redis.io/blog/redis-introduces-new-capabilities-0926/",
+      "published_at": "2026-09-22T00:00:00+00:00",
+      "category": "databases",
+      "tags": [
+        "Databases"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7664,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://redis.io/blog/redis-introduces-new-capabilities-0926/"
+    },
+    {
+      "title": "Introducing Smooth Scaling: faster, more intelligent scaling",
+      "summary": "Scaling your Redis Cloud Pro database is now significantly faster and gentler on your application, without changing how you scale. Demand is rarely predictable. A promotion takes off, a product goes viral, a new region comes online, or Black Friday a...",
+      "source_name": "Redis Blog",
+      "source_url": "https://redis.io/blog/smooth-scaling-in-redis-cloud-pro/",
+      "published_at": "2026-09-22T00:00:00+00:00",
+      "category": "databases",
+      "tags": [
+        "Cloud",
+        "Databases"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7664,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://redis.io/blog/smooth-scaling-in-redis-cloud-pro/"
+    },
+    {
+      "title": "Announcing: Monitor Redis Cloud with Datadog",
+      "summary": "Your Redis Cloud metrics belong next to the rest of your monitoring data. Getting them there shouldn’t mean standing up more infrastructure. The native Redis Cloud integration for Datadog, now in Private Preview, sends metrics directly from Redis Clo...",
+      "source_name": "Redis Blog",
+      "source_url": "https://redis.io/blog/monitor-redis-cloud-with-datadog/",
+      "published_at": "2026-09-22T00:00:00+00:00",
+      "category": "databases",
+      "tags": [
+        "Cloud",
+        "Databases"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7664,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://redis.io/blog/monitor-redis-cloud-with-datadog/"
+    },
+    {
+      "title": "Search on Flex comes to Redis Cloud Pro: same Search API, a fraction of the RAM",
+      "summary": "Redis Search indexes can now live on Flex tiered storage in Redis Cloud. Large-scale search on Redis is within reach in the cloud, with no changes to your queries or your code. Search workloads have a way of outgrowing their budget. A product catalog...",
+      "source_name": "Redis Blog",
+      "source_url": "https://redis.io/blog/search-on-flex-comes-to-redis-cloud-pro/",
+      "published_at": "2026-09-22T00:00:00+00:00",
+      "category": "databases",
+      "tags": [
+        "Cloud",
+        "APIs",
+        "Databases"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7664,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://redis.io/blog/search-on-flex-comes-to-redis-cloud-pro/"
+    },
+    {
+      "title": "Introducing Redis Radar: a single view for your whole Redis fleet",
+      "summary": "Redis environments grow across teams, applications, and infrastructure. You might run Redis Software on-premises, use Redis Cloud for another application, and have Redis Open Source or a cloud provider's managed Redis somewhere else. Even a fleet buil...",
+      "source_name": "Redis Blog",
+      "source_url": "https://redis.io/blog/introducing-redis-radar/",
+      "published_at": "2026-09-22T00:00:00+00:00",
+      "category": "databases",
+      "tags": [
+        "Cloud",
+        "Open Source",
+        "Databases"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7664,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://redis.io/blog/introducing-redis-radar/"
+    },
+    {
+      "title": "RDI support for federated caches, sharded data sources and multiple pipelines",
+      "summary": "Modern applications rarely rely on one database. Data is often distributed across regions, business units, shards, and different technology stacks. Bringing that data together in real time should not require users to build and operate a separate integ...",
+      "source_name": "Redis Blog",
+      "source_url": "https://redis.io/blog/multi-source-and-multi-pipeline-rdi/",
+      "published_at": "2026-09-22T00:00:00+00:00",
+      "category": "databases",
+      "tags": [
+        "Data Pipelines",
+        "Databases"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7664,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://redis.io/blog/multi-source-and-multi-pipeline-rdi/"
+    },
+    {
+      "title": "Kubernetes v1.37: Tracking When a PersistentVolumeClaim Was Last Used (Beta)",
+      "summary": "Kubernetes v1.37 promotes the PersistentVolumeClaimUnusedSinceTime feature gate to Beta (enabled by default). With this feature, the PersistentVolumeClaim (PVC) protection controller adds an Unused condition to each PVC, telling you whether any running pod currently references it — no custom tooling or cross-referencing required. For the API definition of PVC conditions, see the PersistentVolumeClaim API reference . Read on to learn how the Unused condition works and how to…",
+      "source_name": "Kubernetes Blog",
+      "source_url": "https://kubernetes.io/blog/2026/09/21/kubernetes-v1-37-pvc-last-used-time/",
+      "published_at": "2026-09-21T18:30:00+00:00",
+      "category": "open_source_foundations",
+      "tags": [
+        "AI",
+        "Kubernetes",
+        "APIs",
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.92,
+      "importance_score": 0.7634,
+      "source_type": "release_notes",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://kubernetes.io/blog/2026/09/21/kubernetes-v1-37-pvc-last-used-time/"
+    },
+    {
+      "title": "Mark Rober: I make sure kids see when my experiments fail. They should know successful people don't always get it right.",
+      "summary": "Former NASA engineer Mark Rober intentionally shows failures in his videos. He wants kids to see mistakes as part of learning and experimentation.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/mark-rober-nasa-engineer-kids-failure-curiosity-2026-9",
+      "published_at": "2026-09-22T17:33:01+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7595,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/mark-rober-nasa-engineer-kids-failure-curiosity-2026-9"
+    },
+    {
+      "title": "The US Navy is figuring out new ways to turn human battle plans into orders autonomous aircraft can follow",
+      "summary": "A new tool was used in a recent demonstration involving an MQ-20 Avenger autonomous aircraft, which received the plans from the human operator.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/us-navy-turns-human-battle-plans-into-orders-autonomous-aircraft-2026-9",
+      "published_at": "2026-09-22T17:32:39+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7595,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/us-navy-turns-human-battle-plans-into-orders-autonomous-aircraft-2026-9"
+    },
+    {
+      "title": "Anthropic Releases a New A.I. Model, Opus 5.5, Amid Safety Debate",
+      "summary": "The company released a cheaper, faster model that it said was the strongest performer on its most rigorous internal safety tests to date.",
+      "source_name": "The New York Times - Technology",
+      "source_url": "https://www.nytimes.com/2026/09/22/technology/anthropic-ai-model-safety.html",
+      "published_at": "2026-09-22T17:20:34+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "AI Models",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7586,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.nytimes.com/2026/09/22/technology/anthropic-ai-model-safety.html"
+    },
+    {
+      "title": "ABBYY gives old-school OCR a job in the AI pipeline",
+      "summary": "FineParser runs in a CPU-powered container, preserving tables and layout before handing documents to an LLM",
+      "source_name": "The Register",
+      "source_url": "https://www.theregister.com/applications/2026/09/22/abbyy-gives-old-school-ocr-a-job-in-the-ai-pipeline/5298361",
+      "published_at": "2026-09-22T17:15:00+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "LLMs",
+        "Data Pipelines",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7582,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.theregister.com/a/5298361"
+    },
+    {
+      "title": "Simplifying Model Serving Across Multiple GPUs with NVIDIA TensorRT Multi-Device Integration in NVIDIA Dynamo-Triton",
+      "summary": "The compute and memory demands of generative AI increasingly exceed what a single GPU can provide. NVIDIA TensorRT multi-device inference is a new capability...",
+      "source_name": "NVIDIA Developer Blog",
+      "source_url": "https://developer.nvidia.com/blog/simplifying-model-serving-across-multiple-gpus-with-nvidia-tensorrt-multi-device-integration-in-nvidia-dynamo-triton/",
+      "published_at": "2026-09-21T21:51:06+00:00",
+      "category": "mlops",
+      "tags": [
+        "AI",
+        "GenAI",
+        "GPUs",
+        "AI Models",
+        "Mlops"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.7574,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://developer.nvidia.com/blog/?p=122739"
+    },
+    {
+      "title": "Microsoft Takes Down EvilTokens Device-Code Phishing Service Tied to 12,000 Inbox Compromises",
+      "summary": "Microsoft on Tuesday announced the takedown of the EvilTokens device code phishing service that it said used artificial intelligence (AI) \"at every step of the attack chain.\" The action, carried out with authorization from the U.S. District Court for the Eastern District of Virginia, involved the efforts of Health-ISAC, alongside Cloudflare, Coinbase, OpenAI, Railway, SpyCloud, The Shadowserver",
+      "source_name": "The Hacker News",
+      "source_url": "https://thehackernews.com/2026/09/microsoft-takes-down-eviltokens-device.html",
+      "published_at": "2026-09-22T17:03:31+00:00",
+      "category": "cybersecurity",
+      "tags": [
+        "AI",
+        "Cloud",
+        "Cybersecurity"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7574,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://thehackernews.com/2026/09/microsoft-takes-down-eviltokens-device.html"
+    },
+    {
+      "title": "'War of the tech stacks': Paramount and WBD employees brace for internal competition after the merger closes",
+      "summary": "Paramount settled the lawsuits that were slowing down its Warner Bros. Discovery deal, paving the way for the merger.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/paramount-warner-bros-discovery-employees-brace-merger-impact-layoffs-ellison-2026-9",
+      "published_at": "2026-09-22T16:56:25+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "AWS",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7569,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/paramount-warner-bros-discovery-employees-brace-merger-impact-layoffs-ellison-2026-9"
+    },
+    {
+      "title": "The persuasion technique that can help you have more influence at work",
+      "summary": "Want to get your boss or coworkers on board with an idea? A leadership professor shares how to make your pitch more persuasive.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/how-to-persuade-influence-coworkers-work-2026-9",
+      "published_at": "2026-09-22T16:46:59+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7563,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/how-to-persuade-influence-coworkers-work-2026-9"
+    }
+  ]
+}
