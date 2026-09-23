@@ -1,0 +1,290 @@
+{
+  "post_date": "2026-09-23",
+  "display_date": "September 23, 2026",
+  "title": "The Daily Tech Signal - September 23, 2026",
+  "edition": "standard",
+  "opening_summary": "Today's brief highlights the expanding practical applications",
+  "news_items": [
+    {
+      "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
+      "summary": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1.",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/ringg",
+      "published_at": "2026-09-24T12:00:00Z",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.99,
+      "importance_score": 0.9,
+      "source_type": "official_blog",
+      "ai_generated_summary": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1.",
+      "why_it_matters": "Signals how frontier-model capabilities and access may shift for AI engineers and product teams.",
+      "guid": "https://openai.com/index/ringg"
+    },
+    {
+      "title": "Two years of OpenAI Academy",
+      "summary": "Marking two years of OpenAI Academy and bringing AI skills to even more communities.",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/two-years-of-openai-academy",
+      "published_at": "2026-09-23T16:00:00Z",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.99,
+      "importance_score": 0.8922,
+      "source_type": "official_blog",
+      "ai_generated_summary": "Marking two years of OpenAI Academy and bringing AI skills to even more communities.",
+      "why_it_matters": "Signals how frontier-model capabilities and access may shift for AI engineers and product teams.",
+      "guid": "https://openai.com/index/two-years-of-openai-academy"
+    },
+    {
+      "title": "Advancing Private AI Compute with secure, server-side memory",
+      "summary": "Introducing private, server-side memory to Private AI Compute for personal AI.",
+      "source_name": "Google DeepMind",
+      "source_url": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
+      "published_at": "2026-09-23T16:00:57Z",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.99,
+      "importance_score": 0.8922,
+      "source_type": "official_blog",
+      "ai_generated_summary": "Introducing private, server-side memory to Private AI Compute for personal AI.",
+      "why_it_matters": "Signals how frontier-model capabilities and access may shift for AI engineers and product teams.",
+      "guid": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/"
+    },
+    {
+      "title": "Gemini 3.8 text-to-speech says hello",
+      "summary": "",
+      "source_name": "Google DeepMind",
+      "source_url": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/",
+      "published_at": "2026-09-23T15:25:14Z",
+      "category": "ai_model_companies",
+      "tags": [
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.97,
+      "importance_score": 0.8897,
+      "source_type": "official_blog",
+      "ai_generated_summary": "Gemini 3.8 text-to-speech says hello",
+      "why_it_matters": "Signals how frontier-model capabilities and access may shift for AI engineers and product teams.",
+      "guid": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/"
+    },
+    {
+      "title": "Which hat am I wearing right now?",
+      "summary": "Neutrality is quietly the hardest part of open source. It gets tricky the moment someone pays your salary — and staying honest about it takes more effort than anyone admits. Here’s something we don’t say out...",
+      "source_name": "CNCF",
+      "source_url": "https://www.cncf.io/blog/2026/09/23/which-hat-am-i-wearing-right-now/",
+      "published_at": "2026-09-23T14:47:15Z",
+      "category": "open_source_foundations",
+      "tags": [
+        "ETL",
+        "Open Source",
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8871,
+      "source_type": "official_blog",
+      "ai_generated_summary": "Neutrality is quietly the hardest part of open source. It gets tricky the moment someone pays your salary — and staying honest about it takes more effort than anyone admits. Here’s something we don’t say out...",
+      "why_it_matters": "Matters for platform teams tracking the open-source dependencies under their stack.",
+      "guid": "https://www.cncf.io/?p=175170"
+    },
+    {
+      "title": "OpenAI extends cyber access to Ukraine for civilian defense",
+      "summary": "OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure.",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
+      "published_at": "2026-09-23T13:00:00Z",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.99,
+      "importance_score": 0.8797,
+      "source_type": "official_blog",
+      "ai_generated_summary": "OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure.",
+      "why_it_matters": "Signals how frontier-model capabilities and access may shift for AI engineers and product teams.",
+      "guid": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense"
+    },
+    {
+      "title": "I don't want the details",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://michaelheap.com/i-dont-want-the-details/",
+      "published_at": "2026-09-23T13:04:44Z",
+      "category": "aggregators",
+      "tags": [
+        "AI",
+        "Hacker News"
+      ],
+      "confidence_score": 0.6605,
+      "importance_score": 0.85,
+      "source_type": "aggregator",
+      "ai_generated_summary": "I don't want the details",
+      "why_it_matters": "Community-surfaced signal worth scanning for emerging developer sentiment.",
+      "guid": "hn-49815466"
+    },
+    {
+      "title": "Fixing the Portobello Police Station Clock",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://pointinthecloud.com/2026-04-11-211700.html",
+      "published_at": "2026-09-23T15:18:53Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.6455,
+      "importance_score": 0.848,
+      "source_type": "aggregator",
+      "ai_generated_summary": "Fixing the Portobello Police Station Clock",
+      "why_it_matters": "Community-surfaced signal worth scanning for emerging developer sentiment.",
+      "guid": "hn-49817469"
+    },
+    {
+      "title": "Claude Code reads AGENTS.md only when telemetry is on [fixed]",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on/",
+      "published_at": "2026-09-23T12:15:33Z",
+      "category": "aggregators",
+      "tags": [
+        "AI Agents",
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.8465,
+      "source_type": "aggregator",
+      "ai_generated_summary": "Claude Code reads AGENTS.md only when telemetry is on [fixed]",
+      "why_it_matters": "Community-surfaced signal worth scanning for emerging developer sentiment.",
+      "guid": "hn-49814947"
+    }
+  ],
+  "events": [
+    {
+      "event_name": "AWS re:Invent 2026",
+      "organizer": "Amazon Web Services",
+      "event_url": "https://reinvent.awsevents.com/",
+      "start_date": "2026-11-30",
+      "end_date": "2026-12-04",
+      "location": "Las Vegas, NV, USA",
+      "event_state": "upcoming",
+      "summary": "AWS's global cloud & AI conference; in 2026 re:Inforce security content merges in.",
+      "relevance_tags": [
+        "cloud",
+        "aws",
+        "ai",
+        "serverless",
+        "data_engineering",
+        "security"
+      ],
+      "source_url": "https://aws.amazon.com/events/reinvent/"
+    },
+    {
+      "event_name": "Microsoft Ignite 2026",
+      "organizer": "Microsoft",
+      "event_url": "https://ignite.microsoft.com/",
+      "start_date": "2026-11-17",
+      "end_date": "2026-11-20",
+      "location": "Moscone Center, San Francisco, CA, USA",
+      "event_state": "upcoming",
+      "summary": "Microsoft's enterprise IT and developer conference spanning Azure, Fabric, and Copilot.",
+      "relevance_tags": [
+        "azure",
+        "enterprise",
+        "ai",
+        "copilot",
+        "cloud"
+      ],
+      "source_url": "https://ignite.microsoft.com/en-US/home"
+    },
+    {
+      "event_name": "GitHub Universe 2026",
+      "organizer": "GitHub",
+      "event_url": "https://githubuniverse.com/",
+      "start_date": "2026-10-28",
+      "end_date": "2026-10-29",
+      "location": "Fort Mason Center, San Francisco, CA, USA",
+      "event_state": "upcoming",
+      "summary": "GitHub's flagship developer event - 'all together now, in the agentic era.'",
+      "relevance_tags": [
+        "developer_tools",
+        "open_source",
+        "ai",
+        "copilot",
+        "github"
+      ],
+      "source_url": "https://githubuniverse.com/"
+    },
+    {
+      "event_name": "KubeCon + CloudNativeCon North America 2026",
+      "organizer": "Cloud Native Computing Foundation (CNCF)",
+      "event_url": "https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/",
+      "start_date": "2026-11-09",
+      "end_date": "2026-11-12",
+      "location": "Salt Lake City, UT, USA",
+      "event_state": "upcoming",
+      "summary": "The premier Kubernetes and cloud-native ecosystem gathering in North America.",
+      "relevance_tags": [
+        "cloud_native",
+        "kubernetes",
+        "open_source",
+        "platform_engineering"
+      ],
+      "source_url": "https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/"
+    },
+    {
+      "event_name": "Salesforce Dreamforce 2026",
+      "organizer": "Salesforce",
+      "event_url": "https://www.salesforce.com/dreamforce/",
+      "start_date": "2026-09-15",
+      "end_date": "2026-09-17",
+      "location": "Moscone Center, San Francisco, CA, USA",
+      "event_state": "recent",
+      "summary": "Salesforce's flagship conference; heavy focus on Agentforce and enterprise AI agents.",
+      "relevance_tags": [
+        "enterprise",
+        "crm",
+        "agentforce",
+        "ai",
+        "salesforce"
+      ],
+      "source_url": "https://www.salesforce.com/dreamforce/"
+    }
+  ],
+  "history_item": {
+    "date": null,
+    "title": "Dennis Ritchie creates the C language",
+    "year": 1972,
+    "description": "Around 1972 Dennis Ritchie developed C at Bell Labs; it remains the lingua franca of systems programming.",
+    "category": "programming_languages",
+    "source_url": "https://en.wikipedia.org/wiki/C_(programming_language)",
+    "confidence_score": 0.78,
+    "importance": 0.88
+  },
+  "takeaway": "The throughline today is the same one that keeps showing up: capability is arriving faster than the data and platform discipline needed to operate it well. The teams that win won't be the ones that adopt the most tools, but the ones that keep their pipelines observable, their data governed, and their systems boring where it counts.",
+  "categories": [
+    "AI",
+    "Data Engineering",
+    "Technology"
+  ],
+  "tags": [
+    "AI",
+    "AI Agents",
+    "Ai Model Companies",
+    "ETL",
+    "Open Source",
+    "Open Source Foundations",
+    "Hacker News"
+  ],
+  "disclaimer": "This daily brief is AI-assisted and source-reviewed for public technology awareness.",
+  "generated_at": "2026-09-23T17:54:33.746389Z"
+}
