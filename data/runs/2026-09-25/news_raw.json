@@ -1,0 +1,827 @@
+{
+  "generated_at": "2026-09-25T17:59:37.748547+00:00",
+  "post_date": "2026-09-25",
+  "sources_checked": 48,
+  "candidates": 45,
+  "items": [
+    {
+      "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
+      "summary": "With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster.",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/proaction",
+      "published_at": "2026-09-25T19:00:00+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.99,
+      "importance_score": 0.9,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/index/proaction"
+    },
+    {
+      "title": "Security Slam 2026 – Fall edition",
+      "summary": "Security Slam 2026 – Fall Edition is a 30-day virtual event from October 5 through November 6, 2026. What Is the Security Slam? The Open Source Security Foundation (OpenSSF) is partnering with the Cloud Native Computing...",
+      "source_name": "CNCF",
+      "source_url": "https://www.cncf.io/blog/2026/09/25/security-slam-2026-fall-edition/",
+      "published_at": "2026-09-25T11:00:00+00:00",
+      "category": "open_source_foundations",
+      "tags": [
+        "Cloud",
+        "Open Source",
+        "Security",
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8709,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.cncf.io/?p=175202"
+    },
+    {
+      "title": "U.S. appeals court upholds designation of Anthropic as supply chain risk",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
+      "published_at": "2026-09-25T15:29:25+00:00",
+      "category": "aggregators",
+      "tags": [
+        "AI",
+        "Hacker News"
+      ],
+      "confidence_score": 0.6455,
+      "importance_score": 0.8483,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49845977"
+    },
+    {
+      "title": "Platform-Independent SIMD in Go",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://go.dev/blog/simd-experiment",
+      "published_at": "2026-09-25T11:47:06+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.672,
+      "importance_score": 0.8441,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49843269"
+    },
+    {
+      "title": "Git-bug: Distributed, offline-first bug tracker embedded in Git",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://github.com/git-bug/git-bug",
+      "published_at": "2026-09-25T11:38:31+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.652,
+      "importance_score": 0.8435,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49843174"
+    },
+    {
+      "title": "Unlock 3x QPS and microsecond latency with Memorystore for Valkey 9.1",
+      "summary": "At Google Cloud, we are committed to delivering the best managed experience backed by open source software. Today, we’re announcing the general availability of Memorystore for Valkey 9.1 , which achieves up to 3x queries per second (QPS) at microsecond latency compared to Memorystore for Redis Cluster. Our support for Valkey dates back to 2024 , when Redis Inc. shifted its licensing away from the permissive open-source BSD license to a dual-license model. In response, Google…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/products/databases/memorystore-for-valkey-9-1-3x-qps-caching/",
+      "published_at": "2026-09-25T16:00:00+00:00",
+      "category": "cloud_providers",
+      "tags": [
+        "AI",
+        "Cloud",
+        "Google Cloud",
+        "Open Source",
+        "AI Models",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.8317,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/products/databases/memorystore-for-valkey-9-1-3x-qps-caching/"
+    },
+    {
+      "title": "Best practices guide for customizing Gemini models via Reinforcement Learning (RL)",
+      "summary": "Reinforcement learning (RL) has been a keystone of modern LLM post-training, but it demands large training clusters and access to model internals that external customers can't have with proprietary models like Gemini. So here at Google Cloud, we packaged it into a managed RL fine-tuning service (RLFT service) — you bring prompts and a reward function; we handle the infrastructure and the proprietary model internals. Now, you can adapt Gemini with the service — teaching the…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/topics/developers-practitioners/best-practices-guide-for-customizing-gemini-models/",
+      "published_at": "2026-09-25T16:00:00+00:00",
+      "category": "cloud_providers",
+      "tags": [
+        "AI",
+        "LLMs",
+        "Cloud",
+        "Google Cloud",
+        "AI Models",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.8317,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/topics/developers-practitioners/best-practices-guide-for-customizing-gemini-models/"
+    },
+    {
+      "title": "Storage Intelligence advisor: Know what changed in your storage estate and act on it",
+      "summary": "The volume of data being generated today brings both opportunity and massive operational complexity. Most teams that operate at scale don't discover issues until they appear on an invoice — and by the time an unusual access pattern shows up as a line item, it has often been running for weeks. Understanding what happened means exporting inventory, joining it against access logs, and hoping someone still remembers which service account belongs to which job. That workflow was…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/products/storage-data-transfer/storage-intelligence-advisor-and-batch-operations-updates/",
+      "published_at": "2026-09-25T16:00:00+00:00",
+      "category": "cloud_providers",
+      "tags": [
+        "AI",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.8317,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/products/storage-data-transfer/storage-intelligence-advisor-and-batch-operations-updates/"
+    },
+    {
+      "title": "What’s new with Google Cloud",
+      "summary": "Want to know the latest from Google Cloud? Find it here in one handy location. Check back regularly for our newest updates, announcements, resources, events, learning opportunities, and more. Tip : Not sure where to find what you’re looking for on the Google Cloud blog? Start here: Google Cloud blog 101: Full list of topics, links, and resources . aside_block <ListValue: []> Sept 21 - Sept 25 Master MCP tool authorization and agent governance with Apigee While the Model…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
+      "published_at": "2026-09-25T16:00:00+00:00",
+      "category": "cloud_providers",
+      "tags": [
+        "AI Agents",
+        "Cloud",
+        "Google Cloud",
+        "Data Governance",
+        "APIs",
+        "AI Models",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.8317,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/"
+    },
+    {
+      "title": "Dutch governments builds alternative for Microsoft based on NixOS",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.dawo.community/en/",
+      "published_at": "2026-09-25T08:06:49+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.8288,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49841563"
+    },
+    {
+      "title": "2028: Two scenarios for global AI leadership",
+      "summary": "2028: Two scenarios for global AI leadership anthropic.com",
+      "source_name": "Anthropic",
+      "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0wbVRiTmVURWxrWXNjZXJxR1hMdFBlYVA0VUd0cHBKS2djVVRiT1FjNjZlYXZ2d0pJN0lOVGU2T1ctMjNFcm1TVXhOSVhlM25kTUdmelFCWnZMQUFzZkRqMjQ4MFVEemt0MDc1YndkWS0?oc=5",
+      "published_at": "2026-09-25T00:50:26+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.99,
+      "importance_score": 0.8286,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "CBMicEFVX3lxTE0wbVRiTmVURWxrWXNjZXJxR1hMdFBlYVA0VUd0cHBKS2djVVRiT1FjNjZlYXZ2d0pJN0lOVGU2T1ctMjNFcm1TVXhOSVhlM25kTUdmelFCWnZMQUFzZkRqMjQ4MFVEemt0MDc1YndkWS0"
+    },
+    {
+      "title": "Improving site performance by shipping more CSS",
+      "summary": "A look at how a design system shipped major changes without breaking the world. The post Improving site performance by shipping more CSS appeared first on The GitHub Blog .",
+      "source_name": "The GitHub Blog",
+      "source_url": "https://github.blog/engineering/architecture-optimization/improving-site-performance-by-shipping-more-css/",
+      "published_at": "2026-09-25T15:00:00+00:00",
+      "category": "developer_platforms",
+      "tags": [
+        "Developer Tools",
+        "Developer Platforms"
+      ],
+      "confidence_score": 0.92,
+      "importance_score": 0.8275,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://github.blog/?p=99030"
+    },
+    {
+      "title": "Pentium II at 600Mhz with Voodoo 3 Emulated on 86Box with M6 Mac Mini",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://nyaa.sh/reviews/mac-mini-m6-emulation",
+      "published_at": "2026-09-25T07:27:45+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.6545,
+      "importance_score": 0.8261,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49841285"
+    },
+    {
+      "title": "Allow Carriers on Planes",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.jefftk.com/p/allow-carriers-on-planes",
+      "published_at": "2026-09-25T14:00:10+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.6315,
+      "importance_score": 0.8072,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49844786"
+    },
+    {
+      "title": "What About Rails?",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://jardo.dev/what-about-rails",
+      "published_at": "2026-09-25T02:50:16+00:00",
+      "category": "aggregators",
+      "tags": [
+        "AI",
+        "Hacker News"
+      ],
+      "confidence_score": 0.661,
+      "importance_score": 0.8069,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49839664"
+    },
+    {
+      "title": "The ‘SaaSpocalypse’ is over. How Salesforce now plans to thrive in an AI world",
+      "summary": "",
+      "source_name": "Salesforce News",
+      "source_url": "https://www.salesforce.com/news/linked-content/the-saaspocalypse-is-over-how-salesforce-now-plans-to-thrive-in-an-ai-world/",
+      "published_at": "2026-09-24T19:00:11+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.8042,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.salesforce.com/?post_type=sf_linked_content&p=95752"
+    },
+    {
+      "title": "Factorio that you can touch",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://factorio.com/blog/post/fff-447",
+      "published_at": "2026-09-25T14:24:42+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.6295,
+      "importance_score": 0.8038,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49845133"
+    },
+    {
+      "title": "Introducing Gemini 3.8 Live with Live Avatar",
+      "summary": "",
+      "source_name": "Google DeepMind",
+      "source_url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
+      "published_at": "2026-09-24T16:20:39+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.95,
+      "importance_score": 0.7932,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/"
+    },
+    {
+      "title": "Five Big Ideas Coming Out of Dreamforce 2026",
+      "summary": "In the leadup to Dreamforce 2026, dozens of announcements outlined what enterprises look like when software meets AI, but the event itself filled in the picture. Organizations are being transformed. Ways of working within them are transforming just as quickly. To see how headless architecture, Slack Code, purpose-trained models, and more are going to shape […]",
+      "source_name": "Salesforce News",
+      "source_url": "https://www.salesforce.com/news/stories/five-dreamforce-2026-takeaways/",
+      "published_at": "2026-09-24T15:00:00+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "AI Models",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7875,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.salesforce.com/?p=95728"
+    },
+    {
+      "title": "Ink and Switch Interactive Homepage",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.inkandswitch.com/",
+      "published_at": "2026-09-25T09:50:25+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.6305,
+      "importance_score": 0.7873,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49842270"
+    },
+    {
+      "title": "Opus 5.5 is good at explainer videos",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://launchvideo.io",
+      "published_at": "2026-09-24T20:28:47+00:00",
+      "category": "aggregators",
+      "tags": [
+        "AI",
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7804,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49836374"
+    },
+    {
+      "title": "Observability Day: Where the community comes together at KubeCon + CloudNativeCon North America 2026",
+      "summary": "Observability Day returns to KubeCon + CloudNativeCon North America on November 9, 2026, in Salt Lake City, Utah, bringing together maintainers, operators, and end users from across the CNCF observability community. Observability has reached an important...",
+      "source_name": "CNCF",
+      "source_url": "https://www.cncf.io/blog/2026/09/24/observability-day-where-the-community-comes-together-at-kubecon-cloudnativecon-north-america-2026/",
+      "published_at": "2026-09-24T12:22:50+00:00",
+      "category": "open_source_foundations",
+      "tags": [
+        "AI",
+        "Cloud",
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.87,
+      "importance_score": 0.7766,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.cncf.io/?p=175219"
+    },
+    {
+      "title": "Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design",
+      "summary": "Hello! We’re Sid, Alex, Ketan, and Milan. We’re building Whiteboard ( https://whiteboard.dev.fast/ ), an open-source desktop app where humans and agents can architect software together in a common workspace. Here’s our repo: https://github.com/devdotfast/whiteboard . We were missing the feeling of…",
+      "source_name": "Hacker News",
+      "source_url": "https://github.com/devdotfast/whiteboard",
+      "published_at": "2026-09-24T17:21:36+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Open Source",
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7674,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49833867"
+    },
+    {
+      "title": "Why is the liver so weirdly regenerative?",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://dynomight.substack.com/p/liver",
+      "published_at": "2026-09-24T16:23:00+00:00",
+      "category": "aggregators",
+      "tags": [
+        "GenAI",
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7633,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49832938"
+    },
+    {
+      "title": "Agent Factory recap: Agent harnesses, shifting left, and autonomous coding",
+      "summary": "In this episode of The Agent Factory , we explore the reality of building with autonomous agents alongside Ryan Lopopolo, a software engineer at Google Cloud and the person who coined the term agent harness . From throwing out manual code editors to treating team collaboration like leveling up RPG stats, Ryan breaks down how grounding models in rich context and shifting interventions left unlocks high levels of agent autonomy. This post guides you through the key ideas from…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/topics/developers-practitioners/agent-factory-recap-agent-harnesses-shifting-left-and-autonomous-coding/",
+      "published_at": "2026-09-24T23:00:00+00:00",
+      "category": "cloud_providers",
+      "tags": [
+        "AI Agents",
+        "Cloud",
+        "Google Cloud",
+        "AI Models",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.7609,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/topics/developers-practitioners/agent-factory-recap-agent-harnesses-shifting-left-and-autonomous-coding/"
+    },
+    {
+      "title": "F-Droid 2.0",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html",
+      "published_at": "2026-09-24T15:26:12+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7593,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49831968"
+    },
+    {
+      "title": "Anthropic’s Blacklisting by the Pentagon Was Legal, Federal Judges Rule",
+      "summary": "The Pentagon had “ample support for its conclusion” that the A.I. company’s products could pose a national security risk, according to a Washington appeals court ruling.",
+      "source_name": "The New York Times - Technology",
+      "source_url": "https://www.nytimes.com/2026/09/25/technology/anthropic-trump-ruling.html",
+      "published_at": "2026-09-25T17:46:01+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Security",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7591,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.nytimes.com/2026/09/25/technology/anthropic-trump-ruling.html"
+    },
+    {
+      "title": "Bill Gates warns AI is 'powerful enough to drive events that cause a billion deaths'",
+      "summary": "The cofounder of Microsoft made grave predictions about AI and voiced support for government regulation of the sector.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/bill-gates-ai-warning-billion-deaths-2026-9",
+      "published_at": "2026-09-25T17:45:02+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.759,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/bill-gates-ai-warning-billion-deaths-2026-9"
+    },
+    {
+      "title": "Some Supabase customers are publicly exposing reams of people’s data to the web",
+      "summary": "The findings highlight how AI-generated and vibe-coded apps can spill and expose users' data when not configured or secured properly.",
+      "source_name": "TechCrunch - AI",
+      "source_url": "https://techcrunch.com/2026/09/25/some-supabase-customers-are-publicly-exposing-reams-of-peoples-data-to-the-web/",
+      "published_at": "2026-09-25T17:29:46+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7579,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://techcrunch.com/?p=3169211"
+    },
+    {
+      "title": "Astra and Opus just passed Turing’s other test",
+      "summary": "Frontier AI models are finishing Alan Turing's World War II codebreaking work.",
+      "source_name": "TechCrunch - AI",
+      "source_url": "https://techcrunch.com/2026/09/25/astra-and-opus-just-passed-turings-other-test/",
+      "published_at": "2026-09-25T17:24:36+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "AI Models",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7576,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://techcrunch.com/?p=3169728"
+    },
+    {
+      "title": "Classified Estimates Show the NSA Is Paying Billions to Test AI Models",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.washingtonsun.com/technology/classified-estimates-nsa-paying-billions-to-test-ai-models",
+      "published_at": "2026-09-25T15:27:35+00:00",
+      "category": "aggregators",
+      "tags": [
+        "AI",
+        "AI Models",
+        "Hacker News"
+      ],
+      "confidence_score": 0.609,
+      "importance_score": 0.7569,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49845952"
+    },
+    {
+      "title": "I wasn't ready to leave my college, so I took a job at my alma mater. It gave me the closure graduation never did.",
+      "summary": "After graduating from college, I took an administrative job at my school. It was a strange experience, but it helped me feel ready to move on.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/took-job-at-college-after-graduating-strange-but-worth-it-2026-9",
+      "published_at": "2026-09-25T17:12:01+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7567,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/took-job-at-college-after-graduating-strange-but-worth-it-2026-9"
+    },
+    {
+      "title": "Each state's infrastructure, ranked worst to best",
+      "summary": "Infrastructure has a big impact on the quality of day-to-day life. Some states have slower internet, longer commutes, and more expensive electricity.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/states-infrastructure-ranked-2026-9",
+      "published_at": "2026-09-25T17:01:13+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7559,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/states-infrastructure-ranked-2026-9"
+    },
+    {
+      "title": "Appeals Court Lets the Pentagon Designate Anthropic a Supply-Chain Risk",
+      "summary": "The AI lab had argued multiple violations of its rights, but a divided panel of judges sided with the Trump administration.",
+      "source_name": "Wired",
+      "source_url": "https://www.wired.com/story/appeals-court-lets-the-pentagon-designate-anthropic-a-supply-chain-risk/",
+      "published_at": "2026-09-25T16:58:20+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7557,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "6ab69b4edd296d4bba528714"
+    },
+    {
+      "title": "Every Taylor Swift album, ranked from worst to best",
+      "summary": "We used a unique scoring system to rank all 12 of Taylor Swift's albums. Her newest release, \"The Life of a Showgirl,\" landed in last place.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/taylor-swift-albums-ranked-best-worst",
+      "published_at": "2026-09-25T16:45:12+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7548,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/taylor-swift-albums-ranked-best-worst"
+    },
+    {
+      "title": "Ron Johnson worked with Steve Jobs for 11 years. This lesson stuck with him.",
+      "summary": "Ron Johnson oversaw the creation of 350 Apple stores — but success didn't happen overnight.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/apple-former-retail-chief-ron-johnson-lesson-steve-jobs-2026-9",
+      "published_at": "2026-09-25T16:41:00+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7545,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/apple-former-retail-chief-ron-johnson-lesson-steve-jobs-2026-9"
+    },
+    {
+      "title": "All 32 Robert Pattinson movies, ranked",
+      "summary": "From \"Twilight\" and \"Tenet\" to \"Primetime,\" here are the actor's best and worst films, according to critics.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/robert-pattinson-movies-ranked",
+      "published_at": "2026-09-25T16:38:34+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7544,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/robert-pattinson-movies-ranked"
+    },
+    {
+      "title": "I was afraid to delegate tasks for my 7-figure business. Learning to let go helped me grow it to nearly $5M.",
+      "summary": "Luba Patlakh Kaplun was burned out when her business hit seven figures. New systems and management helped revenue grow to nearly $5 million.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/seven-figure-business-burnout-delegating-growth-systems-2026-9",
+      "published_at": "2026-09-25T16:37:01+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7543,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/seven-figure-business-burnout-delegating-growth-systems-2026-9"
+    },
+    {
+      "title": "44 of the best and worst looks Melania Trump has worn as first lady",
+      "summary": "Melania Trump's best looks as first lady balance professional style and high fashion, but she has also worn some controversial outfits.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/melania-trump-best-worst-looks-first-lady-2025-1",
+      "published_at": "2026-09-25T16:33:18+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.754,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/melania-trump-best-worst-looks-first-lady-2025-1"
+    },
+    {
+      "title": "A Google employee said he quit because he's worried about superintelligent AI",
+      "summary": "Google employee Robert O'Callahan said he couldn't \"turn a blind eye\" to the work he was doing, and that AI's dangers should be \"taken seriously.\"",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/google-deepmind-employee-resigns-ai-safety-harm-chips-robert-ocallahan-2026-9",
+      "published_at": "2026-09-25T16:30:39+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7538,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/google-deepmind-employee-resigns-ai-safety-harm-chips-robert-ocallahan-2026-9"
+    },
+    {
+      "title": "Meta smart glasses have a new AI-training opt-out",
+      "summary": "Meta has changed the privacy settings on its glasses. Now, users can opt out of sending visual data to train AI.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/meta-glasses-ai-visual-data-opt-out-training-2026-9",
+      "published_at": "2026-09-25T16:23:27+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7533,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/meta-glasses-ai-visual-data-opt-out-training-2026-9"
+    },
+    {
+      "title": "Appeals court allows Pentagon to label Anthropic a national security risk",
+      "summary": "The Trump administration can blacklist AI firm Anthropic from all Pentagon contracts, a federal appeals court ruled Friday.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/appeals-court-allows-pentagon-to-label-anthropic-national-security-risk-2026-9",
+      "published_at": "2026-09-25T16:19:53+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Security",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7531,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/appeals-court-allows-pentagon-to-label-anthropic-national-security-risk-2026-9"
+    },
+    {
+      "title": "Meta is putting its muscle behind Muse as the AI app takes off",
+      "summary": "Muse is topping the app store charts and adding users at a rapid clip, while Meta ramps up the personal AI agent's promotion across its own apps and beyond.",
+      "source_name": "TechCrunch - AI",
+      "source_url": "https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/",
+      "published_at": "2026-09-25T16:16:52+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "APIs",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7529,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://techcrunch.com/?p=3169621"
+    },
+    {
+      "title": "Introducing enhanced custom event buses in Amazon EventBridge for enterprise-scale event-driven applications",
+      "summary": "Amazon EventBridge announces an enhanced custom event bus for organizations scaling event-driven applications across teams and accounts. Deploy a single event bus shared across all AWS accounts in your organization, with ordering guarantees, a simplified Subscriber resource, and improved economics at scale.",
+      "source_name": "AWS News Blog",
+      "source_url": "https://aws.amazon.com/blogs/aws/introducing-enhanced-custom-event-buses-in-amazon-eventbridge-for-enterprise-scale-event-driven-applications/",
+      "published_at": "2026-09-24T20:58:46+00:00",
+      "category": "cloud_providers",
+      "tags": [
+        "AWS",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.7525,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "219ec8af489642b8d1376bf298af0a210a58f33c"
+    },
+    {
+      "title": "See the luxurious, heavily fortified presidential jets that world leaders use for official travel",
+      "summary": "The US president flies on Air Force One. Other world leaders in other countries also have their own official aircraft.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/air-force-one-presidential-planes-around-the-world",
+      "published_at": "2026-09-25T16:10:48+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7524,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/air-force-one-presidential-planes-around-the-world"
+    }
+  ]
+}
