@@ -1,0 +1,802 @@
+{
+  "generated_at": "2026-09-27T17:49:31.824489+00:00",
+  "post_date": "2026-09-27",
+  "sources_checked": 48,
+  "candidates": 45,
+  "items": [
+    {
+      "title": "Installing NeoVim caused original Vim undo files to be deleted",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://unsung.aresluna.org/they-had-no-concept-of-a-duty-of-care-to-their-users/",
+      "published_at": "2026-09-27T14:45:07+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.6855,
+      "importance_score": 0.8572,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49867067"
+    },
+    {
+      "title": "10 Tells of a Slop UI",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://hereticpleb.vercel.app/blog/10-tells-of-slop",
+      "published_at": "2026-09-27T14:41:26+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.6715,
+      "importance_score": 0.8569,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49867038"
+    },
+    {
+      "title": "Unsealed Briefs in Authors’ Case v. Microsoft/OpenAI",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/",
+      "published_at": "2026-09-27T06:19:33+00:00",
+      "category": "aggregators",
+      "tags": [
+        "AI",
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.8221,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49863864"
+    },
+    {
+      "title": "The Normalization of Inexplicable Failures",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.ihatethefuture.com/2026/09/the-normalization-of-inexplicable.html",
+      "published_at": "2026-09-27T15:26:40+00:00",
+      "category": "aggregators",
+      "tags": [
+        "AI",
+        "Hacker News"
+      ],
+      "confidence_score": 0.6205,
+      "importance_score": 0.7863,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49867486"
+    },
+    {
+      "title": "DeepSeek Elastic Compute (DSec)",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://arxiv.org/abs/2609.22978",
+      "published_at": "2026-09-26T18:22:41+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7723,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49859112"
+    },
+    {
+      "title": "Show HN: Reladraw – A diagram language where you decide where to place things",
+      "summary": "I love making diagrams to help understand, plan, etc. However, the options are (A) auto-placement languages like Mermaid or Graphviz (which don't let me decide how the diagram looks), or (B) software like Draw.io which are powerful but are very time consuming (and inefficient for agents to…",
+      "source_name": "Hacker News",
+      "source_url": "https://github.com/reladraw/reladraw",
+      "published_at": "2026-09-26T17:10:40+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7673,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49858513"
+    },
+    {
+      "title": "😺 Tens of Thousands of AI Incidents",
+      "summary": "PLUS: Microsoft rebuilt Copilot around persistent agents.",
+      "source_name": "The Neuron",
+      "source_url": "https://www.theneurondaily.com/p/tens-of-thousands-of-ai-incidents",
+      "published_at": "2026-09-27T17:30:00+00:00",
+      "category": "ai_newsletters",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Ai Newsletters"
+      ],
+      "confidence_score": 0.64,
+      "importance_score": 0.7586,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.theneurondaily.com/p/tens-of-thousands-of-ai-incidents"
+    },
+    {
+      "title": "Go Concurrency Distilled",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://antonz.org/go-concurrency-distilled/",
+      "published_at": "2026-09-26T14:34:49+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7565,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49856988"
+    },
+    {
+      "title": "Bill Gates says the future of AI will happen in 2 phases and lead to 'an era of abundance'",
+      "summary": "On \"Meet the Press,\" Bill Gates said humanity is entering the messy first phase of AI, but the second one could bring an \"era of abundance.\"",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/bill-gates-future-of-ai-will-happen-in-two-phases-2026-9",
+      "published_at": "2026-09-27T16:55:13+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7562,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/bill-gates-future-of-ai-will-happen-in-two-phases-2026-9"
+    },
+    {
+      "title": "Anthropic’s Dario Amodei gets the SNL treatment",
+      "summary": "\"AI is the devil and I its maker.\"",
+      "source_name": "TechCrunch - AI",
+      "source_url": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
+      "published_at": "2026-09-27T16:30:00+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7545,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://techcrunch.com/?p=3170300"
+    },
+    {
+      "title": "'Saturday Night Live' spoofs Dario Amodei: ‘AI is the devil and I its maker’",
+      "summary": "In a sketch, \"Saturday Night Live\" portrayed Dario Amodei as a bumbling megalomaniac struggling to explain why his own technology won't end the world.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/snl-skit-mocks-dario-amodei-ai-doomsday-predictions-2026-9",
+      "published_at": "2026-09-27T15:39:24+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.751,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/snl-skit-mocks-dario-amodei-ai-doomsday-predictions-2026-9"
+    },
+    {
+      "title": "Meta surprises everyone with an AI device for Muse",
+      "summary": "Meta surprises everyone with an AI device for Muse Superhuman AI",
+      "source_name": "Superhuman (Zain Kahn)",
+      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNEEtSXc1R0VqTUxreXBZbVQwZ0dweWhvbzNUTTlTQXM3UjZrY3Z0dEV0N0JINUdFX3RaYXJ0N2RJTjRTZ3FfbzNsT2JMZTBQazY0NUctTUdmUnlJZ2RwcnVub3k5bW0tampYZzRSNEJyYlBCaDc2S3phMW00RlA3YlNpOUY?oc=5",
+      "published_at": "2026-09-27T13:44:34+00:00",
+      "category": "ai_newsletters",
+      "tags": [
+        "AI",
+        "Ai Newsletters"
+      ],
+      "confidence_score": 0.64,
+      "importance_score": 0.743,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "CBMihAFBVV95cUxNNEEtSXc1R0VqTUxreXBZbVQwZ0dweWhvbzNUTTlTQXM3UjZrY3Z0dEV0N0JINUdFX3RaYXJ0N2RJTjRTZ3FfbzNsT2JMZTBQazY0NUctTUdmUnlJZ2RwcnVub3k5bW0tampYZzRSNEJyYlBCaDc2S3phMW00RlA3YlNpOUY"
+    },
+    {
+      "title": "OpenAI & Anthropic unveil new models and generous usage",
+      "summary": "OpenAI & Anthropic unveil new models and generous usage Superhuman AI",
+      "source_name": "Superhuman (Zain Kahn)",
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaUE3MDN0V1VweW96MTRnY3lhQ2JQWTRyMHFEZUFYS2ZzY0JSX1Z5Z2VhdjZwdjhiemxXYnRJV0s2aHVBMVd1d0lwUVZnWWtxWlJ3ekNSRml2dlVpQ3MxMnBFSll6UmlYaGVjTHAyZmxiTlpfYUxpQTFoR1ZPdmZGbXI1YUZHN3kz?oc=5",
+      "published_at": "2026-09-27T13:44:24+00:00",
+      "category": "ai_newsletters",
+      "tags": [
+        "AI",
+        "AI Models",
+        "Ai Newsletters"
+      ],
+      "confidence_score": 0.64,
+      "importance_score": 0.743,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "CBMiiAFBVV95cUxQaUE3MDN0V1VweW96MTRnY3lhQ2JQWTRyMHFEZUFYS2ZzY0JSX1Z5Z2VhdjZwdjhiemxXYnRJV0s2aHVBMVd1d0lwUVZnWWtxWlJ3ekNSRml2dlVpQ3MxMnBFSll6UmlYaGVjTHAyZmxiTlpfYUxpQTFoR1ZPdmZGbXI1YUZHN3kz"
+    },
+    {
+      "title": "Poetry for Engineers: The UI Designer’s Dream",
+      "summary": "Read Ralph Earle’s poem from the October 2026 issue",
+      "source_name": "IEEE Spectrum",
+      "source_url": "https://spectrum.ieee.org/poetry-user-interface-design",
+      "published_at": "2026-09-27T13:00:03+00:00",
+      "category": "research_feeds",
+      "tags": [
+        "Research Feeds"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.7399,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://spectrum.ieee.org/poetry-user-interface-design"
+    },
+    {
+      "title": "Fixing transportation issues is key to getting more workers into US submarine yards and keeping them, Navy official says",
+      "summary": "The Navy is tackling local barriers like transportation and housing as it works to recruit and retain more submarine workers.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/fixing-transportation-issues-us-submarine-workers-key-navy-official-2026-9",
+      "published_at": "2026-09-27T12:33:01+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.738,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/fixing-transportation-issues-us-submarine-workers-key-navy-official-2026-9"
+    },
+    {
+      "title": "I'm a dietitian who specializes in weight loss. Here are 4 fiber- and protein-rich breakfasts I eat when I'm tired of eggs.",
+      "summary": "From chia pudding to avocado toast, here's what a dietitian specializing in weight loss eats for quick, easy, high-fiber, high-protein breakfasts.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/breakfast-ideas-dietitian-weight-loss-fiber-protein-recipes-2026-9",
+      "published_at": "2026-09-27T12:20:01+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7371,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/breakfast-ideas-dietitian-weight-loss-fiber-protein-recipes-2026-9"
+    },
+    {
+      "title": "I'm a matchmaker who charges up to $250,000. My clients want partners who are driven, but flexible.",
+      "summary": "Matchmaker Sameera Sullivan runs her own agency. She charges clients up to $250,000, depending on how specific they are with their preferences.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/matchmaker-wealthy-successful-clients-2026-9",
+      "published_at": "2026-09-27T12:07:01+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7362,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/matchmaker-wealthy-successful-clients-2026-9"
+    },
+    {
+      "title": "A NATO defense minister warns that the alliance needs to learn how to disperse weapons production before it's at war",
+      "summary": "Latvia is watching how Ukraine's arms makers work during wartime, including by producing in a host of sites so none can be a single point of failure.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/nato-must-learn-disperse-weapons-making-before-war-minister-ukraine-2026-9",
+      "published_at": "2026-09-27T11:57:01+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7355,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/nato-must-learn-disperse-weapons-making-before-war-minister-ukraine-2026-9"
+    },
+    {
+      "title": "I moved countries for love in my late 40s. I had to rebuild my career, friendships, and identity.",
+      "summary": "I moved from India to Austria for love in my late 40s, leaving an established career behind. Starting over taught me it's never too late.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/moved-abroad-for-love-midlife-starting-over-2026-9",
+      "published_at": "2026-09-27T11:48:01+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7349,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/moved-abroad-for-love-midlife-starting-over-2026-9"
+    },
+    {
+      "title": "Best Party Speakers (2026): JBL, Sony, Marshall, and More",
+      "summary": "These speakers combine serious volume, big bass, portability, and the occasional karaoke session to bring the party anywhere.",
+      "source_name": "Wired",
+      "source_url": "https://www.wired.com/story/best-party-speaker/",
+      "published_at": "2026-09-27T11:30:00+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7336,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "6ab29b85ade3d66cae78de32"
+    },
+    {
+      "title": "The British military is feeding a 'load of data' from the war in Ukraine into its next-gen Challenger 3 main battle tank",
+      "summary": "The Challenger 3 is a major upgrade over its predecessor, which has been in service with the British Army and the Ukrainian military.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/britains-new-main-battle-tank-evolving-alongside-ukraine-war-2026-9",
+      "published_at": "2026-09-27T11:25:01+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7333,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/britains-new-main-battle-tank-evolving-alongside-ukraine-war-2026-9"
+    },
+    {
+      "title": "As A.I. Accelerates, Governments Are Increasingly Being Left Behind",
+      "summary": "The gap between technology and policymaking has gotten wider than ever with artificial intelligence, leaving a global policy vacuum as A.I. models rapidly advance.",
+      "source_name": "The New York Times - Technology",
+      "source_url": "https://www.nytimes.com/2026/09/27/technology/ai-government-regulation.html",
+      "published_at": "2026-09-27T11:22:48+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "APIs",
+        "AI Models",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7332,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.nytimes.com/2026/09/27/technology/ai-government-regulation.html"
+    },
+    {
+      "title": "My husband has been going on the same family trip every year since he was a baby. Now, we get to bring our daughter.",
+      "summary": "My husband has been going on the same family trip every year for decades. I joined in 2015, and now, we bring our daughter.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/same-family-trip-annually-now-daughter-comes-too-2026-9",
+      "published_at": "2026-09-27T11:17:01+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7327,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/same-family-trip-annually-now-daughter-comes-too-2026-9"
+    },
+    {
+      "title": "My sister and I started a small business reselling vintage items. Here's what everyone gets wrong about our business.",
+      "summary": "My sister and I dig through thrift stores and estate sales to find the best vintage items. We then list them on Etsy at a markup.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/what-people-get-wrong-about-small-business-reselling-vintage-2026-9",
+      "published_at": "2026-09-27T11:07:01+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7321,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/what-people-get-wrong-about-small-business-reselling-vintage-2026-9"
+    },
+    {
+      "title": "What’s the Best Pet DNA Test? We Tested the Most Popular Ones",
+      "summary": "I sent my cats’ saliva to the lab to get health and genetic insights sent to my inbox—with very different results.",
+      "source_name": "Wired",
+      "source_url": "https://www.wired.com/story/best-pet-dna-test-kits/",
+      "published_at": "2026-09-27T11:02:00+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7317,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "6ab18d7a4e3d15d402c74d0e"
+    },
+    {
+      "title": "The Meta data center in Louisiana is creating a housing boom",
+      "summary": "Meta is building its largest data center in northeast Louisiana, where residents are finding ways to leverage the influx of construction workers.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/photos-workforce-housing-attracting-metas-data-center-workers-2026-9",
+      "published_at": "2026-09-27T10:39:01+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7301,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/photos-workforce-housing-attracting-metas-data-center-workers-2026-9"
+    },
+    {
+      "title": "Apple buried Copland 30 years ago. Now the failed OS boots in a browser",
+      "summary": "The final developer build offers a glimpse of the future Cupertino abandoned for NeXT",
+      "source_name": "The Register",
+      "source_url": "https://www.theregister.com/os-platforms/2026/09/27/apple-buried-copland-30-years-ago-now-the-failed-os-boots-in-a-browser/5299201",
+      "published_at": "2026-09-27T10:30:00+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7295,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.theregister.com/a/5299201"
+    },
+    {
+      "title": "I spent $7,500 on a full-body checkup and cosmetic procedures in Turkey",
+      "summary": "A disappointing physical sent me looking for healthcare 6,000 miles from home. It was cheaper and more comprehensive.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/medical-tourism-turkey-affordable-healthcare-abroad-personal-experience-2026-9",
+      "published_at": "2026-09-27T10:29:01+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7294,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/medical-tourism-turkey-affordable-healthcare-abroad-personal-experience-2026-9"
+    },
+    {
+      "title": "There are no \"rogue\" AI agents",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents",
+      "published_at": "2026-09-27T16:19:46+00:00",
+      "category": "aggregators",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Hacker News"
+      ],
+      "confidence_score": 0.596,
+      "importance_score": 0.7288,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49868083"
+    },
+    {
+      "title": "You Don’t Need to Pay for Distraction-Blocking Software",
+      "summary": "These free iOS and Android apps create the physical friction you need to put down your phone.",
+      "source_name": "Wired",
+      "source_url": "https://www.wired.com/story/you-dont-need-to-pay-for-distraction-blocking-software/",
+      "published_at": "2026-09-27T10:15:00+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7284,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "6ab14fb10c234d337ce354d0"
+    },
+    {
+      "title": "Flip Fluid on Flip Dots",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://mitxela.com/projects/flipflip",
+      "published_at": "2026-09-26T07:50:24+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.6945,
+      "importance_score": 0.7284,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49854219"
+    },
+    {
+      "title": "The Data Center Backlash Should Also Be a Climate Reckoning. It Isn’t Yet",
+      "summary": "Climate groups are latching onto the data center opposition movement, but it remains to be seen if they can get people to care about the facilities’ impact on the atmosphere.",
+      "source_name": "Wired",
+      "source_url": "https://www.wired.com/story/data-center-backlash-climate-reckoning/",
+      "published_at": "2026-09-27T10:00:00+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7274,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "6ab3f05fca9e238475678ea9"
+    },
+    {
+      "title": "Big AI's content problem: Take the work, keep the money",
+      "summary": "The more we learn about how AI does business, the more unfair it looks",
+      "source_name": "The Register",
+      "source_url": "https://www.theregister.com/columnists/2026/09/27/big-ais-content-problem-take-the-work-keep-the-money/5299007",
+      "published_at": "2026-09-27T09:35:00+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7257,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.theregister.com/a/5299007"
+    },
+    {
+      "title": "Nicotine Is Mounting a Comeback in the Wellness Movement",
+      "summary": "Improving mood and increasing longevity are just some of the unfounded claims about this substance circling around the “natural” medicine corners of the internet.",
+      "source_name": "Wired",
+      "source_url": "https://www.wired.com/story/nicotine-is-mounting-a-comeback-in-the-wellness-movement/",
+      "published_at": "2026-09-27T09:30:00+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7253,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "6ab2c8132f4fc19ebd23bd04"
+    },
+    {
+      "title": "Some Pancreatic Cells Are Just One Genetic Tweak Away From Treating Diabetes",
+      "summary": "By deactivating a gene, researchers were able to cause cells in the pancreatic ducts to produce insulin to regulate blood sugar.",
+      "source_name": "Wired",
+      "source_url": "https://www.wired.com/story/pancreatic-cells-just-one-genetic-tweak-away-from-treating-diabetes/",
+      "published_at": "2026-09-27T09:00:00+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Research",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7232,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "6aa07f15595a9758dc597fc9"
+    },
+    {
+      "title": "Warning: Two Unpatched Citrix NetScaler RCE Zero-Days Under Active Exploitation",
+      "summary": "Two critical vulnerabilities in Citrix NetScaler ADC and NetScaler Gateway that allow remote code execution have been exploited in the wild, Citrix confirmed on September 27. It released fixes for both, along with six other flaws. One of the two affects every deployment on an affected version, including those in the default configuration. The bulletin came a day after security firm watchTowr",
+      "source_name": "The Hacker News",
+      "source_url": "https://thehackernews.com/2026/09/warning-two-unpatched-citrix-netscaler.html",
+      "published_at": "2026-09-27T07:47:57+00:00",
+      "category": "cybersecurity",
+      "tags": [
+        "AWS",
+        "Security",
+        "Cybersecurity"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7182,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://thehackernews.com/2026/09/warning-two-unpatched-citrix-netscaler.html"
+    },
+    {
+      "title": "In an $80 Motel Room, a Discovery to Shed Light on the Origins of Life",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.nytimes.com/2026/09/26/science/motel-science-discovery.html",
+      "published_at": "2026-09-27T14:30:55+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.5945,
+      "importance_score": 0.7175,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49866951"
+    },
+    {
+      "title": "postmarketOS Rebrand: Nura",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://nura.eco/blog/2026/09/27/nura-rename/",
+      "published_at": "2026-09-27T15:31:15+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.5895,
+      "importance_score": 0.7092,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49867553"
+    },
+    {
+      "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
+      "summary": "With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster.",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/proaction",
+      "published_at": "2026-09-25T19:00:00+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.97,
+      "importance_score": 0.7049,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/index/proaction"
+    },
+    {
+      "title": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://arxiv.org/abs/2609.25021",
+      "published_at": "2026-09-27T10:26:25+00:00",
+      "category": "aggregators",
+      "tags": [
+        "LLMs",
+        "AI Models",
+        "Hacker News"
+      ],
+      "confidence_score": 0.5945,
+      "importance_score": 0.7005,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49865343"
+    },
+    {
+      "title": "Replacing the old battery on rechargeable bike lights",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://jvns.ca/blog/2026/09/27/replacing-the-old-battery-on-rechargeable-bike-lights/",
+      "published_at": "2026-09-27T13:30:11+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.5865,
+      "importance_score": 0.6932,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49866515"
+    },
+    {
+      "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
+      "summary": "The limited test covers select products and users, with a broader rollout planned for later in October.",
+      "source_name": "TechCrunch - AI",
+      "source_url": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
+      "published_at": "2026-09-27T01:30:00+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.692,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://techcrunch.com/?p=3170226"
+    },
+    {
+      "title": "The internet discovers TLA+. Now what?",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://reasonable.io/blog/tla-tutorial/",
+      "published_at": "2026-09-27T05:26:15+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.598,
+      "importance_score": 0.6884,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49863600"
+    },
+    {
+      "title": "Ten Lines of Code That Changed My World",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://pixelambacht.nl/2026/ten-lines-of-code/",
+      "published_at": "2026-09-27T13:33:03+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.5835,
+      "importance_score": 0.686,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49866534"
+    },
+    {
+      "title": "Insurers claim AI is already increasing healthcare costs",
+      "summary": "Blue Cross Blue Shield says hospital use of AI tools led to an additional $942M in healthcare spending over a two-year period.",
+      "source_name": "TechCrunch - AI",
+      "source_url": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
+      "published_at": "2026-09-26T21:02:06+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.6734,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://techcrunch.com/?p=3170285"
+    }
+  ]
+}
