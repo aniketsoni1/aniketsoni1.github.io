@@ -1,0 +1,837 @@
+{
+  "generated_at": "2026-09-28T20:10:01.264632+00:00",
+  "post_date": "2026-09-28",
+  "sources_checked": 48,
+  "candidates": 45,
+  "items": [
+    {
+      "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+      "summary": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+      "source_name": "Google AI (The Keyword)",
+      "source_url": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/",
+      "published_at": "2026-09-28T19:00:00+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.8952,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/"
+    },
+    {
+      "title": "The case for a cloud native agent harness",
+      "summary": "Coding agents became useful when they stopped being a chat box. Four things changed the shape of the problem: capable tools, a shared repository and filesystem, subagents, and skills that capture what the system learned from...",
+      "source_name": "CNCF",
+      "source_url": "https://www.cncf.io/blog/2026/09/28/the-case-for-a-cloud-native-agent-harness/",
+      "published_at": "2026-09-28T11:00:00+00:00",
+      "category": "open_source_foundations",
+      "tags": [
+        "AI Agents",
+        "Cloud",
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8618,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.cncf.io/?p=175247"
+    },
+    {
+      "title": "Sonnet 5.5",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.anthropic.com/claude-sonnet-5-5",
+      "published_at": "2026-09-28T17:58:11+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.8608,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49881850"
+    },
+    {
+      "title": "Windows 11½",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://definitelynotwindows.com/",
+      "published_at": "2026-09-28T17:51:24+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.6885,
+      "importance_score": 0.8604,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49881747"
+    },
+    {
+      "title": "Pirating the Pirates",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://mubi.com/en/notebook/posts/pirating-the-pirates",
+      "published_at": "2026-09-28T15:54:15+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.6815,
+      "importance_score": 0.8522,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49880036"
+    },
+    {
+      "title": "MongoDB CEO resigns to join Meta",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.reuters.com/technology/mongodb-ceo-desai-steps-down-lead-metas-enterprise-platform-2026-09-28/",
+      "published_at": "2026-09-28T14:54:21+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.672,
+      "importance_score": 0.8481,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49879000"
+    },
+    {
+      "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
+      "summary": "OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering support.",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/lenfest-ai-collaborative-expansion",
+      "published_at": "2026-09-28T07:00:00+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.99,
+      "importance_score": 0.8452,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/index/lenfest-ai-collaborative-expansion"
+    },
+    {
+      "title": "How we found 24 Android vulnerabilities using our open source AI security agent",
+      "summary": "A look at the targeted AI taskflows behind these findings, the critical Android bugs they uncovered, and how to run the same open-source agent on your own app. The post How we found 24 Android vulnerabilities using our open source AI security agent appeared first on The GitHub Blog .",
+      "source_name": "The GitHub Blog",
+      "source_url": "https://github.blog/security/how-we-found-24-android-vulnerabilities-using-our-open-source-ai-security-agent/",
+      "published_at": "2026-09-28T19:00:00+00:00",
+      "category": "developer_platforms",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Open Source",
+        "Security",
+        "Developer Tools",
+        "Developer Platforms"
+      ],
+      "confidence_score": 0.92,
+      "importance_score": 0.8352,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://github.blog/?p=98105"
+    },
+    {
+      "title": "Parley: Federated, decentralised chat that speaks plain IRC",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://git.mills.io/prologic/parley",
+      "published_at": "2026-09-28T10:30:54+00:00",
+      "category": "aggregators",
+      "tags": [
+        "AI",
+        "Hacker News"
+      ],
+      "confidence_score": 0.678,
+      "importance_score": 0.8298,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49875913"
+    },
+    {
+      "title": "Highlights from Git 2.56",
+      "summary": "The open source Git project just released Git 2.56. Here is GitHub's look at some of the most interesting features and changes introduced since last time. The post Highlights from Git 2.56 appeared first on The GitHub Blog .",
+      "source_name": "The GitHub Blog",
+      "source_url": "https://github.blog/open-source/git/highlights-from-git-2-56/",
+      "published_at": "2026-09-28T17:23:33+00:00",
+      "category": "developer_platforms",
+      "tags": [
+        "Open Source",
+        "Developer Tools",
+        "Developer Platforms"
+      ],
+      "confidence_score": 0.92,
+      "importance_score": 0.8285,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://github.blog/?p=99087"
+    },
+    {
+      "title": "AWS Weekly Roundup: GPT-6 Sol and Luna, Claude Opus 5.5 on Amazon Bedrock, Strands harness, and more (September 28, 2026)",
+      "summary": "If there’s one theme that defined last week, it’s choice. The frontier models keep arriving, and the interesting question is no longer just “how smart is it?” but “which model fits this step, at this cost, at this latency?” That’s exactly what landed on Amazon Bedrock over the past few days: GPT-6 Sol and GPT-6 […]",
+      "source_name": "AWS News Blog",
+      "source_url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-gpt-6-sol-and-luna-claude-opus-5-5-on-amazon-bedrock-strands-harness-and-more-september-28-2026/",
+      "published_at": "2026-09-28T16:14:54+00:00",
+      "category": "cloud_providers",
+      "tags": [
+        "AWS",
+        "AI Models",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.8237,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "bd4f16a7bf860913e1106ba3aa40014256a857e5"
+    },
+    {
+      "title": "Introducing Ask, a new Google Earth Engine feature to accelerate geospatial coding",
+      "summary": "Whether you are mapping global forest cover, detecting changes in the built environment, or monitoring agricultural yields, writing scripts in Google Earth Engine is a powerful way to develop these insights. This platform is part of Google Earth AI , our collection of geospatial models and datasets designed to help you transform planetary information into actionable intelligence, and we’ve launched a new feature, Ask, that makes accessing that planetary intelligence even…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/products/data-analytics/accelerate-geospatial-coding-with-ai-in-google-earth-engine/",
+      "published_at": "2026-09-28T16:00:00+00:00",
+      "category": "cloud_providers",
+      "tags": [
+        "AI",
+        "AI Models",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.8227,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/products/data-analytics/accelerate-geospatial-coding-with-ai-in-google-earth-engine/"
+    },
+    {
+      "title": "Why your startup needs open models alongside frontier APIs",
+      "summary": "Every week, I talk with founders who are building at an unbelievable pace. Teams are moving from inception to product-market fit faster than ever, with foundation models wired deeply into their core product workflows. Yet as startup architectures mature, a clear divide has emerged between teams struggling with margins and those scaling sustainably. The most effective engineering teams have abandoned the one-size-fits-all model strategy. In the early days of LLMs the default…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/topics/startups/why-your-startup-needs-open-models-alongside-frontier-apis/",
+      "published_at": "2026-09-28T16:00:00+00:00",
+      "category": "cloud_providers",
+      "tags": [
+        "AI",
+        "LLMs",
+        "APIs",
+        "AI Models",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.8227,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/topics/startups/why-your-startup-needs-open-models-alongside-frontier-apis/"
+    },
+    {
+      "title": "Getting started with Apache Iceberg write support in Amazon Redshift – Part 3",
+      "summary": "Amazon Redshift now supports evolving Apache Iceberg table schemas and partition layouts through ALTER statements, with no data rewrites or pipeline rebuilds. In this final post of the series, you rename, add, drop, and widen columns, evolve partitions, and create AWS Lake Formation resource links for governed cross-engine access to Amazon S3 Tables.",
+      "source_name": "AWS Big Data Blog",
+      "source_url": "https://aws.amazon.com/blogs/big-data/getting-started-with-apache-iceberg-write-support-in-amazon-redshift-part-3/",
+      "published_at": "2026-09-28T15:48:35+00:00",
+      "category": "cloud_providers",
+      "tags": [
+        "Data Pipelines",
+        "AWS",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.92,
+      "importance_score": 0.8219,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "86614ebec853787349c302007d0e2dc80a14367f"
+    },
+    {
+      "title": "Enforce IAM permissions boundaries for Amazon SageMaker Unified Studio Tooling blueprints",
+      "summary": "Amazon SageMaker Unified Studio now supports custom permissions boundaries for the IAM roles its Tooling blueprint creates. Learn how to create a permissions boundary that restricts AI agent capabilities, configure it on the Tooling blueprint with the AWS CLI, and validate that every provisioned role carries the boundary.",
+      "source_name": "AWS Big Data Blog",
+      "source_url": "https://aws.amazon.com/blogs/big-data/enforce-iam-permissions-boundaries-for-amazon-sagemaker-unified-studio-tooling-blueprints/",
+      "published_at": "2026-09-28T15:45:42+00:00",
+      "category": "cloud_providers",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "AWS",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.92,
+      "importance_score": 0.8217,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "a3b83b12e35d386c992aabcdd9057e367ca5fb40"
+    },
+    {
+      "title": "Kids turned low-traffic NPR Spotify comments into a secret group chat",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.thisamericanlife.org/897/transcript",
+      "published_at": "2026-09-28T15:35:09+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.634,
+      "importance_score": 0.8109,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49879697"
+    },
+    {
+      "title": "Holo4: powering generalist computer-use agents",
+      "summary": "",
+      "source_name": "Hugging Face",
+      "source_url": "https://huggingface.co/blog/Hcompany/holo4",
+      "published_at": "2026-09-28T09:44:05+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI Agents",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.9,
+      "importance_score": 0.7966,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://huggingface.co/blog/Hcompany/holo4"
+    },
+    {
+      "title": "NVIDIA Open Agent Safety Platform: A Reference for Continuous In-Silicon Agent Monitoring",
+      "summary": "To understand where agentic AI stands today, consider the last seismic shift in technology: the rise of the internet in the 90s. It was new and full of...",
+      "source_name": "NVIDIA Developer Blog",
+      "source_url": "https://developer.nvidia.com/blog/nvidia-open-agent-safety-platform-a-reference-for-continuous-in-silicon-agent-monitoring/",
+      "published_at": "2026-09-28T08:56:55+00:00",
+      "category": "mlops",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "GPUs",
+        "Mlops"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.7933,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://developer.nvidia.com/blog/?p=122896"
+    },
+    {
+      "title": "Add Runtime Controls to AI Agents with NVIDIA OpenShell",
+      "summary": "AI agents can be given a goal, write code, use tools, and keep working as new information becomes available. This opens the door to applications that...",
+      "source_name": "NVIDIA Developer Blog",
+      "source_url": "https://developer.nvidia.com/blog/add-runtime-controls-to-ai-agents-with-nvidia-openshell/",
+      "published_at": "2026-09-28T08:55:00+00:00",
+      "category": "mlops",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "GPUs",
+        "Mlops"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.7931,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://developer.nvidia.com/blog/?p=122891"
+    },
+    {
+      "title": "Storage-optimized Z4D machine family, now GA, is designed for IO-intensive workloads",
+      "summary": "Today, we’re excited to announce the general availability of our next-generation Storage-optimized Z4D machine series in Google Compute Engine with both Virtual Machine (VM) and bare-metal instances. We built Z4D for IO-intensive and business-critical workloads that require large local storage capacity and high storage performance, including SQL, NoSQL, KVrocks and vector databases, data analytics and data search. Powered by 5th Gen AMD EPYC processors (Turin) and paired…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/products/compute/storage-optimized-z4d-vm-and-bare-metal-instances/",
+      "published_at": "2026-09-28T07:00:00+00:00",
+      "category": "cloud_providers",
+      "tags": [
+        "AI",
+        "Databases",
+        "Vector Databases",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.7852,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/products/compute/storage-optimized-z4d-vm-and-bare-metal-instances/"
+    },
+    {
+      "title": "When did Google get so weird?",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://sancho.bearblog.dev/google-weird/",
+      "published_at": "2026-09-27T20:12:54+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7702,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49870367"
+    },
+    {
+      "title": "37,500 border drawings: a map of the world as people remember it",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.habibicode.org/thedrawnworld",
+      "published_at": "2026-09-28T08:35:10+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.6265,
+      "importance_score": 0.763,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49875142"
+    },
+    {
+      "title": "So long Google, and thanks for all the nudes",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://lecaro.me/20260921-google-less.html",
+      "published_at": "2026-09-28T18:04:47+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.6105,
+      "importance_score": 0.7626,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49881951"
+    },
+    {
+      "title": "How NVIDIA DSX MaxLPS Maximizes AI Factory Throughput and Efficiency",
+      "summary": "Every unused watt is capacity left on the table. AI factories are typically provisioned for the unlikely moment when every GPU reaches peak power, creating a...",
+      "source_name": "NVIDIA Developer Blog",
+      "source_url": "https://developer.nvidia.com/blog/how-nvidia-dsx-maxlps-maximizes-ai-factory-throughput-and-efficiency/",
+      "published_at": "2026-09-28T01:00:00+00:00",
+      "category": "mlops",
+      "tags": [
+        "AI",
+        "GPUs",
+        "Mlops"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.7601,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://developer.nvidia.com/blog/?p=122898"
+    },
+    {
+      "title": "Hijacking the PS5's RTMP stream",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://yashgarg.dev/posts/hijacking-ps5-rtmp-stream/",
+      "published_at": "2026-09-28T15:35:23+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.6135,
+      "importance_score": 0.7596,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49879702"
+    },
+    {
+      "title": "Thieves stole an Nvidia-branded trailer filled with nothing but 20,000 pounds of sand",
+      "summary": "Thieves stole two trucks, including an Nvidia-branded trailer, as AI hardware thefts rise. Their haul: 40,000 pounds of sand.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/thieves-steal-nvidia-branded-trailer-find-sand-instead-2026-9",
+      "published_at": "2026-09-28T19:55:14+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "GPUs",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.759,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/thieves-steal-nvidia-branded-trailer-find-sand-instead-2026-9"
+    },
+    {
+      "title": "Shopify opens checkout to browser-based AI agents",
+      "summary": "Shopify is expanding WebMCP support to checkout, allowing browser-based AI agents to update order details and complete purchases with a buyer’s authorization.",
+      "source_name": "TechCrunch - AI",
+      "source_url": "https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/",
+      "published_at": "2026-09-28T19:33:57+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7575,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://techcrunch.com/?p=3170763"
+    },
+    {
+      "title": "OpenAI staffer says he missed his sister's wedding to help with AI safety incidents",
+      "summary": "An OpenAI agent-security staffer said he missed his sister's wedding to help respond to recent AI-security incidents.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/openai-missed-wedding-security-breach-hugging-face-2026-9",
+      "published_at": "2026-09-28T19:31:51+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Security",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7574,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/openai-missed-wedding-security-breach-hugging-face-2026-9"
+    },
+    {
+      "title": "Boox Announces the Picco, Its Smallest E-Reader Ever (2026)",
+      "summary": "The Boox Picco is a palm-sized e-reader with a 4-inch screen, strong support for different ebook formats, and digital utility tools.",
+      "source_name": "Wired",
+      "source_url": "https://www.wired.com/story/boox-picco-announcement-2026/",
+      "published_at": "2026-09-28T19:30:00+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7572,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "6ab56ba3fcc0d8024d83ec15"
+    },
+    {
+      "title": "I turned down MIT to choose a little-known college my mom wanted me to attend. Not everyone understood my choice.",
+      "summary": "Hannah Mitchell turned down MIT for a the Merchant Marine Academy. Three months in, she says it was the right decision.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/turned-down-mit-for-merchant-marine-academy-no-regrets-2026-9",
+      "published_at": "2026-09-28T19:20:13+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7565,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/turned-down-mit-for-merchant-marine-academy-no-regrets-2026-9"
+    },
+    {
+      "title": "A major deadline for student-loan borrowers is here — and glitches persist",
+      "summary": "The deadline for the first batch of student-loan borrowers to transition off SAVE is this week. Some are having issues selecting a new plan.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/student-loan-borrowers-major-deadline-save-repayment-plan-transition-glitches-2026-9",
+      "published_at": "2026-09-28T19:19:25+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7565,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/student-loan-borrowers-major-deadline-save-repayment-plan-transition-glitches-2026-9"
+    },
+    {
+      "title": "Apple Patches CoreGraphics Flaw Possibly Exploited in Targeted Attacks",
+      "summary": "Apple has released security updates to address a vulnerability in older versions of iOS, iPadOS, and macOS that it said may have been exploited in targeted attacks. The vulnerability, tracked as CVE-2026-86950, refers to an out-of-bounds write impacting the CoreGraphics component that could lead to arbitrary code execution when processing a maliciously crafted file. The iPhone maker said the",
+      "source_name": "The Hacker News",
+      "source_url": "https://thehackernews.com/2026/09/apple-patches-coregraphics-flaw.html",
+      "published_at": "2026-09-28T19:18:01+00:00",
+      "category": "cybersecurity",
+      "tags": [
+        "AI",
+        "Security",
+        "Cybersecurity"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7564,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://thehackernews.com/2026/09/apple-patches-coregraphics-flaw.html"
+    },
+    {
+      "title": "What's new in Git 2.56.0?",
+      "summary": "The Git project recently released Git 2.56.0 . Let's look at some of the highlights of the release, including contributions from the Git team at GitLab. What's covered: Git Merge 2026 and schedule for Git 3.0 git-history(1) learns drop git-branch(1) learns to delete merged branches git-refs(1) learns to modify refs Google Summer of Code 2026 Linearizing history with git-replay(1) Making the object database pluggable Git Merge 2026 and schedule for Git 3.0 This release cycle…",
+      "source_name": "GitLab Blog",
+      "source_url": "https://about.gitlab.com/blog/whats-new-in-git-2-56-0/",
+      "published_at": "2026-09-28T00:00:00+00:00",
+      "category": "developer_platforms",
+      "tags": [
+        "Databases",
+        "Developer Platforms"
+      ],
+      "confidence_score": 0.86,
+      "importance_score": 0.756,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://about.gitlab.com/blog/whats-new-in-git-2-56-0/"
+    },
+    {
+      "title": "Meta-Led Anti-Terrorism Group Faces Mass Resignation of Expert Advisers",
+      "summary": "Meta and other tech giants are pushing through structural changes at the Global Internet Forum to Counter Terrorism that outside researchers allege will weaken oversight of an already embattled consortium.",
+      "source_name": "Wired",
+      "source_url": "https://www.wired.com/story/independent-advisers-resign-en-masse-from-big-techs-anti-terrorism-group/",
+      "published_at": "2026-09-28T18:47:54+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Research",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7543,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "6ab6abbd9e73fb37203a36d9"
+    },
+    {
+      "title": "Hackers Use NeedyMantis to Maintain Long-Term Access in Breached Networks",
+      "summary": "Hackers have used a malware family called NeedyMantis to maintain long-term access to networks they had already breached, Microsoft said in a technical analysis. The malware has been seen in a small number of targeted intrusions at telecommunications organizations, universities, medical nonprofits, intergovernmental organizations, and government contractors. Its use goes back to at least",
+      "source_name": "The Hacker News",
+      "source_url": "https://thehackernews.com/2026/09/hackers-use-needymantis-to-maintain.html",
+      "published_at": "2026-09-28T18:35:42+00:00",
+      "category": "cybersecurity",
+      "tags": [
+        "AI",
+        "Cybersecurity"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7535,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://thehackernews.com/2026/09/hackers-use-needymantis-to-maintain.html"
+    },
+    {
+      "title": "Nvidia launches new platform for reining in rogue AI agents",
+      "summary": "As the debate rages over whether the recent spate of rogue AI agents is a step toward AGI or a more conventional engineering problem, Nvidia is offering its own answer to problem. Nvidia CEO Jensen Huang on Monday introduced a toolkit of software and hardware products that add independent security layers around AI agents to […]",
+      "source_name": "TechCrunch - AI",
+      "source_url": "https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/",
+      "published_at": "2026-09-28T18:31:23+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "GPUs",
+        "Security",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7532,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://techcrunch.com/?p=3170647"
+    },
+    {
+      "title": "A YouTuber says Meta's Muse gave his address to a Facebook Marketplace buyer: 'A guy just showed up at my door'",
+      "summary": "Matt Robb said that Muse gave out his address without his knowledge. \"Luckily I'm in an apartment with security,\" he wrote.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/meta-muse-facebook-marketplace-address-story-matt-robb-2026-9",
+      "published_at": "2026-09-28T18:31:51+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Security",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7532,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/meta-muse-facebook-marketplace-address-story-matt-robb-2026-9"
+    },
+    {
+      "title": "The US Navy’s shipyard overhaul is going to cost billions more and take decades longer than planned, watchdog warns",
+      "summary": "Unforeseen issues have led to increased costs and extended schedules for the overhaul program of the Navy's four public yards, the GAO said.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/us-navy-shipyard-overhaul-costs-billions-more-decades-longer-gao-2026-9",
+      "published_at": "2026-09-28T18:24:41+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7527,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/us-navy-shipyard-overhaul-costs-billions-more-decades-longer-gao-2026-9"
+    },
+    {
+      "title": "Microsoft's Copilot chief opens up about the AI future he fears most",
+      "summary": "Microsoft's biggest concern is whether AI's benefits will be shared broadly, its Copilot boss says.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/microsoft-copilot-chief-ai-future-worries-about-2026-9",
+      "published_at": "2026-09-28T18:24:12+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7527,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/microsoft-copilot-chief-ai-future-worries-about-2026-9"
+    },
+    {
+      "title": "IAM for AI agents: A Practical Enterprise Framework",
+      "summary": "What is IAM for AI agents? AI agents authenticate, invoke tools, and act across enterprise systems with delegated authority. IAM for AI Agents is the identity-control architecture that governs those actors. This guide covers the limits of conventional provisioning, the components that matter, how to evaluate framework choices, and what runtime evidence proves an agent behaved as intended.",
+      "source_name": "The Hacker News",
+      "source_url": "https://thehackernews.com/2026/09/iam-for-ai-agent.html",
+      "published_at": "2026-09-28T18:20:38+00:00",
+      "category": "cybersecurity",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Cybersecurity"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7524,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://thehackernews.com/2026/09/iam-for-ai-agent.html"
+    },
+    {
+      "title": "French dev aims to solve bots' blindness so they can understand GUIs",
+      "summary": "Because sometimes escaping your sandbox requires clicking a button",
+      "source_name": "The Register",
+      "source_url": "https://www.theregister.com/ai-and-ml/2026/09/28/french-dev-aims-to-solve-bots-blindness-so-they-can-understand-guis/5299575",
+      "published_at": "2026-09-28T18:19:40+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "APIs",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7523,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.theregister.com/a/5299575"
+    },
+    {
+      "title": "Why a former visa holder gave up on the American Dream",
+      "summary": "Vivienne Yang spent years building a life in New York City. Losing her job meant leaving behind an apartment and her two cats.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/letting-the-american-dream-go-as-a-former-visa-holder-2026-9",
+      "published_at": "2026-09-28T18:16:34+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7521,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/letting-the-american-dream-go-as-a-former-visa-holder-2026-9"
+    },
+    {
+      "title": "I'm a Pilates instructor who's been shopping at Trader Joe's for 22 years. Here are 10 of my favorite items to buy.",
+      "summary": "I'm a Pilates instructor who's been shopping at Trader Joe's for 20 years. Some of my favorite items to buy are the organic hummus and spanakopita.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/best-things-to-buy-trader-joes-frequent-shopper-pilates-instructor-2026-9",
+      "published_at": "2026-09-28T18:12:40+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7519,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/best-things-to-buy-trader-joes-frequent-shopper-pilates-instructor-2026-9"
+    },
+    {
+      "title": "Nvidia Adds $150 Billion to Massive Stock Buyback, the Largest Ever",
+      "summary": "The increase comes four months after the chip giant added $80 billion to its buyback program, bringing the total remaining authorized amount to $235 billion.",
+      "source_name": "The New York Times - Technology",
+      "source_url": "https://www.nytimes.com/2026/09/28/business/nvidia-stock-buyback.html",
+      "published_at": "2026-09-28T18:01:42+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "GPUs",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7511,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.nytimes.com/2026/09/28/business/nvidia-stock-buyback.html"
+    },
+    {
+      "title": "Anthropic releases Sonnet 5.5, which it calls a significantly cheaper, faster work partner",
+      "summary": "Anthropic has released the newest version of its mid-range model, boasting faster response times and less token burn.",
+      "source_name": "TechCrunch - AI",
+      "source_url": "https://techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner/",
+      "published_at": "2026-09-28T18:00:00+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI Models",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.751,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://techcrunch.com/?p=3170644"
+    }
+  ]
+}
