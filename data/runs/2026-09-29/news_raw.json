@@ -1,0 +1,835 @@
+{
+  "generated_at": "2026-09-29T18:42:06.697404+00:00",
+  "post_date": "2026-09-29",
+  "sources_checked": 48,
+  "candidates": 45,
+  "items": [
+    {
+      "title": "DevDay 2026 Recap",
+      "summary": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/devday-2026-recap",
+      "published_at": "2026-09-29T10:00:00+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI",
+        "Security",
+        "APIs",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.99,
+      "importance_score": 0.8638,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/index/devday-2026-recap"
+    },
+    {
+      "title": "Introducing GPT-6.1 Sol",
+      "summary": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/introducing-gpt-6-1-sol",
+      "published_at": "2026-09-29T10:00:00+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "APIs",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.99,
+      "importance_score": 0.8638,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/index/introducing-gpt-6-1-sol"
+    },
+    {
+      "title": "Dots: Always-on agents",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://openai.com/index/introducing-dots/",
+      "published_at": "2026-09-29T17:07:57+00:00",
+      "category": "aggregators",
+      "tags": [
+        "AI Agents",
+        "Hacker News"
+      ],
+      "confidence_score": 0.6885,
+      "importance_score": 0.8635,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49896604"
+    },
+    {
+      "title": "DraftKings Is Using AI to Behaviorally Target Chronic Gamblers",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising",
+      "published_at": "2026-09-29T16:30:48+00:00",
+      "category": "aggregators",
+      "tags": [
+        "AI",
+        "Hacker News"
+      ],
+      "confidence_score": 0.671,
+      "importance_score": 0.8609,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49896050"
+    },
+    {
+      "title": "macOS Golden Gate Is a Buggy Mess",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.squareorbits.com/blog/2026/09/macos-golden-gate-is-a-buggy-mess/",
+      "published_at": "2026-09-29T14:32:33+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.8527,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49894005"
+    },
+    {
+      "title": "How Delhi cut electricity loss from 50 to 5 percent",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://spectrum.ieee.org/delhi-electricity-loss",
+      "published_at": "2026-09-29T12:43:29+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.8451,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49892245"
+    },
+    {
+      "title": "500k facial scans at UK stations yield no arrests, 1 false positive",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.theguardian.com/technology/2026/sep/29/trial-live-facial-recognition-cameras-london-stations-false-positive",
+      "published_at": "2026-09-29T11:35:18+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.8404,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49891480"
+    },
+    {
+      "title": "Lower the Cost of Building and Running Visual AI Agents with NVIDIA VSS Blueprint 3.3",
+      "summary": "Vision-language models have made it possible to build visual AI agents that understand video at production scale. The harder problem is turning that capability...",
+      "source_name": "NVIDIA Developer Blog",
+      "source_url": "https://developer.nvidia.com/blog/lower-the-cost-of-building-and-running-visual-ai-agents-with-nvidia-vss-blueprint-3-3/",
+      "published_at": "2026-09-29T18:35:09+00:00",
+      "category": "mlops",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "GPUs",
+        "AI Models",
+        "Mlops"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8395,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://developer.nvidia.com/blog/?p=123017"
+    },
+    {
+      "title": "You are no longer invited to dinner",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.derekthompson.org/p/the-death-of-the-american-host",
+      "published_at": "2026-09-29T11:14:45+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.8389,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49891295"
+    },
+    {
+      "title": "Accelerating agentic RL and evaluation research velocity with 45x faster GKE Agent Sandbox",
+      "summary": "When scaling up agentic reinforcement learning (RL) and evaluation across massive parallel rollouts, frontier AI labs inevitably hit a bottleneck: Expensive GPU clusters sit idle, waiting minutes for CPU sandbox cold-starts, plus thousands of multi-gigabyte SWE-bench -style image pulls and scheduling backlogs. It’s a sandbox infrastructure problem that silently slows down your research and burns your training budget. To solve this fundamental infrastructure bottleneck, today…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/products/containers-kubernetes/accelerate-agentic-rl-with-gke-agent-sandbox/",
+      "published_at": "2026-09-29T17:00:00+00:00",
+      "category": "cloud_providers",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "GPUs",
+        "Research",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.8329,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/products/containers-kubernetes/accelerate-agentic-rl-with-gke-agent-sandbox/"
+    },
+    {
+      "title": "Building an LLM-powered DAG failure analysis plugin for Amazon MWAA",
+      "summary": "Debugging Apache Airflow DAG failures across services like AWS Glue, Amazon EMR, and Amazon Athena is slow and manual. In this post, we show you how to build a custom Airflow plugin that integrates with Amazon Bedrock to automatically analyze DAG task failures and deliver on-demand root cause analysis on Amazon MWAA.",
+      "source_name": "AWS Big Data Blog",
+      "source_url": "https://aws.amazon.com/blogs/big-data/building-an-llm-powered-dag-failure-analysis-plugin-for-amazon-mwaa/",
+      "published_at": "2026-09-29T16:17:09+00:00",
+      "category": "cloud_providers",
+      "tags": [
+        "AI",
+        "LLMs",
+        "AWS",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.92,
+      "importance_score": 0.83,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "e839c1e6429cf30419f8f54a2acfd6f1029eb0d5"
+    },
+    {
+      "title": "A Privacy Analysis of Web and Mobile Conversational AI Agents [pdf]",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
+      "published_at": "2026-09-29T09:03:41+00:00",
+      "category": "aggregators",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.8298,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49890226"
+    },
+    {
+      "title": "Announcing Spark Connect on Amazon EMR on EKS: Interactive PySpark development, anywhere",
+      "summary": "Announcing Spark Connect on Amazon EMR on EKS: build, test, and debug Spark applications from VS Code, PyCharm, Jupyter notebooks, Amazon SageMaker Unified Studio, or dbt, while running full-scale Spark operations on your existing Amazon EKS clusters.",
+      "source_name": "AWS Big Data Blog",
+      "source_url": "https://aws.amazon.com/blogs/big-data/announcing-spark-connect-on-amazon-emr-on-eks/",
+      "published_at": "2026-09-29T16:12:17+00:00",
+      "category": "cloud_providers",
+      "tags": [
+        "Apache Spark",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.92,
+      "importance_score": 0.8296,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "af075814e422073577508ef31418b4a34b391335"
+    },
+    {
+      "title": "Aurora PostgreSQL zero-ETL integration with Amazon SageMaker",
+      "summary": "Amazon Aurora PostgreSQL zero-ETL integration with Amazon SageMaker replicates your operational data to a lakehouse in near real time, without building custom ETL pipelines. Learn the architecture and change data capture mechanics, then set up the integration and query your data in Amazon SageMaker.",
+      "source_name": "AWS Big Data Blog",
+      "source_url": "https://aws.amazon.com/blogs/big-data/aurora-postgresql-zero-etl-integration-with-amazon-sagemaker/",
+      "published_at": "2026-09-29T16:10:14+00:00",
+      "category": "cloud_providers",
+      "tags": [
+        "Data Pipelines",
+        "ETL",
+        "Lakehouse",
+        "Databases",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.92,
+      "importance_score": 0.8295,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "471dbcc009dfc367efa0b960c9f356453f713b3d"
+    },
+    {
+      "title": "Jeeves. Reasoning improves Jev-like decision models",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://github.com/PostHog/jeeves",
+      "published_at": "2026-09-29T11:13:54+00:00",
+      "category": "aggregators",
+      "tags": [
+        "AI Models",
+        "Hacker News"
+      ],
+      "confidence_score": 0.646,
+      "importance_score": 0.8289,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49891290"
+    },
+    {
+      "title": "Google Cloud partners deliver new security agents and AI defenses with Gemini Enterprise",
+      "summary": "As threat actors increasingly use AI to accelerate and develop cyberattacks, enterprise defenders need to rely on both AI and a critical defender’s advantage: Business context that only you possess. Enterprise cyber defense spans identity, network, endpoint, data, cloud, and application layers, often split across a dozen or more products, each with its own context. At Google Cloud Next, we brought partner-built agents into Gemini Enterprise to give you one place to discover…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/products/identity-security/google-cloud-partners-deliver-new-security-agents-and-ai-defenses-with-gemini-enterprise/",
+      "published_at": "2026-09-29T16:00:00+00:00",
+      "category": "cloud_providers",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Cloud",
+        "Google Cloud",
+        "Security",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.8288,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/products/identity-security/google-cloud-partners-deliver-new-security-agents-and-ai-defenses-with-gemini-enterprise/"
+    },
+    {
+      "title": "Graph Workflows in ADK: Everything You Need to Know",
+      "summary": "Graph engineering is the design work: breaking a task into nodes, connecting them with edges, and deciding where code, models, or people control the next step. The Agent Development Kit (ADK) 's Workflow turns that design into an executable process, with functions and agents doing the work. Through a refund example, this post shows how to run steps in parallel, route decisions, pause for human review, and process a list of cases. It also explains when to declare the paths in…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/topics/developers-practitioners/graph-workflows-in-adk-everything-you-need-to-know/",
+      "published_at": "2026-09-29T16:00:00+00:00",
+      "category": "cloud_providers",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "AI Models",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.8288,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/topics/developers-practitioners/graph-workflows-in-adk-everything-you-need-to-know/"
+    },
+    {
+      "title": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
+      "summary": "",
+      "source_name": "Hugging Face",
+      "source_url": "https://huggingface.co/blog/nvidia/kumo-tabular",
+      "published_at": "2026-09-29T15:30:38+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "GPUs",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.9,
+      "importance_score": 0.8267,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://huggingface.co/blog/nvidia/kumo-tabular"
+    },
+    {
+      "title": "Developer policy update: Transparency, state policy, and what’s ahead",
+      "summary": "Explore GitHub’s latest transparency data and learn more about policy updates affecting developers and open source. The post Developer policy update: Transparency, state policy, and what’s ahead appeared first on The GitHub Blog .",
+      "source_name": "The GitHub Blog",
+      "source_url": "https://github.blog/news-insights/policy-news-and-insights/developer-policy-update-transparency-state-policy-and-whats-ahead/",
+      "published_at": "2026-09-29T15:00:00+00:00",
+      "category": "developer_platforms",
+      "tags": [
+        "Open Source",
+        "Developer Tools",
+        "Developer Platforms"
+      ],
+      "confidence_score": 0.92,
+      "importance_score": 0.8246,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://github.blog/?p=99134"
+    },
+    {
+      "title": "Defending at machine speed: Securing the public sector in the agentic era",
+      "summary": "Over the last three decades in cybersecurity, I’ve witnessed major paradigm shifts — yet none match the velocity and complexity of today’s landscape. Attackers are now using AI to move at machine speed: accelerating intrusions, exploiting zero-day vulnerabilities, and rendering legacy defenses obsolete. Reactive, manual security reviews can no longer keep pace with sophisticated and increasingly automated threats. Building true cyber resilience means shifting from reactive…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/topics/public-sector/defending-at-machine-speed-securing-the-public-sector-in-the-agentic-era/",
+      "published_at": "2026-09-29T14:00:00+00:00",
+      "category": "cloud_providers",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Security",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.8204,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/topics/public-sector/defending-at-machine-speed-securing-the-public-sector-in-the-agentic-era/"
+    },
+    {
+      "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
+      "summary": "",
+      "source_name": "Hugging Face",
+      "source_url": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
+      "published_at": "2026-09-29T13:07:00+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI Agents",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.9,
+      "importance_score": 0.8167,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source"
+    },
+    {
+      "title": "1 in 8 cancer cases worldwide are caused by infections, study finds",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.cbc.ca/lite/story/9.7361622",
+      "published_at": "2026-09-29T12:33:50+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.634,
+      "importance_score": 0.8044,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49892120"
+    },
+    {
+      "title": "Towards safety cases for frontier AI training",
+      "summary": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+      "published_at": "2026-09-28T19:00:00+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.99,
+      "importance_score": 0.8013,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training"
+    },
+    {
+      "title": "How we will do better for Australia",
+      "summary": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/how-we-will-do-better-for-australia",
+      "published_at": "2026-09-28T19:00:00+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.99,
+      "importance_score": 0.8013,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/index/how-we-will-do-better-for-australia"
+    },
+    {
+      "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+      "summary": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+      "source_name": "Google AI (The Keyword)",
+      "source_url": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/",
+      "published_at": "2026-09-28T19:00:00+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.8013,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/"
+    },
+    {
+      "title": "Defending Against Active Exploitation of Citrix NetScaler ADC and Gateway Appliances",
+      "summary": "Introduction In late September 2026, Mandiant Consulting and Google Threat Intelligence Group (GTIG) identified active, in-the-wild exploitation of a zero-day vulnerability (CVE-2026-88772) affecting Citrix NetScaler ADC and NetScaler Gateway appliances. We have observed evidence that organizations in North America and Europe in the government, financial services, education, legal and professional services sectors were likely impacted by this exploitation campaign, which has…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/topics/threat-intelligence/defending-against-active-exploitation-of-citrix-netscaler-adc-and-gateway-appliances/",
+      "published_at": "2026-09-29T05:00:00+00:00",
+      "category": "cloud_providers",
+      "tags": [
+        "AI",
+        "Security",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.7829,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/topics/threat-intelligence/defending-against-active-exploitation-of-citrix-netscaler-adc-and-gateway-appliances/"
+    },
+    {
+      "title": "California farmers are struggling to sell grapes as demand for wine drops",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.kqed.org/news/12101534/california-farmers-are-struggling-to-sell-grapes-as-demand-for-wine-drops",
+      "published_at": "2026-09-28T20:00:06+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7754,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49883539"
+    },
+    {
+      "title": "The case for a cloud native agent harness",
+      "summary": "Coding agents became useful when they stopped being a chat box. Four things changed the shape of the problem: capable tools, a shared repository and filesystem, subagents, and skills that capture what the system learned from...",
+      "source_name": "CNCF",
+      "source_url": "https://www.cncf.io/blog/2026/09/28/the-case-for-a-cloud-native-agent-harness/",
+      "published_at": "2026-09-28T11:00:00+00:00",
+      "category": "open_source_foundations",
+      "tags": [
+        "AI Agents",
+        "Cloud",
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.87,
+      "importance_score": 0.7679,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.cncf.io/?p=175247"
+    },
+    {
+      "title": "Phyllotaxis: An audio-reactive LED display",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://jagi.studio/posts/phyllotaxis/",
+      "published_at": "2026-09-28T16:18:57+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.662,
+      "importance_score": 0.7601,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49880411"
+    },
+    {
+      "title": "Amazon vans may be New York City's latest target in a crackdown on delivery services",
+      "summary": "Amazon delivery vehicles in NYC received over 14,000 traffic citations, raising safety concerns supported by local officials amid a city crackdown.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/amazon-new-york-city-delivery-vans-violations-2026-9",
+      "published_at": "2026-09-29T18:36:57+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7596,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/amazon-new-york-city-delivery-vans-violations-2026-9"
+    },
+    {
+      "title": "Here’s why OpenAI is absent from Nvidia’s industry-wide effort to end rogue AI agents",
+      "summary": "OpenAI isn't a public supporter of Nvidia's Open Agent Safety Platform, but it is privately working with Nvidia, TechCrunch has learned.",
+      "source_name": "TechCrunch - AI",
+      "source_url": "https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents/",
+      "published_at": "2026-09-29T18:35:00+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "GPUs",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7595,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://techcrunch.com/?p=3171020"
+    },
+    {
+      "title": "OpenAI Unveils Dots, New A.I. Agents to Rival Meta’s Muse",
+      "summary": "The ChatGPT maker unveiled agents that act as assistants, just weeks after Meta released Muse, as it faces scrutiny over incidents involving its technology.",
+      "source_name": "The New York Times - Technology",
+      "source_url": "https://www.nytimes.com/2026/09/29/technology/openai-dots-ai-agents.html",
+      "published_at": "2026-09-29T18:29:40+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7591,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.nytimes.com/2026/09/29/technology/openai-dots-ai-agents.html"
+    },
+    {
+      "title": "Away’s New Series 3 Luggage Plays It Safe—That’s the Point",
+      "summary": "Away’s third generation of its iconic luggage retains the familiar design while introducing invisible tech, such as a new wheel system and an improved telescoping handle.",
+      "source_name": "Wired",
+      "source_url": "https://www.wired.com/story/away-launches-series-3-luggage/",
+      "published_at": "2026-09-29T18:29:17+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7591,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "6abbab9cb96cb5816352472b"
+    },
+    {
+      "title": "Pirating the Pirates",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://mubi.com/en/notebook/posts/pirating-the-pirates",
+      "published_at": "2026-09-28T15:54:15+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7583,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49880036"
+    },
+    {
+      "title": "I flew Iraqi Airways, an airline few Americans have experienced and is banned in the EU. Here were the 4 biggest surprises.",
+      "summary": "I was surprised to get a full hot meal in economy. But the seats were worn and dirty and I worried about the airline's safety.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/i-flew-airline-few-americans-will-experience-review-surprises-2026-9",
+      "published_at": "2026-09-29T18:09:07+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7577,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/i-flew-airline-few-americans-will-experience-review-surprises-2026-9"
+    },
+    {
+      "title": "Is Claude Conscious? Inside Anthropic’s Quest to Instill Morality Into Its A.I. Models",
+      "summary": "In a series of private meetings, the company consulted religious scholars to help instill morality into its A.I. models — and make the case that Claude could be conscious.",
+      "source_name": "The New York Times - Technology",
+      "source_url": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
+      "published_at": "2026-09-29T18:06:01+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "AI Models",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7575,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html"
+    },
+    {
+      "title": "Google ending ChromeOS support two years early",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.theregister.com/os-platforms/2026/09/29/google-ending-chromeos-support-two-years-early/5299674",
+      "published_at": "2026-09-29T14:12:15+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.6125,
+      "importance_score": 0.7575,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49893653"
+    },
+    {
+      "title": "I went to Scotland for the first time. There are 6 items I'm glad I packed and 4 I wish I had brought.",
+      "summary": "I went to Scotland for the first time and was grateful I packed plenty of layers and rain gear. However, I wish I brought more comfortable clothes.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/scotland-trip-what-to-pack-list-mistakes-2026-9",
+      "published_at": "2026-09-29T18:05:04+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7574,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/scotland-trip-what-to-pack-list-mistakes-2026-9"
+    },
+    {
+      "title": "Anthropic Says It Discovered a Crispr-Like System. Now What?",
+      "summary": "“The experiments are still in the queue. The PR is already live,” says one expert.",
+      "source_name": "Wired",
+      "source_url": "https://www.wired.com/story/anthropic-says-it-discovered-a-crispr-like-system-now-what/",
+      "published_at": "2026-09-29T18:03:01+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7573,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "6aba7e04bc8ab97fed5aaa2a"
+    },
+    {
+      "title": "ChatGPT Pro 500",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers",
+      "published_at": "2026-09-29T17:26:27+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.607,
+      "importance_score": 0.7572,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49896975"
+    },
+    {
+      "title": "A US military task force just showed it's ready to bet billions of dollars on answers to the drone problem",
+      "summary": "Military officials have said they see no silver bullet for stopping all drones. Instead, a layered defense of different counter-UAS systems is needed.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/us-counter-drone-task-force-spending-billions-on-tech-systems-2026-9",
+      "published_at": "2026-09-29T18:00:01+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7571,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/us-counter-drone-task-force-spending-billions-on-tech-systems-2026-9"
+    },
+    {
+      "title": "Custom malware used in Citrix 0-day attacks targeting govt, banks, professional services",
+      "summary": "Two questions remain: who is abusing the CVEs? And why did Citrix take so long to disclose?",
+      "source_name": "The Register",
+      "source_url": "https://www.theregister.com/security/2026/09/29/custom-malware-used-in-citrix-0-day-attacks-targeting-govt-banks-professional-services/5299867",
+      "published_at": "2026-09-29T17:49:45+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7564,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.theregister.com/a/5299867"
+    },
+    {
+      "title": "French Tax Data Theft Using Stolen Staff Passwords Went Undetected for Seven Weeks",
+      "summary": "An attacker used stolen passwords of staff at France's tax administration to take tax data on hundreds of thousands of taxpayers and businesses in June and July. Neither the tax administration nor France's national cybersecurity agency saw the data leave. The attack was not sophisticated, the agency, ANSSI, says in a report (in French) published on Tuesday: it worked because of weak",
+      "source_name": "The Hacker News",
+      "source_url": "https://thehackernews.com/2026/09/french-tax-data-theft-using-stolen.html",
+      "published_at": "2026-09-29T17:47:01+00:00",
+      "category": "cybersecurity",
+      "tags": [
+        "Security",
+        "Cybersecurity"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7562,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://thehackernews.com/2026/09/french-tax-data-theft-using-stolen.html"
+    },
+    {
+      "title": "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT’s own office suite",
+      "summary": "OpenAI's newly announced suite of office features puts it into mor direct competition with more traditional software companies.",
+      "source_name": "TechCrunch - AI",
+      "source_url": "https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite/",
+      "published_at": "2026-09-29T17:45:51+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7561,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://techcrunch.com/?p=3171280"
+    },
+    {
+      "title": "Trump revealed the seating chart for his big AI meeting. See who's in — and who's missing.",
+      "summary": "Donald Trump hosted a lunch for the top AI leaders on Tuesday. Jensen Huang and Elon Musk were by his side on a seating chart.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/trump-seating-chart-white-house-meeting-ai-executives-lunch-2026-9",
+      "published_at": "2026-09-29T17:35:10+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7554,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/trump-seating-chart-white-house-meeting-ai-executives-lunch-2026-9"
+    }
+  ]
+}
