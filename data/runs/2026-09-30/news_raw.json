@@ -1,0 +1,850 @@
+{
+  "generated_at": "2026-09-30T18:29:23.409474+00:00",
+  "post_date": "2026-09-30",
+  "sources_checked": 48,
+  "candidates": 45,
+  "items": [
+    {
+      "title": "ArgoCon North America 2026: What to expect as the Argo community looks toward CD 4.0",
+      "summary": "Work across the Argo Project is accelerating, with growing adoption, new use cases, and more maintainers contributing across the community. The community is also beginning the visioning process for Argo CD 4.0, making ArgoCon an opportunity...",
+      "source_name": "CNCF",
+      "source_url": "https://www.cncf.io/blog/2026/09/30/argocon-north-america-2026-what-to-expect-as-the-argo-community-looks-toward-cd-4-0/",
+      "published_at": "2026-09-30T15:24:47+00:00",
+      "category": "open_source_foundations",
+      "tags": [
+        "AI",
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8872,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.cncf.io/?p=175502"
+    },
+    {
+      "title": "Introducing SynthID Bio",
+      "summary": "Proof of concept for watermarking AI-generated proteins while preserving biological function.",
+      "source_name": "Google DeepMind",
+      "source_url": "https://deepmind.google/blog/introducing-synthid-bio/",
+      "published_at": "2026-09-30T15:03:07+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.99,
+      "importance_score": 0.8857,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://deepmind.google/blog/introducing-synthid-bio/"
+    },
+    {
+      "title": "From 40 seconds to under 10: rebuilding incident detection on OpenTelemetry, Apache Kafka, and Apache Flink on Kubernetes",
+      "summary": "Every SaaS company has the same uncomfortable question after a major incident: who noticed first, the monitoring or the customers? For a long time our honest answer was “it depends”. This post describes how a small...",
+      "source_name": "CNCF",
+      "source_url": "https://www.cncf.io/blog/2026/09/30/from-40-seconds-to-under-10-rebuilding-incident-detection-on-opentelemetry-apache-kafka-and-apache-flink-on-kubernetes/",
+      "published_at": "2026-09-30T11:00:00+00:00",
+      "category": "open_source_foundations",
+      "tags": [
+        "Streaming",
+        "Kubernetes",
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8688,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.cncf.io/?p=175251"
+    },
+    {
+      "title": "Disrupting a coordinated model-distillation campaign",
+      "summary": "Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation.",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
+      "published_at": "2026-09-30T10:30:00+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI",
+        "AI Models",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.99,
+      "importance_score": 0.8667,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign"
+    },
+    {
+      "title": "Helping small businesses put AI to work",
+      "summary": "OpenAI is partnering with America’s SBDC to expand hands-on AI training and local support for small businesses, alongside a new report on how small teams are using AI.",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
+      "published_at": "2026-09-30T10:00:00+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.99,
+      "importance_score": 0.8647,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/index/helping-small-businesses-put-ai-to-work"
+    },
+    {
+      "title": "Amazon Aurora PostgreSQL now supports direct querying of Apache Iceberg and Parquet data in your data lake",
+      "summary": "Amazon Aurora PostgreSQL now lets you directly query Apache Iceberg and Parquet data stored in your data lake alongside live operational data—no ETL pipelines required. Powered by DuckDB embedded within Aurora, this capability enables single queries that join transactional and historical data using familiar PostgreSQL syntax. It supports AWS Glue Data Catalog, S3, and S3 Tables, with optimizations like predicate pushdown and caching for efficient performance.",
+      "source_name": "AWS News Blog",
+      "source_url": "https://aws.amazon.com/blogs/aws/amazon-aurora-postgresql-now-supports-direct-querying-of-apache-iceberg-and-parquet-data-in-your-data-lake/",
+      "published_at": "2026-09-30T17:22:31+00:00",
+      "category": "cloud_providers",
+      "tags": [
+        "Data Pipelines",
+        "ETL",
+        "AWS",
+        "Databases",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.8354,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "ea1cc456e7a2e65a27ab5c8db65b3016bf527355"
+    },
+    {
+      "title": "You Said No MCP",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://earendil.com/posts/you-said-no-mcp/",
+      "published_at": "2026-09-30T09:55:23+00:00",
+      "category": "aggregators",
+      "tags": [
+        "AI",
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.8343,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49906637"
+    },
+    {
+      "title": "Celebrating Our Newest AWS Heroes – September 2026",
+      "summary": "Today, we’re excited to introduce the newest members of the AWS Heroes program. AWS Heroes are a vibrant, worldwide group of AWS experts who go above and beyond to share knowledge, mentor others, and build thriving communities. These individuals make a real difference in helping developers and organizations succeed with AWS. This month, we welcome […]",
+      "source_name": "AWS News Blog",
+      "source_url": "https://aws.amazon.com/blogs/aws/celebrating-our-newest-aws-heroes-september-2026/",
+      "published_at": "2026-09-30T17:04:05+00:00",
+      "category": "cloud_providers",
+      "tags": [
+        "AWS",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.8341,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "fc299694003096540401c2714b7038f1f5b7f685"
+    },
+    {
+      "title": "NVIDIA Opens Applications for 2027–2028 Graduate Fellowships With Awards Up to $60,000",
+      "summary": "Bringing together the world’s brightest minds and the latest accelerated computing technology leads to powerful breakthroughs that help tackle some of the biggest research problems. To foster such innovation, the NVIDIA Graduate Fellowship Program provides grants, mentors and technical support to doctoral students doing outstanding research relevant to NVIDIA technologies. The program, in its 26th […]",
+      "source_name": "NVIDIA Blog",
+      "source_url": "https://blogs.nvidia.com/blog/applications-open-graduate-fellowship-awards-2026/",
+      "published_at": "2026-09-30T17:00:21+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "GPUs",
+        "Research",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8338,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://blogs.nvidia.com/?p=98499"
+    },
+    {
+      "title": "Cloud CISO Perspectives: How cybersecurity startups can win CISOs",
+      "summary": "Welcome to the second Cloud CISO Perspectives for September 2026. Today, Alicja Cade and Nick Godfrey, senior directors, Office of the CISO, share their guidance for cybersecurity startups on how to win over the CISOs who will become crucial business partners and customers. As with all Cloud CISO Perspectives, the contents of this newsletter are posted to the Google Cloud blog . If you’re reading this on the website and you’d like to receive the email version, you can…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-how-cybersecurity-startups-can-win-cisos/",
+      "published_at": "2026-09-30T16:00:00+00:00",
+      "category": "cloud_providers",
+      "tags": [
+        "AI",
+        "Cloud",
+        "Google Cloud",
+        "Security",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.8296,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-how-cybersecurity-startups-can-win-cisos/"
+    },
+    {
+      "title": "Empower your agents with the Google Cloud CLI remote MCP server",
+      "summary": "Today, we’re expanding our ecosystem of managed remote MCP servers by introducing the Google Cloud CLI remote MCP server in preview. Powered by the popular gcloud and bq (BigQuery) command-line tools, this new server gives AI agents immediate, broad access to command-line operations for managing Google Cloud infrastructure and working with advanced BigQuery workflows securely and seamlessly. Why CLI matters for AI agents Agents are increasingly performing complex cloud…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/products/ai-machine-learning/google-cloud-cli-remote-mcp-server-in-preview/",
+      "published_at": "2026-09-30T16:00:00+00:00",
+      "category": "cloud_providers",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Cloud",
+        "Google Cloud",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.8296,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/products/ai-machine-learning/google-cloud-cli-remote-mcp-server-in-preview/"
+    },
+    {
+      "title": "Spanner Omni, now GA: A distributed, multi-model database that you can deploy anywhere",
+      "summary": "Spanner Omni , the deploy-anywhere version of Spanner, is now generally available, ready to power your most demanding production workloads in your on-premises data center or on other clouds. With Spanner, Google pioneered the distributed SQL market over a decade ago, combining the horizontal scalability of NoSQL with the ACID compliance and strong consistency of a traditional relational database. Since then, Spanner has evolved into an interoperable multi-model database that…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/products/databases/spanner-omni-deploy-anywhere-version-of-spanner-is-now-ga/",
+      "published_at": "2026-09-30T16:00:00+00:00",
+      "category": "cloud_providers",
+      "tags": [
+        "AI",
+        "Cloud",
+        "Databases",
+        "AI Models",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.8296,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/products/databases/spanner-omni-deploy-anywhere-version-of-spanner-is-now-ga/"
+    },
+    {
+      "title": "What’s new in AI infrastructure and orchestration in September",
+      "summary": "We hereby declare September to be scalability month! As the world prepares for a surge of agentic fleets, we are shoring up our AI infrastructure and orchestration offerings to gracefully — and quickly — respond to that demand, all while maintaining workload isolation and security, and keeping costs in check. Read on to learn how these enhancements manifest across Google Cloud’s compute, network, storage, and orchestration offerings, plus new ways customers are using Google…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/topics/ai-infrastructure/whats-new-in-ai-infrastructure-this-month/",
+      "published_at": "2026-09-30T16:00:00+00:00",
+      "category": "cloud_providers",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Cloud",
+        "Google Cloud",
+        "Security",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.8296,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/topics/ai-infrastructure/whats-new-in-ai-infrastructure-this-month/"
+    },
+    {
+      "title": "Tracing Agent Harness Behavior with NVIDIA NeMo Relay",
+      "summary": "An agent can finish a task and still take an inefficient path. A failed search can trigger another search. A truncated file read can lead to a command fetching...",
+      "source_name": "NVIDIA Developer Blog",
+      "source_url": "https://developer.nvidia.com/blog/tracing-agent-harness-behavior-with-nvidia-nemo-relay/",
+      "published_at": "2026-09-30T16:00:00+00:00",
+      "category": "mlops",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "GPUs",
+        "Mlops"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8296,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://developer.nvidia.com/blog/?p=123038"
+    },
+    {
+      "title": "From Training to Production, NVIDIA and CoreWeave Close the Loop on Agentic AI",
+      "summary": "Building on nearly a decade of co-engineering, CoreWeave has built NVIDIA compute, networking and software into a cloud purpose-built for AI that’s still returning on investment across multiple generations of deployment. Now, CoreWeave is bringing the next generation of NVIDIA infrastructure to production. At CoreWeave Fully Connected, running this week in San Francisco, CoreWeave announced […]",
+      "source_name": "NVIDIA Blog",
+      "source_url": "https://blogs.nvidia.com/blog/coreweave-agentic-ai-vera-rubin/",
+      "published_at": "2026-09-30T15:00:00+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Cloud",
+        "GPUs",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8255,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://blogs.nvidia.com/?p=98507"
+    },
+    {
+      "title": "Vulnerability Discovery and Exploitation Trends in the AI Era",
+      "summary": "Written by: Robin Grunewald, Supriya Mazumdar, Kelli Vanderlee Introduction Google Threat Intelligence Group (GTIG) examines vulnerability disclosure and exploitation statistics to evaluate the impact of artificial intelligence (AI) on the vulnerability threat landscape. We found that AI is measurably changing not just the pace of vulnerability discovery and exploitation, but also the types and typical risk profiles of vulnerabilities that are being discovered. Key findings…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/topics/threat-intelligence/vulnerability-discovery-and-exploitation-trends-in-the-ai-era/",
+      "published_at": "2026-09-30T14:00:00+00:00",
+      "category": "cloud_providers",
+      "tags": [
+        "AI",
+        "Security",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.8213,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/topics/threat-intelligence/vulnerability-discovery-and-exploitation-trends-in-the-ai-era/"
+    },
+    {
+      "title": "Data Agent Kit is now GA: Bring Google Data Cloud to any coding agent",
+      "summary": "Today, Google Cloud Data Agent Kit is generally available. Data Agent Kit is a free set of Model Context Protocol (MCP) tools and agent skills that lets the coding agent you already use work directly with your Google Cloud data products, whether you're using Antigravity, Claude Code, Codex, or other popular tools. With GA, we are adding support for BigQuery Graph , Bigtable , and Managed Service for Apache Spark access to your open Lakehouse, along with dozens of…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/topics/developers-practitioners/data-agent-kit-is-now-ga-bring-google-data-cloud-to-any-coding-agent/",
+      "published_at": "2026-09-30T13:00:00+00:00",
+      "category": "cloud_providers",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Lakehouse",
+        "Apache Spark",
+        "Cloud",
+        "Google Cloud",
+        "AI Models",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.8171,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/topics/developers-practitioners/data-agent-kit-is-now-ga-bring-google-data-cloud-to-any-coding-agent/"
+    },
+    {
+      "title": "Salesforce Signs Definitive Agreement to Acquire Listen Labs",
+      "summary": "Salesforce, the #1 AI CRM, today announced it has signed a definitive agreement to acquire Listen Labs, an AI-powered customer research and human simulation platform. Listen Labs’s AI agents design studies, conduct in-depth research, and synthesize insights, automating the lifecycle of connecting with customers and analyzing their feedback. Listen Labs streamlines this process from months […]",
+      "source_name": "Salesforce News",
+      "source_url": "https://www.salesforce.com/news/stories/salesforce-signs-definitive-agreement-to-acquire-listen-labs/",
+      "published_at": "2026-09-29T20:00:00+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Research",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.8063,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.salesforce.com/?p=95767"
+    },
+    {
+      "title": "Livenerf: Has Opus 5.5 been nerfed yet?",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://github.com/ninjahawk/livenerf",
+      "published_at": "2026-09-29T22:36:14+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7871,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49901736"
+    },
+    {
+      "title": "U.S. postal inspectors shut down website selling counterfeit postage labels",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/",
+      "published_at": "2026-09-29T19:30:17+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.6845,
+      "importance_score": 0.7742,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49899090"
+    },
+    {
+      "title": "Show HN: Real-time Solar System with 526k asteroids and all tracked satellites",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://space.bl2.net/",
+      "published_at": "2026-09-29T19:08:01+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7727,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49898778"
+    },
+    {
+      "title": "Vermont replacing power plants with home batteries",
+      "summary": "See also https://electrek.co/2026/07/28/vermonts-largest-energy-sourc...",
+      "source_name": "Hacker News",
+      "source_url": "https://www.bbc.com/future/article/20260928-a-virtual-power-plant-hidden-in-vermont-homes-is-keeping-the-lights-on-during-storms",
+      "published_at": "2026-09-29T18:19:02+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7693,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49897993"
+    },
+    {
+      "title": "Introducing GPT-6.1 Sol",
+      "summary": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/introducing-gpt-6-1-sol",
+      "published_at": "2026-09-29T10:00:00+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "APIs",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.97,
+      "importance_score": 0.7647,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/index/introducing-gpt-6-1-sol"
+    },
+    {
+      "title": "DevDay 2026 Recap",
+      "summary": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/devday-2026-recap",
+      "published_at": "2026-09-29T10:00:00+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI",
+        "Security",
+        "APIs",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.97,
+      "importance_score": 0.7647,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/index/devday-2026-recap"
+    },
+    {
+      "title": "Dots: Always-on agents",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://openai.com/index/introducing-dots/",
+      "published_at": "2026-09-29T17:07:57+00:00",
+      "category": "aggregators",
+      "tags": [
+        "AI Agents",
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7643,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49896604"
+    },
+    {
+      "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
+      "summary": "",
+      "source_name": "Hugging Face",
+      "source_url": "https://huggingface.co/blog/open-tts-leaderboard",
+      "published_at": "2026-09-30T00:00:00+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.9,
+      "importance_score": 0.763,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://huggingface.co/blog/open-tts-leaderboard"
+    },
+    {
+      "title": "AI voice startup ElevenLabs doubles valuation to $22B",
+      "summary": "The $300 million employee tender was co-led by Wellington and T. Rowe Price.",
+      "source_name": "TechCrunch - AI",
+      "source_url": "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/",
+      "published_at": "2026-09-30T18:23:57+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7596,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://techcrunch.com/?p=3172305"
+    },
+    {
+      "title": "The most iconic burger joint in every state",
+      "summary": "From classic diners to drive-thrus, here are the most iconic burger restaurants across the country.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/most-iconic-famous-burger-joint-in-every-state",
+      "published_at": "2026-09-30T18:23:04+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7596,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/most-iconic-famous-burger-joint-in-every-state"
+    },
+    {
+      "title": "How Ben Shelton uses creatine, protein, and one brutal deep core exercise to build power",
+      "summary": "Tennis star Ben Shelton is investing in the long game by training smart. His routine includes single-leg work for power and isometrics for stability.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/ben-shelton-strength-routine-copenhagen-planks-creatine-2026-9",
+      "published_at": "2026-09-30T18:20:35+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7594,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/ben-shelton-strength-routine-copenhagen-planks-creatine-2026-9"
+    },
+    {
+      "title": "DeepSeek and Huawei Target a Key Source of Nvidia’s A.I. Dominance",
+      "summary": "In China’s push for self-reliance in artificial intelligence, DeepSeek and Huawei have teamed up to develop software tools for advanced chips.",
+      "source_name": "The New York Times - Technology",
+      "source_url": "https://www.nytimes.com/2026/09/30/business/china-ai-deepseek-huawei.html",
+      "published_at": "2026-09-30T17:58:07+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "GPUs",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7578,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.nytimes.com/2026/09/30/business/china-ai-deepseek-huawei.html"
+    },
+    {
+      "title": "Reddit is killing RSS feeds and ending public API access because of AI bots",
+      "summary": "Reddit is ending support for RSS feeds, as the company continues tightening access to its trove of user-generated content.",
+      "source_name": "TechCrunch - AI",
+      "source_url": "https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots/",
+      "published_at": "2026-09-30T17:45:00+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "APIs",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7569,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://techcrunch.com/?p=3172243"
+    },
+    {
+      "title": "How accurate is Netflix's 'Unabomber' movie? A real FBI agent on the case weighs in.",
+      "summary": "Retired FBI profiler James R. Fitzgerald tells Business Insider what's fact and fiction in the Netflix movie.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/how-accurate-is-netflix-unabomber-movie-fact-checking-fbi",
+      "published_at": "2026-09-30T17:38:36+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "AI Agents",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7565,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/how-accurate-is-netflix-unabomber-movie-fact-checking-fbi"
+    },
+    {
+      "title": "F.T.C. Investigates OpenAI and Anthropic Over Potential Consumer Harms",
+      "summary": "The agency will examine whether A.I. labs have broken federal laws prohibiting companies from unfair and deceptive practices.",
+      "source_name": "The New York Times - Technology",
+      "source_url": "https://www.nytimes.com/2026/09/30/technology/ftc-openai-anthropic-investigation.html",
+      "published_at": "2026-09-30T17:30:07+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "AWS",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7559,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.nytimes.com/2026/09/30/technology/ftc-openai-anthropic-investigation.html"
+    },
+    {
+      "title": "The ugly economics of consumer AI",
+      "summary": "There’s a reason frontier labs have gotten gun-shy about consumer AI — and it’s not because the tech isn’t good enough.",
+      "source_name": "TechCrunch - AI",
+      "source_url": "https://techcrunch.com/2026/09/30/the-ugly-economics-of-consumer-ai/",
+      "published_at": "2026-09-30T17:24:45+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7555,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://techcrunch.com/?p=3172200"
+    },
+    {
+      "title": "Bill Gates says companies that replace human labor with robots should have to pay the same FICA taxes",
+      "summary": "Bill Gates says he wants workers to pay their fair share — even if they're not human.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/bill-gates-fica-taxes-should-apply-to-robot-workers-2026-9",
+      "published_at": "2026-09-30T17:23:16+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7554,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/bill-gates-fica-taxes-should-apply-to-robot-workers-2026-9"
+    },
+    {
+      "title": "Trump decrees era of 'Super Intelligence' upon us",
+      "summary": "Federal paperwork to be pulped as agencies told to forget the old name, while critics ask who owns all those .si domains",
+      "source_name": "The Register",
+      "source_url": "https://www.theregister.com/ai-and-ml/2026/09/30/trump-decrees-era-of-super-intelligence-upon-us/5300213",
+      "published_at": "2026-09-30T17:01:00+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7539,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.theregister.com/a/5300213"
+    },
+    {
+      "title": "Organizations need decision-grade knowledge. AI makes it urgent.",
+      "summary": "AI can make the first part remarkably fast. It can find the page, the discussion and the person who might know. The harder work begins when those sources disagree, or when they become stale.",
+      "source_name": "Stack Overflow Blog",
+      "source_url": "https://stackoverflow.blog/2026/09/30/organizations-need-decision-grade-knowledge-ai-makes-it-urgent/",
+      "published_at": "2026-09-30T17:00:00+00:00",
+      "category": "developer_platforms",
+      "tags": [
+        "AI",
+        "Developer Platforms"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7538,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "78281763-feb0-4d4b-982a-fec90093703d"
+    },
+    {
+      "title": "Attackers Exploit Zimbra Flaw to Deploy Web Shells and Harvest Authentication Secrets",
+      "summary": "Threat actors have weaponized a now-patched security flaw in Zimbra Collaboration Suite (ZCS) to deploy web shells and access mailbox data, according to findings from the Microsoft Security Research team. The attack exploits CVE-2026-73570 (CVSS score: 8.9), an unauthenticated operating system command injection flaw that can lead to remote code execution when Simple Network Management Protocol",
+      "source_name": "The Hacker News",
+      "source_url": "https://thehackernews.com/2026/09/attackers-exploit-zimbra-flaw-to-deploy.html",
+      "published_at": "2026-09-30T16:46:29+00:00",
+      "category": "cybersecurity",
+      "tags": [
+        "AI",
+        "Security",
+        "Research",
+        "Cybersecurity"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7529,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://thehackernews.com/2026/09/attackers-exploit-zimbra-flaw-to-deploy.html"
+    },
+    {
+      "title": "Attackers Abuse MSP360 to Deploy ScreenConnect in Dual-RMM Phishing Attacks",
+      "summary": "Microsoft has warned of phishing campaigns distributing an installer for the MSP360 Remote Monitoring and Management (RMM) software under the guise of meeting invitations, PDF-themed lures, software update prompts, and other social-engineering content. \"Once executed, the legitimate MSP360 installer, distributed under a deceptive file name established remote management access on affected",
+      "source_name": "The Hacker News",
+      "source_url": "https://thehackernews.com/2026/09/attackers-abuse-msp360-to-deploy.html",
+      "published_at": "2026-09-30T16:32:59+00:00",
+      "category": "cybersecurity",
+      "tags": [
+        "AI",
+        "Cybersecurity"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7519,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://thehackernews.com/2026/09/attackers-abuse-msp360-to-deploy.html"
+    },
+    {
+      "title": "I tried Ina Garten's and Martha Stewart's easiest pasta recipes. Both delivered quick dinners, but there was a clear winner.",
+      "summary": "I whipped up Ina Garten's summer garden pasta and Martha Stewart's one-pan pasta. Both recipes are meat-free but rely on different cooking techniques.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/ina-garten-martha-stewart-easy-pasta-recipes-2026-9",
+      "published_at": "2026-09-30T16:33:17+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7519,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/ina-garten-martha-stewart-easy-pasta-recipes-2026-9"
+    },
+    {
+      "title": "Meta disputes claim that Muse read a user’s private messages without permission",
+      "summary": "Meta says its Muse AI agent cannot access a user’s Messages without explicit permission, disputing a journalist’s account that the agent read his private messages while the required Mac setting was turned off.",
+      "source_name": "TechCrunch - AI",
+      "source_url": "https://techcrunch.com/2026/09/30/meta-disputes-claim-that-muse-read-a-users-private-messages-without-permission/",
+      "published_at": "2026-09-30T16:24:23+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7513,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://techcrunch.com/?p=3172182"
+    },
+    {
+      "title": "At 56, I bought a chateau in France. I never imagined I'd spend my midlife creating my dream home and business.",
+      "summary": "At midlife, I moved out of the US, bought a chateau in France, renovated it, and built a successful business abroad. The pros beat the cons.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/american-bought-french-chateau-built-successful-business-abroad-midlife-2026-9",
+      "published_at": "2026-09-30T16:21:01+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7511,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/american-bought-french-chateau-built-successful-business-abroad-midlife-2026-9"
+    },
+    {
+      "title": "World’s First Fully Implanted Cochlear Implant Reaches Patients",
+      "summary": "Users get round-the-clock hearing with no visible external hardware",
+      "source_name": "IEEE Spectrum",
+      "source_url": "https://spectrum.ieee.org/fully-implantable-cochlear-implant",
+      "published_at": "2026-09-30T16:19:59+00:00",
+      "category": "research_feeds",
+      "tags": [
+        "Research Feeds"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.751,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://spectrum.ieee.org/fully-implantable-cochlear-implant"
+    },
+    {
+      "title": "I was tired of asking my boss for permission to take my kids to doctors. So I became my own boss.",
+      "summary": "My baby stopped breathing at four months and had repeated hospital stays. Managing his care eventually pushed me to rethink how I worked.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/working-mom-sick-kids-career-flexibility-started-business-2026-9",
+      "published_at": "2026-09-30T16:19:01+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7509,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/working-mom-sick-kids-career-flexibility-started-business-2026-9"
+    },
+    {
+      "title": "DoorDash now has a text-to-order option as AI agents like Instinct are taking off",
+      "summary": "DoorDash launches beta text-to-order feature, letting users text food orders. AI agents like Instinct offer similar options.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/doordash-text-to-order-feature-easy-reordering-2026-9",
+      "published_at": "2026-09-30T16:17:43+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7509,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/doordash-text-to-order-feature-easy-reordering-2026-9"
+    }
+  ]
+}
