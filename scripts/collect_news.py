@@ -50,8 +50,12 @@ _TYPE_WEIGHT = {
     SourceType.AGGREGATOR: 0.42,
 }
 
-# Keep the raw candidate pool bounded; generate_post picks the final 3–7.
+# Keep the raw candidate pool bounded; generate_post picks the final 7-15.
 MAX_CANDIDATES = 45
+# Before the pool is cut to MAX_CANDIDATES by importance, the best few items
+# from EVERY category are reserved, so lower-weighted categories (e.g. the AI
+# newsletters) still reach selection instead of being squeezed out daily.
+RESERVED_PER_CATEGORY = 2
 
 
 # ──────────────────────────────────────────────────────────────────────
@@ -386,6 +390,25 @@ def _dedupe(items: list[dict]) -> list[dict]:
     return kept
 
 
+def _diverse_pool(items: list[dict], limit: int) -> list[dict]:
+    """Top RESERVED_PER_CATEGORY items of each category first, then fill the
+    rest by importance. Output stays sorted by importance."""
+    ranked = sorted(items, key=lambda x: x["importance_score"], reverse=True)
+    keep, seen = [], {}
+    for it in ranked:
+        cat = it.get("category", "")
+        if seen.get(cat, 0) < RESERVED_PER_CATEGORY:
+            keep.append(it); seen[cat] = seen.get(cat, 0) + 1
+    keep = keep[:limit]
+    ids = {id(x) for x in keep}
+    for it in ranked:
+        if len(keep) >= limit:
+            break
+        if id(it) not in ids:
+            keep.append(it)
+    return sorted(keep, key=lambda x: x["importance_score"], reverse=True)
+
+
 def main() -> int:
     today = ny_today()
     rundir = run_dir(today)
@@ -418,14 +441,14 @@ def main() -> int:
     except Exception as exc:
         LOG.warning("HN error: %s", exc)
 
-    deduped = _dedupe(all_items)[:MAX_CANDIDATES]
+    deduped = _diverse_pool(_dedupe(all_items), MAX_CANDIDATES)
 
     # tetw.org cross-ref enrichment - needs the day's candidates as input,
     # so it runs after the normal pass (see the function's doc block).
     try:
         extra = _collect_tetw_crossref(deduped, defaults)
         if extra:
-            deduped = _dedupe(deduped + extra)[:MAX_CANDIDATES]
+            deduped = _diverse_pool(_dedupe(deduped + extra), MAX_CANDIDATES)
     except Exception as exc:  # enrichment must never fail the batch
         LOG.warning("tetw cross-ref error: %s", exc)
 

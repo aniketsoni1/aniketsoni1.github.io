@@ -304,12 +304,27 @@ _TAG_KEYWORDS = {
 }
 
 
+_TAG_RE_CACHE: dict = {}
+
+
+def _tag_hit(needle: str, haystack: str) -> bool:
+    """Word-aware keyword match. Short needles ("ai", "etl", "llm") must be a
+    whole word (plural allowed) so "ai" no longer matches "plain" or "said";
+    longer needles must start at a word boundary ("agent" -> "agents")."""
+    rx = _TAG_RE_CACHE.get(needle)
+    if rx is None:
+        core = re.escape(needle)
+        rx = re.compile(r"(?<![a-z0-9])" + core + (r"(?:s|es)?(?![a-z0-9])" if len(needle) <= 3 else ""))
+        _TAG_RE_CACHE[needle] = rx
+    return rx.search(haystack) is not None
+
+
 def extract_tags(text: str, extra: Optional[Iterable[str]] = None, limit: int = 8) -> list[str]:
     """Deterministically derive display tags from text + optional seeds."""
     haystack = (text or "").lower()
     found: list[str] = []
     for needle, label in _TAG_KEYWORDS.items():
-        if needle in haystack and label not in found:
+        if label not in found and _tag_hit(needle, haystack):
             found.append(label)
     if extra:
         for e in extra:

@@ -20,6 +20,8 @@ source-tied text.
 
 from __future__ import annotations
 
+import os
+
 from datetime import date, datetime
 from pathlib import Path
 from typing import Optional
@@ -58,6 +60,13 @@ MIN_STORIES = 3         # below this, the brief runs as a Short Signal edition
 MIN_TOP_SIGNALS = 7     # daily target floor for Top Technology Signals
 MAX_TOP_SIGNALS = 15    # daily ceiling
 LINK_CHECK_POOL = 24    # validate links on at most this many top candidates
+MAX_AGGREGATOR = int(os.environ.get("SIGNAL_MAX_AGGREGATOR", "2"))   # Hacker News items per post
+MAX_PER_SOURCE = int(os.environ.get("SIGNAL_MAX_PER_SOURCE", "3"))   # any single publisher per post
+# Tags that only restate where an item came from; an aggregator item needs at
+# least one REAL topic tag (AI, Databricks, Kubernetes, ...) to be considered.
+_SOURCE_ONLY_TAGS = {"Aggregators", "Hacker News", "Open Source", "Technology"}
+NEWSLETTER_CATEGORY = "ai_newsletters"
+NEWSLETTER_SLOT = 4      # 0-based: the newsletter story appears 5th
 
 
 def _daily_signal_cap(d: date) -> int:
@@ -179,9 +188,38 @@ def _load_history(rundir: Path) -> tuple[Optional[HistoryItem], int]:
 # ──────────────────────────────────────────────────────────────────────
 #  Story selection with link validation
 # ──────────────────────────────────────────────────────────────────────
+def _editorial_filter(news: list[NewsItem]) -> list[NewsItem]:
+    """
+    Keep the brief on-topic and varied (input is sorted by importance):
+      - Hacker News (aggregator) items only when they carry a real technology
+        tag, and at most MAX_AGGREGATOR of them;
+      - at most MAX_PER_SOURCE items from any one publisher.
+    """
+    out, per_source, agg = [], {}, 0
+    for n in news:
+        st = getattr(n.source_type, "value", n.source_type)
+        if st == "aggregator":
+            topical = [t for t in (n.tags or []) if t not in _SOURCE_ONLY_TAGS]
+            if not topical or agg >= MAX_AGGREGATOR:
+                continue
+            agg += 1
+        if per_source.get(n.source_name, 0) >= MAX_PER_SOURCE:
+            continue
+        per_source[n.source_name] = per_source.get(n.source_name, 0) + 1
+        out.append(n)
+    # One guaranteed slot for the AI newsletters (The Neuron, AI Secret,
+    # Superhuman): their best item is moved up into the first few positions so
+    # it survives the daily cap, without displacing the lead stories.
+    nl = next((n for n in out if n.category == NEWSLETTER_CATEGORY), None)
+    if nl is not None and out.index(nl) > NEWSLETTER_SLOT:
+        out.remove(nl)
+        out.insert(NEWSLETTER_SLOT, nl)
+    return out
+
+
 def _select_stories(news: list[NewsItem], cap: int) -> tuple[list[NewsItem], int, int]:
     """Validate links on the top candidates; keep survivors up to the day's cap."""
-    pool = news[:LINK_CHECK_POOL]
+    pool = _editorial_filter(news)[:LINK_CHECK_POOL]
     if not pool:
         return [], 0, 0
     link_status = validate_urls([n.source_url for n in pool])
@@ -396,6 +434,8 @@ def main() -> int:
         run_dir=str(rundir),
     )
     manifest.add_note(f"selected {len(selected)} stories; edition={edition.value}")
+    if provider is not None:
+        manifest.add_note(f"ai calls ok {provider.ok}/{provider.calls}; served by {provider.served or 'none'}")
     write_json(rundir / "provenance.json", manifest)
     LOG.info("Wrote provenance → %s", rundir / "provenance.json")
     return 0

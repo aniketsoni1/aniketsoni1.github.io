@@ -29,6 +29,7 @@ from __future__ import annotations
 import json
 import os
 import re
+import time
 from abc import ABC, abstractmethod
 from typing import Optional
 
@@ -60,14 +61,24 @@ class Provider(ABC):
     @abstractmethod
     def _raw_complete(self, system: str, prompt: str) -> str: ...
 
+    # Free tiers rate-limit per minute (Gemini Flash free: ~10-15 RPM); a run
+    # makes ~12 calls in quick succession, so space them out.
+    min_interval = float(os.environ.get("SIGNAL_AI_MIN_INTERVAL", "4.5"))
+    _last_call = 0.0
+
     def complete(self, system: str, prompt: str) -> Optional[str]:
-        """Public entry with retry + total failure isolation."""
+        """Public entry with pacing, retry + total failure isolation."""
+        wait = self._last_call + self.min_interval - time.monotonic()
+        if wait > 0:
+            time.sleep(wait)
         try:
             text = self._retry_complete(system, prompt)
             return (text or "").strip() or None
         except Exception as exc:
             LOG.warning("[%s] completion failed: %s", self.name, exc)
             return None
+        finally:
+            self._last_call = time.monotonic()
 
     @retry(stop=stop_after_attempt(3), wait=wait_exponential(multiplier=1, min=1, max=8), reraise=True)
     def _retry_complete(self, system: str, prompt: str) -> str:
@@ -120,10 +131,25 @@ class GeminiProvider(Provider):
         payload = {
             "system_instruction": {"parts": [{"text": system}]},
             "contents": [{"parts": [{"text": prompt}]}],
-            "generationConfig": {"temperature": _TEMP, "maxOutputTokens": _MAXTOK},
+            "generationConfig": {
+                "temperature": _TEMP,
+                "maxOutputTokens": _MAXTOK,
+                # gemini-2.5-flash "thinks" by default and those hidden tokens
+                # count against maxOutputTokens - with a small budget the reply
+                # came back with no text at all, so every call fell back. These
+                # are short, extractive tasks: turn thinking off.
+                "thinkingConfig": {"thinkingBudget": int(os.environ.get("GEMINI_THINKING_BUDGET", "0"))},
+            },
         }
         data = _post_json(url, {"Content-Type": "application/json"}, payload)
-        return data["candidates"][0]["content"]["parts"][0]["text"]
+        cands = data.get("candidates") or []
+        if not cands:
+            raise ValueError(f"gemini: no candidates ({data.get('promptFeedback', {})})")
+        parts = (cands[0].get("content") or {}).get("parts") or []
+        text = "".join(p.get("text", "") for p in parts if not p.get("thought"))
+        if not text.strip():
+            raise ValueError(f"gemini: empty reply (finishReason={cands[0].get('finishReason')})")
+        return text
 
 
 # ── 2. Groq (OpenAI-compatible) ───────────────────────────────────────
@@ -287,8 +313,42 @@ def _resolve_order() -> list[str]:
     return _DEFAULT_ORDER
 
 
-def get_provider() -> Optional[Provider]:
-    """Return the first *available* provider in the resolved order, or None."""
+class ProviderChain:
+    """
+    Every configured provider, in priority order. Each call tries them in turn
+    until one returns text, so a single failing provider (quota, outage, model
+    change) no longer drops the whole run to the deterministic fallback.
+    Tracks real outcomes so the provenance manifest reports what happened.
+    """
+
+    def __init__(self, providers: list[Provider]):
+        self.providers = providers
+        self.calls = 0
+        self.ok = 0
+        self.served: dict[str, int] = {}
+
+    @property
+    def name(self) -> str:
+        return self.providers[0].name
+
+    @property
+    def model(self) -> str:
+        return self.providers[0].model
+
+    def complete(self, system: str, prompt: str) -> Optional[str]:
+        self.calls += 1
+        for p in self.providers:
+            text = p.complete(system, prompt)
+            if text:
+                self.ok += 1
+                self.served[p.name] = self.served.get(p.name, 0) + 1
+                return text
+        return None
+
+
+def get_provider() -> Optional[ProviderChain]:
+    """Return a chain of every *available* provider in the resolved order, or None."""
+    chain = []
     for name in _resolve_order():
         cls = _PROVIDERS_BY_NAME.get(name)
         if cls is None:
@@ -296,17 +356,24 @@ def get_provider() -> Optional[Provider]:
             continue
         provider = cls()
         if provider.available():
-            LOG.info("AI provider selected: %s (model=%s)", provider.name, provider.model)
-            return provider
-    LOG.info("No AI provider configured → deterministic fallback mode.")
-    return None
+            chain.append(provider)
+    if not chain:
+        LOG.info("No AI provider configured → deterministic fallback mode.")
+        return None
+    LOG.info("AI providers: %s", ", ".join(f"{p.name}({p.model})" for p in chain))
+    return ProviderChain(chain)
 
 
-def provider_info(provider: Optional[Provider]) -> tuple[str, str, bool]:
-    """(provider_name, model_name, fallback_used) for the provenance manifest."""
+def provider_info(provider: Optional[ProviderChain]) -> tuple[str, str, bool]:
+    """(provider_name, model_name, fallback_used) for the provenance manifest.
+    fallback_used is True whenever ANY call fell back to deterministic text."""
     if provider is None:
         return "deterministic", "none", True
-    return provider.name, provider.model, False
+    if provider.calls:
+        LOG.info("AI calls succeeded: %d/%d (served by %s)", provider.ok, provider.calls, provider.served or "none")
+    served = max(provider.served, key=provider.served.get) if provider.served else provider.name
+    model = next((p.model for p in provider.providers if p.name == served), provider.model)
+    return served, model, provider.ok < provider.calls
 
 
 # ══════════════════════════════════════════════════════════════════════
