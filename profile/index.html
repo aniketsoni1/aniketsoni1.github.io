@@ -65,16 +65,22 @@ sections:
     unit: "credentials"
     lede: "Degrees and professional certifications."
 
+# The Achievement Timeline is section 11 of this page (it lives only here,
+# never on the homepage) and is listed in the "At a glance" overview.
+timeline:
+  num: "11"
+  title: "Achievement Timeline"
+
 publication_order: ["Book", "Book chapter", "Journal", "Conference", "Preprint"]
 
-tl_labels:
-  awards: "Award"
-  judging: "Judging"
-  media: "Media"
-  contributions: "Contribution"
-  publications: "Publication"
-  speaking: "Talk"
-  community: "Community"
-  roles: "Role"
-  education: "Education"
+# Achievement Timeline categories: which data lists feed each category and
+# which section its rows link to. Peer-review venues are added to "judging".
+tl_groups:
+  - { key: career,     label: "Career",           sources: [career, certifications],             anchor: roles }
+  - { key: awards,     label: "Awards",           sources: [awards],                             anchor: awards }
+  - { key: judging,    label: "Judging & review", sources: [judging],                            anchor: judging }
+  - { key: research,   label: "Research",         sources: [publications],                       anchor: publications }
+  - { key: innovation, label: "Innovation",       sources: [contributions],                      anchor: contributions }
+  - { key: media,      label: "Media",            sources: [media],                              anchor: media }
+  - { key: leadership, label: "Leadership",       sources: [memberships, speaking, community],   anchor: community }
 ---

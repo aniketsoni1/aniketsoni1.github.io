@@ -156,6 +156,17 @@
       {%- endfor %}
     </section>
 
+    {%- comment -%} Timeline totals (used by the overview card and the timeline). {%- endcomment -%}
+    {%- assign ymin = 2013 -%}
+    {%- assign ymax = site.time | date: "%Y" | plus: 0 -%}
+    {%- assign peak = 1 -%}{%- assign grand = 0 -%}{%- assign active = 0 -%}
+    {%- for y in (ymin..ymax) -%}
+      {%- assign c = 0 -%}
+      {%- for g in page.tl_groups -%}{%- for src in g.sources -%}{%- assign hits = P[src] | where: "year", y -%}{%- assign c = c | plus: hits.size -%}{%- endfor -%}{%- endfor -%}
+      {%- assign pr = P.peer_review.venues | where: "year", y -%}{%- if pr.size > 0 %}{% assign c = c | plus: 1 %}{% endif -%}
+      {%- if c > peak %}{% assign peak = c %}{% endif -%}
+      {%- assign grand = grand | plus: c -%}{%- if c > 0 %}{% assign active = active | plus: 1 %}{% endif -%}
+    {%- endfor %}
     <!-- ══ Criteria overview ══ -->
     <section id="pf-overview" class="pf-overview" aria-labelledby="pf-overview-h">
       <h2 id="pf-overview-h" class="pf-h2">At a glance</h2>
@@ -175,6 +186,12 @@
           {%- if s.key == 'judging' %}<span class="pf-ov-extra">+ {{ P.peer_review.total }} peer reviews</span>{% endif %}
         </a>
         {%- endfor %}
+        <a class="pf-ov-card pf-ov-tl" href="#pf-timeline">
+          <span class="pf-ov-num">{{ page.timeline.num }}</span>
+          <span class="pf-ov-title">{{ page.timeline.title }}</span>
+          <span class="pf-ov-count">{{ grand }} <small>milestones</small></span>
+          <span class="pf-ov-extra">{{ ymin }} - {{ ymax }} · {{ active }} active years</span>
+        </a>
       </div>
     </section>
 
@@ -227,52 +244,108 @@
         </div>
         <p class="pf-card-sum">{{ P.peer_review.summary }}</p>
         <table class="pf-table">
-          <thead><tr><th scope="col">Venue</th><th scope="col">Organization</th><th scope="col">Year</th></tr></thead>
+          <thead><tr><th scope="col">Venue</th><th scope="col">Organization</th><th scope="col">Reviews</th></tr></thead>
           <tbody>
             {%- for v in P.peer_review.venues %}
-            <tr><td>{{ v.name }}</td><td>{{ v.org }}</td><td>{{ v.year }}</td></tr>
+            <tr><td>{{ v.name }}</td><td>{{ v.org }}</td><td>{% if v.papers %}{{ v.papers }}{% else %}{{ v.note }}{% endif %}</td></tr>
             {%- endfor %}
           </tbody>
         </table>
+        {%- if P.peer_review.quote %}
+        <blockquote class="pf-quote">"{{ P.peer_review.quote }}"<cite>{{ P.peer_review.quote_by }}</cite></blockquote>
+        {%- endif %}
       </div>
       {%- endif %}
     </section>
     {%- endfor %}
 
-    <!-- ══ Timeline (server-rendered from the same data) ══ -->
-    {%- assign tl_cats = "awards,judging,media,contributions,publications,speaking,community,roles,education" | split: "," -%}
-    {%- assign ymax = site.time | date: "%Y" | plus: 0 -%}
-    {%- assign peak = 1 -%}
-    {%- for y in (2016..ymax) -%}
-      {%- assign c = 0 -%}
-      {%- for cat in tl_cats -%}{%- assign hits = P[cat] | where: "year", y -%}{%- assign c = c | plus: hits.size -%}{%- endfor -%}
-      {%- if c > peak %}{% assign peak = c %}{% endif -%}
-    {%- endfor %}
+    <!-- ══ Achievement Timeline (server-rendered from the same data) ══ -->
     <section id="pf-timeline" class="pf-section" aria-labelledby="pf-timeline-h">
       <div class="pf-sec-head">
-        <span class="pf-sec-num">→</span>
+        <span class="pf-sec-num">{{ page.timeline.num }}</span>
         <div>
-          <h2 id="pf-timeline-h" class="pf-h2">Timeline</h2>
-          <p class="pf-lede">Dated achievements by year, across every category above.</p>
+          <h2 id="pf-timeline-h" class="pf-h2">{{ page.timeline.title }}</h2>
+          <p class="pf-lede">Every dated milestone above, year by year: continuous and escalating recognition from {{ ymin }} to {{ ymax }}.</p>
         </div>
       </div>
+
+      <div class="pf-tl-stats">
+        <div><span>{{ grand }}</span><small>Dated milestones</small></div>
+        <div><span>{{ active }}</span><small>Active years</small></div>
+        <div><span>{{ P.judging.size }}</span><small>Judging appointments</small></div>
+        <div><span>{{ P.peer_review.total }}</span><small>Peer reviews</small></div>
+      </div>
+
+      <!-- Activity by year, stacked by category -->
+      <figure class="pf-chart" aria-label="Achievement activity by year">
+        <div class="pf-chart-cols">
+          {%- for y in (ymin..ymax) %}
+            {%- assign c = 0 -%}
+            {%- for g in page.tl_groups -%}{%- for src in g.sources -%}{%- assign hits = P[src] | where: "year", y -%}{%- assign c = c | plus: hits.size -%}{%- endfor -%}{%- endfor -%}
+            {%- assign pr = P.peer_review.venues | where: "year", y -%}{%- if pr.size > 0 %}{% assign c = c | plus: 1 %}{% endif -%}
+            {%- if c > 0 %}
+            <a class="pf-chart-col" href="#tl-{{ y }}" title="{{ y }}: {{ c }} milestones">
+              <span class="pf-chart-area"><span class="pf-bar" style="height:{{ c | times: 100 | divided_by: peak }}%">
+              <span class="pf-chart-n">{{ c }}</span>
+              <span class="pf-chart-stack">
+                {%- for g in page.tl_groups -%}
+                  {%- assign gc = 0 -%}
+                  {%- for src in g.sources -%}{%- assign hits = P[src] | where: "year", y -%}{%- assign gc = gc | plus: hits.size -%}{%- endfor -%}
+                  {%- if g.key == 'judging' and pr.size > 0 %}{% assign gc = gc | plus: 1 %}{% endif -%}
+                  {%- if gc > 0 %}<span class="pf-seg g-{{ g.key }}" data-g="{{ g.key }}" style="flex-grow:{{ gc }}"></span>{% endif -%}
+                {%- endfor -%}
+              </span>
+              </span></span>
+              <span class="pf-chart-y">{{ y }}</span>
+            </a>
+            {%- endif %}
+          {%- endfor %}
+        </div>
+        <figcaption class="pf-legend">
+          {%- for g in page.tl_groups %}<span><i class="g-{{ g.key }}"></i>{{ g.label }}</span>{% endfor %}
+        </figcaption>
+      </figure>
+
+      <!-- Career progression -->
+      <h3 class="pf-h3">Career progression</h3>
+      <ol class="pf-phases">
+        {%- for ph in P.career_phases %}
+        <li><span class="pf-phase-span">{{ ph.span }}</span><strong>{{ ph.label }}</strong><span>{{ ph.summary }}</span></li>
+        {%- endfor %}
+      </ol>
+
+      <!-- Category filter (progressive enhancement) -->
+      <div class="pf-tl-filter" role="group" aria-label="Filter timeline by category" hidden>
+        <button type="button" class="is-on" data-g="all">All</button>
+        {%- for g in page.tl_groups %}<button type="button" data-g="{{ g.key }}"><i class="g-{{ g.key }}"></i>{{ g.label }}</button>{% endfor %}
+      </div>
+
       <div class="pf-tl">
-        {%- for y in (2016..ymax) reversed %}
+        {%- for y in (ymin..ymax) reversed %}
           {%- assign c = 0 -%}
-          {%- for cat in tl_cats -%}{%- assign hits = P[cat] | where: "year", y -%}{%- assign c = c | plus: hits.size -%}{%- endfor -%}
+          {%- for g in page.tl_groups -%}{%- for src in g.sources -%}{%- assign hits = P[src] | where: "year", y -%}{%- assign c = c | plus: hits.size -%}{%- endfor -%}{%- endfor -%}
+          {%- assign pr = P.peer_review.venues | where: "year", y -%}{%- if pr.size > 0 %}{% assign c = c | plus: 1 %}{% endif -%}
           {%- if c > 0 %}
-          <details class="pf-tl-year"{% if forloop.first %} open{% endif %}>
+          <details class="pf-tl-year" id="tl-{{ y }}"{% if forloop.index <= 2 %} open{% endif %}>
             <summary>
               <span class="pf-tl-y">{{ y }}</span>
               <span class="pf-tl-bar" aria-hidden="true"><span style="width:{{ c | times: 100 | divided_by: peak }}%"></span></span>
               <span class="pf-tl-c">{{ c }}</span>
             </summary>
+            {%- assign line = P.acclaim_years[y] -%}
+            {%- if line %}<p class="pf-tl-line">{{ line }}</p>{% endif %}
             <ul class="pf-tl-list">
-              {%- for cat in tl_cats -%}
-                {%- assign hits = P[cat] | where: "year", y -%}
-                {%- for it in hits %}
-                <li><a href="#{{ cat }}"><span class="pf-chip">{{ page.tl_labels[cat] }}</span> {{ it.title }}{% if it.org %} <em>· {{ it.org }}</em>{% endif %}</a></li>
+              {%- for g in page.tl_groups -%}
+                {%- for src in g.sources -%}
+                  {%- assign hits = P[src] | where: "year", y -%}
+                  {%- for it in hits %}
+                  {%- assign note = it.year_notes[y] -%}
+                  <li data-g="{{ g.key }}"><a href="#{{ g.anchor }}"><span class="pf-chip g-{{ g.key }}">{{ g.label }}</span> <strong>{{ it.title }}</strong>{% if it.org %} <em>· {{ it.org }}</em>{% endif %}{% if note %} <small>{{ note }}</small>{% elsif it.date %} <small>{{ it.date }}</small>{% endif %}</a></li>
+                  {%- endfor -%}
                 {%- endfor -%}
+                {%- if g.key == 'judging' and pr.size > 0 %}
+                  <li data-g="judging"><a href="#judging"><span class="pf-chip g-judging">{{ g.label }}</span> <strong>Peer reviewer · {{ pr.size }} venues</strong> <em>· {{ pr | map: "name" | join: ", " }}</em> <small>{{ P.peer_review.total }} documented reviews</small></a></li>
+                {%- endif -%}
               {%- endfor %}
             </ul>
           </details>
@@ -309,6 +382,13 @@
     </div>
   </footer>
 
+  <button id="back-to-top" aria-label="Back to top" title="Back to top">
+    <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true">
+      <line x1="12" y1="19" x2="12" y2="5"/>
+      <polyline points="5,12 12,5 19,12"/>
+    </svg>
+  </button>
+
   <button id="theme-toggle" aria-label="Toggle light/dark theme" title="Toggle theme">
     <svg class="t-icon t-sun" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><circle cx="12" cy="12" r="4"/><line x1="12" y1="2" x2="12" y2="5"/><line x1="12" y1="19" x2="12" y2="22"/><line x1="2" y1="12" x2="5" y2="12"/><line x1="19" y1="12" x2="22" y2="12"/><line x1="4.22" y1="4.22" x2="6.34" y2="6.34"/><line x1="17.66" y1="17.66" x2="19.78" y2="19.78"/><line x1="4.22" y1="19.78" x2="6.34" y2="17.66"/><line x1="17.66" y1="6.34" x2="19.78" y2="4.22"/></svg>
     <svg class="t-icon t-moon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg>
@@ -327,6 +407,10 @@
         if (html.getAttribute('data-theme') === 'light') { html.removeAttribute('data-theme'); localStorage.setItem('theme', 'dark'); }
         else { html.setAttribute('data-theme', 'light'); localStorage.setItem('theme', 'light'); }
       });
+
+      var top = document.getElementById('back-to-top');
+      window.addEventListener('scroll', function () { top.classList.toggle('visible', window.scrollY > 400); }, { passive: true });
+      top.addEventListener('click', function () { window.scrollTo({ top: 0, behavior: 'smooth' }); });
 
       // Search: hides non-matching cards and empty sections. Content stays in
       // the HTML for crawlers; this only changes visibility for readers.
@@ -348,6 +432,29 @@
         });
         out.textContent = t ? shown + ' match' + (shown === 1 ? '' : 'es') : '';
       });
+
+      // Timeline category filter: chips toggle list rows, hide empty years and
+      // fade chart segments of other categories.
+      var tf = document.querySelector('.pf-tl-filter');
+      if (tf) {
+        tf.hidden = false;
+        tf.addEventListener('click', function (e) {
+          var b = e.target.closest('button'); if (!b) return;
+          var g = b.getAttribute('data-g');
+          tf.querySelectorAll('button').forEach(function (x) { x.classList.toggle('is-on', x === b); });
+          document.querySelectorAll('.pf-tl-list li').forEach(function (li) {
+            li.style.display = (g === 'all' || li.getAttribute('data-g') === g) ? '' : 'none';
+          });
+          document.querySelectorAll('.pf-tl-year').forEach(function (yr) {
+            var any = Array.prototype.some.call(yr.querySelectorAll('li'), function (li) { return li.style.display !== 'none'; });
+            yr.style.display = any ? '' : 'none';
+            if (g !== 'all' && any) yr.open = true;
+          });
+          document.querySelectorAll('.pf-seg').forEach(function (sg) {
+            sg.style.opacity = (g === 'all' || sg.getAttribute('data-g') === g) ? '' : '0.15';
+          });
+        });
+      }
 
       // Print: open every evidence panel so the PDF carries the proof links.
       window.addEventListener('beforeprint', function () {
