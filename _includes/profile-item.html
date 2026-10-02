@@ -5,7 +5,7 @@
   or evidence links - the page never shows empty "TBD" placeholders.
 {%- endcomment -%}
 {%- assign it = include.item -%}
-<article class="pf-card" data-cat="{{ include.cat }}"{% if it.year %} data-year="{{ it.year }}"{% endif %}>
+<article class="pf-card" data-cat="{{ include.cat }}">
   <div class="pf-card-top">
     {%- if it.kind %}<span class="pf-chip">{{ it.kind }}</span>{% endif -%}
     {%- if it.date %}<span class="pf-date">{{ it.date }}</span>{% endif -%}

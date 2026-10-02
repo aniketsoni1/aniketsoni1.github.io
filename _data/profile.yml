@@ -10,16 +10,20 @@
 #    org           issuing / organizing body
 #    role          your role (judge, reviewer, author, ...)
 #    date          display date, e.g. "Jun 2026" or "2024-2026"
-#    year          4-digit year used for the timeline (omit to exclude)
+#    year          year (or list of years) used by the Achievement Timeline
+#    year_notes    per-year detail for multi-year items, e.g. { 2025: "..." }
 #    location      city / country / "Online"
 #    summary       one or two factual sentences
 #    significance  why it is selective / notable (only verified facts)
 #    evidence      list of { label, url } proof links
 #    kind          sub-type label shown as a chip
 #
-#  House rule: nothing goes in here that cannot be backed by a source.
-#  Items with no significance/evidence simply render without the
-#  evidence panel - the page never shows empty placeholders.
+#  House rules:
+#   - nothing goes in here that cannot be backed by a source document;
+#   - no internal identifiers (employee IDs, certificate / member numbers,
+#     registrant IDs, personal email addresses) on the public page;
+#   - items without significance/evidence render without the evidence panel,
+#     so the page never shows empty placeholders.
 # ════════════════════════════════════════════════════════════════════
 
 person:
@@ -31,9 +35,10 @@ person:
     Senior Data Engineer with 7+ years designing enterprise-scale data
     infrastructure, AI-powered analytics and cloud-native pipelines for
     regulated industries. Author of two books and 20+ peer-reviewed papers,
-    Senior Member of IEEE, and an invited judge and peer reviewer for
-    international technology awards, startup competitions and IEEE
-    conferences.
+    named inventor on a published US patent application and a granted UK
+    registered design, Senior Member of IEEE, and an invited judge and peer
+    reviewer for international technology awards, startup competitions and
+    IEEE conferences.
   expertise:
     - Enterprise Data Engineering
     - Data Pipelines & ETL/ELT
@@ -52,7 +57,7 @@ person:
     - { label: "Wikidata", url: "https://www.wikidata.org/wiki/Q134969255" }
     - { label: "Open Library", url: "https://openlibrary.org/authors/OL16440533A/Aniket_Abhishek_Soni" }
 
-# Headline research metrics (as published on the homepage; refresh here).
+# Headline metrics (citation figures as published on the homepage; refresh here).
 metrics:
   as_of: "2026"
   items:
@@ -60,7 +65,9 @@ metrics:
     - { value: "109", label: "Citations (Google Scholar)" }
     - { value: "4", label: "h-index (Google Scholar)" }
     - { value: "20+", label: "Peer-reviewed papers" }
-    - { value: "2", label: "Published books" }
+    - { value: "28+", label: "Peer reviews completed" }
+    - { value: "2", label: "Books + Wiley chapter" }
+    - { value: "1 + 1", label: "US patent application · UK design" }
 
 # ── 01 · Awards & Honors ─────────────────────────────────────────────
 awards:
@@ -70,7 +77,7 @@ awards:
     year: 2025
     kind: "Industry award"
   - title: "40 Under Forty"
-    org: "AFCEA International"
+    org: "AFCEA International (Armed Forces Communications and Electronics Association)"
     date: "2024"
     year: 2024
     kind: "Industry award"
@@ -82,88 +89,124 @@ awards:
     kind: "National award"
   - title: "Cheers Award"
     org: "Cognizant Technology Solutions"
-    date: "2022"
+    date: "Dec 2022"
     year: 2022
     kind: "Employer recognition"
 
 # ── 02 · Judging the Work of Others ──────────────────────────────────
 judging:
-  - title: "Competition Judge"
-    org: "MIT 100K Entrepreneurship Competition (Pitch, Accelerate & Launch)"
-    location: "Massachusetts Institute of Technology"
+  - title: "Judge - Pitch, Accelerate and Launch rounds"
+    org: "MIT $100K Entrepreneurship Competition"
+    location: "Massachusetts Institute of Technology, Cambridge, MA"
+    date: "Oct 2025 - Apr 2026"
+    year: [2025, 2026]
+    year_notes:
+      2025: "Pitch round judged Oct 21-30, 2025"
+      2026: "Accelerate (Feb 6-17) and Launch (Apr 3-13) rounds judged"
     kind: "Startup competition"
-    summary: "Evaluated venture pitches, business models and technical feasibility of early-stage companies."
-    significance: "The MIT $100K is MIT's flagship annual entrepreneurship competition, run in three stages: Pitch, Accelerate and Launch."
-  - title: "Industry Awards Judge"
-    org: "SIIA Jesse H. Neal Awards"
+    summary: "Invited reviewer and judge for all three phases of the competition: the Pitch round (Oct 21-30, 2025), the Accelerate prototyping round (Feb 6-17, 2026) and the Launch business-plan finale (Apr 3-13, 2026)."
+    significance: "The MIT $100K is MIT's flagship annual entrepreneurship competition. Launch finalists compete for a $100,000 grand prize, and Accelerate selects the finalists who advance to a live final at the MIT Media Lab."
+  - title: "Distinguished Judge - three consecutive editions"
+    org: "Jesse H. Neal Awards, Software & Information Industry Association (SIIA)"
     date: "2024, 2025, 2026"
-    year: 2026
+    year: [2024, 2025, 2026]
+    year_notes:
+      2024: "70th Jesse H. Neal Awards"
+      2025: "71st Jesse H. Neal Awards"
+      2026: "72nd Jesse H. Neal Awards"
     kind: "Media awards"
-    summary: "Evaluated editorial excellence in specialized business media. Selected as a judge three consecutive years."
-    significance: "Presented by the Software & Information Industry Association (SIIA), the Neal Awards are widely described as the \"Pulitzer Prizes of business media.\""
-  - title: "Hackathon Judge"
-    org: "Major League Hacking (MLH)"
-    date: "2025"
-    year: 2025
-    kind: "Hackathons"
-    summary: "Judged technical projects at multiple MLH hackathons: Open Source, Web3Apps, AI Hackfest and SummerCodex."
-    significance: "MLH is the official student hackathon league, supporting hundreds of hackathons worldwide each year."
-  - title: "Industry Awards Judge"
-    org: "Business Intelligence Group - Sammy Awards"
+    summary: "Judged editorial excellence in specialized business media for the 70th (2024), 71st (2025) and 72nd (2026) editions."
+    significance: "The Neal Awards are widely described as the \"Pulitzer Prizes of business media.\" Certificates of Appreciation signed by Chris Mohr, President of SIIA."
+  - title: "Jury Member"
+    org: "I-COM Data Creativity Awards"
+    date: "2026"
+    year: 2026
+    kind: "Industry awards"
+    summary: "Served on the official jury evaluating creative and effective uses of data and AI in marketing."
+    significance: "The jury includes senior technology and marketing leaders from organizations such as Accenture Song, Samsung Electronics America, The Walt Disney Company, Publicis Groupe and Amazon Web Services."
+    evidence: [ { label: "Data Creativity Awards jury", url: "https://www.i-com.org/awards/data-creativity/jury" } ]
+  - title: "Judge - The Sammy Sales & Marketing Awards"
+    org: "Business Intelligence Group"
     date: "2025"
     year: 2025
     kind: "Industry awards"
-    summary: "Evaluated business-intelligence and analytics software, services and solutions submitted for recognition."
-  - title: "Industry Awards Judge"
-    org: "Globee Awards - AI, Business & Technology"
+    summary: "Evaluated sales and marketing solutions submitted for industry recognition."
+    significance: "Selection confirmed in a letter dated July 3, 2025 from Russ Fordyce, CEO and Founder, citing a \"comprehensive review of qualifications, accomplishments, and contributions to the field.\""
+  - title: "Judge - Business and Artificial Intelligence categories"
+    org: "Globee Awards"
     date: "2023, 2025"
-    year: 2025
+    year: [2023, 2025]
+    year_notes:
+      2023: "Business category (Aug 31, 2023)"
+      2025: "Artificial Intelligence category (May 6, 2025)"
     kind: "Industry awards"
-    summary: "Evaluated nominations across artificial-intelligence, business-technology and innovation categories."
+    summary: "Judged the Business category (Aug 31, 2023) and the Artificial Intelligence category (May 6, 2025)."
+    significance: "Judging certificates are verifiable through the Accredible credential wallet."
+  - title: "Hackathon Judge - four events"
+    org: "Major League Hacking (MLH)"
+    date: "2024 - 2025"
+    year: [2024, 2025]
+    kind: "Hackathons"
+    summary: "Judged All In Open Source, Web3Apps, AI Hackfest and SummerCodex."
+    significance: "MLH is the official student hackathon league, supporting 200+ hackathons worldwide each year."
   - title: "Associate Editor"
     org: "International Journal of Engineering in Computer Science (IJECS)"
     kind: "Editorial"
     summary: "Evaluates and manages the peer-review process for manuscripts submitted in computer science and engineering."
 
 peer_review:
-  total: "20+"
-  summary: "Technical peer review of submitted research for rigor, originality and contribution, across IEEE conferences and a medical-informatics journal."
+  total: "28+"
+  summary: "Individually documented reviews for IEEE conferences in 2025, each confirmed by a certificate or completion record, plus a medical-informatics journal review via PreReview."
+  quote: "Your thorough evaluation and constructive feedback have helped maintain the high academic standards of our conference."
+  quote_by: "Mohamad Farid Saaid, General Chair, IEEE AGRETA 2025"
   venues:
-    - { name: "ICETEG", org: "IEEE", year: 2025 }
-    - { name: "RCAAI", org: "IEEE", year: 2025 }
-    - { name: "ICoMMS", org: "IEEE", year: 2025 }
-    - { name: "AGRETA", org: "IEEE", year: 2025 }
-    - { name: "ISWTA", org: "IEEE", year: 2025 }
-    - { name: "NMITCON", org: "IEEE", year: 2025 }
-    - { name: "SSITCON", org: "IEEE", year: 2025 }
-    - { name: "PuneCon", org: "IEEE Pune Section", year: 2025 }
-    - { name: "JMIR (via PreReview.org)", org: "Journal of Medical Internet Research", year: 2025 }
+    - { name: "AGRETA 2025", org: "IEEE Intl. Conf. on Agrosystem Engineering, Technology and Applications · Shah Alam, Malaysia", papers: 9, year: 2025 }
+    - { name: "ICETEG 2025", org: "IEEE conference", papers: 4, year: 2025 }
+    - { name: "RCAAI 2025", org: "IEEE conference", papers: 4, year: 2025 }
+    - { name: "ICoMMS 2025", org: "9th Intl. Conf. on Man-Machine Systems · Universiti Malaysia Perlis", papers: 2, year: 2025 }
+    - { name: "ISWTA 2025", org: "9th IEEE Symposium on Wireless Technology and Applications · Penang, Malaysia", papers: 2, year: 2025 }
+    - { name: "CICN 2025", org: "17th IEEE Intl. Conf. on Computational Intelligence and Communication Networks", papers: 1, year: 2025 }
+    - { name: "NMITCON 2025", org: "IEEE conference · Nitte Meenakshi Institute of Technology, Bengaluru", note: "Reviewer certificate", year: 2025 }
+    - { name: "ICTMOD 2025", org: "IEEE conference", papers: 1, year: 2025 }
+    - { name: "SSITCON 2025", org: "IEEE conference", papers: 1, year: 2025 }
+    - { name: "PuneCon 2025", org: "IEEE Pune Section International Conference", papers: 1, year: 2025 }
+    - { name: "JMIR Publications", org: "Journal of Medical Internet Research · via PreReview.org", note: "Manuscript review", year: 2025 }
 
 # ── 03 · Professional Memberships ────────────────────────────────────
 memberships:
   - title: "Senior Member"
     org: "IEEE"
+    date: "Elevated Apr 2025"
+    year: 2025
     kind: "Elevated grade"
-    summary: "Elevated to the IEEE Senior Member grade (SMIEEE)."
-    significance: "IEEE Senior Member is the highest grade for which IEEE members can apply. It requires at least ten years of professional practice and significant performance, and each application is reviewed by an IEEE panel."
+    summary: "Elevated to the IEEE Senior Member grade (SMIEEE); also a member of the IEEE Computer Society and IEEE Young Professionals."
+    significance: "In the elevation letter (Apr 19, 2025), IEEE President Kathleen A. Kramer noted that only about 10% of IEEE's nearly half a million members hold this grade, which requires extensive experience and documented achievements of significance."
     evidence:
       - { label: "IEEE Senior Member grade", url: "https://www.ieee.org/membership/senior/index.html" }
-  - title: "Member"
-    org: "IEEE Computer Society"
-    kind: "Society"
-  - title: "Inducted Member"
+  - title: "Fellow Member"
+    org: "Soft Computing Research Society (SCRS)"
+    date: "May 2025"
+    year: 2025
+    kind: "Fellowship"
+    summary: "Conferred for \"outstanding work in the field of Artificial Intelligence, Data Engineering, Cloud Computing and Intelligent Systems.\""
+  - title: "At-Large Member"
     org: "Upsilon Pi Epsilon (UPE)"
+    date: "Apr 2026"
+    year: 2026
     kind: "Honor society"
+    summary: "Application reviewed on transcripts, resume and statement of intent; approved by the Executive Director of UPE."
     significance: "UPE is the international honor society for the computing and information disciplines."
+  - title: "Member"
+    org: "United States PostgreSQL Association (PgUS)"
+    date: "Mar 2026"
+    year: 2026
+    kind: "Professional association"
   - title: "Affiliate Circle"
     org: "Sigma Xi, The Scientific Research Honor Society"
     kind: "Research society"
   - title: "Member"
     org: "American Association for the Advancement of Science (AAAS)"
     kind: "Scientific society"
-  - title: "Fellow Member"
-    org: "SCRS"
-    kind: "Fellowship"
   - title: "Royal Fellow"
     org: "IOASD"
     kind: "Fellowship"
@@ -171,52 +214,74 @@ memberships:
     org: "Computer Society of India (CSI)"
     kind: "Society"
   - title: "Member"
-    org: "United States PostgreSQL Association (PgUS)"
-    kind: "Community"
-  - title: "Member"
     org: "Google Developer Group (GDG) New York"
     kind: "Community"
 
 # ── 04 · Media Coverage & Expert Commentary ──────────────────────────
 media:
-  - title: "Where Healthcare Data Systems Fail and How to Build Them Better"
-    org: "MedCity News"
-    kind: "Expert byline"
-    date: "Jun 15, 2026"
-    year: 2026
-    summary: "Why healthcare data breaks down as it moves across systems, and why governance, clear definitions and early lineage tracking matter more than compliance rules alone."
-    evidence: [ { label: "Read on MedCity News", url: "https://medcitynews.com/2026/06/where-healthcare-data-systems-fail-and-how-to-build-them-better/" } ]
   - title: "Why AI Fails Without Data Foundations: Lessons from Building Platforms in Regulated Industries"
     org: "The AI Journal"
-    kind: "Interview"
+    kind: "Editorial interview"
     date: "Feb 9, 2026"
     year: 2026
-    summary: "Interview on building secure, auditable and resilient enterprise data systems across healthcare, financial services and climate research, and on what AI-readiness means at the data layer."
+    summary: "Interview by Tom Allen, Founder and Director, on building secure, auditable and resilient enterprise data systems and what AI-readiness means at the data layer."
+    significance: "Approximately 2 million monthly readers, per the publisher's media kit."
     evidence: [ { label: "Read on The AI Journal", url: "https://aijourn.com/why-ai-fails-without-data-foundations-lessons-from-building-platforms-in-regulated-industries/" } ]
-  - title: "Hidden Failures Behind Modern Data Systems"
+  - title: "Aniket Abhishek Soni on the Hidden Failures Behind Modern Data Systems"
     org: "All Tech Magazine"
-    kind: "Feature"
-    date: "2026"
+    kind: "Expert interview"
+    date: "Apr 2, 2026"
     year: 2026
-    summary: "Examines silent pipeline failures, governance gaps and architectural shortcuts that undermine enterprise data reliability at scale."
+    summary: "Interview by Christy Alex on silent pipeline failures, governance gaps and architectural shortcuts that undermine enterprise data reliability."
+    significance: "Approximately 145,000 monthly readers, per the publisher's media kit; audience of CISOs, CTOs and senior IT leaders."
     evidence: [ { label: "Read on All Tech Magazine", url: "https://alltechmagazine.com/hidden-failures-behind-modern-data-systems/" } ]
   - title: "The Hidden Data Engineering Work Required to Make Enterprise AI Viable"
     org: "APM Digest"
-    kind: "Feature"
-    date: "May 2026"
+    kind: "Expert article"
+    date: "May 6, 2026"
     year: 2026
     summary: "Argues that AI plans disconnected from governance and organizational learning are a failure of management discipline, not of technology."
+    significance: "Approximately 500,000 monthly readers, per the publisher's media kit; a long-running publication for application performance management and observability."
     evidence: [ { label: "Read on APM Digest", url: "https://www.apmdigest.com/hidden-data-engineering-work-required-make-enterprise-ai-viable" } ]
+  - title: "Where Healthcare Data Systems Fail and How to Build Them Better"
+    org: "MedCity News (MedCity Influencers)"
+    kind: "Expert article"
+    date: "Jun 15, 2026"
+    year: 2026
+    summary: "Why healthcare data breaks down as it moves across systems, and why governance, clear definitions and early lineage tracking matter more than compliance rules alone."
+    significance: "Approximately 740,000 monthly readers, per the publisher's media kit."
+    evidence: [ { label: "Read on MedCity News", url: "https://medcitynews.com/2026/06/where-healthcare-data-systems-fail-and-how-to-build-them-better/" } ]
   - title: "The Data Quality Crisis Undermining Enterprise Analytics"
     org: "DEVOPSdigest"
-    kind: "Expert byline"
+    kind: "Expert article"
     date: "Jul 7, 2026"
     year: 2026
     summary: "Makes the case, from Fortune 500 financial-services work, for schema enforcement, observability and governance built into pipelines from the start."
+    significance: "Approximately 400,000 readers, per the publisher's media kit."
     evidence: [ { label: "Read on DEVOPSdigest", url: "https://www.devopsdigest.com/the-data-quality-crisis-undermining-enterprise-analytics" } ]
 
 # ── 05 · Original Contributions ──────────────────────────────────────
 contributions:
+  - title: "Artificial Intelligence-Based Adaptive Big Data Storage and Retrieval Optimization Method and System"
+    kind: "US patent application"
+    org: "United States Patent and Trademark Office"
+    role: "Co-inventor"
+    date: "Filed Oct 10, 2025 · Published Feb 5, 2026"
+    year: [2025, 2026]
+    year_notes:
+      2025: "US patent application filed (Oct 10)"
+      2026: "US patent application published by the USPTO (Feb 5)"
+    summary: "Publication No. US 2026/0037537 A1 (Application 19/355,795; IPC G06F 16/25, G06F 16/28). A self-optimizing storage and retrieval system for large distributed data environments that uses deep reinforcement learning and LSTM prediction across tiered DRAM, NVMe and archival storage with graph-based metadata indexing. Simulations showed up to 45% lower average query latency and 60% higher cache hit ratios."
+    significance: "Co-inventors: Rashi Nimesh Kumar Dhenia, Milan Parikh, Jubin Abhishek Soni, Naga Lalitha Sree Thatavarthi and Kriday Kallalathil."
+    evidence: [ { label: "US 2026/0037537 A1 on Google Patents", url: "https://patents.google.com/patent/US20260037537A1/en" } ]
+  - title: "Dynamic Cost-Optimization Router for Multi-Platform Cloud Integration Systems"
+    kind: "UK registered design"
+    org: "UK Intellectual Property Office"
+    role: "Co-proprietor (with Milan Parikh)"
+    date: "Granted Mar 17, 2026"
+    year: 2026
+    summary: "UK Registered Design No. 6510795, registered Mar 6, 2026 and granted Mar 17, 2026 (Locarno class 14-03, telecommunications equipment)."
+    significance: "Certificate signed by Adam Williams, Comptroller-General of Patents, Designs and Trade Marks."
   - title: "Pipeline Failure Agent"
     kind: "Open-source tool"
     date: "Jul 2026"
@@ -259,16 +324,25 @@ contributions:
     kind: "Research to practice"
     date: "2024 - 2025"
     year: 2025
-    summary: "Built an offline speech-to-text tool on the Vosk toolkit and published the accuracy gains from custom language models as a research paper."
+    summary: "Built an offline speech-to-text tool on the Vosk toolkit and published the accuracy gains from custom language models as a sole-authored research paper."
     evidence: [ { label: "arXiv:2503.21025", url: "https://arxiv.org/abs/2503.21025" } ]
   - title: "Global IoT weather-station siting model"
     kind: "Climate analytics"
     date: "2020 - 2021"
     year: 2021
-    summary: "Analyzed 150M+ data points from NOAA, FSI, MADIS, GeoNames and IBM Watson and built a statistical model identifying 151 locations worldwide that need additional weather stations, with geospatial visualizations rendering 70% faster than static maps."
+    summary: "Analyzed 150 million weather data points from NOAA, MADIS, IBM Watson and GeoNames and built statistical and predictive models identifying 151 locations worldwide that need additional IoT weather stations. Geospatial visualizations (GeoPandas, Folium, PostGIS) rendered 70% faster than static maps; open weather data was connected through IPFS and Ocean Protocol, with coverage dashboards on EarthCube's CHORDS API."
+    significance: "Confirmed in a letter from Agbeli Ameko, CEO and Founder of Climate Change Xplorers, and Dr. Keith E. Maull, Southern Arkansas University."
 
 # ── 06 · Scholarly Authorship ────────────────────────────────────────
 publications:
+  - title: "Building Organizational Intelligence Using Digital Twins and Generative AI: Concepts, Applications and Case Studies"
+    kind: "Book chapter"
+    org: "Wiley-Scrivener (John Wiley & Sons)"
+    role: "Contributing author"
+    date: "Aug 2026"
+    year: 2026
+    summary: "Chapter in a 400-page edited hardback volume. ISBN 978-1-394-46527-9."
+    significance: "Published under the Wiley-Scrivener imprint of John Wiley & Sons; the volume is indexed by Scopus."
   - title: "AI-Enabled Serverless Engineering for Autonomous Cloud Operations"
     kind: "Book"
     org: "Technical Press"
@@ -282,18 +356,12 @@ publications:
   - title: "Scalable Infrastructure: Building Reliable Distributed Systems"
     kind: "Book"
     org: "BP International"
-    role: "Sole author"
     date: "2025"
     year: 2025
     summary: "ISBN 978-93-49970-00-7"
     evidence:
       - { label: "DOI 10.9734/bpi/mono/978-93-49970-00-7", url: "https://doi.org/10.9734/bpi/mono/978-93-49970-00-7" }
       - { label: "Open Library", url: "https://openlibrary.org/works/OL45568655W/Scalable_Infrastructure" }
-  - title: "Building Organizational Intelligence Using Digital Twins and Generative AI"
-    kind: "Book chapter"
-    org: "Wiley-Scrivener Publishing"
-    date: "In press"
-    year: 2025
   - title: "Big Data Workload Profiling for Energy-Aware Cloud Resource Management"
     kind: "Conference"
     org: "DASET"
@@ -309,12 +377,12 @@ publications:
     kind: "Conference"
     org: "DASA"
     location: "Bahrain"
-    date: "Dec 2025"
+    date: "Dec 1-2, 2025"
     year: 2025
   - title: "Dynamic Context Tuning for Enhanced Multi-Turn Planning in Retrieval-Augmented Generation Systems"
     kind: "Conference"
-    org: "ICE2CPT"
-    date: "Oct 2025"
+    org: "ICE2CPT · NIT Jamshedpur"
+    date: "Oct 29-31, 2025"
     year: 2025
     evidence: [ { label: "arXiv:2506.11092", url: "https://doi.org/10.48550/arXiv.2506.11092" } ]
   - title: "Combining Threat Intelligence with IoT Scanning to Predict Cyber Attacks"
@@ -325,8 +393,8 @@ publications:
     evidence: [ { label: "arXiv:2411.17931", url: "https://doi.org/10.48550/arXiv.2411.17931" } ]
   - title: "Detection of Advanced Malware Threats Using a Hybrid Deep Learning Model and Image Analysis"
     kind: "Conference"
-    org: "International Conference on Contemporary Computing (IC3) · IEEE"
-    date: "Aug 2025"
+    org: "International Conference on Contemporary Computing (IC3) · IEEE · JIIT Noida with University of Florida"
+    date: "Aug 7-9, 2025"
     year: 2025
     evidence: [ { label: "DOI 10.1109/IC366947.2025.11290509", url: "https://doi.org/10.1109/IC366947.2025.11290509" } ]
   - title: "Edge vs Cloud Computing Performance Trade-Offs for Real-Time Analytics"
@@ -350,6 +418,7 @@ publications:
   - title: "Improving Speech Recognition Accuracy Using Custom Language Models with the Vosk Toolkit"
     kind: "Preprint"
     org: "arXiv [cs.SD]"
+    role: "Sole author"
     date: "Mar 2025"
     year: 2025
     evidence: [ { label: "arXiv:2503.21025", url: "https://arxiv.org/abs/2503.21025" } ]
@@ -359,25 +428,27 @@ roles:
   - title: "Senior Data Engineer"
     org: "Cognizant Technology Solutions"
     location: "New York, NY"
-    date: "Mar 2021 - present"
-    year: 2021
-    summary: "Designs and builds enterprise data platforms for healthcare and financial-services clients."
+    date: "Mar 2021 - present · promoted Nov 2024"
+    summary: "Designs and builds enterprise data platforms for healthcare, asset and wealth management, and business financial-services clients. Promoted effective November 1, 2024."
     highlights:
-      - "Architected an end-to-end ML scoring pipeline for a healthcare claims-integrity and anomaly-detection platform on Databricks Delta Live Tables and Unity Catalog, using a Bronze/Silver/Gold medallion design with streaming data-quality validation and automated quarantine (2026 - present)."
+      - "Since April 2026, architecting a healthcare claims-integrity and anomaly-detection platform: an end-to-end ML scoring pipeline on Databricks Delta Live Tables and Unity Catalog, using a Bronze/Silver/Gold medallion design with schema-driven data contracts, streaming data-quality validation and automated quarantine."
       - "Designed a three-signal scoring framework combining CatBoost (63 clinical features), K-Means provider clustering (15 behavioral features) and LSTM patient-history analysis (110 sequence features), backed by a 188-feature registry."
-      - "Built PHI-free observability with drift detection (PSI, KL-divergence) and SHA-256 audit manifests so every scored result is reproducible."
+      - "Built PHI-free observability with drift detection (PSI, KL-divergence), SHA-256 audit manifests and tokenization-based privacy controls, so every scored result is reproducible."
       - "Made onboarding a new health plan a YAML-only change with zero code modifications, and established CI/CD across four environments with AWS CDK, Terraform and Databricks Asset Bundles."
-      - "Automated high-volume ETL in Databricks and Snowflake processing 10M+ records per day from custodial, trading and reference systems (2021 - 2025)."
-      - "Built Slack and Databricks incident monitoring that cut pipeline-failure resolution time by 60%, and governance frameworks that improved data accuracy by 30-35% and reduced reporting errors by 37%."
+      - "Automated high-volume ETL in Databricks and Snowflake processing 10M+ records per day from claims, custodial, trading, portfolio and reference systems."
+      - "Built Slack and Databricks incident monitoring that cut pipeline-failure resolution time by 60%; governance and validation frameworks improved data accuracy by 30-35% and reduced reporting errors by 37%."
+      - "Led Eagle workflow exploration in asset and wealth management, reducing requirement ambiguity by 40%; GitLab-based CI/CD practices cut deployment issues by 20%."
       - "Mentors junior analysts and engineers on SQL optimization, data modeling and pipeline design, cutting onboarding time by 30%."
-  - title: "Research Analyst"
+  - title: "Research Analyst & Data Scientist"
     org: "Climate Change Xplorers"
     location: "New York, NY"
     date: "Sep 2020 - Mar 2021"
-    year: 2020
-    summary: "Built the data pipelines and analysis behind a global weather-station siting study: ETL ingesting ~10K records per day from five sources and analysis of 150M+ data points across eight FSI categories."
+    summary: "Built the data pipelines and models behind a global IoT weather-station siting study for a climate-science nonprofit as a volunteer, contributing about 20 hours per week: ETL ingesting ~10K records per day from five sources and analysis of 150M+ data points across eight FSI categories."
+    significance: "\"Aniket processed 150 million weather data points to discover 151 locations worldwide that needed IoT station deployment.\" - Agbeli Ameko, CEO and Founder, Climate Change Xplorers"
 
 # ── 08 · Speaking & Presentations ────────────────────────────────────
+# Paper presentations carry no `year`: the same papers are already on the
+# timeline under Research, so they are not counted twice.
 speaking:
   - title: "The Tech Mentor's Journey: Navigating Challenges and Shaping Futures"
     org: "Google DevFest Bronx"
@@ -391,45 +462,121 @@ speaking:
     kind: "Paper presentation"
     location: "Scotland"
     date: "Jan 2026"
-    year: 2026
   - title: "Data Foundations for a Successful AI Strategy: A Blueprint for AI-Ready Enterprises"
     org: "DASA"
     kind: "Paper presentation"
     location: "Bahrain"
-    date: "Dec 2025"
-    year: 2025
+    date: "Dec 1-2, 2025"
 
 # ── 09 · Leadership in the Community ─────────────────────────────────
 community:
-  - title: "IEEE Day Ambassador"
-    org: "IEEE"
-    date: "2025"
-    year: 2025
-    kind: "Ambassador"
   - title: "#SpecSquad Ambassador"
     org: "AnitaB.org - Grace Hopper Celebration"
-    date: "2025"
+    date: "Aug 2025"
     year: 2025
     kind: "Ambassador"
+    significance: "One of 100 ambassadors selected from approximately 1,000 applicants. The Grace Hopper Celebration is the world's largest gathering of women in computing."
+  - title: "IEEE Day Ambassador"
+    org: "IEEE"
+    date: "Aug 2025"
+    year: 2025
+    kind: "Ambassador"
+    summary: "Appointed by the IEEE Day 2025 chairperson to represent IEEE Day globally on October 7, 2025."
+  - title: "IEEEXtreme 19.0 Proctor"
+    org: "IEEE"
+    date: "Oct 25, 2025"
+    year: 2025
+    kind: "Volunteer"
+    summary: "Guided and oversaw competing teams at the 24-hour global programming competition."
+    significance: "IEEEXtreme 19.0 hosted 19,000+ participants. Certificate of Appreciation signed by Kathleen A. Kramer, 2025 IEEE President."
+  - title: "Success Champion"
+    org: "Atlassian Champions Program"
+    date: "Jan 2026"
+    year: 2026
+    kind: "Champion"
+    summary: "Welcomed into the Success Champion track, a select group recognized for driving adoption, governance and user training for Atlassian solutions within their organizations."
   - title: "Mentor"
-    org: "Freedom Employability Academy (India)"
+    org: "Freedom Employability Academy (FEA)"
+    date: "2023"
+    year: 2023
     kind: "Mentorship"
+    summary: "Mentors disadvantaged youth on careers in technology. Two Certificates of Appreciation (May 10 and Aug 26, 2023) signed by FEA's CEO and program leadership."
+  - title: "Volunteer"
+    org: "Cognizant Outreach"
+    date: "2023"
+    year: 2023
+    kind: "Community service"
+    summary: "Verified community service through Cognizant's employee-led social initiatives platform; Certificate of Appreciation from the Global Head of Cognizant Outreach (Aug 12, 2023)."
   - title: "Mentor"
     org: "ENGin Ukraine - Tech & English Learning"
     kind: "Mentorship"
   - title: "Mentor"
     org: "TopMate.io"
     kind: "Mentorship"
-  - title: "Volunteer · 100+ hours"
-    org: "Cognizant Outreach"
-    kind: "Community service"
+  - title: "Attendee - Summit of the Future Action Days"
+    org: "United Nations Headquarters, New York"
+    date: "Sep 20-21, 2024"
+    year: 2024
+    kind: "Distinction"
+    summary: "Registration approved by the UN Secretariat to attend the Action Days at UN Headquarters, representing Freedom Employability Academy (AAM Foundation India)."
+  - title: "Named participant - Guinness World Records title"
+    org: "Most participants in an online generative AI hackathon"
+    date: "Aug 13, 2025"
+    year: 2025
+    kind: "Distinction"
+    summary: "Official Guinness World Records certificate as one of 53,199 participants in Cognizant's record-setting online generative AI hackathon."
+  - title: "Named participant - Guinness World Records title"
+    org: "Most users in an artificial intelligence video lesson"
+    date: "Jul 15, 2026"
+    year: 2026
+    kind: "Distinction"
+    summary: "Record Holder certificate as one of 14,075 participants in the record achieved by Kanz and Saudi Arabia's Ministry of Human Resources and Social Development."
 
 # ── 10 · Credentials ─────────────────────────────────────────────────
 education:
-  - { title: "Master of Science in Computer Science", org: "Southern Arkansas University", location: "Magnolia, AR, USA", date: "2018 - 2020", year: 2020 }
-  - { title: "Bachelor of Engineering in Computer Engineering", org: "Gujarat Technological University", location: "India", date: "2011 - 2016", year: 2016 }
+  - { title: "Master of Science in Computer Science", org: "Southern Arkansas University", location: "Magnolia, AR, USA", date: "Conferred May 8, 2020" }
+  - { title: "Bachelor of Engineering in Computer Engineering", org: "Gujarat Technological University", location: "India", date: "2016" }
 
 certifications:
-  - { title: "Databricks Certified Data Engineer Associate", org: "Databricks" }
-  - { title: "Associate Cloud Engineer", org: "Google Cloud" }
-  - { title: "Cloud Digital Leader", org: "Google Cloud" }
+  - title: "Databricks Certified Data Engineer Associate"
+    org: "Databricks"
+    date: "Issued Oct 2023 · valid through Oct 2025"
+    year: 2023
+    evidence: [ { label: "Verify credential", url: "https://credentials.databricks.com/30d956a4-1b83-4b29-996f-95ab3f3a5cb4" } ]
+  - { title: "Associate Cloud Engineer", org: "Google Cloud", date: "Issued Apr 2023 · valid through Apr 2026", year: 2023 }
+  - { title: "Cloud Digital Leader", org: "Google Cloud", date: "Issued Apr 2023 · valid through Apr 2026", year: 2023 }
+  - { title: "Frontline Leaders People Leadership Program", org: "Cognizant", date: "Completed Oct 2023", year: 2023 }
+
+# ════════════════════════════════════════════════════════════════════
+#  Achievement Timeline only (not rendered as a section of its own)
+# ════════════════════════════════════════════════════════════════════
+
+# Career milestones shown on the timeline under "Career".
+career:
+  - { title: "Intern - cybersecurity and networking", org: "Bharat Sanchar Nigam Limited (BSNL), Ahmedabad", date: "Oct - Dec 2013", year: 2013 }
+  - { title: "B.E. in Computer Engineering", org: "Gujarat Technological University", date: "2016", year: 2016 }
+  - { title: "Computer Programmer & Data Analyst", org: "Alok Enterprise, Ahmedabad", date: "Jan - Jun 2018", year: 2018 }
+  - { title: "Graduate & Teaching Assistant", org: "Southern Arkansas University", date: "Nov 2018 - May 2020", year: 2018 }
+  - { title: "M.S. in Computer Science conferred", org: "Southern Arkansas University", date: "May 8, 2020", year: 2020 }
+  - { title: "Software Engineer Intern", org: "Converseon.AI, New York", date: "Jul - Sep 2020", year: 2020 }
+  - { title: "Research Analyst & Data Scientist (volunteer)", org: "Climate Change Xplorers", date: "Sep 2020 - Mar 2021", year: 2020 }
+  - { title: "Joined Cognizant Technology Solutions", org: "New York - enterprise data platforms for regulated financial services", date: "Mar 2021", year: 2021 }
+  - { title: "Promoted to Senior Associate - Projects (serving as Senior Data Engineer)", org: "Cognizant Technology Solutions", date: "Nov 1, 2024", year: 2024 }
+  - { title: "Architect, healthcare claims-integrity ML platform", org: "Cognizant Technology Solutions", date: "Apr 2026", year: 2026 }
+
+# One-line summary per year, shown at the top of each year on the timeline.
+acclaim_years:
+  2026: "Patent application published, UK design granted, second book and Wiley chapter, MIT $100K Accelerate and Launch rounds, 72nd Neal Awards, I-COM jury, and five media features in six months."
+  2025: "Elevated to IEEE Senior Member, first book published, US patent application filed, Rising Stars 30, MIT $100K judge, 28+ IEEE peer reviews and nine papers in one year."
+  2024: "AFCEA 40 Under Forty, judge at the 70th Jesse H. Neal Awards, MLH hackathon judging, UN Summit of the Future, and promotion."
+  2023: "Invited talk at Google DevFest Bronx, Globee Awards judge, Google Cloud and Databricks certifications, and mentorship recognition."
+  2022: "Cognizant Cheers Award, the first of four consecutive years of formal recognition."
+  2021: "Joined Cognizant in New York; climate research identifying 151 global IoT sites concluded."
+  2020: "M.S. in Computer Science conferred; began climate research analyzing 150 million weather data points."
+
+# Career progression phases (rendered above the year list).
+career_phases:
+  - { span: "2013 - 2018", label: "Foundations", summary: "Telecom internship, engineering degree and early software and data roles in India." }
+  - { span: "2018 - 2021", label: "Graduate research", summary: "M.S. in Computer Science, university service, and applied climate and NLP analytics in New York." }
+  - { span: "2021 - 2024", label: "Enterprise builder", summary: "Enterprise data platforms for regulated financial services at 10M+ records per day; first awards and judging roles." }
+  - { span: "2025 - 2026", label: "Field-wide recognition", summary: "IEEE Senior Member, books, patent filings, international judging, peer review and media features." }
