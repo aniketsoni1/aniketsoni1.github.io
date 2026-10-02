@@ -13,7 +13,7 @@ version: "0.2.0"
 first_published: "July 2026"
 ---
 
-Generate polished **Markdown** or **HTML** documents from a prompt — using whatever AI you already have, with an always-on **offline fallback** so it never hard-fails.
+Generate polished **Markdown** or **HTML** documents from a prompt - using whatever AI you already have, with an always-on **offline fallback** so it never hard-fails.
 
 ## What it does
 
@@ -21,12 +21,12 @@ Run **DocForge: New Document from Prompt**, describe what you want, pick a forma
 
 DocForge resolves the best available generator in a transparent priority ladder, and always tells you which one ran:
 
-1. **VS Code Language Model API** — the sanctioned, vendor-neutral way to use Copilot and other LM providers.
-2. **Compatible AI extension** — best-effort, only via a documented `generateDocument` API.
-3. **Bring-your-own-key** — Anthropic or OpenAI, with the key stored in VS Code SecretStorage.
-4. **Built-in templates** — deterministic, fully offline, always available.
+1. **VS Code Language Model API** - the sanctioned, vendor-neutral way to use Copilot and other LM providers.
+2. **Compatible AI extension** - best-effort, only via a documented `generateDocument` API.
+3. **Bring-your-own-key** - Anthropic or OpenAI, with the key stored in VS Code SecretStorage.
+4. **Built-in templates** - deterministic, fully offline, always available.
 
-If no AI is available — or the workspace is untrusted, or you are offline — DocForge still produces a clean document from its built-in templates.
+If no AI is available - or the workspace is untrusted, or you are offline - DocForge still produces a clean document from its built-in templates.
 
 ## Features
 
@@ -57,18 +57,18 @@ If no AI is available — or the workspace is untrusted, or you are offline — 
 
 ### Generation
 
-- `docforge.defaultFormat` — `md` or `html`
+- `docforge.defaultFormat` - `md` or `html`
 - `docforge.tone`, `docforge.length`
 
 ### Providers
 
-- `docforge.enableAi` — turn off to force the offline template generator
-- `docforge.provider`, `docforge.model` — for the bring-your-own-key generator
-- `docforge.requestTimeoutMs` — abort a BYO-key request after this long
+- `docforge.enableAi` - turn off to force the offline template generator
+- `docforge.provider`, `docforge.model` - for the bring-your-own-key generator
+- `docforge.requestTimeoutMs` - abort a BYO-key request after this long
 
 ### Reporting
 
-- `docforge.pricing` — override the indicative price table used for cost estimates
+- `docforge.pricing` - override the indicative price table used for cost estimates
 
 Cost figures are always **estimates**, never a bill.
 

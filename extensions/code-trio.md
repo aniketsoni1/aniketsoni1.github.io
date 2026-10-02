@@ -13,7 +13,7 @@ version: "0.2.1"
 first_published: "July 2026"
 ---
 
-Four offline developer tools in one VS Code extension: **compare/diff**, **three-way merge**, a **code-aware spell checker**, and a **beautifier/formatter**. Deterministic, private, and fully offline — no network calls, no telemetry, ever.
+Four offline developer tools in one VS Code extension: **compare/diff**, **three-way merge**, a **code-aware spell checker**, and a **beautifier/formatter**. Deterministic, private, and fully offline - no network calls, no telemetry, ever.
 
 ## Compare / diff
 
@@ -33,7 +33,7 @@ Reads git's conflict stages directly, so it works on a real conflicted working t
 
 Code-aware diagnostics that check comments and strings by default (identifiers are opt-in) and split `camelCase`, `snake_case`, `kebab-case` and `SCREAMING_CASE` before lookup.
 
-URLs, file paths, hashes, UUIDs, hex values, versions, timestamps and base64 blobs are suppressed *before* any word is extracted — which is what makes it quiet enough to leave switched on.
+URLs, file paths, hashes, UUIDs, hex values, versions, timestamps and base64 blobs are suppressed *before* any word is extracted - which is what makes it quiet enough to leave switched on.
 
 Six dictionary scopes with documented precedence, including **per-folder dictionaries** for monorepos and multi-root workspaces, plus a session ignore list that writes nothing to disk.
 

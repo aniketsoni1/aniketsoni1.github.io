@@ -13,26 +13,26 @@ version: "0.1.1"
 first_published: "July 2026"
 ---
 
-Investigate failed data pipelines, jobs, queries and workflows **without leaving VS Code**. Point it at a failed run or a log file and it isolates the earliest meaningful failure from cascading noise, classifies it, compares the failed run against a healthy baseline, correlates root causes across platforms, and produces a ranked, **evidence-labeled** incident report — right inside an editor panel.
+Investigate failed data pipelines, jobs, queries and workflows **without leaving VS Code**. Point it at a failed run or a log file and it isolates the earliest meaningful failure from cascading noise, classifies it, compares the failed run against a healthy baseline, correlates root causes across platforms, and produces a ranked, **evidence-labeled** incident report - right inside an editor panel.
 
-> **Deterministic-first and private by design.** All analysis runs locally, secrets and PII are redacted before anything is inspected, and there is **no telemetry**. AI assistance is entirely optional and **off by default** — the full investigation works without it.
+> **Deterministic-first and private by design.** All analysis runs locally, secrets and PII are redacted before anything is inspected, and there is **no telemetry**. AI assistance is entirely optional and **off by default** - the full investigation works without it.
 
-The extension is a thin UI over the **same shared core** as the `pipeline-agent` CLI, so the two tools always agree — no investigation logic is duplicated.
+The extension is a thin UI over the **same shared core** as the `pipeline-agent` CLI, so the two tools always agree - no investigation logic is duplicated.
 
 ## Features
 
-- **Root-cause report panel** — ranked hypotheses with a transparent `0..1` confidence score, rendered in an interactive webview.
-- **Evidence labeling** — every finding is tagged `confirmed`, `strong_correlation`, `inference`, `assumption`, or `missing_information`, so you always know how much to trust it.
-- **Earliest-failure isolation** — separates the first meaningful error from the cascade of downstream noise it triggers.
-- **Failed-vs-baseline diff** — compares a failed run against a known-good run to surface what actually changed.
-- **Cross-platform correlation** — connects failures across Databricks, Snowflake, dbt, GitHub, MongoDB and Jira to find a shared root cause.
-- **Activity Bar panel** — **Connections** and **Recent Failures** tree views; click a failure to investigate it.
-- **Investigate a log file** — run against the active `.log` editor, or right-click any `.log` file in the Explorer.
-- **Investigate a run by id** — pick a platform and enter a run / query / operation id.
-- **Markdown incident report** — export the full report to a `.md` file with one command.
-- **Approval-gated Jira issues** — file an incident to Jira, but only after an explicit confirmation. No silent writes.
-- **Secret / PII redaction** — deny-by-default redaction runs at every ingest boundary, before any analysis.
-- **Optional AI** — off by default; when enabled it only summarizes and ranks, and can never trigger a write.
+- **Root-cause report panel** - ranked hypotheses with a transparent `0..1` confidence score, rendered in an interactive webview.
+- **Evidence labeling** - every finding is tagged `confirmed`, `strong_correlation`, `inference`, `assumption`, or `missing_information`, so you always know how much to trust it.
+- **Earliest-failure isolation** - separates the first meaningful error from the cascade of downstream noise it triggers.
+- **Failed-vs-baseline diff** - compares a failed run against a known-good run to surface what actually changed.
+- **Cross-platform correlation** - connects failures across Databricks, Snowflake, dbt, GitHub, MongoDB and Jira to find a shared root cause.
+- **Activity Bar panel** - **Connections** and **Recent Failures** tree views; click a failure to investigate it.
+- **Investigate a log file** - run against the active `.log` editor, or right-click any `.log` file in the Explorer.
+- **Investigate a run by id** - pick a platform and enter a run / query / operation id.
+- **Markdown incident report** - export the full report to a `.md` file with one command.
+- **Approval-gated Jira issues** - file an incident to Jira, but only after an explicit confirmation. No silent writes.
+- **Secret / PII redaction** - deny-by-default redaction runs at every ingest boundary, before any analysis.
+- **Optional AI** - off by default; when enabled it only summarizes and ranks, and can never trigger a write.
 
 ## Getting started
 
@@ -48,7 +48,7 @@ Click the **Pipeline Failure Agent** icon in the Activity Bar. You will see two 
 
 | You have… | Do this |
 | --- | --- |
-| A local log file | Open the `.log` file and run **Pipeline Agent: Investigate Active Log File** — or right-click the file in the Explorer. |
+| A local log file | Open the `.log` file and run **Pipeline Agent: Investigate Active Log File** - or right-click the file in the Explorer. |
 | A platform run | Run **Pipeline Agent: Investigate Run…**, pick the platform, and paste the run / query / operation id. |
 | A failure in the sidebar | Click it in **Recent Failures** (hover for the inline investigate action). |
 
@@ -83,7 +83,7 @@ The report panel opens with the ranked root-cause hypotheses, each with its conf
 
 ## Privacy
 
-Analysis runs locally in your VS Code environment. Secrets and PII are redacted before any content is inspected, credentials are stored only in VS Code **SecretStorage** — never written to `settings.json` or logs — and the extension sends **no telemetry**.
+Analysis runs locally in your VS Code environment. Secrets and PII are redacted before any content is inspected, credentials are stored only in VS Code **SecretStorage** - never written to `settings.json` or logs - and the extension sends **no telemetry**.
 
 The only outbound calls are to the platforms you explicitly connect, such as Jira when you approve an issue. AI is off unless you turn it on, and even then it can never initiate a write.
 

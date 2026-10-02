@@ -23,7 +23,7 @@ This policy covers the three Visual Studio Code extensions published on the Visu
 
 Nothing.
 
-The extensions do not implement telemetry of any kind. They do not use VS Code's telemetry APIs, do not send usage events, and do not report errors to any remote service. No identifier — anonymous, hashed, or otherwise — is generated or transmitted.
+The extensions do not implement telemetry of any kind. They do not use VS Code's telemetry APIs, do not send usage events, and do not report errors to any remote service. No identifier - anonymous, hashed, or otherwise - is generated or transmitted.
 
 ## Network access
 
@@ -39,7 +39,7 @@ Where an extension does make a request on your behalf, it goes directly from you
 
 DocForge and Pipeline Failure Agent can optionally use AI. In both cases AI is **off by default** and the extension is fully functional without it.
 
-When you enable it, content is sent to the provider **you** choose and configure — either through the VS Code Language Model API (which uses your existing Copilot or other configured provider) or with your own API key for Anthropic or OpenAI. That content is then subject to that provider's privacy policy, not this one. The extension author receives none of it and has no visibility into it.
+When you enable it, content is sent to the provider **you** choose and configure - either through the VS Code Language Model API (which uses your existing Copilot or other configured provider) or with your own API key for Anthropic or OpenAI. That content is then subject to that provider's privacy policy, not this one. The extension author receives none of it and has no visibility into it.
 
 In Pipeline Failure Agent, AI can only summarize and rank findings. It can never initiate a write to any connected system.
 
@@ -47,7 +47,7 @@ In Pipeline Failure Agent, AI can only summarize and rank findings. It can never
 
 API keys and platform credentials are stored exclusively in **VS Code SecretStorage**, which delegates to your operating system's credential store. They are never written to `settings.json`, never written to logs, never included in exported reports, and never transmitted anywhere except to the service they authenticate against.
 
-You can remove a stored key at any time — for example with `DocForge: Clear API Key`.
+You can remove a stored key at any time - for example with `DocForge: Clear API Key`.
 
 ## Local data
 
@@ -67,7 +67,7 @@ Pipeline Failure Agent applies deny-by-default redaction at every ingest boundar
 
 All three extensions respect [VS Code Workspace Trust](https://code.visualstudio.com/docs/editing/workspaces/workspace-trust). In an untrusted workspace, operations that write to disk or execute external tools are disabled:
 
-- Code Trio runs in `limited` mode — compare and spell diagnostics keep working, while formatting, dictionary writes and merge saves are disabled.
+- Code Trio runs in `limited` mode - compare and spell diagnostics keep working, while formatting, dictionary writes and merge saves are disabled.
 - DocForge falls back to the offline template generator only.
 
 ## Third-party tools
