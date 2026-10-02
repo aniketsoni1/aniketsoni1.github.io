@@ -1869,7 +1869,7 @@ tr.pub-row[data-href]:hover .pub-doi { color: var(--lime); }
 /* ieee bento without the badge - remove the row flex and just show text */
 .bento-ieee .ieee-desc { font-size:0.78rem; color:var(--muted); line-height:1.6; }
 </style>
-<link rel="stylesheet" href="/assets/css/themes.css">
+<link rel="stylesheet" href="/assets/css/themes.css?v={{ site.time | date: '%s' }}">
 </head>
 <body>
 
@@ -3608,6 +3608,6 @@ document.querySelectorAll('.pipe-item').forEach(item => {
 });
 </script>
 
-<script src="/assets/js/theme.js" defer></script>
+<script src="/assets/js/theme.js?v={{ site.time | date: '%s' }}" defer></script>
 </body>
 </html>
