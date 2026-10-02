@@ -166,6 +166,15 @@
     <section id="pf-overview" class="pf-overview" aria-labelledby="pf-overview-h">
       <h2 id="pf-overview-h" class="pf-h2">At a glance</h2>
       <div class="pf-grid-overview">
+        <a class="pf-ov-card pf-ov-tl" href="#timeline">
+          <span class="pf-ov-num">{{ page.timeline.num }}</span>
+          <span class="pf-ov-title">{{ page.timeline.title }}</span>
+          <span class="pf-ov-blurb">{{ page.timeline.blurb }}</span>
+          <span class="pf-ov-foot">
+            <span class="pf-ov-count">{{ grand }} <small>milestones</small></span>
+            <span class="pf-ov-extra">{{ ymin }} - {{ ymax }} · {{ active }} active years</span>
+          </span>
+        </a>
         {%- for s in page.sections %}
         {%- if s.key == 'credentials' -%}
           {%- assign n = P.education.size | plus: P.certifications.size -%}
@@ -184,15 +193,6 @@
           </span>
         </a>
         {%- endfor %}
-        <a class="pf-ov-card pf-ov-tl" href="#timeline">
-          <span class="pf-ov-num">{{ page.timeline.num }}</span>
-          <span class="pf-ov-title">{{ page.timeline.title }}</span>
-          <span class="pf-ov-blurb">{{ page.timeline.blurb }}</span>
-          <span class="pf-ov-foot">
-            <span class="pf-ov-count">{{ grand }} <small>milestones</small></span>
-            <span class="pf-ov-extra">{{ ymin }} - {{ ymax }} · {{ active }} active years</span>
-          </span>
-        </a>
       </div>
     </section>
 
@@ -208,70 +208,13 @@
       <span class="pf-filter-count" aria-live="polite"></span>
     </div>
 
-    <!-- ══ Sections ══ -->
-    {%- for s in page.sections %}
-    <section id="{{ s.key }}" class="pf-section" aria-labelledby="{{ s.key }}-h">
-      <div class="pf-sec-head">
-        <span class="pf-sec-num">{{ s.num }}</span>
-        <div>
-          <h2 id="{{ s.key }}-h" class="pf-h2">{{ s.title }}</h2>
-          {%- if s.lede %}<p class="pf-lede">{{ s.lede }}</p>{% endif %}
-        </div>
-      </div>
-
-      {%- if s.key == 'publications' %}
-        {%- for kind in page.publication_order %}
-          {%- assign group = P.publications | where: "kind", kind -%}
-          {%- if group.size > 0 %}
-          <h3 class="pf-h3">{{ kind }}{% unless kind == 'Preprint' %}s{% endunless %} <span>{{ group.size }}</span></h3>
-          <div class="pf-grid">
-            {%- for it in group %}{% include profile-item.html item=it cat=s.key %}{% endfor %}
-          </div>
-          {%- endif %}
-        {%- endfor %}
-
-      {%- elsif s.key == 'credentials' %}
-        <h3 class="pf-h3">Education <span>{{ P.education.size }}</span></h3>
-        <div class="pf-grid">{% for it in P.education %}{% include profile-item.html item=it cat=s.key %}{% endfor %}</div>
-        <h3 class="pf-h3">Certifications <span>{{ P.certifications.size }}</span></h3>
-        <div class="pf-grid">{% for it in P.certifications %}{% include profile-item.html item=it cat=s.key %}{% endfor %}</div>
-
-      {%- else %}
-        <div class="pf-grid{% if s.key == 'roles' %} pf-grid-wide{% endif %}">
-          {%- for it in P[s.key] %}{% include profile-item.html item=it cat=s.key %}{% endfor %}
-        </div>
-      {%- endif %}
-
-      {%- if s.key == 'judging' %}
-      <div class="pf-review" data-cat="judging">
-        <div class="pf-review-head">
-          <h3 class="pf-h3">Peer review</h3>
-          <span class="pf-review-total">{{ P.peer_review.total }} <small>reviews · {{ P.peer_review.venues.size }} venues</small></span>
-        </div>
-        <p class="pf-card-sum">{{ P.peer_review.summary }}</p>
-        <table class="pf-table">
-          <thead><tr><th scope="col">Venue</th><th scope="col">Organization</th><th scope="col">Reviews</th></tr></thead>
-          <tbody>
-            {%- for v in P.peer_review.venues %}
-            <tr><td>{{ v.name }}</td><td>{{ v.org }}</td><td>{% if v.papers %}{{ v.papers }}{% else %}{{ v.note }}{% endif %}</td></tr>
-            {%- endfor %}
-          </tbody>
-        </table>
-        {%- if P.peer_review.quote %}
-        <blockquote class="pf-quote">"{{ P.peer_review.quote }}"<cite>{{ P.peer_review.quote_by }}</cite></blockquote>
-        {%- endif %}
-      </div>
-      {%- endif %}
-    </section>
-    {%- endfor %}
-
     <!-- ══ Achievement Timeline (server-rendered from the same data) ══ -->
     <section id="timeline" class="pf-section" aria-labelledby="pf-timeline-h">
       <div class="pf-sec-head">
         <span class="pf-sec-num">{{ page.timeline.num }}</span>
         <div>
           <h2 id="pf-timeline-h" class="pf-h2">{{ page.timeline.title }}</h2>
-          <p class="pf-lede">Every dated milestone across all ten categories, year by year: continuous and escalating recognition from {{ ymin }} to {{ ymax }}.</p>
+          <p class="pf-lede">Every dated milestone across the ten categories below, year by year: continuous and escalating recognition from {{ ymin }} to {{ ymax }}.</p>
         </div>
       </div>
 
@@ -360,6 +303,63 @@
         {%- endfor %}
       </div>
     </section>
+
+    <!-- ══ Sections ══ -->
+    {%- for s in page.sections %}
+    <section id="{{ s.key }}" class="pf-section" aria-labelledby="{{ s.key }}-h">
+      <div class="pf-sec-head">
+        <span class="pf-sec-num">{{ s.num }}</span>
+        <div>
+          <h2 id="{{ s.key }}-h" class="pf-h2">{{ s.title }}</h2>
+          {%- if s.lede %}<p class="pf-lede">{{ s.lede }}</p>{% endif %}
+        </div>
+      </div>
+
+      {%- if s.key == 'publications' %}
+        {%- for kind in page.publication_order %}
+          {%- assign group = P.publications | where: "kind", kind -%}
+          {%- if group.size > 0 %}
+          <h3 class="pf-h3">{{ kind }}{% unless kind == 'Preprint' %}s{% endunless %} <span>{{ group.size }}</span></h3>
+          <div class="pf-grid">
+            {%- for it in group %}{% include profile-item.html item=it cat=s.key %}{% endfor %}
+          </div>
+          {%- endif %}
+        {%- endfor %}
+
+      {%- elsif s.key == 'credentials' %}
+        <h3 class="pf-h3">Education <span>{{ P.education.size }}</span></h3>
+        <div class="pf-grid">{% for it in P.education %}{% include profile-item.html item=it cat=s.key %}{% endfor %}</div>
+        <h3 class="pf-h3">Certifications <span>{{ P.certifications.size }}</span></h3>
+        <div class="pf-grid">{% for it in P.certifications %}{% include profile-item.html item=it cat=s.key %}{% endfor %}</div>
+
+      {%- else %}
+        <div class="pf-grid{% if s.key == 'roles' %} pf-grid-wide{% endif %}">
+          {%- for it in P[s.key] %}{% include profile-item.html item=it cat=s.key %}{% endfor %}
+        </div>
+      {%- endif %}
+
+      {%- if s.key == 'judging' %}
+      <div class="pf-review" data-cat="judging">
+        <div class="pf-review-head">
+          <h3 class="pf-h3">Peer review</h3>
+          <span class="pf-review-total">{{ P.peer_review.total }} <small>reviews · {{ P.peer_review.venues.size }} venues</small></span>
+        </div>
+        <p class="pf-card-sum">{{ P.peer_review.summary }}</p>
+        <table class="pf-table">
+          <thead><tr><th scope="col">Venue</th><th scope="col">Organization</th><th scope="col">Reviews</th></tr></thead>
+          <tbody>
+            {%- for v in P.peer_review.venues %}
+            <tr><td>{{ v.name }}</td><td>{{ v.org }}</td><td>{% if v.papers %}{{ v.papers }}{% else %}{{ v.note }}{% endif %}</td></tr>
+            {%- endfor %}
+          </tbody>
+        </table>
+        {%- if P.peer_review.quote %}
+        <blockquote class="pf-quote">"{{ P.peer_review.quote }}"<cite>{{ P.peer_review.quote_by }}</cite></blockquote>
+        {%- endif %}
+      </div>
+      {%- endif %}
+    </section>
+    {%- endfor %}
 
     <!-- ══ Independent verification ══ -->
     <section class="pf-verify" aria-labelledby="pf-verify-h">
