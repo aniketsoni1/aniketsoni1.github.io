@@ -1,0 +1,41 @@
+{%- comment -%}
+  One achievement card on /profile/.
+  Params: item (required), cat (section key, used by the client-side filter).
+  The evidence panel renders ONLY when the item carries a significance note
+  or evidence links - the page never shows empty "TBD" placeholders.
+{%- endcomment -%}
+{%- assign it = include.item -%}
+<article class="pf-card" data-cat="{{ include.cat }}"{% if it.year %} data-year="{{ it.year }}"{% endif %}>
+  <div class="pf-card-top">
+    {%- if it.kind %}<span class="pf-chip">{{ it.kind }}</span>{% endif -%}
+    {%- if it.date %}<span class="pf-date">{{ it.date }}</span>{% endif -%}
+  </div>
+  <h3 class="pf-card-title">{{ it.title }}</h3>
+  {%- if it.org or it.role or it.location %}
+  <p class="pf-card-org">
+    {%- if it.org %}<span>{{ it.org }}</span>{% endif -%}
+    {%- if it.role %}<span class="pf-sep">·</span><span>{{ it.role }}</span>{% endif -%}
+    {%- if it.location %}<span class="pf-sep">·</span><span>{{ it.location }}</span>{% endif -%}
+  </p>
+  {%- endif %}
+  {%- if it.summary %}<p class="pf-card-sum">{{ it.summary }}</p>{% endif %}
+  {%- if it.highlights %}
+  <ul class="pf-highlights">
+    {%- for h in it.highlights %}<li>{{ h }}</li>{% endfor %}
+  </ul>
+  {%- endif %}
+  {%- if it.significance or it.evidence %}
+  <details class="pf-evidence">
+    <summary>Evidence &amp; significance</summary>
+    {%- if it.significance %}<p class="pf-sig">{{ it.significance }}</p>{% endif %}
+    {%- if it.evidence %}
+    <ul class="pf-links">
+      {%- for e in it.evidence %}
+      {%- assign first = e.url | slice: 0 -%}
+      <li><a href="{% if first == '/' %}{{ e.url | relative_url }}{% else %}{{ e.url }}{% endif %}"{% unless first == '/' %} rel="noopener" target="_blank"{% endunless %}>{{ e.label }}{% unless first == '/' %} ↗{% endunless %}</a></li>
+      {%- endfor %}
+    </ul>
+    {%- endif %}
+  </details>
+  {%- endif %}
+</article>

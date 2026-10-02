@@ -1,0 +1,144 @@
+/* ════════════════════════════════════════════════════════════════════
+   profile.css - /profile/ (professional profile)
+   Layered on blog.css, which supplies the design tokens, nav, footer
+   and theme toggle. Light theme works automatically through the tokens.
+   ════════════════════════════════════════════════════════════════════ */
+
+.pf-main { max-width: 1120px; margin: 0 auto; padding: 7rem 1.5rem 4rem; }
+.pf-skip { position: absolute; left: -9999px; }
+.pf-skip:focus { left: 1rem; top: 1rem; z-index: 999; background: var(--lime-dark); color: #fff; padding: .5rem 1rem; }
+.pf-visually-hidden { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); }
+.mono, .pf-chip, .pf-date, .pf-sec-num, .pf-metric-l, .pf-ov-num, .pf-tl-y, .pf-tl-c,
+.pf-evidence summary, .pf-profiles a, .pf-updated, .pf-ov-extra { font-family: 'JetBrains Mono', monospace; }
+
+/* ── Hero ─────────────────────────────────────────────────────────── */
+.pf-hero { display: grid; grid-template-columns: 220px 1fr; gap: 2.5rem; align-items: center; }
+.pf-photo { width: 220px; height: 220px; object-fit: cover; border-radius: 6px; border: 1px solid var(--lime-line);
+  box-shadow: 0 0 0 6px var(--lime-dim); }
+.pf-name { font-family: 'Bebas Neue', sans-serif; font-size: clamp(2.8rem, 7vw, 4.8rem); line-height: .95; letter-spacing: .01em; }
+.pf-role { color: var(--lime); font-weight: 500; margin: .5rem 0 1rem; }
+.pf-summary { color: var(--text); opacity: .85; max-width: 68ch; }
+.pf-profiles { list-style: none; display: flex; flex-wrap: wrap; gap: .5rem; margin-top: 1.2rem; }
+.pf-profiles a { display: inline-block; font-size: .64rem; letter-spacing: .08em; text-transform: uppercase; text-decoration: none;
+  padding: .38rem .7rem; border: 1px solid var(--border); border-radius: var(--r); color: var(--muted); transition: all .2s; }
+.pf-profiles a:hover { color: var(--lime); border-color: var(--lime-line); background: var(--lime-dim); }
+
+/* ── Metrics ──────────────────────────────────────────────────────── */
+.pf-metrics { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 1px; margin: 3rem 0;
+  background: var(--border); border: 1px solid var(--border); border-radius: 6px; overflow: hidden; }
+.pf-metric { background: var(--card-bg); padding: 1.3rem 1.2rem; display: flex; flex-direction: column; gap: .2rem; }
+.pf-metric-v { font-family: 'Bebas Neue', sans-serif; font-size: 2.4rem; line-height: 1; color: var(--lime); }
+.pf-metric-l { font-size: .6rem; letter-spacing: .1em; text-transform: uppercase; color: var(--muted); }
+
+/* ── Headings ─────────────────────────────────────────────────────── */
+.pf-h2 { font-family: 'Bebas Neue', sans-serif; font-size: clamp(1.9rem, 4vw, 2.6rem); letter-spacing: .02em; line-height: 1.05; }
+.pf-h3 { font-family: 'JetBrains Mono', monospace; font-size: .72rem; letter-spacing: .14em; text-transform: uppercase; color: var(--muted);
+  margin: 1.8rem 0 .9rem; display: flex; gap: .6rem; align-items: center; }
+.pf-h3 span { color: var(--lime); }
+.pf-lede { color: var(--muted); margin-top: .3rem; max-width: 70ch; }
+
+/* ── Overview grid ────────────────────────────────────────────────── */
+.pf-overview { margin-bottom: 2.5rem; }
+.pf-grid-overview { display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: .8rem; margin-top: 1.2rem; }
+.pf-ov-card { display: flex; flex-direction: column; gap: .35rem; padding: 1.1rem; text-decoration: none; color: var(--text);
+  background: var(--card-bg); border: 1px solid var(--border); border-radius: 6px; transition: border-color .2s, transform .2s, background .2s; }
+.pf-ov-card:hover { border-color: var(--lime-line); background: var(--lime-dim); transform: translateY(-2px); }
+.pf-ov-num { font-size: .6rem; color: var(--lime); letter-spacing: .12em; }
+.pf-ov-title { font-weight: 500; line-height: 1.3; }
+.pf-ov-count { font-family: 'Bebas Neue', sans-serif; font-size: 1.9rem; line-height: 1; margin-top: auto; }
+.pf-ov-count small { font-family: 'JetBrains Mono', monospace; font-size: .58rem; letter-spacing: .1em; text-transform: uppercase; color: var(--muted); }
+.pf-ov-extra { font-size: .58rem; color: var(--lime); letter-spacing: .06em; }
+
+/* ── Filter ───────────────────────────────────────────────────────── */
+.pf-filter { position: sticky; top: 4.2rem; z-index: 40; display: flex; align-items: center; gap: 1rem; margin: 0 0 1rem;
+  padding: .7rem 0; background: var(--bg); border-bottom: 1px solid var(--border); }
+.pf-filter input { flex: 1; background: var(--card-bg); border: 1px solid var(--border); border-radius: var(--r); color: var(--text);
+  font: inherit; font-size: .9rem; padding: .6rem .8rem; }
+.pf-filter input:focus { outline: none; border-color: var(--lime); }
+.pf-filter-count { font-family: 'JetBrains Mono', monospace; font-size: .62rem; color: var(--lime); white-space: nowrap; }
+
+/* ── Sections & cards ─────────────────────────────────────────────── */
+.pf-section { padding: 3rem 0 1rem; border-top: 1px solid var(--border); scroll-margin-top: 8rem; }
+.pf-sec-head { display: flex; gap: 1.2rem; align-items: flex-start; margin-bottom: 1.2rem; }
+.pf-sec-num { font-size: .75rem; color: var(--lime); border: 1px solid var(--lime-line); border-radius: var(--r); padding: .3rem .5rem; margin-top: .45rem; }
+.pf-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: 1rem; }
+.pf-grid-wide { grid-template-columns: 1fr; }
+.pf-card { background: var(--card-bg); border: 1px solid var(--border); border-left: 2px solid var(--lime-line); border-radius: 6px;
+  padding: 1.2rem 1.3rem; display: flex; flex-direction: column; gap: .45rem; transition: border-color .2s; }
+.pf-card:hover { border-color: var(--lime-line); }
+.pf-card-top { display: flex; justify-content: space-between; gap: .6rem; align-items: center; min-height: 1rem; }
+.pf-chip { font-size: .56rem; letter-spacing: .1em; text-transform: uppercase; color: var(--lime); background: var(--lime-low);
+  padding: .18rem .45rem; border-radius: 2px; white-space: nowrap; }
+.pf-date { font-size: .62rem; color: var(--muted); letter-spacing: .06em; margin-left: auto; text-align: right; }
+.pf-card-title { font-size: 1.02rem; font-weight: 600; line-height: 1.35; }
+.pf-card-org { color: var(--muted); font-size: .86rem; line-height: 1.5; }
+.pf-sep { margin: 0 .35rem; opacity: .6; }
+.pf-card-sum { font-size: .9rem; opacity: .88; }
+.pf-highlights { padding-left: 1.1rem; display: grid; gap: .35rem; font-size: .9rem; }
+.pf-highlights li::marker { color: var(--lime); }
+
+/* Evidence panel */
+.pf-evidence { margin-top: .3rem; border-top: 1px dashed var(--border); padding-top: .6rem; }
+.pf-evidence summary { cursor: pointer; font-size: .6rem; letter-spacing: .12em; text-transform: uppercase; color: var(--lime); list-style: none; }
+.pf-evidence summary::-webkit-details-marker { display: none; }
+.pf-evidence summary::before { content: '+ '; }
+.pf-evidence[open] summary::before { content: '− '; }
+.pf-sig { font-size: .86rem; margin-top: .6rem; padding-left: .7rem; border-left: 2px solid var(--lime-line); color: var(--text); opacity: .85; }
+.pf-links { list-style: none; display: flex; flex-wrap: wrap; gap: .4rem; margin-top: .6rem; }
+.pf-links a { font-size: .78rem; color: var(--lime); text-decoration: none; border-bottom: 1px solid var(--lime-line); }
+.pf-links a:hover { border-color: var(--lime); }
+
+/* Peer review table */
+.pf-review { margin-top: 1.6rem; background: var(--card-bg); border: 1px solid var(--border); border-radius: 6px; padding: 1.3rem; }
+.pf-review-head { display: flex; justify-content: space-between; align-items: baseline; gap: 1rem; flex-wrap: wrap; }
+.pf-review-head .pf-h3 { margin: 0; }
+.pf-review-total { font-family: 'Bebas Neue', sans-serif; font-size: 2rem; color: var(--lime); line-height: 1; }
+.pf-review-total small { font-family: 'JetBrains Mono', monospace; font-size: .58rem; color: var(--muted); letter-spacing: .1em; text-transform: uppercase; }
+.pf-table { width: 100%; border-collapse: collapse; margin-top: 1rem; font-size: .88rem; }
+.pf-table th { text-align: left; font-family: 'JetBrains Mono', monospace; font-size: .58rem; letter-spacing: .12em; text-transform: uppercase;
+  color: var(--muted); font-weight: 400; padding: .5rem .4rem; border-bottom: 1px solid var(--border); }
+.pf-table td { padding: .55rem .4rem; border-bottom: 1px solid var(--border); }
+.pf-table td:last-child, .pf-table th:last-child { text-align: right; }
+
+/* ── Timeline ─────────────────────────────────────────────────────── */
+.pf-tl { display: grid; gap: .4rem; }
+.pf-tl-year { background: var(--card-bg); border: 1px solid var(--border); border-radius: 6px; }
+.pf-tl-year summary { display: grid; grid-template-columns: 4rem 1fr 2.5rem; gap: 1rem; align-items: center; padding: .8rem 1rem;
+  cursor: pointer; list-style: none; }
+.pf-tl-year summary::-webkit-details-marker { display: none; }
+.pf-tl-y { color: var(--lime); font-size: .9rem; }
+.pf-tl-bar { height: 8px; background: var(--lime-dim); border-radius: 4px; overflow: hidden; }
+.pf-tl-bar span { display: block; height: 100%; background: linear-gradient(90deg, var(--lime-dark), var(--lime)); border-radius: 4px; }
+.pf-tl-c { text-align: right; font-size: .75rem; color: var(--muted); }
+.pf-tl-list { list-style: none; padding: 0 1rem 1rem; display: grid; gap: .45rem; }
+.pf-tl-list a { text-decoration: none; font-size: .9rem; color: var(--text); }
+.pf-tl-list a:hover { color: var(--lime); }
+.pf-tl-list em { color: var(--muted); font-style: normal; }
+.pf-tl-list .pf-chip { margin-right: .4rem; }
+
+/* ── Verify ───────────────────────────────────────────────────────── */
+.pf-verify { margin-top: 3rem; padding: 2rem; border: 1px solid var(--lime-line); border-radius: 6px; background: var(--lime-dim); }
+.pf-updated { margin-top: 1.4rem; font-size: .62rem; letter-spacing: .08em; color: var(--muted); text-transform: uppercase; }
+.pf-updated a { color: var(--lime); }
+
+/* ── Responsive ───────────────────────────────────────────────────── */
+@media (max-width: 760px) {
+  .pf-main { padding-top: 6rem; }
+  .pf-hero { grid-template-columns: 1fr; gap: 1.5rem; }
+  .pf-photo { width: 140px; height: 140px; }
+  .pf-grid { grid-template-columns: 1fr; }
+  .pf-filter { top: 3.6rem; }
+  .pf-sec-head { gap: .8rem; }
+}
+
+/* ── Print / Save as PDF ──────────────────────────────────────────── */
+@media print {
+  nav#nav, #theme-toggle, .grain, .pf-filter, .pf-skip, footer.signal-footer, .pf-ov-card:hover { display: none !important; }
+  :root, [data-theme] { --bg: #fff; --card-bg: #fff; --text: #111; --muted: #555; --border: #ccc; --lime: #006a6a; --lime-line: #8bb; --lime-dim: #fff; --lime-low: #eef6f6; }
+  body.signal-body { background: #fff; color: #111; font-size: 10.5pt; }
+  .pf-main { padding: 0; max-width: none; }
+  .pf-section { break-inside: auto; padding-top: 1.2rem; }
+  .pf-card, .pf-tl-year, .pf-review { break-inside: avoid; }
+  .pf-grid { grid-template-columns: 1fr 1fr; }
+  .pf-links a::after { content: ' (' attr(href) ')'; font-size: 8pt; color: #555; word-break: break-all; }
+}

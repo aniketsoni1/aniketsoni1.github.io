@@ -1,0 +1,362 @@
+{%- assign P = site.data.profile -%}
+{%- assign me = P.person -%}
+{%- assign canonical = page.url | absolute_url -%}
+<!DOCTYPE html>
+<html lang="en" prefix="og: https://ogp.me/ns#">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="theme-color" content="#050505" media="(prefers-color-scheme: dark)">
+  <meta name="theme-color" content="#f4f4f2" media="(prefers-color-scheme: light)">
+  <meta name="color-scheme" content="dark light">
+  <script>
+    (function () {
+      try {
+        var s = localStorage.getItem('theme');
+        var d = window.matchMedia('(prefers-color-scheme: dark)').matches;
+        if ((s || (d ? 'dark' : 'light')) === 'light') document.documentElement.setAttribute('data-theme', 'light');
+      } catch (e) {}
+    })();
+  </script>
+
+  <!-- ═══ SEO (hand-written so the title/description stay tight; no {% raw %}{% seo %}{% endraw %} to avoid duplicate tags) ═══ -->
+  <title>{{ page.seo_title }}</title>
+  <meta name="description" content="{{ page.description }}">
+  <meta name="keywords" content="{{ page.keywords }}">
+  <meta name="author" content="{{ me.name }}">
+  <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
+  <link rel="canonical" href="{{ canonical }}">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><rect width=%22100%22 height=%22100%22 rx=%2218%22 fill=%22%23050505%22/><text x=%2250%22 y=%2268%22 font-family=%22Arial,sans-serif%22 font-weight=%22bold%22 font-size=%2248%22 fill=%22%23009e9e%22 text-anchor=%22middle%22>AS</text></svg>">
+  <meta property="og:type" content="profile">
+  <meta property="og:site_name" content="{{ me.name }}">
+  <meta property="og:title" content="{{ page.seo_title }}">
+  <meta property="og:description" content="{{ page.description }}">
+  <meta property="og:url" content="{{ canonical }}">
+  <meta property="og:image" content="{{ page.image | absolute_url }}">
+  <meta property="og:image:alt" content="{{ me.name }} - {{ me.title }}">
+  <meta property="og:locale" content="en_US">
+  <meta property="profile:first_name" content="Aniket">
+  <meta property="profile:last_name" content="Soni">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="{{ page.seo_title }}">
+  <meta name="twitter:description" content="{{ page.description }}">
+  <meta name="twitter:image" content="{{ page.image | absolute_url }}">
+
+  {%- comment -%}
+    Structured data. The Person node reuses the homepage's @id so Google
+    merges both pages into ONE entity (knowledge-panel friendly). Every value
+    comes from _data/profile.yml.
+  {%- endcomment -%}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "ProfilePage",
+        "@id": {{ canonical | append: '#page' | jsonify }},
+        "url": {{ canonical | jsonify }},
+        "name": {{ page.seo_title | jsonify }},
+        "description": {{ page.description | jsonify }},
+        "inLanguage": "en-US",
+        "dateModified": {{ site.time | date_to_xmlschema | jsonify }},
+        "isPartOf": { "@type": "WebSite", "@id": "https://aniketsoni.com/#website", "url": "https://aniketsoni.com/", "name": {{ me.name | jsonify }} },
+        "mainEntity": { "@id": "https://aniketsoni.com/#person" }
+      },
+      {
+        "@type": "Person",
+        "@id": "https://aniketsoni.com/#person",
+        "name": {{ me.name | jsonify }},
+        "givenName": "Aniket", "additionalName": "Abhishek", "familyName": "Soni",
+        "jobTitle": {{ me.title | jsonify }},
+        "description": {{ me.summary | jsonify }},
+        "url": "https://aniketsoni.com/",
+        "image": {{ page.image | absolute_url | jsonify }},
+        "worksFor": { "@type": "Organization", "name": {{ me.employer | jsonify }} },
+        "homeLocation": { "@type": "Place", "name": {{ me.location | jsonify }} },
+        "knowsAbout": {{ me.expertise | jsonify }},
+        "sameAs": [{% for p in me.profiles %}{{ p.url | jsonify }}{% unless forloop.last %},{% endunless %}{% endfor %}],
+        "award": [{% for a in P.awards %}{{ a.title | append: ' - ' | append: a.org | append: ' (' | append: a.date | append: ')' | jsonify }}{% unless forloop.last %},{% endunless %}{% endfor %}],
+        "memberOf": [{% for m in P.memberships %}{ "@type": "OrganizationRole", "roleName": {{ m.title | jsonify }}, "memberOf": { "@type": "Organization", "name": {{ m.org | jsonify }} } }{% unless forloop.last %},{% endunless %}{% endfor %}],
+        "alumniOf": [{% for e in P.education %}{ "@type": "CollegeOrUniversity", "name": {{ e.org | jsonify }} }{% unless forloop.last %},{% endunless %}{% endfor %}],
+        "hasCredential": [
+          {% for e in P.education %}{ "@type": "EducationalOccupationalCredential", "name": {{ e.title | jsonify }}, "credentialCategory": "degree", "recognizedBy": { "@type": "CollegeOrUniversity", "name": {{ e.org | jsonify }} } },{% endfor %}
+          {% for c in P.certifications %}{ "@type": "EducationalOccupationalCredential", "name": {{ c.title | jsonify }}, "credentialCategory": "certification", "recognizedBy": { "@type": "Organization", "name": {{ c.org | jsonify }} } }{% unless forloop.last %},{% endunless %}{% endfor %}
+        ]
+      },
+      {
+        "@type": "ItemList",
+        "@id": {{ canonical | append: '#works' | jsonify }},
+        "name": "Books and scholarly publications by {{ me.name }}",
+        "itemListElement": [
+          {% for w in P.publications %}{
+            "@type": "ListItem", "position": {{ forloop.index }},
+            "item": {
+              "@type": {% if w.kind == 'Book' %}"Book"{% elsif w.kind == 'Book chapter' %}"Chapter"{% else %}"ScholarlyArticle"{% endif %},
+              "name": {{ w.title | jsonify }},
+              "author": { "@id": "https://aniketsoni.com/#person" },
+              {% if w.evidence %}"url": {{ w.evidence[0].url | jsonify }},{% endif %}
+              "publisher": {{ w.org | jsonify }}{% if w.year %},
+              "datePublished": "{{ w.year }}"{% endif %}
+            }
+          }{% unless forloop.last %},{% endunless %}{% endfor %}
+        ]
+      }
+    ]
+  }
+  </script>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Plus+Jakarta+Sans:ital,wght@0,300;0,400;0,500;0,600;1,300&family=JetBrains+Mono:wght@300;400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="{{ '/assets/css/blog.css' | relative_url }}">
+  <link rel="stylesheet" href="{{ '/assets/css/profile.css' | relative_url }}">
+  {%- include analytics.html %}
+</head>
+<body class="signal-body pf-body">
+  <div class="grain" aria-hidden="true"></div>
+  <a class="pf-skip" href="#pf-overview">Skip to overview</a>
+
+  <!-- ══ Navigation (native to the portfolio) ══ -->
+  <input type="checkbox" id="nav-toggle" aria-hidden="true">
+  <nav id="nav" role="navigation" aria-label="Main navigation">
+    <a href="{{ '/' | absolute_url }}" class="nav-wordmark" aria-label="{{ me.name }} - home">AS</a>
+    <label for="nav-toggle" class="nav-hamburger" aria-label="Open menu"><span></span><span></span><span></span></label>
+    <ul class="nav-menu" role="list">
+      <li><a href="{{ '/' | absolute_url }}">Home</a></li>
+      <li><a href="#pf-overview">Overview</a></li>
+      <li><a href="#publications">Research</a></li>
+      <li><a href="#pf-timeline">Timeline</a></li>
+      <li><a href="{{ '/blog/' | relative_url }}">The Signal</a></li>
+      <li><a href="{{ '/#contact' | absolute_url }}" class="nav-cta">Connect</a></li>
+    </ul>
+  </nav>
+
+  <main id="main" class="pf-main">
+
+    <!-- ══ Hero ══ -->
+    <header class="pf-hero">
+      <img class="pf-photo" src="{{ page.image | relative_url }}" alt="{{ me.name }}" width="220" height="220" loading="eager">
+      <div class="pf-hero-text">
+        <div class="sec-eyebrow"><span class="eyebrow-mark">//</span> Professional profile</div>
+        <h1 class="pf-name">{{ me.name }}</h1>
+        <p class="pf-role">{{ me.title }} · {{ me.location }}</p>
+        <p class="pf-summary">{{ me.summary }}</p>
+        <ul class="pf-profiles" aria-label="Independent profiles">
+          {%- for p in me.profiles %}
+          <li><a href="{{ p.url }}" rel="noopener me" target="_blank">{{ p.label }} ↗</a></li>
+          {%- endfor %}
+        </ul>
+      </div>
+    </header>
+
+    <!-- ══ Research metrics ══ -->
+    <section class="pf-metrics" aria-label="Research metrics">
+      {%- for m in P.metrics.items %}
+      <div class="pf-metric"><span class="pf-metric-v">{{ m.value }}</span><span class="pf-metric-l">{{ m.label }}</span></div>
+      {%- endfor %}
+    </section>
+
+    <!-- ══ Criteria overview ══ -->
+    <section id="pf-overview" class="pf-overview" aria-labelledby="pf-overview-h">
+      <h2 id="pf-overview-h" class="pf-h2">At a glance</h2>
+      <div class="pf-grid-overview">
+        {%- for s in page.sections %}
+        {%- if s.key == 'credentials' -%}
+          {%- assign n = P.education.size | plus: P.certifications.size -%}
+        {%- elsif s.key == 'judging' -%}
+          {%- assign n = P.judging.size -%}
+        {%- else -%}
+          {%- assign n = P[s.key].size -%}
+        {%- endif %}
+        <a class="pf-ov-card" href="#{{ s.key }}">
+          <span class="pf-ov-num">{{ s.num }}</span>
+          <span class="pf-ov-title">{{ s.title }}</span>
+          <span class="pf-ov-count">{{ n }} <small>{{ s.unit | default: 'items' }}</small></span>
+          {%- if s.key == 'judging' %}<span class="pf-ov-extra">+ {{ P.peer_review.total }} peer reviews</span>{% endif %}
+        </a>
+        {%- endfor %}
+      </div>
+    </section>
+
+    <!-- ══ Filter bar (progressive enhancement; everything is visible without JS) ══ -->
+    <div class="pf-filter" role="search" hidden>
+      <label class="pf-visually-hidden" for="pf-q">Search this profile</label>
+      <input id="pf-q" type="search" placeholder="Search awards, venues, publications…" autocomplete="off">
+      <span class="pf-filter-count" aria-live="polite"></span>
+    </div>
+
+    <!-- ══ Sections ══ -->
+    {%- for s in page.sections %}
+    <section id="{{ s.key }}" class="pf-section" aria-labelledby="{{ s.key }}-h">
+      <div class="pf-sec-head">
+        <span class="pf-sec-num">{{ s.num }}</span>
+        <div>
+          <h2 id="{{ s.key }}-h" class="pf-h2">{{ s.title }}</h2>
+          {%- if s.lede %}<p class="pf-lede">{{ s.lede }}</p>{% endif %}
+        </div>
+      </div>
+
+      {%- if s.key == 'publications' %}
+        {%- for kind in page.publication_order %}
+          {%- assign group = P.publications | where: "kind", kind -%}
+          {%- if group.size > 0 %}
+          <h3 class="pf-h3">{{ kind }}{% unless kind == 'Preprint' %}s{% endunless %} <span>{{ group.size }}</span></h3>
+          <div class="pf-grid">
+            {%- for it in group %}{% include profile-item.html item=it cat=s.key %}{% endfor %}
+          </div>
+          {%- endif %}
+        {%- endfor %}
+
+      {%- elsif s.key == 'credentials' %}
+        <h3 class="pf-h3">Education <span>{{ P.education.size }}</span></h3>
+        <div class="pf-grid">{% for it in P.education %}{% include profile-item.html item=it cat=s.key %}{% endfor %}</div>
+        <h3 class="pf-h3">Certifications <span>{{ P.certifications.size }}</span></h3>
+        <div class="pf-grid">{% for it in P.certifications %}{% include profile-item.html item=it cat=s.key %}{% endfor %}</div>
+
+      {%- else %}
+        <div class="pf-grid{% if s.key == 'roles' %} pf-grid-wide{% endif %}">
+          {%- for it in P[s.key] %}{% include profile-item.html item=it cat=s.key %}{% endfor %}
+        </div>
+      {%- endif %}
+
+      {%- if s.key == 'judging' %}
+      <div class="pf-review" data-cat="judging">
+        <div class="pf-review-head">
+          <h3 class="pf-h3">Peer review</h3>
+          <span class="pf-review-total">{{ P.peer_review.total }} <small>reviews · {{ P.peer_review.venues.size }} venues</small></span>
+        </div>
+        <p class="pf-card-sum">{{ P.peer_review.summary }}</p>
+        <table class="pf-table">
+          <thead><tr><th scope="col">Venue</th><th scope="col">Organization</th><th scope="col">Year</th></tr></thead>
+          <tbody>
+            {%- for v in P.peer_review.venues %}
+            <tr><td>{{ v.name }}</td><td>{{ v.org }}</td><td>{{ v.year }}</td></tr>
+            {%- endfor %}
+          </tbody>
+        </table>
+      </div>
+      {%- endif %}
+    </section>
+    {%- endfor %}
+
+    <!-- ══ Timeline (server-rendered from the same data) ══ -->
+    {%- assign tl_cats = "awards,judging,media,contributions,publications,speaking,community,roles,education" | split: "," -%}
+    {%- assign ymax = site.time | date: "%Y" | plus: 0 -%}
+    {%- assign peak = 1 -%}
+    {%- for y in (2016..ymax) -%}
+      {%- assign c = 0 -%}
+      {%- for cat in tl_cats -%}{%- assign hits = P[cat] | where: "year", y -%}{%- assign c = c | plus: hits.size -%}{%- endfor -%}
+      {%- if c > peak %}{% assign peak = c %}{% endif -%}
+    {%- endfor %}
+    <section id="pf-timeline" class="pf-section" aria-labelledby="pf-timeline-h">
+      <div class="pf-sec-head">
+        <span class="pf-sec-num">→</span>
+        <div>
+          <h2 id="pf-timeline-h" class="pf-h2">Timeline</h2>
+          <p class="pf-lede">Dated achievements by year, across every category above.</p>
+        </div>
+      </div>
+      <div class="pf-tl">
+        {%- for y in (2016..ymax) reversed %}
+          {%- assign c = 0 -%}
+          {%- for cat in tl_cats -%}{%- assign hits = P[cat] | where: "year", y -%}{%- assign c = c | plus: hits.size -%}{%- endfor -%}
+          {%- if c > 0 %}
+          <details class="pf-tl-year"{% if forloop.first %} open{% endif %}>
+            <summary>
+              <span class="pf-tl-y">{{ y }}</span>
+              <span class="pf-tl-bar" aria-hidden="true"><span style="width:{{ c | times: 100 | divided_by: peak }}%"></span></span>
+              <span class="pf-tl-c">{{ c }}</span>
+            </summary>
+            <ul class="pf-tl-list">
+              {%- for cat in tl_cats -%}
+                {%- assign hits = P[cat] | where: "year", y -%}
+                {%- for it in hits %}
+                <li><a href="#{{ cat }}"><span class="pf-chip">{{ page.tl_labels[cat] }}</span> {{ it.title }}{% if it.org %} <em>· {{ it.org }}</em>{% endif %}</a></li>
+                {%- endfor -%}
+              {%- endfor %}
+            </ul>
+          </details>
+          {%- endif %}
+        {%- endfor %}
+      </div>
+    </section>
+
+    <!-- ══ Independent verification ══ -->
+    <section class="pf-verify" aria-labelledby="pf-verify-h">
+      <h2 id="pf-verify-h" class="pf-h2">Verify independently</h2>
+      <p class="pf-lede">Publications, citations and identity can be confirmed on these third-party records. Items above carry their own evidence links.</p>
+      <ul class="pf-profiles">
+        {%- for p in me.profiles %}<li><a href="{{ p.url }}" rel="noopener" target="_blank">{{ p.label }} ↗</a></li>{% endfor %}
+      </ul>
+      <p class="pf-updated">Last updated {{ site.time | date: "%B %-d, %Y" }} · <a href="#" onclick="window.print();return false;">Print / save as PDF</a></p>
+    </section>
+  </main>
+
+  <footer class="signal-footer">
+    <div class="signal-footer-inner">
+      <div class="footer-brand">
+        <span class="footer-mark">Professional Profile</span>
+        <span class="footer-by">{{ me.name }}</span>
+      </div>
+      <div class="footer-links">
+        <a href="{{ '/' | absolute_url }}">Portfolio</a>
+        <a href="{{ '/blog/' | relative_url }}">The Signal</a>
+        <a href="{{ '/extensions/' | relative_url }}">Extensions</a>
+        <a href="https://scholar.google.com/citations?user=Rtn7hFAAAAAJ&hl=en" rel="noopener">Google Scholar</a>
+        <a href="https://orcid.org/0009-0001-6312-2967" rel="noopener">ORCID</a>
+      </div>
+      <p class="footer-copy">&copy; {{ site.time | date: "%Y" }} {{ me.name }}.</p>
+    </div>
+  </footer>
+
+  <button id="theme-toggle" aria-label="Toggle light/dark theme" title="Toggle theme">
+    <svg class="t-icon t-sun" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><circle cx="12" cy="12" r="4"/><line x1="12" y1="2" x2="12" y2="5"/><line x1="12" y1="19" x2="12" y2="22"/><line x1="2" y1="12" x2="5" y2="12"/><line x1="19" y1="12" x2="22" y2="12"/><line x1="4.22" y1="4.22" x2="6.34" y2="6.34"/><line x1="17.66" y1="17.66" x2="19.78" y2="19.78"/><line x1="4.22" y1="19.78" x2="6.34" y2="17.66"/><line x1="17.66" y1="6.34" x2="19.78" y2="4.22"/></svg>
+    <svg class="t-icon t-moon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg>
+  </button>
+
+  <script>
+    (function () {
+      var nav = document.getElementById('nav');
+      var onScroll = function () { nav.classList.toggle('scrolled', window.scrollY > 24); };
+      onScroll(); window.addEventListener('scroll', onScroll, { passive: true });
+      document.querySelectorAll('.nav-menu a').forEach(function (a) {
+        a.addEventListener('click', function () { document.getElementById('nav-toggle').checked = false; });
+      });
+      var html = document.documentElement;
+      document.getElementById('theme-toggle').addEventListener('click', function () {
+        if (html.getAttribute('data-theme') === 'light') { html.removeAttribute('data-theme'); localStorage.setItem('theme', 'dark'); }
+        else { html.setAttribute('data-theme', 'light'); localStorage.setItem('theme', 'light'); }
+      });
+
+      // Search: hides non-matching cards and empty sections. Content stays in
+      // the HTML for crawlers; this only changes visibility for readers.
+      var bar = document.querySelector('.pf-filter');
+      var q = document.getElementById('pf-q');
+      var out = bar.querySelector('.pf-filter-count');
+      var cards = Array.prototype.slice.call(document.querySelectorAll('.pf-section:not(#pf-timeline) .pf-card, .pf-table tbody tr'));
+      bar.hidden = false;
+      q.addEventListener('input', function () {
+        var t = q.value.trim().toLowerCase(), shown = 0;
+        cards.forEach(function (c) {
+          var hit = !t || c.textContent.toLowerCase().indexOf(t) !== -1;
+          c.style.display = hit ? '' : 'none';
+          if (hit) shown++;
+        });
+        document.querySelectorAll('.pf-section:not(#pf-timeline)').forEach(function (sec) {
+          var any = Array.prototype.some.call(sec.querySelectorAll('.pf-card, .pf-table tbody tr'), function (c) { return c.style.display !== 'none'; });
+          sec.style.display = any ? '' : 'none';
+        });
+        out.textContent = t ? shown + ' match' + (shown === 1 ? '' : 'es') : '';
+      });
+
+      // Print: open every evidence panel so the PDF carries the proof links.
+      window.addEventListener('beforeprint', function () {
+        document.querySelectorAll('details').forEach(function (d) { d.setAttribute('data-was', d.open); d.open = true; });
+      });
+      window.addEventListener('afterprint', function () {
+        document.querySelectorAll('details').forEach(function (d) { d.open = d.getAttribute('data-was') === 'true'; });
+      });
+    })();
+  </script>
+</body>
+</html>
