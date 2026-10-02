@@ -9,20 +9,9 @@
   <meta name="theme-color" content="#050505" media="(prefers-color-scheme: dark)">
   <meta name="theme-color" content="#f4f4f2" media="(prefers-color-scheme: light)">
   <meta name="color-scheme" content="dark light">
-
-  <!-- Apply the saved theme BEFORE first paint (no flash). Shares the same
-       localStorage key as the homepage and the blog. -->
-  <script>
-    (function () {
-      try {
-        var stored = localStorage.getItem('theme');
-        var prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
-        if ((stored || (prefersDark ? 'dark' : 'light')) === 'light') {
-          document.documentElement.setAttribute('data-theme', 'light');
-        }
-      } catch (e) { /* private mode etc. - stay dark */ }
-    })();
-  </script>
+  <!-- Theme: light by default; saved mode + accent applied before first paint
+       (assets/js/theme.js builds the picker). Same keys on every page. -->
+  <script>(function(){var r=document.documentElement,t='light',a='teal';try{t=localStorage.getItem('theme')||'light';a=localStorage.getItem('accent-'+t)||'teal';}catch(e){}if(t==='light'){r.setAttribute('data-theme','light');}r.setAttribute('data-accent',a);})();</script>
   <meta name="author" content="{{ site.author.name }}">
   <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large">
 
@@ -38,6 +27,7 @@
   <!-- blog.css supplies the shared design tokens, nav, footer and theme toggle. -->
   <link rel="stylesheet" href="{{ '/assets/css/blog.css' | relative_url }}">
   <link rel="stylesheet" href="{{ '/assets/css/extensions.css' | relative_url }}">
+  <link rel="stylesheet" href="{{ '/assets/css/themes.css' | relative_url }}">
 
   {%- comment -%}
     SoftwareApplication JSON-LD for individual extension pages. Driven entirely
@@ -208,15 +198,9 @@
           document.getElementById('nav-toggle').checked = false;
         });
       });
-      var html = document.documentElement;
-      var btn = document.getElementById('theme-toggle');
-      btn.addEventListener('click', function () {
-        var isLight = html.getAttribute('data-theme') === 'light';
-        if (isLight) { html.removeAttribute('data-theme'); localStorage.setItem('theme', 'dark'); }
-        else { html.setAttribute('data-theme', 'light'); localStorage.setItem('theme', 'light'); }
-      });
     })();
   </script>
 
+  <script src="{{ '/assets/js/theme.js' | relative_url }}" defer></script>
 </body>
 </html>

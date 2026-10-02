@@ -1,0 +1,74 @@
+/* ════════════════════════════════════════════════════════════════════
+   themes.css - site-wide color themes (every layout loads this LAST)
+
+   Two attributes on <html> drive everything:
+     data-theme="light"   light mode (the site default); absent = dark
+     data-accent="..."    accent palette for the current mode
+       light: teal (default) · indigo · terracotta
+       dark:  teal (default) · violet · amber
+
+   Every page already colors itself through the same --lime* variables, so a
+   theme only has to redefine those. Selectors carry two attributes, which
+   outranks the base :root / [data-theme="light"] definitions.
+   To add a palette: copy one block, change the 7 values, add a swatch in
+   assets/js/theme.js.
+   ════════════════════════════════════════════════════════════════════ */
+
+/* ── Light accents ─────────────────────────────────────────────────── */
+[data-theme="light"][data-accent="indigo"] {
+  --lime: #3b4ccf; --lime-dark: #2c3aa6;
+  --lime-glow: rgba(59,76,207,.12); --lime-mid: rgba(59,76,207,.25); --lime-low: rgba(59,76,207,.08);
+  --lime-dim: rgba(59,76,207,.04); --lime-line: rgba(59,76,207,.3);
+}
+[data-theme="light"][data-accent="terracotta"] {
+  --lime: #b4532a; --lime-dark: #8f3f1e;
+  --lime-glow: rgba(180,83,42,.12); --lime-mid: rgba(180,83,42,.25); --lime-low: rgba(180,83,42,.08);
+  --lime-dim: rgba(180,83,42,.04); --lime-line: rgba(180,83,42,.3);
+}
+
+/* ── Dark accents ──────────────────────────────────────────────────── */
+:root:not([data-theme="light"])[data-accent="violet"] {
+  --lime: #a78bfa; --lime-dark: #6d4fd1;
+  --lime-glow: rgba(167,139,250,.15); --lime-mid: rgba(167,139,250,.25); --lime-low: rgba(167,139,250,.08);
+  --lime-dim: rgba(167,139,250,.04); --lime-line: rgba(167,139,250,.3);
+}
+:root:not([data-theme="light"])[data-accent="amber"] {
+  --lime: #f5b041; --lime-dark: #9a5b0b;
+  --lime-glow: rgba(245,176,65,.15); --lime-mid: rgba(245,176,65,.25); --lime-low: rgba(245,176,65,.08);
+  --lime-dim: rgba(245,176,65,.04); --lime-line: rgba(245,176,65,.3);
+}
+
+/* Buttons whose hover color was hard-coded teal follow the accent. */
+[data-accent] .nav-cta:hover { background: var(--lime-dark) !important; filter: brightness(.88); }
+
+/* ── Theme picker (opened from the round toggle, bottom-right) ─────── */
+.theme-menu {
+  position: fixed; right: 1.8rem; bottom: 5.2rem; z-index: 650;
+  width: 232px; padding: .9rem; border-radius: 10px;
+  background: var(--card-bg); border: 1px solid var(--border2, var(--border));
+  box-shadow: 0 14px 40px rgba(0,0,0,.28);
+  font-family: 'JetBrains Mono', monospace; color: var(--text);
+  opacity: 0; transform: translateY(6px) scale(.98); pointer-events: none;
+  transition: opacity .18s, transform .18s;
+}
+.theme-menu.open { opacity: 1; transform: none; pointer-events: all; }
+.theme-menu-label { font-size: .56rem; letter-spacing: .14em; text-transform: uppercase; color: var(--muted); margin: 0 0 .5rem; }
+.theme-modes { display: grid; grid-template-columns: 1fr 1fr; gap: .3rem; padding: .25rem; border-radius: 8px; background: var(--surface); margin-bottom: .9rem; }
+.theme-modes button {
+  font: inherit; font-size: .62rem; letter-spacing: .08em; text-transform: uppercase; cursor: pointer;
+  border: 0; border-radius: 6px; padding: .5rem 0; background: transparent; color: var(--muted);
+}
+.theme-modes button[aria-pressed="true"] { background: var(--lime-low); color: var(--text); box-shadow: inset 0 0 0 1px var(--lime-line); }
+.theme-swatches { display: grid; grid-template-columns: repeat(3, 1fr); gap: .5rem; }
+.theme-swatches button {
+  font: inherit; font-size: .52rem; letter-spacing: .06em; text-transform: uppercase; color: var(--muted);
+  display: flex; flex-direction: column; align-items: center; gap: .35rem;
+  background: transparent; border: 1px solid transparent; border-radius: 8px; padding: .45rem .2rem; cursor: pointer;
+}
+.theme-swatches button:hover { border-color: var(--border); }
+.theme-swatches button[aria-pressed="true"] { border-color: var(--lime); color: var(--text); }
+.theme-swatches i { width: 26px; height: 26px; border-radius: 50%; background: var(--sw); box-shadow: inset 0 0 0 2px rgba(255,255,255,.18); }
+.theme-swatches button[aria-pressed="true"] i { box-shadow: 0 0 0 2px var(--card-bg), 0 0 0 4px var(--sw); }
+#theme-toggle[aria-expanded="true"] { border-color: var(--lime); }
+@media (hover: none), (pointer: coarse) { .theme-menu { right: 1.2rem; bottom: 4.6rem; } }
+@media print { .theme-menu { display: none !important; } }

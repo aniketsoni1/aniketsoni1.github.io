@@ -2,6 +2,9 @@
 <html lang="en" prefix="og: https://ogp.me/ns#">
 <head>
 <meta charset="UTF-8">
+<!-- Theme: light by default; saved mode + accent applied before first paint
+     (assets/js/theme.js builds the picker). Same keys on every page. -->
+<script>(function(){var r=document.documentElement,t='light',a='teal';try{t=localStorage.getItem('theme')||'light';a=localStorage.getItem('accent-'+t)||'teal';}catch(e){}if(t==='light'){r.setAttribute('data-theme','light');}r.setAttribute('data-accent',a);})();</script>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
@@ -439,8 +442,8 @@ nav.scrolled{
   text-decoration:none;font-weight:500;
   transition:all 0.2s;
 }
-.nav-cta:hover{background:#005f5f;color:#fff}
-[data-theme="light"] .nav-cta:hover{background:#004848}
+.nav-cta:hover{background:var(--lime-dark);filter:brightness(.88);color:#fff}
+
 .nav-dot{
   width:7px;height:7px;border-radius:50%;
   background:var(--lime);
@@ -871,11 +874,11 @@ h2.sec-title{
 .proj-card:hover::after{opacity:1}
 .proj-num{
   font-family:'Bebas Neue',sans-serif;font-size:4rem;
-  color:rgba(0,158,158,0.08);
+  color:var(--lime-low);
   position:absolute;top:0.5rem;right:1rem;
   line-height:1;pointer-events:none;transition:color 0.3s;
 }
-.proj-card:hover .proj-num{color:rgba(0,158,158,0.14)}
+.proj-card:hover .proj-num{color:var(--lime-mid)}
 .proj-cat{
   font-family:'JetBrains Mono',monospace;
   font-size:0.58rem;letter-spacing:0.14em;text-transform:uppercase;
@@ -1300,7 +1303,7 @@ footer{
 [data-theme="light"] .exp-bullet{color:#666}
 [data-theme="light"] .press-desc{color:#666}
 [data-theme="light"] .ieee-desc{color:#666}
-[data-theme="light"] .pub-table tbody tr:hover{background:rgba(0,114,114,0.04)}
+[data-theme="light"] .pub-table tbody tr:hover{background:var(--lime-dim)}
 [data-theme="light"] .press-card:hover{border-color:rgba(0,136,170,0.35)}
 [data-theme="light"] .btn-lime{color:#fff}
 [data-theme="light"] .nav-cta{color:#fff}
@@ -1577,7 +1580,7 @@ body,nav,.bento,.exp-card,.proj-card,.press-card,.award-tile,.role-card,.edu-car
 .judging-name{font-size:0.85rem;font-weight:500;color:var(--text);margin-bottom:0.3rem;line-height:1.3}
 .judging-context{font-size:0.75rem;color:var(--muted);line-height:1.5}
 .speaking-card{
-  background:linear-gradient(135deg,var(--card-bg),rgba(0,158,158,0.04));
+  background:linear-gradient(135deg,var(--card-bg),var(--lime-dim));
   border:1px solid var(--lime-line);border-radius:6px;padding:1.5rem;margin-bottom:1rem;
 }
 .speaking-event{
@@ -1866,6 +1869,7 @@ tr.pub-row[data-href]:hover .pub-doi { color: var(--lime); }
 /* ieee bento without the badge - remove the row flex and just show text */
 .bento-ieee .ieee-desc { font-size:0.78rem; color:var(--muted); line-height:1.6; }
 </style>
+<link rel="stylesheet" href="/assets/css/themes.css">
 </head>
 <body>
 
@@ -2762,7 +2766,7 @@ tr.pub-row[data-href]:hover .pub-doi { color: var(--lime); }
           <div class="press-img-bg" aria-hidden="true"><span class="press-img-wm">DOD</span></div>
         </div>
         <div class="press-pub">
-          <div class="press-pub-monogram" style="background:rgba(0,158,158,0.12);color:var(--lime)">DD</div>
+          <div class="press-pub-monogram" style="background:var(--lime-low);color:var(--lime)">DD</div>
           <div class="press-pub-name">DEVOPSdigest</div>
           <div class="press-pub-type">Expert Byline</div>
         </div>
@@ -3532,20 +3536,7 @@ document.querySelectorAll('.pub-filter-btn').forEach(btn => {
   btn.addEventListener('click', () => window.scrollTo({top:0, behavior:'smooth'}));
 })();
 
-// ── THEME TOGGLE ──
-(function() {
-  const html = document.documentElement;
-  const btn  = document.getElementById('theme-toggle');
-  const stored = localStorage.getItem('theme');
-  const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
-  const initial = stored || (prefersDark ? 'dark' : 'light');
-  if (initial === 'light') html.setAttribute('data-theme', 'light');
-  btn.addEventListener('click', () => {
-    const isLight = html.getAttribute('data-theme') === 'light';
-    if (isLight) { html.removeAttribute('data-theme'); localStorage.setItem('theme','dark'); }
-    else { html.setAttribute('data-theme','light'); localStorage.setItem('theme','light'); }
-  });
-})();
+// ── THEME: handled site-wide by /assets/js/theme.js ──
 
 // ── PUBLICATION ROW CLICK ──
 document.querySelectorAll('tr.pub-row[data-href]').forEach(row => {
@@ -3617,5 +3608,6 @@ document.querySelectorAll('.pipe-item').forEach(item => {
 });
 </script>
 
+<script src="/assets/js/theme.js" defer></script>
 </body>
 </html>
