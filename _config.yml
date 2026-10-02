@@ -54,7 +54,7 @@ social:
 #                visitor counts on your website" to be ON in the GoatCounter settings.
 #   ga4:         GA4 measurement ID (G-XXXXXXXXXX) - private dashboard only.
 analytics:
-  goatcounter: ""
+  goatcounter: "aniketsoni"   # dashboard: https://aniketsoni.goatcounter.com
   ga4: ""
 
 # ── Blog build behaviour ──
