@@ -125,7 +125,7 @@
       <li><a href="{{ '/' | absolute_url }}">Home</a></li>
       <li><a href="#pf-overview">Overview</a></li>
       <li><a href="#publications">Research</a></li>
-      <li><a href="#pf-timeline">Timeline</a></li>
+      <li><a href="#timeline">Timeline</a></li>
       <li><a href="{{ '/blog/' | relative_url }}">The Signal</a></li>
       <li><a href="{{ '/#contact' | absolute_url }}" class="nav-cta">Connect</a></li>
     </ul>
@@ -186,7 +186,7 @@
           {%- if s.key == 'judging' %}<span class="pf-ov-extra">+ {{ P.peer_review.total }} peer reviews</span>{% endif %}
         </a>
         {%- endfor %}
-        <a class="pf-ov-card pf-ov-tl" href="#pf-timeline">
+        <a class="pf-ov-card pf-ov-tl" href="#timeline">
           <span class="pf-ov-num">{{ page.timeline.num }}</span>
           <span class="pf-ov-title">{{ page.timeline.title }}</span>
           <span class="pf-ov-count">{{ grand }} <small>milestones</small></span>
@@ -194,6 +194,8 @@
         </a>
       </div>
     </section>
+
+    <p class="pf-route-hint" hidden>Select a category above to open it here, or search across everything.</p>
 
     <!-- ══ Filter bar (progressive enhancement; everything is visible without JS) ══ -->
     <div class="pf-filter" role="search" hidden>
@@ -260,12 +262,12 @@
     {%- endfor %}
 
     <!-- ══ Achievement Timeline (server-rendered from the same data) ══ -->
-    <section id="pf-timeline" class="pf-section" aria-labelledby="pf-timeline-h">
+    <section id="timeline" class="pf-section" aria-labelledby="pf-timeline-h">
       <div class="pf-sec-head">
         <span class="pf-sec-num">{{ page.timeline.num }}</span>
         <div>
           <h2 id="pf-timeline-h" class="pf-h2">{{ page.timeline.title }}</h2>
-          <p class="pf-lede">Every dated milestone above, year by year: continuous and escalating recognition from {{ ymin }} to {{ ymax }}.</p>
+          <p class="pf-lede">Every dated milestone across all ten categories, year by year: continuous and escalating recognition from {{ ymin }} to {{ ymax }}.</p>
         </div>
       </div>
 
@@ -277,14 +279,14 @@
       </div>
 
       <!-- Activity by year, stacked by category -->
-      <figure class="pf-chart" aria-label="Achievement activity by year">
+      <figure class="pf-chart" aria-label="Achievement activity by year. Hover or focus a colored segment for details; click it to open that year below.">
         <div class="pf-chart-cols">
           {%- for y in (ymin..ymax) %}
             {%- assign c = 0 -%}
             {%- for g in page.tl_groups -%}{%- for src in g.sources -%}{%- assign hits = P[src] | where: "year", y -%}{%- assign c = c | plus: hits.size -%}{%- endfor -%}{%- endfor -%}
             {%- assign pr = P.peer_review.venues | where: "year", y -%}{%- if pr.size > 0 %}{% assign c = c | plus: 1 %}{% endif -%}
             {%- if c > 0 %}
-            <a class="pf-chart-col" href="#tl-{{ y }}" title="{{ y }}: {{ c }} milestones">
+            <div class="pf-chart-col" data-y="{{ y }}" title="{{ y }}: {{ c }} milestones">
               <span class="pf-chart-area"><span class="pf-bar" style="height:{{ c | times: 100 | divided_by: peak }}%">
               <span class="pf-chart-n">{{ c }}</span>
               <span class="pf-chart-stack">
@@ -292,15 +294,16 @@
                   {%- assign gc = 0 -%}
                   {%- for src in g.sources -%}{%- assign hits = P[src] | where: "year", y -%}{%- assign gc = gc | plus: hits.size -%}{%- endfor -%}
                   {%- if g.key == 'judging' and pr.size > 0 %}{% assign gc = gc | plus: 1 %}{% endif -%}
-                  {%- if gc > 0 %}<span class="pf-seg g-{{ g.key }}" data-g="{{ g.key }}" style="flex-grow:{{ gc }}"></span>{% endif -%}
+                  {%- if gc > 0 %}<button type="button" class="pf-seg g-{{ g.key }}" data-g="{{ g.key }}" data-y="{{ y }}" data-n="{{ gc }}" data-label="{{ g.label }}" style="flex-grow:{{ gc }}" aria-label="{{ y }} · {{ g.label }}: {{ gc }}"></button>{% endif -%}
                 {%- endfor -%}
               </span>
               </span></span>
-              <span class="pf-chart-y">{{ y }}</span>
-            </a>
+              <a class="pf-chart-y" href="#tl-{{ y }}">{{ y }}</a>
+            </div>
             {%- endif %}
           {%- endfor %}
         </div>
+        <div class="pf-tip" role="tooltip" hidden></div>
         <figcaption class="pf-legend">
           {%- for g in page.tl_groups %}<span><i class="g-{{ g.key }}"></i>{{ g.label }}</span>{% endfor %}
         </figcaption>
@@ -340,11 +343,11 @@
                   {%- assign hits = P[src] | where: "year", y -%}
                   {%- for it in hits %}
                   {%- assign note = it.year_notes[y] -%}
-                  <li data-g="{{ g.key }}"><a href="#{{ g.anchor }}"><span class="pf-chip g-{{ g.key }}">{{ g.label }}</span> <strong>{{ it.title }}</strong>{% if it.org %} <em>· {{ it.org }}</em>{% endif %}{% if note %} <small>{{ note }}</small>{% elsif it.date %} <small>{{ it.date }}</small>{% endif %}</a></li>
+                  <li data-g="{{ g.key }}" data-y="{{ y }}"><a href="#{{ g.anchor }}"><span class="pf-chip g-{{ g.key }}">{{ g.label }}</span> <strong>{{ it.title }}</strong>{% if it.org %} <em>· {{ it.org }}</em>{% endif %}{% if note %} <small>{{ note }}</small>{% elsif it.date %} <small>{{ it.date }}</small>{% endif %}</a></li>
                   {%- endfor -%}
                 {%- endfor -%}
                 {%- if g.key == 'judging' and pr.size > 0 %}
-                  <li data-g="judging"><a href="#judging"><span class="pf-chip g-judging">{{ g.label }}</span> <strong>Peer reviewer · {{ pr.size }} venues</strong> <em>· {{ pr | map: "name" | join: ", " }}</em> <small>{{ P.peer_review.total }} documented reviews</small></a></li>
+                  <li data-g="judging" data-y="{{ y }}"><a href="#judging"><span class="pf-chip g-judging">{{ g.label }}</span> <strong>Peer reviewer · {{ pr.size }} venues</strong> <em>· {{ pr | map: "name" | join: ", " }}</em> <small>{{ P.peer_review.total }} documented reviews</small></a></li>
                 {%- endif -%}
               {%- endfor %}
             </ul>
@@ -412,36 +415,69 @@
       window.addEventListener('scroll', function () { top.classList.toggle('visible', window.scrollY > 400); }, { passive: true });
       top.addEventListener('click', function () { window.scrollTo({ top: 0, behavior: 'smooth' }); });
 
+
+      // ── Category view: /profile/#awards opens only that category below the
+      // overview. All sections stay in the HTML (crawlers, print, no-JS); this
+      // only changes what is on screen.
+      var sections = Array.prototype.slice.call(document.querySelectorAll('.pf-section'));
+      var ovCards = Array.prototype.slice.call(document.querySelectorAll('.pf-ov-card'));
+      var hint = document.querySelector('.pf-route-hint');
+      document.body.classList.add('pf-routed');
+      sections.forEach(function (sec, i) {
+        var head = document.createElement('a');
+        head.href = '#pf-overview'; head.className = 'pf-back'; head.textContent = '← All categories';
+        sec.insertBefore(head, sec.firstChild);
+        var nav = document.createElement('nav');
+        nav.className = 'pf-secnav'; nav.setAttribute('aria-label', 'Category navigation');
+        var prev = sections[i - 1], next = sections[i + 1];
+        var title = function (x) { var h = x.querySelector('.pf-h2'); return h ? h.textContent : x.id; };
+        nav.innerHTML = (prev ? '<a href="#' + prev.id + '">← ' + title(prev) + '</a>' : '<span></span>') +
+                        '<a href="#pf-overview">All categories</a>' +
+                        (next ? '<a href="#' + next.id + '">' + title(next) + ' →</a>' : '<span></span>');
+        sec.appendChild(nav);
+      });
+      function route(scroll) {
+        if (document.body.classList.contains('pf-searching')) return;
+        var id = decodeURIComponent(location.hash.slice(1));
+        var el = id ? document.getElementById(id) : null;
+        var sec = el ? (el.classList.contains('pf-section') ? el : el.closest('.pf-section')) : null;
+        sections.forEach(function (x) { x.classList.toggle('is-active', x === sec); });
+        ovCards.forEach(function (c) { c.classList.toggle('is-active', !!sec && c.getAttribute('href') === '#' + sec.id); });
+        hint.hidden = !!sec;
+        if (el && el.tagName === 'DETAILS') el.open = true;
+        if (scroll && el) el.scrollIntoView({ behavior: 'smooth', block: 'start' });
+      }
+      window.addEventListener('hashchange', function () { route(true); });
+      route(!!location.hash);
+
       // Search: hides non-matching cards and empty sections. Content stays in
       // the HTML for crawlers; this only changes visibility for readers.
       var bar = document.querySelector('.pf-filter');
       var q = document.getElementById('pf-q');
       var out = bar.querySelector('.pf-filter-count');
-      var cards = Array.prototype.slice.call(document.querySelectorAll('.pf-section:not(#pf-timeline) .pf-card, .pf-table tbody tr'));
+      var cards = Array.prototype.slice.call(document.querySelectorAll('.pf-section:not(#timeline) .pf-card, .pf-table tbody tr'));
       bar.hidden = false;
       q.addEventListener('input', function () {
         var t = q.value.trim().toLowerCase(), shown = 0;
+        document.body.classList.toggle('pf-searching', !!t);
         cards.forEach(function (c) {
           var hit = !t || c.textContent.toLowerCase().indexOf(t) !== -1;
           c.style.display = hit ? '' : 'none';
           if (hit) shown++;
         });
-        document.querySelectorAll('.pf-section:not(#pf-timeline)').forEach(function (sec) {
+        document.querySelectorAll('.pf-section:not(#timeline)').forEach(function (sec) {
           var any = Array.prototype.some.call(sec.querySelectorAll('.pf-card, .pf-table tbody tr'), function (c) { return c.style.display !== 'none'; });
           sec.style.display = any ? '' : 'none';
         });
         out.textContent = t ? shown + ' match' + (shown === 1 ? '' : 'es') : '';
+        if (!t) { document.querySelectorAll('.pf-section').forEach(function (x) { x.style.display = ''; }); route(false); }
       });
 
       // Timeline category filter: chips toggle list rows, hide empty years and
       // fade chart segments of other categories.
       var tf = document.querySelector('.pf-tl-filter');
-      if (tf) {
-        tf.hidden = false;
-        tf.addEventListener('click', function (e) {
-          var b = e.target.closest('button'); if (!b) return;
-          var g = b.getAttribute('data-g');
-          tf.querySelectorAll('button').forEach(function (x) { x.classList.toggle('is-on', x === b); });
+      function tlFilter(g) {
+          tf.querySelectorAll('button').forEach(function (x) { x.classList.toggle('is-on', x.getAttribute('data-g') === g); });
           document.querySelectorAll('.pf-tl-list li').forEach(function (li) {
             li.style.display = (g === 'all' || li.getAttribute('data-g') === g) ? '' : 'none';
           });
@@ -452,6 +488,55 @@
           });
           document.querySelectorAll('.pf-seg').forEach(function (sg) {
             sg.style.opacity = (g === 'all' || sg.getAttribute('data-g') === g) ? '' : '0.15';
+          });
+      }
+      if (tf) {
+        tf.hidden = false;
+        tf.addEventListener('click', function (e) {
+          var b = e.target.closest('button'); if (b) tlFilter(b.getAttribute('data-g'));
+        });
+      }
+
+      // ── Interactive chart: tooltip on hover/focus, click opens the year ──
+      var chart = document.querySelector('.pf-chart');
+      var tip = chart && chart.querySelector('.pf-tip');
+      function esc(t) { return t.replace(/[&<>"]/g, function (c) { return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]; }); }
+      function showTip(seg) {
+        var g = seg.getAttribute('data-g'), y = seg.getAttribute('data-y');
+        var rows = document.querySelectorAll('.pf-tl-list li[data-g="' + g + '"][data-y="' + y + '"]');
+        var html = '<div class="pf-tip-h"><span class="pf-tip-dot g-' + g + '"></span>' + y + ' · ' + esc(seg.getAttribute('data-label')) +
+                   ' <b>' + seg.getAttribute('data-n') + '</b></div><ul>';
+        Array.prototype.slice.call(rows, 0, 6).forEach(function (li) {
+          var t = li.querySelector('strong'), em = li.querySelector('em'), sm = li.querySelector('small');
+          html += '<li>' + esc(t ? t.textContent : '') + (em ? '<span class="pf-tip-org"> ' + esc(em.textContent) + '</span>' : '') +
+                  (sm ? '<small>' + esc(sm.textContent) + '</small>' : '') + '</li>';
+        });
+        if (rows.length > 6) html += '<li class="pf-tip-more">+ ' + (rows.length - 6) + ' more</li>';
+        html += '</ul><div class="pf-tip-f">Click to open ' + y + ' below</div>';
+        tip.innerHTML = html; tip.hidden = false;
+        var cr = chart.getBoundingClientRect(), sr = seg.getBoundingClientRect();
+        var w = tip.offsetWidth, h = tip.offsetHeight;
+        var left = Math.min(Math.max(sr.left - cr.left + sr.width / 2 - w / 2, 8), cr.width - w - 8);
+        var topPx = sr.top - cr.top - h - 10;
+        if (topPx < 4) topPx = sr.bottom - cr.top + 10;
+        tip.style.left = left + 'px'; tip.style.top = topPx + 'px';
+        chart.querySelectorAll('.pf-seg').forEach(function (x) { x.classList.toggle('is-dim', x !== seg); });
+      }
+      function hideTip() {
+        if (!tip) return; tip.hidden = true;
+        chart.querySelectorAll('.pf-seg').forEach(function (x) { x.classList.remove('is-dim'); });
+      }
+      if (chart) {
+        chart.querySelectorAll('.pf-seg').forEach(function (seg) {
+          seg.addEventListener('mouseenter', function () { showTip(seg); });
+          seg.addEventListener('focus', function () { showTip(seg); });
+          seg.addEventListener('mouseleave', hideTip);
+          seg.addEventListener('blur', hideTip);
+          seg.addEventListener('click', function () {
+            hideTip();
+            tlFilter(seg.getAttribute('data-g'));
+            var yr = document.getElementById('tl-' + seg.getAttribute('data-y'));
+            if (yr) { yr.open = true; yr.scrollIntoView({ behavior: 'smooth', block: 'start' }); }
           });
         });
       }
