@@ -56,7 +56,7 @@
       "additionalName": "Abhishek",
       "familyName": "Soni",
       "jobTitle": "Senior Data Engineer",
-      "description": "Senior Data Engineer with 7+ years of experience designing enterprise-scale ETL pipelines, AI-powered analytics systems, and cloud-native data infrastructure at Cognizant Technology Solutions. Published author of 2 books and 20+ peer-reviewed papers in AI, data engineering, distributed systems, and geospatial analytics, with 138+ citations. International speaker, judge at MIT 100k, SIIA Neal Awards, and IEEE conferences, and recipient of the AFCEA 40 Under Forty Award (2024) and Channel Co. Computing Rising Stars 30 (2025). Senior Member of IEEE (SMIEEE). Mentor to engineers across three continents.",
+      "description": "Senior Data Engineer with 7+ years of experience designing enterprise-scale ETL pipelines, AI-powered analytics systems, and cloud-native data infrastructure at Cognizant Technology Solutions. Published author of 2 books and 20+ peer-reviewed papers in AI, data engineering, distributed systems, and geospatial analytics, with {{ site.data.profile.stats.citations_rg }} citations. International speaker, judge at MIT 100k, SIIA Neal Awards, and IEEE conferences, and recipient of the AFCEA 40 Under Forty Award (2024) and Channel Co. Computing Rising Stars 30 (2025). Senior Member of IEEE (SMIEEE). Mentor to engineers across three continents.",
       "url": "https://aniketsoni.com",
       "image": {
         "@type": "ImageObject",
@@ -232,9 +232,15 @@
       "@type": "Book",
       "@id": "https://aniketsoni.com/#book-scalable-infra",
       "name": "Scalable Infrastructure: Building Reliable Distributed Systems",
-      "author": {
-        "@id": "https://aniketsoni.com/#person"
-      },
+      "author": [
+        {
+          "@id": "https://aniketsoni.com/#person"
+        },
+        {
+          "@type": "Person",
+          "name": "Akaash Vishal Hazarika"
+        }
+      ],
       "publisher": {
         "@type": "Organization",
         "name": "BP International"
@@ -1954,12 +1960,12 @@ tr.pub-row[data-href]:hover .pub-doi { color: var(--lime); }
       <div class="status-row">
         <div class="status-dot" aria-hidden="true"></div>
         <span class="status-text">Published Papers</span>
-        <span class="status-val">20+ peer-reviewed</span>
+        <span class="status-val">{{ site.data.profile.stats.papers }} peer-reviewed</span>
       </div>
       <div class="status-row">
         <div class="status-dot" aria-hidden="true"></div>
         <span class="status-text">Citations</span>
-        <span class="status-val">138+ (RG) · 109 (Scholar)</span>
+        <span class="status-val">{{ site.data.profile.stats.citations_rg }} (RG) · {{ site.data.profile.stats.citations_scholar }} (Scholar)</span>
       </div>
     </div>
 
@@ -1989,7 +1995,7 @@ tr.pub-row[data-href]:hover .pub-doi { color: var(--lime); }
 
     <!-- IEEE bento - brief, full list in Recognition section -->
     <div class="bento bento-ieee">
-      <div class="ieee-desc">Senior Member IEEE (SMIEEE) · Fellow SCRS · Royal Fellow IOASD · Life Member CSI · Upsilon Pi Epsilon · Sigma Xi Affiliate · GDG New York · 20+ peer reviews · IEEE Day 2025 Ambassador</div>
+      <div class="ieee-desc">Senior Member IEEE (SMIEEE) · Fellow SCRS · Royal Fellow IOASD · Life Member CSI · Upsilon Pi Epsilon · Sigma Xi Affiliate · GDG New York · {{ site.data.profile.stats.peer_reviews }} peer reviews · IEEE Day 2025 Ambassador</div>
     </div>
 
     <!-- Currently Working On -->
@@ -1998,7 +2004,7 @@ tr.pub-row[data-href]:hover .pub-doi { color: var(--lime); }
       <div class="current-items">
         <div class="current-item">New: AI-Enabled Serverless Engineering - Technical Press, 2026 (co-authored)</div>
         <div class="current-item">Book chapter - Wiley-Scrivener, Digital Twins &amp; GenAI (in press)</div>
-        <div class="current-item">138+ citations (RG) · 109 (Scholar) · h-index: 4</div>
+        <div class="current-item">{{ site.data.profile.stats.citations_rg }} citations (RG) · {{ site.data.profile.stats.citations_scholar }} (Scholar) · h-index {{ site.data.profile.stats.h_scholar }} (Scholar) / {{ site.data.profile.stats.h_rg }} (RG)</div>
       </div>
     </div>
 
@@ -2014,7 +2020,7 @@ tr.pub-row[data-href]:hover .pub-doi { color: var(--lime); }
         <span class="ticker-item"><strong>Judge</strong>MLH Hackathons 2025</span>
         <span class="ticker-item"><strong>Published</strong>The AI Journal · Feb 2026</span>
         <span class="ticker-item"><strong>Published</strong>MedCity News · Jun 2026</span>
-        <span class="ticker-item"><strong>Citations</strong>138+ cross-indexed</span>
+        <span class="ticker-item"><strong>Citations</strong>{{ site.data.profile.stats.citations_rg }} cross-indexed</span>
         <span class="ticker-item"><strong>AFCEA</strong>40 Under Forty 2024</span>
         <span class="ticker-item"><strong>Rising Stars 30</strong>Channel Co. 2025</span>
         <span class="ticker-item"><strong>Speaker</strong>Google DevFest Bronx 2023</span>
@@ -2024,7 +2030,7 @@ tr.pub-row[data-href]:hover .pub-doi { color: var(--lime); }
         <span class="ticker-item"><strong>Judge</strong>MLH Hackathons 2025</span>
         <span class="ticker-item"><strong>Published</strong>The AI Journal · Feb 2026</span>
         <span class="ticker-item"><strong>Published</strong>MedCity News · Jun 2026</span>
-        <span class="ticker-item"><strong>Citations</strong>138+ cross-indexed</span>
+        <span class="ticker-item"><strong>Citations</strong>{{ site.data.profile.stats.citations_rg }} cross-indexed</span>
       </div>
     </div>
   </div>
@@ -2072,8 +2078,8 @@ tr.pub-row[data-href]:hover .pub-doi { color: var(--lime); }
   <div class="impact-stat"><span class="impact-num" data-counter="7">0</span><span class="impact-label">Years Experience</span></div>
   <div class="impact-stat"><span class="impact-num">10M+</span><span class="impact-label">Records / Day</span></div>
   <div class="impact-stat"><span class="impact-num">20+</span><span class="impact-label">Papers Published</span></div>
-  <div class="impact-stat"><span class="impact-num">138+</span><span class="impact-label">Citations (RG)</span></div>
-  <div class="impact-stat"><span class="impact-num">4</span><span class="impact-label">h-index</span></div>
+  <div class="impact-stat"><span class="impact-num">{{ site.data.profile.stats.citations_rg }}</span><span class="impact-label">Citations (RG)</span></div>
+  <div class="impact-stat"><span class="impact-num">{{ site.data.profile.stats.h_scholar }}</span><span class="impact-label">h-index</span></div>
   <div class="impact-stat"><span class="impact-num">3+</span><span class="impact-label">Press Features</span></div>
   <div class="impact-stat"><span class="impact-num">9+</span><span class="impact-label">Judging Roles</span></div>
   <div class="impact-stat"><span class="impact-num">150M+</span><span class="impact-label">Climate Data Points</span></div>
@@ -2087,7 +2093,7 @@ tr.pub-row[data-href]:hover .pub-doi { color: var(--lime); }
     <div class="about-grid reveal">
       <div class="about-text">
         <p>Aniket Abhishek Soni is a <strong>Senior Data Engineer</strong> based in New York with over seven years of experience designing enterprise-scale data infrastructure, AI-powered analytics systems, and cloud-native pipelines. At Cognizant Technology Solutions, he has architected solutions processing over 10 million records per day across regulated industries - building the kind of reliable, auditable, and high-performance data foundations that make AI strategies viable in the real world.</p>
-        <p>Beyond his engineering role, Aniket is an active <strong>researcher and published author</strong>. His body of work spans 20+ peer-reviewed papers across AI, data engineering, distributed systems, and geospatial analytics - including a sole-authored book published by BP International and a forthcoming book chapter with Wiley-Scrivener. His research has been cited 138+ times and is indexed on Google Scholar, ORCiD, and ResearchGate. He has presented at international conferences across Scotland, Bahrain, and online venues, contributing findings that bridge academic rigor with practical engineering impact.</p>
+        <p>Beyond his engineering role, Aniket is an active <strong>researcher and published author</strong>. His body of work spans {{ site.data.profile.stats.papers }} peer-reviewed papers across AI, data engineering, distributed systems, and geospatial analytics - including two co-authored books (BP International and Technical Press), a book chapter with Wiley-Scrivener, and a published US patent application. His research has been cited {{ site.data.profile.stats.citations_rg }} times and is indexed on Google Scholar, ORCiD, and ResearchGate. He has presented at international conferences across Scotland, Bahrain, and online venues, contributing findings that bridge academic rigor with practical engineering impact.</p>
         <p>Aniket also brings a distinctive lens through his work with <strong>climate technology</strong>. As a Research Analyst at Climate Change Xplorers, he analyzed over 150 million global data points to identify optimal locations for IoT weather station deployment - a project that combined geospatial modeling, machine learning, and big data integration in service of global climate action.</p>
         <p>Recognized internationally for sustained contributions to the technology community, Aniket serves as a <strong>judge, peer reviewer, speaker, and mentor</strong>. He has evaluated work at MIT, IEEE conferences, the SIIA Neal Awards, and Major League Hacking - roles that place him among the small group of professionals called upon to assess the work of their peers. He mentors emerging engineers across three continents through FEA India, ENGin Ukraine, and TopMate.io.</p>
       </div>
@@ -2489,7 +2495,7 @@ tr.pub-row[data-href]:hover .pub-doi { color: var(--lime); }
           <span class="book-badge">📖 Published Book · 2025</span>
           <div class="book-title">Scalable Infrastructure: Building Reliable Distributed Systems</div>
           <div class="book-meta">BP International · ISBN 978-93-49970-00-7 · DOI 10.9734/bpi</div>
-          <div class="book-meta">Sole author · Computer Science · Distributed Systems</div>
+          <div class="book-meta">Co-author (with Akaash Vishal Hazarika) · Computer Science · Distributed Systems</div>
           <div class="book-cta-row">
             <span class="book-cta-btn">View Publication ↗</span>
             <a href="https://openlibrary.org/works/OL45568655W/Scalable_Infrastructure" target="_blank" rel="noopener noreferrer" class="book-cta-btn" onclick="event.stopPropagation()">OpenLibrary ↗</a>
@@ -2515,6 +2521,23 @@ tr.pub-row[data-href]:hover .pub-doi { color: var(--lime); }
         </div>
       </a>
     </div>
+    {%- comment -%} Patents & registered designs - from _data/profile.yml (contributions). {%- endcomment -%}
+    {%- assign ip = "" | split: "" -%}
+    {%- for c in site.data.profile.contributions -%}
+      {%- if c.kind contains "patent" or c.kind contains "design" -%}{%- assign ip = ip | push: c -%}{%- endif -%}
+    {%- endfor %}
+    {%- if ip.size > 0 %}
+    <div class="pub-ip-label" style="font-family:'JetBrains Mono',monospace;font-size:0.6rem;letter-spacing:0.18em;text-transform:uppercase;color:var(--muted);margin:2.2rem 0 1rem">Patents &amp; Registered Designs</div>
+    <div class="judging-grid" style="margin-bottom:2.5rem">
+      {%- for c in ip %}
+      <div class="judging-card">
+        <div class="judging-type">{{ c.kind }} · {{ c.role }}</div>
+        <div class="judging-name">{% if c.evidence %}<a href="{{ c.evidence[0].url }}" target="_blank" rel="noopener noreferrer" style="color:inherit">{{ c.title }} ↗</a>{% else %}{{ c.title }}{% endif %}</div>
+        <div class="judging-context">{{ c.org }} · {{ c.date }}</div>
+      </div>
+      {%- endfor %}
+    </div>
+    {%- endif %}
     <div class="pub-filter-wrap" role="group" aria-label="Filter publications by type">
       <button class="pub-filter-btn active" data-filter="all">All</button>
       <button class="pub-filter-btn" data-filter="book">Books</button>
@@ -2537,7 +2560,7 @@ tr.pub-row[data-href]:hover .pub-doi { color: var(--lime); }
             <td><span class="pub-badge book">Book</span></td>
             <td>
               <div class="pub-title">Scalable Infrastructure: Building Reliable Distributed Systems</div>
-              <div class="pub-venue">BP International · ISBN 978-93-49970-00-7 · Sole Author</div>
+              <div class="pub-venue">BP International · ISBN 978-93-49970-00-7 · Co-author (with Akaash Vishal Hazarika)</div>
             </td>
             <td class="pub-year">2025</td>
             <td><span class="pub-doi">10.9734/bpi ↗</span></td>
@@ -2872,109 +2895,86 @@ tr.pub-row[data-href]:hover .pub-doi { color: var(--lime); }
   </div>
 </section>
 <section id="recognition" class="section" aria-label="Awards and recognition">
+  {%- comment -%}
+    Generated from _data/profile.yml (the same data as /profile/), so the
+    homepage and the profile can never disagree. Edit the data file, not this.
+  {%- endcomment -%}
+  {%- assign P = site.data.profile -%}
   <div class="section-inner">
     <div class="sec-eyebrow">Awards &amp; Community</div>
     <h2 class="sec-title">Recognition</h2>
 
     <!-- Awards -->
     <div class="awards-bento reveal reveal-stagger" aria-label="Professional awards">
-      <div class="award-tile reveal" style="--i:0">
-        <div class="award-yr">2025</div>
-        <div class="award-n">Rising Stars 30</div>
-        <div class="award-org">The Channel Co. Computing</div>
+      {%- for a in P.awards %}
+      <div class="award-tile reveal" style="--i:{{ forloop.index0 }}">
+        <div class="award-yr">{{ a.year }}</div>
+        <div class="award-n">{{ a.title }}</div>
+        <div class="award-org">{{ a.org_short | default: a.org }}</div>
       </div>
-      <div class="award-tile reveal" style="--i:1">
-        <div class="award-yr">2024</div>
-        <div class="award-n">40 Under Forty</div>
-        <div class="award-org">AFCEA</div>
-      </div>
-      <div class="award-tile reveal" style="--i:2">
-        <div class="award-yr">2023</div>
-        <div class="award-n">Young Achievers' Award</div>
-        <div class="award-org">Indian Achievers' Forum</div>
-      </div>
-      <div class="award-tile reveal" style="--i:3">
-        <div class="award-yr">2022</div>
-        <div class="award-n">Cheers Award</div>
-        <div class="award-org">Cognizant</div>
-      </div>
+      {%- endfor %}
     </div>
 
-    <!-- Speaking & Judging -->
+    <!-- Speaking -->
+    {%- assign talks = P.speaking | where: "kind", "Invited talk" %}
+    {%- if talks.size > 0 %}
     <div class="sec-eyebrow" style="margin-bottom:1rem">Speaking</div>
+    {%- for t in talks %}
     <div class="speaking-card reveal">
-      <div class="speaking-event">Google DevFest Bronx · New York · 2023</div>
-      <div class="speaking-title">"The Tech Mentor's Journey: Navigating Challenges and Shaping Futures"</div>
-      <div class="speaking-detail">Invited speaker at Google's community developer festival, addressing over 200 attendees on the role of mentorship in building the next generation of technologists. Google DevFest is one of the largest global developer event series.</div>
+      <div class="speaking-event">{{ t.org }}{% if t.location %} · {{ t.location }}{% endif %}{% if t.date %} · {{ t.date }}{% endif %}</div>
+      <div class="speaking-title">"{{ t.title }}"</div>
+      {%- if t.summary %}<div class="speaking-detail">{{ t.summary }}</div>{% endif %}
     </div>
+    {%- endfor %}
+    {%- endif %}
 
+    <!-- Judging, peer review, editorial and ambassador roles -->
     <div class="sec-eyebrow" style="margin-bottom:1rem;margin-top:2rem">Expert Judging &amp; Peer Selection</div>
     <div class="judging-grid reveal">
+      {%- for j in P.judging %}
+      {%- case j.kind -%}
+        {%- when "Startup competition" -%}{%- assign jt = "Competition Judge" -%}
+        {%- when "Hackathons" -%}{%- assign jt = "Hackathon Judge" -%}
+        {%- when "Editorial" -%}{%- assign jt = "Associate Editor" -%}
+        {%- else -%}{%- assign jt = "Industry Awards Judge" -%}
+      {%- endcase %}
       <div class="judging-card">
-        <div class="judging-type">Competition Judge</div>
-        <div class="judging-name">MIT 100k Pitch, Accelerate &amp; Launch</div>
-        <div class="judging-context">One of the world's most prestigious startup competitions, hosted annually at MIT. Evaluated venture pitches, business models, and technical feasibility of early-stage companies.</div>
+        <div class="judging-type">{{ jt }}</div>
+        <div class="judging-name">{{ j.org }}{% if j.date %} ({{ j.date }}){% endif %}</div>
+        <div class="judging-context">{{ j.summary }}</div>
       </div>
-      <div class="judging-card">
-        <div class="judging-type">Industry Awards Judge</div>
-        <div class="judging-name">SIIA Jesse H. Neal Awards (2024, 2025, 2026)</div>
-        <div class="judging-context">The "Pulitzers of Business Media," evaluating editorial excellence across specialized media and information industry content. Three consecutive years of selection as a judge.</div>
-      </div>
-      <div class="judging-card">
-        <div class="judging-type">Hackathon Judge</div>
-        <div class="judging-name">Major League Hacking (MLH) 2025</div>
-        <div class="judging-context">Evaluated technical projects at multiple MLH hackathons: Open Source, Web3Apps, AI Hackfest, and SummerCodex. MLH is the official student hackathon league, hosting 200+ events globally per year.</div>
-      </div>
+      {%- endfor %}
       <div class="judging-card">
         <div class="judging-type">IEEE Peer Reviewer</div>
-        <div class="judging-name">20+ Reviews Across 8 IEEE Conferences</div>
-        <div class="judging-context">Peer review for ICETEG, RCAAI, ICoMMS, AGRETA, ISWTA, NMITCON, SSITCON, PuneCon (2025), and JMIR via PreReview.org - evaluating submitted research for technical rigor and academic contribution.</div>
+        <div class="judging-name">{{ P.stats.peer_reviews }} Reviews Across {{ P.stats.peer_venues }} IEEE Conferences</div>
+        <div class="judging-context">Peer review for {{ P.peer_review.venues | map: "name" | join: ", " }} - evaluating submitted research for technical rigor and academic contribution.</div>
       </div>
-      <div class="judging-card">
-        <div class="judging-type">Industry Awards Judge</div>
-        <div class="judging-name">Business Intelligence Group - Sammy Awards (2025)</div>
-        <div class="judging-context">Evaluated business intelligence and analytics software, services, and solutions submitted to the Sammy Awards, recognizing innovation in the BI and analytics industry.</div>
-      </div>
+      {%- assign amb = P.community | where: "kind", "Ambassador" %}
+      {%- if amb.size > 0 %}
       <div class="judging-card">
         <div class="judging-type">Ambassador</div>
-        <div class="judging-name">IEEE Day 2025 · AnitaB.org Grace Hopper #SpecSquad 2025</div>
-        <div class="judging-context">Selected as IEEE Day Ambassador (2025) and AnitaB.org Grace Hopper Celebration #SpecSquad Ambassador - representing the IEEE community and advancing diversity in technology.</div>
+        <div class="judging-name">{% for x in amb %}{{ x.title }} ({{ x.org }}){% unless forloop.last %} · {% endunless %}{% endfor %}</div>
+        <div class="judging-context">{% for x in amb %}{% if x.significance %}{{ x.significance }} {% elsif x.summary %}{{ x.summary }} {% endif %}{% endfor %}</div>
       </div>
-      <div class="judging-card">
-        <div class="judging-type">Associate Editor</div>
-        <div class="judging-name">International Journal of Engineering in Computer Science</div>
-        <div class="judging-context">Editorial role evaluating and managing peer-review processes for submitted manuscripts in computer science and engineering research.</div>
-      </div>
-      <div class="judging-card">
-        <div class="judging-type">Industry Awards Judge</div>
-        <div class="judging-name">Globee Awards - AI, Business &amp; Technology (2023, 2025)</div>
-        <div class="judging-context">Evaluated nominations across AI, business technology, and innovation categories at the Globee Awards, a global business awards program recognizing achievement across industries.</div>
-      </div>
+      {%- endif %}
     </div>
 
     <!-- Professional Memberships -->
     <div class="sec-eyebrow" style="margin-bottom:1rem">Professional Memberships</div>
     <div class="memb-wrap reveal" aria-label="Professional memberships">
-      <span class="memb-chip">Senior Member IEEE (SMIEEE)</span>
-      <span class="memb-chip">Upsilon Pi Epsilon (UPE)</span>
-      <span class="memb-chip">PgUS Member</span>
-      <span class="memb-chip">Sigma Xi Affiliate Circle</span>
-      <span class="memb-chip">Computer Society IEEE</span>
-      <span class="memb-chip">AAAS Member</span>
-      <span class="memb-chip">Royal Fellow · IOASD</span>
-      <span class="memb-chip">Fellow Member · SCRS</span>
-      <span class="memb-chip">Life Member · CSI</span>
-      <span class="memb-chip">GDG New York</span>
-      <span class="memb-chip">Associate Editor · IJECS</span>
+      {%- for m in P.memberships %}
+      <span class="memb-chip">{{ m.title }} · {{ m.org }}</span>
+      {%- endfor %}
     </div>
 
-    <!-- Volunteering -->
+    <!-- Volunteering & Mentorship -->
     <div class="sec-eyebrow" style="margin-top:2rem;margin-bottom:1rem">Volunteering &amp; Mentorship</div>
     <div class="volunteer-wrap reveal" aria-label="Volunteering and mentorship roles">
-      <span class="vol-chip">Mentor · Freedom Employability Academy (India)</span>
-      <span class="vol-chip">Mentor · ENGin Ukraine</span>
-      <span class="vol-chip">Volunteer · Cognizant Outreach (100+ hrs)</span>
-      <span class="vol-chip">Mentor · TopMate.io</span>
+      {%- for c in P.community %}
+      {%- if c.kind == "Mentorship" or c.kind == "Community service" or c.kind == "Volunteer" %}
+      <span class="vol-chip">{{ c.title }} · {{ c.org }}</span>
+      {%- endif %}
+      {%- endfor %}
     </div>
   </div>
 </section>

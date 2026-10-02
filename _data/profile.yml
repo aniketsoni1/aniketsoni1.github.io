@@ -57,15 +57,28 @@ person:
     - { label: "Wikidata", url: "https://www.wikidata.org/wiki/Q134969255" }
     - { label: "Open Library", url: "https://openlibrary.org/authors/OL16440533A/Aniket_Abhishek_Soni" }
 
-# Headline metrics (citation figures as published on the homepage; refresh here).
+# ── Shared numbers ────────────────────────────────────────────────────
+# Single source of truth for every count shown on the homepage AND the
+# profile. Where sources disagreed, the higher figure was kept. Update here only.
+stats:
+  citations_rg: "138+"         # ResearchGate
+  citations_scholar: "116"     # Google Scholar
+  h_scholar: "4"
+  h_rg: "5"
+  papers: "20+"
+  peer_reviews: "28+"
+  peer_venues: "10"            # IEEE conferences with documented reviews
+  books: "2"
+
+# Profile metric strip (values come from `stats` above).
 metrics:
   as_of: "2026"
   items:
-    - { value: "138+", label: "Citations (ResearchGate)" }
-    - { value: "109", label: "Citations (Google Scholar)" }
-    - { value: "4", label: "h-index (Google Scholar)" }
-    - { value: "20+", label: "Peer-reviewed papers" }
-    - { value: "28+", label: "Peer reviews completed" }
+    - { stat: citations_rg, label: "Citations (ResearchGate)" }
+    - { stat: citations_scholar, label: "Citations (Google Scholar)" }
+    - { stat: h_scholar, label: "h-index (Google Scholar)" }
+    - { stat: papers, label: "Peer-reviewed papers" }
+    - { stat: peer_reviews, label: "Peer reviews completed" }
     - { value: "2", label: "Books + Wiley chapter" }
     - { value: "1 + 1", label: "US patent application · UK design" }
 
@@ -73,11 +86,13 @@ metrics:
 awards:
   - title: "Rising Stars 30"
     org: "Computing, The Channel Company"
+    org_short: "The Channel Co. Computing"
     date: "2025"
     year: 2025
     kind: "Industry award"
   - title: "40 Under Forty"
     org: "AFCEA International (Armed Forces Communications and Electronics Association)"
+    org_short: "AFCEA"
     date: "2024"
     year: 2024
     kind: "Industry award"
@@ -89,6 +104,7 @@ awards:
     kind: "National award"
   - title: "Cheers Award"
     org: "Cognizant Technology Solutions"
+    org_short: "Cognizant"
     date: "Dec 2022"
     year: 2022
     kind: "Employer recognition"
@@ -350,6 +366,7 @@ publications:
   - title: "Scalable Infrastructure: Building Reliable Distributed Systems"
     kind: "Book"
     org: "BP International"
+    role: "Co-author (with Akaash Vishal Hazarika)"
     date: "2025"
     year: 2025
     summary: "ISBN 978-93-49970-00-7"
@@ -503,12 +520,12 @@ community:
     year: 2023
     kind: "Mentorship"
     summary: "Mentors disadvantaged youth on careers in technology. Two Certificates of Appreciation (May 10 and Aug 26, 2023) signed by FEA's CEO and program leadership."
-  - title: "Volunteer"
+  - title: "Volunteer · 100+ hours"
     org: "Cognizant Outreach"
     date: "2023"
     year: 2023
     kind: "Community service"
-    summary: "Verified community service through Cognizant's employee-led social initiatives platform; Certificate of Appreciation from the Global Head of Cognizant Outreach (Aug 12, 2023)."
+    summary: "100+ hours of community service through Cognizant's employee-led social initiatives platform; Certificate of Appreciation from the Global Head of Cognizant Outreach (Aug 12, 2023)."
   - title: "Mentor"
     org: "ENGin Ukraine - Tech & English Learning"
     kind: "Mentorship"

@@ -147,7 +147,7 @@
     <!-- ══ Research metrics ══ -->
     <section class="pf-metrics" aria-label="Research metrics">
       {%- for m in P.metrics.items %}
-      <div class="pf-metric"><span class="pf-metric-v">{{ m.value }}</span><span class="pf-metric-l">{{ m.label }}</span></div>
+      <div class="pf-metric"><span class="pf-metric-v">{% if m.stat %}{{ P.stats[m.stat] }}{% else %}{{ m.value }}{% endif %}</span><span class="pf-metric-l">{{ m.label }}</span></div>
       {%- endfor %}
     </section>
 
