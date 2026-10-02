@@ -118,9 +118,8 @@
 /* ── Timeline ─────────────────────────────────────────────────────── */
 .pf-tl { display: grid; gap: .4rem; }
 .pf-tl-year { background: var(--card-bg); border: 1px solid var(--border); border-radius: 6px; }
-.pf-tl-year summary { display: grid; grid-template-columns: 4rem 1fr 2.5rem; gap: 1rem; align-items: center; padding: .8rem 1rem;
-  cursor: pointer; list-style: none; }
-.pf-tl-year summary::-webkit-details-marker { display: none; }
+.pf-tl-head { display: grid; grid-template-columns: 4rem 1fr 2.5rem; gap: 1rem; align-items: center; padding: .8rem 1rem;
+  border-bottom: 1px dashed var(--border); margin-bottom: .8rem; }
 .pf-tl-y { color: var(--lime); font-size: .9rem; }
 .pf-tl-bar { height: 8px; background: var(--lime-dim); border-radius: 4px; overflow: hidden; }
 .pf-tl-bar span { display: block; height: 100%; background: linear-gradient(90deg, var(--lime-dark), var(--lime)); border-radius: 4px; }
@@ -202,7 +201,7 @@
   background: var(--card-bg); color: var(--muted); border: 1px solid var(--border); border-radius: 999px; padding: .4rem .8rem; cursor: pointer; }
 .pf-tl-filter button.is-on, .pf-tl-filter button:hover { color: var(--text); border-color: var(--lime-line); background: var(--lime-dim); }
 
-.pf-tl-line { padding: 0 1rem .8rem; color: var(--text); opacity: .85; font-size: .92rem; border-bottom: 1px dashed var(--border); margin-bottom: .8rem; }
+.pf-tl-line { padding: 0 1rem .8rem; color: var(--text); opacity: .85; font-size: .92rem; }
 .pf-tl-list .pf-chip.g-career, .pf-tl-list .pf-chip[class*="g-"] { color: var(--g); background: transparent; border: 1px solid var(--g); }
 .pf-tl-list small { display: block; color: var(--muted); font-family: 'JetBrains Mono', monospace; font-size: .62rem; margin: .15rem 0 0; }
 .pf-tl-list strong { font-weight: 500; }
