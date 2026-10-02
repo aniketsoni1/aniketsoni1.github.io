@@ -78,3 +78,40 @@
 #theme-toggle[aria-expanded="true"] { border-color: var(--lime); }
 @media (hover: none), (pointer: coarse) { .theme-menu { right: 1.2rem; bottom: 4.6rem; } }
 @media print { .theme-menu { display: none !important; } }
+
+/* ── Floating page navigation (assets/js/section-nav.js), every page ──
+   ↑ Back to top / ‹ Previous / › Next, stacked bottom-left. Hidden buttons
+   take no space, so the stack shrinks to 2 at the first / last section. */
+.page-nav { position: fixed; left: 1.8rem; bottom: 1.8rem; z-index: 600; display: flex; flex-direction: column; gap: .6rem; }
+.page-nav #back-to-top, .page-nav .page-nav-btn {
+  position: relative !important; left: auto !important; bottom: auto !important;
+  width: 46px; height: 46px; border-radius: 50%; cursor: pointer;
+  display: flex; align-items: center; justify-content: center;
+  border: 1px solid var(--border2, var(--border)); background: var(--card-bg); color: var(--lime);
+  box-shadow: 0 4px 18px rgba(0,0,0,.18); transition: border-color .25s, transform .2s, background .3s;
+}
+.page-nav #back-to-top { opacity: 1 !important; pointer-events: all !important; }
+.page-nav #back-to-top:not(.visible), .page-nav .page-nav-btn[hidden] { display: none !important; }
+.page-nav #back-to-top:hover, .page-nav .page-nav-btn:hover,
+.page-nav #back-to-top:focus-visible, .page-nav .page-nav-btn:focus-visible { border-color: var(--lime); transform: scale(1.08); outline: none; }
+/* Hover label: "Next: Experience" slides out to the right of the button. */
+.page-nav [data-label]::after {
+  content: attr(data-label); position: absolute; left: calc(100% + .6rem); top: 50%; transform: translate(-4px, -50%);
+  white-space: nowrap; max-width: 60vw; overflow: hidden; text-overflow: ellipsis;
+  font-family: 'JetBrains Mono', monospace; font-size: .62rem; letter-spacing: .06em; text-transform: uppercase;
+  color: var(--text); background: var(--card-bg); border: 1px solid var(--border); border-radius: 6px; padding: .4rem .6rem;
+  box-shadow: 0 6px 18px rgba(0,0,0,.15); opacity: 0; pointer-events: none; transition: opacity .15s, transform .15s;
+}
+.page-nav [data-label]:hover::after, .page-nav [data-label]:focus-visible::after { opacity: 1; transform: translate(0, -50%); }
+@media (hover: none), (pointer: coarse) {
+  .page-nav { left: 1.2rem; bottom: 1.2rem; gap: .5rem; }
+  .page-nav #back-to-top, .page-nav .page-nav-btn { width: 44px; height: 44px; }
+  .page-nav [data-label]::after { display: none; }
+}
+@media print { .page-nav { display: none !important; } }
+
+/* ── Standard footer line, every page ── */
+.site-footline { display: flex; justify-content: space-between; flex-wrap: wrap; gap: .5rem 1.5rem; margin-top: 1.4rem; padding-top: 1rem;
+  border-top: 1px solid var(--border); font-family: 'JetBrains Mono', monospace; font-size: .6rem; letter-spacing: .06em; color: var(--muted); }
+.site-footline a { color: inherit; text-decoration: none; }
+.site-footline a:hover { color: var(--lime); }

@@ -77,7 +77,11 @@
         <a href="https://www.linkedin.com/in/{{ site.author.linkedin }}" rel="noopener">LinkedIn</a>
         <a href="{{ '/' | absolute_url }}">Portfolio</a>
       </div>
-      <p class="footer-copy">&copy; {{ site.time | date: "%Y" }} {{ site.author.name }}. Built with a schema-first, validation-first pipeline.</p>
+      <p class="footer-copy">Built with a schema-first, validation-first pipeline.</p>
+      <div class="site-footline">
+        <span>&copy; {{ site.time | date: "%Y" }} Aniket Abhishek Soni · Made end-to-end with code</span>
+        <span>New York, US · <a href="https://aniketsoni.com">aniketsoni.com</a></span>
+      </div>
       <!-- TOTAL is GoatCounter's reserved path for the site-wide figure. -->
       <p class="footer-total" data-views="TOTAL" hidden><span data-views-n></span> total views</p>
     </div>
@@ -126,5 +130,6 @@
 
   {%- include view-counts.html %}
   <script src="{{ '/assets/js/theme.js' | relative_url }}?v={{ site.time | date: '%s' }}" defer></script>
+  <script src="{{ '/assets/js/section-nav.js' | relative_url }}?v={{ site.time | date: '%s' }}" defer></script>
 </body>
 </html>

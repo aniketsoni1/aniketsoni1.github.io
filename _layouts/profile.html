@@ -276,12 +276,12 @@
           {%- for g in page.tl_groups -%}{%- for src in g.sources -%}{%- assign hits = P[src] | where: "year", y -%}{%- assign c = c | plus: hits.size -%}{%- endfor -%}{%- endfor -%}
           {%- assign pr = P.peer_review.venues | where: "year", y -%}{%- if pr.size > 0 %}{% assign c = c | plus: 1 %}{% endif -%}
           {%- if c > 0 %}
-          <details class="pf-tl-year" id="tl-{{ y }}"{% if forloop.index <= 2 %} open{% endif %}>
-            <summary>
+          <div class="pf-tl-year" id="tl-{{ y }}">
+            <div class="pf-tl-head">
               <span class="pf-tl-y">{{ y }}</span>
               <span class="pf-tl-bar" aria-hidden="true"><span style="width:{{ c | times: 100 | divided_by: peak }}%"></span></span>
               <span class="pf-tl-c">{{ c }}</span>
-            </summary>
+            </div>
             {%- assign line = P.acclaim_years[y] -%}
             {%- if line %}<p class="pf-tl-line">{{ line }}</p>{% endif %}
             <ul class="pf-tl-list">
@@ -298,7 +298,7 @@
                 {%- endif -%}
               {%- endfor %}
             </ul>
-          </details>
+          </div>
           {%- endif %}
         {%- endfor %}
       </div>
@@ -385,7 +385,10 @@
         <a href="https://scholar.google.com/citations?user=Rtn7hFAAAAAJ&hl=en" rel="noopener">Google Scholar</a>
         <a href="https://orcid.org/0009-0001-6312-2967" rel="noopener">ORCID</a>
       </div>
-      <p class="footer-copy">&copy; {{ site.time | date: "%Y" }} {{ me.name }}.</p>
+      <div class="site-footline">
+        <span>&copy; {{ site.time | date: "%Y" }} Aniket Abhishek Soni · Made end-to-end with code</span>
+        <span>New York, US · <a href="https://aniketsoni.com">aniketsoni.com</a></span>
+      </div>
     </div>
   </footer>
 
@@ -565,5 +568,6 @@
     })();
   </script>
   <script src="{{ '/assets/js/theme.js' | relative_url }}?v={{ site.time | date: '%s' }}" defer></script>
+  <script src="{{ '/assets/js/section-nav.js' | relative_url }}?v={{ site.time | date: '%s' }}" defer></script>
 </body>
 </html>
