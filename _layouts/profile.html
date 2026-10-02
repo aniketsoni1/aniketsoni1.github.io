@@ -195,7 +195,10 @@
       </div>
     </section>
 
-    <p class="pf-route-hint" hidden>Select a category above to open it here, or search across everything.</p>
+    <div class="pf-viewbar" hidden>
+      <p class="pf-route-hint">Select a category above to open it here, or search across everything.</p>
+      <a class="pf-viewall" href="#all" data-all="View all categories on one page" data-one="Back to one category at a time">View all categories on one page</a>
+    </div>
 
     <!-- ══ Filter bar (progressive enhancement; everything is visible without JS) ══ -->
     <div class="pf-filter" role="search" hidden>
@@ -422,6 +425,9 @@
       var sections = Array.prototype.slice.call(document.querySelectorAll('.pf-section'));
       var ovCards = Array.prototype.slice.call(document.querySelectorAll('.pf-ov-card'));
       var hint = document.querySelector('.pf-route-hint');
+      var viewbar = document.querySelector('.pf-viewbar');
+      var viewall = document.querySelector('.pf-viewall');
+      viewbar.hidden = false;
       document.body.classList.add('pf-routed');
       sections.forEach(function (sec, i) {
         var head = document.createElement('a');
@@ -439,6 +445,18 @@
       function route(scroll) {
         if (document.body.classList.contains('pf-searching')) return;
         var id = decodeURIComponent(location.hash.slice(1));
+        // #all: every category open at once (one-pager view)
+        var all = id === 'all';
+        document.body.classList.toggle('pf-all', all);
+        viewall.textContent = viewall.getAttribute(all ? 'data-one' : 'data-all');
+        viewall.setAttribute('href', all ? '#pf-overview' : '#all');
+        if (all) {
+          sections.forEach(function (x) { x.classList.add('is-active'); });
+          ovCards.forEach(function (c) { c.classList.remove('is-active'); });
+          hint.hidden = true;
+          if (scroll) sections[0].scrollIntoView({ behavior: 'smooth', block: 'start' });
+          return;
+        }
         var el = id ? document.getElementById(id) : null;
         var sec = el ? (el.classList.contains('pf-section') ? el : el.closest('.pf-section')) : null;
         sections.forEach(function (x) { x.classList.toggle('is-active', x === sec); });

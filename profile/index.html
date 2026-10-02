@@ -71,7 +71,8 @@ timeline:
   num: "11"
   title: "Achievement Timeline"
 
-publication_order: ["Book", "Book chapter", "Journal", "Conference", "Preprint"]
+# Journals are always shown last; books and conference papers carry more weight.
+publication_order: ["Book", "Book chapter", "Conference", "Preprint", "Journal"]
 
 # Achievement Timeline categories: which data lists feed each category and
 # which section its rows link to. Peer-review venues are added to "judging".

@@ -334,15 +334,9 @@ contributions:
     significance: "Confirmed in a letter from Agbeli Ameko, CEO and Founder of Climate Change Xplorers, and Dr. Keith E. Maull, Southern Arkansas University."
 
 # ── 06 · Scholarly Authorship ────────────────────────────────────────
+# Order matters (timeline + structured data follow it): books first, then
+# conference papers and preprints; journal articles are always listed last.
 publications:
-  - title: "Building Organizational Intelligence Using Digital Twins and Generative AI: Concepts, Applications and Case Studies"
-    kind: "Book chapter"
-    org: "Wiley-Scrivener (John Wiley & Sons)"
-    role: "Contributing author"
-    date: "Aug 2026"
-    year: 2026
-    summary: "Chapter in a 400-page edited hardback volume. ISBN 978-1-394-46527-9."
-    significance: "Published under the Wiley-Scrivener imprint of John Wiley & Sons; the volume is indexed by Scopus."
   - title: "AI-Enabled Serverless Engineering for Autonomous Cloud Operations"
     kind: "Book"
     org: "Technical Press"
@@ -362,6 +356,14 @@ publications:
     evidence:
       - { label: "DOI 10.9734/bpi/mono/978-93-49970-00-7", url: "https://doi.org/10.9734/bpi/mono/978-93-49970-00-7" }
       - { label: "Open Library", url: "https://openlibrary.org/works/OL45568655W/Scalable_Infrastructure" }
+  - title: "Building Organizational Intelligence Using Digital Twins and Generative AI: Concepts, Applications and Case Studies"
+    kind: "Book chapter"
+    org: "Wiley-Scrivener (John Wiley & Sons)"
+    role: "Contributing author"
+    date: "Aug 2026"
+    year: 2026
+    summary: "Chapter in a 400-page edited hardback volume. ISBN 978-1-394-46527-9."
+    significance: "Published under the Wiley-Scrivener imprint of John Wiley & Sons; the volume is indexed by Scopus."
   - title: "Big Data Workload Profiling for Energy-Aware Cloud Resource Management"
     kind: "Conference"
     org: "DASET"
@@ -397,6 +399,13 @@ publications:
     date: "Aug 7-9, 2025"
     year: 2025
     evidence: [ { label: "DOI 10.1109/IC366947.2025.11290509", url: "https://doi.org/10.1109/IC366947.2025.11290509" } ]
+  - title: "Improving Speech Recognition Accuracy Using Custom Language Models with the Vosk Toolkit"
+    kind: "Preprint"
+    org: "arXiv [cs.SD]"
+    role: "Sole author"
+    date: "Mar 2025"
+    year: 2025
+    evidence: [ { label: "arXiv:2503.21025", url: "https://arxiv.org/abs/2503.21025" } ]
   - title: "Edge vs Cloud Computing Performance Trade-Offs for Real-Time Analytics"
     kind: "Journal"
     org: "International Journal of Science and Engineering Applications (IJSEA) · Vol. 14, Issue 06"
@@ -415,13 +424,6 @@ publications:
     date: "Apr 2025"
     year: 2025
     evidence: [ { label: "Zenodo 18104614", url: "https://doi.org/10.5281/zenodo.18104614" } ]
-  - title: "Improving Speech Recognition Accuracy Using Custom Language Models with the Vosk Toolkit"
-    kind: "Preprint"
-    org: "arXiv [cs.SD]"
-    role: "Sole author"
-    date: "Mar 2025"
-    year: 2025
-    evidence: [ { label: "arXiv:2503.21025", url: "https://arxiv.org/abs/2503.21025" } ]
 
 # ── 07 · Leading & Critical Role ─────────────────────────────────────
 roles:
