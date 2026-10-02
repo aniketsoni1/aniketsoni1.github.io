@@ -7,8 +7,10 @@
        light: teal (default) · indigo · terracotta
        dark:  teal (default) · violet · amber
 
-   Every page already colors itself through the same --lime* variables, so a
-   theme only has to redefine those. Selectors carry two attributes, which
+   Every page already colors itself through the same --lime* variables (main
+   accent) plus secondary colors --blue / --green / --pink / --purple (stats, chips,
+   highlights). Each theme redefines both, so nothing stays teal by accident;
+   hard-coded tints use color-mix() on these variables. Selectors carry two attributes, which
    outranks the base :root / [data-theme="light"] definitions.
    To add a palette: copy one block, change the 7 values, add a swatch in
    assets/js/theme.js.
@@ -16,11 +18,13 @@
 
 /* ── Light accents ─────────────────────────────────────────────────── */
 [data-theme="light"][data-accent="indigo"] {
+  --blue: #2b6cd4; --green: #5a4fcf; --pink: #8a3fb8; --purple: #7a3fd0;
   --lime: #3b4ccf; --lime-dark: #2c3aa6;
   --lime-glow: rgba(59,76,207,.12); --lime-mid: rgba(59,76,207,.25); --lime-low: rgba(59,76,207,.08);
   --lime-dim: rgba(59,76,207,.04); --lime-line: rgba(59,76,207,.3);
 }
 [data-theme="light"][data-accent="terracotta"] {
+  --blue: #b5651d; --green: #8f6a00; --pink: #a63d40; --purple: #8a4a7a;
   --lime: #b4532a; --lime-dark: #8f3f1e;
   --lime-glow: rgba(180,83,42,.12); --lime-mid: rgba(180,83,42,.25); --lime-low: rgba(180,83,42,.08);
   --lime-dim: rgba(180,83,42,.04); --lime-line: rgba(180,83,42,.3);
@@ -28,11 +32,13 @@
 
 /* ── Dark accents ──────────────────────────────────────────────────── */
 :root:not([data-theme="light"])[data-accent="violet"] {
+  --blue: #8ab4ff; --green: #c4a7ff; --pink: #f0a6ff; --purple: #d6c2ff;
   --lime: #a78bfa; --lime-dark: #6d4fd1;
   --lime-glow: rgba(167,139,250,.15); --lime-mid: rgba(167,139,250,.25); --lime-low: rgba(167,139,250,.08);
   --lime-dim: rgba(167,139,250,.04); --lime-line: rgba(167,139,250,.3);
 }
 :root:not([data-theme="light"])[data-accent="amber"] {
+  --blue: #ffcf70; --green: #ffb347; --pink: #ff8a65; --purple: #ffd59a;
   --lime: #f5b041; --lime-dark: #9a5b0b;
   --lime-glow: rgba(245,176,65,.15); --lime-mid: rgba(245,176,65,.25); --lime-low: rgba(245,176,65,.08);
   --lime-dim: rgba(245,176,65,.04); --lime-line: rgba(245,176,65,.3);

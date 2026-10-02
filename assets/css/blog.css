@@ -413,12 +413,12 @@ body, nav#nav, .blog-hero, .bf-card, .archive-row, .post-content, .signal-footer
 ═══════════════════════════════════════════ */
 .bf-flag-perspective {
   right:auto; left:1.4rem;
-  color:var(--pink); border-color:rgba(255,59,255,0.35);
+  color:var(--pink); border-color:color-mix(in srgb, var(--pink) 35%, transparent);
 }
 [data-theme="light"] .bf-flag-perspective { border-color:rgba(187,0,187,0.35); }
 .perspective-badge {
   font-family:'JetBrains Mono',monospace; font-size:0.52rem; letter-spacing:0.12em; text-transform:uppercase;
-  color:var(--pink); border:1px solid rgba(255,59,255,0.35);
+  color:var(--pink); border:1px solid color-mix(in srgb, var(--pink) 35%, transparent);
   padding:0.12rem 0.45rem; border-radius:100px; margin-left:0.5rem;
   vertical-align:middle; white-space:nowrap;
 }

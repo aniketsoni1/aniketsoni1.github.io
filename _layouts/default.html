@@ -333,15 +333,16 @@
   --border:   #1e1e1e;
   --border2:  #2a2a2a;
   --lime:     #009e9e;          /* teal accent */
-  --lime-glow:rgba(0,158,158,0.15);
-  --lime-mid: rgba(0,158,158,0.25);
-  --lime-low: rgba(0,158,158,0.08);
-  --lime-dim: rgba(0,158,158,0.04);
-  --lime-line:rgba(0,158,158,0.3);
+  --lime-glow:color-mix(in srgb, var(--lime) 15%, transparent);
+  --lime-mid: color-mix(in srgb, var(--lime) 25%, transparent);
+  --lime-low: color-mix(in srgb, var(--lime) 8%, transparent);
+  --lime-dim: color-mix(in srgb, var(--lime) 4%, transparent);
+  --lime-line:color-mix(in srgb, var(--lime) 30%, transparent);
   --lime-dark: #007a7a;
   --pink:  #ff3bff;
   --blue:  #3bdfff;
   --green: #00e5a0;
+  --purple: #a07aff;
   --text:  #f0f0ee;
   --muted: #666;
   --muted2:#444;
@@ -502,7 +503,7 @@ nav.scrolled{
   position:absolute;inset:0;
   background:repeating-linear-gradient(
     0deg,transparent,transparent 2px,
-    rgba(0,158,158,0.01) 2px,rgba(0,158,158,0.01) 4px
+    color-mix(in srgb, var(--lime) 1%, transparent) 2px,color-mix(in srgb, var(--lime) 1%, transparent) 4px
   );pointer-events:none;
 }
 
@@ -933,10 +934,10 @@ h2.sec-title{
   padding:0.2rem 0.55rem;border-radius:100px;
   border:1px solid;white-space:nowrap;
 }
-.pub-badge.book{color:var(--green);border-color:rgba(0,229,160,0.3);background:rgba(0,229,160,0.06)}
-.pub-badge.conf{color:var(--blue);border-color:rgba(59,223,255,0.3);background:rgba(59,223,255,0.06)}
-.pub-badge.journal{color:var(--pink);border-color:rgba(255,59,255,0.3);background:rgba(255,59,255,0.06)}
-.pub-badge.arxiv{color:#ff9060;border-color:rgba(255,144,96,0.3);background:rgba(255,144,96,0.06)}
+.pub-badge.book{color:var(--green);border-color:color-mix(in srgb, var(--green) 30%, transparent);background:color-mix(in srgb, var(--green) 6%, transparent)}
+.pub-badge.conf{color:var(--blue);border-color:color-mix(in srgb, var(--blue) 30%, transparent);background:color-mix(in srgb, var(--blue) 6%, transparent)}
+.pub-badge.journal{color:var(--pink);border-color:color-mix(in srgb, var(--pink) 30%, transparent);background:color-mix(in srgb, var(--pink) 6%, transparent)}
+.pub-badge.arxiv{color:var(--purple);border-color:color-mix(in srgb, var(--purple) 30%, transparent);background:color-mix(in srgb, var(--purple) 6%, transparent)}
 .pub-title{color:var(--text);font-weight:400;line-height:1.45}
 .pub-venue{font-family:'JetBrains Mono',monospace;font-size:0.65rem;color:var(--muted);margin-top:0.2rem}
 .pub-year{font-family:'JetBrains Mono',monospace;font-size:0.72rem;color:var(--muted);white-space:nowrap}
@@ -972,7 +973,7 @@ h2.sec-title{
   transform:scaleX(0);transform-origin:left;
   transition:transform 0.4s;
 }
-.press-card:hover{border-color:rgba(59,223,255,0.3);transform:translateY(-4px)}
+.press-card:hover{border-color:color-mix(in srgb, var(--blue) 30%, transparent);transform:translateY(-4px)}
 .press-card:hover::before{transform:scaleX(1)}
 .press-pub{
   display:flex;align-items:center;gap:0.7rem;
@@ -1079,8 +1080,8 @@ h2.sec-title{
   font-family:'JetBrains Mono',monospace;
   font-size:0.65rem;padding:0.35rem 0.85rem;
   border-radius:100px;color:#888;
-  background:rgba(0,229,160,0.04);
-  border:1px solid rgba(0,229,160,0.15);
+  background:color-mix(in srgb, var(--green) 4%, transparent);
+  border:1px solid color-mix(in srgb, var(--green) 15%, transparent);
   transition:all 0.2s;
 }
 .vol-chip:hover{border-color:var(--green);color:var(--green)}
@@ -1267,15 +1268,16 @@ footer{
   --border:#d8d7d3;
   --border2:#c8c7c3;
   --lime:#007272;
-  --lime-glow:rgba(0,114,114,0.12);
-  --lime-mid:rgba(0,114,114,0.25);
-  --lime-low:rgba(0,114,114,0.08);
-  --lime-dim:rgba(0,114,114,0.04);
-  --lime-line:rgba(0,114,114,0.3);
+  --lime-glow:color-mix(in srgb, var(--lime) 12%, transparent);
+  --lime-mid:color-mix(in srgb, var(--lime) 25%, transparent);
+  --lime-low:color-mix(in srgb, var(--lime) 8%, transparent);
+  --lime-dim:color-mix(in srgb, var(--lime) 4%, transparent);
+  --lime-line:color-mix(in srgb, var(--lime) 30%, transparent);
   --lime-dark:#005a5a;
   --pink:#bb00bb;
   --blue:#0088aa;
   --green:#009a72;
+  --purple:#6d4fd1;
   --text:#111110;
   --muted:#777;
   --muted2:#aaa;
@@ -1289,7 +1291,7 @@ footer{
   -webkit-background-clip:text;-webkit-text-fill-color:transparent;
 }
 [data-theme="light"] .hero-scanline{
-  background:radial-gradient(circle,rgba(0,114,114,0.07) 1px,transparent 1px);
+  background:radial-gradient(circle,color-mix(in srgb, var(--lime) 7%, transparent) 1px,transparent 1px);
   background-size:28px 28px;
 }
 [data-theme="light"] nav.scrolled{background:rgba(245,244,241,0.95);border-color:var(--border)}
@@ -1304,7 +1306,7 @@ footer{
 [data-theme="light"] .press-desc{color:#666}
 [data-theme="light"] .ieee-desc{color:#666}
 [data-theme="light"] .pub-table tbody tr:hover{background:var(--lime-dim)}
-[data-theme="light"] .press-card:hover{border-color:rgba(0,136,170,0.35)}
+[data-theme="light"] .press-card:hover{border-color:color-mix(in srgb, var(--blue) 35%, transparent)}
 [data-theme="light"] .btn-lime{color:#fff}
 [data-theme="light"] .nav-cta{color:#fff}
 [data-theme="light"] .contact-pill.primary{color:#fff}
@@ -1430,7 +1432,7 @@ body,nav,.bento,.exp-card,.proj-card,.press-card,.award-tile,.role-card,.edu-car
   border:1px solid var(--lime-line);border-radius:100px;color:var(--lime);
 }
 .climate-callout{
-  background:linear-gradient(135deg,rgba(0,158,158,0.07),rgba(0,229,160,0.04));
+  background:linear-gradient(135deg,color-mix(in srgb, var(--lime) 7%, transparent),color-mix(in srgb, var(--green) 4%, transparent));
   border:1px solid var(--lime-line);border-radius:6px;padding:1.4rem;
 }
 .climate-callout-label{
@@ -1442,7 +1444,7 @@ body,nav,.bento,.exp-card,.proj-card,.press-card,.award-tile,.role-card,.edu-car
 .climate-stat{display:flex;gap:0.5rem;flex-wrap:wrap;margin-top:0.8rem}
 .c-stat{
   font-family:'JetBrains Mono',monospace;font-size:0.65rem;
-  color:var(--green);border:1px solid rgba(0,229,160,0.25);
+  color:var(--green);border:1px solid color-mix(in srgb, var(--green) 25%, transparent);
   padding:0.2rem 0.55rem;border-radius:100px;
 }
 @media(max-width:860px){.about-grid{grid-template-columns:1fr}}
@@ -1450,7 +1452,7 @@ body,nav,.bento,.exp-card,.proj-card,.press-card,.award-tile,.role-card,.edu-car
 /* ═══ BOOK HIGHLIGHT ═══ */
 /* ═══ BOOKS - single container with inner book boxes ═══ */
 .books-container{
-  background:linear-gradient(135deg,var(--card-bg),rgba(0,229,160,0.03));
+  background:linear-gradient(135deg,var(--card-bg),color-mix(in srgb, var(--green) 3%, transparent));
   border:1px solid var(--border);border-radius:10px;
   padding:1.5rem;margin-bottom:2rem;
   display:flex;flex-direction:column;gap:1.2rem;
@@ -1463,15 +1465,15 @@ body,nav,.bento,.exp-card,.proj-card,.press-card,.award-tile,.role-card,.edu-car
 .books-container-label::before{content:'//';color:var(--green)}
 .book-highlight{
   display:grid;grid-template-columns:auto 1fr;gap:1.5rem;
-  background:rgba(0,229,160,0.04);
-  border:1px solid rgba(0,229,160,0.18);border-radius:8px;
+  background:color-mix(in srgb, var(--green) 4%, transparent);
+  border:1px solid color-mix(in srgb, var(--green) 18%, transparent);border-radius:8px;
   padding:1.4rem;align-items:start;
   transition:border-color 0.25s,transform 0.25s,background 0.25s;
   text-decoration:none;color:inherit;
 }
-.book-highlight:hover{border-color:rgba(0,229,160,0.45);transform:translateY(-2px);background:rgba(0,229,160,0.07)}
-.book-highlight.purple-book{background:rgba(123,97,255,0.04);border-color:rgba(123,97,255,0.18)}
-.book-highlight.purple-book:hover{border-color:rgba(123,97,255,0.45);background:rgba(123,97,255,0.07)}
+.book-highlight:hover{border-color:color-mix(in srgb, var(--green) 45%, transparent);transform:translateY(-2px);background:color-mix(in srgb, var(--green) 7%, transparent)}
+.book-highlight.purple-book{background:color-mix(in srgb, var(--purple) 4%, transparent);border-color:color-mix(in srgb, var(--purple) 18%, transparent)}
+.book-highlight.purple-book:hover{border-color:color-mix(in srgb, var(--purple) 45%, transparent);background:color-mix(in srgb, var(--purple) 7%, transparent)}
 /* Cover image - fixed size, fallback stays contained */
 .book-cover-img{
   width:88px;min-width:88px;height:122px;border-radius:5px;overflow:hidden;
@@ -1487,8 +1489,8 @@ body,nav,.bento,.exp-card,.proj-card,.press-card,.award-tile,.role-card,.edu-car
 }
 .book-badge{
   font-family:'JetBrains Mono',monospace;font-size:0.58rem;letter-spacing:0.14em;
-  text-transform:uppercase;color:var(--green);border:1px solid rgba(0,229,160,0.3);
-  background:rgba(0,229,160,0.06);padding:0.2rem 0.6rem;border-radius:100px;
+  text-transform:uppercase;color:var(--green);border:1px solid color-mix(in srgb, var(--green) 30%, transparent);
+  background:color-mix(in srgb, var(--green) 6%, transparent);padding:0.2rem 0.6rem;border-radius:100px;
   display:inline-block;margin-bottom:0.6rem;
 }
 .book-title{
@@ -1505,16 +1507,16 @@ body,nav,.bento,.exp-card,.proj-card,.press-card,.award-tile,.role-card,.edu-car
   letter-spacing:0.08em;text-transform:uppercase;
   display:inline-flex;align-items:center;gap:0.35rem;
   padding:0.45rem 0.9rem;border-radius:6px;
-  border:1px solid rgba(0,229,160,0.3);
-  background:rgba(0,229,160,0.06);
+  border:1px solid color-mix(in srgb, var(--green) 30%, transparent);
+  background:color-mix(in srgb, var(--green) 6%, transparent);
   color:var(--green);text-decoration:none;
   transition:border-color 0.2s,background 0.2s,transform 0.2s;
 }
-.book-cta-btn:hover{border-color:var(--green);background:rgba(0,229,160,0.14);transform:translateY(-1px)}
-.book-cta-btn.purple{border-color:rgba(123,97,255,0.3);background:rgba(123,97,255,0.06);color:#a07aff}
-.book-cta-btn.purple:hover{border-color:#a07aff;background:rgba(123,97,255,0.14)}
-[data-theme="light"] .book-cta-btn{color:#007a5a;border-color:rgba(0,158,114,0.35);background:rgba(0,158,114,0.06)}
-[data-theme="light"] .book-cta-btn.purple{color:#6d4fd1;border-color:rgba(109,79,209,0.35);background:rgba(109,79,209,0.06)}
+.book-cta-btn:hover{border-color:var(--green);background:color-mix(in srgb, var(--green) 14%, transparent);transform:translateY(-1px)}
+.book-cta-btn.purple{border-color:color-mix(in srgb, var(--purple) 30%, transparent);background:color-mix(in srgb, var(--purple) 6%, transparent);color:var(--purple)}
+.book-cta-btn.purple:hover{border-color:var(--purple);background:color-mix(in srgb, var(--purple) 14%, transparent)}
+[data-theme="light"] .book-cta-btn{color:var(--green);border-color:color-mix(in srgb, var(--green) 35%, transparent);background:color-mix(in srgb, var(--green) 6%, transparent)}
+[data-theme="light"] .book-cta-btn.purple{color:var(--purple);border-color:color-mix(in srgb, var(--purple) 35%, transparent);background:color-mix(in srgb, var(--purple) 6%, transparent)}
 @media(max-width:560px){
   .book-highlight{grid-template-columns:1fr;gap:1rem}
   .book-cover-img{width:80px;height:112px}
@@ -1596,15 +1598,15 @@ body,nav,.bento,.exp-card,.proj-card,.press-card,.award-tile,.role-card,.edu-car
 .bento-current{
   grid-column:1/3;
   background:linear-gradient(135deg,#0a0f0a,#0d140d);
-  border-color:rgba(0,229,160,0.2);
+  border-color:color-mix(in srgb, var(--green) 20%, transparent);
 }
 [data-theme="light"] .bento-current{
   background:linear-gradient(135deg,#edf7f4,#e0f5ef);
-  border-color:rgba(0,158,114,0.3);
+  border-color:color-mix(in srgb, var(--green) 30%, transparent);
 }
-[data-theme="light"] .current-label{color:#007a5a}
+[data-theme="light"] .current-label{color:var(--green)}
 [data-theme="light"] .current-item{color:#444}
-[data-theme="light"] .current-item::before{color:#009a72}
+[data-theme="light"] .current-item::before{color:var(--green)}
 .current-label{
   font-family:'JetBrains Mono',monospace;font-size:0.6rem;letter-spacing:0.16em;
   text-transform:uppercase;color:var(--green);margin-bottom:0.6rem;
@@ -1712,7 +1714,7 @@ footer{border-top:1px solid var(--border);padding:2.5rem 3rem;background:var(--s
 @media(max-width:900px){.exp-gsap-wrap{grid-template-columns:1fr;padding:4rem 1.5rem}.exp-terminal{position:static;margin-bottom:2rem}}
 
 /* ═══ FEATURE 2 - LIVE GITHUB REPOS ═══ */
-.gh-live-strip{display:inline-flex;align-items:center;gap:0.4rem;font-family:'JetBrains Mono',monospace;font-size:0.6rem;color:var(--green);border:1px solid rgba(0,229,160,0.3);padding:0.25rem 0.7rem;border-radius:100px;margin-bottom:1.5rem}
+.gh-live-strip{display:inline-flex;align-items:center;gap:0.4rem;font-family:'JetBrains Mono',monospace;font-size:0.6rem;color:var(--green);border:1px solid color-mix(in srgb, var(--green) 30%, transparent);padding:0.25rem 0.7rem;border-radius:100px;margin-bottom:1.5rem}
 .gh-live-dot{width:5px;height:5px;border-radius:50%;background:var(--green);animation:blink 1.5s infinite;flex-shrink:0}
 .gh-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:1rem}
 .gh-card{background:var(--card-bg);border:1px solid var(--border);border-radius:6px;padding:1.3rem;transition:all 0.25s;cursor:pointer;position:relative}
@@ -1812,10 +1814,10 @@ footer{border-top:1px solid var(--border);padding:2.5rem 3rem;background:var(--s
 .press-subsection-label{font-family:'JetBrains Mono',monospace;font-size:0.6rem;letter-spacing:0.18em;text-transform:uppercase;display:flex;align-items:center;gap:0.4rem;margin-bottom:1rem;margin-top:2.5rem}
 .press-subsection-label::before{content:'//'}
 .press-subsection-label.press-col{color:var(--blue)}.press-subsection-label.medium-col{color:var(--lime)}
-.press-subsection-label.devto-col{color:#a07aff}
-.medium-monogram.devto-mono{background:rgba(123,97,255,0.1);color:#a07aff;font-size:0.55rem;letter-spacing:0.05em}
-.press-card-medium.devto::before{background:linear-gradient(90deg,#a07aff,#7b61ff)}
-.press-card-medium.devto:hover{border-color:rgba(123,97,255,0.35)}
+.press-subsection-label.devto-col{color:var(--purple)}
+.medium-monogram.devto-mono{background:color-mix(in srgb, var(--purple) 10%, transparent);color:var(--purple);font-size:0.55rem;letter-spacing:0.05em}
+.press-card-medium.devto::before{background:linear-gradient(90deg,var(--purple),color-mix(in srgb, var(--purple) 70%, black))}
+.press-card-medium.devto:hover{border-color:color-mix(in srgb, var(--purple) 35%, transparent)}
 .press-medium-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:1rem}
 .press-card-medium{background:var(--card-bg);border:1px solid var(--border);border-radius:6px;padding:1.4rem;display:flex;flex-direction:column;text-decoration:none;color:inherit;transition:all 0.25s;position:relative;overflow:hidden}
 .press-card-medium::before{content:'';position:absolute;top:0;left:0;right:0;height:2px;background:linear-gradient(90deg,var(--lime),var(--green));transform:scaleX(0);transform-origin:left;transition:transform 0.35s}
@@ -2145,8 +2147,8 @@ tr.pub-row[data-href]:hover .pub-doi { color: var(--lime); }
         <div class="expertise-card">
           <div class="expertise-card-label">Certifications</div>
           <div class="expertise-tags">
-            <span class="expertise-tag" style="color:var(--green);border-color:rgba(0,229,160,0.3);background:rgba(0,229,160,0.06)">GCP Associate Cloud Engineer</span>
-            <span class="expertise-tag" style="color:var(--green);border-color:rgba(0,229,160,0.3);background:rgba(0,229,160,0.06)">GCP Cloud Digital Leader</span>
+            <span class="expertise-tag" style="color:var(--green);border-color:color-mix(in srgb, var(--green) 30%, transparent);background:color-mix(in srgb, var(--green) 6%, transparent)">GCP Associate Cloud Engineer</span>
+            <span class="expertise-tag" style="color:var(--green);border-color:color-mix(in srgb, var(--green) 30%, transparent);background:color-mix(in srgb, var(--green) 6%, transparent)">GCP Cloud Digital Leader</span>
             <span class="expertise-tag" style="color:#ff6b4a;border-color:rgba(255,107,74,0.3);background:rgba(255,107,74,0.06)">Databricks DE Associate</span>
           </div>
         </div>
@@ -2481,7 +2483,7 @@ tr.pub-row[data-href]:hover .pub-doi { color: var(--lime); }
         <div class="book-cover-img">
           <img src="https://aniketsoni.com/assets/img/book1-cover.jpg"
                alt="Scalable Infrastructure book cover"
-               onerror="this.parentElement.innerHTML='&lt;div class=\'book-cover-fallback\' style=\'background:linear-gradient(160deg,#003d30,#00261e)\'&gt;&lt;span style=\'color:rgba(0,229,160,0.7)\'&gt;SCALABLE INFRA&lt;/span&gt;&lt;/div&gt;'">
+               onerror="this.parentElement.innerHTML='&lt;div class=\'book-cover-fallback\' style=\'background:linear-gradient(160deg,#003d30,#00261e)\'&gt;&lt;span style=\'color:color-mix(in srgb, var(--green) 70%, transparent)\'&gt;SCALABLE INFRA&lt;/span&gt;&lt;/div&gt;'">
         </div>
         <div class="book-info">
           <span class="book-badge">📖 Published Book · 2025</span>
@@ -2499,10 +2501,10 @@ tr.pub-row[data-href]:hover .pub-doi { color: var(--lime); }
         <div class="book-cover-img">
           <img src="https://aniketsoni.com/assets/img/book2-cover.jpg"
                alt="AI-Enabled Serverless Engineering book cover"
-               onerror="this.parentElement.innerHTML='&lt;div class=\'book-cover-fallback\' style=\'background:linear-gradient(160deg,#1a0050,#0d0030)\'&gt;&lt;span style=\'color:rgba(180,140,255,0.8)\'&gt;AI SERVERLESS&lt;/span&gt;&lt;/div&gt;'">
+               onerror="this.parentElement.innerHTML='&lt;div class=\'book-cover-fallback\' style=\'background:linear-gradient(160deg,#1a0050,#0d0030)\'&gt;&lt;span style=\'color:color-mix(in srgb, var(--purple) 80%, transparent)\'&gt;AI SERVERLESS&lt;/span&gt;&lt;/div&gt;'">
         </div>
         <div class="book-info">
-          <span class="book-badge" style="color:#a07aff;border-color:rgba(123,97,255,0.35);background:rgba(123,97,255,0.08)">📖 Published Book · 2026</span>
+          <span class="book-badge" style="color:var(--purple);border-color:color-mix(in srgb, var(--purple) 35%, transparent);background:color-mix(in srgb, var(--purple) 8%, transparent)">📖 Published Book · 2026</span>
           <div class="book-title">AI-Enabled Serverless Engineering for Autonomous Cloud Operations</div>
           <div class="book-meta">Technical Press · ISBN 978-81-69069-56-4 · First Edition</div>
           <div class="book-meta">Co-author (with Milan Parikh) · Cloud Architecture · AI Systems</div>
@@ -2703,7 +2705,7 @@ tr.pub-row[data-href]:hover .pub-doi { color: var(--lime); }
                onerror="this.style.display='none'">
         </div>
         <div class="press-pub">
-          <div class="press-pub-monogram" style="background:rgba(59,223,255,0.1);color:var(--blue)">AI</div>
+          <div class="press-pub-monogram" style="background:color-mix(in srgb, var(--blue) 10%, transparent);color:var(--blue)">AI</div>
           <div class="press-pub-name">The AI Journal</div>
           <div class="press-pub-type">Interview</div>
         </div>
@@ -2745,7 +2747,7 @@ tr.pub-row[data-href]:hover .pub-doi { color: var(--lime); }
           <div class="press-img-bg" aria-hidden="true"><span class="press-img-wm">APM</span></div>
         </div>
         <div class="press-pub">
-          <div class="press-pub-monogram" style="background:rgba(0,154,114,0.12);color:var(--green)">AP</div>
+          <div class="press-pub-monogram" style="background:color-mix(in srgb, var(--green) 12%, transparent);color:var(--green)">AP</div>
           <div class="press-pub-name">APM Digest</div>
           <div class="press-pub-type">Feature</div>
         </div>
