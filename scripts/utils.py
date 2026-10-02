@@ -206,6 +206,48 @@ def normalize_dashes(text: str) -> str:
     return _EMDASH_RE.sub("-", text)
 
 
+# ──────────────────────────────────────────────────────────────────────
+#  SEO descriptions
+# ──────────────────────────────────────────────────────────────────────
+# Every post used to share one boilerplate meta description, which search
+# engines treat as duplicate/thin content. These helpers build a unique,
+# snippet-length description from the post's own content instead.
+SEO_DESC_LIMIT = 158
+
+
+def _yaml_safe(text: str) -> str:
+    """Make text safe inside a double-quoted YAML scalar."""
+    return (text or "").replace("\\", "/").replace('"', "'").replace("\n", " ").strip()
+
+
+def daily_seo_description(display: str, headlines: list[str], total: int) -> str:
+    """
+    'October 1, 2026: <lead>; <second>; and 8 more source-reviewed stories
+    on AI, data engineering and cloud.' trimmed to SEO_DESC_LIMIT chars.
+    """
+    heads = [_yaml_safe(h).rstrip(".") for h in headlines if h and h.strip()]
+    if not heads:
+        return _yaml_safe(f"The Daily Tech Signal for {display}: source-reviewed AI, data engineering and cloud news.")
+    tail_n = max(total - 2, 0)
+    tail = f"; and {tail_n} more source-reviewed AI, data and cloud stories." if tail_n else "."
+    lead = f"{display}: {heads[0]}"
+    full = lead + (f"; {heads[1]}" if len(heads) > 1 else "") + tail
+    if len(full) <= SEO_DESC_LIMIT:
+        return full
+    short = lead + tail
+    if len(short) <= SEO_DESC_LIMIT:
+        return short
+    cut = short[: SEO_DESC_LIMIT - 1].rsplit(" ", 1)[0].rstrip(",;:")
+    return cut + "…"
+
+
+def perspective_seo_description(theme: str, week_label: str) -> str:
+    return _yaml_safe(
+        f"Signal Perspective, week of {week_label}: what this week's {theme} "
+        "signals mean for data and AI engineering teams."
+    )
+
+
 _SLUG_RE = re.compile(r"[^a-z0-9]+")
 
 
@@ -503,6 +545,8 @@ __all__ = [
     "clean_html",
     "truncate",
     "normalize_dashes",
+    "daily_seo_description",
+    "perspective_seo_description",
     "slugify",
     "extract_tags",
     "fetch_url",

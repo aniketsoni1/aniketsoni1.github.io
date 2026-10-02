@@ -5,7 +5,7 @@ date: 2026-07-14 09:00:00 -0400
 author: "Aniket Abhishek Soni"
 categories: [AI, Data Engineering, Technology]
 tags: [AI, Research, Ai Model Companies, AI Agents, Kubernetes, Open Source Foundations, Hacker News, Data Pipelines, Developer Platforms, Machine Learning]
-description: "Daily brief on AI, data engineering, cloud platforms, technology events, and computing history."
+description: "July 14, 2026: Anthropic commits $10 million to Canadian AI research; and 13 more source-reviewed AI, data and cloud stories."
 edition: standard
 ---
 

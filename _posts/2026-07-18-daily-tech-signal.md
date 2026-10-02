@@ -5,7 +5,7 @@ date: 2026-07-18 09:00:00 -0400
 author: "Aniket Abhishek Soni"
 categories: [AI, Data Engineering, Technology]
 tags: [AI, Hacker News, Cloud, Open Source Foundations, Ai Model Companies]
-description: "Daily brief on AI, data engineering, cloud platforms, technology events, and computing history."
+description: "July 18, 2026: Flipkart and LitmusChaos at KubeCon + CloudNativeCon India 2026: A recap; and 10 more source-reviewed AI, data and cloud stories."
 edition: standard
 ---
 

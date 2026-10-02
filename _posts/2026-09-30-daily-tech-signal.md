@@ -5,7 +5,7 @@ date: 2026-09-30 09:00:00 -0400
 author: "Aniket Abhishek Soni"
 categories: [AI, Data Engineering, Technology]
 tags: [AI, Open Source Foundations, Ai Model Companies, Streaming, Kubernetes, AI Models, Data Pipelines, ETL, AWS, Databases]
-description: "Daily brief on AI, data engineering, cloud platforms, technology events, and computing history."
+description: "September 30, 2026: ArgoCon North America 2026: What to expect as the Argo community looks toward CD 4.0; and 13 more source-reviewed AI, data and cloud…"
 edition: standard
 ---
 

@@ -5,7 +5,7 @@ date: 2026-07-11 09:00:00 -0400
 author: "Aniket Abhishek Soni"
 categories: [AI, Data Engineering, Technology]
 tags: [AI, Open Source Foundations, Research, Hacker News, Ai Model Companies, Enterprise Technology, Mainstream Press]
-description: "Daily brief on AI, data engineering, cloud platforms, technology events, and computing history."
+description: "July 11, 2026: Where should AI workloads run? A sovereign and sensible approach; and 13 more source-reviewed AI, data and cloud stories."
 edition: standard
 ---
 

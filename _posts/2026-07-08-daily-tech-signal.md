@@ -5,7 +5,7 @@ date: 2026-07-08 09:00:00 -0400
 author: "Aniket Abhishek Soni"
 categories: [AI, Data Engineering, Technology]
 tags: [AI, AI Agents, Open Source Foundations, Hacker News, GPUs, Open Source, Mlops, Cloud, Google Cloud, Cloud Providers]
-description: "Daily brief on AI, data engineering, cloud platforms, technology events, and computing history."
+description: "July 8, 2026: Network boundary for AI agents using NGINX and OpenTelemetry; and 5 more source-reviewed AI, data and cloud stories."
 edition: standard
 ---
 

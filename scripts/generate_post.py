@@ -44,6 +44,7 @@ from utils import (
     get_logger,
     ny_now,
     ny_today,
+    daily_seo_description,
     normalize_dashes,
     read_json,
     run_dir,
@@ -73,9 +74,6 @@ def _daily_signal_cap(d: date) -> int:
 
 AUTHOR = "Aniket Abhishek Soni"
 DISCLAIMER = "This daily brief is AI-assisted and source-reviewed for public technology awareness."
-DESCRIPTION = (
-    "Daily brief on AI, data engineering, cloud platforms, technology events, and computing history."
-)
 MONTHS = [
     "January", "February", "March", "April", "May", "June",
     "July", "August", "September", "October", "November", "December",
@@ -343,7 +341,12 @@ def main() -> int:
         "author": AUTHOR,
         "categories": payload.categories,
         "tags": payload.tags,
-        "description": DESCRIPTION,
+        # Prefer primary-source headlines (not the HN aggregator) for the snippet.
+        "description": daily_seo_description(
+            display_date(today),
+            [i.title for i in sorted(selected, key=lambda i: str(getattr(i, "source_type", "")).endswith("aggregator"))][:2],
+            len(selected),
+        ),
         "edition": edition.value,
         "is_short": edition == Edition.SHORT_SIGNAL,
         "hero_image": hero_image,

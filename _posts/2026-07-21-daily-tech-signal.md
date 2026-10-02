@@ -5,7 +5,7 @@ date: 2026-07-21 09:00:00 -0400
 author: "Aniket Abhishek Soni"
 categories: [AI, Data Engineering, Technology]
 tags: [AI Models, Ai Model Companies, AI, AI Agents, Kubernetes, Cloud, Open Source Foundations, Hacker News, GPUs, Enterprise Technology]
-description: "Daily brief on AI, data engineering, cloud platforms, technology events, and computing history."
+description: "July 21, 2026: Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber; and 11 more source-reviewed AI, data and cloud stories."
 edition: standard
 ---
 

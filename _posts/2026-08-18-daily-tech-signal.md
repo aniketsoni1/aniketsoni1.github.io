@@ -5,7 +5,7 @@ date: 2026-08-18 09:00:00 -0400
 author: "Aniket Abhishek Soni"
 categories: [AI, Data Engineering, Technology]
 tags: [Cloud, Open Source Foundations, AI, Ai Model Companies, Hacker News, AWS, Cloud Providers, AI Agents, Containers, Developer Platforms]
-description: "Daily brief on AI, data engineering, cloud platforms, technology events, and computing history."
+description: "August 18, 2026: Cloud Native platform sovereignty through multi-plane architecture; and 11 more source-reviewed AI, data and cloud stories."
 edition: standard
 ---
 

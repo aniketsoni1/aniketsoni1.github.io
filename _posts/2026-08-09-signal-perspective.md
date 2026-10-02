@@ -5,7 +5,7 @@ date: 2026-08-09 10:00:00 -0400
 author: "Aniket Abhishek Soni"
 categories: [Perspective, AI, Data Engineering]
 tags: [AI, AI Models, Security, Ai Model Companies, AI Agents, Perspective]
-description: "Weekly thought-leadership column: what this week's AI signals mean for data and AI engineering teams."
+description: "Signal Perspective, week of August 3–9, 2026: what this week's AI signals mean for data and AI engineering teams."
 edition: perspective
 ---
 

@@ -5,7 +5,7 @@ date: 2026-07-12 09:00:00 -0400
 author: "Aniket Abhishek Soni"
 categories: [AI, Data Engineering, Technology]
 tags: [AI, LLMs, Hacker News, AI Agents, AI Models, Mlops, GPUs, Open Source, Mainstream Press]
-description: "Daily brief on AI, data engineering, cloud platforms, technology events, and computing history."
+description: "July 12, 2026: How to Evaluate General-Purpose Robot Policies for Real-World Deployment; and 11 more source-reviewed AI, data and cloud stories."
 edition: standard
 ---
 

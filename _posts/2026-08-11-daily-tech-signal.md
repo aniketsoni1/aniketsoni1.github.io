@@ -5,7 +5,7 @@ date: 2026-08-11 09:00:00 -0400
 author: "Aniket Abhishek Soni"
 categories: [AI, Data Engineering, Technology]
 tags: [AI, Open Source Foundations, Hacker News, Cloud, AWS, Ai Model Companies, AI Agents, GPUs, Open Source, AI Models]
-description: "Daily brief on AI, data engineering, cloud platforms, technology events, and computing history."
+description: "August 11, 2026: A practical guide to solving when zero+zero=two in mesh observability; and 11 more source-reviewed AI, data and cloud stories."
 edition: standard
 ---
 

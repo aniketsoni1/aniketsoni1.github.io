@@ -5,7 +5,7 @@ date: 2026-08-17 09:00:00 -0400
 author: "Aniket Abhishek Soni"
 categories: [AI, Data Engineering, Technology]
 tags: [AI, Ai Model Companies, Security, APIs, AI Agents, Containers, Data Governance, Developer Platforms, Enterprise Technology, Hacker News]
-description: "Daily brief on AI, data engineering, cloud platforms, technology events, and computing history."
+description: "August 17, 2026: Get closer to the game with Gemini and Pixel; The Defender’s Window; and 5 more source-reviewed AI, data and cloud stories."
 edition: standard
 ---
 

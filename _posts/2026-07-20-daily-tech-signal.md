@@ -5,7 +5,7 @@ date: 2026-07-20 09:00:00 -0400
 author: "Aniket Abhishek Soni"
 categories: [AI, Data Engineering, Technology]
 tags: [AI, Cloud, Open Source Foundations, LLMs, Databases, Hacker News, AI Agents, GPUs, AI Models, Enterprise Technology]
-description: "Daily brief on AI, data engineering, cloud platforms, technology events, and computing history."
+description: "July 20, 2026: ArgoCon Japan 2026: Meeting the Maintainers, enterprise insights, and the road to Argo CD 3.5; and 9 more source-reviewed AI, data and cloud…"
 edition: standard
 ---
 

@@ -5,7 +5,7 @@ date: 2026-07-07 09:00:00 -0400
 author: "Aniket Abhishek Soni"
 categories: [AI, Data Engineering, Technology]
 tags: [Open Source, Open Source Foundations, AI, AI Agents, APIs, Ai Model Companies, Hacker News]
-description: "Daily brief on AI, data engineering, cloud platforms, technology events, and computing history."
+description: "July 7, 2026: Two months of Open Community Groups; Why sandboxing your agent is not enough; and 5 more source-reviewed AI, data and cloud stories."
 edition: standard
 ---
 

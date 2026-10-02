@@ -5,7 +5,7 @@ date: 2026-08-03 09:00:00 -0400
 author: "Aniket Abhishek Soni"
 categories: [AI, Data Engineering, Technology]
 tags: [Open Source, Security, Open Source Foundations, Hacker News, LLMs, Containers, Developer Platforms, AI, AI Agents, Data Governance]
-description: "Daily brief on AI, data engineering, cloud platforms, technology events, and computing history."
+description: "August 3, 2026: Cortex completes OSTIF security audit; Empty sandboxes break developer experience; and 13 more source-reviewed AI, data and cloud stories."
 edition: standard
 ---
 

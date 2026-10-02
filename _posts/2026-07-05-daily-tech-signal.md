@@ -5,7 +5,7 @@ date: 2026-07-05 09:00:00 -0400
 author: "Aniket Abhishek Soni"
 categories: [AI, Data Engineering, Technology]
 tags: [AI, Open Source, Hacker News, Enterprise Technology]
-description: "Daily brief on AI, data engineering, cloud platforms, technology events, and computing history."
+description: "July 5, 2026: Amazon will stop accepting new customers for Mechanical Turk; and 5 more source-reviewed AI, data and cloud stories."
 edition: standard
 ---
 

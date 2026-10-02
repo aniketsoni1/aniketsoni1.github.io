@@ -5,7 +5,7 @@ date: 2026-07-16 09:00:00 -0400
 author: "Aniket Abhishek Soni"
 categories: [AI, Data Engineering, Technology]
 tags: [LLMs, Kubernetes, APIs, AI Models, Open Source Foundations, AI, Ai Model Companies, Hacker News, AI Agents, Data Pipelines]
-description: "Daily brief on AI, data engineering, cloud platforms, technology events, and computing history."
+description: "July 16, 2026: Running a self-hosted LLM in Kubernetes with vLLM; Our approach to bioresilience; and 13 more source-reviewed AI, data and cloud stories."
 edition: standard
 ---
 

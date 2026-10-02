@@ -5,7 +5,7 @@ date: 2026-07-29 09:00:00 -0400
 author: "Aniket Abhishek Soni"
 categories: [AI, Data Engineering, Technology]
 tags: [Kubernetes, Open Source Foundations, Hacker News, AI, Cloud, Research, APIs]
-description: "Daily brief on AI, data engineering, cloud platforms, technology events, and computing history."
+description: "July 29, 2026: Your Kubernetes health checks are accidentally waking your services. Here’s the fix; and 7 more source-reviewed AI, data and cloud stories."
 edition: standard
 ---
 

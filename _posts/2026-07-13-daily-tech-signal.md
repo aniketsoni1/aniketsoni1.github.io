@@ -5,7 +5,7 @@ date: 2026-07-13 09:00:00 -0400
 author: "Aniket Abhishek Soni"
 categories: [AI, Data Engineering, Technology]
 tags: [AI Agents, Open Source Foundations, Hacker News, AI, APIs, GPUs, Research, Mlops, Cloud Providers, Lakehouse]
-description: "Daily brief on AI, data engineering, cloud platforms, technology events, and computing history."
+description: "July 13, 2026: Operating OpenTelemetry at scale with OpAMP; and 9 more source-reviewed AI, data and cloud stories."
 edition: standard
 ---
 

@@ -5,7 +5,7 @@ date: 2026-09-10 09:00:00 -0400
 author: "Aniket Abhishek Soni"
 categories: [AI, Data Engineering, Technology]
 tags: [Research, Ai Model Companies, AI, Apache Spark, AI Agents, Kubernetes, Open Source Foundations, Hacker News, Cloud, Google Cloud]
-description: "Daily brief on AI, data engineering, cloud platforms, technology events, and computing history."
+description: "September 10, 2026: How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules; and 7 more source-reviewed AI, data and cloud stories."
 edition: standard
 ---
 

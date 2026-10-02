@@ -5,7 +5,7 @@ date: 2026-09-13 10:00:00 -0400
 author: "Aniket Abhishek Soni"
 categories: [Perspective, AI, Data Engineering]
 tags: [AI, Ai Model Companies, Open Source Foundations, Cloud, AI Agents, Perspective]
-description: "Weekly thought-leadership column: what this week's AI signals mean for data and AI engineering teams."
+description: "Signal Perspective, week of September 7–13, 2026: what this week's AI signals mean for data and AI engineering teams."
 edition: perspective
 ---
 

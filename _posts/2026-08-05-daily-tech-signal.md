@@ -5,7 +5,7 @@ date: 2026-08-05 09:00:00 -0400
 author: "Aniket Abhishek Soni"
 categories: [AI, Data Engineering, Technology]
 tags: [AI, Kubernetes, GPUs, AI Models, Open Source Foundations, Hacker News, Vector Databases, Cloud Providers, AI Agents, Cloud]
-description: "Daily brief on AI, data engineering, cloud platforms, technology events, and computing history."
+description: "August 5, 2026: OpenCost 1.121.0: First-of-a-kind Kubernetes inference cost tracking; and 9 more source-reviewed AI, data and cloud stories."
 edition: standard
 ---
 

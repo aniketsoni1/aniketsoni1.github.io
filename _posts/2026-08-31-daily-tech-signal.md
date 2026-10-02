@@ -5,7 +5,7 @@ date: 2026-08-31 09:00:00 -0400
 author: "Aniket Abhishek Soni"
 categories: [AI, Data Engineering, Technology]
 tags: [Security, Ai Model Companies, Hacker News, AI, Cloud Providers, Kubernetes, Open Source, Open Source Foundations, APIs, Streaming]
-description: "Daily brief on AI, data engineering, cloud platforms, technology events, and computing history."
+description: "August 31, 2026: Improving our alignment and security practices; and 12 more source-reviewed AI, data and cloud stories."
 edition: standard
 ---
 

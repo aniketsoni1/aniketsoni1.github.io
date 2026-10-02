@@ -5,7 +5,7 @@ date: 2026-09-04 09:00:00 -0400
 author: "Aniket Abhishek Soni"
 categories: [AI, Data Engineering, Technology]
 tags: [AI, GPUs, AI Models, Open Source Foundations, Kubernetes, Hacker News, AI Agents, Mlops, Developer Tools, Research]
-description: "Daily brief on AI, data engineering, cloud platforms, technology events, and computing history."
+description: "September 4, 2026: CPU + GPU: Why AI platform engineering is a heterogeneous infrastructure problem; and 11 more source-reviewed AI, data and cloud stories."
 edition: standard
 ---
 

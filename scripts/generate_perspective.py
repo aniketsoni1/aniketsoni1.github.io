@@ -33,6 +33,7 @@ from utils import (
     ny_now,
     ny_today,
     normalize_dashes,
+    perspective_seo_description,
     read_json,
     run_dir,
     truncate,
@@ -208,10 +209,7 @@ def main() -> int:
         "author": AUTHOR,
         "categories": ["Perspective", "AI", "Data Engineering"],
         "tags": [theme] + related[:4] + ["Perspective"],
-        "description": (
-            f"Weekly thought-leadership column: what this week's {theme} signals mean "
-            "for data and AI engineering teams."
-        ),
+        "description": perspective_seo_description(theme, week_label),
         "week_label": week_label,
         "theme": _liquid_safe(theme),
         "opening": _liquid_safe(opening),

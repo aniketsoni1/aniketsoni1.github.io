@@ -5,7 +5,7 @@ date: 2026-09-17 09:00:00 -0400
 author: "Aniket Abhishek Soni"
 categories: [AI, Data Engineering, Technology]
 tags: [AI, Data Pipelines, Open Source, Open Source Foundations, Cloud Providers, Databases, AI Models, Streaming, Cloud, Google Cloud]
-description: "Daily brief on AI, data engineering, cloud platforms, technology events, and computing history."
+description: "September 17, 2026: OpenTelemetry everywhere: Migrating a metrics platform at scale; and 8 more source-reviewed AI, data and cloud stories."
 edition: standard
 ---
 

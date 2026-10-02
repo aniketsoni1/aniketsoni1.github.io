@@ -5,7 +5,7 @@ date: 2026-09-12 09:00:00 -0400
 author: "Aniket Abhishek Soni"
 categories: [AI, Data Engineering, Technology]
 tags: [AI Models, Ai Model Companies, Hacker News, APIs, AI, AI Agents, Cloud, GPUs, Open Source Foundations, Python]
-description: "Daily brief on AI, data engineering, cloud platforms, technology events, and computing history."
+description: "September 12, 2026: Perplexity trusts GPT-6 Astra with end-to-end systems; and 11 more source-reviewed AI, data and cloud stories."
 edition: standard
 ---
 

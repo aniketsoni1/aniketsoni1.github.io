@@ -5,7 +5,7 @@ date: 2026-08-22 09:00:00 -0400
 author: "Aniket Abhishek Soni"
 categories: [AI, Data Engineering, Technology]
 tags: [Hacker News, AI, Research, Ai Model Companies, Open Source Foundations]
-description: "Daily brief on AI, data engineering, cloud platforms, technology events, and computing history."
+description: "August 22, 2026: From Atari to EVE Online: Building on 15 Years of AI Research in Games; and 13 more source-reviewed AI, data and cloud stories."
 edition: standard
 ---
 
