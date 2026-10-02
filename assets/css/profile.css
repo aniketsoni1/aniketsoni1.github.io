@@ -273,3 +273,19 @@ a.pf-chart-y:hover { color: var(--lime); text-decoration: underline; }
 .pf-all .pf-back, .pf-all .pf-secnav { display: none; }
 .pf-all .pf-section.is-active { animation: none; }
 @media print { .pf-viewbar { display: none !important; } }
+
+/* ── Overview grid: 4 per row (2 tablet, 1 phone); counts share a baseline ── */
+.pf-grid-overview { grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 1rem; }
+.pf-ov-card { min-height: 190px; padding: 1.25rem 1.3rem; }
+.pf-ov-title { font-size: 1.05rem; }
+/* Footer has a fixed height for count + one extra line, top-aligned, so a
+   tile with an extra line ("+ 28+ peer reviews") does not lift its number. */
+.pf-ov-foot { margin-top: auto; display: flex; flex-direction: column; justify-content: flex-start; gap: .3rem; min-height: 3.4rem; padding-top: .8rem; }
+.pf-ov-count { margin-top: 0; }
+.pf-ov-tl { grid-column: span 2; }
+@media (max-width: 980px) { .pf-grid-overview { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
+@media (max-width: 560px) { .pf-grid-overview { grid-template-columns: 1fr; } .pf-ov-tl { grid-column: auto; } .pf-ov-card { min-height: 0; } }
+.pf-ov-foot { min-height: 4.6rem; }
+/* Metrics: wrap and stretch so a short last row never leaves an empty grey cell */
+.pf-metrics { display: flex; flex-wrap: wrap; background: var(--border); }
+.pf-metric { flex: 1 1 140px; }
