@@ -25,7 +25,7 @@
     })();
   </script>
   <meta name="author" content="{{ site.author.name }}">
-  <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large">
+  <meta name="robots" content="{% if page.url == '/404.html' %}noindex, follow{% else %}index, follow, max-snippet:-1, max-image-preview:large{% endif %}">
 
   <!-- Same monogram favicon as the homepage -->
   <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><rect width=%22100%22 height=%22100%22 rx=%2218%22 fill=%22%23050505%22/><text x=%2250%22 y=%2268%22 font-family=%22Arial,sans-serif%22 font-weight=%22bold%22 font-size=%2248%22 fill=%22%23009e9e%22 text-anchor=%22middle%22>AS</text></svg>">
