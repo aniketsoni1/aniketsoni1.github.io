@@ -69,6 +69,8 @@ stats:
   peer_reviews: "28+"
   peer_venues: "10"            # IEEE conferences with documented reviews
   books: "2"
+  press_features: "5"         # interviews, features and expert articles
+  judging_appointments: "10+" # individual appointments (MIT rounds, Neal editions, ...)
 
 # Profile metric strip (values come from `stats` above).
 metrics:

@@ -189,7 +189,7 @@
           {%- if s.blurb %}<span class="pf-ov-blurb">{{ s.blurb }}</span>{% endif %}
           <span class="pf-ov-foot">
             <span class="pf-ov-count">{{ n }} <small>{{ s.unit | default: 'items' }}</small></span>
-            {%- if s.key == 'judging' %}<span class="pf-ov-extra">+ {{ P.peer_review.total }} peer reviews</span>{% endif %}
+            {%- if s.key == 'judging' %}<span class="pf-ov-extra">{{ P.stats.judging_appointments }} appointments · {{ P.stats.peer_reviews }} peer reviews</span>{% endif %}
           </span>
         </a>
         {%- endfor %}
