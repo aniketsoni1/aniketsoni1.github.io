@@ -82,7 +82,9 @@
 /* ── Floating page navigation (assets/js/section-nav.js), every page ──
    ↑ Back to top / ‹ Previous / › Next, stacked bottom-left. Hidden buttons
    take no space, so the stack shrinks to 2 at the first / last section. */
-.page-nav { position: fixed; left: 1.8rem; bottom: 1.8rem; z-index: 600; display: flex; flex-direction: column; gap: .6rem; }
+.page-nav { position: fixed !important; left: 1.8rem !important; bottom: 1.8rem !important; top: auto !important; right: auto !important;
+  width: auto !important; height: auto !important; padding: 0 !important; margin: 0 !important; background: none !important; border: 0 !important;
+  z-index: 600; display: flex !important; flex-direction: column !important; justify-content: flex-end !important; align-items: flex-start !important; gap: .6rem; }
 .page-nav #back-to-top, .page-nav .page-nav-btn {
   position: relative !important; left: auto !important; bottom: auto !important;
   width: 46px; height: 46px; border-radius: 50%; cursor: pointer;
@@ -104,7 +106,7 @@
 }
 .page-nav [data-label]:hover::after, .page-nav [data-label]:focus-visible::after { opacity: 1; transform: translate(0, -50%); }
 @media (hover: none), (pointer: coarse) {
-  .page-nav { left: 1.2rem; bottom: 1.2rem; gap: .5rem; }
+  .page-nav { left: 1.2rem !important; bottom: 1.2rem !important; gap: .5rem; }
   .page-nav #back-to-top, .page-nav .page-nav-btn { width: 44px; height: 44px; }
   .page-nav [data-label]::after { display: none; }
 }
