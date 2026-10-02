@@ -11,6 +11,7 @@
        blog post    previous / next post
        other pages  no Previous / Next (Back to top only)
    - At the first section Previous is hidden; at the last, Next is hidden.
+   - Next only appears once the page has been scrolled (hidden at the very top).
    Labels show on hover and are read by screen readers ("Next: Experience").
    ════════════════════════════════════════════════════════════════════ */
 (function () {
@@ -22,8 +23,11 @@
   var body = document.body;
 
   // ── Build the stack (reuse an existing #back-to-top so page scripts keep working) ──
-  var wrap = document.createElement('nav');
+  // A <div role="navigation">, not <nav>: page stylesheets style bare `nav`
+  // elements (the homepage pins every nav full-width to the top).
+  var wrap = document.createElement('div');
   wrap.className = 'page-nav';
+  wrap.setAttribute('role', 'navigation');
   wrap.setAttribute('aria-label', 'Page navigation');
   var top = document.getElementById('back-to-top');
   if (!top) {
@@ -117,7 +121,9 @@
   function update() {
     var r = resolve ? resolve() : { prev: null, next: null };
     setBtn(prev, 'Previous', r.prev);
-    setBtn(next, 'Next', r.next);
+    // Next stays hidden until the visitor scrolls (no floating button over
+    // the opening view); it hides again only at the very top.
+    setBtn(next, 'Next', window.scrollY > 40 ? r.next : null);
   }
   var queued = false;
   window.addEventListener('scroll', function () {
