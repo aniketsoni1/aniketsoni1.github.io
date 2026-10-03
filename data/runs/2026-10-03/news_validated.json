@@ -1,0 +1,834 @@
+{
+  "post_date": "2026-10-03",
+  "sources_checked": 48,
+  "count": 45,
+  "items": [
+    {
+      "title": "Kolibri is an open-weight LLM from Aleph Alpha for German and English",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://tej.as/blog/aleph-alpha-kolibri",
+      "published_at": "2026-10-03T10:43:51Z",
+      "category": "aggregators",
+      "tags": [
+        "LLMs",
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.8421,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49943034"
+    },
+    {
+      "title": "Kolibri Has Landed: A Sovereign Open-Weight Model",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/",
+      "published_at": "2026-10-03T09:36:04Z",
+      "category": "aggregators",
+      "tags": [
+        "AI Models",
+        "Hacker News"
+      ],
+      "confidence_score": 0.665,
+      "importance_score": 0.8374,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49942706"
+    },
+    {
+      "title": "Claude Frontier Academy: $100M to train 10,000 engineers",
+      "summary": "Claude Frontier Academy: $100M to train 10,000 engineers Anthropic",
+      "source_name": "Anthropic",
+      "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9FNlFxVHBSRkl5bVF0c253UE5sUEFac3dDZmQ4bzFjc2lER0hNcjFmUUxPVFI5T0xQcldFTXhsd1diR2h4UUVoRnl4TWxEVnp5WXpCMFdkZHNKdlA1bFV4QTVqUDI?oc=5",
+      "published_at": "2026-10-02T23:01:00Z",
+      "category": "ai_model_companies",
+      "tags": [
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.99,
+      "importance_score": 0.8233,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "CBMiZEFVX3lxTE9FNlFxVHBSRkl5bVF0c253UE5sUEFac3dDZmQ4bzFjc2lER0hNcjFmUUxPVFI5T0xQcldFTXhsd1diR2h4UUVoRnl4TWxEVnp5WXpCMFdkZHNKdlA1bFV4QTVqUDI"
+    },
+    {
+      "title": "Extra Big Ass Intelligence",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.extrabigassintelligence.com/",
+      "published_at": "2026-10-03T03:19:10Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.8112,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49941114"
+    },
+    {
+      "title": "Newgrounds.com – A community of games, music, and art",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.newgrounds.com/",
+      "published_at": "2026-10-03T00:55:25Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.8012,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49940394"
+    },
+    {
+      "title": "Salesforce’s Agentic CX Vision: 8 Dreamforce Announcements CX Leaders Need to Act On",
+      "summary": "",
+      "source_name": "Salesforce News",
+      "source_url": "https://www.salesforce.com/news/linked-content/salesforces-agentic-cx-vision-8-dreamforce-announcements-cx-leaders-need-to-act-on/",
+      "published_at": "2026-10-02T17:00:58Z",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI Agents",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.8,
+      "importance_score": 0.7983,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.salesforce.com/?post_type=sf_linked_content&p=95820"
+    },
+    {
+      "title": "A model guide for the GPT-6 family",
+      "summary": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/practical-guide-building-gpt-6",
+      "published_at": "2026-10-02T16:15:00Z",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI Models",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.97,
+      "importance_score": 0.7951,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/index/practical-guide-building-gpt-6"
+    },
+    {
+      "title": "KubeCon + CloudNativeCon North America 2026: Join the cloud native community at OpenTofu Day",
+      "summary": "Most of KubeCon + CloudNativeCon assumes the cluster already exists. OpenTofu Day covers everything that has to be provisioned before and around it: cloud accounts, networking, managed services, and the clusters themselves. On November 9, OpenTofu...",
+      "source_name": "CNCF",
+      "source_url": "https://www.cncf.io/blog/2026/10/02/kubecon-cloudnativecon-north-america-2026-join-the-cloud-native-community-at-opentofu-day/",
+      "published_at": "2026-10-02T15:22:44Z",
+      "category": "open_source_foundations",
+      "tags": [
+        "Cloud",
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.87,
+      "importance_score": 0.7914,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.cncf.io/?p=175614"
+    },
+    {
+      "title": "The latest AI news we announced in September 2026",
+      "summary": "A video showing the September AI updates",
+      "source_name": "Google AI (The Keyword)",
+      "source_url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
+      "published_at": "2026-10-02T15:00:00Z",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.92,
+      "importance_score": 0.7899,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/"
+    },
+    {
+      "title": "Updates to Full Disk Access in macOS",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://developer.apple.com/news/?id=p6zjojqw",
+      "published_at": "2026-10-02T19:37:01Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.6825,
+      "importance_score": 0.7791,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49937631"
+    },
+    {
+      "title": "Muse Gadgets",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://gadgets.muse.ai",
+      "published_at": "2026-10-02T19:26:54Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.665,
+      "importance_score": 0.7784,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49937504"
+    },
+    {
+      "title": "Apple Pass Designer",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://developer.apple.com/pass-designer/",
+      "published_at": "2026-10-02T19:06:56Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.777,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49937276"
+    },
+    {
+      "title": "From the creator of Redis; run LLM locally with ds4",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://dwarfstar.sh/",
+      "published_at": "2026-10-02T18:01:16Z",
+      "category": "aggregators",
+      "tags": [
+        "LLMs",
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7724,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49936575"
+    },
+    {
+      "title": "One month coding with GLM 5.3 Flash",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://wagtail.org/blog/one-month-on-glm-53-flash/",
+      "published_at": "2026-10-02T15:29:15Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.654,
+      "importance_score": 0.7619,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49934620"
+    },
+    {
+      "title": "With most information hidden, the game Stratego had stumped AI until now",
+      "summary": "https://www.nature.com/articles/s41586-026-11036-y https://arxiv.org/abs/2511.07312",
+      "source_name": "Hacker News",
+      "source_url": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
+      "published_at": "2026-10-02T14:11:24Z",
+      "category": "aggregators",
+      "tags": [
+        "AI",
+        "Hacker News"
+      ],
+      "confidence_score": 0.68,
+      "importance_score": 0.7565,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49933740"
+    },
+    {
+      "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
+      "summary": "By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from their job.",
+      "source_name": "TechCrunch - AI",
+      "source_url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
+      "published_at": "2026-10-03T16:30:01Z",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7561,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://techcrunch.com/?p=3173499"
+    },
+    {
+      "title": "Cloudflare OHTTP gateway",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/",
+      "published_at": "2026-10-03T03:15:05Z",
+      "category": "aggregators",
+      "tags": [
+        "Cloud",
+        "Hacker News"
+      ],
+      "confidence_score": 0.628,
+      "importance_score": 0.7559,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49941091"
+    },
+    {
+      "title": "Robotics Special: Figure decommissions the F.02 in bizarre fashion",
+      "summary": "Robotics Special: Figure decommissions the F.02 in bizarre fashion Superhuman AI",
+      "source_name": "Superhuman (Zain Kahn)",
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbEtZaHNhRm9fZm4zaWdaSTAwWWoxV3JWRTFQUl9zaHRZVkVFaDFfTFBNZEpnbkRyZ2xoRVVpRGpSMFhRMUd1MklHRkRtbFZFT2w1VFIxVmptWlV6MC1UVklRMnhfdEJNSXBxcTJjNWJ1RmV0Yng2ZHIzaU9rUVJvTTk0Ul9kek83bWg1YlVwM0tkR0JjTllkcw?oc=5",
+      "published_at": "2026-10-03T16:24:03Z",
+      "category": "ai_newsletters",
+      "tags": [
+        "AI",
+        "Ai Newsletters"
+      ],
+      "confidence_score": 0.64,
+      "importance_score": 0.7557,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "CBMimAFBVV95cUxQbEtZaHNhRm9fZm4zaWdaSTAwWWoxV3JWRTFQUl9zaHRZVkVFaDFfTFBNZEpnbkRyZ2xoRVVpRGpSMFhRMUd1MklHRkRtbFZFT2w1VFIxVmptWlV6MC1UVklRMnhfdEJNSXBxcTJjNWJ1RmV0Yng2ZHIzaU9rUVJvTTk0Ul9kek83bWg1YlVwM0tkR0JjTllkcw"
+    },
+    {
+      "title": "I reviewed luxury hotels for nearly a decade. Becoming a mom changed what I look for.",
+      "summary": "Traveling with a baby changed my definition of five-star hospitality. Now that I'm a parent, personalized service matters more than fancy amenities.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/review-hotels-luxury-travel-parenthood-needs-amenities-service-2026-10",
+      "published_at": "2026-10-03T15:36:01Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7524,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/review-hotels-luxury-travel-parenthood-needs-amenities-service-2026-10"
+    },
+    {
+      "title": "Anthropic's super bug-hunting model Mythos is hardcore good at math, as latest vuln under attack shows",
+      "summary": "Exploitation attempts came from China-hosted IP, VulnCheck researcher says",
+      "source_name": "The Register",
+      "source_url": "https://www.theregister.com/security/2026/10/03/anthropics-super-bug-hunting-model-mythos-is-hardcore-good-at-math-as-latest-vuln-under-attack-shows/5300933",
+      "published_at": "2026-10-03T15:27:00Z",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI Models",
+        "Research",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7517,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.theregister.com/a/5300933"
+    },
+    {
+      "title": "I ordered the same 3 items at Jersey Mike's and Subway. Neither sandwich chain was perfect, but one stood out.",
+      "summary": "I compared the same hot sandwich, sub, and cookie order at Jersey Mike's and Subway to see which chain restaurant offers the best food and value.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/subway-vs-jersey-mikes-sandwich-comparison-which-is-better-review-2026-10",
+      "published_at": "2026-10-03T15:15:01Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7509,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/subway-vs-jersey-mikes-sandwich-comparison-which-is-better-review-2026-10"
+    },
+    {
+      "title": "White House announces one-time $90 rebate for some Medicare users",
+      "summary": "Some 20 million people enrolled in Part B are eligible for the payments.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/white-house-announces-90-rebate-for-some-medicare-users-2026-10",
+      "published_at": "2026-10-03T14:54:50Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7495,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/white-house-announces-90-rebate-for-some-medicare-users-2026-10"
+    },
+    {
+      "title": "Who’s to Blame When A.I. Goes Rogue?",
+      "summary": "Many think artificial intelligence companies should be held liable for their runaway technology. But legal scholars say applying existing law could be messy.",
+      "source_name": "The New York Times - Technology",
+      "source_url": "https://www.nytimes.com/2026/10/01/technology/ai-rogue-agents-liability.html",
+      "published_at": "2026-10-03T14:51:40Z",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7493,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.nytimes.com/2026/10/01/technology/ai-rogue-agents-liability.html"
+    },
+    {
+      "title": "MI5 Says China’s MSS Funded Research Involving 100+ U.K.-Linked Academics",
+      "summary": "The U.K.'s domestic intelligence and security agency has warned that more than 100 academics have helped China boost its intelligence gathering efforts on behalf of Beijing's state security service. In a \"Security Service Espionage Alert\" issued on September 30, 2026, MI5 said the \"primary purpose of the China General Technology Research Institute (CGTRI) 中国通用技术研究院 is to fund research that",
+      "source_name": "The Hacker News",
+      "source_url": "https://thehackernews.com/2026/10/mi5-says-chinas-mss-funded-research.html",
+      "published_at": "2026-10-03T14:38:46Z",
+      "category": "cybersecurity",
+      "tags": [
+        "Security",
+        "Research",
+        "Cybersecurity"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7484,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://thehackernews.com/2026/10/mi5-says-chinas-mss-funded-research.html"
+    },
+    {
+      "title": "Warlock Exploits SharePoint Flaws to Disable Security Tools and Deploy Ransomware",
+      "summary": "The suspected China-linked threat actor known as Warlock is still continuing to weaponize Microsoft SharePoint vulnerabilities, likely both old and new, in attacks targeting organizations in Portuguese- and Spanish-speaking countries. The activity, observed by the Symantec and Carbon Black Threat Hunter Team, has hit critical infrastructure, government, and education organizations. \"In the",
+      "source_name": "The Hacker News",
+      "source_url": "https://thehackernews.com/2026/10/warlock-exploits-sharepoint-flaws-to.html",
+      "published_at": "2026-10-03T14:36:33Z",
+      "category": "cybersecurity",
+      "tags": [
+        "Security",
+        "Cybersecurity"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7482,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://thehackernews.com/2026/10/warlock-exploits-sharepoint-flaws-to.html"
+    },
+    {
+      "title": "An Update on Orion for Linux and Windows",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://blog.kagi.com/update-orion-linux-windows",
+      "published_at": "2026-10-03T04:53:57Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.622,
+      "importance_score": 0.7478,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49941447"
+    },
+    {
+      "title": "AI21 achieves an 83% reduction in time-to-start for AI workloads with AI Hypercomputer",
+      "summary": "Editor’s note : AI21 Labs is a leading global AI lab with a long track record of building foundation models, most notably the Jamba family, and today focuses on specialized LLMs and agent optimization technology. By adopting Google Cloud AI Hypercomputer, AI21 cut high-priority job wait times from 72 hours to 12 and manual scheduling interventions from 20 per week to zero. At AI21 , we build foundation models and agent optimization products that help enterprises run agents…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/products/containers-kubernetes/ai21-trains-its-models-on-ai-hypercomputer/",
+      "published_at": "2026-10-02T19:00:00Z",
+      "category": "cloud_providers",
+      "tags": [
+        "AI",
+        "LLMs",
+        "AI Agents",
+        "Cloud",
+        "Google Cloud",
+        "AI Models",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.7465,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/products/containers-kubernetes/ai21-trains-its-models-on-ai-hypercomputer/"
+    },
+    {
+      "title": "All the AI agents that can live in your text messages",
+      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "source_name": "TechCrunch - AI",
+      "source_url": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "published_at": "2026-10-03T14:00:00Z",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7457,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://techcrunch.com/?p=3173132"
+    },
+    {
+      "title": "I'm raising my 4 kids in Spain. I've become a less controlling parent here.",
+      "summary": "Raising four children in Spain changed how I parent. I give my kids more freedom to explore, solve problems, and participate in public life.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/raising-kids-spain-parenting-independence-freedom-2026-10",
+      "published_at": "2026-10-03T13:57:01Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7455,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/raising-kids-spain-parenting-independence-freedom-2026-10"
+    },
+    {
+      "title": "Reverse Item Response Theory for Sparsity-Robust Ranking in Fragmented Cancer Drug-Response Matrices",
+      "summary": "arXiv:2610.00002v1 Announce Type: new Abstract: We introduce reverse Item Response Theory (IRT) to pharmacogenomic drug-response analysis by treating cancer types as latent \"subjects\" with resistance ability and drugs as \"items\" with evasion difficulty. Applied to 242,036 drug sensitivity measurements from the Genomics of Drug Sensitivity in Cancer (GDSC2) database, the model estimates cancer-type-level in-vitro resistance and drug-level broad activity on a shared latent…",
+      "source_name": "arXiv cs.LG (Machine Learning)",
+      "source_url": "https://arxiv.org/abs/2610.00002",
+      "published_at": "2026-10-03T04:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "Databases",
+        "AI Models",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.744,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2610.00002v1"
+    },
+    {
+      "title": "How Far is Adam from Natural Gradient Descent?",
+      "summary": "arXiv:2610.00004v1 Announce Type: new Abstract: Adam is the standard optimizer in deep learning, yet its geometric relationship to natural gradient descent (NGD) contains unresolved questions. We study Adam's full update rule, including momentum, as a diagonal empirical Fisher approximation subject to diagonal truncation, empirical label substitution, and temporal lag. Using the scale-invariant $\\gamma(\\Delta\\theta)$ metric, we measure Adam's geometric deviation from true…",
+      "source_name": "arXiv cs.LG (Machine Learning)",
+      "source_url": "https://arxiv.org/abs/2610.00004",
+      "published_at": "2026-10-03T04:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.744,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2610.00004v1"
+    },
+    {
+      "title": "FourierQK: Filter Shape, Admissibility and the Leakage-Coverage Law",
+      "summary": "arXiv:2610.00009v1 Announce Type: new Abstract: Frequency-collapse attention [Zeris, 2026e] achieves large gains over standard dot-product attention by replacing the Q/K dot product with a bandpass-filtered inner product at a learned frequency. A natural follow-up question is: which filter shape works best, and why? We test five hypotheses about filter properties -- DC suppression, Nyquist suppression, bandwidth, centre frequency, and multi-scale coverage -- using a…",
+      "source_name": "arXiv cs.LG (Machine Learning)",
+      "source_url": "https://arxiv.org/abs/2610.00009",
+      "published_at": "2026-10-03T04:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.744,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2610.00009v1"
+    },
+    {
+      "title": "Integrating Fairness and Explainability in a Multiple Instance Reinforcement Learning System",
+      "summary": "arXiv:2610.00035v1 Announce Type: new Abstract: Predicting student performance from educational interaction data requires models that are both accurate and sufficiently transparent to support meaningful intervention, while demographic information introduces an additional risk of unfair predictions. This study investigates a multi-objective framework that combines reinforcement learning-based multiple instance learning (RL-MIL), adversarial debiasing, and…",
+      "source_name": "arXiv cs.LG (Machine Learning)",
+      "source_url": "https://arxiv.org/abs/2610.00035",
+      "published_at": "2026-10-03T04:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "AI Models",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.744,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2610.00035v1"
+    },
+    {
+      "title": "Fast Polynomial Transcendentals for LLMs",
+      "summary": "arXiv:2610.00049v1 Announce Type: new Abstract: Graphics processing unit (GPU) generations scale matrix, special-function, and memory pipelines at different rates, so kernel bottlenecks move as hardware evolves. FlashAttention-4 exposed this imbalance inside attention on NVIDIA Blackwell. We test whether short polynomial programs can accelerate other special-function-unit (SFU) operations in large language models (LLMs). We first compare native PyTorch evaluation with packed…",
+      "source_name": "arXiv cs.LG (Machine Learning)",
+      "source_url": "https://arxiv.org/abs/2610.00049",
+      "published_at": "2026-10-03T04:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "LLMs",
+        "Data Pipelines",
+        "GPUs",
+        "AI Models",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.744,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2610.00049v1"
+    },
+    {
+      "title": "SW-KAN: Kolmogorov-Arnold Networks with Stieltjes-Wigert q-Orthogonal Polynomials",
+      "summary": "arXiv:2610.00050v1 Announce Type: new Abstract: Kolmogorov-Arnold Networks (KANs) represent a paradigmatic shift in deep learning by replacing fixed node activations with learnable univariate functions on edges, offering enhanced interpretability and parameter efficiency. While recent polynomial-based KAN variants have addressed the computational overhead of original B-spline implementations, they introduce a fundamental yet underexplored challenge: the domain mismatch…",
+      "source_name": "arXiv cs.LG (Machine Learning)",
+      "source_url": "https://arxiv.org/abs/2610.00050",
+      "published_at": "2026-10-03T04:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.744,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2610.00050v1"
+    },
+    {
+      "title": "Format-Aware Fusion for Fast FP4 Pretraining",
+      "summary": "arXiv:2610.00053v1 Announce Type: new Abstract: Four-bit floating-point (FP4) Tensor Cores accelerate matrix multiplication, but scale computation, operand packing, layout construction, and saved backward state can erase the gain. We present \\emph{format-aware fusion}, which co-designs each quantization producer with its scale domain and consumer layout for native \\mxfp{}, global \\nvfp{}, and cooperative-thread-array-local \\nvfp{}. We evaluate Llama-3-family 8B pretraining…",
+      "source_name": "arXiv cs.LG (Machine Learning)",
+      "source_url": "https://arxiv.org/abs/2610.00053",
+      "published_at": "2026-10-03T04:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.744,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2610.00053v1"
+    },
+    {
+      "title": "\"very likely\" Means \"uncertain\"? How LLMs Diverge from Humans in Linguistic Uncertainty Quantification",
+      "summary": "arXiv:2610.00083v1 Announce Type: new Abstract: Humans express uncertainty verbally via markers (e.g., \"possible,\" \"likely\"), yet most LLM uncertainty quantification (UQ) relies on costing likelihood- or consistency-based signals. From a cognitive perspective, accurate verbal uncertainty reflects metacognitive monitoring, representing knowledge boundaries (\"knowing that you don't know\") to support regulation and information seeking. In this paper, we investigate how LLMs…",
+      "source_name": "arXiv cs.LG (Machine Learning)",
+      "source_url": "https://arxiv.org/abs/2610.00083",
+      "published_at": "2026-10-03T04:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "LLMs",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.744,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2610.00083v1"
+    },
+    {
+      "title": "Nous: Learning and Certifying Memory Decisions Before Source Calibration",
+      "summary": "arXiv:2610.00094v1 Announce Type: new Abstract: Belief-based agent memory needs reliable decisions about current state, yet its evidence may be noisy, copied, or stale. Must a memory calibrate its sources before it can improve its decisions? We separate learning, calibration, and revision certification. On one four-model hidden Markov family, learning an unknown Bayes decision requires Theta(l^-2) records and certifying its improvement over an informative incumbent takes…",
+      "source_name": "arXiv cs.LG (Machine Learning)",
+      "source_url": "https://arxiv.org/abs/2610.00094",
+      "published_at": "2026-10-03T04:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "AI Agents",
+        "AI Models",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.744,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2610.00094v1"
+    },
+    {
+      "title": "What’s new with Google Cloud",
+      "summary": "Want to know the latest from Google Cloud? Find it here in one handy location. Check back regularly for our newest updates, announcements, resources, events, learning opportunities, and more. Tip : Not sure where to find what you’re looking for on the Google Cloud blog? Start here: Google Cloud blog 101: Full list of topics, links, and resources . aside_block <ListValue: []> Sept 28 - Oct 2 Mastering Storage Management with Storage Intelligence In our new blog, explore…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
+      "published_at": "2026-10-02T16:00:00Z",
+      "category": "cloud_providers",
+      "tags": [
+        "Cloud",
+        "Google Cloud",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.92,
+      "importance_score": 0.734,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/"
+    },
+    {
+      "title": "AI is changing developer work. Here are three skills to strengthen.",
+      "summary": "Learn to direct AI agents, critically review their output, and keep technical judgment at the center of your workflow. The post AI is changing developer work. Here are three skills to strengthen. appeared first on The GitHub Blog .",
+      "source_name": "The GitHub Blog",
+      "source_url": "https://github.blog/ai-and-ml/ai-is-rewriting-the-developer-career-ladder-heres-how-to-stand-out/",
+      "published_at": "2026-10-02T15:00:00Z",
+      "category": "developer_platforms",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Developer Tools",
+        "Developer Platforms"
+      ],
+      "confidence_score": 0.9,
+      "importance_score": 0.7299,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://github.blog/?p=99170"
+    },
+    {
+      "title": "KubeCon + CloudNativeCon North America 2026: From user to contributor to maintainer",
+      "summary": "You do not need “maintainer” in your job title to start following the maintainer journey at KubeCon + CloudNativeCon North America 2026. You might be an SRE who has spent years operating a CNCF project in...",
+      "source_name": "CNCF",
+      "source_url": "https://www.cncf.io/blog/2026/10/01/kubecon-cloudnativecon-north-america-2026-from-user-to-contributor-to-maintainer/",
+      "published_at": "2026-10-02T00:13:19Z",
+      "category": "open_source_foundations",
+      "tags": [
+        "Cloud",
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.87,
+      "importance_score": 0.7283,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.cncf.io/?p=175551"
+    },
+    {
+      "title": "DeepSeek-Reasonix: How a poisoned config can hijack an AI coding agent",
+      "summary": "GitLab's Threat Research Group discovered a command execution vulnerability ( GHSA-grg2-7gc6-36m6 , CVE-2026-102437 ) in DeepSeek-Reasonix Studio, a desktop git client designed for developers pairing with AI coding assistants. The flaw, called ConfigPoisoning, could allow attacker-supplied code to execute when a developer views a file's diff. To address this vulnerability, you should update to DeepSeek-Reasonix Studio 2.21.0 or DeepSeek Reasonix npm 1.39.3. This is not an…",
+      "source_name": "GitLab Blog",
+      "source_url": "https://about.gitlab.com/blog/deepseek-reasonix-vulnerability-discovered/",
+      "published_at": "2026-10-02T00:00:00Z",
+      "category": "developer_platforms",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Security",
+        "Research",
+        "Developer Platforms"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.6674,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://about.gitlab.com/blog/deepseek-reasonix-vulnerability-discovered/"
+    },
+    {
+      "title": "Build Applications on NVIDIA BlueField Faster with NVIDIA DOCA Agent Skills",
+      "summary": "AI agents are becoming a standard part of development workflows, but general-purpose agents weren't built with specialized infrastructure software such as...",
+      "source_name": "NVIDIA Developer Blog",
+      "source_url": "https://developer.nvidia.com/blog/build-applications-on-nvidia-bluefield-faster-with-nvidia-doca-agent-skills/",
+      "published_at": "2026-10-01T18:13:29Z",
+      "category": "mlops",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "GPUs",
+        "Mlops"
+      ],
+      "confidence_score": 0.87,
+      "importance_score": 0.6433,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://developer.nvidia.com/blog/?p=123148"
+    },
+    {
+      "title": "Build Local AI Apps with C++ and NVIDIA TensorRT RTX Samples",
+      "summary": "Adding AI models to local applications requires a portable model format, a reliable runtime, and acceleration that works across target systems. Do Inference Now...",
+      "source_name": "NVIDIA Developer Blog",
+      "source_url": "https://developer.nvidia.com/blog/build-local-ai-apps-with-c-and-nvidia-tensorrt-rtx-samples/",
+      "published_at": "2026-10-01T17:59:27Z",
+      "category": "mlops",
+      "tags": [
+        "AI",
+        "GPUs",
+        "AI Models",
+        "Mlops"
+      ],
+      "confidence_score": 0.87,
+      "importance_score": 0.6423,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://developer.nvidia.com/blog/?p=123027"
+    },
+    {
+      "title": "Tavus reveals its first real-time human interaction model",
+      "summary": "Tavus reveals its first real-time human interaction model Superhuman AI",
+      "source_name": "Superhuman (Zain Kahn)",
+      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMVozUGhaOUVPTVh0Y2NqWHI1VVc0cVAzSGlaa1RRbnZLZUFic2hCT2NmbU01VUo1NlVUOU1aNUkyQkVNN2ZFd3lHRGNRcUJMdU8tZ1JHaXZJc3VYam9TVlo4MEZ3SkdlVmhsdWFrUWFTcE5SNkFVVE1RN0o4T1l5SUFiLTdZdEZSaDVCOWlR?oc=5",
+      "published_at": "2026-10-02T12:19:18Z",
+      "category": "ai_newsletters",
+      "tags": [
+        "AI",
+        "AI Models",
+        "Ai Newsletters"
+      ],
+      "confidence_score": 0.62,
+      "importance_score": 0.6387,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "CBMijgFBVV95cUxQMVozUGhaOUVPTVh0Y2NqWHI1VVc0cVAzSGlaa1RRbnZLZUFic2hCT2NmbU01VUo1NlVUOU1aNUkyQkVNN2ZFd3lHRGNRcUJMdU8tZ1JHaXZJc3VYam9TVlo4MEZ3SkdlVmhsdWFrUWFTcE5SNkFVVE1RN0o4T1l5SUFiLTdZdEZSaDVCOWlR"
+    }
+  ]
+}
