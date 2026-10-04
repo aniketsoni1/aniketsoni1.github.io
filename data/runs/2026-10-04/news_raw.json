@@ -1,0 +1,791 @@
+{
+  "generated_at": "2026-10-04T17:39:48.931370+00:00",
+  "post_date": "2026-10-04",
+  "sources_checked": 48,
+  "candidates": 45,
+  "items": [
+    {
+      "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://github.com/Niko1221/Strata",
+      "published_at": "2026-10-04T12:51:53+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.85,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49953495"
+    },
+    {
+      "title": "Why don't more developers “use the platform”?",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/",
+      "published_at": "2026-10-04T04:10:47+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.6675,
+      "importance_score": 0.8138,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49950554"
+    },
+    {
+      "title": "Tell HN: Bob Cringely has died",
+      "summary": "I heard from a friend of the family that Bob passed away in his sleep early Saturday. Very sad news. Bob, who's real name was Mark Stevens, was an early employee of Apple and was best known for his PBS documentaries, especially \"Triumph of the Nerds\". He will be missed.",
+      "source_name": "Hacker News",
+      "source_url": "https://news.ycombinator.com/item?id=49949438",
+      "published_at": "2026-10-04T00:50:52+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7999,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49949438"
+    },
+    {
+      "title": "We're going to need default hard budget caps on pretty much everything",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/",
+      "published_at": "2026-10-04T00:20:16+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7978,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49949235"
+    },
+    {
+      "title": "Car is a smartphone on wheels. Here's who's listening",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://automatictransmission.khoury.northeastern.edu/",
+      "published_at": "2026-10-04T15:43:14+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.619,
+      "importance_score": 0.7844,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49954882"
+    },
+    {
+      "title": "Reasons I didn't become an EMT, ranked",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://ben.stolovitz.com/posts/reasons-not-emt-ranked/",
+      "published_at": "2026-10-03T20:49:15+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.654,
+      "importance_score": 0.7832,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49947631"
+    },
+    {
+      "title": "The work by Valve's Timur Kristóf on improving old AMD GPUs on Linux",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU",
+      "published_at": "2026-10-03T19:14:48+00:00",
+      "category": "aggregators",
+      "tags": [
+        "GPUs",
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7766,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49946895"
+    },
+    {
+      "title": "Hole Punch: Sling your spaceship around gravitational fields",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://notoriousbfg.com/hole-punch/",
+      "published_at": "2026-10-03T18:06:45+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7719,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49946393"
+    },
+    {
+      "title": "Treachery in the Rodin Museum 3D scan verdict",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://cosmowenman.substack.com/p/rodin-museum-3d-scan-verdict",
+      "published_at": "2026-10-03T18:01:27+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.6895,
+      "importance_score": 0.7715,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49946355"
+    },
+    {
+      "title": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
+      "summary": "https://archive.ph/TyDPf",
+      "source_name": "Hacker News",
+      "source_url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/",
+      "published_at": "2026-10-03T17:44:29+00:00",
+      "category": "aggregators",
+      "tags": [
+        "AI",
+        "Hacker News"
+      ],
+      "confidence_score": 0.6975,
+      "importance_score": 0.7703,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49946228"
+    },
+    {
+      "title": "Agents don't need memory, they need documentation",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://liao.gg/blog/agents-dont-need-memory",
+      "published_at": "2026-10-03T17:03:37+00:00",
+      "category": "aggregators",
+      "tags": [
+        "AI Agents",
+        "Hacker News"
+      ],
+      "confidence_score": 0.698,
+      "importance_score": 0.7675,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49945933"
+    },
+    {
+      "title": "The Agent Said It Was Done. The Database Disagreed.",
+      "summary": "",
+      "source_name": "Hugging Face",
+      "source_url": "https://huggingface.co/blog/microsoft/thinkingbox",
+      "published_at": "2026-10-03T22:56:48+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI Agents",
+        "Databases",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.9,
+      "importance_score": 0.762,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://huggingface.co/blog/microsoft/thinkingbox"
+    },
+    {
+      "title": "We want you to build the next Git platform on Cloudflare",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://blog.cloudflare.com/next-git-platform-on-cloudflare/",
+      "published_at": "2026-10-03T19:33:16+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Cloud",
+        "Hacker News"
+      ],
+      "confidence_score": 0.6435,
+      "importance_score": 0.7617,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49947051"
+    },
+    {
+      "title": "My favorite place in California is a tiny mountain town that's worth visiting in every season — also, its mayor is a dog",
+      "summary": "As a California local, my favorite destination for a weekend trip is the small town of Idyllwild, a short drive from LA. Here's what to do there.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/california-favorite-spot-weekend-trip-small-town-idyllwild-local-2026-10",
+      "published_at": "2026-10-04T17:34:01+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7596,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/california-favorite-spot-weekend-trip-small-town-idyllwild-local-2026-10"
+    },
+    {
+      "title": "I quit OpenAI because its culture is broken",
+      "summary": "https://archive.ph/5GQx8 https://www.theguardian.com/technology/2026/oct/03/openai-sa...",
+      "source_name": "Hacker News",
+      "source_url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/?gift=v5U_UzUTothfWXsPxtvNVAh7esWToMRD6XnbXmc5WgA",
+      "published_at": "2026-10-03T13:46:34+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7538,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49944227"
+    },
+    {
+      "title": "Trump unveils his new Super Intelligence Force",
+      "summary": "This new task force is Trump's latest response to the debate over AI safety.",
+      "source_name": "TechCrunch - AI",
+      "source_url": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
+      "published_at": "2026-10-04T15:15:10+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.75,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://techcrunch.com/?p=3173547"
+    },
+    {
+      "title": "Fulcrum Echo promises AI text in the style of any writer, so I tested it",
+      "summary": "I am just a copy of a copy of a copy, everything I say has come before",
+      "source_name": "The Register",
+      "source_url": "https://www.theregister.com/ai-and-ml/2026/10/04/fulcrum-echo-promises-ai-text-in-the-style-of-any-writer-so-i-tested-it/5300944",
+      "published_at": "2026-10-04T15:15:00+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7499,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.theregister.com/a/5300944"
+    },
+    {
+      "title": "I left my dream life in London to move back in with my dads at 41. I have no regrets.",
+      "summary": "When I turned 40, I realized that time with family is perilously finite. Soon after, I moved back home to the US.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/left-london-moved-home-us-scloser-to-family-no-regrets-2026-10",
+      "published_at": "2026-10-04T15:11:01+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7497,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/left-london-moved-home-us-scloser-to-family-no-regrets-2026-10"
+    },
+    {
+      "title": "I ranked the signature burgers from McDonald's, Wendy's, and Burger King. My favorite surprised me.",
+      "summary": "I tried the signature burgers from three fast-food chains: McDonald's, Wendy's, and Burger King.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/classic-burgers-mcdonalds-wendys-burger-king-comparison-photos",
+      "published_at": "2026-10-04T13:10:02+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7413,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/classic-burgers-mcdonalds-wendys-burger-king-comparison-photos"
+    },
+    {
+      "title": "Garlic Peel Sensor Powers Low-Cost Home Security Sensor",
+      "summary": "Scientists used biowaste to detect when a door opens",
+      "source_name": "IEEE Spectrum",
+      "source_url": "https://spectrum.ieee.org/garlic-peel-biowaste-sensor",
+      "published_at": "2026-10-04T13:00:01+00:00",
+      "category": "research_feeds",
+      "tags": [
+        "Security",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.7406,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://spectrum.ieee.org/garlic-peel-biowaste-sensor"
+    },
+    {
+      "title": "My husband and I finally took a trip without our 5 kids. It didn't go at all how we expected.",
+      "summary": "I finally took the no-kids couple trip with my husband I'd been dreaming about. We planned our vacation carefully, but it didn't go the way I thought.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/took-trip-without-kids-didnt-go-how-expected-2026-10",
+      "published_at": "2026-10-04T12:44:01+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7395,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/took-trip-without-kids-didnt-go-how-expected-2026-10"
+    },
+    {
+      "title": "I replaced Spotify with CDs for my 8-year-old. It's one parenting decision I haven't regretted.",
+      "summary": "I stopped letting my daughter browse Spotify after inappropriate playlist images appeared in search. Now she explores music through CDs.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/kid-listens-cds-instead-streaming-spotify-algorithm-2026-10",
+      "published_at": "2026-10-04T11:33:01+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7345,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/kid-listens-cds-instead-streaming-spotify-algorithm-2026-10"
+    },
+    {
+      "title": "I'm a matchmaker for people over 50. The couples who end up in the happiest relationships don't look for chemistry first.",
+      "summary": "Brigitte Weil is a matchmaker who works with older clients. She says that details like looks and finances become less important with age.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/matchmaker-older-clients-dating-later-in-life-2026-10",
+      "published_at": "2026-10-04T11:13:01+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7331,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/matchmaker-older-clients-dating-later-in-life-2026-10"
+    },
+    {
+      "title": "15 Best Office Chairs of 2026—We Tested 70 to Pick Them",
+      "summary": "Upgrade your WFH setup and work in style with these comfy, WIRED-tested seats.",
+      "source_name": "Wired",
+      "source_url": "https://www.wired.com/gallery/best-office-chairs/",
+      "published_at": "2026-10-04T11:03:00+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7324,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "607895413c4558580f4abffa"
+    },
+    {
+      "title": "The Best Gifts Under $25 for Everyone on Your List (2026)",
+      "summary": "We found genuinely good presents for home cooks, teens, coffee lovers, and the person who already has everything.",
+      "source_name": "Wired",
+      "source_url": "https://www.wired.com/story/best-gifts-under-25-2026/",
+      "published_at": "2026-10-04T11:00:00+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7322,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "6ab189a56596909b88d213c4"
+    },
+    {
+      "title": "My 16-year-old still has a 9 p.m. bedtime. It's great for our whole family.",
+      "summary": "Keeping a bedtime helps my teen get enough sleep and gives my husband and me alone time together",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/teen-still-has-bedtime-sleep-priority-2026-10",
+      "published_at": "2026-10-04T10:54:01+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7318,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/teen-still-has-bedtime-sleep-priority-2026-10"
+    },
+    {
+      "title": "Revive Raskin's 3 laws of software with humane work that considers a dev's duty of care",
+      "summary": "All this, and angry NeoVim users",
+      "source_name": "The Register",
+      "source_url": "https://www.theregister.com/software/2026/10/04/revive-raskins-3-laws-of-software-with-humane-work-that-considers-a-devs-duty-of-care/5300539",
+      "published_at": "2026-10-04T10:30:00+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7302,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.theregister.com/a/5300539"
+    },
+    {
+      "title": "The Best Online Gift Cards and Digital Gift Ideas (2026)",
+      "summary": "Forget the wrapping paper and shipping. Go digital this year with subscriptions, ebooks, apps, and more.",
+      "source_name": "Wired",
+      "source_url": "https://www.wired.com/story/gift-cards-and-digital-gift-ideas/",
+      "published_at": "2026-10-04T10:30:00+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7302,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "61796004a7da35fe9f08a811"
+    },
+    {
+      "title": "Meta Glasses Nova (Gen 3) Review: Not Much New",
+      "summary": "Meta and Ray-Ban’s new smart glasses have slightly better batteries and mics. And yes, they still have cameras.",
+      "source_name": "Wired",
+      "source_url": "https://www.wired.com/review/meta-glasses-gen-3/",
+      "published_at": "2026-10-04T10:30:00+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7302,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "6abfdc90f11859774e123b30"
+    },
+    {
+      "title": "Amazon exec says finding FDE talent is very challenging: ‘These are unicorns’",
+      "summary": "An Amazon Web Services exec said that she's being selective in building out the firm's bet on forward-deployed engineers.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/amazon-aws-fde-plans-hiring-2026-10",
+      "published_at": "2026-10-04T10:03:01+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7283,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/amazon-aws-fde-plans-hiring-2026-10"
+    },
+    {
+      "title": "Rural Data Centers Are in for a Big Federal Tax Break",
+      "summary": "Under the One Big Beautiful Bill Act, data center projects in rural areas could be eligible for major tax benefits starting next year. Some hyperscalers do not seem eager to take the free cash.",
+      "source_name": "Wired",
+      "source_url": "https://www.wired.com/story/rural-data-centers-are-in-for-a-big-federal-tax-break/",
+      "published_at": "2026-10-04T10:00:00+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7281,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "6abe5cae9828a5714cf83d72"
+    },
+    {
+      "title": "Americans’ love of oversized Halloween skeletons is still going strong",
+      "summary": "Six years after the original 12-foot Skelly first went viral, the trend of jumbo Halloween yard decorations seems as strong as ever.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/american-oversized-halloween-skeletons-still-going-strong-2026-10",
+      "published_at": "2026-10-04T09:53:01+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7276,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/american-oversized-halloween-skeletons-still-going-strong-2026-10"
+    },
+    {
+      "title": "I used AI to track my job rejections. It changed my search, and I got hired.",
+      "summary": "A job seeker used Claude like a career coach to track applications and analyze interview sentiment.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/job-seeker-used-claude-track-search-improve-interviews-2026-10",
+      "published_at": "2026-10-04T09:49:01+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7273,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/job-seeker-used-claude-track-search-improve-interviews-2026-10"
+    },
+    {
+      "title": "These 5 states will pay you to build a tiny home in your backyard",
+      "summary": "New York and Colorado are among the states that will pay you to build a tiny home in your backyard. The compensation comes via state grant programs.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/states-will-compensate-you-for-building-tiny-home-adu-2026",
+      "published_at": "2026-10-04T09:31:02+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7261,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/states-will-compensate-you-for-building-tiny-home-adu-2026"
+    },
+    {
+      "title": "Keurig Alta First-Look: No More Plastic K-Cups",
+      "summary": "Keurig is ready to ditch the K-Cup with a compostable and plastic- and aluminum-free coffee pod, but the price is steep.",
+      "source_name": "Wired",
+      "source_url": "https://www.wired.com/story/keurig-alta-coffee-brewer/",
+      "published_at": "2026-10-04T09:30:00+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.726,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "6abff42733cbe0bee12d8192"
+    },
+    {
+      "title": "Real-estate investors who started with little savings share 4 creative ways they bought property",
+      "summary": "One investor used his paid-off truck to buy property. Three others found creative ways in.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/creative-financing-strategies-buying-real-estate-investment-properties-building-wealth-2026-10",
+      "published_at": "2026-10-04T09:25:01+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7256,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/creative-financing-strategies-buying-real-estate-investment-properties-building-wealth-2026-10"
+    },
+    {
+      "title": "Elusive ‘Geoneutrinos’ Are Building a New Map of Earth’s Volatile Interior",
+      "summary": "A global network of detectors are reporting some of the most substantial measurements yet of neutrinos created deep underground by the radioactive elements that power our planet’s tectonic activity.",
+      "source_name": "Wired",
+      "source_url": "https://www.wired.com/story/elusive-geoneutrinos-are-building-a-new-map-of-earths-volatile-interior/",
+      "published_at": "2026-10-04T09:00:00+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7239,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "6abd518980d31124709821b1"
+    },
+    {
+      "title": "We're working on a new RuneScape MMO",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://play.runescape.com/4",
+      "published_at": "2026-10-04T01:12:22+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.6185,
+      "importance_score": 0.7227,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49949588"
+    },
+    {
+      "title": "Claude Frontier Academy: $100M to train 10,000 engineers",
+      "summary": "Claude Frontier Academy: $100M to train 10,000 engineers Anthropic",
+      "source_name": "Anthropic",
+      "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9FNlFxVHBSRkl5bVF0c253UE5sUEFac3dDZmQ4bzFjc2lER0hNcjFmUUxPVFI5T0xQcldFTXhsd1diR2h4UUVoRnl4TWxEVnp5WXpCMFdkZHNKdlA1bFV4QTVqUDI?oc=5",
+      "published_at": "2026-10-02T23:01:00+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.97,
+      "importance_score": 0.7223,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "CBMiZEFVX3lxTE9FNlFxVHBSRkl5bVF0c253UE5sUEFac3dDZmQ4bzFjc2lER0hNcjFmUUxPVFI5T0xQcldFTXhsd1diR2h4UUVoRnl4TWxEVnp5WXpCMFdkZHNKdlA1bFV4QTVqUDI"
+    },
+    {
+      "title": "Spies, prime ministers, and balls: The BBC Domesday project @ 40",
+      "summary": "The Centre for Computing History gathers the minds behind the project and the ones keeping it alive today",
+      "source_name": "The Register",
+      "source_url": "https://www.theregister.com/offbeat/2026/10/04/spies-prime-ministers-and-balls-the-bbc-domesday-project-40/5300383",
+      "published_at": "2026-10-04T08:29:00+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7218,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.theregister.com/a/5300383"
+    },
+    {
+      "title": "ShinyHunters Suspect Rey Reportedly Detained in Jordan, Helping FBI Identify Group Members",
+      "summary": "A suspected member of the ShinyHunters digital extortion group, who goes by the online alias \"Rey,\" has been allegedly detained by authorities in Jordan, Reuters reported, citing three people familiar with the matter. Rey, whose real name is Saif ‌al-Din Khader, is said to have been brought into custody on September 29, 2026, cooperating with the U.S. Federal Bureau of Investigation (FBI) and",
+      "source_name": "The Hacker News",
+      "source_url": "https://thehackernews.com/2026/10/shinyhunters-suspect-rey-reportedly.html",
+      "published_at": "2026-10-04T07:22:05+00:00",
+      "category": "cybersecurity",
+      "tags": [
+        "Cybersecurity"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7171,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://thehackernews.com/2026/10/shinyhunters-suspect-rey-reportedly.html"
+    },
+    {
+      "title": "China-Aligned TA419 Targets U.S. AI Policy Experts With Microsoft AitM Phishing",
+      "summary": "A new China-nexus cyber espionage group known as TA419 has been attributed to multiple credential phishing campaigns targeting artificial intelligence (AI) experts working for U.S. think tanks, universities, and legal sector organizations. The campaigns have impersonated prominent economists and AI policymakers, as well as a prominent Anthropic employee, to single out an AI policy expert at a",
+      "source_name": "The Hacker News",
+      "source_url": "https://thehackernews.com/2026/10/china-aligned-ta419-targets-us-ai.html",
+      "published_at": "2026-10-04T07:20:32+00:00",
+      "category": "cybersecurity",
+      "tags": [
+        "AI",
+        "Cybersecurity"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.717,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://thehackernews.com/2026/10/china-aligned-ta419-targets-us-ai.html"
+    },
+    {
+      "title": "VGHF Digital Archive passes 5000 magazines. Here's what's next",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://gamehistory.org/5k-magazines/",
+      "published_at": "2026-10-04T09:07:11+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.591,
+      "importance_score": 0.6869,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-49952029"
+    },
+    {
+      "title": "Robotics Special: Figure decommissions the F.02 in bizarre fashion",
+      "summary": "Robotics Special: Figure decommissions the F.02 in bizarre fashion Superhuman AI",
+      "source_name": "Superhuman (Zain Kahn)",
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbEtZaHNhRm9fZm4zaWdaSTAwWWoxV3JWRTFQUl9zaHRZVkVFaDFfTFBNZEpnbkRyZ2xoRVVpRGpSMFhRMUd1MklHRkRtbFZFT2w1VFIxVmptWlV6MC1UVklRMnhfdEJNSXBxcTJjNWJ1RmV0Yng2ZHIzaU9rUVJvTTk0Ul9kek83bWg1YlVwM0tkR0JjTllkcw?oc=5",
+      "published_at": "2026-10-03T16:24:03+00:00",
+      "category": "ai_newsletters",
+      "tags": [
+        "AI",
+        "Ai Newsletters"
+      ],
+      "confidence_score": 0.62,
+      "importance_score": 0.6547,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "CBMimAFBVV95cUxQbEtZaHNhRm9fZm4zaWdaSTAwWWoxV3JWRTFQUl9zaHRZVkVFaDFfTFBNZEpnbkRyZ2xoRVVpRGpSMFhRMUd1MklHRkRtbFZFT2w1VFIxVmptWlV6MC1UVklRMnhfdEJNSXBxcTJjNWJ1RmV0Yng2ZHIzaU9rUVJvTTk0Ul9kek83bWg1YlVwM0tkR0JjTllkcw"
+    },
+    {
+      "title": "AI21 achieves an 83% reduction in time-to-start for AI workloads with AI Hypercomputer",
+      "summary": "Editor’s note : AI21 Labs is a leading global AI lab with a long track record of building foundation models, most notably the Jamba family, and today focuses on specialized LLMs and agent optimization technology. By adopting Google Cloud AI Hypercomputer, AI21 cut high-priority job wait times from 72 hours to 12 and manual scheduling interventions from 20 per week to zero. At AI21 , we build foundation models and agent optimization products that help enterprises run agents…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/products/containers-kubernetes/ai21-trains-its-models-on-ai-hypercomputer/",
+      "published_at": "2026-10-02T19:00:00+00:00",
+      "category": "cloud_providers",
+      "tags": [
+        "AI",
+        "LLMs",
+        "AI Agents",
+        "Cloud",
+        "Google Cloud",
+        "AI Models",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.92,
+      "importance_score": 0.6456,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/products/containers-kubernetes/ai21-trains-its-models-on-ai-hypercomputer/"
+    }
+  ]
+}
