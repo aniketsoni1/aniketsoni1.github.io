@@ -1,0 +1,131 @@
+{
+  "post_date": "2026-10-04",
+  "week_start": "2026-09-28",
+  "week_label": "September 28 – October 4, 2026",
+  "theme": "AI",
+  "related_themes": [
+    "Ai Model Companies",
+    "AI Agents",
+    "Cloud Providers",
+    "Mainstream Press",
+    "AI Models"
+  ],
+  "tag_counts": [
+    {
+      "tag": "AI",
+      "count": 34
+    },
+    {
+      "tag": "Ai Model Companies",
+      "count": 18
+    },
+    {
+      "tag": "AI Agents",
+      "count": 13
+    },
+    {
+      "tag": "Cloud Providers",
+      "count": 11
+    },
+    {
+      "tag": "Mainstream Press",
+      "count": 10
+    },
+    {
+      "tag": "AI Models",
+      "count": 10
+    }
+  ],
+  "stories_reviewed": 81,
+  "runs_used": [
+    "2026-09-28",
+    "2026-09-29",
+    "2026-09-30",
+    "2026-10-01",
+    "2026-10-02",
+    "2026-10-03",
+    "2026-10-04"
+  ],
+  "sources_count": 20,
+  "citations": [
+    {
+      "date": "2026-09-28",
+      "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/",
+      "source_name": "Google AI (The Keyword)",
+      "tags": [
+        "AI",
+        "Ai Model Companies"
+      ],
+      "summary": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+      "why": "Signals how frontier-model capabilities and access may shift for AI engineers and product teams.",
+      "score": 0.8952
+    },
+    {
+      "date": "2026-10-01",
+      "title": "The eternal complement",
+      "url": "https://openai.com/index/the-eternal-complement",
+      "source_name": "OpenAI",
+      "tags": [
+        "AI",
+        "Ai Model Companies"
+      ],
+      "summary": "Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress.",
+      "why": "Signals how frontier-model capabilities and access may shift for AI engineers and product teams.",
+      "score": 0.8919
+    },
+    {
+      "date": "2026-10-01",
+      "title": "How Albertsons Companies is reimagining retail from the inside out",
+      "url": "https://openai.com/index/albertsons-reimagining-retail",
+      "source_name": "OpenAI",
+      "tags": [
+        "AI",
+        "APIs",
+        "Ai Model Companies"
+      ],
+      "summary": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers.",
+      "why": "Signals how frontier-model capabilities and access may shift for AI engineers and product teams.",
+      "score": 0.8878
+    },
+    {
+      "date": "2026-09-30",
+      "title": "ArgoCon North America 2026: What to expect as the Argo community looks toward CD 4.0",
+      "url": "https://www.cncf.io/blog/2026/09/30/argocon-north-america-2026-what-to-expect-as-the-argo-community-looks-toward-cd-4-0/",
+      "source_name": "CNCF",
+      "tags": [
+        "AI",
+        "Open Source Foundations"
+      ],
+      "summary": "Work across the Argo Project is accelerating, with growing adoption, new use cases, and more maintainers contributing across the community. The community is also beginning the visioning process for Argo CD 4.0, making ArgoCon an opportunity...",
+      "why": "Matters for platform teams tracking the open-source dependencies under their stack.",
+      "score": 0.8872
+    },
+    {
+      "date": "2026-09-30",
+      "title": "Introducing SynthID Bio",
+      "url": "https://deepmind.google/blog/introducing-synthid-bio/",
+      "source_name": "Google DeepMind",
+      "tags": [
+        "AI",
+        "Ai Model Companies"
+      ],
+      "summary": "Proof of concept for watermarking AI-generated proteins while preserving biological function.",
+      "why": "Signals how frontier-model capabilities and access may shift for AI engineers and product teams.",
+      "score": 0.8857
+    },
+    {
+      "date": "2026-10-02",
+      "title": "The latest AI news we announced in September 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
+      "source_name": "Google AI (The Keyword)",
+      "tags": [
+        "AI",
+        "Ai Model Companies"
+      ],
+      "summary": "A video showing the September AI updates",
+      "why": "Signals how frontier-model capabilities and access may shift for AI engineers and product teams.",
+      "score": 0.8853
+    }
+  ]
+}
