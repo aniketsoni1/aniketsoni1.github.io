@@ -467,6 +467,70 @@ roles:
     summary: "Built the data pipelines and models behind a global IoT weather-station siting study for a climate-science nonprofit as a volunteer, contributing about 20 hours per week: ETL ingesting ~10K records per day from five sources and analysis of 150M+ data points across eight FSI categories."
     significance: "\"Aniket processed 150 million weather data points to discover 151 locations worldwide that needed IoT station deployment.\" - Agbeli Ameko, CEO and Founder, Climate Change Xplorers"
 
+# ── Homepage Experience (terminal timeline) ──────────────────────────
+# Rendered by _layouts/default.html. Wrap a metric in [[ ]] to highlight it.
+# Keep these consistent with `roles` / `career` above (same facts, shorter).
+experience:
+  - id: cognizant
+    cmd: "load_role --id cognizant --since 2021"
+    period: "Mar 2021 - Present"
+    company: "Cognizant"
+    role: "Senior Data Engineer · New York, US · Full-time · Promoted Nov 2024"
+    industries: ["Healthcare", "Financial services"]
+    bullets:
+      - "Architecting a healthcare claims-integrity & anomaly-detection ML platform (since Apr 2026) on [[Databricks DLT + Unity Catalog]]"
+      - "Three-signal scoring - CatBoost, K-Means, LSTM - over a [[188-feature]] registry with PSI / KL-divergence drift detection"
+      - "Designed ETL pipelines processing [[10M+ records/day]] across financial services and healthcare"
+      - "Improved data accuracy by [[30%]], reduced reporting errors by [[37%]]"
+      - "Built Slack + Databricks alerting cutting incident resolution by [[60%]]"
+      - "Implemented governance frameworks, improving onboarding efficiency by [[30%]]"
+      - "Mentored junior engineers, reducing onboarding time by [[30%]]"
+    tags: ["Databricks", "Delta Live Tables", "Unity Catalog", "CatBoost", "Snowflake", "PySpark", "Python", "SQL", "MongoDB"]
+  - id: climate
+    cmd: "load_role --id climate --year 2020"
+    period: "Sep 2020 - Mar 2021"
+    company: "Climate Change Xplorers"
+    role: "Research Analyst & Data Scientist · New York, US · Volunteer"
+    industries: ["Climate research"]
+    bullets:
+      - "Analyzed [[150M+ data points]] to identify 151 optimal IoT weather station locations globally"
+      - "Built ETL pipelines ingesting [[~10K records/day]] from NOAA, FSI, MADIS, IBM Watson"
+      - "Designed geospatial visualizations boosting rendering performance by [[70%]]"
+    tags: ["Python", "NOAA/FSI", "Folium", "Geospatial", "Pandas"]
+  - id: converseon
+    cmd: "load_role --id converseon --year 2020"
+    period: "Jul 2020 - Sep 2020"
+    company: "Converseon.AI"
+    role: "Software Engineer Intern · New York, US"
+    industries: ["Marketing analytics"]
+    bullets:
+      - "Resolved [[7+ JIRA tickets/week]] in a Python-Django computer vision platform"
+      - "Built ETL cron-jobs ingesting Twitter & YouTube API data into ElasticSearch"
+      - "Created FAQ documentation saving [[4 dev hours/week]]"
+    tags: ["Python", "Django", "PostgreSQL", "ElasticSearch"]
+  - id: sau
+    cmd: "load_edu --sau --msc --year 2018-2020"
+    period: "Nov 2018 - May 2020"
+    company: "Southern Arkansas Univ."
+    role: "Graduate & Teaching Assistant · Magnolia, AR"
+    industries: ["Higher education"]
+    bullets:
+      - "Maintained Honors College web server and developed academic webpages"
+      - "Managed library database and hardware support at Magale Library"
+      - "Provided front-line IT support to faculty and students"
+    tags: ["Web Dev", "DB Admin", "IT Support"]
+  - id: alok
+    cmd: "load_role --id alok --year 2018"
+    period: "Jan 2018 - Jun 2018"
+    company: "Alok Enterprise"
+    role: "Computer Programmer & Data Analyst · Ahmedabad, India"
+    industries: ["Retail & distribution"]
+    bullets:
+      - "Developed .NET applications supporting day-to-day business operations"
+      - "Analyzed sales and inventory data in Excel to improve decision-making"
+      - "Automated reporting tasks, reducing manual workload"
+    tags: [".NET", "MySQL", "Excel", "HTML/CSS"]
+
 # ── 08 · Speaking & Presentations ────────────────────────────────────
 # Paper presentations carry no `year`: the same papers are already on the
 # timeline under Research, so they are not counted twice.

@@ -2260,7 +2260,9 @@ tr.pub-row[data-href]:hover .pub-doi { color: var(--lime); }
       <div class="exp-terminal-body">
         <span class="t-line"><span class="t-prompt">$</span> <span class="t-cmd">load_career --all --format=timeline</span></span>
         <span class="t-line t-out">Initializing career data...</span>
-        <span class="t-line t-out">Found 5 roles across 3 industries</span>
+        {%- assign X = site.data.profile.experience -%}
+        {%- assign inds = "" | split: "" -%}{%- for e in X -%}{%- assign inds = inds | concat: e.industries -%}{%- endfor -%}
+        <span class="t-line t-out">Found {{ X.size }} roles across {{ inds | uniq | size }} industries</span>
         <span class="t-line t-out">Sorting by recency...</span>
         <span class="t-line t-out" id="tl-active-line">▸ Scroll to navigate timeline</span>
         <span class="t-line"><span class="t-cursor"></span></span>
@@ -2268,69 +2270,20 @@ tr.pub-row[data-href]:hover .pub-doi { color: var(--lime); }
     </div>
     <!-- Scrollable stages -->
     <div class="exp-stages" id="expStages">
-      <div class="exp-stage" data-cmd="load_role --id cognizant --since 2021" data-i="0">
-        <div class="s-period">Mar 2021 - Present</div>
-        <div class="s-co">Cognizant</div>
-        <div class="s-role">Senior Data Engineer · New York, US · Full-time</div>
+      {%- comment -%} Generated from _data/profile.yml (experience). [[x]] marks a highlighted metric. {%- endcomment -%}
+      {%- for e in site.data.profile.experience %}
+      <div class="exp-stage" data-cmd="{{ e.cmd }}" data-i="{{ forloop.index0 }}">
+        <div class="s-period">{{ e.period }}</div>
+        <div class="s-co">{{ e.company }}</div>
+        <div class="s-role">{{ e.role }}</div>
         <div class="s-bullets">
-          <div class="s-bullet">Designed ETL pipelines processing <span class="s-metric">10M+ records/day</span> across financial services and healthcare</div>
-          <div class="s-bullet">Improved data accuracy by <span class="s-metric">30%</span>, reduced reporting errors by <span class="s-metric">37%</span></div>
-          <div class="s-bullet">Built Slack + Databricks alerting cutting incident resolution by <span class="s-metric">60%</span></div>
-          <div class="s-bullet">Implemented governance frameworks, improving onboarding efficiency by <span class="s-metric">30%</span></div>
-          <div class="s-bullet">Mentored junior engineers, reducing onboarding time by <span class="s-metric">30%</span></div>
+          {%- for b in e.bullets %}
+          <div class="s-bullet">{{ b | replace: "[[", '<span class="s-metric">' | replace: "]]", "</span>" }}</div>
+          {%- endfor %}
         </div>
-        <div class="s-tags">
-          <span class="s-tag">Databricks</span><span class="s-tag">Snowflake</span><span class="s-tag">PySpark</span><span class="s-tag">Python</span><span class="s-tag">Power BI</span><span class="s-tag">SQL</span><span class="s-tag">MongoDB</span>
-        </div>
+        <div class="s-tags">{% for t in e.tags %}<span class="s-tag">{{ t }}</span>{% endfor %}</div>
       </div>
-      <div class="exp-stage" data-cmd="load_role --id climate --year 2020" data-i="1">
-        <div class="s-period">Sep 2020 - Mar 2021</div>
-        <div class="s-co">Climate Change Xplorers</div>
-        <div class="s-role">Research Analyst · New York, US · Part-time</div>
-        <div class="s-bullets">
-          <div class="s-bullet">Analyzed <span class="s-metric">150M+ data points</span> to identify 151 optimal IoT weather station locations globally</div>
-          <div class="s-bullet">Built ETL pipelines ingesting <span class="s-metric">~10K records/day</span> from NOAA, FSI, MADIS, IBM Watson</div>
-          <div class="s-bullet">Designed geospatial visualizations boosting rendering performance by <span class="s-metric">70%</span></div>
-        </div>
-        <div class="s-tags">
-          <span class="s-tag">Python</span><span class="s-tag">NOAA/FSI</span><span class="s-tag">Folium</span><span class="s-tag">Geospatial</span><span class="s-tag">Pandas</span>
-        </div>
-      </div>
-      <div class="exp-stage" data-cmd="load_role --id converseon --year 2020" data-i="2">
-        <div class="s-period">Jul 2020 - Sep 2020</div>
-        <div class="s-co">Converseon.AI</div>
-        <div class="s-role">Software Engineer Intern · New York, US</div>
-        <div class="s-bullets">
-          <div class="s-bullet">Resolved <span class="s-metric">7+ JIRA tickets/week</span> in a Python-Django computer vision platform</div>
-          <div class="s-bullet">Built ETL cron-jobs ingesting Twitter & YouTube API data into ElasticSearch</div>
-          <div class="s-bullet">Created FAQ documentation saving <span class="s-metric">4 dev hours/week</span></div>
-        </div>
-        <div class="s-tags">
-          <span class="s-tag">Python</span><span class="s-tag">Django</span><span class="s-tag">PostgreSQL</span><span class="s-tag">ElasticSearch</span>
-        </div>
-      </div>
-      <div class="exp-stage" data-cmd="load_edu --sau --msc --year 2018-2020" data-i="3">
-        <div class="s-period">Nov 2018 - May 2020</div>
-        <div class="s-co">Southern Arkansas Univ.</div>
-        <div class="s-role">Graduate & Teaching Assistant · Magnolia, AR</div>
-        <div class="s-bullets">
-          <div class="s-bullet">Maintained Honors College web server and developed academic webpages</div>
-          <div class="s-bullet">Managed library database and hardware support at Magale Library</div>
-          <div class="s-bullet">Provided front-line IT support to faculty and students</div>
-        </div>
-        <div class="s-tags"><span class="s-tag">Web Dev</span><span class="s-tag">DB Admin</span><span class="s-tag">IT Support</span></div>
-      </div>
-      <div class="exp-stage" data-cmd="load_role --id alok --year 2018" data-i="4">
-        <div class="s-period">Jan 2018 - Jun 2018</div>
-        <div class="s-co">Alok Enterprise</div>
-        <div class="s-role">Computer Programmer & Data Analyst · Ahmedabad, India</div>
-        <div class="s-bullets">
-          <div class="s-bullet">Developed .NET applications supporting day-to-day business operations</div>
-          <div class="s-bullet">Analyzed sales and inventory data in Excel to improve decision-making</div>
-          <div class="s-bullet">Automated reporting tasks, reducing manual workload</div>
-        </div>
-        <div class="s-tags"><span class="s-tag">.NET</span><span class="s-tag">MySQL</span><span class="s-tag">Excel</span><span class="s-tag">HTML/CSS</span></div>
-      </div>
+      {%- endfor %}
     </div>
   </div>
 </section>
@@ -3457,11 +3410,14 @@ function prefillCF() {
   overlay.style.cssText = 'position:fixed;inset:0;z-index:9999;background:rgba(0,0,0,0.85);display:flex;align-items:center;justify-content:center;cursor:zoom-out;opacity:0;transition:opacity 0.3s;pointer-events:none';
   const enlargedImg = document.createElement('img');
   enlargedImg.style.cssText = 'max-width:90vw;max-height:88vh;border-radius:8px;box-shadow:0 30px 80px rgba(0,0,0,0.8);transform:scale(0.92);transition:transform 0.35s cubic-bezier(0.34,1.56,0.64,1)';
+  enlargedImg.alt = 'Aniket Abhishek Soni - enlarged photo';
+  overlay.setAttribute('aria-hidden', 'true');
   overlay.appendChild(enlargedImg);
   document.body.appendChild(overlay);
 
   function openEnlarge(src) {
     enlargedImg.src = src;
+    overlay.setAttribute('aria-hidden', 'false');
     overlay.style.pointerEvents = 'all';
     overlay.style.opacity = '1';
     setTimeout(() => { enlargedImg.style.transform = 'scale(1)'; }, 10);
@@ -3469,7 +3425,7 @@ function prefillCF() {
   function closeEnlarge() {
     overlay.style.opacity = '0';
     enlargedImg.style.transform = 'scale(0.92)';
-    setTimeout(() => { overlay.style.pointerEvents = 'none'; }, 300);
+    setTimeout(() => { overlay.style.pointerEvents = 'none'; overlay.setAttribute('aria-hidden', 'true'); }, 300);
   }
   overlay.addEventListener('click', closeEnlarge);
   document.addEventListener('keydown', e => { if (e.key === 'Escape') closeEnlarge(); });
