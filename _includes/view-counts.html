@@ -34,7 +34,11 @@
 
   function render(el, count) {
     if (!count) { el.remove(); return; }
-    el.querySelector('[data-views-n]').textContent = count;
+    var n = el.querySelector('[data-views-n]');
+    n.textContent = count;
+    // "1 view" / "2 views": fix the plural in the text that follows the number
+    var t = n.nextSibling;
+    if (t && t.nodeType === 3) { t.nodeValue = t.nodeValue.replace(/\bviews\b/, count === '1' ? 'view' : 'views'); }
     el.hidden = false;
   }
 
@@ -55,13 +59,23 @@
   }
 
   // The archive carries one counter per row, so only fetch what's near the viewport.
+  // Counters start `hidden` (display:none), and hidden elements never intersect,
+  // so observe each counter's visible PARENT and load the counter(s) inside it.
   if ('IntersectionObserver' in window) {
+    var byHost = new Map();
+    Array.prototype.forEach.call(nodes, function (n) {
+      var host = n.parentElement || n;
+      if (!byHost.has(host)) { byHost.set(host, []); }
+      byHost.get(host).push(n);
+    });
     var io = new IntersectionObserver(function (entries) {
       entries.forEach(function (entry) {
-        if (entry.isIntersecting) { io.unobserve(entry.target); load(entry.target); }
+        if (!entry.isIntersecting) { return; }
+        io.unobserve(entry.target);
+        (byHost.get(entry.target) || []).forEach(load);
       });
     }, { rootMargin: '200px' });
-    Array.prototype.forEach.call(nodes, function (n) { io.observe(n); });
+    byHost.forEach(function (_, host) { io.observe(host); });
   } else {
     Array.prototype.forEach.call(nodes, load);
   }
