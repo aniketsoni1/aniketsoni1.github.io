@@ -8,7 +8,10 @@
 
 # ── Existing identity (unchanged from your repo) ──
 theme: jekyll-theme-minimal
-title: "Aniket Abhishek Soni - Senior Data Engineer | Published Researcher"
+# Kept short on purpose: jekyll-seo-tag appends it to every blog/extension
+# page title ("The Daily Tech Signal | Aniket Abhishek Soni"). The homepage
+# sets its own longer <title> in _layouts/default.html.
+title: "Aniket Abhishek Soni"
 description: >-
   Senior Data Engineer with 7+ years building enterprise-scale data pipelines
   and AI-powered analytics. Published researcher, IEEE Senior Member,
@@ -71,6 +74,12 @@ defaults:
     values:
       layout: post
       author: "Aniket Abhishek Soni"
+  # Google Search Console verification file: must stay reachable, but it is
+  # not a content page, so keep it out of /sitemap.xml.
+  - scope:
+      path: "google5ea494305f5de25e.html"
+    values:
+      sitemap: false
 
 # GitHub Pages allow-listed plugins (no custom build step required).
 plugins:
