@@ -73,7 +73,7 @@ stats:
   books: "1"
   interviews: "2"             # published interviews about Aniket
   bylines: "3"                # expert articles authored by Aniket
-  judging_appointments: "27"  # MIT 3 rounds, Neal 3, I-COM, Anthem, BIG 10 editions, Globee 2, MLH 4, program committees 3
+  judging_appointments: "28"  # MIT 4 rounds, Neal 3, I-COM, Anthem, BIG 10 editions, Globee 2, hackathons 4, program committees 3
 
 # Profile metric strip (values come from `stats` above).
 metrics:
@@ -105,34 +105,36 @@ awards:
 
 # ── 02 · Judging the Work of Others ──────────────────────────────────
 judging:
-  - title: "Judge - Pitch, Accelerate and Launch rounds"
+  - title: "Judge - four rounds across two competition cycles"
     org: "MIT $100K Entrepreneurship Competition"
     location: "Massachusetts Institute of Technology, Cambridge, MA"
-    date: "Oct 2025 - Apr 2026"
-    year: [2025, 2026]
+    date: "Oct 2024 - Apr 2026"
+    year: [2024, 2025, 2026]
     year_notes:
-      2025: "Pitch round judged Oct 21-30, 2025"
-      2026: "Accelerate (Feb 6-17) and Launch (Apr 3-13) rounds judged"
+      2024: "Pitch 2024 online preliminaries judged (Oct 8-21, 2024)"
+      2025: "Pitch 2025 judged (Oct 21-30, 2025)"
+      2026: "Accelerate (Feb 2026) and Launch (Apr 2026) rounds judged"
     kind: "Startup competition"
-    summary: "Invited reviewer and judge for all three phases of the competition: the Pitch round (Oct 21-30, 2025), the Accelerate prototyping round (Feb 6-17, 2026) and the Launch business-plan finale (Apr 3-13, 2026)."
-    significance: "The MIT $100K is MIT's flagship annual entrepreneurship competition. Launch finalists compete for a $100,000 grand prize, and Accelerate selects the finalists who advance to a live final at the MIT Media Lab."
+    summary: "Judge for the Pitch preliminaries in 2024 and 2025, and for the Accelerate prototyping round (Feb 2026) and the Launch business-plan round (Apr 2026), covering every phase of the 2025-26 competition."
+    significance: "The MIT $100K is MIT's flagship annual entrepreneurship competition. In 2024 the online judges' evaluations selected the 15 teams that pitched live in the finals on the MIT campus; Launch finalists compete for a $100,000 grand prize."
   - title: "Distinguished Judge - three consecutive editions"
     org: "Jesse H. Neal Awards, Software & Information Industry Association (SIIA)"
-    date: "2024, 2025, 2026"
+    date: "2024, 2025, 2026 · invited back for 2027"
     year: [2024, 2025, 2026]
     year_notes:
       2024: "70th Jesse H. Neal Awards"
-      2025: "71st Jesse H. Neal Awards"
-      2026: "72nd Jesse H. Neal Awards"
+      2025: "71st Jesse H. Neal Awards; judge bio published in the program guide"
+      2026: "72nd Jesse H. Neal Awards, both judging stages incl. Stage 2 team deliberations; personally invited back for the 73rd"
     kind: "Media awards"
-    summary: "Judged editorial excellence in specialized business media for the 70th (2024), 71st (2025) and 72nd (2026) editions."
-    significance: "The Neal Awards are widely described as the \"Pulitzer Prizes of business media.\" Certificates of Appreciation signed by Chris Mohr, President of SIIA."
+    summary: "Judged editorial excellence in specialized business media for the 70th (2024), 71st (2025) and 72nd (2026) editions, including the second-stage team deliberations in 2026. Personally invited back by SIIA Media to judge the 73rd awards (2027)."
+    significance: "The Neal Awards are widely described as the \"Pulitzer Prizes of business media.\" Certificates of Appreciation signed by Chris Mohr, President of SIIA. SIIA Media wrote: \"Your insights and industry knowledge are what make this competition the most elite recognition program in business journalism\" (Jameson Scarsella, Media Division Manager, 2026), and earlier thanked him for \"your attention to detail and your impeccable judging insights\" (2025)."
+    evidence: [ { label: "72nd Neal Awards judge certificate (hosted by SIIA)", url: "https://nealawards.siia.net/wp-content/uploads/2026/03/Neal_72_Judge_96.pdf" } ]
   - title: "Jury Member"
     org: "I-COM Data Creativity Awards"
     date: "2026"
     year: 2026
     kind: "Industry awards"
-    summary: "Served on the official jury evaluating creative and effective uses of data and AI in marketing."
+    summary: "Served on the official jury evaluating creative and effective uses of data and AI in marketing, including the final round: three days of finalist presentations and jury discussions (May 19-21, 2026) followed by final scoring."
     significance: "The jury includes senior technology and marketing leaders from organizations such as Accenture Song, Samsung Electronics America, The Walt Disney Company, Publicis Groupe and Amazon Web Services."
     evidence: [ { label: "Data Creativity Awards jury", url: "https://www.i-com.org/awards/data-creativity/jury" } ]
   - title: "Judge - 6th Annual Anthem Awards"
@@ -151,16 +153,16 @@ judging:
       2026: "Technical program committees of IEEE CSNT 2027 (Jun) and IEEE CICN 2027 (Oct)"
     kind: "Program committee"
     summary: "Serves on the technical program committees of the 19th IEEE International Conference on Computational Intelligence and Communication Networks (CICN 2027) and the 16th IEEE International Conference on Communication Systems and Network Technologies (CSNT 2027), and served on the International Program Committee of the Conference on Big Data Analytics & Applications (BDAA 2025, Innsbruck, Austria)."
-  - title: "Judge - eight award programs, ten editions"
+  - title: "Judge - eight award programs, ten editions · 2027 Advisory Board"
     org: "Business Intelligence Group"
-    date: "2025 - 2026"
+    date: "2025 - 2026 · Advisory Board 2027"
     year: [2025, 2026]
     year_notes:
       2025: "Sammy Sales & Marketing Awards; Sustainability Awards"
-      2026: "BIG Innovation, AI Excellence, Fortress Cybersecurity, We Love Tech, Sales & Marketing Excellence, Sustainability, Stratus Cloud Computing and Herizon Awards"
+      2026: "BIG Innovation, AI Excellence, Fortress Cybersecurity, We Love Tech, Sales & Marketing Excellence, Sustainability, Stratus Cloud Computing and Herizon Awards; named to the 2027 Advisory Board (Sep 2026)"
     kind: "Industry awards"
-    summary: "Scored nominations for the Sammy Sales & Marketing Awards (2025, 2026), Sustainability Awards (2025, 2026), BIG Innovation Awards, AI Excellence Awards, Fortress Cybersecurity Awards, Evan Kirstel's We Love Tech Awards, Stratus Awards for Cloud Computing and Herizon Awards (2026)."
-    significance: "Selection confirmed in a letter dated July 3, 2025 from Russ Fordyce, CEO and Founder, citing a \"comprehensive review of qualifications, accomplishments, and contributions to the field.\""
+    summary: "Scored nominations for the Sammy Sales & Marketing Awards (2025, 2026), Sustainability Awards (2025, 2026), BIG Innovation Awards, AI Excellence Awards, Fortress Cybersecurity Awards, Evan Kirstel's We Love Tech Awards, Stratus Awards for Cloud Computing and Herizon Awards (2026). Named to BIG's 2027 Advisory Board, contributing to the September 2026 Advisory Board sessions that reviewed how its award programs should work ahead of the 2027 season."
+    significance: "Selection confirmed in a letter dated July 3, 2025 from Russ Fordyce, CEO and Founder, citing a \"comprehensive review of qualifications, accomplishments, and contributions to the field.\" In September 2026 Russ Fordyce thanked the Advisory Board for helping \"think about how our award programs should work\" and issued the 2027 Advisory Board badge."
   - title: "Judge - Business and Artificial Intelligence categories"
     org: "Globee Awards"
     date: "2023, 2025"
@@ -172,11 +174,11 @@ judging:
     summary: "Judged the Business category (Aug 31, 2023) and the Artificial Intelligence category (May 6, 2025)."
     significance: "Judging certificates are verifiable through the Accredible credential wallet."
   - title: "Hackathon Judge - four events"
-    org: "Major League Hacking (MLH)"
+    org: "Major League Hacking (MLH) · Hacks at FIU"
     date: "2024 - 2025"
     year: [2024, 2025]
     kind: "Hackathons"
-    summary: "Judged All In Open Source, Web3Apps, AI Hackfest and SummerCodex."
+    summary: "Judged the Hosted by MLH digital hackathons Web3Apps, All In Open Source and AI Hackfest after MLH approved his judge application (Nov 2023), and SummerCodeX 2025, hosted by Hacks at FIU on Devpost."
     significance: "MLH is the official student hackathon league, supporting 200+ hackathons worldwide each year."
 
 peer_review:
@@ -239,6 +241,12 @@ memberships:
     kind: "Honor society"
     summary: "Application reviewed on transcripts, resume and statement of intent; approved by the Executive Director of UPE."
     significance: "UPE is the international honor society for the computing and information disciplines."
+  - title: "Associate Member · Webby Awards Jury"
+    org: "International Academy of Digital Arts and Sciences (IADAS)"
+    date: "Sep 2026"
+    year: 2026
+    kind: "Academy"
+    summary: "Admitted to the Academy and its jury for the Webby Awards and Anthem Awards; judged the 6th Annual Anthem Awards in the first season of membership."
   - title: "Member"
     org: "United States PostgreSQL Association (PgUS)"
     tier: affiliation
@@ -625,12 +633,27 @@ community:
     year: 2023
     kind: "Community service"
     summary: "100+ hours of community service through Cognizant's employee-led social initiatives platform; Certificate of Appreciation from the Global Head of Cognizant Outreach (Aug 12, 2023)."
+  - title: "Alumni Mentor"
+    org: "Southern Arkansas University - Career AIM (Alumni Inspiring Muleriders)"
+    date: "Spring 2025"
+    year: 2025
+    kind: "Mentorship"
+    summary: "Selected as an alumni mentor in the SAU Alumni Association's Career AIM program, matched with a current student for the Spring 2025 semester to guide career planning in technology."
   - title: "Mentor"
     org: "ENGin Ukraine - Tech & English Learning"
     kind: "Mentorship"
-  - title: "Mentor"
+  - title: "Mentor · 29 sessions"
     org: "TopMate.io"
     kind: "Mentorship"
+    summary: "One-on-one career and technical mentoring sessions in data engineering and AI, with 29 sessions booked through the platform."
+  # Pending public announcement (program asked ambassadors not to post yet).
+  # Uncomment once Women Techmakers lists the 2026 cohort publicly.
+  # - title: "Women Techmakers Ambassador"
+  #   org: "Women Techmakers (Google)"
+  #   date: "Oct 2026"
+  #   year: 2026
+  #   kind: "Ambassador"
+  #   summary: "Selected for the 2026 Women Techmakers Ambassador cohort after a video application and review."
   - title: "Attendee - Summit of the Future Action Days"
     org: "United Nations Headquarters, New York"
     date: "Sep 20-21, 2024"
@@ -689,9 +712,9 @@ career:
 
 # One-line summary per year, shown at the top of each year on the timeline.
 acclaim_years:
-  2026: "Patent application published and cited by 22 patent documents, UK design granted, Technical Press book, IEEE CIACON paper, MIT $100K Accelerate and Launch rounds, 72nd Neal Awards, I-COM jury and Anthem Awards judge, two IEEE program committees, 13 peer reviews so far, two interviews and three expert bylines."
-  2025: "Elevated to IEEE Senior Member, US patent application filed, Rising Stars 30, MIT $100K judge, 49 peer reviews for 15 conferences and five peer-reviewed conference papers."
-  2024: "AFCEA 40 Under Forty, judge at the 70th Jesse H. Neal Awards, MLH hackathon judging, UN Summit of the Future, and promotion."
+  2026: "Patent application published and cited by 22 patent documents, UK design granted, Technical Press book, IEEE CIACON paper, MIT $100K Accelerate and Launch rounds, 72nd Neal Awards, I-COM jury and Anthem Awards judge, Business Intelligence Group 2027 Advisory Board, two IEEE program committees, 13 peer reviews so far, two interviews and three expert bylines."
+  2025: "Elevated to IEEE Senior Member, US patent application filed, Rising Stars 30, MIT $100K judge, SAU alumni mentor, 49 peer reviews for 15 conferences and five peer-reviewed conference papers."
+  2024: "AFCEA 40 Under Forty, judge at the 70th Jesse H. Neal Awards and MIT $100K Pitch, MLH hackathon judging, UN Summit of the Future, and promotion."
   2023: "Invited talk at Google DevFest Bronx, Globee Awards judge, Google Cloud and Databricks certifications, and mentorship recognition."
   2022: "Cheers Award from Cognizant."
   2021: "Joined Cognizant in New York; climate research identifying 151 global IoT sites concluded."
