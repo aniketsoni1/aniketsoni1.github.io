@@ -35,7 +35,7 @@ person:
     Senior Data Engineer with 7+ years designing enterprise-scale data
     infrastructure, AI-powered analytics and cloud-native pipelines for
     regulated industries. Co-author of a book on AI-enabled cloud operations,
-    contributing author to a Wiley-Scrivener volume and author of peer-reviewed
+    contributing author to a forthcoming Wiley-Scrivener volume and author of peer-reviewed
     conference papers, named inventor on a published US patent application and a granted UK
     registered design, Senior Member of IEEE, and an invited judge and peer
     reviewer for international technology awards, startup competitions and
@@ -66,9 +66,9 @@ stats:
   citations_rg: "138+"         # ResearchGate (secondary)
   h_scholar: "4"
   h_rg: "5"
-  papers: "6"                  # peer-reviewed conference papers listed on the site
-  peer_reviews: "28+"
-  peer_venues: "10"            # IEEE conferences with documented reviews
+  papers: "7"                  # peer-reviewed conference papers listed on the site
+  peer_reviews: "62"           # completed reviews, each backed by a completion record or certificate
+  peer_venues: "23"            # conference editions reviewed for (PREreview listed separately)
   books: "1"
   interviews: "2"             # published interviews about Aniket
   bylines: "3"                # expert articles authored by Aniket
@@ -83,7 +83,7 @@ metrics:
     - { stat: citations_rg, label: "Citations (ResearchGate)" }
     - { stat: papers, label: "Peer-reviewed conference papers" }
     - { stat: peer_reviews, label: "Peer reviews completed" }
-    - { value: "1 + 1", label: "Book · Wiley chapter" }
+    - { value: "1 + 1", label: "Book · Wiley chapter (forthcoming)" }
     - { value: "1 + 1", label: "US patent application · UK design" }
 
 # ── 01 · Awards & Honors ─────────────────────────────────────────────
@@ -134,6 +134,22 @@ judging:
     summary: "Served on the official jury evaluating creative and effective uses of data and AI in marketing."
     significance: "The jury includes senior technology and marketing leaders from organizations such as Accenture Song, Samsung Electronics America, The Walt Disney Company, Publicis Groupe and Amazon Web Services."
     evidence: [ { label: "Data Creativity Awards jury", url: "https://www.i-com.org/awards/data-creativity/jury" } ]
+  - title: "Judge - 6th Annual Anthem Awards"
+    org: "International Academy of Digital Arts and Sciences (IADAS)"
+    date: "2026"
+    year: 2026
+    kind: "Impact awards"
+    summary: "Evaluated 30 entries for the 6th Annual Anthem Awards, which recognize purpose-driven and social-impact work by organizations and individuals."
+    significance: "The Anthem Awards are presented by the International Academy of Digital Arts and Sciences, the organization behind the Webby Awards."
+  - title: "Technical Program Committee member"
+    org: "IEEE CICN 2027 · IEEE CSNT 2027 · BDAA 2025"
+    date: "2025 - 2026"
+    year: [2025, 2026]
+    year_notes:
+      2025: "International Program Committee, BDAA 2025 (Innsbruck, Austria)"
+      2026: "Technical program committees of IEEE CSNT 2027 (Jun) and IEEE CICN 2027 (Oct)"
+    kind: "Program committee"
+    summary: "Serves on the technical program committees of the 19th IEEE International Conference on Computational Intelligence and Communication Networks (CICN 2027) and the 16th IEEE International Conference on Communication Systems and Network Technologies (CSNT 2027), and served on the International Program Committee of the Conference on Big Data Analytics & Applications (BDAA 2025, Innsbruck, Austria)."
   - title: "Judge - The Sammy Sales & Marketing Awards"
     org: "Business Intelligence Group"
     date: "2025"
@@ -160,21 +176,35 @@ judging:
     significance: "MLH is the official student hackathon league, supporting 200+ hackathons worldwide each year."
 
 peer_review:
-  total: "28+"
-  summary: "Individually documented reviews for IEEE conferences in 2025, each confirmed by a certificate or completion record, plus an open preprint review through PREreview."
+  total: "62"
+  summary: "62 individually documented reviews for 23 international conferences in 2025 and 2026, most of them IEEE-sponsored or IEEE technically co-sponsored. Each review is confirmed by a review-completion record or a reviewer certificate. Also an open preprint review through PREreview."
   quote: "Your thorough evaluation and constructive feedback have helped maintain the high academic standards of our conference."
   quote_by: "Mohamad Farid Saaid, General Chair, IEEE AGRETA 2025"
+  # `year` = year the reviews were completed (feeds the Achievement Timeline).
   venues:
+    - { name: "IEEE CSNT 2027", org: "16th IEEE Intl. Conf. on Communication Systems and Network Technologies", papers: 1, year: 2026 }
+    - { name: "IEEE ICTMOD 2026", org: "8th IEEE Intl. Conf. on Technology Management, Operations and Decisions · Paris, France", papers: 1, year: 2026 }
+    - { name: "MAESTRO 2026", org: "Intl. Conf. on Microwave, Antenna and Engineering Systems Technologies Research Outlook", papers: 1, year: 2026 }
+    - { name: "ETNCC 2026", org: "IEEE-sponsored Intl. Conf. on Emerging Trends in Networks and Computer Communications · Windhoek, Namibia", papers: 1, year: 2026 }
+    - { name: "IEEE CICN 2026", org: "18th IEEE Intl. Conf. on Computational Intelligence and Communication Networks", papers: 1, year: 2026 }
+    - { name: "IEEE IATMSI 2026", org: "4th IEEE Intl. Conf. on Interdisciplinary Approaches in Technology and Management for Social Innovation", papers: 2, year: 2026 }
+    - { name: "I5CPS 2026", org: "Intl. Conf. on Computing, Communication, Control and Cyber-Physical Systems · NIT Puducherry · IEEE Madras Section co-sponsored", papers: 2, year: 2026 }
+    - { name: "IEEE MPCON 2026", org: "IEEE Madhya Pradesh Section Conference", papers: 2, year: 2026 }
+    - { name: "IEEE SysCon 2026", org: "IEEE International Systems Conference", papers: 5, year: [2025, 2026] }
+    - { name: "IEEE EDUCON 2026", org: "IEEE Global Engineering Education Conference", papers: 1, year: 2025 }
     - { name: "AGRETA 2025", org: "IEEE Intl. Conf. on Agrosystem Engineering, Technology and Applications · Shah Alam, Malaysia", papers: 9, year: 2025 }
-    - { name: "ICETEG 2025", org: "IEEE conference", papers: 4, year: 2025 }
-    - { name: "RCAAI 2025", org: "IEEE conference", papers: 4, year: 2025 }
-    - { name: "ICoMMS 2025", org: "9th Intl. Conf. on Man-Machine Systems · Universiti Malaysia Perlis", papers: 2, year: 2025 }
-    - { name: "ISWTA 2025", org: "9th IEEE Symposium on Wireless Technology and Applications · Penang, Malaysia", papers: 2, year: 2025 }
-    - { name: "CICN 2025", org: "17th IEEE Intl. Conf. on Computational Intelligence and Communication Networks", papers: 1, year: 2025 }
-    - { name: "NMITCON 2025", org: "IEEE conference · Nitte Meenakshi Institute of Technology, Bengaluru", note: "Reviewer certificate", year: 2025 }
-    - { name: "ICTMOD 2025", org: "IEEE conference", papers: 1, year: 2025 }
+    - { name: "ICETEG 2025", org: "Intl. Conf. on Emerging Technologies in Electronics and Green Energy · JSS Science and Technology University, Mysuru", papers: 6, year: 2025 }
+    - { name: "RCAAI 2025", org: "IEEE conference · Manipal Academy of Higher Education", papers: 5, year: 2025 }
+    - { name: "IEEE PuneCon 2025", org: "IEEE Pune Section International Conference · Savitribai Phule Pune University", papers: 5, year: 2025 }
+    - { name: "IEEE ICTMOD 2025", org: "7th IEEE Intl. Conf. on Technology Management, Operations and Decisions · Glasgow, Scotland", papers: 4, year: 2025 }
+    - { name: "IEEE CICN 2025", org: "17th IEEE Intl. Conf. on Computational Intelligence and Communication Networks", papers: 3, year: 2025 }
+    - { name: "ICoMMS 2025", org: "9th Intl. Conf. on Man-Machine Systems · Universiti Malaysia Perlis", papers: 3, year: 2025 }
+    - { name: "IEEE NMITCON 2025", org: "3rd IEEE Intl. Conf. on Networks, Multimedia and Information Technology · NMIT, Bengaluru", papers: 2, year: 2025 }
+    - { name: "ICoABCD 2025", org: "3rd International Conference (ICoABCD)", papers: 2, year: 2025 }
+    - { name: "IEEE ISWTA 2025", org: "9th IEEE Symposium on Wireless Technology and Applications · Penang, Malaysia", papers: 2, year: 2025 }
     - { name: "SSITCON 2025", org: "IEEE conference", papers: 1, year: 2025 }
-    - { name: "PuneCon 2025", org: "IEEE Pune Section International Conference", papers: 1, year: 2025 }
+    - { name: "FIRE 2025", org: "Forum for Information Retrieval Evaluation · shared-task track", papers: 1, year: 2025 }
+    - { name: "IEEE IC3IT 2025", org: "IEEE Intl. Conf. on Communication, Computer and Information Technology · Mysuru Royal Institute of Technology", papers: 1, year: 2025 }
     - { name: "PREreview", org: "Open community preprint review · medical-informatics manuscript (JMIR Publications preprint)", note: "Open review", year: 2025, open: true }
 
 # ── 03 · Professional Memberships ────────────────────────────────────
@@ -358,10 +388,17 @@ publications:
     kind: "Book chapter"
     org: "Wiley-Scrivener (John Wiley & Sons)"
     role: "Contributing author"
+    date: "Forthcoming"
+    year: 2026
+    summary: "Accepted chapter in a forthcoming 400-page edited hardback volume, ISBN 978-1-394-46527-9. The volume is listed by Wiley and is not yet published."
+    significance: "To be published under the Wiley-Scrivener imprint of John Wiley & Sons."
+  - title: "Scalable Predictive Analytics for Project Risk Management Using a Data-Driven Machine Learning Approach"
+    kind: "Conference"
+    org: "IEEE International Conference on Computing, Intelligence, and Applications (CIACON 2026)"
     date: "Aug 2026"
     year: 2026
-    summary: "Chapter in a 400-page edited hardback volume. ISBN 978-1-394-46527-9."
-    significance: "Published under the Wiley-Scrivener imprint of John Wiley & Sons; the volume is indexed by Scopus."
+    summary: "Proceedings published in IEEE Xplore on Sep 22, 2026."
+    evidence: [ { label: "CIACON 2026 proceedings on IEEE Xplore", url: "https://ieeexplore.ieee.org/xpl/conhome/11688152/proceeding" } ]
   - title: "Big Data Workload Profiling for Energy-Aware Cloud Resource Management"
     kind: "Conference"
     org: "DASET"
@@ -375,21 +412,23 @@ publications:
     year: 2025
   - title: "Data Foundations for a Successful AI Strategy: A Blueprint for AI-Ready Enterprises"
     kind: "Conference"
-    org: "DASA"
+    org: "International Conference on Decision Aid Sciences and Applications (DASA 2025)"
     location: "Bahrain"
     date: "Dec 1-2, 2025"
     year: 2025
-  - title: "Dynamic Context Tuning for Enhanced Multi-Turn Planning in Retrieval-Augmented Generation Systems"
+    summary: "Proceedings published in IEEE Xplore (May 2026)."
+  - title: "Dynamic Context Tuning for Retrieval-Augmented Generation: Enhancing Multi-Turn Planning and Tool Adaptation"
     kind: "Conference"
-    org: "ICE2CPT · NIT Jamshedpur"
+    org: "IEEE ICE2CPT 2025 · NIT Jamshedpur"
     date: "Oct 29-31, 2025"
     year: 2025
     evidence: [ { label: "arXiv:2506.11092", url: "https://doi.org/10.48550/arXiv.2506.11092" } ]
   - title: "Combining Threat Intelligence with IoT Scanning to Predict Cyber Attacks"
     kind: "Conference"
-    org: "AIBThings (3rd International Conference)"
+    org: "3rd IEEE International Conference on AI, Blockchain and Internet of Things (AIBThings 2025)"
     date: "Sep 2025"
     year: 2025
+    summary: "Proceedings published in IEEE Xplore (Dec 2025)."
     evidence: [ { label: "arXiv:2411.17931", url: "https://doi.org/10.48550/arXiv.2411.17931" } ]
   - title: "Detection of Advanced Malware Threats Using a Hybrid Deep Learning Model and Image Analysis"
     kind: "Conference"
@@ -617,8 +656,8 @@ career:
 
 # One-line summary per year, shown at the top of each year on the timeline.
 acclaim_years:
-  2026: "Patent application published, UK design granted, Technical Press book and Wiley chapter, MIT $100K Accelerate and Launch rounds, 72nd Neal Awards, I-COM jury, two interviews and three expert bylines."
-  2025: "Elevated to IEEE Senior Member, US patent application filed, Rising Stars 30, MIT $100K judge, 28+ peer reviews and five peer-reviewed conference papers."
+  2026: "Patent application published, UK design granted, Technical Press book, IEEE CIACON paper, MIT $100K Accelerate and Launch rounds, 72nd Neal Awards, I-COM jury and Anthem Awards judge, two IEEE program committees, 13 peer reviews so far, two interviews and three expert bylines."
+  2025: "Elevated to IEEE Senior Member, US patent application filed, Rising Stars 30, MIT $100K judge, 49 peer reviews for 15 conferences and five peer-reviewed conference papers."
   2024: "AFCEA 40 Under Forty, judge at the 70th Jesse H. Neal Awards, MLH hackathon judging, UN Summit of the Future, and promotion."
   2023: "Invited talk at Google DevFest Bronx, Globee Awards judge, Google Cloud and Databricks certifications, and mentorship recognition."
   2022: "Cheers Award from Cognizant."
@@ -630,4 +669,4 @@ career_phases:
   - { span: "2013 - 2018", label: "Foundations", summary: "Telecom internship, engineering degree and early software and data roles in India." }
   - { span: "2018 - 2021", label: "Graduate research", summary: "M.S. in Computer Science, university service, and applied climate and NLP analytics in New York." }
   - { span: "2021 - 2024", label: "Enterprise builder", summary: "Enterprise data platforms for regulated financial services at 10M+ records per day; first awards and judging roles." }
-  - { span: "2025 - 2026", label: "Field-wide recognition", summary: "IEEE Senior Member, book and Wiley chapter, patent filing, international judging, peer review, interviews and expert bylines." }
+  - { span: "2025 - 2026", label: "Field-wide recognition", summary: "IEEE Senior Member, book and conference papers, patent filing, international judging, 62 peer reviews and program committees, interviews and expert bylines." }
