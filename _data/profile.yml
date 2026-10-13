@@ -141,7 +141,7 @@ judging:
     year: 2026
     kind: "Impact awards"
     summary: "Evaluated 30 entries for the 6th Annual Anthem Awards, which recognize purpose-driven and social-impact work by organizations and individuals."
-    significance: "The Anthem Awards are presented by the International Academy of Digital Arts and Sciences, the organization behind the Webby Awards."
+    significance: "The Anthem Awards are presented by the International Academy of Digital Arts and Sciences, the organization behind the Webby Awards. After judging, the Academy Director invited a jury quote for the winner-announcement feature, noting \"you could offer additional and invaluable insights\" (Denise Gilley, Academy Director, IADAS, Oct 2026)."
   - title: "Technical Program Committee member"
     org: "IEEE CICN 2027 · IEEE CSNT 2027 · BDAA 2025"
     date: "2025 - 2026"
@@ -182,8 +182,12 @@ judging:
 peer_review:
   total: "62"
   summary: "62 individually documented reviews for 23 international conferences in 2025 and 2026, most of them IEEE-sponsored or IEEE technically co-sponsored. Each review is confirmed by a review-completion record or a reviewer certificate. Also three open preprint reviews through PREreview."
-  quote: "Your thorough evaluation and constructive feedback have helped maintain the high academic standards of our conference."
-  quote_by: "Mohamad Farid Saaid, General Chair, IEEE AGRETA 2025"
+  # Quotes from organizers' written thanks (certificates and emails on file).
+  quotes:
+    - { text: "Your thorough evaluation and constructive feedback have helped maintain the high academic standards of our conference.", by: "Mohamad Farid Saaid, General Chair, IEEE AGRETA 2025" }
+    - { text: "The depth of your insights and the meticulousness of your reviews were instrumental in ensuring that only the most rigorous and innovative research was selected for presentation.", by: "Conference Chairs, IEEE-sponsored ETNCC 2026" }
+    - { text: "Your thoughtful feedback and time spent evaluating submissions have been instrumental in ensuring the high quality of the technical program for EDUCON 2026.", by: "On behalf of the IEEE EDUCON 2026 Organizing Committee" }
+    - { text: "Your expert review comments, constructive feedback, and technical insights significantly enhanced the quality of the conference proceedings and helped maintain high academic standards.", by: "Organizing Committee, I5CPS 2026, National Institute of Technology Puducherry" }
   # `year` = year the reviews were completed (feeds the Achievement Timeline).
   venues:
     - { name: "IEEE CSNT 2027", org: "16th IEEE Intl. Conf. on Communication Systems and Network Technologies", papers: 1, year: 2026 }

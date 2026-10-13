@@ -363,8 +363,12 @@
             {%- endfor %}
           </tbody>
         </table>
-        {%- if P.peer_review.quote %}
-        <blockquote class="pf-quote">"{{ P.peer_review.quote }}"<cite>{{ P.peer_review.quote_by }}</cite></blockquote>
+        {%- if P.peer_review.quotes %}
+        <div class="pf-quotes">
+          {%- for q in P.peer_review.quotes %}
+          <blockquote class="pf-quote">"{{ q.text }}"<cite>{{ q.by }}</cite></blockquote>
+          {%- endfor %}
+        </div>
         {%- endif %}
       </div>
       {%- endif %}
