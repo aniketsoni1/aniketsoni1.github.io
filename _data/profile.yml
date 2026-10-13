@@ -73,7 +73,7 @@ stats:
   books: "1"
   interviews: "2"             # published interviews about Aniket
   bylines: "4"                # expert articles authored by Aniket
-  judging_appointments: "28"  # MIT 4 rounds, Neal 3, I-COM, Anthem, BIG 10 editions, Globee 2, hackathons 4, program committees 3
+  judging_appointments: "29"  # MIT 4 rounds, Neal 3, I-COM, Anthem, BIG 10 editions, Globee 2, hackathons 4, program committees 3, IEEE Senior Member review panel 1
 
 # Profile metric strip (values come from `stats` above).
 metrics:
@@ -89,6 +89,13 @@ metrics:
 
 # ── 01 · Awards & Honors ─────────────────────────────────────────────
 awards:
+  - title: "Best Paper Award - Computer Vision"
+    org: "2nd International Conference on Information Technology and Artificial Intelligence (ITAI 2026), Lasell University, Newton, MA"
+    org_short: "ITAI 2026 · Lasell University"
+    date: "Mar 2026"
+    year: 2026
+    kind: "Research award"
+    significance: "The paper \"Metaheuristic-Enabled AI Modernization for Performance and Resource Efficiency\" (with Rakesh Kumar Mali and Milan Parikh) was selected for the Best Paper in the Computer Vision category at ITAI 2026, held March 21-22, 2026. Certificate signed by Prof. Varshitha Manjunath, Lasell University, and Prof. Sandeep Kumar, CHRIST University."
   - title: "Rising Stars 30"
     org: "Computing, The Channel Company"
     org_short: "The Channel Co. Computing"
@@ -153,6 +160,13 @@ judging:
       2026: "Technical program committees of IEEE CSNT 2027 (Jun) and IEEE CICN 2027 (Oct)"
     kind: "Program committee"
     summary: "Serves on the technical program committees of the 19th IEEE International Conference on Computational Intelligence and Communication Networks (CICN 2027) and the 16th IEEE International Conference on Communication Systems and Network Technologies (CSNT 2027), and served on the International Program Committee of the Conference on Big Data Analytics & Applications (BDAA 2025, Innsbruck, Austria)."
+  - title: "Panelist - IEEE Senior Member Application Review Panel"
+    org: "IEEE Admission and Advancement Committee"
+    date: "Nov 23, 2025"
+    year: 2025
+    kind: "Credential review panel"
+    summary: "Served on an IEEE Senior Member application review panel, assessing applicants' professional experience and significant performance to decide elevation to the Senior Member grade."
+    significance: "Only about 10% of IEEE's nearly half a million members hold the Senior Member grade. Thank-you letter from Howard Wolfman, Chair, IEEE Admission and Advancement Committee, for \"reviewing a large number of Senior Member applications\" and being \"instrumental in making possible the elevation of deserving IEEE Members to Senior Member status.\""
   - title: "Judge - eight award programs, ten editions · 2027 Advisory Board"
     org: "Business Intelligence Group"
     date: "2025 - 2026 · Advisory Board 2027"
@@ -720,8 +734,8 @@ career:
 
 # One-line summary per year, shown at the top of each year on the timeline.
 acclaim_years:
-  2026: "Patent application published and cited by 22 patent documents, UK design granted, Technical Press book, IEEE CIACON paper, MIT $100K Accelerate and Launch rounds, 72nd Neal Awards, I-COM jury and Anthem Awards judge, Business Intelligence Group 2027 Advisory Board, two IEEE program committees, 13 peer reviews so far, two interviews and four expert bylines."
-  2025: "Elevated to IEEE Senior Member, US patent application filed, Rising Stars 30, MIT $100K judge, SAU alumni mentor, 49 peer reviews for 15 conferences and five peer-reviewed conference papers."
+  2026: "Patent application published and cited by 22 patent documents, UK design granted, Technical Press book, IEEE CIACON paper, ITAI 2026 Best Paper Award, MIT $100K Accelerate and Launch rounds, 72nd Neal Awards, I-COM jury and Anthem Awards judge, Business Intelligence Group 2027 Advisory Board, two IEEE program committees, 13 peer reviews so far, two interviews and four expert bylines."
+  2025: "Elevated to IEEE Senior Member, US patent application filed, Rising Stars 30, MIT $100K judge, IEEE Senior Member application review panelist, SAU alumni mentor, 49 peer reviews for 15 conferences and five peer-reviewed conference papers."
   2024: "AFCEA 40 Under Forty, judge at the 70th Jesse H. Neal Awards and MIT $100K Pitch, MLH hackathon judging, UN Summit of the Future, and promotion."
   2023: "Invited talk at Google DevFest Bronx, Globee Awards judge, Google Cloud and Databricks certifications, and mentorship recognition."
   2022: "Cheers Award from Cognizant."
