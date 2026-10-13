@@ -319,12 +319,22 @@
         {%- for kind in page.publication_order %}
           {%- assign group = P.publications | where: "kind", kind -%}
           {%- if group.size > 0 %}
-          <h3 class="pf-h3">{{ kind }}{% unless kind == 'Preprint' %}s{% endunless %} <span>{{ group.size }}</span></h3>
+          <h3 class="pf-h3">{{ kind }}{% if group.size > 1 %}s{% endif %} <span>{{ group.size }}</span></h3>
           <div class="pf-grid">
             {%- for it in group %}{% include profile-item.html item=it cat=s.key %}{% endfor %}
           </div>
           {%- endif %}
         {%- endfor %}
+
+      {%- elsif s.key == 'memberships' %}
+        {%- assign aff = P.memberships | where: "tier", "affiliation" -%}
+        {%- assign sel_n = P.memberships.size | minus: aff.size %}
+        <h3 class="pf-h3">Selective grades &amp; fellowships <span>{{ sel_n }}</span></h3>
+        <div class="pf-grid">{% for it in P.memberships %}{% unless it.tier == 'affiliation' %}{% include profile-item.html item=it cat=s.key %}{% endunless %}{% endfor %}</div>
+        {%- if aff.size > 0 %}
+        <h3 class="pf-h3">Affiliations <span>{{ aff.size }}</span></h3>
+        <div class="pf-grid">{% for it in aff %}{% include profile-item.html item=it cat=s.key %}{% endfor %}</div>
+        {%- endif %}
 
       {%- elsif s.key == 'credentials' %}
         <h3 class="pf-h3">Education <span>{{ P.education.size }}</span></h3>
@@ -360,6 +370,19 @@
       {%- endif %}
     </section>
     {%- endfor %}
+
+    <!-- ══ Additional context (not counted in any category or the timeline) ══ -->
+    {%- if P.additional_context and P.additional_context.size > 0 %}
+    <section class="pf-context" aria-labelledby="pf-context-h">
+      <h2 id="pf-context-h" class="pf-h3">Additional context</h2>
+      <p class="pf-context-lede">Broader participation that rounds out the record. Not counted in the categories or the timeline above.</p>
+      <ul class="pf-context-list">
+        {%- for it in P.additional_context %}
+        <li><strong>{{ it.title }}</strong>{% if it.org %} · {{ it.org }}{% endif %}{% if it.date %} <span class="pf-date">{{ it.date }}</span>{% endif %}{% if it.summary %}<span class="pf-context-sum">{{ it.summary }}</span>{% endif %}</li>
+        {%- endfor %}
+      </ul>
+    </section>
+    {%- endif %}
 
     <!-- ══ Independent verification ══ -->
     <section class="pf-verify" aria-labelledby="pf-verify-h">

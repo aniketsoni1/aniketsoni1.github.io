@@ -34,8 +34,9 @@ person:
   summary: >-
     Senior Data Engineer with 7+ years designing enterprise-scale data
     infrastructure, AI-powered analytics and cloud-native pipelines for
-    regulated industries. Author of two books and 20+ peer-reviewed papers,
-    named inventor on a published US patent application and a granted UK
+    regulated industries. Co-author of a book on AI-enabled cloud operations,
+    contributing author to a Wiley-Scrivener volume and author of peer-reviewed
+    conference papers, named inventor on a published US patent application and a granted UK
     registered design, Senior Member of IEEE, and an invited judge and peer
     reviewer for international technology awards, startup competitions and
     IEEE conferences.
@@ -61,27 +62,28 @@ person:
 # Single source of truth for every count shown on the homepage AND the
 # profile. Where sources disagreed, the higher figure was kept. Update here only.
 stats:
-  citations_rg: "138+"         # ResearchGate
-  citations_scholar: "116"     # Google Scholar
+  citations_scholar: "116"     # Google Scholar (lead figure everywhere)
+  citations_rg: "138+"         # ResearchGate (secondary)
   h_scholar: "4"
   h_rg: "5"
-  papers: "20+"
+  papers: "6"                  # peer-reviewed conference papers listed on the site
   peer_reviews: "28+"
   peer_venues: "10"            # IEEE conferences with documented reviews
-  books: "2"
-  press_features: "5"         # interviews, features and expert articles
+  books: "1"
+  interviews: "2"             # published interviews about Aniket
+  bylines: "3"                # expert articles authored by Aniket
   judging_appointments: "10+" # individual appointments (MIT rounds, Neal editions, ...)
 
 # Profile metric strip (values come from `stats` above).
 metrics:
   as_of: "2026"
   items:
-    - { stat: citations_rg, label: "Citations (ResearchGate)" }
     - { stat: citations_scholar, label: "Citations (Google Scholar)" }
     - { stat: h_scholar, label: "h-index (Google Scholar)" }
-    - { stat: papers, label: "Peer-reviewed papers" }
+    - { stat: citations_rg, label: "Citations (ResearchGate)" }
+    - { stat: papers, label: "Peer-reviewed conference papers" }
     - { stat: peer_reviews, label: "Peer reviews completed" }
-    - { value: "2", label: "Books + Wiley chapter" }
+    - { value: "1 + 1", label: "Book · Wiley chapter" }
     - { value: "1 + 1", label: "US patent application · UK design" }
 
 # ── 01 · Awards & Honors ─────────────────────────────────────────────
@@ -104,12 +106,6 @@ awards:
     date: "2023"
     year: 2023
     kind: "National award"
-  - title: "Cheers Award"
-    org: "Cognizant Technology Solutions"
-    org_short: "Cognizant"
-    date: "Dec 2022"
-    year: 2022
-    kind: "Employer recognition"
 
 # ── 02 · Judging the Work of Others ──────────────────────────────────
 judging:
@@ -167,14 +163,10 @@ judging:
     kind: "Hackathons"
     summary: "Judged All In Open Source, Web3Apps, AI Hackfest and SummerCodex."
     significance: "MLH is the official student hackathon league, supporting 200+ hackathons worldwide each year."
-  - title: "Associate Editor"
-    org: "International Journal of Engineering in Computer Science (IJECS)"
-    kind: "Editorial"
-    summary: "Evaluates and manages the peer-review process for manuscripts submitted in computer science and engineering."
 
 peer_review:
   total: "28+"
-  summary: "Individually documented reviews for IEEE conferences in 2025, each confirmed by a certificate or completion record, plus a medical-informatics journal review via PreReview."
+  summary: "Individually documented reviews for IEEE conferences in 2025, each confirmed by a certificate or completion record, plus an open preprint review through PREreview."
   quote: "Your thorough evaluation and constructive feedback have helped maintain the high academic standards of our conference."
   quote_by: "Mohamad Farid Saaid, General Chair, IEEE AGRETA 2025"
   venues:
@@ -188,7 +180,7 @@ peer_review:
     - { name: "ICTMOD 2025", org: "IEEE conference", papers: 1, year: 2025 }
     - { name: "SSITCON 2025", org: "IEEE conference", papers: 1, year: 2025 }
     - { name: "PuneCon 2025", org: "IEEE Pune Section International Conference", papers: 1, year: 2025 }
-    - { name: "JMIR Publications", org: "Journal of Medical Internet Research · via PreReview.org", note: "Manuscript review", year: 2025 }
+    - { name: "PREreview", org: "Open community preprint review · medical-informatics manuscript (JMIR Publications preprint)", note: "Open review", year: 2025, open: true }
 
 # ── 03 · Professional Memberships ────────────────────────────────────
 memberships:
@@ -216,23 +208,25 @@ memberships:
     significance: "UPE is the international honor society for the computing and information disciplines."
   - title: "Member"
     org: "United States PostgreSQL Association (PgUS)"
+    tier: affiliation
     date: "Mar 2026"
     year: 2026
     kind: "Professional association"
   - title: "Affiliate Circle"
     org: "Sigma Xi, The Scientific Research Honor Society"
+    tier: affiliation
     kind: "Research society"
   - title: "Member"
     org: "American Association for the Advancement of Science (AAAS)"
+    tier: affiliation
     kind: "Scientific society"
-  - title: "Royal Fellow"
-    org: "IOASD"
-    kind: "Fellowship"
   - title: "Life Member"
     org: "Computer Society of India (CSI)"
+    tier: affiliation
     kind: "Society"
   - title: "Member"
     org: "Google Developer Group (GDG) New York"
+    tier: affiliation
     kind: "Community"
 
 # ── 04 · Media Coverage & Expert Commentary ──────────────────────────
@@ -255,7 +249,7 @@ media:
     evidence: [ { label: "Read on All Tech Magazine", url: "https://alltechmagazine.com/hidden-failures-behind-modern-data-systems/" } ]
   - title: "The Hidden Data Engineering Work Required to Make Enterprise AI Viable"
     org: "APM Digest"
-    kind: "Expert article"
+    kind: "Expert byline"
     date: "May 6, 2026"
     year: 2026
     summary: "Argues that AI plans disconnected from governance and organizational learning are a failure of management discipline, not of technology."
@@ -263,7 +257,7 @@ media:
     evidence: [ { label: "Read on APM Digest", url: "https://www.apmdigest.com/hidden-data-engineering-work-required-make-enterprise-ai-viable" } ]
   - title: "Where Healthcare Data Systems Fail and How to Build Them Better"
     org: "MedCity News (MedCity Influencers)"
-    kind: "Expert article"
+    kind: "Expert byline"
     date: "Jun 15, 2026"
     year: 2026
     summary: "Why healthcare data breaks down as it moves across systems, and why governance, clear definitions and early lineage tracking matter more than compliance rules alone."
@@ -271,7 +265,7 @@ media:
     evidence: [ { label: "Read on MedCity News", url: "https://medcitynews.com/2026/06/where-healthcare-data-systems-fail-and-how-to-build-them-better/" } ]
   - title: "The Data Quality Crisis Undermining Enterprise Analytics"
     org: "DEVOPSdigest"
-    kind: "Expert article"
+    kind: "Expert byline"
     date: "Jul 7, 2026"
     year: 2026
     summary: "Makes the case, from Fortune 500 financial-services work, for schema enforcement, observability and governance built into pipelines from the start."
@@ -353,7 +347,7 @@ contributions:
 
 # ── 06 · Scholarly Authorship ────────────────────────────────────────
 # Order matters (timeline + structured data follow it): books first, then
-# conference papers and preprints; journal articles are always listed last.
+# conference papers and preprints; any journal articles are always listed last.
 publications:
   - title: "AI-Enabled Serverless Engineering for Autonomous Cloud Operations"
     kind: "Book"
@@ -365,16 +359,6 @@ publications:
     evidence:
       - { label: "Publisher page", url: "https://www.thetechnicalpress.com/home/details/78" }
       - { label: "Open Library", url: "https://openlibrary.org/works/OL45568656W/AI-Enabled_Serverless_Engineering_for_Autonomous_Cloud_Operations" }
-  - title: "Scalable Infrastructure: Building Reliable Distributed Systems"
-    kind: "Book"
-    org: "BP International"
-    role: "Co-author (with Akaash Vishal Hazarika)"
-    date: "2025"
-    year: 2025
-    summary: "ISBN 978-93-49970-00-7"
-    evidence:
-      - { label: "DOI 10.9734/bpi/mono/978-93-49970-00-7", url: "https://doi.org/10.9734/bpi/mono/978-93-49970-00-7" }
-      - { label: "Open Library", url: "https://openlibrary.org/works/OL45568655W/Scalable_Infrastructure" }
   - title: "Building Organizational Intelligence Using Digital Twins and Generative AI: Concepts, Applications and Case Studies"
     kind: "Book chapter"
     org: "Wiley-Scrivener (John Wiley & Sons)"
@@ -425,24 +409,6 @@ publications:
     date: "Mar 2025"
     year: 2025
     evidence: [ { label: "arXiv:2503.21025", url: "https://arxiv.org/abs/2503.21025" } ]
-  - title: "Edge vs Cloud Computing Performance Trade-Offs for Real-Time Analytics"
-    kind: "Journal"
-    org: "International Journal of Science and Engineering Applications (IJSEA) · Vol. 14, Issue 06"
-    date: "Jun 2025"
-    year: 2025
-    evidence: [ { label: "DOI 10.7753/IJSEA1406.1007", url: "https://doi.org/10.7753/IJSEA1406.1007" } ]
-  - title: "Self-Healing Data Pipelines: A Fault-Tolerant Approach to ETL Workflows"
-    kind: "Journal"
-    org: "IJETRM · Vol. 14, Issue 05"
-    date: "May 2025"
-    year: 2025
-    evidence: [ { label: "Zenodo 15615306", url: "https://doi.org/10.5281/zenodo.15615306" } ]
-  - title: "Dynamic Resource Allocation in Serverless Architectures Using AI-Based Forecasting"
-    kind: "Journal"
-    org: "IJERT · Vol. 14, Issue 04"
-    date: "Apr 2025"
-    year: 2025
-    evidence: [ { label: "Zenodo 18104614", url: "https://doi.org/10.5281/zenodo.18104614" } ]
 
 # ── 07 · Leading & Critical Role ─────────────────────────────────────
 roles:
@@ -602,19 +568,23 @@ community:
     org: "United Nations Headquarters, New York"
     date: "Sep 20-21, 2024"
     year: 2024
-    kind: "Distinction"
+    kind: "Attendance"
     summary: "Registration approved by the UN Secretariat to attend the Action Days at UN Headquarters, representing Freedom Employability Academy (AAM Foundation India)."
+
+# ── Additional context ───────────────────────────────────────────────
+# Participation that rounds out the overall record. Rendered as a short list
+# after the categories; deliberately NOT counted in any category total, NOT on
+# the Achievement Timeline and NOT in the structured data. No `year` field.
+additional_context:
   - title: "Named participant - Guinness World Records title"
     org: "Most participants in an online generative AI hackathon"
     date: "Aug 13, 2025"
-    year: 2025
-    kind: "Distinction"
+    kind: "Participation"
     summary: "Official Guinness World Records certificate as one of 53,199 participants in Cognizant's record-setting online generative AI hackathon."
   - title: "Named participant - Guinness World Records title"
     org: "Most users in an artificial intelligence video lesson"
     date: "Jul 15, 2026"
-    year: 2026
-    kind: "Distinction"
+    kind: "Participation"
     summary: "Record Holder certificate as one of 14,075 participants in the record achieved by Kanz and Saudi Arabia's Ministry of Human Resources and Social Development."
 
 # ── 10 · Credentials ─────────────────────────────────────────────────
@@ -646,16 +616,17 @@ career:
   - { title: "Software Engineer Intern", org: "Converseon.AI, New York", date: "Jul - Sep 2020", year: 2020 }
   - { title: "Research Analyst & Data Scientist (volunteer)", org: "Climate Change Xplorers", date: "Sep 2020 - Mar 2021", year: 2020 }
   - { title: "Joined Cognizant Technology Solutions", org: "New York - enterprise data platforms for regulated financial services", date: "Mar 2021", year: 2021 }
+  - { title: "Cheers Award (employer recognition)", org: "Cognizant Technology Solutions", date: "Dec 2022", year: 2022 }
   - { title: "Promoted to Senior Associate - Projects (serving as Senior Data Engineer)", org: "Cognizant Technology Solutions", date: "Nov 1, 2024", year: 2024 }
   - { title: "Architect, healthcare claims-integrity ML platform", org: "Cognizant Technology Solutions", date: "Apr 2026", year: 2026 }
 
 # One-line summary per year, shown at the top of each year on the timeline.
 acclaim_years:
-  2026: "Patent application published, UK design granted, second book and Wiley chapter, MIT $100K Accelerate and Launch rounds, 72nd Neal Awards, I-COM jury, and five media features in six months."
-  2025: "Elevated to IEEE Senior Member, first book published, US patent application filed, Rising Stars 30, MIT $100K judge, 28+ IEEE peer reviews and nine papers in one year."
+  2026: "Patent application published, UK design granted, Technical Press book and Wiley chapter, MIT $100K Accelerate and Launch rounds, 72nd Neal Awards, I-COM jury, two interviews and three expert bylines."
+  2025: "Elevated to IEEE Senior Member, US patent application filed, Rising Stars 30, MIT $100K judge, 28+ peer reviews and five peer-reviewed conference papers."
   2024: "AFCEA 40 Under Forty, judge at the 70th Jesse H. Neal Awards, MLH hackathon judging, UN Summit of the Future, and promotion."
   2023: "Invited talk at Google DevFest Bronx, Globee Awards judge, Google Cloud and Databricks certifications, and mentorship recognition."
-  2022: "Cognizant Cheers Award, the first of four consecutive years of formal recognition."
+  2022: "Cheers Award from Cognizant."
   2021: "Joined Cognizant in New York; climate research identifying 151 global IoT sites concluded."
   2020: "M.S. in Computer Science conferred; began climate research analyzing 150 million weather data points."
 
@@ -664,4 +635,4 @@ career_phases:
   - { span: "2013 - 2018", label: "Foundations", summary: "Telecom internship, engineering degree and early software and data roles in India." }
   - { span: "2018 - 2021", label: "Graduate research", summary: "M.S. in Computer Science, university service, and applied climate and NLP analytics in New York." }
   - { span: "2021 - 2024", label: "Enterprise builder", summary: "Enterprise data platforms for regulated financial services at 10M+ records per day; first awards and judging roles." }
-  - { span: "2025 - 2026", label: "Field-wide recognition", summary: "IEEE Senior Member, books, patent filings, international judging, peer review and media features." }
+  - { span: "2025 - 2026", label: "Field-wide recognition", summary: "IEEE Senior Member, book and Wiley chapter, patent filing, international judging, peer review, interviews and expert bylines." }
