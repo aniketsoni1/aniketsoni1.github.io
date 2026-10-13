@@ -194,6 +194,7 @@
         "https://orcid.org/0009-0001-6312-2967",
         "https://www.researchgate.net/profile/Aniket-Abhishek-Soni",
         "https://www.semanticscholar.org/author/Aniket-Abhishek-Soni/2352272973",
+        "https://www.lens.org/lens/search/scholar/list?q=author.orcid:0009-0001-6312-2967",
         "https://medium.com/@aniketsoni1",
         "https://openlibrary.org/authors/OL16440533A/Aniket_Abhishek_Soni"
       ]
@@ -2438,7 +2439,7 @@ tr.pub-row[data-href]:hover .pub-doi { color: var(--lime); }
       <div class="judging-card">
         <div class="judging-type">{{ c.kind }} · {{ c.role }}</div>
         <div class="judging-name">{% if c.evidence %}<a href="{{ c.evidence[0].url }}" target="_blank" rel="noopener noreferrer" style="color:inherit">{{ c.title }} ↗</a>{% else %}{{ c.title }}{% endif %}</div>
-        <div class="judging-context">{{ c.org }} · {{ c.date }}</div>
+        <div class="judging-context">{{ c.org }} · {{ c.date }}{% if c.metric %}<br><strong style="color:var(--lime)">{{ c.metric }}</strong>{% endif %}</div>
       </div>
       {%- endfor %}
     </div>
@@ -2478,41 +2479,41 @@ tr.pub-row[data-href]:hover .pub-doi { color: var(--lime); }
             <td class="pub-year">2026</td>
             <td class="pub-year">-</td>
           </tr>
-          <tr class="pub-row" data-href="https://ieeexplore.ieee.org/xpl/conhome/11688152/proceeding" style="cursor:pointer">
+          <tr class="pub-row" data-href="https://doi.org/10.1109/CIACON70148.2026.11689135" style="cursor:pointer">
             <td><span class="pub-badge conf">Conf.</span></td>
             <td>
-              <div class="pub-title">Scalable Predictive Analytics for Project Risk Management Using a Data-Driven Machine Learning Approach</div>
-              <div class="pub-venue">IEEE CIACON 2026 · IEEE Xplore</div>
+              <div class="pub-title">Scalable Predictive Analytics for Project Risk Management Using Data-Driven Machine Learning Approach</div>
+              <div class="pub-venue">CIACON 2026 · IEEE Xplore</div>
             </td>
-            <td class="pub-year">Aug 2026</td>
-            <td><span class="pub-doi">IEEE Xplore ↗</span></td>
+            <td class="pub-year">Jul 2026</td>
+            <td><span class="pub-doi">10.1109/CIACON… ↗</span></td>
           </tr>
-          <tr class="pub-row" style="cursor:default">
+          <tr class="pub-row" data-href="https://doi.org/10.48550/arXiv.2601.11935" style="cursor:pointer">
             <td><span class="pub-badge conf">Conf.</span></td>
             <td>
               <div class="pub-title">Big Data Workload Profiling for Energy-Aware Cloud Resource Management</div>
-              <div class="pub-venue">DASET · Scotland</div>
+              <div class="pub-venue">DASET 2026 · Scotland</div>
             </td>
             <td class="pub-year">Jan 2026</td>
-            <td class="pub-year">-</td>
+            <td><span class="pub-doi">arXiv:2601.11935 ↗</span></td>
           </tr>
-          <tr class="pub-row" style="cursor:default">
+          <tr class="pub-row" data-href="https://doi.org/10.1109/CICN67655.2025.11367872" style="cursor:pointer">
             <td><span class="pub-badge conf">Conf.</span></td>
             <td>
               <div class="pub-title">Reinforcement Learning For Dynamic Workflow Optimization In CI/CD Pipelines</div>
               <div class="pub-venue">17th IEEE CICN</div>
             </td>
             <td class="pub-year">Dec 2025</td>
-            <td class="pub-year">IEEE</td>
+            <td><span class="pub-doi">10.1109/CICN… ↗</span></td>
           </tr>
-          <tr class="pub-row" style="cursor:default">
+          <tr class="pub-row" data-href="https://doi.org/10.1109/DASA68193.2025.11498880" style="cursor:pointer">
             <td><span class="pub-badge conf">Conf.</span></td>
             <td>
               <div class="pub-title">Data Foundations for a Successful AI Strategy: A Blueprint for AI-Ready Enterprises</div>
               <div class="pub-venue">DASA 2025 · Bahrain · IEEE Xplore</div>
             </td>
             <td class="pub-year">Dec 2025</td>
-            <td class="pub-year">-</td>
+            <td><span class="pub-doi">10.1109/DASA… ↗</span></td>
           </tr>
           <tr class="pub-row" data-href="https://doi.org/10.1109/IC366947.2025.11290509" style="cursor:pointer">
             <td><span class="pub-badge conf">Conf.</span></td>
@@ -2523,23 +2524,23 @@ tr.pub-row[data-href]:hover .pub-doi { color: var(--lime); }
             <td class="pub-year">Aug 2025</td>
             <td><span class="pub-doi">10.1109/IC3… ↗</span></td>
           </tr>
-          <tr class="pub-row" data-href="https://doi.org/10.48550/arXiv.2506.11092" style="cursor:pointer">
+          <tr class="pub-row" data-href="https://doi.org/10.1109/ICE2CPT66440.2025.11340514" style="cursor:pointer">
             <td><span class="pub-badge conf">Conf.</span></td>
             <td>
-              <div class="pub-title">Dynamic Context Tuning for Retrieval-Augmented Generation: Enhancing Multi-Turn Planning and Tool Adaptation</div>
+              <div class="pub-title">Dynamic Context Tuning for Enhanced Multi-Turn Planning in Retrieval-Augmented Generation Systems</div>
               <div class="pub-venue">IEEE ICE2CPT 2025 · NIT Jamshedpur</div>
             </td>
             <td class="pub-year">Oct 2025</td>
-            <td><span class="pub-doi">arXiv:2506.11092 ↗</span></td>
+            <td><span class="pub-doi">10.1109/ICE2CPT… ↗</span></td>
           </tr>
-          <tr class="pub-row" data-href="https://doi.org/10.48550/arXiv.2411.17931" style="cursor:pointer">
+          <tr class="pub-row" data-href="https://doi.org/10.1109/AIBThings66987.2025.11296194" style="cursor:pointer">
             <td><span class="pub-badge conf">Conf.</span></td>
             <td>
               <div class="pub-title">Combining Threat Intelligence with IoT Scanning to Predict Cyber Attacks</div>
               <div class="pub-venue">IEEE AIBThings 2025 · IEEE Xplore</div>
             </td>
             <td class="pub-year">Sep 2025</td>
-            <td><span class="pub-doi">arXiv:2411.17931 ↗</span></td>
+            <td><span class="pub-doi">10.1109/AIBThings… ↗</span></td>
           </tr>
           <tr class="pub-row" data-href="https://arxiv.org/abs/2503.21025" style="cursor:pointer">
             <td><span class="pub-badge arxiv">arXiv</span></td>
@@ -2550,6 +2551,15 @@ tr.pub-row[data-href]:hover .pub-doi { color: var(--lime); }
             <td class="pub-year">Mar 2025</td>
             <td><span class="pub-doi">arXiv:2503.21025 ↗</span></td>
           </tr>
+          <tr class="pub-row" data-href="https://doi.org/10.21227/b62f-z190" style="cursor:pointer">
+            <td><span class="pub-badge arxiv">Dataset</span></td>
+            <td>
+              <div class="pub-title">Dataset for Dynamic Context Tuning in Retrieval-Augmented Generation</div>
+              <div class="pub-venue">IEEE DataPort · Co-author</div>
+            </td>
+            <td class="pub-year">Dec 2024</td>
+            <td><span class="pub-doi">10.21227/b62f-z190 ↗</span></td>
+          </tr>
         </tbody>
       </table>
     </div>
@@ -2558,7 +2568,8 @@ tr.pub-row[data-href]:hover .pub-doi { color: var(--lime); }
       <a href="https://scholar.google.com/citations?user=Rtn7hFAAAAAJ&hl=en" target="_blank" rel="noopener noreferrer" style="color:var(--lime);text-decoration:none">Google Scholar</a> ·
       <a href="https://orcid.org/0009-0001-6312-2967" target="_blank" rel="noopener noreferrer" style="color:var(--lime);text-decoration:none">ORCiD</a> ·
       <a href="https://www.researchgate.net/profile/Aniket-Abhishek-Soni" target="_blank" rel="noopener noreferrer" style="color:var(--lime);text-decoration:none">ResearchGate</a> ·
-      <a href="https://www.semanticscholar.org/author/Aniket-Abhishek-Soni/2352272973" target="_blank" rel="noopener noreferrer" style="color:var(--lime);text-decoration:none">Semantic Scholar</a>
+      <a href="https://www.semanticscholar.org/author/Aniket-Abhishek-Soni/2352272973" target="_blank" rel="noopener noreferrer" style="color:var(--lime);text-decoration:none">Semantic Scholar</a> ·
+      <a href="https://www.lens.org/lens/search/scholar/list?q=author.orcid:0009-0001-6312-2967" target="_blank" rel="noopener noreferrer" style="color:var(--lime);text-decoration:none">The Lens</a>
     </div>
   </div>
 </section>
@@ -2824,7 +2835,7 @@ tr.pub-row[data-href]:hover .pub-doi { color: var(--lime); }
       <div class="judging-card">
         <div class="judging-type">Peer Reviewer</div>
         <div class="judging-name">{{ P.stats.peer_reviews }} Reviews Across {{ P.stats.peer_venues }} Conferences</div>
-        <div class="judging-context">Peer review for {{ P.stats.peer_venues }} international conferences in 2025-2026, including IEEE SysCon, IEEE EDUCON, IEEE CICN, IEEE ICTMOD and IEEE PuneCon - evaluating submitted research for technical rigor and contribution. Also an open preprint review through PREreview.</div>
+        <div class="judging-context">Peer review for {{ P.stats.peer_venues }} international conferences in 2025-2026, including IEEE SysCon, IEEE EDUCON, IEEE CICN, IEEE ICTMOD and IEEE PuneCon - evaluating submitted research for technical rigor and contribution. Also three open preprint reviews through PREreview.</div>
       </div>
       {%- assign amb = P.community | where: "kind", "Ambassador" %}
       {%- if amb.size > 0 %}

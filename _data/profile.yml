@@ -52,6 +52,7 @@ person:
     - { label: "ORCID", url: "https://orcid.org/0009-0001-6312-2967" }
     - { label: "ResearchGate", url: "https://www.researchgate.net/profile/Aniket-Abhishek-Soni" }
     - { label: "Semantic Scholar", url: "https://www.semanticscholar.org/author/Aniket-Abhishek-Soni/2352272973" }
+    - { label: "The Lens", url: "https://www.lens.org/lens/search/scholar/list?q=author.orcid:0009-0001-6312-2967" }
     - { label: "LinkedIn", url: "https://www.linkedin.com/in/aniketsoni" }
     - { label: "GitHub", url: "https://github.com/aniketsoni1" }
     - { label: "VS Marketplace", url: "https://marketplace.visualstudio.com/publishers/AniketSoni" }
@@ -72,7 +73,7 @@ stats:
   books: "1"
   interviews: "2"             # published interviews about Aniket
   bylines: "3"                # expert articles authored by Aniket
-  judging_appointments: "10+" # individual appointments (MIT rounds, Neal editions, ...)
+  judging_appointments: "27"  # MIT 3 rounds, Neal 3, I-COM, Anthem, BIG 10 editions, Globee 2, MLH 4, program committees 3
 
 # Profile metric strip (values come from `stats` above).
 metrics:
@@ -150,12 +151,15 @@ judging:
       2026: "Technical program committees of IEEE CSNT 2027 (Jun) and IEEE CICN 2027 (Oct)"
     kind: "Program committee"
     summary: "Serves on the technical program committees of the 19th IEEE International Conference on Computational Intelligence and Communication Networks (CICN 2027) and the 16th IEEE International Conference on Communication Systems and Network Technologies (CSNT 2027), and served on the International Program Committee of the Conference on Big Data Analytics & Applications (BDAA 2025, Innsbruck, Austria)."
-  - title: "Judge - The Sammy Sales & Marketing Awards"
+  - title: "Judge - eight award programs, ten editions"
     org: "Business Intelligence Group"
-    date: "2025"
-    year: 2025
+    date: "2025 - 2026"
+    year: [2025, 2026]
+    year_notes:
+      2025: "Sammy Sales & Marketing Awards; Sustainability Awards"
+      2026: "BIG Innovation, AI Excellence, Fortress Cybersecurity, We Love Tech, Sales & Marketing Excellence, Sustainability, Stratus Cloud Computing and Herizon Awards"
     kind: "Industry awards"
-    summary: "Evaluated sales and marketing solutions submitted for industry recognition."
+    summary: "Scored nominations for the Sammy Sales & Marketing Awards (2025, 2026), Sustainability Awards (2025, 2026), BIG Innovation Awards, AI Excellence Awards, Fortress Cybersecurity Awards, Evan Kirstel's We Love Tech Awards, Stratus Awards for Cloud Computing and Herizon Awards (2026)."
     significance: "Selection confirmed in a letter dated July 3, 2025 from Russ Fordyce, CEO and Founder, citing a \"comprehensive review of qualifications, accomplishments, and contributions to the field.\""
   - title: "Judge - Business and Artificial Intelligence categories"
     org: "Globee Awards"
@@ -177,7 +181,7 @@ judging:
 
 peer_review:
   total: "62"
-  summary: "62 individually documented reviews for 23 international conferences in 2025 and 2026, most of them IEEE-sponsored or IEEE technically co-sponsored. Each review is confirmed by a review-completion record or a reviewer certificate. Also an open preprint review through PREreview."
+  summary: "62 individually documented reviews for 23 international conferences in 2025 and 2026, most of them IEEE-sponsored or IEEE technically co-sponsored. Each review is confirmed by a review-completion record or a reviewer certificate. Also three open preprint reviews through PREreview."
   quote: "Your thorough evaluation and constructive feedback have helped maintain the high academic standards of our conference."
   quote_by: "Mohamad Farid Saaid, General Chair, IEEE AGRETA 2025"
   # `year` = year the reviews were completed (feeds the Achievement Timeline).
@@ -205,7 +209,7 @@ peer_review:
     - { name: "SSITCON 2025", org: "IEEE conference", papers: 1, year: 2025 }
     - { name: "FIRE 2025", org: "Forum for Information Retrieval Evaluation · shared-task track", papers: 1, year: 2025 }
     - { name: "IEEE IC3IT 2025", org: "IEEE Intl. Conf. on Communication, Computer and Information Technology · Mysuru Royal Institute of Technology", papers: 1, year: 2025 }
-    - { name: "PREreview", org: "Open community preprint review · medical-informatics manuscript (JMIR Publications preprint)", note: "Open review", year: 2025, open: true }
+    - { name: "PREreview", org: "Open community preprint reviews (one structured, one collaborative) · biomedical and clinical machine learning", note: "3 open reviews", year: 2025, open: true }
 
 # ── 03 · Professional Memberships ────────────────────────────────────
 memberships:
@@ -303,14 +307,17 @@ contributions:
     kind: "US patent application"
     org: "United States Patent and Trademark Office"
     role: "Co-inventor"
-    date: "Filed Oct 10, 2025 · Published Feb 5, 2026"
+    date: "Filed Oct 10, 2025 · Published Feb 5, 2026 · Pending"
     year: [2025, 2026]
+    metric: "Cited by 22 patent documents (The Lens)"
     year_notes:
       2025: "US patent application filed (Oct 10)"
       2026: "US patent application published by the USPTO (Feb 5)"
     summary: "Publication No. US 2026/0037537 A1 (Application 19/355,795; IPC G06F 16/25, G06F 16/28). A self-optimizing storage and retrieval system for large distributed data environments that uses deep reinforcement learning and LSTM prediction across tiered DRAM, NVMe and archival storage with graph-based metadata indexing. Simulations showed up to 45% lower average query latency and 60% higher cache hit ratios."
-    significance: "Co-inventors: Rashi Nimesh Kumar Dhenia, Milan Parikh, Jubin Abhishek Soni, Naga Lalitha Sree Thatavarthi and Kriday Kallalathil."
-    evidence: [ { label: "US 2026/0037537 A1 on Google Patents", url: "https://patents.google.com/patent/US20260037537A1/en" } ]
+    significance: "Within eight months of publication, The Lens patent index records the application as cited by 22 patent documents, with 1 non-patent literature citation. Co-inventors: Rashi Nimesh Kumar Dhenia, Milan Parikh, Jubin Abhishek Soni, Naga Lalitha Sree Thatavarthi and Kriday Kallalathil."
+    evidence:
+      - { label: "US 2026/0037537 A1 on Google Patents", url: "https://patents.google.com/patent/US20260037537A1/en" }
+      - { label: "Patent record and citations on The Lens", url: "https://www.lens.org/lens/patent/062-349-299-047-728" }
   - title: "Dynamic Cost-Optimization Router for Multi-Platform Cloud Integration Systems"
     kind: "UK registered design"
     org: "UK Intellectual Property Office"
@@ -357,6 +364,14 @@ contributions:
     date: "Jul 2026"
     year: 2026
     summary: "Open-source, offline-first 20-phase curriculum that builds a data ingester, DuckDB lakehouse, warehouse loads, a declarative data-quality engine, an orchestrator and an SLO monitor from first principles. Every lesson ships runnable code, tests and real datasets."
+  - title: "Dataset for Dynamic Context Tuning in Retrieval-Augmented Generation"
+    kind: "Open dataset"
+    org: "IEEE DataPort"
+    role: "Co-author (with Jubin Abhishek Soni, Amit Anand and Rajesh Kumar Pandey)"
+    date: "Dec 2024"
+    year: 2024
+    summary: "Published research dataset behind the Dynamic Context Tuning work (IEEE ICE2CPT 2025), released for reuse and independent replication."
+    evidence: [ { label: "DOI 10.21227/b62f-z190", url: "https://doi.org/10.21227/b62f-z190" } ]
   - title: "Offline speech recognition with custom language models"
     kind: "Research to practice"
     date: "2024 - 2025"
@@ -392,24 +407,30 @@ publications:
     year: 2026
     summary: "Accepted chapter in a forthcoming 400-page edited hardback volume, ISBN 978-1-394-46527-9. The volume is listed by Wiley and is not yet published."
     significance: "To be published under the Wiley-Scrivener imprint of John Wiley & Sons."
-  - title: "Scalable Predictive Analytics for Project Risk Management Using a Data-Driven Machine Learning Approach"
+  - title: "Scalable Predictive Analytics for Project Risk Management Using Data-Driven Machine Learning Approach"
     kind: "Conference"
-    org: "IEEE International Conference on Computing, Intelligence, and Applications (CIACON 2026)"
-    date: "Aug 2026"
+    org: "2nd International Conference on Computing, Intelligence, and Applications (CIACON 2026) · IEEE Kolkata Section technical sponsorship"
+    date: "Jul 30-31, 2026"
     year: 2026
-    summary: "Proceedings published in IEEE Xplore on Sep 22, 2026."
-    evidence: [ { label: "CIACON 2026 proceedings on IEEE Xplore", url: "https://ieeexplore.ieee.org/xpl/conhome/11688152/proceeding" } ]
+    summary: "Published in IEEE Xplore on Sep 22, 2026."
+    evidence:
+      - { label: "DOI 10.1109/CIACON70148.2026.11689135", url: "https://doi.org/10.1109/CIACON70148.2026.11689135" }
   - title: "Big Data Workload Profiling for Energy-Aware Cloud Resource Management"
     kind: "Conference"
-    org: "DASET"
+    org: "International Conference on Data Analytics for Sustainability and Engineering Technology (DASET 2026)"
     location: "Scotland"
     date: "Jan 2026"
     year: 2026
+    evidence: [ { label: "arXiv:2601.11935", url: "https://doi.org/10.48550/arXiv.2601.11935" } ]
   - title: "Reinforcement Learning for Dynamic Workflow Optimization in CI/CD Pipelines"
     kind: "Conference"
     org: "17th IEEE International Conference on Computational Intelligence and Communication Networks (CICN)"
     date: "Dec 2025"
     year: 2025
+    summary: "Published in IEEE Xplore, pages 638-644."
+    evidence:
+      - { label: "DOI 10.1109/CICN67655.2025.11367872", url: "https://doi.org/10.1109/CICN67655.2025.11367872" }
+      - { label: "arXiv:2601.11647", url: "https://doi.org/10.48550/arXiv.2601.11647" }
   - title: "Data Foundations for a Successful AI Strategy: A Blueprint for AI-Ready Enterprises"
     kind: "Conference"
     org: "International Conference on Decision Aid Sciences and Applications (DASA 2025)"
@@ -417,20 +438,28 @@ publications:
     date: "Dec 1-2, 2025"
     year: 2025
     summary: "Proceedings published in IEEE Xplore (May 2026)."
-  - title: "Dynamic Context Tuning for Retrieval-Augmented Generation: Enhancing Multi-Turn Planning and Tool Adaptation"
+    evidence:
+      - { label: "DOI 10.1109/DASA68193.2025.11498880", url: "https://doi.org/10.1109/DASA68193.2025.11498880" }
+      - { label: "TechRxiv preprint", url: "https://doi.org/10.36227/techrxiv.177126538.80978891/v1" }
+  - title: "Dynamic Context Tuning for Enhanced Multi-Turn Planning in Retrieval-Augmented Generation Systems"
     kind: "Conference"
     org: "IEEE ICE2CPT 2025 · NIT Jamshedpur"
     date: "Oct 29-31, 2025"
     year: 2025
-    evidence: [ { label: "arXiv:2506.11092", url: "https://doi.org/10.48550/arXiv.2506.11092" } ]
+    summary: "Published in IEEE Xplore. An extended preprint appears on arXiv as \"Dynamic Context Tuning for Retrieval-Augmented Generation: Enhancing Multi-Turn Planning and Tool Adaptation\"."
+    evidence:
+      - { label: "DOI 10.1109/ICE2CPT66440.2025.11340514", url: "https://doi.org/10.1109/ICE2CPT66440.2025.11340514" }
+      - { label: "arXiv:2506.11092", url: "https://doi.org/10.48550/arXiv.2506.11092" }
   - title: "Combining Threat Intelligence with IoT Scanning to Predict Cyber Attacks"
     kind: "Conference"
     org: "3rd IEEE International Conference on AI, Blockchain and Internet of Things (AIBThings 2025)"
     date: "Sep 2025"
     year: 2025
     summary: "Proceedings published in IEEE Xplore (Dec 2025)."
-    evidence: [ { label: "arXiv:2411.17931", url: "https://doi.org/10.48550/arXiv.2411.17931" } ]
-  - title: "Detection of Advanced Malware Threats Using a Hybrid Deep Learning Model and Image Analysis"
+    evidence:
+      - { label: "DOI 10.1109/AIBThings66987.2025.11296194", url: "https://doi.org/10.1109/AIBThings66987.2025.11296194" }
+      - { label: "arXiv:2411.17931", url: "https://doi.org/10.48550/arXiv.2411.17931" }
+  - title: "Detection of Advance Malware Threats using Hybrid Deep Learning Model and Image Analysis"
     kind: "Conference"
     org: "International Conference on Contemporary Computing (IC3) · IEEE · JIIT Noida with University of Florida"
     date: "Aug 7-9, 2025"
@@ -656,7 +685,7 @@ career:
 
 # One-line summary per year, shown at the top of each year on the timeline.
 acclaim_years:
-  2026: "Patent application published, UK design granted, Technical Press book, IEEE CIACON paper, MIT $100K Accelerate and Launch rounds, 72nd Neal Awards, I-COM jury and Anthem Awards judge, two IEEE program committees, 13 peer reviews so far, two interviews and three expert bylines."
+  2026: "Patent application published and cited by 22 patent documents, UK design granted, Technical Press book, IEEE CIACON paper, MIT $100K Accelerate and Launch rounds, 72nd Neal Awards, I-COM jury and Anthem Awards judge, two IEEE program committees, 13 peer reviews so far, two interviews and three expert bylines."
   2025: "Elevated to IEEE Senior Member, US patent application filed, Rising Stars 30, MIT $100K judge, 49 peer reviews for 15 conferences and five peer-reviewed conference papers."
   2024: "AFCEA 40 Under Forty, judge at the 70th Jesse H. Neal Awards, MLH hackathon judging, UN Summit of the Future, and promotion."
   2023: "Invited talk at Google DevFest Bronx, Globee Awards judge, Google Cloud and Databricks certifications, and mentorship recognition."
