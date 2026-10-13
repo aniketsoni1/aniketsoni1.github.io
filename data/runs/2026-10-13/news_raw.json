@@ -1,0 +1,836 @@
+{
+  "generated_at": "2026-10-13T19:54:36.421038+00:00",
+  "post_date": "2026-10-13",
+  "sources_checked": 48,
+  "candidates": 45,
+  "items": [
+    {
+      "title": "Developing Gemini 4 Argon responsibly and safely",
+      "summary": "",
+      "source_name": "Google DeepMind",
+      "source_url": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
+      "published_at": "2026-10-13T19:43:07+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.97,
+      "importance_score": 0.8992,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/"
+    },
+    {
+      "title": "From Radar to Reasoning: Why Enterprise AI Finally Watches Your Business in Real Time",
+      "summary": "In 1935, the British Air Ministry asked physicist Robert Watson-Watt for a death ray capable of downing enemy aircraft. He couldn’t build one, but his team developed something arguably more valuable. Within weeks, their radar was able to detect a bomber 8 miles out. Radar was a conceptual coup as much as a technical one. […]",
+      "source_name": "Salesforce News",
+      "source_url": "https://www.salesforce.com/news/stories/operational-intelligence-ai-radar/",
+      "published_at": "2026-10-13T17:00:00+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.8879,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.salesforce.com/?p=95956"
+    },
+    {
+      "title": "Gemini 4 Argon for Robotics",
+      "summary": "",
+      "source_name": "Google DeepMind",
+      "source_url": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
+      "published_at": "2026-10-13T16:01:58+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.97,
+      "importance_score": 0.8839,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://deepmind.google/blog/gemini-4-argon-for-robotics/"
+    },
+    {
+      "title": "Gemini 4 Argon: Built to solve your hardest problems",
+      "summary": "",
+      "source_name": "Google DeepMind",
+      "source_url": "https://deepmind.google/blog/introducing-gemini-4-argon/",
+      "published_at": "2026-10-13T16:01:52+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.97,
+      "importance_score": 0.8839,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://deepmind.google/blog/introducing-gemini-4-argon/"
+    },
+    {
+      "title": "Why Salesforce Lets You Pick the Right AI Model for the Job",
+      "summary": "Salesforce Chief Data Officer Michael Andrew explains how purpose-built models like Koa and multiplayer AI in Slack fit together.",
+      "source_name": "Salesforce News",
+      "source_url": "https://www.salesforce.com/news/stories/ai-model-choice/",
+      "published_at": "2026-10-13T15:00:00+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "AI Models",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.8796,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.salesforce.com/?p=95941"
+    },
+    {
+      "title": "Higgsfield takes AI video from 1 minute to over 10",
+      "summary": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live.",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/higgsfield-longer-videos-voice",
+      "published_at": "2026-10-13T12:00:00+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.99,
+      "importance_score": 0.8671,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/index/higgsfield-longer-videos-voice"
+    },
+    {
+      "title": "Gemini 4 Argon",
+      "summary": "See also: Gemini 4 Argon for Robotics - https://news.ycombinator.com/item?id=50074869",
+      "source_name": "Hacker News",
+      "source_url": "https://deepmind.google/models/gemini/",
+      "published_at": "2026-10-13T16:03:16+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.8539,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50073879"
+    },
+    {
+      "title": "Redesigning source control at Anthropic",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.anthropic.com/engineering/redesigning-source-control",
+      "published_at": "2026-10-13T15:49:56+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.6725,
+      "importance_score": 0.853,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50073633"
+    },
+    {
+      "title": "Thunderbird for iOS",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://blog.thunderbird.net/2026/10/thunderbird-for-ios-a-first-look-at-the-native-iphone-email-app-in-development/",
+      "published_at": "2026-10-13T15:07:37+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.665,
+      "importance_score": 0.8501,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50072913"
+    },
+    {
+      "title": "New Apple TV 4K",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.apple.com/newsroom/2026/10/apple-unveils-the-new-apple-tv-4k/",
+      "published_at": "2026-10-13T13:21:35+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.6535,
+      "importance_score": 0.8427,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50071310"
+    },
+    {
+      "title": "Apple HomeView",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.apple.com/apple-homeview/",
+      "published_at": "2026-10-13T13:02:12+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.8414,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50071017"
+    },
+    {
+      "title": "Firefox Enterprise",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.firefox.com/en-US/enterprise/",
+      "published_at": "2026-10-13T12:00:42+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.8371,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50070302"
+    },
+    {
+      "title": "We turned EmbeddingGemma 2 into a speech-to-text model",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://eg2.haku.sh/",
+      "published_at": "2026-10-13T11:27:14+00:00",
+      "category": "aggregators",
+      "tags": [
+        "AI Models",
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.8348,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50069971"
+    },
+    {
+      "title": "GitHub’s model for secret detection: Finding more secrets with less noise",
+      "summary": "GitHub’s context-aware secret classifier improves detection quality, raises weighted acceptance by 11.5%, and reduces median scan execution time by 86%. The post GitHub’s model for secret detection: Finding more secrets with less noise appeared first on The GitHub Blog .",
+      "source_name": "The GitHub Blog",
+      "source_url": "https://github.blog/ai-and-ml/githubs-model-for-secret-detection-finding-more-secrets-with-less-noise/",
+      "published_at": "2026-10-13T17:56:33+00:00",
+      "category": "developer_platforms",
+      "tags": [
+        "Developer Tools",
+        "AI Models",
+        "Developer Platforms"
+      ],
+      "confidence_score": 0.92,
+      "importance_score": 0.8318,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://github.blog/?p=99413"
+    },
+    {
+      "title": "11 year old unsoundness bugs found in Rust borrow checker",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://github.com/rust-lang/rust/issues/164250",
+      "published_at": "2026-10-13T10:27:00+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.8306,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50069499"
+    },
+    {
+      "title": "A Dynamic and Distributed Virtual GPU Cloud Built on Idle Apple Silicon Devices",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://machinelearning.apple.com/research/distributed-gpu-cloud",
+      "published_at": "2026-10-13T12:26:36+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Cloud",
+        "GPUs",
+        "Hacker News"
+      ],
+      "confidence_score": 0.6465,
+      "importance_score": 0.8301,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50070593"
+    },
+    {
+      "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
+      "summary": "",
+      "source_name": "Hugging Face",
+      "source_url": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
+      "published_at": "2026-10-13T17:05:48+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI Agents",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.9,
+      "importance_score": 0.8283,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b"
+    },
+    {
+      "title": "AWS Weekly Roundup: Prime Day 2026 by the numbers, Claude Haiku 5.5, Amazon Nova 2.5 Sonic, and more (October 13, 2026)",
+      "summary": "Some numbers are hard to picture until you sit with them for a moment. Last week we published the Prime Day 2026 metrics, and the one that stuck with me is 2.3 quadrillion: the daily requests Amazon ElastiCache peaked at during the event. Prime Day ran back in June, so this post always lands as […]",
+      "source_name": "AWS News Blog",
+      "source_url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-prime-day-2026-by-the-numbers-claude-haiku-5-5-amazon-nova-2-5-sonic-and-more-october-13-2026/",
+      "published_at": "2026-10-13T15:59:06+00:00",
+      "category": "cloud_providers",
+      "tags": [
+        "AWS",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.8237,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "7d8a98739984e60ca9480501cf2c370433bebfb8"
+    },
+    {
+      "title": "Cross-cloud conversational analytics made simple with open standards",
+      "summary": "The reality for most organizations is that data lives everywhere. As engineering teams expand and adopt specialized platforms for their workloads, enterprise data naturally disperses across multiple clouds and operational systems. When analytical and AI initiatives require context from across the entire organization,these teams traditionally face a difficult trade-off: build complex extraction pipelines to copy data into a central repository or accept fragmented reporting…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/products/data-analytics/cross-cloud-conversational-analytics-with-borderless-lakehouse/",
+      "published_at": "2026-10-13T16:00:00+00:00",
+      "category": "cloud_providers",
+      "tags": [
+        "AI",
+        "Data Pipelines",
+        "Cloud",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.8237,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/products/data-analytics/cross-cloud-conversational-analytics-with-borderless-lakehouse/"
+    },
+    {
+      "title": "Gemini 4 Argon available on Google Cloud, built to help solve your business’ hardest problems",
+      "summary": "Last week we announced that Gemini Enterprise has evolved to make it even simpler to get work done, and introduced the Gemini agent , your new universal agent for work. It's always on and ready to answer your questions. It will write code, complete longer and more complex tasks, or perform whatever you need to get the job done, all from a single prompt box. And model intelligence underpins it all. To enable a new frontier of work, we are making our new frontier model, Gemini…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/products/ai-machine-learning/gemini-4-argon-available-on-google-cloud/",
+      "published_at": "2026-10-13T16:00:00+00:00",
+      "category": "cloud_providers",
+      "tags": [
+        "AI Agents",
+        "Cloud",
+        "Google Cloud",
+        "AI Models",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.8237,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/products/ai-machine-learning/gemini-4-argon-available-on-google-cloud/"
+    },
+    {
+      "title": "Character.ai has initiated voluntary Chapter 11 bankruptcy",
+      "summary": "https://www.theverge.com/ai-artificial-intelligence/1009802/... https://techcrunch.com/2026/10/13/just-5-years-in-interactiv... https://www.reuters.com/legal/litigation/characterai-files-b... https://variety.com/2026/biz/news/disney-bids-on-character-a...",
+      "source_name": "Hacker News",
+      "source_url": "https://blog.character.ai/an-update-on-character-ai/",
+      "published_at": "2026-10-13T07:28:34+00:00",
+      "category": "aggregators",
+      "tags": [
+        "AI",
+        "Hacker News"
+      ],
+      "confidence_score": 0.657,
+      "importance_score": 0.8182,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50068036"
+    },
+    {
+      "title": "NVIDIA Run:ai Is Now Open Source as Part of NVIDIA DSX AI Factory Platform",
+      "summary": "Today, NVIDIA is making the full NVIDIA Run:ai platform available as open source software, giving customers, developers, and ecosystem partners access to...",
+      "source_name": "NVIDIA Developer Blog",
+      "source_url": "https://developer.nvidia.com/blog/nvidia-runai-is-now-open-source-as-part-of-nvidia-dsx-ai-factory-platform/",
+      "published_at": "2026-10-13T14:19:40+00:00",
+      "category": "mlops",
+      "tags": [
+        "AI",
+        "GPUs",
+        "Open Source",
+        "Mlops"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8168,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://developer.nvidia.com/blog/?p=123356"
+    },
+    {
+      "title": "Hittite royal archive found in Turkey",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.thehistoryblog.com/archives/77107",
+      "published_at": "2026-10-13T06:02:51+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.8122,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50067414"
+    },
+    {
+      "title": "One Agent Development Kit, five languages",
+      "summary": "When we talk about agents, that doesn't necessarily mean we're talking about Python. In today's modern ecosystem, an agent might run as a high-concurrency Go microservice on Cloud Run , or live inside a browser tab calling Chrome's on-device model. Yet many agent frameworks assume a Python-only stack. That assumption forces teams to either spin up a Python service just for their agent workloads, or to build agent orchestration logic from scratch in their own language…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/topics/developers-practitioners/one-agent-development-kit-five-languages/",
+      "published_at": "2026-10-13T12:22:00+00:00",
+      "category": "cloud_providers",
+      "tags": [
+        "AI Agents",
+        "Cloud",
+        "Python",
+        "AI Models",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.8086,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/topics/developers-practitioners/one-agent-development-kit-five-languages/"
+    },
+    {
+      "title": "All Systems Go: Global PC App Ecosystem Ready for NVIDIA RTX Spark",
+      "summary": "NVIDIA RTX Spark is a new beginning for the PC — a reinvention combining the capabilities of a gaming PC, a creative studio and a personal AI supercomputer into a single superchip. With up to 128GB of unified memory and 1 petaflop of AI compute, RTX Spark delivers the full stack of NVIDIA RTX and […]",
+      "source_name": "NVIDIA Blog",
+      "source_url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-software-updates/",
+      "published_at": "2026-10-13T12:00:49+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "Apache Spark",
+        "GPUs",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8071,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://blogs.nvidia.com/?p=98768"
+    },
+    {
+      "title": "I posted to HN, and then my website was flooded with AI bot traffic",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic",
+      "published_at": "2026-10-13T15:25:50+00:00",
+      "category": "aggregators",
+      "tags": [
+        "AI",
+        "Hacker News"
+      ],
+      "confidence_score": 0.628,
+      "importance_score": 0.7963,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50073221"
+    },
+    {
+      "title": "NVIDIA Announces New Investments in France’s Startups",
+      "summary": "Companies in France are deploying agentic computing across industries spanning space, financial services, the public sector and scientific research, demonstrating how the country’s ecosystem has moved from ambition to application. France’s progress sits on deliberate groundwork. The AI Action Summit in February 2025 and Choose France Summits in 2025 and 2026 anchored major compute commitments […]",
+      "source_name": "NVIDIA Blog",
+      "source_url": "https://blogs.nvidia.com/blog/france-ecosystem-agentic-computing/",
+      "published_at": "2026-10-13T05:00:31+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "GPUs",
+        "Research",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.7779,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://blogs.nvidia.com/?p=98737"
+    },
+    {
+      "title": "AI is a tool and using it well takes skill",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://yyhh.org/blog/2026/10/ai-is-a-tool/",
+      "published_at": "2026-10-12T21:40:18+00:00",
+      "category": "aggregators",
+      "tags": [
+        "AI",
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7773,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50063427"
+    },
+    {
+      "title": "Salesforce Signs Definitive Agreement to Acquire Loops",
+      "summary": "Salesforce, the #1 AI CRM, today announced it has signed a definitive agreement to acquire Loops, an AI-powered analytics platform that continuously monitors business performance, explains why key metrics change, and surfaces opportunities to improve by leveraging machine learning models. Tableau is helping customers move from the data driven enterprise to the agentic analytics enterprise. […]",
+      "source_name": "Salesforce News",
+      "source_url": "https://www.salesforce.com/news/stories/salesforce-signs-definitive-agreement-to-acquire-loops/",
+      "published_at": "2026-10-12T12:00:00+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "Machine Learning",
+        "AI Agents",
+        "AI Models",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7671,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.salesforce.com/?p=95935"
+    },
+    {
+      "title": "From zero to agent builder: Running kagent on your laptop",
+      "summary": "If you have seen a demo of a no-code agent builder, you know the moment. Someone types one sentence, waits a minute, and there it is: a new agent, running, with tools. It is impressive. For...",
+      "source_name": "CNCF",
+      "source_url": "https://www.cncf.io/blog/2026/10/12/from-zero-to-agent-builder-running-kagent-on-your-laptop/",
+      "published_at": "2026-10-12T11:30:00+00:00",
+      "category": "open_source_foundations",
+      "tags": [
+        "AI Agents",
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.87,
+      "importance_score": 0.765,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.cncf.io/?p=175868"
+    },
+    {
+      "title": "Show HN: Use your OpenAI subscription to create audiobooks",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://pdftomp3.com/connect-ai/",
+      "published_at": "2026-10-13T10:08:34+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.623,
+      "importance_score": 0.7618,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50069337"
+    },
+    {
+      "title": "Yes, Grimes' new music video used AI — and lots of humans",
+      "summary": "Grimes' team tells Business Insider that AI was sparingly used in her new music video for \"Accelerando.\" It also used more than 70 artists.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/grimes-new-music-video-accelerando-ai-artists-2026-10",
+      "published_at": "2026-10-13T19:49:09+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7596,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/grimes-new-music-video-accelerando-ai-artists-2026-10"
+    },
+    {
+      "title": "OpenAI and Anthropic Tell British Lawmakers: Regulate Us",
+      "summary": "AI leaders joined whistleblowers and security leaders at a sweeping parliamentary session, while a few hundred meters away Britain’s spy chief warned AI could be used to create new bioweapons.",
+      "source_name": "Wired",
+      "source_url": "https://www.wired.com/story/openai-and-anthropic-tell-british-lawmakers-regulate-us/",
+      "published_at": "2026-10-13T19:35:29+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Security",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7587,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "6ace0d6cda1d099f16b1dae2"
+    },
+    {
+      "title": "NASA’s Perseverance Rover Sets a Mars Driving Record",
+      "summary": "Advances in self-driving technology have made it easier to traverse distant worlds.",
+      "source_name": "The New York Times - Technology",
+      "source_url": "https://www.nytimes.com/2026/10/12/science/mars-rover-sets-record.html",
+      "published_at": "2026-10-13T19:26:29+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7581,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.nytimes.com/2026/10/12/science/mars-rover-sets-record.html"
+    },
+    {
+      "title": "It pays to switch jobs again, but not everyone has that luxury",
+      "summary": "Wage growth is looking better for job switchers than job stayers, but quits rates indicate confidence to make a move is low.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/job-switch-wage-growth-versus-job-stayers-2026-10",
+      "published_at": "2026-10-13T19:18:05+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7575,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/job-switch-wage-growth-versus-job-stayers-2026-10"
+    },
+    {
+      "title": "Make every AI credit count: See, cap, and reduce agent spend",
+      "summary": "Costs multiply with every task you hand to an agent. Each task consumes tokens and credits, and as agents spread across your teams and automations, consumption can grow faster than usage. If you run the platform, you own that growth, including which teams and workflows drive it and whether the usage ships work. At GitLab Transcend , we introduced the governed software factory , our architecture for agentic software engineering, and new capabilities in GitLab Duo Agent…",
+      "source_name": "GitLab Blog",
+      "source_url": "https://about.gitlab.com/blog/make-every-ai-credit-count/",
+      "published_at": "2026-10-13T00:00:00+00:00",
+      "category": "developer_platforms",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Developer Platforms"
+      ],
+      "confidence_score": 0.86,
+      "importance_score": 0.7571,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://about.gitlab.com/blog/make-every-ai-credit-count/"
+    },
+    {
+      "title": "GitLab's agent orchestration eliminates the wait between development stages",
+      "summary": "AI coding tools have changed how fast software gets written, but not how fast it ships. As code generation accelerates, the bottleneck moves downstream into verify, review, and ship. Those stages still run on human time. While agents write fixes in minutes, delivery slows on constant wait times and manual handoffs. Reviewer signoffs, pipeline alerts, scan triage, and step-by-step prompting are examples of obstacles DevOps teams face in maintaining on-time delivery. At GitLab…",
+      "source_name": "GitLab Blog",
+      "source_url": "https://about.gitlab.com/blog/gitlab-agent-orchestration/",
+      "published_at": "2026-10-13T00:00:00+00:00",
+      "category": "developer_platforms",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Data Pipelines",
+        "Developer Platforms"
+      ],
+      "confidence_score": 0.86,
+      "importance_score": 0.7571,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://about.gitlab.com/blog/gitlab-agent-orchestration/"
+    },
+    {
+      "title": "Bring data quality to your Amazon EMR workloads with Amazon EMR Data Quality built on AWS Glue Data Quality",
+      "summary": "AWS Glue Data Quality is now available natively on Amazon EMR, bundled in AWS runtime for Apache Spark (emr-spark-8.1.0). Write the same DQDL rulesets you use in AWS Glue directly in your Amazon EMR Spark jobs. This post walks through two patterns: lightweight inline validation and an Apache Iceberg Write-Audit-Publish workflow with managed rulesets.",
+      "source_name": "AWS Big Data Blog",
+      "source_url": "https://aws.amazon.com/blogs/big-data/bring-data-quality-to-your-amazon-emr-workloads-with-amazon-emr-data-quality-built-on-aws-glue-data-quality/",
+      "published_at": "2026-10-12T23:40:26+00:00",
+      "category": "cloud_providers",
+      "tags": [
+        "Apache Spark",
+        "AWS",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.92,
+      "importance_score": 0.7557,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "677d09e986a568c56e0894ab3e8e815ae2cd3e13"
+    },
+    {
+      "title": "Anthropic Warns Small AI Models Could Soon Form Self-Propagating IoT Botnets",
+      "summary": "Small artificial intelligence (AI) models may be months away from developing capabilities to self-replicate on IoT devices like smart ovens and off-brand Android TV boxes, according to a warning from Anthropic. The frontier AI lab said small AI models could form autonomous, self-propagating worm botnets that are \"challenging to shut down,\" since \"there's no centralized point to shut off.\"",
+      "source_name": "The Hacker News",
+      "source_url": "https://thehackernews.com/2026/10/anthropic-warns-small-ai-models-could.html",
+      "published_at": "2026-10-13T18:20:57+00:00",
+      "category": "cybersecurity",
+      "tags": [
+        "AI",
+        "AI Models",
+        "Cybersecurity"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7535,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://thehackernews.com/2026/10/anthropic-warns-small-ai-models-could.html"
+    },
+    {
+      "title": "Docker Fixes Critical Two-Year-Old Hub Flaw That Let One User Push Images as Another",
+      "summary": "A flaw in Docker Hub, the registry where container images are published and downloaded, let one user push, pull, or delete images as another user. Docker fixed the flaw on September 30 and says it found no evidence that anyone exploited it. The flaw was in the feature that converts a personal account into an organization, Docker said in a security advisory on October 12.",
+      "source_name": "The Hacker News",
+      "source_url": "https://thehackernews.com/2026/10/docker-fixes-critical-two-year-old-hub.html",
+      "published_at": "2026-10-13T18:03:18+00:00",
+      "category": "cybersecurity",
+      "tags": [
+        "Containers",
+        "Security",
+        "Cybersecurity"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7523,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://thehackernews.com/2026/10/docker-fixes-critical-two-year-old-hub.html"
+    },
+    {
+      "title": "Q&A: Mars Perseverance Rover Distance Record",
+      "summary": "In just five years, Perseverance has passed Opportunity’s 45 km record",
+      "source_name": "IEEE Spectrum",
+      "source_url": "https://spectrum.ieee.org/mars-rover-distance-record",
+      "published_at": "2026-10-13T15:02:04+00:00",
+      "category": "research_feeds",
+      "tags": [
+        "Research Feeds"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.7397,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://spectrum.ieee.org/mars-rover-distance-record"
+    },
+    {
+      "title": "Faithfulness Without Anchors: A Position Paper on the Structural Misalignments of Explainable AI Faithfulness Metrics for Feature Importance",
+      "summary": "arXiv:2610.12493v1 Announce Type: new Abstract: Explainable Artificial Intelligence (XAI) tools have often been presented as methods to increase trust in machine learning models by making aspects of their algorithms more human-understandable. However, evidence accumulated over the last decade points to an overall failure of this objective, instead promoting overreliance on incorrect predictions, which can subsequently lead to algorithmic aversion. Rather, XAI appears to…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2610.12493",
+      "published_at": "2026-10-13T04:00:00+00:00",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "Machine Learning",
+        "AI Models",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7337,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2610.12493v1"
+    },
+    {
+      "title": "Meta drops two new models, topping Fable & Astra",
+      "summary": "Meta drops two new models, topping Fable & Astra Superhuman AI",
+      "source_name": "Superhuman (Zain Kahn)",
+      "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9malFXVXJPZUxMT01vSUQzQXNOb3lQN3FqQWRxQ2dPUUVhSzFOS05xaHp2Y1J4QmRpNVlZVWRudGxuVzAwVll2UTRkbEZZSHdBa3BlajAwZVRfM3hoTUtoQmFVUDBEcnpNb0Q4TFpSUXJqeEY3QzFRNkxaNFl0Zw?oc=5",
+      "published_at": "2026-10-13T12:39:03+00:00",
+      "category": "ai_newsletters",
+      "tags": [
+        "AI",
+        "AI Models",
+        "Ai Newsletters"
+      ],
+      "confidence_score": 0.64,
+      "importance_score": 0.7298,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "CBMifkFVX3lxTE9malFXVXJPZUxMT01vSUQzQXNOb3lQN3FqQWRxQ2dPUUVhSzFOS05xaHp2Y1J4QmRpNVlZVWRudGxuVzAwVll2UTRkbEZZSHdBa3BlajAwZVRfM3hoTUtoQmFVUDBEcnpNb0Q4TFpSUXJqeEY3QzFRNkxaNFl0Zw"
+    },
+    {
+      "title": "🛎️ Publishers Ban AI for Everyone Else",
+      "summary": "Plus: Epic Delayed Star Wars for Claude, China's Humanoids Are Just Toys",
+      "source_name": "AI Secret",
+      "source_url": "https://aisecret.us/publishers-ban-ai-for-everyone-else/",
+      "published_at": "2026-10-13T12:30:59+00:00",
+      "category": "ai_newsletters",
+      "tags": [
+        "AI",
+        "Ai Newsletters"
+      ],
+      "confidence_score": 0.64,
+      "importance_score": 0.7292,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "6acc880c9f379b89dc519a59"
+    },
+    {
+      "title": "ReplaySSM: Rethinking State Storage for Faster Hybrid-Model Decoding",
+      "summary": "Hybrid models interleave state-space model (SSM) layers with a few attention layers. NVIDIA Nemotron 3, Qwen3.5 through Qwen3.8, Kimi-K3, and GLM-5.3-Flash are...",
+      "source_name": "NVIDIA Developer Blog",
+      "source_url": "https://developer.nvidia.com/blog/replayssm-rethinking-state-storage-for-faster-hybrid-model-decoding/",
+      "published_at": "2026-10-12T16:00:54+00:00",
+      "category": "mlops",
+      "tags": [
+        "GPUs",
+        "AI Models",
+        "Mlops"
+      ],
+      "confidence_score": 0.87,
+      "importance_score": 0.7238,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://developer.nvidia.com/blog/?p=123513"
+    }
+  ]
+}
