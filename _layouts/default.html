@@ -1221,6 +1221,7 @@ footer{
 .press-img-wrap--apm .press-img-bg{background:linear-gradient(135deg,#001812 0%,#002d22 45%,#003830 100%)}
 .press-img-wrap--mc  .press-img-bg{background:linear-gradient(135deg,#0a1020 0%,#101c38 45%,#16284f 100%)}
 .press-img-wrap--dod .press-img-bg{background:linear-gradient(135deg,#001a1a 0%,#003030 45%,#004242 100%)}
+.press-img-wrap--dz .press-img-bg{background:linear-gradient(135deg,#1a0f00 0%,#2e1a00 45%,#3d2400 100%)}
 
 /* ═══════════════════════════════════════════
    LIGHT THEME - TOKENS
@@ -1282,6 +1283,7 @@ footer{
 [data-theme="light"] .press-img-wrap--apm .press-img-bg{background:linear-gradient(135deg,#bee8d4,#7ec8a4)}
 [data-theme="light"] .press-img-wrap--mc  .press-img-bg{background:linear-gradient(135deg,#c8d6f0,#9cb4e0)}
 [data-theme="light"] .press-img-wrap--dod .press-img-bg{background:linear-gradient(135deg,#bce4e4,#7cc4c4)}
+[data-theme="light"] .press-img-wrap--dz .press-img-bg{background:linear-gradient(135deg,#f5dfbf,#e6b877)}
 [data-theme="light"] .press-img-wm{color:rgba(0,0,0,0.07)}
 
 /* Light - readability fixes (hard-coded dark-mode grays) */
@@ -2024,6 +2026,7 @@ tr.pub-row[data-href]:hover .pub-doi { color: var(--lime); }
     <div class="mq-item"><span>⚡</span><div><div class="mq-name">MLH Hackathons</div><div class="mq-sub">Judge · 2024-25</div></div></div>
     <div class="mq-item"><span>📊</span><div><div class="mq-name">SIIA Neal Awards</div><div class="mq-sub">Judge · 2024-26</div></div></div>
     <div class="mq-item"><span>🌍</span><div><div class="mq-name">APM Digest</div><div class="mq-sub">Expert Byline · May 2026</div></div></div>
+    <div class="mq-item"><span>🐳</span><div><div class="mq-name">DZone</div><div class="mq-sub">Expert Byline · Aug 2026</div></div></div>
     <div class="mq-item"><span>🔬</span><div><div class="mq-name">Google DevFest</div><div class="mq-sub">Speaker · Bronx 2023</div></div></div>
     <div class="mq-item"><span>📖</span><div><div class="mq-name">Technical Press</div><div class="mq-sub">Published Book · 2026</div></div></div>
     <!-- duplicate set for seamless loop -->
@@ -2039,6 +2042,7 @@ tr.pub-row[data-href]:hover .pub-doi { color: var(--lime); }
     <div class="mq-item"><span>⚡</span><div><div class="mq-name">MLH Hackathons</div><div class="mq-sub">Judge · 2024-25</div></div></div>
     <div class="mq-item"><span>📊</span><div><div class="mq-name">SIIA Neal Awards</div><div class="mq-sub">Judge · 2024-26</div></div></div>
     <div class="mq-item"><span>🌍</span><div><div class="mq-name">APM Digest</div><div class="mq-sub">Expert Byline · May 2026</div></div></div>
+    <div class="mq-item"><span>🐳</span><div><div class="mq-name">DZone</div><div class="mq-sub">Expert Byline · Aug 2026</div></div></div>
     <div class="mq-item"><span>🔬</span><div><div class="mq-name">Google DevFest</div><div class="mq-sub">Speaker · Bronx 2023</div></div></div>
     <div class="mq-item"><span>📖</span><div><div class="mq-name">Technical Press</div><div class="mq-sub">Published Book · 2026</div></div></div>
   </div>
@@ -2687,6 +2691,27 @@ tr.pub-row[data-href]:hover .pub-doi { color: var(--lime); }
         <div class="press-desc">Soni on why modern data stacks still produce dashboards nobody trusts: quality problems move to the cloud faster, not away. Drawing on Fortune 500 financial-services work, he makes the case for schema enforcement, observability, and governance built into pipelines from the start.</div>
         <div class="press-footer">
           <div class="press-meta">Jul 7, 2026 · Blog</div>
+          <div class="press-cta">Read Article <span aria-hidden="true">→</span></div>
+        </div>
+      </a>
+
+      <!-- Article 6 - DZone -->
+      <a href="https://dzone.com/articles/containerize-development-with-docker"
+         target="_blank" rel="noopener noreferrer"
+         class="press-card"
+         aria-label="Read article: Containerizing Spark and Lakehouse Development with Docker on DZone">
+        <div class="press-img-wrap press-img-wrap--dz">
+          <div class="press-img-bg" aria-hidden="true"><span class="press-img-wm">DZ</span></div>
+        </div>
+        <div class="press-pub">
+          <div class="press-pub-monogram" style="background:rgba(234,138,0,0.12);color:#e08600">DZ</div>
+          <div class="press-pub-name">DZone</div>
+          <div class="press-pub-type">Expert Byline</div>
+        </div>
+        <div class="press-title">Containerizing Spark and Lakehouse Development with Docker</div>
+        <div class="press-desc">Soni shows data engineers how to run a production-like lakehouse on a laptop with Docker - Spark, Delta Lake, object storage, a catalog and orchestration - so pipelines can be tested in CI without mocks. Featured on the DZone homepage.</div>
+        <div class="press-footer">
+          <div class="press-meta">Aug 25, 2026 · Data Engineering</div>
           <div class="press-cta">Read Article <span aria-hidden="true">→</span></div>
         </div>
       </a>

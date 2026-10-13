@@ -72,7 +72,7 @@ stats:
   peer_venues: "23"            # conference editions reviewed for (PREreview listed separately)
   books: "1"
   interviews: "2"             # published interviews about Aniket
-  bylines: "3"                # expert articles authored by Aniket
+  bylines: "4"                # expert articles authored by Aniket
   judging_appointments: "28"  # MIT 4 rounds, Neal 3, I-COM, Anthem, BIG 10 editions, Globee 2, hackathons 4, program committees 3
 
 # Profile metric strip (values come from `stats` above).
@@ -312,6 +312,14 @@ media:
     summary: "Makes the case, from Fortune 500 financial-services work, for schema enforcement, observability and governance built into pipelines from the start."
     significance: "Approximately 400,000 readers, per the publisher's media kit."
     evidence: [ { label: "Read on DEVOPSdigest", url: "https://www.devopsdigest.com/the-data-quality-crisis-undermining-enterprise-analytics" } ]
+  - title: "Containerizing Spark and Lakehouse Development with Docker"
+    org: "DZone"
+    kind: "Expert byline"
+    date: "Aug 25, 2026"
+    year: 2026
+    summary: "Shows data engineers how to run a production-like lakehouse locally with Docker, covering Spark, Delta Lake, object storage, a catalog and orchestration, so pipelines can be tested in CI without mocks."
+    significance: "Reviewed and scheduled by the DZone editorial team, then featured on the DZone.com homepage on Aug 26, 2026."
+    evidence: [ { label: "Read on DZone", url: "https://dzone.com/articles/containerize-development-with-docker" } ]
 
 # ── 05 · Original Contributions ──────────────────────────────────────
 contributions:
@@ -712,7 +720,7 @@ career:
 
 # One-line summary per year, shown at the top of each year on the timeline.
 acclaim_years:
-  2026: "Patent application published and cited by 22 patent documents, UK design granted, Technical Press book, IEEE CIACON paper, MIT $100K Accelerate and Launch rounds, 72nd Neal Awards, I-COM jury and Anthem Awards judge, Business Intelligence Group 2027 Advisory Board, two IEEE program committees, 13 peer reviews so far, two interviews and three expert bylines."
+  2026: "Patent application published and cited by 22 patent documents, UK design granted, Technical Press book, IEEE CIACON paper, MIT $100K Accelerate and Launch rounds, 72nd Neal Awards, I-COM jury and Anthem Awards judge, Business Intelligence Group 2027 Advisory Board, two IEEE program committees, 13 peer reviews so far, two interviews and four expert bylines."
   2025: "Elevated to IEEE Senior Member, US patent application filed, Rising Stars 30, MIT $100K judge, SAU alumni mentor, 49 peer reviews for 15 conferences and five peer-reviewed conference papers."
   2024: "AFCEA 40 Under Forty, judge at the 70th Jesse H. Neal Awards and MIT $100K Pitch, MLH hackathon judging, UN Summit of the Future, and promotion."
   2023: "Invited talk at Google DevFest Bronx, Globee Awards judge, Google Cloud and Databricks certifications, and mentorship recognition."
