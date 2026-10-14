@@ -1,0 +1,820 @@
+{
+  "post_date": "2026-10-14",
+  "sources_checked": 48,
+  "count": 45,
+  "items": [
+    {
+      "title": "Amp puts AI agents to work beyond code with OpenAI models",
+      "summary": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/amp-beyond-coding",
+      "published_at": "2026-10-14T12:00:00Z",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "AI Models",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.99,
+      "importance_score": 0.8747,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/index/amp-beyond-coding"
+    },
+    {
+      "title": "Singapore office and government MOU",
+      "summary": "Singapore office and government MOU Anthropic",
+      "source_name": "Anthropic",
+      "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5yTTM0YUphdFBiUjFDcnlZTy1lVklPbGp4ZTczUHJkZjgxSjBkckJSMDg2MHZwYUI5SkFGWlZlNHN4NFVQN3hDdERZSTFfVS1wNlZQRXV2YWE0ZnktZDFIZ3d0NEZLQQ?oc=5",
+      "published_at": "2026-10-14T08:30:00Z",
+      "category": "ai_model_companies",
+      "tags": [
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.99,
+      "importance_score": 0.8602,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "CBMiZkFVX3lxTE5yTTM0YUphdFBiUjFDcnlZTy1lVklPbGp4ZTczUHJkZjgxSjBkckJSMDg2MHZwYUI5SkFGWlZlNHN4NFVQN3hDdERZSTFfVS1wNlZQRXV2YWE0ZnktZDFIZ3d0NEZLQQ"
+    },
+    {
+      "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
+      "summary": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use.",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/third-moment-research",
+      "published_at": "2026-10-14T07:00:00Z",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Research",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.99,
+      "importance_score": 0.8539,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/index/third-moment-research"
+    },
+    {
+      "title": "Amazon pushes up prices across the Internet",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/",
+      "published_at": "2026-10-14T09:28:17Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.8342,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50084757"
+    },
+    {
+      "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
+      "summary": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
+      "source_name": "Google DeepMind",
+      "source_url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
+      "published_at": "2026-10-14T02:00:14Z",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI",
+        "Cloud",
+        "AI Models",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.99,
+      "importance_score": 0.8331,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/"
+    },
+    {
+      "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
+      "summary": "",
+      "source_name": "Hugging Face",
+      "source_url": "https://huggingface.co/blog/allenai/hiro-acev2",
+      "published_at": "2026-10-14T16:12:42Z",
+      "category": "ai_model_companies",
+      "tags": [
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.9,
+      "importance_score": 0.8323,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://huggingface.co/blog/allenai/hiro-acev2"
+    },
+    {
+      "title": "Optimizing Agent Reliability and Tool Calling Efficiency for Chip Design Using NVIDIA NeMo Gym",
+      "summary": "AI agents offer remarkable productivity gains in complex chip design workflows, but their tendency to generate plausible yet incorrect artifacts makes...",
+      "source_name": "NVIDIA Developer Blog",
+      "source_url": "https://developer.nvidia.com/blog/optimizing-agent-reliability-and-tool-calling-efficiency-for-chip-design-using-nvidia-nemo-gym/",
+      "published_at": "2026-10-14T16:10:45Z",
+      "category": "mlops",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "GPUs",
+        "Mlops"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8321,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://developer.nvidia.com/blog/?p=123574"
+    },
+    {
+      "title": "Predictable AI spend in BigQuery: Introducing cost management for generative AI functions",
+      "summary": "The generative AI functions in BigQuery ( AI.GENERATE , AI.IF , AI.CLASSIFY , AI.SCORE , and more) bring large language models (LLMs) directly into your SQL, so a single query can classify millions of support tickets or score each product review for sentiment. However, because these functions are billed by the token, scaling them across massive datasets highlights the importance of managing your budget proactively. We recently announced the general availability (GA) of…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/products/data-analytics/using-bigquerys-generative-ai-cost-management-features/",
+      "published_at": "2026-10-14T16:00:00Z",
+      "category": "cloud_providers",
+      "tags": [
+        "AI",
+        "LLMs",
+        "GenAI",
+        "AI Models",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.8314,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/products/data-analytics/using-bigquerys-generative-ai-cost-management-features/"
+    },
+    {
+      "title": "Cloud CISO Perspectives: New Gemini Notebook can help CISOs and policymakers prepare for PQC",
+      "summary": "Welcome to the first Cloud CISO Perspectives for October 2026. Today, Stephanie Kiel explains the latest on our approach to post-quantum cryptography, and shares a new tool to help CISOs and executives prepare their organizations for PQC. As with all Cloud CISO Perspectives, the contents of this newsletter are posted to the Google Cloud blog . If you’re reading this on the website and you’d like to receive the email version, you can subscribe here . aside_block <ListValue…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-new-gemini-notebook-can-help-cisos-policymakers-prepare-for-pqc/",
+      "published_at": "2026-10-14T16:00:00Z",
+      "category": "cloud_providers",
+      "tags": [
+        "Cloud",
+        "Google Cloud",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.8314,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-new-gemini-notebook-can-help-cisos-policymakers-prepare-for-pqc/"
+    },
+    {
+      "title": "Iosevka is an open-source, sans-serif and slab-serif monospace font",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://typeof.net/Iosevka/",
+      "published_at": "2026-10-14T08:27:59Z",
+      "category": "aggregators",
+      "tags": [
+        "Open Source",
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.83,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50084240"
+    },
+    {
+      "title": "The EU’s next chapter in AI is agentic",
+      "summary": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value.",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
+      "published_at": "2026-10-14T00:00:00Z",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.99,
+      "importance_score": 0.8247,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic"
+    },
+    {
+      "title": "ICE Planning $100M 'Nightmare' Domestic Spy Program",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://prospect.org/2026/10/14/ice-planning-nightmare-domestic-spy-program-ero-one/",
+      "published_at": "2026-10-14T16:24:11Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.6315,
+      "importance_score": 0.8169,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50090246"
+    },
+    {
+      "title": "Developing Gemini 4 Argon responsibly and safely",
+      "summary": "",
+      "source_name": "Google DeepMind",
+      "source_url": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
+      "published_at": "2026-10-13T19:43:07Z",
+      "category": "ai_model_companies",
+      "tags": [
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.97,
+      "importance_score": 0.8069,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/"
+    },
+    {
+      "title": "From Radar to Reasoning: Why Enterprise AI Finally Watches Your Business in Real Time",
+      "summary": "In 1935, the British Air Ministry asked physicist Robert Watson-Watt for a death ray capable of downing enemy aircraft. He couldn’t build one, but his team developed something arguably more valuable. Within weeks, their radar was able to detect a bomber 8 miles out. Radar was a conceptual coup as much as a technical one. […]",
+      "source_name": "Salesforce News",
+      "source_url": "https://www.salesforce.com/news/stories/operational-intelligence-ai-radar/",
+      "published_at": "2026-10-13T17:00:00Z",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7956,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.salesforce.com/?p=95956"
+    },
+    {
+      "title": "Gemini 4 Argon for Robotics",
+      "summary": "",
+      "source_name": "Google DeepMind",
+      "source_url": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
+      "published_at": "2026-10-13T16:01:58Z",
+      "category": "ai_model_companies",
+      "tags": [
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.95,
+      "importance_score": 0.7915,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://deepmind.google/blog/gemini-4-argon-for-robotics/"
+    },
+    {
+      "title": "Gemini 4 Argon: Built to solve your hardest problems",
+      "summary": "",
+      "source_name": "Google DeepMind",
+      "source_url": "https://deepmind.google/blog/introducing-gemini-4-argon/",
+      "published_at": "2026-10-13T16:01:52Z",
+      "category": "ai_model_companies",
+      "tags": [
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.95,
+      "importance_score": 0.7915,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://deepmind.google/blog/introducing-gemini-4-argon/"
+    },
+    {
+      "title": "NVIDIA Announces New Investments in the UK Startup Ecosystem",
+      "summary": "Across industries, the U.K. is putting the full stack to work — and the scale of deployment is growing fast, from enterprises transforming their businesses to startups solving some of the planet’s hardest problems. NVIDIA is putting that principle into practice, including through a five-year, $250 million compute commitment to strengthen the U.K.’s agentic safety […]",
+      "source_name": "NVIDIA Blog",
+      "source_url": "https://blogs.nvidia.com/blog/uk-ecosystem-deployment/",
+      "published_at": "2026-10-14T06:04:15Z",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI Agents",
+        "GPUs",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.79,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://blogs.nvidia.com/?p=98835"
+    },
+    {
+      "title": "European Cities Deploy NVIDIA-Powered AI Agents to Run Smarter Urban Operations",
+      "summary": "Keeping a city running means making decisions that affect residents every day — from when to repair a road to how to use energy more efficiently. Across the EMEA region, cities and local software, infrastructure and integration partners are using NVIDIA accelerated computing to build physical AI agents and digital twins that help teams make […]",
+      "source_name": "NVIDIA Blog",
+      "source_url": "https://blogs.nvidia.com/blog/european-cities-agents-urban-operations/",
+      "published_at": "2026-10-14T06:00:28Z",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "GPUs",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.7898,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://blogs.nvidia.com/?p=98818"
+    },
+    {
+      "title": "ASML's strong orders ease fears AI spending boom is running out of steam",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.reuters.com/business/asml-forecasts-q4-sales-above-expectations-ai-chip-demand-2026-10-14/",
+      "published_at": "2026-10-14T14:38:55Z",
+      "category": "aggregators",
+      "tags": [
+        "AI",
+        "Hacker News"
+      ],
+      "confidence_score": 0.623,
+      "importance_score": 0.7883,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50088430"
+    },
+    {
+      "title": "Why Salesforce Lets You Pick the Right AI Model for the Job",
+      "summary": "Salesforce Chief Data Officer Michael Andrew explains how purpose-built models like Koa and multiplayer AI in Slack fit together.",
+      "source_name": "Salesforce News",
+      "source_url": "https://www.salesforce.com/news/stories/ai-model-choice/",
+      "published_at": "2026-10-13T15:00:00Z",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "AI Models",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7872,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.salesforce.com/?p=95941"
+    },
+    {
+      "title": "Pg_vectorsearch: An index that is faster than pgvector's IVFFlat and HNSW",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://github.com/timescale/pg_vectorsearch",
+      "published_at": "2026-10-14T11:47:53Z",
+      "category": "aggregators",
+      "tags": [
+        "Vector Databases",
+        "Hacker News"
+      ],
+      "confidence_score": 0.624,
+      "importance_score": 0.7789,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50086165"
+    },
+    {
+      "title": "Higgsfield takes AI video from 1 minute to over 10",
+      "summary": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live.",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/higgsfield-longer-videos-voice",
+      "published_at": "2026-10-13T12:00:00Z",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.97,
+      "importance_score": 0.7747,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/index/higgsfield-longer-videos-voice"
+    },
+    {
+      "title": "Why do LLM pelicans look like this?",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://arcfu.com/post/the-emperor-pelican-has-no-clothes/",
+      "published_at": "2026-10-14T16:33:34Z",
+      "category": "aggregators",
+      "tags": [
+        "LLMs",
+        "Hacker News"
+      ],
+      "confidence_score": 0.6095,
+      "importance_score": 0.7624,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50090443"
+    },
+    {
+      "title": "Gemini 4 Argon",
+      "summary": "See also: Gemini 4 Argon for Robotics - https://news.ycombinator.com/item?id=50074869",
+      "source_name": "Hacker News",
+      "source_url": "https://deepmind.google/models/gemini/",
+      "published_at": "2026-10-13T16:03:16Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7616,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50073879"
+    },
+    {
+      "title": "Apate sends AI agents undercover to get scammed so they can gather fraud intelligence",
+      "summary": "Most companies use AI agents to ship products faster or speed up workflows. Apate.ai sends them undercover to get scammed.",
+      "source_name": "TechCrunch - AI",
+      "source_url": "https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence/",
+      "published_at": "2026-10-14T18:00:00Z",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7597,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://techcrunch.com/?p=3175750"
+    },
+    {
+      "title": "I paid $975 for Amtrak's business-class and then a first-class roomette on a 32-hour trip. Only one upgrade was worth it.",
+      "summary": "I spent $975 on Amtrak business class and a first-class roomette during a 32-hour trip. Here's the upgrade I'd pay for again and the one I'd skip.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/amtrak-business-class-vs-roomette-upgrade-worth-it",
+      "published_at": "2026-10-14T17:43:41Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7586,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/amtrak-business-class-vs-roomette-upgrade-worth-it"
+    },
+    {
+      "title": "22 People Got Together For a Dinner Party. So Did Their A.I. Agents.",
+      "summary": "As artificial intelligence bots spread, we are increasingly glimpsing how these digital entities interact and what they talk about with one another.",
+      "source_name": "The New York Times - Technology",
+      "source_url": "https://www.nytimes.com/2026/10/14/technology/ai-agents-communication-tech-dinner-party.html",
+      "published_at": "2026-10-14T17:35:24Z",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.758,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.nytimes.com/2026/10/14/technology/ai-agents-communication-tech-dinner-party.html"
+    },
+    {
+      "title": "Netflix, Facing Slowing Growth, Cuts 6% of Its Work Force",
+      "summary": "The streamer’s share price is down more than 40 percent over the last year as the company has struggled with stalling engagement.",
+      "source_name": "The New York Times - Technology",
+      "source_url": "https://www.nytimes.com/2026/10/14/business/media/netflix-layoffs-ted-sarandos.html",
+      "published_at": "2026-10-14T17:21:26Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.757,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.nytimes.com/2026/10/14/business/media/netflix-layoffs-ted-sarandos.html"
+    },
+    {
+      "title": "Ivanti patches Connect Secure zero-day after researchers confirm in-the-wild attacks",
+      "summary": "Vendor promises fix for separate privilege-escalation flaw in the coming weeks",
+      "source_name": "The Register",
+      "source_url": "https://www.theregister.com/security/2026/10/14/ivanti-patches-connect-secure-zero-day-after-researchers-confirm-in-the-wild-attacks/5303095",
+      "published_at": "2026-10-14T17:15:00Z",
+      "category": "enterprise_technology",
+      "tags": [
+        "Research",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7566,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.theregister.com/a/5303095"
+    },
+    {
+      "title": "Your next job doesn’t have a title yet: Emerging role skills Q&A with Corey Hymel of Andela",
+      "summary": "While the whispers say that everyone is becoming a generalist, that's not where headcount is going.",
+      "source_name": "Stack Overflow Blog",
+      "source_url": "https://stackoverflow.blog/2026/10/14/your-next-job-doesn-t-have-a-title-yet-emerging-role-skills-q-and-a-with-corey-hymel-of-andela/",
+      "published_at": "2026-10-14T17:12:00Z",
+      "category": "developer_platforms",
+      "tags": [
+        "Developer Platforms"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7564,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "6f51dd12-6bbb-44da-b831-d5d4eafe9de0"
+    },
+    {
+      "title": "Prediction market users are already betting on how long Trump's new press secretary will last",
+      "summary": "Bettors on Polymarket and Kalshi are wagering thousands of dollars on how long new White House press secretary Katie Zacharia will last.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/prediction-markets-betting-katie-zacharia-trump-press-secretary-2026-10",
+      "published_at": "2026-10-14T17:11:39Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7564,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/prediction-markets-betting-katie-zacharia-trump-press-secretary-2026-10"
+    },
+    {
+      "title": "I've spent 154 hours on Amtrak trains in 5 different classes, from coach to bedrooms. The best deal was a premium cabin.",
+      "summary": "I've traveled in five different Amtrak cars: coach, business class, first class, roomettes, and bedrooms. Here's a breakdown of each class.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/amtrak-cabins-compared-coach-business-first-class-roomette-bedroom-2026-10",
+      "published_at": "2026-10-14T16:52:08Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.755,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/amtrak-cabins-compared-coach-business-first-class-roomette-bedroom-2026-10"
+    },
+    {
+      "title": "How to Rewrite Apache Spark UDFs for GPU Acceleration with AI Agents",
+      "summary": "Enterprise applications have become increasingly demanding. Agentic AI has compounded the need for vast amounts of enterprise data with frequent, complex...",
+      "source_name": "NVIDIA Developer Blog",
+      "source_url": "https://developer.nvidia.com/blog/rewrite-apache-spark-udfs-gpu-acceleration-ai-agents/",
+      "published_at": "2026-10-13T21:33:21Z",
+      "category": "mlops",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Apache Spark",
+        "GPUs",
+        "Mlops"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.7545,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://developer.nvidia.com/blog/?p=123309"
+    },
+    {
+      "title": "21 details you may have missed in 'The Cabin in the Woods'",
+      "summary": "\"The Cabin in the Woods\" is a 2012 horror satire packed with Easter eggs and references to classic films, making it a must-watch for genre fans.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/the-cabin-in-the-woods-details-references-easter-eggs-2022-4",
+      "published_at": "2026-10-14T16:42:18Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7543,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/the-cabin-in-the-woods-details-references-easter-eggs-2022-4"
+    },
+    {
+      "title": "U.S. Shuts Down Over 40 Laptop Farms, Charges 14 in North Korean IT Worker Fraud",
+      "summary": "The U.S. Department of Justice (DoJ) on Tuesday charged 14 people and seized about 187 computers as part of its ongoing efforts to disrupt North Korea's fraudulent remote IT worker (ITW) scheme. The indictment charges a mix of U.S. citizens and Chinese nationals for their roles in an IT worker conspiracy affecting more than 70 U.S. companies, charging them with wire fraud conspiracy, money",
+      "source_name": "The Hacker News",
+      "source_url": "https://thehackernews.com/2026/10/us-shuts-down-over-40-laptop-farms.html",
+      "published_at": "2026-10-14T16:34:31Z",
+      "category": "cybersecurity",
+      "tags": [
+        "Cybersecurity"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7538,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://thehackernews.com/2026/10/us-shuts-down-over-40-laptop-farms.html"
+    },
+    {
+      "title": "Leap seconds face judgment day as time lords prepare to vote",
+      "summary": "Proposal would let UTC drift an hour from Earth's rotation, sparing computer systems awkward adjustments for centuries",
+      "source_name": "The Register",
+      "source_url": "https://www.theregister.com/offbeat/2026/10/14/leap-seconds-face-judgment-day-as-time-lords-prepare-to-vote/5303082",
+      "published_at": "2026-10-14T16:30:00Z",
+      "category": "enterprise_technology",
+      "tags": [
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7535,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.theregister.com/a/5303082"
+    },
+    {
+      "title": "Researchers cig-nal their faith in AI by taking up smoking",
+      "summary": "What are they puffing? Tobacco, apparently. Cancer researcher tells El Reg it's a bad bet",
+      "source_name": "The Register",
+      "source_url": "https://www.theregister.com/ai-and-ml/2026/10/14/researchers-cig-nal-their-faith-in-ai-by-taking-up-smoking/5303118",
+      "published_at": "2026-10-14T16:18:59Z",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "Research",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7527,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.theregister.com/a/5303118"
+    },
+    {
+      "title": "I thought Napa was the gold standard for wine trips. Then, a city in Washington changed what I look for in a vacation.",
+      "summary": "I was impressed by the vineyards, tasting rooms, and wine in Walla Walla, Washington. My visit was cheaper and as nice as my trip to Napa Valley.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/visited-place-washington-wine-walla-walla-better-than-napa-valley-2026-10",
+      "published_at": "2026-10-14T16:17:01Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7526,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/visited-place-washington-wine-walla-walla-better-than-napa-valley-2026-10"
+    },
+    {
+      "title": "Everything we know about the suspected plague case in Russia so far",
+      "summary": "Fears of a pneumonic plague outbreak follow an Irkutsk lab employee's death last week. But the World Health Organization (WHO) says the risk is low.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/russia-pneumonic-plague-outbreak-risk-symptoms-2026-10",
+      "published_at": "2026-10-14T16:16:32Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7525,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/russia-pneumonic-plague-outbreak-risk-symptoms-2026-10"
+    },
+    {
+      "title": "U.K. Sanctions Cryptomus for RU Money Laundering",
+      "summary": "The United Kingdom has issued economic sanctions against Cryptomus, a chameleonic cryptocurrency platform that experts say serves as a major conduit for payments related to ransomware, narcotics, darknet markets, fraud and cybercrime services that are helping Russia circumvent existing financial restrictions.",
+      "source_name": "Krebs on Security",
+      "source_url": "https://krebsonsecurity.com/2026/10/u-k-sanctions-cryptomus-for-ru-money-laundering/",
+      "published_at": "2026-10-14T14:22:49Z",
+      "category": "cybersecurity",
+      "tags": [
+        "Cybersecurity"
+      ],
+      "confidence_score": 0.86,
+      "importance_score": 0.7446,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://krebsonsecurity.com/?p=74435"
+    },
+    {
+      "title": "GitHub’s model for secret detection: Finding more secrets with less noise",
+      "summary": "GitHub’s context-aware secret classifier improves detection quality, raises weighted acceptance by 11.5%, and reduces median scan execution time by 86%. The post GitHub’s model for secret detection: Finding more secrets with less noise appeared first on The GitHub Blog .",
+      "source_name": "The GitHub Blog",
+      "source_url": "https://github.blog/ai-and-ml/githubs-model-for-secret-detection-finding-more-secrets-with-less-noise/",
+      "published_at": "2026-10-13T17:56:33Z",
+      "category": "developer_platforms",
+      "tags": [
+        "Developer Tools",
+        "AI Models",
+        "Developer Platforms"
+      ],
+      "confidence_score": 0.9,
+      "importance_score": 0.7395,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://github.blog/?p=99413"
+    },
+    {
+      "title": "OpenAI gets bugged, Apple debuts the HomeView",
+      "summary": "OpenAI gets bugged, Apple debuts the HomeView Superhuman AI",
+      "source_name": "Superhuman (Zain Kahn)",
+      "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5sc0dNaWlSQkdpXzVPOWhGYlVSeUdyanhYTV9EejhQdHZCMjVDR0NQVU55R0FYZUJRNDJEWUZrVDdQSFFBb0JDYkowRm9EU0p4SWF6VjVoQ2Z2emswMFR4UzZVMF9MWk5nLUI2MnFRc29vMU1IZnptaXVjV1E?oc=5",
+      "published_at": "2026-10-14T12:36:09Z",
+      "category": "ai_newsletters",
+      "tags": [
+        "AI",
+        "Ai Newsletters"
+      ],
+      "confidence_score": 0.64,
+      "importance_score": 0.7372,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "CBMifEFVX3lxTE5sc0dNaWlSQkdpXzVPOWhGYlVSeUdyanhYTV9EejhQdHZCMjVDR0NQVU55R0FYZUJRNDJEWUZrVDdQSFFBb0JDYkowRm9EU0p4SWF6VjVoQ2Z2emswMFR4UzZVMF9MWk5nLUI2MnFRc29vMU1IZnptaXVjV1E"
+    },
+    {
+      "title": "🛎️ A Tool Claims to End All Software",
+      "summary": "Plus: Anthropic Blames Open AI for Doomsday, Musk Wants Your Credit Card",
+      "source_name": "AI Secret",
+      "source_url": "https://aisecret.us/a-tool-claims-to-end-all-software/",
+      "published_at": "2026-10-14T12:30:49Z",
+      "category": "ai_newsletters",
+      "tags": [
+        "AI",
+        "Ai Newsletters"
+      ],
+      "confidence_score": 0.64,
+      "importance_score": 0.7369,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "6ac75235a2b20d64f578ebf5"
+    },
+    {
+      "title": "The Download: faking blood and the future of batteries",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The US military’s race to make fake blood In February 2007, a US military helicopter carrying blood to a field hospital was shot down in Iraq, killing all seven crew members.…",
+      "source_name": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/10/14/1146452/the-download-military-fake-blood-future-batteries/",
+      "published_at": "2026-10-14T12:10:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "Research Feeds"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.7354,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.technologyreview.com/?p=1146452"
+    },
+    {
+      "title": "Transformer Steel Becomes a Trade Flashpoint in Europe",
+      "summary": "Grid transformers remain in short supply",
+      "source_name": "IEEE Spectrum",
+      "source_url": "https://spectrum.ieee.org/transformer-shortage-europe-goes-steel",
+      "published_at": "2026-10-14T12:00:03Z",
+      "category": "research_feeds",
+      "tags": [
+        "Research Feeds"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.7347,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://spectrum.ieee.org/transformer-shortage-europe-goes-steel"
+    }
+  ]
+}

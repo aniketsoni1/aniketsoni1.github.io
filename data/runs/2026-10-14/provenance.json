@@ -1,0 +1,22 @@
+{
+  "post_date": "2026-10-14",
+  "generated_at": "2026-10-14T14:05:37.823930-04:00",
+  "model_provider": "gemini",
+  "model_name": "gemini-2.5-flash",
+  "fallback_used": true,
+  "sources_checked": 48,
+  "sources_used": 6,
+  "links_validated": 13,
+  "links_failed": 0,
+  "events_checked": 12,
+  "history_items_checked": 54,
+  "output_post_path": "_posts/2026-10-14-daily-tech-signal.md",
+  "validation_status": "passed",
+  "edition": "standard",
+  "run_dir": "/home/runner/work/aniketsoni1.github.io/aniketsoni1.github.io/data/runs/2026-10-14",
+  "notes": [
+    "selected 7 stories; edition=standard",
+    "ai calls ok 8/9; served by {'gemini': 8}",
+    "validate_post: passed; broken_news=0 broken_ref=0"
+  ]
+}
