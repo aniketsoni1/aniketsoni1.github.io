@@ -1,0 +1,836 @@
+{
+  "post_date": "2026-10-16",
+  "sources_checked": 48,
+  "count": 45,
+  "items": [
+    {
+      "title": "Deploying, maintaining, and migrating production n8n on EKS",
+      "summary": "n8n is easy to try and harder to run under production traffic. A single container with SQLite works great for a quick demo. Production is a different story entirely. You need workers, webhook processors, PostgreSQL, Redis,...",
+      "source_name": "CNCF",
+      "source_url": "https://www.cncf.io/blog/2026/10/16/deploying-maintaining-and-migrating-production-n8n-on-eks/",
+      "published_at": "2026-10-16T16:39:04Z",
+      "category": "open_source_foundations",
+      "tags": [
+        "Databases",
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8964,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.cncf.io/?p=176230"
+    },
+    {
+      "title": "Putting Nepal on the CNCF Golden Kubestronaut map",
+      "summary": "In this blog, I will share my Golden Kubestronaut journey, how I became the first and youngest Golden Kubestronaut from Nepal, what motivated me to pursue this path, and what it actually takes to earn the...",
+      "source_name": "CNCF",
+      "source_url": "https://www.cncf.io/blog/2026/10/16/putting-nepal-on-the-cncf-golden-kubestronaut-map/",
+      "published_at": "2026-10-16T11:30:00Z",
+      "category": "open_source_foundations",
+      "tags": [
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8749,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.cncf.io/?p=175865"
+    },
+    {
+      "title": "I Love Software Rendering",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/",
+      "published_at": "2026-10-16T12:52:08Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.654,
+      "importance_score": 0.8506,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50117746"
+    },
+    {
+      "title": "Code, Test, and Deploy on One Machine with NVIDIA RTX Spark",
+      "summary": "AI agents are changing how software gets built. Developers have gone from writing every line of code by hand to directing agents that write most of the code. As...",
+      "source_name": "NVIDIA Developer Blog",
+      "source_url": "https://developer.nvidia.com/blog/code-test-and-deploy-on-one-machine-with-nvidia-rtx-spark/",
+      "published_at": "2026-10-16T17:00:00Z",
+      "category": "mlops",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Apache Spark",
+        "GPUs",
+        "Mlops"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8378,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://developer.nvidia.com/blog/?p=123865"
+    },
+    {
+      "title": "Architecting autonomy: A design pattern for high-compute, governed agents in biotech",
+      "summary": "In production systems today, most AI agents operate as lightweight dispatchers. They parse a prompt, make an API call, retrieve a record, and hand back control. Their execution is fast, stateless and cheap. Biotechnology does not work this way. Folding a protein target, screening a 50,000 compound ligand library, or evaluating structure-activity relationships (SAR) are not quick API lookups. They are sustained, stateful, GPU-bound simulations that run for minutes or even…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/topics/healthcare-life-sciences/architecting-scalable-agentic-biotech-workloads/",
+      "published_at": "2026-10-16T16:00:00Z",
+      "category": "cloud_providers",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "GPUs",
+        "APIs",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.8337,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/topics/healthcare-life-sciences/architecting-scalable-agentic-biotech-workloads/"
+    },
+    {
+      "title": "Announcing Wiz Runtime Sensor add-on for GKE: Turnkey threat detection for Kubernetes",
+      "summary": "Everything is moving faster in the age of AI, and that includes security threats. What used to take attackers weeks to exploit can now happen in just a few minutes. Standard vulnerability scans that run on artifacts at rest can catch basic setup issues, but to detect an attack that's actively happening you need real-time runtime protection. Today, we’re introducing the Wiz Runtime Sensor add-on for Google Kubernetes Engine (GKE), in preview. This built-in integration brings…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/products/identity-security/wiz-sensor-for-gke-turnkey-threat-detection-for-kubernetes/",
+      "published_at": "2026-10-16T16:00:00Z",
+      "category": "cloud_providers",
+      "tags": [
+        "AI",
+        "Kubernetes",
+        "Security",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.8337,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/products/identity-security/wiz-sensor-for-gke-turnkey-threat-detection-for-kubernetes/"
+    },
+    {
+      "title": "Four evaluation engineering lessons learned from building agent plugins",
+      "summary": "The real challenge of building an agentic system isn't the construction, it's the measurement. Evaluation engineering is a critical foundation for building reliable AI systems. Setting up systematic, repeatable tests to measure your agent’s true behavior can be the difference between shipping a tool you can trust and one that silently breaks, fails to call APIs, or makes mistakes. I’ve run evaluation engineering initiatives for years at Google and d eveloping the newly…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/topics/developers-practitioners/four-eval-engineering-lessons/",
+      "published_at": "2026-10-16T16:00:00Z",
+      "category": "cloud_providers",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "APIs",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.8337,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/topics/developers-practitioners/four-eval-engineering-lessons/"
+    },
+    {
+      "title": "The SAVE method: Learn the fundamentals to engineer trustworthy generative media",
+      "summary": "Google Cloud Consulting works with organizations every day to build generative media that’s trustworthy, brand-aligned, and stands out. Instead of relying on clever or complicated prompting, we’ve identified four recurring basics to generate consistent results, what we call the “SAVE” method. In this blog, we’ll share more about this method and how you can apply it to your own work. S - Separate the researcher from the storyteller If in a single prompt, if you’re requesting…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/topics/consulting/fundamentals-to-engineer-trustworthy-gen-media/",
+      "published_at": "2026-10-16T16:00:00Z",
+      "category": "cloud_providers",
+      "tags": [
+        "GenAI",
+        "Cloud",
+        "Google Cloud",
+        "Research",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.8337,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/topics/consulting/fundamentals-to-engineer-trustworthy-gen-media/"
+    },
+    {
+      "title": "From Containers to Sandboxes: Developer Trust in the Agentic Era",
+      "summary": "The 2026 Stack Overflow Developer Survey shows only 7% of developers trust AI output for important decisions. Here’s what that means for running agents safely.",
+      "source_name": "Docker Blog",
+      "source_url": "https://www.docker.com/blog/stack-overflow-survey-2026-ai-agent-trust/",
+      "published_at": "2026-10-16T16:00:00Z",
+      "category": "developer_platforms",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Developer Platforms"
+      ],
+      "confidence_score": 0.87,
+      "importance_score": 0.8336,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.docker.com/?p=94981"
+    },
+    {
+      "title": "Carbon as a first-class signal: Bringing software carbon intensity to OpenTelemetry",
+      "summary": "At Observability Summit Europe 2026 in Prague, I presented a keynote titled Carbon as a First-Class Signal: Designing a Standard for OpenTelemetry. The talk explored how Software Carbon Intensity (SCI) could become part of cloud-native observability...",
+      "source_name": "CNCF",
+      "source_url": "https://www.cncf.io/blog/2026/10/15/carbon-as-a-first-class-signal-bringing-software-carbon-intensity-to-opentelemetry/",
+      "published_at": "2026-10-15T22:21:45Z",
+      "category": "open_source_foundations",
+      "tags": [
+        "Cloud",
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8202,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.cncf.io/?p=176181"
+    },
+    {
+      "title": "Bringing GPT-Rosalind to academic research labs",
+      "summary": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+      "published_at": "2026-10-15T19:00:00Z",
+      "category": "ai_model_companies",
+      "tags": [
+        "Research",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.99,
+      "importance_score": 0.8062,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/index/introducing-the-rosalind-academic-plan"
+    },
+    {
+      "title": "An update on independent evaluators",
+      "summary": "An update on independent evaluators Anthropic",
+      "source_name": "Anthropic",
+      "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8zZVFudWFYcC04RHNOZHI0cGhuSXBUTlk2RWZsUnFkY2MzeWZRY0NVaV9OSTJHbDVkc3BBTHBWd1FKUDVCbjdYLTQtN2tGNUZXdnFYRmt2OUZTTzRoRVZNeWNteUE1Vy1DSXBGTTUxSFJqVmRf?oc=5",
+      "published_at": "2026-10-15T17:20:00Z",
+      "category": "ai_model_companies",
+      "tags": [
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.97,
+      "importance_score": 0.7992,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "CBMidEFVX3lxTE8zZVFudWFYcC04RHNOZHI0cGhuSXBUTlk2RWZsUnFkY2MzeWZRY0NVaV9OSTJHbDVkc3BBTHBWd1FKUDVCbjdYLTQtN2tGNUZXdnFYRmt2OUZTTzRoRVZNeWNteUE1Vy1DSXBGTTUxSFJqVmRf"
+    },
+    {
+      "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
+      "summary": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
+      "source_name": "Google DeepMind",
+      "source_url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
+      "published_at": "2026-10-15T16:08:03Z",
+      "category": "ai_model_companies",
+      "tags": [
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.97,
+      "importance_score": 0.7942,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/"
+    },
+    {
+      "title": "Salesforce Pledges Free Slack Enterprise Access to Millions of Higher and Further Education Students in the UK",
+      "summary": "",
+      "source_name": "Salesforce News",
+      "source_url": "https://www.salesforce.com/news/linked-content/salesforce-pledges-free-slack-enterprise-access-to-millions-of-higher-and-further-education-students-in-the-uk/",
+      "published_at": "2026-10-15T15:00:31Z",
+      "category": "enterprise_technology",
+      "tags": [
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.8,
+      "importance_score": 0.7895,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.salesforce.com/?post_type=sf_linked_content&p=95975"
+    },
+    {
+      "title": "Salesforce Selected by HMRC to Modernise Tax Services for UK Citizens and Businesses",
+      "summary": "",
+      "source_name": "Salesforce News",
+      "source_url": "https://www.salesforce.com/news/linked-content/salesforce-selected-by-hmrc-to-modernise-tax-services-for-uk-citizens-and-businesses/",
+      "published_at": "2026-10-15T15:00:23Z",
+      "category": "enterprise_technology",
+      "tags": [
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.8,
+      "importance_score": 0.7895,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.salesforce.com/?post_type=sf_linked_content&p=95979"
+    },
+    {
+      "title": "Teaching students to think and learn through questions",
+      "summary": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
+      "published_at": "2026-10-15T13:00:00Z",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.97,
+      "importance_score": 0.7812,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions"
+    },
+    {
+      "title": "Apple ML Research: Muse Spark Open with MLX on Mac Studio",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://machinelearning.apple.com/research/mlx-distributed-inference",
+      "published_at": "2026-10-16T13:43:48Z",
+      "category": "aggregators",
+      "tags": [
+        "Apache Spark",
+        "Research",
+        "Hacker News"
+      ],
+      "confidence_score": 0.6195,
+      "importance_score": 0.778,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50118320"
+    },
+    {
+      "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
+      "summary": "",
+      "source_name": "Hugging Face",
+      "source_url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
+      "published_at": "2026-10-16T01:44:47Z",
+      "category": "ai_model_companies",
+      "tags": [
+        "Data Pipelines",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.9,
+      "importance_score": 0.7743,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining"
+    },
+    {
+      "title": "Extending Kubernetes policy enforcement to runtime security for AI workloads",
+      "summary": "Nirmata created Kyverno and donated it to the CNCF in 2020. Kyverno is now a graduated CNCF project and is widely used for enforcing and automating configuration security and best practices. However, admission control answers one...",
+      "source_name": "CNCF",
+      "source_url": "https://www.cncf.io/blog/2026/10/15/extending-kubernetes-policy-enforcement-to-runtime-security-for-ai-workloads/",
+      "published_at": "2026-10-15T11:00:00Z",
+      "category": "open_source_foundations",
+      "tags": [
+        "AI",
+        "Kubernetes",
+        "Security",
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.87,
+      "importance_score": 0.7728,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.cncf.io/?p=176227"
+    },
+    {
+      "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
+      "summary": "",
+      "source_name": "Hugging Face",
+      "source_url": "https://huggingface.co/blog/reflection-beam",
+      "published_at": "2026-10-16T00:00:00Z",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI Models",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.9,
+      "importance_score": 0.767,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://huggingface.co/blog/reflection-beam"
+    },
+    {
+      "title": "Why No One Can Look Away From Elizabeth Holmes",
+      "summary": "“I felt like there were some moments in the film where she was just brazenly lying.”",
+      "source_name": "The New York Times - Technology",
+      "source_url": "https://www.nytimes.com/2026/10/16/podcasts/hardfork-elizabeth-holmes.html",
+      "published_at": "2026-10-16T17:15:33Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7589,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.nytimes.com/2026/10/16/podcasts/hardfork-elizabeth-holmes.html"
+    },
+    {
+      "title": "How Princess Charlene of Monaco's style has evolved, from her days as an Olympic athlete to a European princess",
+      "summary": "Princess Charlene of Monaco has developed a daring style over the years. She wears everything from sparkling ensembles to cutout dresses.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/princess-charlene-of-monaco-style-evolution-photos",
+      "published_at": "2026-10-16T17:12:06Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Apache Spark",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7586,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/princess-charlene-of-monaco-style-evolution-photos"
+    },
+    {
+      "title": "Want Apple's folding iPhone? 'Duo' you have patience?",
+      "summary": "Expected ship dates for Apple's iPhone Duo, the company's first foldable phone, have already slipped from October to January 2027.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/apple-iphone-duo-expected-shipping-times-slip-2027-2026-10",
+      "published_at": "2026-10-16T17:09:39Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7585,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/apple-iphone-duo-expected-shipping-times-slip-2027-2026-10"
+    },
+    {
+      "title": "The most haunted place in every state",
+      "summary": "From homes and hotels to churches, theaters, and cemeteries, there's no shortage of supposedly haunted places across the US.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/most-haunted-place-every-state-photos",
+      "published_at": "2026-10-16T16:58:50Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7577,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/most-haunted-place-every-state-photos"
+    },
+    {
+      "title": "The world reacts to Elon Musk’s flying car",
+      "summary": "Tesla's long-delayed Roadster finally made an entrance — by flying off a ramp.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/reactions-elon-musk-roadster-flying-car-2026-10",
+      "published_at": "2026-10-16T16:57:31Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7576,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/reactions-elon-musk-roadster-flying-car-2026-10"
+    },
+    {
+      "title": "Want to work for a billionaire investor? Vinod Khosla is hiring.",
+      "summary": "The billionaire VC is looking for a chief of staff who can handle 12-hour days. The job offers a front-row seat to Silicon Valley's AI boom.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/vinod-khosla-hiring-chief-of-staff-vc-2026-10",
+      "published_at": "2026-10-16T16:39:29Z",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7564,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/vinod-khosla-hiring-chief-of-staff-vc-2026-10"
+    },
+    {
+      "title": "Tottenham Hotspur Launches Ask Spurs on Agentforce",
+      "summary": "Club unifies over 4.6 million fan accounts across 10+ systems, with new AI agent Ask Spurs achieving an 86% engagement rate. Agentic transformation spans football, stadium events and commercial operations, while supporting community programmes to improve digital skills and career pathways for local young people. LONDON, UK — 15 OCTOBER 2026 — Salesforce (NYSE: CRM), […]",
+      "source_name": "Salesforce News",
+      "source_url": "https://www.salesforce.com/news/press-releases/2026/10/15/tottenham-hotspur-becomes-agentic-enterprise-with-agentforce/",
+      "published_at": "2026-10-15T07:00:00Z",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7561,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.salesforce.com/?post_type=sf_press_release&p=95891"
+    },
+    {
+      "title": "Video Friday: When Two Robots Become One",
+      "summary": "Your weekly selection of awesome robot videos",
+      "source_name": "IEEE Spectrum",
+      "source_url": "https://spectrum.ieee.org/video-friday-reconfigurable-robots",
+      "published_at": "2026-10-16T16:30:02Z",
+      "category": "research_feeds",
+      "tags": [
+        "Research Feeds"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.7557,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://spectrum.ieee.org/video-friday-reconfigurable-robots"
+    },
+    {
+      "title": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
+      "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being rebuilt. This view runs counter to those who believe that robotics, powered by a general foundation model, is about to have […]",
+      "source_name": "TechCrunch - AI",
+      "source_url": "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/",
+      "published_at": "2026-10-16T16:30:00Z",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "GPUs",
+        "AI Models",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7557,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://techcrunch.com/?post_type=tc_podcast&p=3176205"
+    },
+    {
+      "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
+      "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being rebuilt. This view runs counter to those who believe that robotics, powered by a general foundation model, is about to have […]",
+      "source_name": "TechCrunch - AI",
+      "source_url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
+      "published_at": "2026-10-16T16:30:00Z",
+      "category": "enterprise_technology",
+      "tags": [
+        "GPUs",
+        "AI Models",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7557,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://techcrunch.com/?post_type=tc_video&p=3176211"
+    },
+    {
+      "title": "Here’s Exactly How Tesla Made Its New 230-Mph Car ‘Fly’",
+      "summary": "It turns out the Roadster 2 both sucks and blows.",
+      "source_name": "Wired",
+      "source_url": "https://www.wired.com/story/how-tesla-made-its-new-230-mph-car-fly/",
+      "published_at": "2026-10-16T16:30:12Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7557,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "6ad21137281037ed104dbf79"
+    },
+    {
+      "title": "Razer Barracuda V2 Pro Review: A Gaming Headset for the Office",
+      "summary": "The Razer Barracuda V2 Pro headset has a place in the office as well as at your gaming battle station.",
+      "source_name": "Wired",
+      "source_url": "https://www.wired.com/review/razer-barracuda-v2-pro/",
+      "published_at": "2026-10-16T16:30:00Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7557,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "6acf9742b89c86bafd0c52a0"
+    },
+    {
+      "title": "Thank Gen Z for the ‘Girls’ Revival",
+      "summary": "The HBO series served as a stand-in for everything wrong with white millennial women during its original run. Then Gen Z started watching.",
+      "source_name": "Wired",
+      "source_url": "https://www.wired.com/story/thank-gen-z-for-the-girls-revival/",
+      "published_at": "2026-10-16T16:21:38Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7551,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "6acfd6a476c17d102a553e4e"
+    },
+    {
+      "title": "UAT-11985 Uses Fake Event Invites to Target Taiwan Research Affiliates With Google AitM Phishing",
+      "summary": "Cybersecurity researchers have disclosed details of an advanced persistent threat (APT) spear-phishing campaign that has targeted individuals affiliated with Taiwan research organizations to direct victims to an adversary-in-the-middle (AitM) phishing framework designed to harvest their Google account credentials and multi-factor authentication (MFA) codes. The activity is being tracked by",
+      "source_name": "The Hacker News",
+      "source_url": "https://thehackernews.com/2026/10/uat-11985-uses-fake-event-invites-to.html",
+      "published_at": "2026-10-16T16:16:44Z",
+      "category": "cybersecurity",
+      "tags": [
+        "Research",
+        "Cybersecurity"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7548,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://thehackernews.com/2026/10/uat-11985-uses-fake-event-invites-to.html"
+    },
+    {
+      "title": "This new theory on how AI ‘thinks’ could impact whether it kills us all",
+      "summary": "We may be closer to understanding how AI models think, giving researchers new tools to ensure they don't go rogue.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/ai-reasoning-theory-nick-cammarata-safety-neural-networks-2026-10",
+      "published_at": "2026-10-16T16:05:18Z",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "AI Models",
+        "Research",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.754,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/ai-reasoning-theory-nick-cammarata-safety-neural-networks-2026-10"
+    },
+    {
+      "title": "Elorian’s first AI model wants to reason with images, not just about them",
+      "summary": "According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks.",
+      "source_name": "TechCrunch - AI",
+      "source_url": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
+      "published_at": "2026-10-16T16:01:37Z",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "AI Models",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7538,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://techcrunch.com/?p=3178756"
+    },
+    {
+      "title": "Tesla's vision for the future: Manually driving your own car will be a luxury for the rich",
+      "summary": "At the Roadster launch, Elon Musk said it will be the \"only manually driven car that Tesla makes.\" We don't know the price, but it's not cheap.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/tesla-roadster-only-manually-driven-car-future-luxury-sport-2026-10",
+      "published_at": "2026-10-16T15:54:06Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7532,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/tesla-roadster-only-manually-driven-car-future-luxury-sport-2026-10"
+    },
+    {
+      "title": "The next developer interface is ambient intelligence",
+      "summary": "AI, agents, voice, and physical controls are shifting software development from operating tools to expressing intent—and helping developers stay focused on building. The post The next developer interface is ambient intelligence appeared first on The GitHub Blog .",
+      "source_name": "The GitHub Blog",
+      "source_url": "https://github.blog/news-insights/company-news/the-next-developer-interface-is-ambient-intelligence/",
+      "published_at": "2026-10-15T19:39:27Z",
+      "category": "developer_platforms",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Developer Tools",
+        "Developer Platforms"
+      ],
+      "confidence_score": 0.92,
+      "importance_score": 0.7489,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://github.blog/?p=99541"
+    },
+    {
+      "title": "OpenAI Research Model Spent 3rd-Party Test ETH Without Permission to Deploy Smart Contract",
+      "summary": "OpenAI has disclosed seven new incidents in which its artificial intelligence (AI) models exhibited misaligned behavior, including one case where its research model, after not having funds on an Ethereum test network, spent test cryptocurrency from a third-party's wallet without authorization to complete a coding task. The incident, the AI company said, involved an internal research model part",
+      "source_name": "The Hacker News",
+      "source_url": "https://thehackernews.com/2026/10/openai-research-model-spent-3rd-party.html",
+      "published_at": "2026-10-16T14:03:04Z",
+      "category": "cybersecurity",
+      "tags": [
+        "AI",
+        "AI Models",
+        "Research",
+        "Cybersecurity"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7455,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://thehackernews.com/2026/10/openai-research-model-spent-3rd-party.html"
+    },
+    {
+      "title": "The World Won't Wait: Evaluating and Teaching Agents Under a Live Clock",
+      "summary": "arXiv:2610.20665v1 Announce Type: new Abstract: Large language model (LLM) agents can solve complex interactive tasks, yet reasoning and tool calls take time. In continuously changing environments, an otherwise correct action may arrive too late. We introduce RealtimeBench, with 180 tasks across six game types, to evaluate agents while games continue running during inference. Paired evaluations show that GPT-6.1-sol outperforms the faster Jev when games are paused, but falls…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2610.20665",
+      "published_at": "2026-10-16T04:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "LLMs",
+        "AI Agents",
+        "AI Models",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7436,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2610.20665v1"
+    },
+    {
+      "title": "Amora: Communication-Efficient Private Approximate Nearest Neighbors Search",
+      "summary": "arXiv:2610.21174v1 Announce Type: new Abstract: Approximate nearest neighbors search (ANNS) over cloud-hosted vector databases raises a critical privacy concern: the query vector, which often encodes sensitive user intent, is exposed to the server. Private ANNS (PANNS) allows a client to retrieve nearest neighbors without revealing its query. The state-of-the-art single-server scheme, Pacmann (ICLR'25), achieves high accuracy via graph-based search with private information…",
+      "source_name": "arXiv cs.DB (Databases)",
+      "source_url": "https://arxiv.org/abs/2610.21174",
+      "published_at": "2026-10-16T04:00:00Z",
+      "category": "databases",
+      "tags": [
+        "Cloud",
+        "Databases",
+        "Vector Databases",
+        "Research"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7436,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2610.21174v1"
+    },
+    {
+      "title": "AdaBool: Sparse Boolean Matrix Processing with Adaptive Data Representation",
+      "summary": "arXiv:2610.21264v1 Announce Type: new Abstract: Many data processing tasks revolve around determining whether logical relationships exist between two sets of entities, a pattern that can be naturally modeled as Sparse Boolean Matrix Multiplication (SpBMM). Under Boolean semantics, matrix representations no longer need to store numerical values and instead focus on encoding the positions of non-zero elements, making it highly amenable to data compression for substantially…",
+      "source_name": "arXiv cs.DB (Databases)",
+      "source_url": "https://arxiv.org/abs/2610.21264",
+      "published_at": "2026-10-16T04:00:00Z",
+      "category": "databases",
+      "tags": [
+        "AI Models",
+        "Research",
+        "Databases"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7436,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2610.21264v1"
+    },
+    {
+      "title": "NVIDIA Nemotron 3.5 Super VL Powers Specialized Agents with Multimodal Reasoning",
+      "summary": "Always-on agents are taking on longer, more complex enterprise workflows. A single request can involve reading a document, checking information across sources,...",
+      "source_name": "NVIDIA Developer Blog",
+      "source_url": "https://developer.nvidia.com/blog/nvidia-nemotron-3-5-super-vl-powers-specialized-agents-with-multimodal-reasoning/",
+      "published_at": "2026-10-15T18:01:00Z",
+      "category": "mlops",
+      "tags": [
+        "AI Agents",
+        "GPUs",
+        "Mlops"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.742,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://developer.nvidia.com/blog/?p=123590"
+    },
+    {
+      "title": "Founders Who Only Date Sequoia",
+      "summary": "YC founders want Sequoia or nothing. Sequoia wrote a $1 billion check to someone else.",
+      "source_name": "AI Secret",
+      "source_url": "https://aisecret.us/founders-who-only-date-sequoia/",
+      "published_at": "2026-10-16T12:30:48Z",
+      "category": "ai_newsletters",
+      "tags": [
+        "Ai Newsletters"
+      ],
+      "confidence_score": 0.64,
+      "importance_score": 0.7391,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "6acdaf7d9f379b89dc575d77"
+    },
+    {
+      "title": "Meta's Muse is coming to Mac",
+      "summary": "Meta's Muse is coming to Mac Superhuman AI",
+      "source_name": "Superhuman (Zain Kahn)",
+      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBiN0JqSHJ4VGdGQWZaOFFFM0pIV0FqazZYSXo5MnZYcmlXeFlnTWQwQ2VOR3Z3Q2xHNzdpdGtqTnB2WjFIXzFra19YOFE5RU9kZEJJU3pSQWxpNUhBLTJCV1AwX3FhQkk?oc=5",
+      "published_at": "2026-10-16T11:19:36Z",
+      "category": "ai_newsletters",
+      "tags": [
+        "AI",
+        "Ai Newsletters"
+      ],
+      "confidence_score": 0.64,
+      "importance_score": 0.7342,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "CBMiZ0FVX3lxTFBiN0JqSHJ4VGdGQWZaOFFFM0pIV0FqazZYSXo5MnZYcmlXeFlnTWQwQ2VOR3Z3Q2xHNzdpdGtqTnB2WjFIXzFra19YOFE5RU9kZEJJU3pSQWxpNUhBLTJCV1AwX3FhQkk"
+    }
+  ]
+}
