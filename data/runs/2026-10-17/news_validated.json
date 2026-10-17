@@ -1,0 +1,825 @@
+{
+  "post_date": "2026-10-17",
+  "sources_checked": 48,
+  "count": 45,
+  "items": [
+    {
+      "title": "Solar surpasses nuclear power globally for first time – pv magazine Global",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/",
+      "published_at": "2026-10-17T14:01:01Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.642,
+      "importance_score": 0.8396,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50131256"
+    },
+    {
+      "title": "DeepSeek-v4.1-Flash-1017",
+      "summary": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017",
+      "source_name": "Hacker News",
+      "source_url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "published_at": "2026-10-17T08:21:25Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.836,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50129045"
+    },
+    {
+      "title": "How Itaú is building generative AI for its entire customer base",
+      "summary": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors.",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/itau-generative-ai",
+      "published_at": "2026-10-16T19:00:00Z",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI",
+        "GenAI",
+        "Data Governance",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.99,
+      "importance_score": 0.8104,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/index/itau-generative-ai"
+    },
+    {
+      "title": "Deploying, maintaining, and migrating production n8n on EKS",
+      "summary": "n8n is easy to try and harder to run under production traffic. A single container with SQLite works great for a quick demo. Production is a different story entirely. You need workers, webhook processors, PostgreSQL, Redis,...",
+      "source_name": "CNCF",
+      "source_url": "https://www.cncf.io/blog/2026/10/16/deploying-maintaining-and-migrating-production-n8n-on-eks/",
+      "published_at": "2026-10-16T16:39:04Z",
+      "category": "open_source_foundations",
+      "tags": [
+        "Databases",
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8006,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.cncf.io/?p=176230"
+    },
+    {
+      "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://llmspeed.dev/",
+      "published_at": "2026-10-17T04:36:53Z",
+      "category": "aggregators",
+      "tags": [
+        "LLMs",
+        "Hacker News"
+      ],
+      "confidence_score": 0.6415,
+      "importance_score": 0.7991,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50127979"
+    },
+    {
+      "title": "You could have invented transformers from memory",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://alexwang.ai/posts/associative-memory/",
+      "published_at": "2026-10-16T19:01:17Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7804,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50122878"
+    },
+    {
+      "title": "Claude reveals ECDSA curve origins",
+      "summary": "https://words.filippo.io/seeds-solved/",
+      "source_name": "Hacker News",
+      "source_url": "https://www.anthropic.com/research/ecdsa-curve-origins",
+      "published_at": "2026-10-16T18:55:59Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7801,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50122800"
+    },
+    {
+      "title": "Putting Nepal on the CNCF Golden Kubestronaut map",
+      "summary": "In this blog, I will share my Golden Kubestronaut journey, how I became the first and youngest Golden Kubestronaut from Nepal, what motivated me to pursue this path, and what it actually takes to earn the...",
+      "source_name": "CNCF",
+      "source_url": "https://www.cncf.io/blog/2026/10/16/putting-nepal-on-the-cncf-golden-kubestronaut-map/",
+      "published_at": "2026-10-16T11:30:00Z",
+      "category": "open_source_foundations",
+      "tags": [
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.87,
+      "importance_score": 0.7791,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.cncf.io/?p=175865"
+    },
+    {
+      "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://github.com/cobanov/PS5LM",
+      "published_at": "2026-10-16T18:32:35Z",
+      "category": "aggregators",
+      "tags": [
+        "AI Models",
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7784,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50122431"
+    },
+    {
+      "title": "eBay Restricts Listings of Radio Equipment, but Exempts Ham-Band-Only Gear",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear",
+      "published_at": "2026-10-16T18:06:17Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.676,
+      "importance_score": 0.7766,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50122034"
+    },
+    {
+      "title": "FLUX 3 Image Klein",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://bfl.ai/blog/flux-3-image-klein",
+      "published_at": "2026-10-16T19:47:13Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.645,
+      "importance_score": 0.7711,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50123580"
+    },
+    {
+      "title": "JPEG XL vs. AVIF for web use-cases",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://jakearchibald.com/2026/jpeg-xl-vs-avif/",
+      "published_at": "2026-10-16T16:12:02Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.699,
+      "importance_score": 0.7687,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50120224"
+    },
+    {
+      "title": "Apple ML Research: Muse Spark Open with MLX on Mac Studio",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://machinelearning.apple.com/research/mlx-distributed-inference",
+      "published_at": "2026-10-16T13:43:48Z",
+      "category": "aggregators",
+      "tags": [
+        "Apache Spark",
+        "Research",
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7584,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50118320"
+    },
+    {
+      "title": "I'm a Colorado local. If I had one day to show you my state, I'd skip Denver and take you to a city just west of it.",
+      "summary": "As a Colorado local, I love bringing first-time visitors to Golden, my favorite city that's a short drive from Denver. Here's what to do there.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/colorado-local-favorite-city-golden-things-to-do-2026-10",
+      "published_at": "2026-10-17T15:30:01Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7558,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/colorado-local-favorite-city-golden-things-to-do-2026-10"
+    },
+    {
+      "title": "When AI and robots work together, Anthropic says these jobs are at risk. Should gardeners worry?",
+      "summary": "Anthropic's robotics research puts more hands-on jobs in AI's path. But messy tasks such as gardening remain hard to automate.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/anthropic-ai-robots-gardening-jobs-automation-2026-10",
+      "published_at": "2026-10-17T14:00:01Z",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Research",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7495,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/anthropic-ai-robots-gardening-jobs-automation-2026-10"
+    },
+    {
+      "title": "My husband and I have different definitions of 'financially responsible.' Building a house is forcing us to compromise.",
+      "summary": "My husband and I are building a house together on land in Maine. We have different priorities and approaches to money, so we've had to compromise.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/building-house-with-husband-money-differences-compromise-2026-10",
+      "published_at": "2026-10-17T13:32:01Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7476,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/building-house-with-husband-money-differences-compromise-2026-10"
+    },
+    {
+      "title": "This Hidden Device Could Free Up Gigawatts of Grid Power",
+      "summary": "Variable frequency drives can slash motors’ power use",
+      "source_name": "IEEE Spectrum",
+      "source_url": "https://spectrum.ieee.org/variable-frequency-drives",
+      "published_at": "2026-10-17T13:00:02Z",
+      "category": "research_feeds",
+      "tags": [
+        "Research Feeds"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.7454,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://spectrum.ieee.org/variable-frequency-drives"
+    },
+    {
+      "title": "😸 DEEP DIVE: The 32-language workplace is closer than you think",
+      "summary": "PLUS: What actually breaks when global teams work across languages, and where AI can finally help",
+      "source_name": "The Neuron",
+      "source_url": "https://www.theneurondaily.com/p/deep-dive-the-32-language-workplace-is-closer-than-you-think-1",
+      "published_at": "2026-10-17T13:00:00Z",
+      "category": "ai_newsletters",
+      "tags": [
+        "AI",
+        "Ai Newsletters"
+      ],
+      "confidence_score": 0.64,
+      "importance_score": 0.7453,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.theneurondaily.com/p/deep-dive-the-32-language-workplace-is-closer-than-you-think-1"
+    },
+    {
+      "title": "The 20 global cities with the best quality of life",
+      "summary": "Oxford Economics' 2026 Global Cities Index rated quality of life in cities around the world. Only one US city made the top 20 by that metric.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/global-cities-best-quality-of-life-ranked-2026",
+      "published_at": "2026-10-17T12:33:01Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7435,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/global-cities-best-quality-of-life-ranked-2026"
+    },
+    {
+      "title": "How a cruise ship navigates Greenland's icebergs and extreme Arctic conditions",
+      "summary": "Inside a Greenland cruise ship, where crews navigate shifting icebergs, unpredictable weather, and emergencies far from help.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/greenland-cruise-ship-iceberg-arctic-titanic-ship-travel-safety-2026-10",
+      "published_at": "2026-10-17T12:27:01Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7431,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/greenland-cruise-ship-iceberg-arctic-titanic-ship-travel-safety-2026-10"
+    },
+    {
+      "title": "6 easy and delicious Ina Garten dishes you need to make this fall",
+      "summary": "Ina Garten has many delicious recipes that are perfect for fall, including an easy breakfast sandwich, a quick weeknight Bolognese, and chicken chili.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/best-ina-garten-recipes-fall-pasta-soup-2026-10",
+      "published_at": "2026-10-17T12:26:01Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.743,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/best-ina-garten-recipes-fall-pasta-soup-2026-10"
+    },
+    {
+      "title": "Day 0 support for Reflection’s Beam on Google Cloud: 5x faster perf with llm-d and NVIDIA Dynamo",
+      "summary": "Today, Reflection released Beam , its first open-weight model built to give developers, researchers, and enterprises open control and customization for frontier software engineering and long-horizon agentic tasks. Released under a permissive Apache 2.0 license with BF16 , FP8 , and NVFP4 checkpoints available at launch, Beam sets a new standard for inference efficiency in the 500B-parameter class by solving complex reasoning and coding problems with 3x to 4x higher reasoning…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/topics/ai-infrastructure/day-0-support-with-5x-perf-for-reflection-beam-on-google-cloud/",
+      "published_at": "2026-10-16T17:00:00Z",
+      "category": "cloud_providers",
+      "tags": [
+        "LLMs",
+        "AI Agents",
+        "Cloud",
+        "Google Cloud",
+        "GPUs",
+        "AI Models",
+        "Research",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.742,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/topics/ai-infrastructure/day-0-support-with-5x-perf-for-reflection-beam-on-google-cloud/"
+    },
+    {
+      "title": "Code, Test, and Deploy on One Machine with NVIDIA RTX Spark",
+      "summary": "AI agents are changing how software gets built. Developers have gone from writing every line of code by hand to directing agents that write most of the code. As...",
+      "source_name": "NVIDIA Developer Blog",
+      "source_url": "https://developer.nvidia.com/blog/code-test-and-deploy-on-one-machine-with-nvidia-rtx-spark/",
+      "published_at": "2026-10-16T17:00:00Z",
+      "category": "mlops",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Apache Spark",
+        "GPUs",
+        "Mlops"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.742,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://developer.nvidia.com/blog/?p=123865"
+    },
+    {
+      "title": "My partner and I don't share a bank account, and we still won't after our wedding",
+      "summary": "My partner and I are getting married soon and keeping finances separate. We never fight about money, and it works for us.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/couple-wont-share-bank-account-finances-marriage-2026-10",
+      "published_at": "2026-10-17T12:09:01Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7418,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/couple-wont-share-bank-account-finances-marriage-2026-10"
+    },
+    {
+      "title": "Encryption Is Getting Squeezed From All Sides",
+      "summary": "Canada’s planned surveillance law is the latest grim step in a series of threats to encryption that are spreading around the world.",
+      "source_name": "Wired",
+      "source_url": "https://www.wired.com/story/kernel-panic-encryption-is-getting-squeezed-from-all-sides/",
+      "published_at": "2026-10-17T12:00:00Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7412,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "6ad1199471ed38e66fe03b98"
+    },
+    {
+      "title": "I'm a career coach for Gen Z workers. Here are some unspoken workplace rules every new hire should know.",
+      "summary": "A career coach breaks down the unspoken workplace rules every Gen Z new hire should know, including how not to casually Slack message the CEO.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/unspoken-workplace-rules-every-gen-z-new-hire-should-know-2026-10",
+      "published_at": "2026-10-17T12:00:01Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7412,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/unspoken-workplace-rules-every-gen-z-new-hire-should-know-2026-10"
+    },
+    {
+      "title": "I downsized from a 3-bedroom to a 2-bedroom when I got married. There's one thing I miss.",
+      "summary": "When I got married, my son and I downsized from our 3-bedroom to my husband's 2-bedroom. I don't regret it, but we miss having a guest room.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/downsized-house-no-guestroom-pros-cons-2026-10",
+      "published_at": "2026-10-17T11:52:01Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7406,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/downsized-house-no-guestroom-pros-cons-2026-10"
+    },
+    {
+      "title": "I was diagnosed with breast cancer a year ago. Please stop calling me a fighter.",
+      "summary": "Breast cancer changed my life. I wish people would stop trying to make it inspirational.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/breast-cancer-survivor-dislikes-fighter-warrior-labels-pinkwashing-2026-10",
+      "published_at": "2026-10-17T11:47:01Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7403,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/breast-cancer-survivor-dislikes-fighter-warrior-labels-pinkwashing-2026-10"
+    },
+    {
+      "title": "Cybercrims go beyond stealing data to attack physical building systems",
+      "summary": "'Hold my beer, have fun getting into your offices'",
+      "source_name": "The Register",
+      "source_url": "https://www.theregister.com/security/2026/10/17/cybercrims-go-beyond-stealing-data-to-attack-physical-building-systems/5303677",
+      "published_at": "2026-10-17T11:30:00Z",
+      "category": "enterprise_technology",
+      "tags": [
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7391,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.theregister.com/a/5303677"
+    },
+    {
+      "title": "The Best LED Grow Lights for Houseplants This Winter (2026)",
+      "summary": "Shorter days don’t have to spell trouble for your houseplants. These are the lights we’ve used and loved in our own homes.",
+      "source_name": "Wired",
+      "source_url": "https://www.wired.com/story/best-led-grow-lights/",
+      "published_at": "2026-10-17T11:30:00Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7391,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "6a739662f380450b82704bb8"
+    },
+    {
+      "title": "What’s new with Google Cloud",
+      "summary": "Want to know the latest from Google Cloud? Find it here in one handy location. Check back regularly for our newest updates, announcements, resources, events, learning opportunities, and more. Tip : Not sure where to find what you’re looking for on the Google Cloud blog? Start here: Google Cloud blog 101: Full list of topics, links, and resources . aside_block <ListValue: []> Oct 12 - Oct 16 AI tokenomics in action: Enforcing tiered token budgets with Apigee Scaling…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
+      "published_at": "2026-10-16T16:00:00Z",
+      "category": "cloud_providers",
+      "tags": [
+        "AI",
+        "Cloud",
+        "Google Cloud",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.92,
+      "importance_score": 0.7379,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/"
+    },
+    {
+      "title": "From Containers to Sandboxes: Developer Trust in the Agentic Era",
+      "summary": "The 2026 Stack Overflow Developer Survey shows only 7% of developers trust AI output for important decisions. Here’s what that means for running agents safely.",
+      "source_name": "Docker Blog",
+      "source_url": "https://www.docker.com/blog/stack-overflow-survey-2026-ai-agent-trust/",
+      "published_at": "2026-10-16T16:00:00Z",
+      "category": "developer_platforms",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Developer Platforms"
+      ],
+      "confidence_score": 0.85,
+      "importance_score": 0.7379,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.docker.com/?p=94981"
+    },
+    {
+      "title": "MALFEX npm Package 'imgdecode' Hides Shellcode Loader in Windows Native Addon",
+      "summary": "Cybersecurity researchers have discovered a malicious npm package that's part of a recently disclosed software supply chain attack campaign dubbed MALFEX. The package, named \"imgdecode,\" was uploaded to the package registry on September 30, 2026, by a user named \"malfexteste8.\" It has been downloaded 979 times as of writing and is still available on npm as of writing. The latest version of",
+      "source_name": "The Hacker News",
+      "source_url": "https://thehackernews.com/2026/10/malfex-npm-package-imgdecode-hides.html",
+      "published_at": "2026-10-17T11:11:56Z",
+      "category": "cybersecurity",
+      "tags": [
+        "Research",
+        "Cybersecurity"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7379,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://thehackernews.com/2026/10/malfex-npm-package-imgdecode-hides.html"
+    },
+    {
+      "title": "Architecting autonomy: A design pattern for high-compute, governed agents in biotech",
+      "summary": "In production systems today, most AI agents operate as lightweight dispatchers. They parse a prompt, make an API call, retrieve a record, and hand back control. Their execution is fast, stateless and cheap. Biotechnology does not work this way. Folding a protein target, screening a 50,000 compound ligand library, or evaluating structure-activity relationships (SAR) are not quick API lookups. They are sustained, stateful, GPU-bound simulations that run for minutes or even…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/topics/healthcare-life-sciences/architecting-scalable-agentic-biotech-workloads/",
+      "published_at": "2026-10-16T16:00:00Z",
+      "category": "cloud_providers",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "GPUs",
+        "APIs",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.92,
+      "importance_score": 0.7379,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/topics/healthcare-life-sciences/architecting-scalable-agentic-biotech-workloads/"
+    },
+    {
+      "title": "Announcing Wiz Runtime Sensor add-on for GKE: Turnkey threat detection for Kubernetes",
+      "summary": "Everything is moving faster in the age of AI, and that includes security threats. What used to take attackers weeks to exploit can now happen in just a few minutes. Standard vulnerability scans that run on artifacts at rest can catch basic setup issues, but to detect an attack that's actively happening you need real-time runtime protection. Today, we’re introducing the Wiz Runtime Sensor add-on for Google Kubernetes Engine (GKE), in preview. This built-in integration brings…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/products/identity-security/wiz-sensor-for-gke-turnkey-threat-detection-for-kubernetes/",
+      "published_at": "2026-10-16T16:00:00Z",
+      "category": "cloud_providers",
+      "tags": [
+        "AI",
+        "Kubernetes",
+        "Security",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.92,
+      "importance_score": 0.7379,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/products/identity-security/wiz-sensor-for-gke-turnkey-threat-detection-for-kubernetes/"
+    },
+    {
+      "title": "Four evaluation engineering lessons learned from building agent plugins",
+      "summary": "The real challenge of building an agentic system isn't the construction, it's the measurement. Evaluation engineering is a critical foundation for building reliable AI systems. Setting up systematic, repeatable tests to measure your agent’s true behavior can be the difference between shipping a tool you can trust and one that silently breaks, fails to call APIs, or makes mistakes. I’ve run evaluation engineering initiatives for years at Google and d eveloping the newly…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/topics/developers-practitioners/four-eval-engineering-lessons/",
+      "published_at": "2026-10-16T16:00:00Z",
+      "category": "cloud_providers",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "APIs",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.92,
+      "importance_score": 0.7379,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/topics/developers-practitioners/four-eval-engineering-lessons/"
+    },
+    {
+      "title": "The SAVE method: Learn the fundamentals to engineer trustworthy generative media",
+      "summary": "Google Cloud Consulting works with organizations every day to build generative media that’s trustworthy, brand-aligned, and stands out. Instead of relying on clever or complicated prompting, we’ve identified four recurring basics to generate consistent results, what we call the “SAVE” method. In this blog, we’ll share more about this method and how you can apply it to your own work. S - Separate the researcher from the storyteller If in a single prompt, if you’re requesting…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/topics/consulting/fundamentals-to-engineer-trustworthy-gen-media/",
+      "published_at": "2026-10-16T16:00:00Z",
+      "category": "cloud_providers",
+      "tags": [
+        "GenAI",
+        "Cloud",
+        "Google Cloud",
+        "Research",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.92,
+      "importance_score": 0.7379,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/topics/consulting/fundamentals-to-engineer-trustworthy-gen-media/"
+    },
+    {
+      "title": "The US Army is growing its space forces. They're already in combat.",
+      "summary": "The Army is expanding its space warfare ranks, with soldiers already deployed in the Middle East and more space troops expected next year.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/us-army-growing-its-own-force-of-space-warfare-soldiers-2026-10",
+      "published_at": "2026-10-17T11:07:01Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7375,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/us-army-growing-its-own-force-of-space-warfare-soldiers-2026-10"
+    },
+    {
+      "title": "Benefit Street Partners answers questions faster with Codex",
+      "summary": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/benefit-street-partners",
+      "published_at": "2026-10-16T00:00:00Z",
+      "category": "ai_model_companies",
+      "tags": [
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.97,
+      "importance_score": 0.7312,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/index/benefit-street-partners"
+    },
+    {
+      "title": "Amazon wants you to Bee-lieve wearable AI can recall it all for you",
+      "summary": "Would you like personalized shopping recommendations based on that conversation you just had?",
+      "source_name": "The Register",
+      "source_url": "https://www.theregister.com/personal-tech/2026/10/17/amazon-wants-you-to-bee-lieve-wearable-ai-can-recall-it-all-for-you/5303569",
+      "published_at": "2026-10-17T09:00:00Z",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7287,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.theregister.com/a/5303569"
+    },
+    {
+      "title": "Hackers Use Compromised ConnectWise Credential to Sign In to 173 Microsoft 365 Tenants",
+      "summary": "Cybersecurity researchers are sounding the alarm related to an active campaign in which unknown threat actors are abusing a compromised Microsoft 365 (M365) credential belonging to ConnectWise Cloud Backup (formerly SkyKick) to gain unauthorized access to customers' M365 environments. ConnectWise Cloud Backup is a cloud-based backup and recovery service built for managed service providers (MSPs",
+      "source_name": "The Hacker News",
+      "source_url": "https://thehackernews.com/2026/10/hackers-use-compromised-connectwise.html",
+      "published_at": "2026-10-17T06:16:46Z",
+      "category": "cybersecurity",
+      "tags": [
+        "Cloud",
+        "Research",
+        "Cybersecurity"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7174,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://thehackernews.com/2026/10/hackers-use-compromised-connectwise.html"
+    },
+    {
+      "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+      "summary": "Listen to the session or watch below Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn’t yet an example of AI-generated life, but that could be next. Watch…",
+      "source_name": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+      "published_at": "2026-10-16T18:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "GenAI",
+        "AI Models",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.6662,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.technologyreview.com/?p=1146224"
+    },
+    {
+      "title": "The next developer interface is ambient intelligence",
+      "summary": "AI, agents, voice, and physical controls are shifting software development from operating tools to expressing intent—and helping developers stay focused on building. The post The next developer interface is ambient intelligence appeared first on The GitHub Blog .",
+      "source_name": "The GitHub Blog",
+      "source_url": "https://github.blog/news-insights/company-news/the-next-developer-interface-is-ambient-intelligence/",
+      "published_at": "2026-10-15T19:39:27Z",
+      "category": "developer_platforms",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Developer Tools",
+        "Developer Platforms"
+      ],
+      "confidence_score": 0.9,
+      "importance_score": 0.6531,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://github.blog/?p=99541"
+    },
+    {
+      "title": "NVIDIA Nemotron 3.5 Super VL Powers Specialized Agents with Multimodal Reasoning",
+      "summary": "Always-on agents are taking on longer, more complex enterprise workflows. A single request can involve reading a document, checking information across sources,...",
+      "source_name": "NVIDIA Developer Blog",
+      "source_url": "https://developer.nvidia.com/blog/nvidia-nemotron-3-5-super-vl-powers-specialized-agents-with-multimodal-reasoning/",
+      "published_at": "2026-10-15T18:01:00Z",
+      "category": "mlops",
+      "tags": [
+        "AI Agents",
+        "GPUs",
+        "Mlops"
+      ],
+      "confidence_score": 0.87,
+      "importance_score": 0.6463,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://developer.nvidia.com/blog/?p=123590"
+    },
+    {
+      "title": "Founders Who Only Date Sequoia",
+      "summary": "YC founders want Sequoia or nothing. Sequoia wrote a $1 billion check to someone else.",
+      "source_name": "AI Secret",
+      "source_url": "https://aisecret.us/founders-who-only-date-sequoia/",
+      "published_at": "2026-10-16T12:30:48Z",
+      "category": "ai_newsletters",
+      "tags": [
+        "Ai Newsletters"
+      ],
+      "confidence_score": 0.62,
+      "importance_score": 0.6433,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "6acdaf7d9f379b89dc575d77"
+    }
+  ]
+}
