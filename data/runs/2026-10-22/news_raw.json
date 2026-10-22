@@ -1,0 +1,833 @@
+{
+  "generated_at": "2026-10-22T18:03:12.529297+00:00",
+  "post_date": "2026-10-22",
+  "sources_checked": 48,
+  "candidates": 45,
+  "items": [
+    {
+      "title": "Salesforce Named a Leader in 2026 Gartner® Magic Quadrant™ for Digital Commerce for the 11th Consecutive Year",
+      "summary": "Salesforce today announced it was positioned as a Leader in the 2026 Gartner® Magic Quadrant™ for Digital Commerce, marking the 11th consecutive year the company has been recognized for its vision and execution in the space. Salesforce was positioned furthest to the right within the quadrant on Completeness of Vision. Commerce Cloud is a leading […]",
+      "source_name": "Salesforce News",
+      "source_url": "https://www.salesforce.com/news/stories/gartner-magic-quadrant-digital-commerce-2026/",
+      "published_at": "2026-10-22T15:00:00+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "Cloud",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.8873,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.salesforce.com/?p=96041"
+    },
+    {
+      "title": "Beyond tree cover: mapping the world’s forest types",
+      "summary": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types.",
+      "source_name": "Google DeepMind",
+      "source_url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
+      "published_at": "2026-10-22T14:30:24+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.99,
+      "importance_score": 0.8853,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/"
+    },
+    {
+      "title": "Filtering and reducing AI agent telemetry with the OpenTelemetry Collector",
+      "summary": "Turn on an AI coding agent’s telemetry and it throws a wall of text at you. It’s expensive to store and what’s worse, you can’t make sense of it. It’s all OpenTelemetry native, though. So you...",
+      "source_name": "CNCF",
+      "source_url": "https://www.cncf.io/blog/2026/10/22/filtering-and-reducing-ai-agent-telemetry-with-the-opentelemetry-collector/",
+      "published_at": "2026-10-22T11:00:00+00:00",
+      "category": "open_source_foundations",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8706,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.cncf.io/?p=176272"
+    },
+    {
+      "title": "Quad9 (DNS Resolver) to Exit France",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://quad9.net/news/blog/au-revoir-france/",
+      "published_at": "2026-10-22T14:32:38+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.8554,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50195959"
+    },
+    {
+      "title": "What's Getting Pwned",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://pwn.watch/",
+      "published_at": "2026-10-22T14:08:12+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.65,
+      "importance_score": 0.8537,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50195543"
+    },
+    {
+      "title": "eMudhra to exit global SSL/TLS certificate business",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business",
+      "published_at": "2026-10-22T13:33:39+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.8513,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50195110"
+    },
+    {
+      "title": "What FDE means at OpenAI",
+      "summary": "What forward deployed engineering means at OpenAI",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/forward-deployed-engineering-means",
+      "published_at": "2026-10-22T06:00:00+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.99,
+      "importance_score": 0.8498,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/index/forward-deployed-engineering-means"
+    },
+    {
+      "title": "Amazon identifies Oct 17 PHP2Shell exploitation prior to public disclosure",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://aws.amazon.com/blogs/security/amazon-threat-intelligence-identifies-php2shell-exploitation-prior-to-public-disclosure-in-madpot/",
+      "published_at": "2026-10-22T11:50:36+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.6595,
+      "importance_score": 0.8441,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50194070"
+    },
+    {
+      "title": "Several Linux kernel vulnerabilities accidentally posted to public mailing list",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.phoronix.com/news/LKML-New-Trend-Vulnerabilities",
+      "published_at": "2026-10-22T11:12:37+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Security",
+        "Hacker News"
+      ],
+      "confidence_score": 0.6605,
+      "importance_score": 0.8415,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50193804"
+    },
+    {
+      "title": "From problem to fix in minutes: Automating search relevance tuning with the Amazon OpenSearch Search Relevance Agent",
+      "summary": "The Amazon OpenSearch Service Search Relevance Agent automates search relevance tuning. You describe a problem in plain language, and the agent investigates your behavioral data, proposes an improved query, and validates it with an offline experiment. This post walks through the agent's architecture and a complete example investigation.",
+      "source_name": "AWS Big Data Blog",
+      "source_url": "https://aws.amazon.com/blogs/big-data/from-problem-to-fix-in-minutes-automating-search-relevance-tuning-with-the-amazon-opensearch-search-relevance-agent/",
+      "published_at": "2026-10-22T17:43:30+00:00",
+      "category": "cloud_providers",
+      "tags": [
+        "AI Agents",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.92,
+      "importance_score": 0.8387,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "aaf8f3e5ccbb9cae100d01eafac9d1b4258d7e77"
+    },
+    {
+      "title": "Google cleared 300 hectares of Finnish forest",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.techspot.com/news/114100-google-cleared-300-hectares-finnish-forest-data-center.html",
+      "published_at": "2026-10-22T15:32:46+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.6415,
+      "importance_score": 0.8383,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50196837"
+    },
+    {
+      "title": "Security Update on PHP2Shell: Impact for Docker Customers",
+      "summary": "On Tuesday, October 20, 2026, Docker began tracking two critical vulnerabilities in PHP, CVE-2026-109618 and CVE-2026-109619, commonly known as PHP2Shell.",
+      "source_name": "Docker Blog",
+      "source_url": "https://www.docker.com/blog/security-update-on-php2shell-impact-for-docker-customers/",
+      "published_at": "2026-10-22T17:22:47+00:00",
+      "category": "developer_platforms",
+      "tags": [
+        "Containers",
+        "Security",
+        "Developer Platforms"
+      ],
+      "confidence_score": 0.87,
+      "importance_score": 0.8372,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.docker.com/?p=95191"
+    },
+    {
+      "title": "How bug bounty sharpens one researcher’s security skills",
+      "summary": "As Cybersecurity Awareness Month continues, the GitHub Bug Bounty team spotlights @r31n, diving into their research approach, favorite bug classes, and advice for aspiring hackers. The post How bug bounty sharpens one researcher’s security skills appeared first on The GitHub Blog .",
+      "source_name": "The GitHub Blog",
+      "source_url": "https://github.blog/security/how-bug-bounty-sharpens-one-researchers-security-skills/",
+      "published_at": "2026-10-22T17:21:30+00:00",
+      "category": "developer_platforms",
+      "tags": [
+        "Security",
+        "Developer Tools",
+        "Research",
+        "Developer Platforms"
+      ],
+      "confidence_score": 0.92,
+      "importance_score": 0.8371,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://github.blog/?p=99645"
+    },
+    {
+      "title": "How to Read Data into GPU Memory in Python with NVIDIA GPUDirect Storage",
+      "summary": "GPU applications are processing ever-growing datasets with increasingly powerful accelerators. According to the 2025 Stanford AI Index, compute for notable AI...",
+      "source_name": "NVIDIA Developer Blog",
+      "source_url": "https://developer.nvidia.com/blog/how-to-read-data-into-gpu-memory-in-python-with-nvidia-gpudirect-storage/",
+      "published_at": "2026-10-22T16:39:09+00:00",
+      "category": "mlops",
+      "tags": [
+        "AI",
+        "GPUs",
+        "Python",
+        "Mlops"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8342,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://developer.nvidia.com/blog/?p=123962"
+    },
+    {
+      "title": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
+      "summary": "",
+      "source_name": "Hugging Face",
+      "source_url": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
+      "published_at": "2026-10-22T16:11:31+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.9,
+      "importance_score": 0.8323,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://huggingface.co/blog/allenai/olmoearth-v1-3"
+    },
+    {
+      "title": "Introducing new self-learning context enrichment in Knowledge Catalog",
+      "summary": "Today, we’re launching self-learning context enrichment (preview) and a reimagined Knowledge Studio experience (preview) in Knowledge Catalog , Google Cloud’s context engine for agents. Building on Knowledge Catalog's existing Gemini-powered enrichment, self-learning enrichment analyzes agent and user interactions to find gaps and keep your business context accurate and current. Knowledge Studio is the new command center for context engineers and data stewards to explore…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/products/data-analytics/knowledge-catalog-self-learning-context-enrichment-for-ai-agents/",
+      "published_at": "2026-10-22T16:00:00+00:00",
+      "category": "cloud_providers",
+      "tags": [
+        "AI Agents",
+        "Cloud",
+        "Google Cloud",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.8315,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/products/data-analytics/knowledge-catalog-self-learning-context-enrichment-for-ai-agents/"
+    },
+    {
+      "title": "Running Frontier-Class AI Models Across 8 NVIDIA DGX Spark Nodes",
+      "summary": "AI developers aren’t just running a single model anymore—they’re orchestrating multiple models in parallel, chaining inference calls, and experimenting...",
+      "source_name": "NVIDIA Developer Blog",
+      "source_url": "https://developer.nvidia.com/blog/running-frontier-class-ai-models-across-8-nvidia-dgx-spark-nodes/",
+      "published_at": "2026-10-22T16:00:00+00:00",
+      "category": "mlops",
+      "tags": [
+        "AI",
+        "Apache Spark",
+        "GPUs",
+        "AI Models",
+        "Mlops"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8315,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://developer.nvidia.com/blog/?p=123934"
+    },
+    {
+      "title": "Jailbreaking the Switch 2",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/",
+      "published_at": "2026-10-22T08:01:52+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.8282,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50192536"
+    },
+    {
+      "title": "NVIDIA Unveils Minerva to Bring End-to-End Observability for AI Factories",
+      "summary": "Launched today, NVIDIA Minerva is an AIOps platform built to help teams find problems earlier and keep AI factories productive. It brings together telemetry from infrastructure and AI workloads, then applies purpose-built AI models to turn that data into timely, actionable insight. AI factories are among the most complex operations in the world, with vast […]",
+      "source_name": "NVIDIA Blog",
+      "source_url": "https://blogs.nvidia.com/blog/minerva-platform-infrastructure/",
+      "published_at": "2026-10-22T15:00:02+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "GPUs",
+        "AI Models",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8273,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://blogs.nvidia.com/?p=99404"
+    },
+    {
+      "title": "Uber brings ChatGPT Work to all employees with OpenAI",
+      "summary": "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows.",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/uber-chatgpt-work-rollout",
+      "published_at": "2026-10-22T00:00:00+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "Research",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.99,
+      "importance_score": 0.8248,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/index/uber-chatgpt-work-rollout"
+    },
+    {
+      "title": "Inside Agent Compute Engine: Building the compute foundation for the agentic era",
+      "summary": "Every decade or so, a shift in software forces us to rethink computer architecture from first principles. After the first boom of web-scale traffic, Google pioneered warehouse-scale computing and Linux containers on Borg. This reshaped how we run internal workloads and ultimately sparked the modern cloud-native ecosystem through Kubernetes. A decade later, when deep learning models outgrew their compute and power needs, we went back to the drawing board and created Tensor…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/topics/ai-infrastructure/agent-compute-engine-deep-dive/",
+      "published_at": "2026-10-22T13:00:00+00:00",
+      "category": "cloud_providers",
+      "tags": [
+        "AI Agents",
+        "Apache Spark",
+        "Kubernetes",
+        "Cloud",
+        "AI Models",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.819,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/topics/ai-infrastructure/agent-compute-engine-deep-dive/"
+    },
+    {
+      "title": "Cloud Deployment Incoming: ‘Call of Duty: Modern Warfare 4’ Arrives on GeForce NOW",
+      "summary": "Lock in and load out this GFN Thursday. Call of Duty: Modern Warfare 4 arrives on GeForce NOW at launch, bringing a new campaign, multiplayer action and DMZ, high-stakes extraction mode to supported devices. The campaign also gets an enhanced look: GeForce RTX 5080-class performance arrives for Ultimate members, bringing support for ray-tracing features in […]",
+      "source_name": "NVIDIA Blog",
+      "source_url": "https://blogs.nvidia.com/blog/geforce-now-thursday-call-of-duty-modern-warfare-4/",
+      "published_at": "2026-10-22T13:00:20+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "Cloud",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.819,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://blogs.nvidia.com/?p=99414"
+    },
+    {
+      "title": "ActiveState Partners with Docker to Secure the Open Source in Enterprise Containers",
+      "summary": "Container security spans the image, build, and runtime. See the practical steps that shrink your attack surface and keep vulnerabilities out of production.",
+      "source_name": "Docker Blog",
+      "source_url": "https://www.docker.com/blog/docker-activestate-partnership/",
+      "published_at": "2026-10-22T11:30:00+00:00",
+      "category": "developer_platforms",
+      "tags": [
+        "Containers",
+        "Open Source",
+        "Security",
+        "Developer Platforms"
+      ],
+      "confidence_score": 0.87,
+      "importance_score": 0.8127,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.docker.com/?p=95131"
+    },
+    {
+      "title": "Broad access through consistent standards",
+      "summary": "How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies.",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/broad-access-through-consistent-standards",
+      "published_at": "2026-10-21T21:00:00+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.99,
+      "importance_score": 0.8123,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/index/broad-access-through-consistent-standards"
+    },
+    {
+      "title": "The recently proposed o(n log n) integer multiplication algorithm [pdf]",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf",
+      "published_at": "2026-10-22T02:30:52+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.695,
+      "importance_score": 0.8053,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50190455"
+    },
+    {
+      "title": "WorldTUI: I trained a 360M model to pretend to be a terminal",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://simedw.com/2026/10/21/world-model-terminal/",
+      "published_at": "2026-10-22T02:18:41+00:00",
+      "category": "aggregators",
+      "tags": [
+        "AI Models",
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.8044,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50190363"
+    },
+    {
+      "title": "Ensemble forecasting with IBM Granite time-series models",
+      "summary": "",
+      "source_name": "Hugging Face",
+      "source_url": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
+      "published_at": "2026-10-22T07:51:31+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI Models",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.9,
+      "importance_score": 0.7975,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1"
+    },
+    {
+      "title": "Physicist Christopher Stubbs joins Anthropic's Long-Term Benefit Trust",
+      "summary": "Physicist Christopher Stubbs joins Anthropic's Long-Term Benefit Trust Anthropic",
+      "source_name": "Anthropic",
+      "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbHVFZTRuSG1Cam5rQllpVVRvVkItRnZwVVlWODVDWU54Vm5jMzA0M1dza09rT1kxbFNTbGVYWWtmdmVGdzQxUjJ0SkczUWFBd3l5MUFWSlN4dWc4Y0FDc1F4S2c0TGNyUGVESUo1MGJpR0VfVXdDYXhDUXNadkRob0ZuVkotUQ?oc=5",
+      "published_at": "2026-10-21T17:25:01+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.97,
+      "importance_score": 0.7974,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "CBMihgFBVV95cUxQbHVFZTRuSG1Cam5rQllpVVRvVkItRnZwVVlWODVDWU54Vm5jMzA0M1dza09rT1kxbFNTbGVYWWtmdmVGdzQxUjJ0SkczUWFBd3l5MUFWSlN4dWc4Y0FDc1F4S2c0TGNyUGVESUo1MGJpR0VfVXdDYXhDUXNadkRob0ZuVkotUQ"
+    },
+    {
+      "title": "How AT&T is rethinking in-house legal work with OpenAI",
+      "summary": "AT&T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment.",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/att-legal",
+      "published_at": "2026-10-21T17:00:00+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.97,
+      "importance_score": 0.7956,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/index/att-legal"
+    },
+    {
+      "title": "Faster than earcut: triangulating 3.7M map polygons in 489 ms",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://globus.software/blog/2026/10/16/cutting-map-polygons/",
+      "published_at": "2026-10-22T09:31:18+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.6315,
+      "importance_score": 0.7883,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50193170"
+    },
+    {
+      "title": "Security Disclosure",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
+      "published_at": "2026-10-21T21:58:03+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Security",
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7863,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50188228"
+    },
+    {
+      "title": "Leading European Financial Services Organizations Embrace Open Models to Build Proprietary Intelligence",
+      "summary": "At GTC Berlin, banks, payment companies and financial data providers are showing what production-scale intelligence looks like — built on NVIDIA accelerated computing, powered by open weight models and running on their own infrastructure. Revolut is rebuilding its technology stack on a single foundation model PRAGMA, powered by NVIDIA accelerated computing. Using the NVIDIA cuDF […]",
+      "source_name": "NVIDIA Blog",
+      "source_url": "https://blogs.nvidia.com/blog/european-financial-services-organizations-open-models-proprietary-intelligence/",
+      "published_at": "2026-10-22T05:00:56+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "GPUs",
+        "AI Models",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.7857,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://blogs.nvidia.com/?p=99173"
+    },
+    {
+      "title": "NVIDIA Cosmos Opens New Tools to Train, Evaluate and Deploy World Models",
+      "summary": "To help developers rapidly build world models, which help physical AI systems understand and simulate the real world, NVIDIA has expanded the Cosmos platform with new training tools, simulation checkpoints and Cosmos Data Factory blueprints. Ranking top five on six different open models leaderboards, the NVIDIA Cosmos platform gives world model builders the frontier open […]",
+      "source_name": "NVIDIA Blog",
+      "source_url": "https://blogs.nvidia.com/blog/cosmos-open-train-evaluate-deploy-world-models/",
+      "published_at": "2026-10-22T05:00:27+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "GPUs",
+        "AI Models",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.7857,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://blogs.nvidia.com/?p=99128"
+    },
+    {
+      "title": "How Companies Are Using NVIDIA DSX to Break the Power Bottleneck",
+      "summary": "Companies around the world are building on the NVIDIA DSX AI Factory Platform to plan, simulate and run the grid and the AI factory as one system, from the substation to the rack. Their adoption of the platform responds to an acute problem. Power is now the biggest bottleneck in infrastructure. More than $300 billion […]",
+      "source_name": "NVIDIA Blog",
+      "source_url": "https://blogs.nvidia.com/blog/dsx-power/",
+      "published_at": "2026-10-22T05:00:25+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "GPUs",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.7857,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://blogs.nvidia.com/?p=99155"
+    },
+    {
+      "title": "Before you evaluate an AI SRE, give your existing agent context",
+      "summary": "If you’re evaluating AI SRE products, you probably own most of one already. The coding agent your engineers use, whether that’s Claude Code, Codex or Cursor, can already investigate a Kubernetes cluster. What it usually lacks...",
+      "source_name": "CNCF",
+      "source_url": "https://www.cncf.io/blog/2026/10/21/before-you-evaluate-an-ai-sre-give-your-existing-agent-context/",
+      "published_at": "2026-10-21T11:00:00+00:00",
+      "category": "open_source_foundations",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Kubernetes",
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.87,
+      "importance_score": 0.7706,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.cncf.io/?p=176269"
+    },
+    {
+      "title": "Only 10 artists have topped the Billboard chart with 10 different albums — here they all are",
+      "summary": "The Beatles have the most No. 1 albums in Billboard 200 history. Taylor Swift and Drake are tied for second place.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/artists-with-most-no-1-albums-billboard-200-chart",
+      "published_at": "2026-10-22T17:43:47+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7587,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/artists-with-most-no-1-albums-billboard-200-chart"
+    },
+    {
+      "title": "Working one job isn't always enough. Gen Zers and millennials are taking on side hustles and freelance work.",
+      "summary": "Gen Z and millennials have earned money from side hustles or other work outside their primary job, largely because they need to, rather than for fun.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/gen-z-millennials-side-hustles-gig-economy-2026-10",
+      "published_at": "2026-10-22T17:27:17+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7575,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/gen-z-millennials-side-hustles-gig-economy-2026-10"
+    },
+    {
+      "title": "Meta Ordered to Pay $25 Billion After Court Finds 43 Million Privacy Violations",
+      "summary": "Social media giant Meta was ordered to pay 25 billion in penalties by a New Mexico court on Wednesday as part of a data privacy lawsuit that sprang from the company's Cambridge Analytica data scandal, which came to light in 2018. According to multiple reports from the Associated Press, the New York Times, Reuters, and the Wall Street Journal, state District Court Judge Francis J. Mathew called",
+      "source_name": "The Hacker News",
+      "source_url": "https://thehackernews.com/2026/10/meta-ordered-to-pay-25-billion-after.html",
+      "published_at": "2026-10-22T16:12:31+00:00",
+      "category": "cybersecurity",
+      "tags": [
+        "Cybersecurity"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7523,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://thehackernews.com/2026/10/meta-ordered-to-pay-25-billion-after.html"
+    },
+    {
+      "title": "INTERPOL Arrests 1,462 Suspects, Disrupts 10,909 Cybercrime Networks in Global Crackdown",
+      "summary": "INTERPOL on Thursday announced that a coordinated law enforcement action has disrupted 10,909 malicious networks and recovered more than $105 million in illicit funds. In tandem, the effort saw law enforcement agencies from 21 countries arrest 1,462 suspects. Codenamed Operation Serengeti III, the cybercrime crackdown took place between June 29 and August 31, 2026. \"Authorities identified",
+      "source_name": "The Hacker News",
+      "source_url": "https://thehackernews.com/2026/10/interpol-arrests-1462-suspects-disrupts.html",
+      "published_at": "2026-10-22T13:38:22+00:00",
+      "category": "cybersecurity",
+      "tags": [
+        "Cybersecurity"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7416,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://thehackernews.com/2026/10/interpol-arrests-1462-suspects-disrupts.html"
+    },
+    {
+      "title": "Navalia: Advancing Cowork Agents through Verifiable Task Synthesis and Long-Horizon Post-Training",
+      "summary": "arXiv:2610.26887v1 Announce Type: new Abstract: Large language model (LLM) agents are evolving from conversational assistants into Cowork Agents capable of autonomous planning, tool use, and complex task execution. Financial analysis requires these agents to integrate cross-document evidence and perform multistep numerical reasoning, but expert task authoring is costly, while direct LLM synthesis struggles to produce challenging tasks with reliable answers. We introduce…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2610.26887",
+      "published_at": "2026-10-22T04:00:00+00:00",
+      "category": "research_feeds",
+      "tags": [
+        "LLMs",
+        "AI Agents",
+        "AI Models",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7415,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2610.26887v1"
+    },
+    {
+      "title": "Large language model and reinforcement learning based autonomous construction and progress updates",
+      "summary": "arXiv:2610.26899v1 Announce Type: new Abstract: Due to the rapid growth of the global population, traditional construction methods are gradually unable to meet the current housing demand. The advancement of machine learning algorithms has encouraged researchers to explore their applications in the construction industry, leading to more intelligent and efficient building processes. In particular, the rise of large language models in recent years has provided more…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2610.26899",
+      "published_at": "2026-10-22T04:00:00+00:00",
+      "category": "research_feeds",
+      "tags": [
+        "Machine Learning",
+        "LLMs",
+        "AI Models",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7415,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2610.26899v1"
+    },
+    {
+      "title": "Conflicted Records: Typed Adversarial Contracts for Auditable LLM Output Quality Enforcement",
+      "summary": "arXiv:2610.29669v1 Announce Type: new Abstract: LLM-generated records increasingly populate production information systems where they are treated as data assets subject to the same quality expectations as records from operational databases. A single such record can simultaneously satisfy and violate a quality rule: a grounded fact adjacent to a hallucination, a useful answer adjacent to a stereotype. Classical data cleaning cannot resolve this because the two judgments are…",
+      "source_name": "arXiv cs.DB (Databases)",
+      "source_url": "https://arxiv.org/abs/2610.29669",
+      "published_at": "2026-10-22T04:00:00+00:00",
+      "category": "databases",
+      "tags": [
+        "LLMs",
+        "Databases",
+        "Research"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7415,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2610.29669v1"
+    },
+    {
+      "title": "WaRP: Workload-Aware Request Planning for Vector Retrieval on Object Storage",
+      "summary": "arXiv:2610.29689v1 Announce Type: new Abstract: Modern vector search systems keep payload vectors in cloud object storage and only a compact routing index on fast local storage, typically using cluster-based ANN indexes. This design inherits a problem existing systems do not address. On object storage, small Range-GETs have latency dominated by fixed per-request overhead and are billed per request. Existing readers either issue one request per probed cluster, or coalesce…",
+      "source_name": "arXiv cs.DB (Databases)",
+      "source_url": "https://arxiv.org/abs/2610.29689",
+      "published_at": "2026-10-22T04:00:00+00:00",
+      "category": "databases",
+      "tags": [
+        "Cloud",
+        "Vector Databases",
+        "Research",
+        "Databases"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7415,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2610.29689v1"
+    },
+    {
+      "title": "OpenClaw's Creator Burns $10M a Month",
+      "summary": "Plus: Humans Were the Bug, Giants Wants Free Chatters to Pay",
+      "source_name": "AI Secret",
+      "source_url": "https://aisecret.us/openclaws-creator-burns-10m-a-month/",
+      "published_at": "2026-10-22T12:30:56+00:00",
+      "category": "ai_newsletters",
+      "tags": [
+        "Ai Newsletters"
+      ],
+      "confidence_score": 0.64,
+      "importance_score": 0.7369,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "6ad969639f379b89dc7fa29f"
+    },
+    {
+      "title": "Anthropic turns Claude into a proactive assistant",
+      "summary": "Anthropic turns Claude into a proactive assistant Superhuman AI",
+      "source_name": "Superhuman (Zain Kahn)",
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPa2pvQnd0YzRsUWNRcl9sT3ZSemhpRUtkbUl6Q2VLenc0allydzhlWGtfaDl3S1k3enZWRnVQVWYwRXJhV2Nrdm1xc0x1QTBYTV9lYnpOQXZBaEg0Vk5jMlZSVUFSVzdWNjF1eGZuOVAyUHdSZGpNVlFNRlhGT3dkZmc3ZXFpQ0RVSDFpeC1vVDhKWWlDMmFmYWZJMkVwb2JJcGtHNVlvLVhXNUJBQXRoOEdoVENwYVVNemVFVndOSXpGNk9kWGc4?oc=5",
+      "published_at": "2026-10-22T12:14:31+00:00",
+      "category": "ai_newsletters",
+      "tags": [
+        "AI",
+        "Ai Newsletters"
+      ],
+      "confidence_score": 0.64,
+      "importance_score": 0.7358,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "CBMixwFBVV95cUxPa2pvQnd0YzRsUWNRcl9sT3ZSemhpRUtkbUl6Q2VLenc0allydzhlWGtfaDl3S1k3enZWRnVQVWYwRXJhV2Nrdm1xc0x1QTBYTV9lYnpOQXZBaEg0Vk5jMlZSVUFSVzdWNjF1eGZuOVAyUHdSZGpNVlFNRlhGT3dkZmc3ZXFpQ0RVSDFpeC1vVDhKWWlDMmFmYWZJMkVwb2JJcGtHNVlvLVhXNUJBQXRoOEdoVENwYVVNemVFVndOSXpGNk9kWGc4"
+    }
+  ]
+}
