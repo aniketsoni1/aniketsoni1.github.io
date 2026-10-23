@@ -220,32 +220,32 @@ peer_review:
     - { text: "Your expert review comments, constructive feedback, and technical insights significantly enhanced the quality of the conference proceedings and helped maintain high academic standards.", by: "Organizing Committee, I5CPS 2026, National Institute of Technology Puducherry" }
   # `year` = year the reviews were completed (feeds the Achievement Timeline).
   venues:
-    - { name: "IEEE INDICON 2026", org: "23rd IEEE India Council International Conference · IEEE Madras Section", papers: 4, year: 2026, geo: IN }
-    - { name: "IEEE PuneCon 2026", org: "IEEE Pune Section International Conference", papers: 4, year: 2026, geo: IN }
-    - { name: "IEEE CSNT 2027", org: "16th IEEE Intl. Conf. on Communication Systems and Network Technologies", papers: 1, year: 2026, geo: IN }
-    - { name: "IEEE ICTMOD 2026", org: "8th IEEE Intl. Conf. on Technology Management, Operations and Decisions · Paris, France", papers: 1, year: 2026, geo: FR }
-    - { name: "MAESTRO 2026", org: "Intl. Conf. on Microwave, Antenna and Engineering Systems Technologies Research Outlook · Universiti Teknologi MARA, Malaysia", papers: 1, year: 2026, geo: MY }
-    - { name: "ETNCC 2026", org: "IEEE-sponsored Intl. Conf. on Emerging Trends in Networks and Computer Communications · Windhoek, Namibia", papers: 1, year: 2026, geo: NA }
-    - { name: "IEEE CICN 2026", org: "18th IEEE Intl. Conf. on Computational Intelligence and Communication Networks · Manila, Philippines", papers: 1, year: 2026, geo: PH }
-    - { name: "IEEE IATMSI 2026", org: "4th IEEE Intl. Conf. on Interdisciplinary Approaches in Technology and Management for Social Innovation · ABV-IIITM Gwalior", papers: 2, year: 2026, geo: IN }
-    - { name: "I5CPS 2026", org: "Intl. Conf. on Computing, Communication, Control and Cyber-Physical Systems · NIT Puducherry · IEEE Madras Section co-sponsored", papers: 2, year: 2026, geo: IN }
-    - { name: "IEEE MPCON 2026", org: "IEEE Madhya Pradesh Section Conference · Gwalior", papers: 2, year: 2026, geo: IN }
-    - { name: "IEEE SysCon 2026", org: "IEEE International Systems Conference · Halifax, Canada", papers: 5, year: [2025, 2026], geo: CA }
-    - { name: "IEEE EDUCON 2026", org: "IEEE Global Engineering Education Conference · Cairo, Egypt", papers: 1, year: 2025, geo: EG }
-    - { name: "AGRETA 2025", org: "IEEE Intl. Conf. on Agrosystem Engineering, Technology and Applications · Shah Alam, Malaysia", papers: 9, year: 2025, geo: MY }
-    - { name: "ICETEG 2025", org: "Intl. Conf. on Emerging Technologies in Electronics and Green Energy · JSS Science and Technology University, Mysuru", papers: 6, year: 2025, geo: IN }
-    - { name: "RCAAI 2025", org: "IEEE conference · Manipal Academy of Higher Education", papers: 5, year: 2025, geo: IN }
-    - { name: "IEEE PuneCon 2025", org: "IEEE Pune Section International Conference · Savitribai Phule Pune University", papers: 5, year: 2025, geo: IN }
-    - { name: "IEEE ICTMOD 2025", org: "7th IEEE Intl. Conf. on Technology Management, Operations and Decisions · Glasgow, Scotland", papers: 4, year: 2025, geo: GB }
-    - { name: "IEEE CICN 2025", org: "17th IEEE Intl. Conf. on Computational Intelligence and Communication Networks · Goa", papers: 3, year: 2025, geo: IN }
-    - { name: "ICoMMS 2025", org: "9th Intl. Conf. on Man-Machine Systems · Universiti Malaysia Perlis", papers: 3, year: 2025, geo: MY }
-    - { name: "IEEE NMITCON 2025", org: "3rd IEEE Intl. Conf. on Networks, Multimedia and Information Technology · NMIT, Bengaluru", papers: 2, year: 2025, geo: IN }
-    - { name: "ICoABCD 2025", org: "3rd Intl. Conf. on Artificial Intelligence, Blockchain, Cloud Computing and Data Analytics · Lombok, Indonesia", papers: 2, year: 2025, geo: ID }
-    - { name: "IEEE ISWTA 2025", org: "9th IEEE Symposium on Wireless Technology and Applications · Penang, Malaysia", papers: 2, year: 2025, geo: MY }
-    - { name: "SSITCON 2025", org: "2nd Intl. Conf. on Software, Systems and Information Technology · Tumakuru", papers: 1, year: 2025, geo: IN }
-    - { name: "FIRE 2025", org: "Forum for Information Retrieval Evaluation · shared-task track · IIT (BHU) Varanasi", papers: 1, year: 2025, geo: IN }
-    - { name: "IEEE IC3IT 2025", org: "IEEE Intl. Conf. on Communication, Computer and Information Technology · Mysuru Royal Institute of Technology", papers: 1, year: 2025, geo: IN }
-    - { name: "PREreview", org: "Open community preprint reviews (one structured, one collaborative) · biomedical and clinical machine learning", note: "3 open reviews", year: 2025, open: true, geo: WW }
+    - { name: "IEEE INDICON 2026", org: "23rd IEEE India Council International Conference · IEEE Madras Section", where: "Chennai, India", papers: 4, year: 2026, geo: IN }
+    - { name: "IEEE PuneCon 2026", org: "IEEE Pune Section International Conference · DES Pune University", where: "Pune, India", papers: 4, year: 2026, geo: IN }
+    - { name: "IEEE CSNT 2027", org: "16th IEEE Intl. Conf. on Communication Systems and Network Technologies", where: "Gwalior / Khajuraho, India", papers: 1, year: 2026, geo: IN }
+    - { name: "IEEE ICTMOD 2026", org: "8th IEEE Intl. Conf. on Technology Management, Operations and Decisions", where: "Paris, France", papers: 1, year: 2026, geo: FR }
+    - { name: "MAESTRO 2026", org: "Intl. Conf. on Microwave, Antenna and Engineering Systems Technologies Research Outlook · Universiti Teknologi MARA (virtual)", where: "Shah Alam, Malaysia", papers: 1, year: 2026, geo: MY }
+    - { name: "ETNCC 2026", org: "IEEE-sponsored Intl. Conf. on Emerging Trends in Networks and Computer Communications", where: "Windhoek, Namibia", papers: 1, year: 2026, geo: NA }
+    - { name: "IEEE CICN 2026", org: "18th IEEE Intl. Conf. on Computational Intelligence and Communication Networks · Philippine Women's University", where: "Manila, Philippines", papers: 1, year: 2026, geo: PH }
+    - { name: "IEEE IATMSI 2026", org: "4th IEEE Intl. Conf. on Interdisciplinary Approaches in Technology and Management for Social Innovation · ABV-IIITM", where: "Gwalior, India", papers: 2, year: 2026, geo: IN }
+    - { name: "I5CPS 2026", org: "Intl. Conf. on Computing, Communication, Control and Cyber-Physical Systems · NIT Puducherry · IEEE Madras Section co-sponsored", where: "Karaikal, India", papers: 2, year: 2026, geo: IN }
+    - { name: "IEEE MPCON 2026", org: "IEEE Madhya Pradesh Section Conference · RJIT, BSF Academy", where: "Gwalior, India", papers: 2, year: 2026, geo: IN }
+    - { name: "IEEE SysCon 2026", org: "IEEE International Systems Conference", where: "Halifax, Canada", papers: 5, year: [2025, 2026], geo: CA }
+    - { name: "IEEE EDUCON 2026", org: "IEEE Global Engineering Education Conference", where: "Cairo, Egypt", papers: 1, year: 2025, geo: EG }
+    - { name: "AGRETA 2025", org: "IEEE Intl. Conf. on Agrosystem Engineering, Technology and Applications", where: "Shah Alam, Malaysia", papers: 9, year: 2025, geo: MY }
+    - { name: "ICETEG 2025", org: "Intl. Conf. on Emerging Technologies in Electronics and Green Energy · JSS Science and Technology University", where: "Mysuru, India", papers: 6, year: 2025, geo: IN }
+    - { name: "RCAAI 2025", org: "Intl. Conf. on Robotics, Control, Automation and Artificial Intelligence · Manipal Institute of Technology, MAHE", where: "Manipal, India", papers: 5, year: 2025, geo: IN }
+    - { name: "IEEE PuneCon 2025", org: "IEEE Pune Section International Conference · Savitribai Phule Pune University", where: "Pune, India", papers: 5, year: 2025, geo: IN }
+    - { name: "IEEE ICTMOD 2025", org: "7th IEEE Intl. Conf. on Technology Management, Operations and Decisions", where: "Glasgow, United Kingdom", papers: 4, year: 2025, geo: GB }
+    - { name: "IEEE CICN 2025", org: "17th IEEE Intl. Conf. on Computational Intelligence and Communication Networks", where: "Goa, India", papers: 3, year: 2025, geo: IN }
+    - { name: "ICoMMS 2025", org: "9th Intl. Conf. on Man-Machine Systems · Universiti Malaysia Perlis", where: "Malacca, Malaysia", papers: 3, year: 2025, geo: MY }
+    - { name: "IEEE NMITCON 2025", org: "3rd IEEE Intl. Conf. on Networks, Multimedia and Information Technology · NMIT", where: "Bengaluru, India", papers: 2, year: 2025, geo: IN }
+    - { name: "ICoABCD 2025", org: "3rd Intl. Conf. on Artificial Intelligence, Blockchain, Cloud Computing and Data Analytics", where: "Lombok, Indonesia", papers: 2, year: 2025, geo: ID }
+    - { name: "IEEE ISWTA 2025", org: "9th IEEE Symposium on Wireless Technology and Applications", where: "Penang, Malaysia", papers: 2, year: 2025, geo: MY }
+    - { name: "SSITCON 2025", org: "2nd Intl. Conf. on Software, Systems and Information Technology", where: "Tumakuru, India", papers: 1, year: 2025, geo: IN }
+    - { name: "FIRE 2025", org: "Forum for Information Retrieval Evaluation · shared-task track · IIT (BHU)", where: "Varanasi, India", papers: 1, year: 2025, geo: IN }
+    - { name: "IEEE IC3IT 2025", org: "IEEE Intl. Conf. on Communication, Computer and Information Technology · Mysuru Royal Institute of Technology", where: "Mandya, India", papers: 1, year: 2025, geo: IN }
+    - { name: "PREreview", org: "Open community preprint reviews (one structured, one collaborative) · biomedical and clinical machine learning", where: "Online", note: "3 open reviews", year: 2025, open: true, geo: WW }
 
 # ── 03 · Professional Memberships ────────────────────────────────────
 memberships:

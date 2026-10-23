@@ -401,10 +401,10 @@
         </div>
         <p class="pf-card-sum">{{ P.peer_review.summary }}</p>
         <table class="pf-table">
-          <thead><tr><th scope="col">Venue</th><th scope="col">Organization</th><th scope="col">Reviews</th></tr></thead>
+          <thead><tr><th scope="col">Venue</th><th scope="col">Organization</th><th scope="col">Location</th><th scope="col">Reviews</th></tr></thead>
           <tbody>
             {%- for v in P.peer_review.venues %}
-            <tr><td>{{ v.name }}</td><td>{{ v.org }}</td><td>{% if v.papers %}{{ v.papers }}{% else %}{{ v.note }}{% endif %}</td></tr>
+            <tr><td>{{ v.name }}</td><td>{{ v.org }}</td><td class="pf-loc">{{ v.where }}</td><td>{% if v.papers %}{{ v.papers }}{% else %}{{ v.note }}{% endif %}</td></tr>
             {%- endfor %}
           </tbody>
         </table>
@@ -461,7 +461,7 @@
           {%- for g in page.map.groups -%}
             {%- if g.source == 'peer_review' %}{% assign src = P.peer_review.venues %}{% else %}{% assign src = P[g.source] %}{% endif -%}
             {%- for it in src -%}{%- for x in it.geo -%}{%- if x == c %}
-            <li><i class="m-{{ g.key }}"></i><span class="pf-map-k">{{ g.label }}</span> {{ it.title | default: it.name }}{% if it.org %} <em>· {{ it.org }}</em>{% endif %}</li>
+            <li><i class="m-{{ g.key }}"></i><span class="pf-map-k">{{ g.label }}</span> {{ it.title | default: it.name }}{% if it.org %} <em>· {{ it.org }}</em>{% endif %}{% if it.where %} <em>· {{ it.where }}</em>{% endif %}</li>
             {%- endif -%}{%- endfor -%}{%- endfor -%}
           {%- endfor %}
           </ul>
@@ -477,6 +477,7 @@
           {%- for it in src -%}{%- if it.geo -%}
             {%- if g.key == 'peer' -%}
               {%- if it.papers %}{% capture det %}{{ it.papers }} review{% if it.papers != 1 %}s{% endif %}{% endcapture %}{% else %}{% assign det = it.note %}{% endif -%}
+              {%- if it.where %}{% assign det = it.where | append: " · " | append: det %}{% endif -%}
               {%- assign url = '#judging' -%}
             {%- else -%}
               {%- assign det = it.date -%}
