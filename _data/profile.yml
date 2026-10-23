@@ -68,12 +68,12 @@ stats:
   h_scholar: "4"
   h_rg: "5"
   papers: "7"                  # peer-reviewed conference papers listed on the site
-  peer_reviews: "62"           # completed reviews, each backed by a completion record or certificate
-  peer_venues: "23"            # conference editions reviewed for (PREreview listed separately)
+  peer_reviews: "70"           # completed reviews, each backed by a completion record or certificate
+  peer_venues: "25"            # conference editions reviewed for (PREreview listed separately)
   books: "1"
   interviews: "2"             # published interviews about Aniket
   bylines: "4"                # expert articles authored by Aniket
-  judging_appointments: "29"  # MIT 4 rounds, Neal 3, I-COM, Anthem, BIG 10 editions, Globee 2, hackathons 4, program committees 3, IEEE Senior Member review panel 1
+  judging_appointments: "30"  # MIT 4 rounds, Neal 3, I-COM, Anthem, BIG 10 editions, Globee 2, hackathons 5, program committees 3, IEEE Senior Member review panel 1
 
 # Profile metric strip (values come from `stats` above).
 metrics:
@@ -143,14 +143,14 @@ judging:
     kind: "Industry awards"
     summary: "Served on the official jury evaluating creative and effective uses of data and AI in marketing, including the final round: three days of finalist presentations and jury discussions (May 19-21, 2026) followed by final scoring."
     significance: "The jury includes senior technology and marketing leaders from organizations such as Accenture Song, Samsung Electronics America, The Walt Disney Company, Publicis Groupe and Amazon Web Services."
-    evidence: [ { label: "Data Creativity Awards jury", url: "https://www.i-com.org/awards/data-creativity/jury" } ]
+    evidence: [ { label: "Data Creativity Awards jury (archived Jun 29, 2026)", url: "https://web.archive.org/web/20260629212405/https://www.i-com.org/awards/data-creativity/jury" } ]
   - title: "Judge - 6th Annual Anthem Awards"
     org: "International Academy of Digital Arts and Sciences (IADAS)"
     date: "2026"
     year: 2026
     kind: "Impact awards"
-    summary: "Evaluated 30 entries for the 6th Annual Anthem Awards, which recognize purpose-driven and social-impact work by organizations and individuals."
-    significance: "The Anthem Awards are presented by the International Academy of Digital Arts and Sciences, the organization behind the Webby Awards. After judging, the Academy Director invited a jury quote for the winner-announcement feature, noting \"you could offer additional and invaluable insights\" (Denise Gilley, Academy Director, IADAS, Oct 2026)."
+    summary: "Scored entries for the 6th Annual Anthem Awards, which recognize purpose-driven and social-impact work by organizations and individuals."
+    significance: "The Anthem Awards are presented by the International Academy of Digital Arts and Sciences, the organization behind the Webby Awards. The jury's scores determined the season's Finalists, which IADAS announced as \"selected by you and your fellow jurors\" (Denise Gilley, Academy Director, IADAS, Oct 13, 2026)."
   - title: "Technical Program Committee member"
     org: "IEEE CICN 2027 · IEEE CSNT 2027 · BDAA 2025"
     date: "2025 - 2026"
@@ -187,17 +187,19 @@ judging:
     kind: "Industry awards"
     summary: "Judged the Business category (Aug 31, 2023) and the Artificial Intelligence category (May 6, 2025)."
     significance: "Judging certificates are verifiable through the Accredible credential wallet."
-  - title: "Hackathon Judge - four events"
-    org: "Major League Hacking (MLH) · Hacks at FIU"
-    date: "2024 - 2025"
-    year: [2024, 2025]
+  - title: "Hackathon Judge - five events"
+    org: "Major League Hacking (MLH) · Hacks at FIU · Block Convey"
+    date: "2024 - 2026"
+    year: [2024, 2025, 2026]
+    year_notes:
+      2026: "MONEY TALKS 2, AI x Finance Hackathon, New York City (Oct 17, 2026)"
     kind: "Hackathons"
-    summary: "Judged the Hosted by MLH digital hackathons Web3Apps, All In Open Source and AI Hackfest after MLH approved his judge application (Nov 2023), and SummerCodeX 2025, hosted by Hacks at FIU on Devpost."
-    significance: "MLH is the official student hackathon league, supporting 200+ hackathons worldwide each year."
+    summary: "Judged the Hosted by MLH digital hackathons Web3Apps, All In Open Source and AI Hackfest after MLH approved his judge application (Nov 2023), SummerCodeX 2025, hosted by Hacks at FIU on Devpost, and MONEY TALKS 2 (Oct 17, 2026), an in-person AI x Finance hackathon in New York City organized by Block Convey, where he scored finalist demos across the Money Intelligence, Money Operations and Trust & Risk tracks."
+    significance: "MLH is the official student hackathon league, supporting 200+ hackathons worldwide each year. MONEY TALKS 2 drew 450+ applicants; Block Convey's CEO, Arun Prasad, personally invited him to the judging panel and publicly thanked the judges by name after the event."
 
 peer_review:
-  total: "62"
-  summary: "62 individually documented reviews for 23 international conferences in 2025 and 2026, most of them IEEE-sponsored or IEEE technically co-sponsored. Each review is confirmed by a review-completion record or a reviewer certificate. Also three open preprint reviews through PREreview."
+  total: "70"
+  summary: "70 individually documented reviews for 25 international conferences in 2025 and 2026, most of them IEEE-sponsored or IEEE technically co-sponsored. Each review is confirmed by a review-completion record or a reviewer certificate. Also three open preprint reviews through PREreview."
   # Quotes from organizers' written thanks (certificates and emails on file).
   quotes:
     - { text: "Your thorough evaluation and constructive feedback have helped maintain the high academic standards of our conference.", by: "Mohamad Farid Saaid, General Chair, IEEE AGRETA 2025" }
@@ -206,6 +208,8 @@ peer_review:
     - { text: "Your expert review comments, constructive feedback, and technical insights significantly enhanced the quality of the conference proceedings and helped maintain high academic standards.", by: "Organizing Committee, I5CPS 2026, National Institute of Technology Puducherry" }
   # `year` = year the reviews were completed (feeds the Achievement Timeline).
   venues:
+    - { name: "IEEE INDICON 2026", org: "23rd IEEE India Council International Conference · IEEE Madras Section", papers: 4, year: 2026 }
+    - { name: "IEEE PuneCon 2026", org: "IEEE Pune Section International Conference", papers: 4, year: 2026 }
     - { name: "IEEE CSNT 2027", org: "16th IEEE Intl. Conf. on Communication Systems and Network Technologies", papers: 1, year: 2026 }
     - { name: "IEEE ICTMOD 2026", org: "8th IEEE Intl. Conf. on Technology Management, Operations and Decisions · Paris, France", papers: 1, year: 2026 }
     - { name: "MAESTRO 2026", org: "Intl. Conf. on Microwave, Antenna and Engineering Systems Technologies Research Outlook", papers: 1, year: 2026 }
@@ -242,12 +246,6 @@ memberships:
     significance: "In the elevation letter (Apr 19, 2025), IEEE President Kathleen A. Kramer noted that only about 10% of IEEE's nearly half a million members hold this grade, which requires extensive experience and documented achievements of significance."
     evidence:
       - { label: "IEEE Senior Member grade", url: "https://www.ieee.org/membership/senior/index.html" }
-  - title: "Fellow Member"
-    org: "Soft Computing Research Society (SCRS)"
-    date: "May 2025"
-    year: 2025
-    kind: "Fellowship"
-    summary: "Conferred for \"outstanding work in the field of Artificial Intelligence, Data Engineering, Cloud Computing and Intelligent Systems.\""
   - title: "At-Large Member"
     org: "Upsilon Pi Epsilon (UPE)"
     date: "Apr 2026"
@@ -734,7 +732,7 @@ career:
 
 # One-line summary per year, shown at the top of each year on the timeline.
 acclaim_years:
-  2026: "Patent application published and cited by 22 patent documents, UK design granted, Technical Press book, IEEE CIACON paper, ITAI 2026 Best Paper Award, MIT $100K Accelerate and Launch rounds, 72nd Neal Awards, I-COM jury and Anthem Awards judge, Business Intelligence Group 2027 Advisory Board, two IEEE program committees, 13 peer reviews so far, two interviews and four expert bylines."
+  2026: "Patent application published and cited by 22 patent documents, UK design granted, Technical Press book, IEEE CIACON paper, ITAI 2026 Best Paper Award, MIT $100K Accelerate and Launch rounds, 72nd Neal Awards, I-COM jury and Anthem Awards judge, MONEY TALKS 2 hackathon judge, Business Intelligence Group 2027 Advisory Board, two IEEE program committees, 21 peer reviews so far, two interviews and four expert bylines."
   2025: "Elevated to IEEE Senior Member, US patent application filed, Rising Stars 30, MIT $100K judge, IEEE Senior Member application review panelist, SAU alumni mentor, 49 peer reviews for 15 conferences and five peer-reviewed conference papers."
   2024: "AFCEA 40 Under Forty, judge at the 70th Jesse H. Neal Awards and MIT $100K Pitch, MLH hackathon judging, UN Summit of the Future, and promotion."
   2023: "Invited talk at Google DevFest Bronx, Globee Awards judge, Google Cloud and Databricks certifications, and mentorship recognition."
@@ -747,4 +745,4 @@ career_phases:
   - { span: "2013 - 2018", label: "Foundations", summary: "Telecom internship, engineering degree and early software and data roles in India." }
   - { span: "2018 - 2021", label: "Graduate research", summary: "M.S. in Computer Science, university service, and applied climate and NLP analytics in New York." }
   - { span: "2021 - 2024", label: "Enterprise builder", summary: "Enterprise data platforms for regulated financial services at 10M+ records per day; first awards and judging roles." }
-  - { span: "2025 - 2026", label: "Field-wide recognition", summary: "IEEE Senior Member, book and conference papers, patent filing, international judging, 62 peer reviews and program committees, interviews and expert bylines." }
+  - { span: "2025 - 2026", label: "Field-wide recognition", summary: "IEEE Senior Member, book and conference papers, patent filing, international judging, 70 peer reviews and program committees, interviews and expert bylines." }
