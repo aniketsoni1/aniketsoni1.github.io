@@ -82,6 +82,26 @@ timeline:
   title: "Achievement Timeline"
   blurb: "Every milestone, year by year, in one view"
 
+# "Around the World" (12): an interactive map of every item tagged with
+# `geo:` in _data/profile.yml (ISO alpha-2 country; WW = worldwide / online,
+# listed without a pin). One pin per country, one colored dot per layer.
+# `viewbox` must match assets/img/world-map.svg (scripts/build_world_map.mjs).
+# Memberships are not mapped: they are not tied to a place.
+map:
+  num: "12"
+  title: "Around the World"
+  blurb: "Peer review, judging, talks, research and media by country"
+  viewbox: "0 0 960 427"
+  groups:
+    - { key: peer,      label: "Peer review",       source: peer_review,   anchor: judging }
+    - { key: judging,   label: "Judging",           source: judging,       anchor: judging }
+    - { key: talks,     label: "Talks",             source: speaking,      anchor: speaking }
+    - { key: research,  label: "Research",          source: publications,  anchor: publications }
+    - { key: patents,   label: "Patents & designs", source: contributions, anchor: contributions }
+    - { key: media,     label: "Media",             source: media,         anchor: media }
+    - { key: awards,    label: "Awards",            source: awards,        anchor: awards }
+    - { key: community, label: "Community",         source: community,     anchor: community }
+
 # Journals are always shown last; books and conference papers carry more weight.
 publication_order: ["Book", "Book chapter", "Conference", "Preprint", "Journal"]
 

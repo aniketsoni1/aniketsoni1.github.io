@@ -162,6 +162,32 @@
       {%- if c > peak %}{% assign peak = c %}{% endif -%}
       {%- assign grand = grand | plus: c -%}{%- if c > 0 %}{% assign active = active | plus: 1 %}{% endif -%}
     {%- endfor %}
+    {%- comment -%} Around the World totals: every item tagged with `geo:` (WW = worldwide / online, no pin). {%- endcomment -%}
+    {%- assign mp_codes = "" -%}{%- assign mp_peer = "" -%}{%- assign mp_n = 0 -%}
+    {%- for g in page.map.groups -%}
+      {%- if g.source == 'peer_review' %}{% assign src = P.peer_review.venues %}{% else %}{% assign src = P[g.source] %}{% endif -%}
+      {%- for it in src -%}{%- if it.geo -%}
+        {%- assign mp_n = mp_n | plus: 1 -%}
+        {%- for c in it.geo -%}
+          {%- if mp_codes == "" %}{% assign mp_codes = c %}{% else %}{% assign mp_codes = mp_codes | append: "," | append: c %}{% endif -%}
+          {%- if g.key == 'peer' -%}
+            {%- if mp_peer == "" %}{% assign mp_peer = c %}{% else %}{% assign mp_peer = mp_peer | append: "," | append: c %}{% endif -%}
+          {%- endif -%}
+        {%- endfor -%}
+      {%- endif -%}{%- endfor -%}
+    {%- endfor -%}
+    {%- assign mp_all = mp_codes | split: "," | uniq -%}
+    {%- assign mp_cn = mp_all.size -%}{%- if mp_all contains "WW" %}{% assign mp_cn = mp_cn | minus: 1 %}{% endif -%}
+    {%- assign mp_pc = mp_peer | split: "," | uniq -%}
+    {%- assign mp_pcn = mp_pc.size -%}{%- if mp_pc contains "WW" %}{% assign mp_pcn = mp_pcn | minus: 1 %}{% endif -%}
+    {%- comment -%} Country list sorted by display name ("Name|CODE"), worldwide last. {%- endcomment -%}
+    {%- assign mp_named = "" -%}
+    {%- for c in mp_all -%}{%- unless c == "WW" -%}
+      {%- capture nc %}{{ site.data.geo[c].n }}|{{ c }}{% endcapture -%}
+      {%- if mp_named == "" %}{% assign mp_named = nc %}{% else %}{% assign mp_named = mp_named | append: ";" | append: nc %}{% endif -%}
+    {%- endunless -%}{%- endfor -%}
+    {%- assign mp_named = mp_named | split: ";" | sort -%}
+    {%- if mp_all contains "WW" %}{% assign mp_named = mp_named | push: "Worldwide & online|WW" %}{% endif -%}
     <!-- ══ Criteria overview ══ -->
     <section id="pf-overview" class="pf-overview" aria-labelledby="pf-overview-h">
       <h2 id="pf-overview-h" class="pf-h2">At a glance</h2>
@@ -193,6 +219,25 @@
           </span>
         </a>
         {%- endfor %}
+        {%- if page.map %}
+        <a class="pf-ov-card pf-ov-map" href="#map">
+          <span class="pf-ov-mtext">
+            <span class="pf-ov-num">{{ page.map.num }}</span>
+            <span class="pf-ov-title">{{ page.map.title }}</span>
+            <span class="pf-ov-blurb">{{ page.map.blurb }}</span>
+            <span class="pf-ov-foot">
+              <span class="pf-ov-count">{{ mp_cn }} <small>countries</small></span>
+              <span class="pf-ov-extra">{{ mp_n }} mapped records · peer review in {{ mp_pcn }} countries</span>
+            </span>
+          </span>
+          <span class="pf-ov-mini" aria-hidden="true">
+            <img src="{{ '/assets/img/world-map.svg' | relative_url }}" alt="" width="960" height="427" loading="lazy" decoding="async">
+            <svg viewBox="{{ page.map.viewbox }}" focusable="false">
+              {%- for c in mp_all %}{% assign gg = site.data.geo[c] %}{% if gg and c != "WW" %}<circle cx="{{ gg.x }}" cy="{{ gg.y }}" r="9"/>{% endif %}{% endfor -%}
+            </svg>
+          </span>
+        </a>
+        {%- endif %}
       </div>
     </section>
 
@@ -374,6 +419,77 @@
       {%- endif %}
     </section>
     {%- endfor %}
+
+    <!-- ══ Around the World (interactive map; the country list below is the no-JS / print view) ══ -->
+    {%- if page.map %}
+    <section id="map" class="pf-section pf-mapsec" aria-labelledby="pf-map-h">
+      <div class="pf-sec-head">
+        <span class="pf-sec-num">{{ page.map.num }}</span>
+        <div>
+          <h2 id="pf-map-h" class="pf-h2">{{ page.map.title }}</h2>
+          <p class="pf-lede">Where the work has been reviewed, judged, presented and published: {{ mp_n }} records across {{ mp_cn }} countries. Each pin marks the country where the conference, program, publisher or organization is based; online and worldwide programs are listed without a pin.</p>
+        </div>
+      </div>
+
+      <div class="pf-tl-stats">
+        <div><span>{{ mp_cn }}</span><small>Countries</small></div>
+        <div><span>{{ mp_pcn }}</span><small>Peer-review countries</small></div>
+        <div><span>{{ P.stats.peer_venues }}</span><small>Conferences reviewed for</small></div>
+        <div><span>{{ mp_n }}</span><small>Mapped records</small></div>
+      </div>
+
+      <div class="pf-map-filter" role="group" aria-label="Filter the map by category" hidden>
+        <button type="button" class="is-on" data-k="all" aria-pressed="true">All <b>{{ mp_n }}</b></button>
+        {%- for g in page.map.groups %}
+          {%- if g.source == 'peer_review' %}{% assign src = P.peer_review.venues %}{% else %}{% assign src = P[g.source] %}{% endif -%}
+          {%- assign gn = 0 -%}{%- for it in src %}{% if it.geo %}{% assign gn = gn | plus: 1 %}{% endif %}{% endfor -%}
+          {%- if gn > 0 %}<button type="button" data-k="{{ g.key }}" aria-pressed="false"><i class="m-{{ g.key }}"></i>{{ g.label }} <b>{{ gn }}</b></button>{% endif -%}
+        {%- endfor %}
+      </div>
+
+      <div class="pf-map" data-src="{{ '/assets/img/world-map.svg' | relative_url }}" data-vb="{{ page.map.viewbox }}" hidden>
+        <div class="pf-map-canvas"><div class="pm-tip" role="tooltip" hidden></div></div>
+        <aside class="pf-map-panel" aria-live="polite"></aside>
+      </div>
+
+      <div class="pf-map-list">
+        {%- for nc in mp_named %}
+          {%- assign parts = nc | split: "|" -%}{%- assign c = parts[1] %}
+        <div class="pf-map-country">
+          <h3 class="pf-map-cname">{{ parts[0] }}</h3>
+          <ul>
+          {%- for g in page.map.groups -%}
+            {%- if g.source == 'peer_review' %}{% assign src = P.peer_review.venues %}{% else %}{% assign src = P[g.source] %}{% endif -%}
+            {%- for it in src -%}{%- for x in it.geo -%}{%- if x == c %}
+            <li><i class="m-{{ g.key }}"></i><span class="pf-map-k">{{ g.label }}</span> {{ it.title | default: it.name }}{% if it.org %} <em>· {{ it.org }}</em>{% endif %}</li>
+            {%- endif -%}{%- endfor -%}{%- endfor -%}
+          {%- endfor %}
+          </ul>
+        </div>
+        {%- endfor %}
+      </div>
+
+      {%- comment -%} Data for assets/js/profile-map.js {%- endcomment -%}
+      {%- assign sep = "" %}
+      <script type="application/json" id="pf-map-data">{"groups":[{% for g in page.map.groups %}{"k":{{ g.key | jsonify }},"l":{{ g.label | jsonify }}}{% unless forloop.last %},{% endunless %}{% endfor %}],"geo":{ {%- for c in mp_all %}{% assign gg = site.data.geo[c] %}{% if gg %}{{ c | jsonify }}:[{{ gg.n | jsonify }},{{ gg.x }},{{ gg.y }}],{% endif %}{% endfor %}"WW":["Worldwide & online",0,0]},"items":[
+        {%- for g in page.map.groups -%}
+          {%- if g.source == 'peer_review' %}{% assign src = P.peer_review.venues %}{% else %}{% assign src = P[g.source] %}{% endif -%}
+          {%- for it in src -%}{%- if it.geo -%}
+            {%- if g.key == 'peer' -%}
+              {%- if it.papers %}{% capture det %}{{ it.papers }} review{% if it.papers != 1 %}s{% endif %}{% endcapture %}{% else %}{% assign det = it.note %}{% endif -%}
+              {%- assign url = '#judging' -%}
+            {%- else -%}
+              {%- assign det = it.date -%}
+              {%- if it.metric %}{% assign det = it.metric | append: " · " | append: it.date %}{% endif -%}
+              {%- if it.evidence.first %}{% assign url = it.evidence.first.url %}{% else %}{% assign url = '#' | append: g.anchor %}{% endif -%}
+            {%- endif %}
+        {{ sep }}{"k":{{ g.key | jsonify }},"c":{{ it.geo | jsonify }},"t":{{ it.title | default: it.name | jsonify }},"o":{{ it.org | default: "" | jsonify }},"d":{{ det | default: "" | jsonify }},"u":{{ url | jsonify }},"s":{{ '#' | append: g.anchor | jsonify }}}
+            {%- assign sep = "," -%}
+          {%- endif -%}{%- endfor -%}
+        {%- endfor %}
+      ]}</script>
+    </section>
+    {%- endif %}
 
     <!-- ══ Additional context (not counted in any category or the timeline) ══ -->
     {%- if P.additional_context and P.additional_context.size > 0 %}
@@ -596,5 +712,8 @@
   </script>
   <script src="{{ '/assets/js/theme.js' | relative_url }}?v={{ site.time | date: '%s' }}" defer></script>
   <script src="{{ '/assets/js/section-nav.js' | relative_url }}?v={{ site.time | date: '%s' }}" defer></script>
+  {%- if page.map %}
+  <script src="{{ '/assets/js/profile-map.js' | relative_url }}?v={{ site.time | date: '%s' }}" defer></script>
+  {%- endif %}
 </body>
 </html>

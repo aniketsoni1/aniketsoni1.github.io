@@ -17,6 +17,9 @@ env/
 .mypy_cache/
 .ruff_cache/
 
+# ── Node (scripts/build_world_map.mjs) ──────────────────
+node_modules/
+
 # ── Pipeline caches (feed etags etc.) ───────────────────
 # NOTE: data/runs/ IS committed on purpose - it is the audit trail.
 data/cache/

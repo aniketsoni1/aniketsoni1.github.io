@@ -92,6 +92,7 @@ awards:
   - title: "Best Paper Award - Computer Vision"
     org: "2nd International Conference on Information Technology and Artificial Intelligence (ITAI 2026), Lasell University, Newton, MA"
     org_short: "ITAI 2026 · Lasell University"
+    geo: US
     date: "Mar 2026"
     year: 2026
     kind: "Research award"
@@ -99,12 +100,14 @@ awards:
   - title: "Rising Stars 30"
     org: "Computing, The Channel Company"
     org_short: "The Channel Co. Computing"
+    geo: US
     date: "2025"
     year: 2025
     kind: "Industry award"
   - title: "40 Under Forty"
     org: "AFCEA International (Armed Forces Communications and Electronics Association)"
     org_short: "AFCEA"
+    geo: US
     date: "2024"
     year: 2024
     kind: "Industry award"
@@ -114,6 +117,7 @@ awards:
 judging:
   - title: "Judge - four rounds across two competition cycles"
     org: "MIT $100K Entrepreneurship Competition"
+    geo: US
     location: "Massachusetts Institute of Technology, Cambridge, MA"
     date: "Oct 2024 - Apr 2026"
     year: [2024, 2025, 2026]
@@ -126,6 +130,7 @@ judging:
     significance: "The MIT $100K is MIT's flagship annual entrepreneurship competition. In 2024 the online judges' evaluations selected the 15 teams that pitched live in the finals on the MIT campus; Launch finalists compete for a $100,000 grand prize."
   - title: "Distinguished Judge - three consecutive editions"
     org: "Jesse H. Neal Awards, Software & Information Industry Association (SIIA)"
+    geo: US
     date: "2024, 2025, 2026 · invited back for 2027"
     year: [2024, 2025, 2026]
     year_notes:
@@ -138,6 +143,7 @@ judging:
     evidence: [ { label: "72nd Neal Awards judge certificate (hosted by SIIA)", url: "https://nealawards.siia.net/wp-content/uploads/2026/03/Neal_72_Judge_96.pdf" } ]
   - title: "Jury Member"
     org: "I-COM Data Creativity Awards"
+    geo: WW
     date: "2026"
     year: 2026
     kind: "Industry awards"
@@ -146,6 +152,7 @@ judging:
     evidence: [ { label: "Data Creativity Awards jury (archived Jun 29, 2026)", url: "https://web.archive.org/web/20260629212405/https://www.i-com.org/awards/data-creativity/jury" } ]
   - title: "Judge - 6th Annual Anthem Awards"
     org: "International Academy of Digital Arts and Sciences (IADAS)"
+    geo: US
     date: "2026"
     year: 2026
     kind: "Impact awards"
@@ -153,6 +160,7 @@ judging:
     significance: "The Anthem Awards are presented by the International Academy of Digital Arts and Sciences, the organization behind the Webby Awards. The jury's scores determined the season's Finalists, which IADAS announced as \"selected by you and your fellow jurors\" (Denise Gilley, Academy Director, IADAS, Oct 13, 2026)."
   - title: "Technical Program Committee member"
     org: "IEEE CICN 2027 · IEEE CSNT 2027 · BDAA 2025"
+    geo: [IN, AT]
     date: "2025 - 2026"
     year: [2025, 2026]
     year_notes:
@@ -162,6 +170,7 @@ judging:
     summary: "Serves on the technical program committees of the 19th IEEE International Conference on Computational Intelligence and Communication Networks (CICN 2027) and the 16th IEEE International Conference on Communication Systems and Network Technologies (CSNT 2027), and served on the International Program Committee of the Conference on Big Data Analytics & Applications (BDAA 2025, Innsbruck, Austria)."
   - title: "Panelist - IEEE Senior Member Application Review Panel"
     org: "IEEE Admission and Advancement Committee"
+    geo: US
     date: "Nov 23, 2025"
     year: 2025
     kind: "Credential review panel"
@@ -169,6 +178,7 @@ judging:
     significance: "Only about 10% of IEEE's nearly half a million members hold the Senior Member grade. Thank-you letter from Howard Wolfman, Chair, IEEE Admission and Advancement Committee, for \"reviewing a large number of Senior Member applications\" and being \"instrumental in making possible the elevation of deserving IEEE Members to Senior Member status.\""
   - title: "Judge - eight award programs, ten editions · 2027 Advisory Board"
     org: "Business Intelligence Group"
+    geo: US
     date: "2025 - 2026 · Advisory Board 2027"
     year: [2025, 2026]
     year_notes:
@@ -179,6 +189,7 @@ judging:
     significance: "Selection confirmed in a letter dated July 3, 2025 from Russ Fordyce, CEO and Founder, citing a \"comprehensive review of qualifications, accomplishments, and contributions to the field.\" In September 2026 Russ Fordyce thanked the Advisory Board for helping \"think about how our award programs should work\" and issued the 2027 Advisory Board badge."
   - title: "Judge - Business and Artificial Intelligence categories"
     org: "Globee Awards"
+    geo: US
     date: "2023, 2025"
     year: [2023, 2025]
     year_notes:
@@ -189,6 +200,7 @@ judging:
     significance: "Judging certificates are verifiable through the Accredible credential wallet."
   - title: "Hackathon Judge - five events"
     org: "Major League Hacking (MLH) · Hacks at FIU · Block Convey"
+    geo: US
     date: "2024 - 2026"
     year: [2024, 2025, 2026]
     year_notes:
@@ -208,32 +220,32 @@ peer_review:
     - { text: "Your expert review comments, constructive feedback, and technical insights significantly enhanced the quality of the conference proceedings and helped maintain high academic standards.", by: "Organizing Committee, I5CPS 2026, National Institute of Technology Puducherry" }
   # `year` = year the reviews were completed (feeds the Achievement Timeline).
   venues:
-    - { name: "IEEE INDICON 2026", org: "23rd IEEE India Council International Conference · IEEE Madras Section", papers: 4, year: 2026 }
-    - { name: "IEEE PuneCon 2026", org: "IEEE Pune Section International Conference", papers: 4, year: 2026 }
-    - { name: "IEEE CSNT 2027", org: "16th IEEE Intl. Conf. on Communication Systems and Network Technologies", papers: 1, year: 2026 }
-    - { name: "IEEE ICTMOD 2026", org: "8th IEEE Intl. Conf. on Technology Management, Operations and Decisions · Paris, France", papers: 1, year: 2026 }
-    - { name: "MAESTRO 2026", org: "Intl. Conf. on Microwave, Antenna and Engineering Systems Technologies Research Outlook", papers: 1, year: 2026 }
-    - { name: "ETNCC 2026", org: "IEEE-sponsored Intl. Conf. on Emerging Trends in Networks and Computer Communications · Windhoek, Namibia", papers: 1, year: 2026 }
-    - { name: "IEEE CICN 2026", org: "18th IEEE Intl. Conf. on Computational Intelligence and Communication Networks", papers: 1, year: 2026 }
-    - { name: "IEEE IATMSI 2026", org: "4th IEEE Intl. Conf. on Interdisciplinary Approaches in Technology and Management for Social Innovation", papers: 2, year: 2026 }
-    - { name: "I5CPS 2026", org: "Intl. Conf. on Computing, Communication, Control and Cyber-Physical Systems · NIT Puducherry · IEEE Madras Section co-sponsored", papers: 2, year: 2026 }
-    - { name: "IEEE MPCON 2026", org: "IEEE Madhya Pradesh Section Conference", papers: 2, year: 2026 }
-    - { name: "IEEE SysCon 2026", org: "IEEE International Systems Conference", papers: 5, year: [2025, 2026] }
-    - { name: "IEEE EDUCON 2026", org: "IEEE Global Engineering Education Conference", papers: 1, year: 2025 }
-    - { name: "AGRETA 2025", org: "IEEE Intl. Conf. on Agrosystem Engineering, Technology and Applications · Shah Alam, Malaysia", papers: 9, year: 2025 }
-    - { name: "ICETEG 2025", org: "Intl. Conf. on Emerging Technologies in Electronics and Green Energy · JSS Science and Technology University, Mysuru", papers: 6, year: 2025 }
-    - { name: "RCAAI 2025", org: "IEEE conference · Manipal Academy of Higher Education", papers: 5, year: 2025 }
-    - { name: "IEEE PuneCon 2025", org: "IEEE Pune Section International Conference · Savitribai Phule Pune University", papers: 5, year: 2025 }
-    - { name: "IEEE ICTMOD 2025", org: "7th IEEE Intl. Conf. on Technology Management, Operations and Decisions · Glasgow, Scotland", papers: 4, year: 2025 }
-    - { name: "IEEE CICN 2025", org: "17th IEEE Intl. Conf. on Computational Intelligence and Communication Networks", papers: 3, year: 2025 }
-    - { name: "ICoMMS 2025", org: "9th Intl. Conf. on Man-Machine Systems · Universiti Malaysia Perlis", papers: 3, year: 2025 }
-    - { name: "IEEE NMITCON 2025", org: "3rd IEEE Intl. Conf. on Networks, Multimedia and Information Technology · NMIT, Bengaluru", papers: 2, year: 2025 }
-    - { name: "ICoABCD 2025", org: "3rd International Conference (ICoABCD)", papers: 2, year: 2025 }
-    - { name: "IEEE ISWTA 2025", org: "9th IEEE Symposium on Wireless Technology and Applications · Penang, Malaysia", papers: 2, year: 2025 }
-    - { name: "SSITCON 2025", org: "IEEE conference", papers: 1, year: 2025 }
-    - { name: "FIRE 2025", org: "Forum for Information Retrieval Evaluation · shared-task track", papers: 1, year: 2025 }
-    - { name: "IEEE IC3IT 2025", org: "IEEE Intl. Conf. on Communication, Computer and Information Technology · Mysuru Royal Institute of Technology", papers: 1, year: 2025 }
-    - { name: "PREreview", org: "Open community preprint reviews (one structured, one collaborative) · biomedical and clinical machine learning", note: "3 open reviews", year: 2025, open: true }
+    - { name: "IEEE INDICON 2026", org: "23rd IEEE India Council International Conference · IEEE Madras Section", papers: 4, year: 2026, geo: IN }
+    - { name: "IEEE PuneCon 2026", org: "IEEE Pune Section International Conference", papers: 4, year: 2026, geo: IN }
+    - { name: "IEEE CSNT 2027", org: "16th IEEE Intl. Conf. on Communication Systems and Network Technologies", papers: 1, year: 2026, geo: IN }
+    - { name: "IEEE ICTMOD 2026", org: "8th IEEE Intl. Conf. on Technology Management, Operations and Decisions · Paris, France", papers: 1, year: 2026, geo: FR }
+    - { name: "MAESTRO 2026", org: "Intl. Conf. on Microwave, Antenna and Engineering Systems Technologies Research Outlook · Universiti Teknologi MARA, Malaysia", papers: 1, year: 2026, geo: MY }
+    - { name: "ETNCC 2026", org: "IEEE-sponsored Intl. Conf. on Emerging Trends in Networks and Computer Communications · Windhoek, Namibia", papers: 1, year: 2026, geo: NA }
+    - { name: "IEEE CICN 2026", org: "18th IEEE Intl. Conf. on Computational Intelligence and Communication Networks · Manila, Philippines", papers: 1, year: 2026, geo: PH }
+    - { name: "IEEE IATMSI 2026", org: "4th IEEE Intl. Conf. on Interdisciplinary Approaches in Technology and Management for Social Innovation · ABV-IIITM Gwalior", papers: 2, year: 2026, geo: IN }
+    - { name: "I5CPS 2026", org: "Intl. Conf. on Computing, Communication, Control and Cyber-Physical Systems · NIT Puducherry · IEEE Madras Section co-sponsored", papers: 2, year: 2026, geo: IN }
+    - { name: "IEEE MPCON 2026", org: "IEEE Madhya Pradesh Section Conference · Gwalior", papers: 2, year: 2026, geo: IN }
+    - { name: "IEEE SysCon 2026", org: "IEEE International Systems Conference · Halifax, Canada", papers: 5, year: [2025, 2026], geo: CA }
+    - { name: "IEEE EDUCON 2026", org: "IEEE Global Engineering Education Conference · Cairo, Egypt", papers: 1, year: 2025, geo: EG }
+    - { name: "AGRETA 2025", org: "IEEE Intl. Conf. on Agrosystem Engineering, Technology and Applications · Shah Alam, Malaysia", papers: 9, year: 2025, geo: MY }
+    - { name: "ICETEG 2025", org: "Intl. Conf. on Emerging Technologies in Electronics and Green Energy · JSS Science and Technology University, Mysuru", papers: 6, year: 2025, geo: IN }
+    - { name: "RCAAI 2025", org: "IEEE conference · Manipal Academy of Higher Education", papers: 5, year: 2025, geo: IN }
+    - { name: "IEEE PuneCon 2025", org: "IEEE Pune Section International Conference · Savitribai Phule Pune University", papers: 5, year: 2025, geo: IN }
+    - { name: "IEEE ICTMOD 2025", org: "7th IEEE Intl. Conf. on Technology Management, Operations and Decisions · Glasgow, Scotland", papers: 4, year: 2025, geo: GB }
+    - { name: "IEEE CICN 2025", org: "17th IEEE Intl. Conf. on Computational Intelligence and Communication Networks · Goa", papers: 3, year: 2025, geo: IN }
+    - { name: "ICoMMS 2025", org: "9th Intl. Conf. on Man-Machine Systems · Universiti Malaysia Perlis", papers: 3, year: 2025, geo: MY }
+    - { name: "IEEE NMITCON 2025", org: "3rd IEEE Intl. Conf. on Networks, Multimedia and Information Technology · NMIT, Bengaluru", papers: 2, year: 2025, geo: IN }
+    - { name: "ICoABCD 2025", org: "3rd Intl. Conf. on Artificial Intelligence, Blockchain, Cloud Computing and Data Analytics · Lombok, Indonesia", papers: 2, year: 2025, geo: ID }
+    - { name: "IEEE ISWTA 2025", org: "9th IEEE Symposium on Wireless Technology and Applications · Penang, Malaysia", papers: 2, year: 2025, geo: MY }
+    - { name: "SSITCON 2025", org: "2nd Intl. Conf. on Software, Systems and Information Technology · Tumakuru", papers: 1, year: 2025, geo: IN }
+    - { name: "FIRE 2025", org: "Forum for Information Retrieval Evaluation · shared-task track · IIT (BHU) Varanasi", papers: 1, year: 2025, geo: IN }
+    - { name: "IEEE IC3IT 2025", org: "IEEE Intl. Conf. on Communication, Computer and Information Technology · Mysuru Royal Institute of Technology", papers: 1, year: 2025, geo: IN }
+    - { name: "PREreview", org: "Open community preprint reviews (one structured, one collaborative) · biomedical and clinical machine learning", note: "3 open reviews", year: 2025, open: true, geo: WW }
 
 # ── 03 · Professional Memberships ────────────────────────────────────
 memberships:
@@ -286,6 +298,7 @@ memberships:
 media:
   - title: "Why AI Fails Without Data Foundations: Lessons from Building Platforms in Regulated Industries"
     org: "The AI Journal"
+    geo: GB
     kind: "Editorial interview"
     date: "Feb 9, 2026"
     year: 2026
@@ -294,6 +307,7 @@ media:
     evidence: [ { label: "Read on The AI Journal", url: "https://aijourn.com/why-ai-fails-without-data-foundations-lessons-from-building-platforms-in-regulated-industries/" } ]
   - title: "Aniket Abhishek Soni on the Hidden Failures Behind Modern Data Systems"
     org: "All Tech Magazine"
+    geo: WW
     kind: "Expert interview"
     date: "Apr 2, 2026"
     year: 2026
@@ -302,6 +316,7 @@ media:
     evidence: [ { label: "Read on All Tech Magazine", url: "https://alltechmagazine.com/hidden-failures-behind-modern-data-systems/" } ]
   - title: "The Hidden Data Engineering Work Required to Make Enterprise AI Viable"
     org: "APM Digest"
+    geo: US
     kind: "Expert byline"
     date: "May 6, 2026"
     year: 2026
@@ -310,6 +325,7 @@ media:
     evidence: [ { label: "Read on APM Digest", url: "https://www.apmdigest.com/hidden-data-engineering-work-required-make-enterprise-ai-viable" } ]
   - title: "Where Healthcare Data Systems Fail and How to Build Them Better"
     org: "MedCity News (MedCity Influencers)"
+    geo: US
     kind: "Expert byline"
     date: "Jun 15, 2026"
     year: 2026
@@ -318,6 +334,7 @@ media:
     evidence: [ { label: "Read on MedCity News", url: "https://medcitynews.com/2026/06/where-healthcare-data-systems-fail-and-how-to-build-them-better/" } ]
   - title: "The Data Quality Crisis Undermining Enterprise Analytics"
     org: "DEVOPSdigest"
+    geo: US
     kind: "Expert byline"
     date: "Jul 7, 2026"
     year: 2026
@@ -326,6 +343,7 @@ media:
     evidence: [ { label: "Read on DEVOPSdigest", url: "https://www.devopsdigest.com/the-data-quality-crisis-undermining-enterprise-analytics" } ]
   - title: "Containerizing Spark and Lakehouse Development with Docker"
     org: "DZone"
+    geo: US
     kind: "Expert byline"
     date: "Aug 25, 2026"
     year: 2026
@@ -338,6 +356,7 @@ contributions:
   - title: "Artificial Intelligence-Based Adaptive Big Data Storage and Retrieval Optimization Method and System"
     kind: "US patent application"
     org: "United States Patent and Trademark Office"
+    geo: US
     role: "Co-inventor"
     date: "Filed Oct 10, 2025 · Published Feb 5, 2026 · Pending"
     year: [2025, 2026]
@@ -353,6 +372,7 @@ contributions:
   - title: "Dynamic Cost-Optimization Router for Multi-Platform Cloud Integration Systems"
     kind: "UK registered design"
     org: "UK Intellectual Property Office"
+    geo: GB
     role: "Co-proprietor (with Milan Parikh)"
     date: "Granted Mar 17, 2026"
     year: 2026
@@ -424,6 +444,7 @@ publications:
   - title: "AI-Enabled Serverless Engineering for Autonomous Cloud Operations"
     kind: "Book"
     org: "Technical Press"
+    geo: IN
     role: "Co-author (with Milan Parikh)"
     date: "2026"
     year: 2026
@@ -434,6 +455,7 @@ publications:
   - title: "Building Organizational Intelligence Using Digital Twins and Generative AI: Concepts, Applications and Case Studies"
     kind: "Book chapter"
     org: "Wiley-Scrivener (John Wiley & Sons)"
+    geo: US
     role: "Contributing author"
     date: "Forthcoming"
     year: 2026
@@ -442,6 +464,7 @@ publications:
   - title: "Scalable Predictive Analytics for Project Risk Management Using Data-Driven Machine Learning Approach"
     kind: "Conference"
     org: "2nd International Conference on Computing, Intelligence, and Applications (CIACON 2026) · IEEE Kolkata Section technical sponsorship"
+    geo: IN
     date: "Jul 30-31, 2026"
     year: 2026
     summary: "Published in IEEE Xplore on Sep 22, 2026."
@@ -450,6 +473,7 @@ publications:
   - title: "Big Data Workload Profiling for Energy-Aware Cloud Resource Management"
     kind: "Conference"
     org: "International Conference on Data Analytics for Sustainability and Engineering Technology (DASET 2026)"
+    geo: GB
     location: "Scotland"
     date: "Jan 2026"
     year: 2026
@@ -457,6 +481,7 @@ publications:
   - title: "Reinforcement Learning for Dynamic Workflow Optimization in CI/CD Pipelines"
     kind: "Conference"
     org: "17th IEEE International Conference on Computational Intelligence and Communication Networks (CICN)"
+    geo: IN
     date: "Dec 2025"
     year: 2025
     summary: "Published in IEEE Xplore, pages 638-644."
@@ -466,6 +491,7 @@ publications:
   - title: "Data Foundations for a Successful AI Strategy: A Blueprint for AI-Ready Enterprises"
     kind: "Conference"
     org: "International Conference on Decision Aid Sciences and Applications (DASA 2025)"
+    geo: BH
     location: "Bahrain"
     date: "Dec 1-2, 2025"
     year: 2025
@@ -476,6 +502,7 @@ publications:
   - title: "Dynamic Context Tuning for Enhanced Multi-Turn Planning in Retrieval-Augmented Generation Systems"
     kind: "Conference"
     org: "IEEE ICE2CPT 2025 · NIT Jamshedpur"
+    geo: IN
     date: "Oct 29-31, 2025"
     year: 2025
     summary: "Published in IEEE Xplore. An extended preprint appears on arXiv as \"Dynamic Context Tuning for Retrieval-Augmented Generation: Enhancing Multi-Turn Planning and Tool Adaptation\"."
@@ -485,6 +512,7 @@ publications:
   - title: "Combining Threat Intelligence with IoT Scanning to Predict Cyber Attacks"
     kind: "Conference"
     org: "3rd IEEE International Conference on AI, Blockchain and Internet of Things (AIBThings 2025)"
+    geo: US
     date: "Sep 2025"
     year: 2025
     summary: "Proceedings published in IEEE Xplore (Dec 2025)."
@@ -494,12 +522,14 @@ publications:
   - title: "Detection of Advance Malware Threats using Hybrid Deep Learning Model and Image Analysis"
     kind: "Conference"
     org: "International Conference on Contemporary Computing (IC3) · IEEE · JIIT Noida with University of Florida"
+    geo: IN
     date: "Aug 7-9, 2025"
     year: 2025
     evidence: [ { label: "DOI 10.1109/IC366947.2025.11290509", url: "https://doi.org/10.1109/IC366947.2025.11290509" } ]
   - title: "Improving Speech Recognition Accuracy Using Custom Language Models with the Vosk Toolkit"
     kind: "Preprint"
     org: "arXiv [cs.SD]"
+    geo: WW
     role: "Sole author"
     date: "Mar 2025"
     year: 2025
@@ -598,6 +628,7 @@ experience:
 speaking:
   - title: "The Tech Mentor's Journey: Navigating Challenges and Shaping Futures"
     org: "Google DevFest Bronx"
+    geo: US
     kind: "Invited talk"
     location: "New York, NY"
     date: "2023"
@@ -605,11 +636,13 @@ speaking:
     summary: "Invited speaker at Google's community developer festival, addressing 200+ attendees on mentorship and developing the next generation of technologists."
   - title: "Big Data Workload Profiling for Energy-Aware Cloud Resource Management"
     org: "DASET"
+    geo: GB
     kind: "Paper presentation"
     location: "Scotland"
     date: "Jan 2026"
   - title: "Data Foundations for a Successful AI Strategy: A Blueprint for AI-Ready Enterprises"
     org: "DASA"
+    geo: BH
     kind: "Paper presentation"
     location: "Bahrain"
     date: "Dec 1-2, 2025"
@@ -618,6 +651,7 @@ speaking:
 community:
   - title: "#SpecSquad Ambassador"
     org: "AnitaB.org - Grace Hopper Celebration"
+    geo: US
     date: "Aug 2025"
     year: 2025
     kind: "Ambassador"
@@ -628,42 +662,50 @@ community:
     year: 2025
     kind: "Ambassador"
     summary: "Appointed by the IEEE Day 2025 chairperson to represent IEEE Day globally on October 7, 2025."
+    geo: WW
   - title: "IEEEXtreme 19.0 Proctor"
     org: "IEEE"
     date: "Oct 25, 2025"
     year: 2025
     kind: "Volunteer"
     summary: "Guided and oversaw competing teams at the 24-hour global programming competition."
+    geo: WW
     significance: "IEEEXtreme 19.0 hosted 19,000+ participants. Certificate of Appreciation signed by Kathleen A. Kramer, 2025 IEEE President."
   - title: "Success Champion"
     org: "Atlassian Champions Program"
+    geo: WW
     date: "Jan 2026"
     year: 2026
     kind: "Champion"
     summary: "Welcomed into the Success Champion track, a select group recognized for driving adoption, governance and user training for Atlassian solutions within their organizations."
   - title: "Mentor"
     org: "Freedom Employability Academy (FEA)"
+    geo: IN
     date: "2023"
     year: 2023
     kind: "Mentorship"
     summary: "Mentors disadvantaged youth on careers in technology. Two Certificates of Appreciation (May 10 and Aug 26, 2023) signed by FEA's CEO and program leadership."
   - title: "Volunteer · 100+ hours"
     org: "Cognizant Outreach"
+    geo: US
     date: "2023"
     year: 2023
     kind: "Community service"
     summary: "100+ hours of community service through Cognizant's employee-led social initiatives platform; Certificate of Appreciation from the Global Head of Cognizant Outreach (Aug 12, 2023)."
   - title: "Alumni Mentor"
     org: "Southern Arkansas University - Career AIM (Alumni Inspiring Muleriders)"
+    geo: US
     date: "Spring 2025"
     year: 2025
     kind: "Mentorship"
     summary: "Selected as an alumni mentor in the SAU Alumni Association's Career AIM program, matched with a current student for the Spring 2025 semester to guide career planning in technology."
   - title: "Mentor"
     org: "ENGin Ukraine - Tech & English Learning"
+    geo: UA
     kind: "Mentorship"
   - title: "Mentor · 29 sessions"
     org: "TopMate.io"
+    geo: WW
     kind: "Mentorship"
     summary: "One-on-one career and technical mentoring sessions in data engineering and AI, with 29 sessions booked through the platform."
   # Pending public announcement (program asked ambassadors not to post yet).
@@ -676,6 +718,7 @@ community:
   #   summary: "Selected for the 2026 Women Techmakers Ambassador cohort after a video application and review."
   - title: "Attendee - Summit of the Future Action Days"
     org: "United Nations Headquarters, New York"
+    geo: US
     date: "Sep 20-21, 2024"
     year: 2024
     kind: "Attendance"
