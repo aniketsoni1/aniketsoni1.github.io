@@ -1,0 +1,33 @@
+{%- comment -%}
+  "In their words" block at the bottom of a /profile/ section.
+  Params: cat (section key). Quotes come from `appreciation` in
+  _data/profile.yml. Featured quotes show up front; the rest sit in a
+  collapsed list so the section's main items stay visible.
+{%- endcomment -%}
+{%- assign qs = site.data.profile.appreciation | where: "cat", include.cat -%}
+{%- if qs.size > 0 -%}
+{%- assign nf = 0 -%}
+{%- for q in qs %}{% if q.featured %}{% assign nf = nf | plus: 1 %}{% endif %}{% endfor -%}
+{%- assign nm = qs.size | minus: nf %}
+      <div class="pf-thanks">
+        <div class="pf-thanks-head">
+          <h3 class="pf-h3">In their words <span>{{ qs.size }}</span></h3>
+          <p class="pf-thanks-lede">Thanks from organizers, chairs and editors, quoted from their certificates, letters and emails.</p>
+        </div>
+        <div class="pf-quotes">
+          {%- for q in qs %}{% if q.featured %}
+          <blockquote class="pf-quote">{% if q.topic %}<span class="pf-quote-topic">{{ q.topic }}</span>{% endif %}<p>"{{ q.text }}"</p><cite>{{ q.by }}{% if q.date %} · {{ q.date }}{% endif %}</cite></blockquote>
+          {%- endif %}{% endfor %}
+        </div>
+        {%- if nm > 0 %}
+        <details class="pf-more-thanks">
+          <summary>More appreciation <span>{{ nm }}</span></summary>
+          <div class="pf-quotes pf-quotes-sm">
+            {%- for q in qs %}{% unless q.featured %}
+            <blockquote class="pf-quote">{% if q.topic %}<span class="pf-quote-topic">{{ q.topic }}</span>{% endif %}<p>"{{ q.text }}"</p><cite>{{ q.by }}{% if q.date %} · {{ q.date }}{% endif %}</cite></blockquote>
+            {%- endunless %}{% endfor %}
+          </div>
+        </details>
+        {%- endif %}
+      </div>
+{%- endif -%}

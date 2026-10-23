@@ -429,3 +429,20 @@ i[class^="m-"] { display: inline-block; flex: none; width: 9px; height: 9px; bor
   .pf-map-country { break-inside: avoid; }
 }
 @media print { .pf-mapsec:not(.pm-ready) .pf-map { display: none !important; } }
+
+/* ── In their words (appreciation quotes at the bottom of a section) ── */
+.pf-thanks { margin-top: 2.2rem; padding-top: 1.4rem; border-top: 1px dashed var(--border); }
+.pf-thanks-head .pf-h3 { margin-bottom: .2rem; }
+.pf-thanks-lede { margin: 0; color: var(--muted); font-size: .84rem; }
+.pf-quote p { margin: 0; }
+.pf-quote-topic { display: block; margin-bottom: .35rem; font-style: normal; font-family: 'JetBrains Mono', monospace; font-size: .56rem; letter-spacing: .1em; text-transform: uppercase; color: var(--lime); }
+.pf-more-thanks { margin-top: 1.1rem; }
+.pf-more-thanks > summary { display: inline-flex; align-items: center; gap: .5rem; cursor: pointer; list-style: none; padding: .55rem 1rem; border: 1px solid var(--lime-line); border-radius: 999px;
+  background: var(--lime-dim); font-family: 'JetBrains Mono', monospace; font-size: .62rem; letter-spacing: .1em; text-transform: uppercase; color: var(--text); transition: all .2s; }
+.pf-more-thanks > summary::-webkit-details-marker { display: none; }
+.pf-more-thanks > summary::after { content: '+'; color: var(--lime); font-size: .8rem; }
+.pf-more-thanks[open] > summary::after { content: '-'; }
+.pf-more-thanks > summary:hover, .pf-more-thanks > summary:focus-visible { border-color: var(--lime); background: var(--lime-low); outline: none; }
+.pf-more-thanks > summary span { color: var(--lime); }
+.pf-quotes-sm .pf-quote { font-size: .86rem; }
+@media print { .pf-more-thanks > summary { display: none; } .pf-thanks .pf-quote { break-inside: avoid; } }

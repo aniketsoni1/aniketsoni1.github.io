@@ -408,15 +408,11 @@
             {%- endfor %}
           </tbody>
         </table>
-        {%- if P.peer_review.quotes %}
-        <div class="pf-quotes">
-          {%- for q in P.peer_review.quotes %}
-          <blockquote class="pf-quote">"{{ q.text }}"<cite>{{ q.by }}</cite></blockquote>
-          {%- endfor %}
-        </div>
-        {%- endif %}
       </div>
       {%- endif %}
+
+      {%- comment -%} Organizers' and editors' thanks for this section (bottom, so the main items lead). {%- endcomment -%}
+      {% include profile-thanks.html cat=s.key %}
     </section>
     {%- endfor %}
 

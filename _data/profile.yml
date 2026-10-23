@@ -212,12 +212,7 @@ judging:
 peer_review:
   total: "70"
   summary: "70 individually documented reviews for 25 international conferences in 2025 and 2026, most of them IEEE-sponsored or IEEE technically co-sponsored. Each review is confirmed by a review-completion record or a reviewer certificate. Also three open preprint reviews through PREreview."
-  # Quotes from organizers' written thanks (certificates and emails on file).
-  quotes:
-    - { text: "Your thorough evaluation and constructive feedback have helped maintain the high academic standards of our conference.", by: "Mohamad Farid Saaid, General Chair, IEEE AGRETA 2025" }
-    - { text: "The depth of your insights and the meticulousness of your reviews were instrumental in ensuring that only the most rigorous and innovative research was selected for presentation.", by: "Conference Chairs, IEEE-sponsored ETNCC 2026" }
-    - { text: "Your thoughtful feedback and time spent evaluating submissions have been instrumental in ensuring the high quality of the technical program for EDUCON 2026.", by: "On behalf of the IEEE EDUCON 2026 Organizing Committee" }
-    - { text: "Your expert review comments, constructive feedback, and technical insights significantly enhanced the quality of the conference proceedings and helped maintain high academic standards.", by: "Organizing Committee, I5CPS 2026, National Institute of Technology Puducherry" }
+  # Organizers' thanks for peer review live in `appreciation` (cat: judging).
   # `year` = year the reviews were completed (feeds the Achievement Timeline).
   venues:
     - { name: "IEEE INDICON 2026", org: "23rd IEEE India Council International Conference · IEEE Madras Section", where: "Chennai, India", papers: 4, year: 2026, geo: IN }
@@ -246,6 +241,47 @@ peer_review:
     - { name: "FIRE 2025", org: "Forum for Information Retrieval Evaluation · shared-task track · IIT (BHU)", where: "Varanasi, India", papers: 1, year: 2025, geo: IN }
     - { name: "IEEE IC3IT 2025", org: "IEEE Intl. Conf. on Communication, Computer and Information Technology · Mysuru Royal Institute of Technology", where: "Mandya, India", papers: 1, year: 2025, geo: IN }
     - { name: "PREreview", org: "Open community preprint reviews (one structured, one collaborative) · biomedical and clinical machine learning", where: "Online", note: "3 open reviews", year: 2025, open: true, geo: WW }
+
+# ── Appreciation: organizers', chairs' and editors' own words ───────
+# Quoted verbatim from certificates, letters and emails on file. Each quote
+# renders at the bottom of its section (cat = section key; peer-review
+# thanks use cat: judging with topic "Peer review"). `featured: true`
+# quotes show up front; the rest sit in a collapsed "More appreciation"
+# list so the main items stay visible. Keep at most six featured per section.
+appreciation:
+  # Judging and peer review
+  - { cat: judging, featured: true, topic: "Neal Awards", date: "Mar 2026", by: "Jameson Scarsella, Media Division Manager, SIIA Media", text: "Your insights and industry knowledge are what make this competition the most elite recognition program in business journalism. ... We would love to have you back in the mix for the 73rd Awards." }
+  - { cat: judging, featured: true, topic: "I-COM Data Creativity Awards", date: "Jun 2026", by: "Priscila Oliveira, Project Manager, I-COM Global", text: "... giving your time and expertise to help maintain the rigour and integrity of the Data Creativity Awards. Without judges who took that responsibility seriously, the awards would have meant very little, and that is not something we take for granted." }
+  - { cat: judging, featured: true, topic: "IEEE Senior Member panel", date: "Dec 2025", by: "Howard Wolfman, Chair, IEEE Admission and Advancement Committee", text: "Through your participation, you have helped to accomplish the mission and goals of the Admission and Advancement Committee and have been instrumental in making possible the elevation of deserving IEEE Members to Senior Member status." }
+  - { cat: judging, featured: true, topic: "Peer review", date: "Sep 2026", by: "Conference Chairs, IEEE-sponsored ETNCC 2026", text: "The depth of your insights and the meticulousness of your reviews were instrumental in ensuring that only the most rigorous and innovative research was selected for presentation." }
+  - { cat: judging, featured: true, topic: "Neal Awards", date: "Mar 2024", by: "Allison Starkman, Neal Awards, SIIA", text: "Your expertise and dedication to evaluating the submissions have been fundamental in ensuring the integrity and success of this year's awards." }
+  - { cat: judging, featured: true, topic: "Peer review", date: "May 2026", by: "On behalf of the IEEE EDUCON 2026 Organizing Committee", text: "Your thoughtful feedback and time spent evaluating submissions have been instrumental in ensuring the high quality of the technical program for EDUCON 2026." }
+  - { cat: judging, topic: "Neal Awards", date: "Jul 2025", by: "Jameson Scarsella, Media Division Manager, SIIA Media", text: "We're so grateful for the time, insight, and dedication you bring to the Neal Awards judging process. Your expertise ensures that the very best in B2B journalism is recognized and celebrated." }
+  - { cat: judging, topic: "Neal Awards", date: "Feb 2026", by: "Jameson Scarsella, Media Division Manager, SIIA Media", text: "Thank you again for the time and care you've put into judging this year's Neal Awards. We truly appreciate your expertise and thoughtful reviews." }
+  - { cat: judging, topic: "Neal Awards", date: "Feb 2026", by: "The Neal Awards Team, SIIA", text: "Your insights and scores will ensure we have a robust and diverse group of category winners come April." }
+  - { cat: judging, topic: "Neal Awards", date: "Apr 2025", by: "The Neals Team, SIIA", text: "Thank you for your attention to detail and your impeccable judging insights." }
+  - { cat: judging, topic: "Neal Awards", date: "Feb 2025", by: "Jameson Scarsella, Media Division Manager, SIIA Media", text: "We appreciate your time and effort in getting your entries scored in a timely manner, and your transparent communication during the process." }
+  - { cat: judging, topic: "MIT $100K", date: "Feb 2026", by: "MIT $100K Team", text: "We very much appreciated your flexibility in addition to your thoughtful feedback, expertise, and enthusiasm. We are excited to welcome the finalists you helped bring to the stage." }
+  - { cat: judging, topic: "MIT $100K", date: "Apr 2026", by: "The MIT 100K Organizing Team", text: "Thank you again for your contributions in online judging. This event would not have been possible without your support!" }
+  - { cat: judging, topic: "MIT $100K", date: "Nov 2025", by: "MIT 100K Team", text: "We very much appreciated your thoughtful feedback, expertise, and enthusiasm, and we are excited to welcome the finalists to the stage." }
+  - { cat: judging, topic: "MIT $100K", date: "Nov 2024", by: "MIT $100K Organizing Team", text: "We truly appreciate you taking the time to evaluate applications and provide valuable feedback." }
+  - { cat: judging, topic: "Anthem Awards", date: "Oct 2026", by: "Denise Gilley, Academy Director, IADAS", text: "Since you kindly contributed your time to review this season's submissions, we believe that you could offer additional and invaluable insights, and we'd love to include a quote from you in this upcoming feature." }
+  - { cat: judging, topic: "IEEE Senior Member panel", date: "Dec 2025", by: "The IEEE Senior Member Team, IEEE Member and Geographic Activities", text: "Your insights and contributions played a crucial role in the success of the meeting and are truly appreciated." }
+  - { cat: judging, topic: "Peer review", date: "2025", by: "Mohamad Farid Saaid, General Chair, IEEE AGRETA 2025", text: "Your thorough evaluation and constructive feedback have helped maintain the high academic standards of our conference." }
+  - { cat: judging, topic: "Peer review", date: "Mar 2026", by: "Organizing Committee, I5CPS 2026, National Institute of Technology Puducherry", text: "Your expert review comments, constructive feedback, and technical insights significantly enhanced the quality of the conference proceedings and helped maintain high academic standards." }
+  - { cat: judging, topic: "Peer review", date: "Dec 2025", by: "Organizing Committee, IEEE PuneCon 2025, Savitribai Phule Pune University", text: "Your critical insights and constructive feedback played a vital role in maintaining the high academic and technical standards of the conference." }
+  - { cat: judging, topic: "Peer review", date: "Oct 2025", by: "Team ICETEG 2025, JSS Science and Technology University", text: "Your constructive feedback and expert insights have been instrumental in ensuring the high academic quality and integrity of the conference proceedings." }
+  - { cat: judging, topic: "Peer review", date: "Aug 2026", by: "MAESTRO 2026 Organising Committee", text: "Your time, expertise, and constructive feedback have contributed significantly to the quality and success of the conference." }
+  - { cat: judging, topic: "Peer review", date: "Aug 2025", by: "Organizing Committee, IEEE NMITCON 2025", text: "The event might not be successful without your contribution to the reviewing process." }
+  - { cat: judging, topic: "Peer review", date: "Aug 2025", by: "Chair, ICoMMS 2025, Universiti Malaysia Perlis", text: "We sincerely appreciate your support and contribution to the success of this event." }
+  - { cat: judging, topic: "Peer review", date: "Jun 2025", by: "Grace Park, PREreview", text: "Your work on the major concerns paragraph is much appreciated." }
+  # Awards
+  - { cat: awards, featured: true, topic: "AFCEA 40 Under Forty", date: "May 2024", by: "Veronica Snell, Emerging Leaders Coordinator, AFCEA International", text: "It was a really hard decision for the judges since we received so many incredible nominations." }
+  # Media
+  - { cat: media, featured: true, topic: "DZone", date: "Aug 2026", by: "The DZone Team, on the article's homepage feature", text: "Thank you for submitting such an informative piece, and we hope to see more of your content!" }
+  # Community
+  - { cat: community, featured: true, topic: "IEEE Day", date: "Jan 2026", by: "Abdul Halik M I, IEEE Day 2025 Chair", text: "Your dedication, creativity, and proactive engagement played a pivotal role in the successful celebration of IEEE Day 2025 across multiple regions." }
+  - { cat: community, featured: true, topic: "Topmate", date: "Aug 2026", by: "Dinesh, Topmate", text: "thanks for what you did here, and I mean that plainly. ... twenty months is a long time to keep a calendar open for strangers." }
 
 # ── 03 · Professional Memberships ────────────────────────────────────
 memberships:
