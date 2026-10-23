@@ -1,0 +1,832 @@
+{
+  "generated_at": "2026-10-23T17:54:20.825521+00:00",
+  "post_date": "2026-10-23",
+  "sources_checked": 48,
+  "candidates": 45,
+  "items": [
+    {
+      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+      "summary": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+      "published_at": "2026-10-23T17:00:00+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "Azure",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.99,
+      "importance_score": 0.8963,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/index/scaling-storage-one-billion-users-part-two"
+    },
+    {
+      "title": "Multi-tenant GPU Kubernetes on simulated hardware with Kamaji and HAMi",
+      "summary": "GPU teams usually face a bad trade-off. Give every team its own Kubernetes cluster and you pay for a control plane per team. Put everyone in one shared cluster and you get weak isolation. Either way,...",
+      "source_name": "CNCF",
+      "source_url": "https://www.cncf.io/blog/2026/10/23/multi-tenant-gpu-kubernetes-on-simulated-hardware-with-kamaji-and-hami/",
+      "published_at": "2026-10-23T11:30:00+00:00",
+      "category": "open_source_foundations",
+      "tags": [
+        "Kubernetes",
+        "GPUs",
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8733,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.cncf.io/?p=176482"
+    },
+    {
+      "title": "Today, we hacked what we'd set out to hack: the iPhone",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://blog.calif.io/p/iphone",
+      "published_at": "2026-10-23T16:21:50+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.8636,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50211474"
+    },
+    {
+      "title": "Scaling NVIDIA TensorRT Performance Optimization Beyond a Single Build Route with the Global Performance Tuner, Part 2",
+      "summary": "The Global Performance Tuner is a feature for automatic performance tuning released in NVIDIA TensorRT 11.1. It provides automatic, accuracy-aware and...",
+      "source_name": "NVIDIA Developer Blog",
+      "source_url": "https://developer.nvidia.com/blog/scaling-nvidia-tensorrt-performance-optimization-beyond-a-single-build-route-with-the-global-performance-tuner-part-2/",
+      "published_at": "2026-10-23T17:27:52+00:00",
+      "category": "mlops",
+      "tags": [
+        "GPUs",
+        "Mlops"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8382,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://developer.nvidia.com/blog/?p=124139"
+    },
+    {
+      "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
+      "summary": "",
+      "source_name": "Hugging Face",
+      "source_url": "https://huggingface.co/blog/allenai/litpivot",
+      "published_at": "2026-10-23T16:15:50+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "Research",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.9,
+      "importance_score": 0.8332,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://huggingface.co/blog/allenai/litpivot"
+    },
+    {
+      "title": "Using AI Agents to Teach Robots Like Microduck to Walk in Simulation",
+      "summary": "Teaching a robot to navigate an obstacle course requires more than a walking policy. It must perceive its surroundings, maintain balance, and adjust its actions...",
+      "source_name": "NVIDIA Developer Blog",
+      "source_url": "https://developer.nvidia.com/blog/using-ai-agents-to-teach-robots-like-microduck-to-walk-in-simulation/",
+      "published_at": "2026-10-23T14:58:32+00:00",
+      "category": "mlops",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Mlops"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8278,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://developer.nvidia.com/blog/?p=124028"
+    },
+    {
+      "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
+      "summary": "https://www.kimi.com/code/docs/en/kimi-code/models.html",
+      "source_name": "Hacker News",
+      "source_url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
+      "published_at": "2026-10-23T16:59:08+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.6345,
+      "importance_score": 0.8275,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50212065"
+    },
+    {
+      "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+      "summary": "OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem.",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+      "published_at": "2026-10-23T00:00:00+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI",
+        "Security",
+        "Research",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.99,
+      "importance_score": 0.8254,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/index/openai-nask-ai-safety-security-partnership"
+    },
+    {
+      "title": "Open call for guest investigators in the life sciences",
+      "summary": "Open call for guest investigators in the life sciences Anthropic",
+      "source_name": "Anthropic",
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE93eS1EdWp1NUVXZG1jYXF5OHRWZjgtakZ2WXh6WmY3OHRfWndmTEZlVmRaZGJjSExGdGZvZDZjSEgwbDVKNmZ4WlZxVUliWGdRdE82VzdzVFF6OE0xNEtDeXdaaFJlUXNzdDRNNzJic2lSeHhKWHhKZ3l5MkVGaWc?oc=5",
+      "published_at": "2026-10-22T22:03:06+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.99,
+      "importance_score": 0.8173,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "CBMif0FVX3lxTE93eS1EdWp1NUVXZG1jYXF5OHRWZjgtakZ2WXh6WmY3OHRfWndmTEZlVmRaZGJjSExGdGZvZDZjSEgwbDVKNmZ4WlZxVUliWGdRdE82VzdzVFF6OE0xNEtDeXdaaFJlUXNzdDRNNzJic2lSeHhKWHhKZ3l5MkVGaWc"
+    },
+    {
+      "title": "Build more responsive apps with the Decisions API",
+      "summary": "Fast, focused, low-cost decisions for any application.",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/decisions-api",
+      "published_at": "2026-10-22T19:00:00+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "APIs",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.99,
+      "importance_score": 0.8046,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/index/decisions-api"
+    },
+    {
+      "title": "OpenSSL 4.1.0",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://github.com/openssl/openssl/releases/tag/openssl-4.1.0",
+      "published_at": "2026-10-23T12:42:44+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.632,
+      "importance_score": 0.8034,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50208099"
+    },
+    {
+      "title": "Donating Agent Skills to the Agentic AI Foundation",
+      "summary": "Donating Agent Skills to the Agentic AI Foundation Anthropic",
+      "source_name": "Anthropic",
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOEZpcUwyanBJN3AtN3hwdGdNeS1obVZxc1c5c2lWZ3ZZUWFWM2M2SHFKNHB2Z3ZlQndXWUNMU3NGU3g1NElZeEw1M1pHaUJOZzZqeWsxSlFDSzUwcGFVUmxOUDhuZklpeDZ1ODVQc2dHNnZkUnVSTjE1dzU5R1ZVcjJURHl6RW1z?oc=5",
+      "published_at": "2026-10-22T18:25:44+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.99,
+      "importance_score": 0.8022,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "CBMiiAFBVV95cUxOOEZpcUwyanBJN3AtN3hwdGdNeS1obVZxc1c5c2lWZ3ZZUWFWM2M2SHFKNHB2Z3ZlQndXWUNMU3NGU3g1NElZeEw1M1pHaUJOZzZqeWsxSlFDSzUwcGFVUmxOUDhuZklpeDZ1ODVQc2dHNnZkUnVSTjE1dzU5R1ZVcjJURHl6RW1z"
+    },
+    {
+      "title": "The foolishness of \"natural language programming\" (1978)",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html",
+      "published_at": "2026-10-23T00:52:01+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.799,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50203161"
+    },
+    {
+      "title": "Docker is weird",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://codeandcake.dev/posts/2026-10-22-docker-is-weird",
+      "published_at": "2026-10-22T23:45:56+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Containers",
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7944,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50202681"
+    },
+    {
+      "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://edjefferson.com/localwiki/",
+      "published_at": "2026-10-22T23:01:18+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7913,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50202285"
+    },
+    {
+      "title": "LLMs are making formal software verification feasible at a much larger scale",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.anthropic.com/research/formal-verification",
+      "published_at": "2026-10-22T22:54:43+00:00",
+      "category": "aggregators",
+      "tags": [
+        "LLMs",
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7909,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50202217"
+    },
+    {
+      "title": "Salesforce Named a Leader in 2026 Gartner® Magic Quadrant™ for Digital Commerce for the 11th Consecutive Year",
+      "summary": "Salesforce today announced it was positioned as a Leader in the 2026 Gartner® Magic Quadrant™ for Digital Commerce, marking the 11th consecutive year the company has been recognized for its vision and execution in the space. Salesforce was positioned furthest to the right within the quadrant on Completeness of Vision. Commerce Cloud is a leading […]",
+      "source_name": "Salesforce News",
+      "source_url": "https://www.salesforce.com/news/stories/gartner-magic-quadrant-digital-commerce-2026/",
+      "published_at": "2026-10-22T15:00:00+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "Cloud",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7879,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.salesforce.com/?p=96041"
+    },
+    {
+      "title": "Beyond tree cover: mapping the world’s forest types",
+      "summary": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types.",
+      "source_name": "Google DeepMind",
+      "source_url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
+      "published_at": "2026-10-22T14:30:24+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.97,
+      "importance_score": 0.7859,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/"
+    },
+    {
+      "title": "Ask HN: If the models are so good, why doesn't OpenAI just start 100 companies?",
+      "summary": "Title is a bit of an exaggeration but the question is more: if the frontier models are so good, why even sell them as your primary money maker? Couldn't OpenAI or Anthropic make a lot more money by just starting companies themselves that leverage the models and building their own products? Is…",
+      "source_name": "Hacker News",
+      "source_url": "https://news.ycombinator.com/item?id=50200997",
+      "published_at": "2026-10-22T21:03:55+00:00",
+      "category": "aggregators",
+      "tags": [
+        "AI Models",
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7832,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50200997"
+    },
+    {
+      "title": "Kazakhstan Expands Compute for Its AI Future",
+      "summary": "Kazakhstan’s AI ecosystem is moving from infrastructure plans to deployment. The shift is visible across the full AI stack — from infrastructure to models to applications. The announcements below — coinciding with a visit to Astana by NVIDIA founder and CEO Jensen Huang — point to the nation’s increasing supply of accelerated computing, along with […]",
+      "source_name": "NVIDIA Blog",
+      "source_url": "https://blogs.nvidia.com/blog/kazakhstan-ai-compute-ecosystem/",
+      "published_at": "2026-10-23T02:00:13+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "GPUs",
+        "AI Models",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.7738,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://blogs.nvidia.com/?p=99413"
+    },
+    {
+      "title": "Filtering and reducing AI agent telemetry with the OpenTelemetry Collector",
+      "summary": "Turn on an AI coding agent’s telemetry and it throws a wall of text at you. It’s expensive to store and what’s worse, you can’t make sense of it. It’s all OpenTelemetry native, though. So you...",
+      "source_name": "CNCF",
+      "source_url": "https://www.cncf.io/blog/2026/10/22/filtering-and-reducing-ai-agent-telemetry-with-the-opentelemetry-collector/",
+      "published_at": "2026-10-22T11:00:00+00:00",
+      "category": "open_source_foundations",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.87,
+      "importance_score": 0.7712,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.cncf.io/?p=176272"
+    },
+    {
+      "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://github.com/NVIDIA/OpenShell",
+      "published_at": "2026-10-22T17:44:06+00:00",
+      "category": "aggregators",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7693,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50198675"
+    },
+    {
+      "title": "Does Your Model Run on AWS Trainium? Look It Up",
+      "summary": "",
+      "source_name": "Hugging Face",
+      "source_url": "https://huggingface.co/blog/torch-neuronx-model-support",
+      "published_at": "2026-10-23T00:00:00+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "AWS",
+        "AI Models",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.9,
+      "importance_score": 0.7654,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://huggingface.co/blog/torch-neuronx-model-support"
+    },
+    {
+      "title": "How does Fable 5.1 hide messages in images?",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.lesswrong.com/posts/WHEQps5PK8LrrcTAb/how-does-fable-5-1-hide-messages-in-images",
+      "published_at": "2026-10-22T21:41:13+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.6395,
+      "importance_score": 0.7596,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50201445"
+    },
+    {
+      "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+      "summary": "",
+      "source_name": "Hugging Face",
+      "source_url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
+      "published_at": "2026-10-22T22:24:34+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI Agents",
+        "Databases",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.9,
+      "importance_score": 0.7588,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://huggingface.co/blog/microsoft/thinkingbox-training"
+    },
+    {
+      "title": "The Elizabeth Holmes bump is real",
+      "summary": "The new documentary \"You Can See Everything\" is fueling a fresh wave of fascination with the saga surrounding disgraced founder Elizabeth Holmes.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/elizabeth-holmes-you-can-see-everything-bump-spotify-dropout-book-2026-10",
+      "published_at": "2026-10-23T17:21:12+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7577,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/elizabeth-holmes-you-can-see-everything-bump-spotify-dropout-book-2026-10"
+    },
+    {
+      "title": "What’s the Deal With Billy Evans? A Spoiler-Filled Guide to ‘You Can See Everything’",
+      "summary": "“You shouldn’t overbeat scrambled eggs.”",
+      "source_name": "The New York Times - Technology",
+      "source_url": "https://www.nytimes.com/2026/10/23/podcasts/hardfork-billy-evans-holmes.html",
+      "published_at": "2026-10-23T17:19:38+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7576,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.nytimes.com/2026/10/23/podcasts/hardfork-billy-evans-holmes.html"
+    },
+    {
+      "title": "Uber doubles down on ChatGPT for workers after last month's layoffs",
+      "summary": "Uber offers ChatGPT Work to 30,000 employees after layoffs. The AI tool assists with tasks like meeting briefs and data analysis.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/uber-uses-openais-chatgpt-work-after-major-layoffs-2026-10",
+      "published_at": "2026-10-23T17:02:56+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7564,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/uber-uses-openais-chatgpt-work-after-major-layoffs-2026-10"
+    },
+    {
+      "title": "What’s the Best iPhone to Buy or Avoid Right Now? (2026)",
+      "summary": "The first folding iPhone Duo is here, alongside the 18 Pro and 18 Pro Max, but they’re not your only options. We have all the details on Apple’s smartphone lineup to help you find the right model.",
+      "source_name": "Wired",
+      "source_url": "https://www.wired.com/gallery/iphone-buying-guide/",
+      "published_at": "2026-10-23T17:00:00+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "AI Models",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7562,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "5bda06187dcbf9541117c642"
+    },
+    {
+      "title": "The states with the fewest and most data centers, ranked",
+      "summary": "The AI boom has ramped up data center development. Some states are feeling the industry's growth more than others, like Texas and Virginia.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/number-data-centers-in-each-state-2026-10",
+      "published_at": "2026-10-23T16:56:01+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.756,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/number-data-centers-in-each-state-2026-10"
+    },
+    {
+      "title": "LeBron James has a decorated NBA career. His real estate portfolio is pretty impressive, too.",
+      "summary": "NBA champion LeBron James has built a multimillion-dollar real estate portfolio. Here are the homes he's owned in the US.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/lebron-james-homes-properties-photos-see-inside",
+      "published_at": "2026-10-23T16:43:12+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7551,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/lebron-james-homes-properties-photos-see-inside"
+    },
+    {
+      "title": "Miley Cyrus doesn't need popular music to stay a pop diva",
+      "summary": "Miley Cyrus' new album \"Bass Persuades\" is not selling well, and her recent live show was criticized. Here's why she'll still be fine.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/miley-cyrus-album-bass-persuades-live-hollywood-bowl-career-2026-10",
+      "published_at": "2026-10-23T16:28:57+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7541,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/miley-cyrus-album-bass-persuades-live-hollywood-bowl-career-2026-10"
+    },
+    {
+      "title": "AI models think humans are a bunch of amoral sheep",
+      "summary": "Ask LLMs for their most controversial take on humanity, and it turns out they have little nice to say about us, as one AI experiment found",
+      "source_name": "The Register",
+      "source_url": "https://www.theregister.com/ai-and-ml/2026/10/23/ai-models-think-humans-are-a-bunch-of-amoral-sheep/5305123",
+      "published_at": "2026-10-23T16:26:13+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "LLMs",
+        "AI Models",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7539,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.theregister.com/a/5305123"
+    },
+    {
+      "title": "Expanding Claude availability and deployment choice on Google Cloud",
+      "summary": "Every organization has unique requirements for building and scaling generative AI. At Google Cloud, we are committed to giving developers model choice and architectural flexibility to run workloads however they need. Today, we’re announcing the general availability of an Anthropic-managed deployment option for Claude Models on Google Cloud. This gives teams more choice in how they run their models, helping them consolidate AI workloads on Google Cloud alongside our…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/products/ai-machine-learning/expanding-claude-availability-on-google-cloud/",
+      "published_at": "2026-10-22T21:00:00+00:00",
+      "category": "cloud_providers",
+      "tags": [
+        "AI",
+        "GenAI",
+        "Cloud",
+        "Google Cloud",
+        "AI Models",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.7529,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/products/ai-machine-learning/expanding-claude-availability-on-google-cloud/"
+    },
+    {
+      "title": "AWS Continuum for code vulnerabilities is now generally available",
+      "summary": "AWS Continuum for code vulnerabilities is a new security service that uses AI to automatically find, validate, and prioritize code vulnerabilities in your environment, then delivers ready-to-review fixes as pull requests replacing what previously took hours of manual investigation and days of cross-team coordination.",
+      "source_name": "AWS News Blog",
+      "source_url": "https://aws.amazon.com/blogs/aws/aws-continuum-for-code-vulnerabilities-is-now-generally-available/",
+      "published_at": "2026-10-22T20:33:10+00:00",
+      "category": "cloud_providers",
+      "tags": [
+        "AI",
+        "AWS",
+        "Security",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.7511,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "7ce6bf5eb7b5d26b8ad5cb6ced771ac43468759d"
+    },
+    {
+      "title": "Video Friday: Quadruped Robot Solves Giant Rubik’s Cube by Itself",
+      "summary": "Your weekly selection of awesome robot videos",
+      "source_name": "IEEE Spectrum",
+      "source_url": "https://spectrum.ieee.org/video-friday-rubiks-cube-robot",
+      "published_at": "2026-10-23T15:30:02+00:00",
+      "category": "research_feeds",
+      "tags": [
+        "Research Feeds"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.75,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://spectrum.ieee.org/video-friday-rubiks-cube-robot"
+    },
+    {
+      "title": "Hackers Breach Enterprise Firewalls and VPNs, Exposing Over 70,000 Credentials",
+      "summary": "Cybersecurity researchers have disclosed details of a large-scale campaign that has targeted exposed network edge devices such as Fortinet FortiGate and Palo Alto Networks GlobalProtect firewalls. \"Artifacts from this investigation also indicate that operators in this campaign have obtained access to numerous organizations worldwide, and have attempted to further compromise some victims,",
+      "source_name": "The Hacker News",
+      "source_url": "https://thehackernews.com/2026/10/hackers-breach-enterprise-firewalls-and.html",
+      "published_at": "2026-10-23T13:50:56+00:00",
+      "category": "cybersecurity",
+      "tags": [
+        "Research",
+        "Cybersecurity"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7431,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://thehackernews.com/2026/10/hackers-breach-enterprise-firewalls-and.html"
+    },
+    {
+      "title": "A Small Model Asks Better: Fine-Tuning Query Clarification for Retrieval-Augmented Generation",
+      "summary": "arXiv:2610.28686v1 Announce Type: new Abstract: Query clarification is essential for retrieval-augmented generation (RAG) systems that face ambiguous user queries. We consider multi-turn grounded conversational scenarios where a user query is either ill-formed or ambiguous in the context of the prior dialog or, more interestingly, it may be well-formed but when posed against retrieved documents there are multiple relevant interpretations. The task is to recognize both such…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2610.28686",
+      "published_at": "2026-10-23T04:00:00+00:00",
+      "category": "research_feeds",
+      "tags": [
+        "AI Models",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7421,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2610.28686v1"
+    },
+    {
+      "title": "TT-SAX: A Two-Track Time Series Symbolization for Natural Language Shape Querying",
+      "summary": "arXiv:2610.30593v1 Announce Type: new Abstract: Natural language querying for time series databases aims to let users find what they need in long histories of data by asking in plain language. Shape queries ask how a series moves. They are the main challenge of this task. Recent work makes them feasible by using symbolization as a bridge between the query and the long history. However, existing symbolizations were designed for compression, similarity indexing, or…",
+      "source_name": "arXiv cs.DB (Databases)",
+      "source_url": "https://arxiv.org/abs/2610.30593",
+      "published_at": "2026-10-23T04:00:00+00:00",
+      "category": "databases",
+      "tags": [
+        "Databases",
+        "Research"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7421,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2610.30593v1"
+    },
+    {
+      "title": "Getting a GRIP on Graph-Based Search for Learned Sparse Retrieval",
+      "summary": "arXiv:2610.30425v1 Announce Type: cross Abstract: Learned sparse retrieval (LSR) has recently gained traction in the information retrieval community for the ability to combine the generalization capabilities of neural representations with the interpretability of keyword-based search. A number of recent works have demonstrated that inverted indexes, when appropriately modified for learned sparse embeddings, achieve state-of-the-art recall-latency tradeoffs for LSR, often…",
+      "source_name": "arXiv cs.DB (Databases)",
+      "source_url": "https://arxiv.org/abs/2610.30425",
+      "published_at": "2026-10-23T04:00:00+00:00",
+      "category": "databases",
+      "tags": [
+        "Research",
+        "Databases"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7421,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2610.30425v1"
+    },
+    {
+      "title": "Detecting AI Training in Datacentre Power",
+      "summary": "arXiv:2610.30182v1 Announce Type: new Abstract: AI governance agreements require methods to detect large model training runs on a monitored computing cluster, without trusting the operator. We develop a method to detect synchronous model training in facility-level power by Viterbi tracking of the wandering iteration cadence. On simulated datacentre power, when the operator makes no attempt to hide, the Viterbi tracker detects at least $96\\%$ of training runs against a…",
+      "source_name": "arXiv cs.CR (Security)",
+      "source_url": "https://arxiv.org/abs/2610.30182",
+      "published_at": "2026-10-23T04:00:00+00:00",
+      "category": "cybersecurity",
+      "tags": [
+        "AI",
+        "Data Governance",
+        "AI Models",
+        "Research",
+        "Cybersecurity"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7421,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2610.30182v1"
+    },
+    {
+      "title": "Security Update on PHP2Shell: Impact for Docker Customers",
+      "summary": "On Tuesday, October 20, 2026, Docker began tracking two critical vulnerabilities in PHP, CVE-2026-109618 and CVE-2026-109619, commonly known as PHP2Shell.",
+      "source_name": "Docker Blog",
+      "source_url": "https://www.docker.com/blog/security-update-on-php2shell-impact-for-docker-customers/",
+      "published_at": "2026-10-22T17:22:47+00:00",
+      "category": "developer_platforms",
+      "tags": [
+        "Containers",
+        "Security",
+        "Developer Platforms"
+      ],
+      "confidence_score": 0.85,
+      "importance_score": 0.7378,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.docker.com/?p=95191"
+    },
+    {
+      "title": "How bug bounty sharpens one researcher’s security skills",
+      "summary": "As Cybersecurity Awareness Month continues, the GitHub Bug Bounty team spotlights @r31n, diving into their research approach, favorite bug classes, and advice for aspiring hackers. The post How bug bounty sharpens one researcher’s security skills appeared first on The GitHub Blog .",
+      "source_name": "The GitHub Blog",
+      "source_url": "https://github.blog/security/how-bug-bounty-sharpens-one-researchers-security-skills/",
+      "published_at": "2026-10-22T17:21:30+00:00",
+      "category": "developer_platforms",
+      "tags": [
+        "Security",
+        "Developer Tools",
+        "Research",
+        "Developer Platforms"
+      ],
+      "confidence_score": 0.9,
+      "importance_score": 0.7377,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://github.blog/?p=99645"
+    },
+    {
+      "title": "Sam and Dario Sell Legroom",
+      "summary": "The ten smartest AI models carry only 6% of the traffic on an open platform.",
+      "source_name": "AI Secret",
+      "source_url": "https://aisecret.us/sam-and-dario-sell-legroom/",
+      "published_at": "2026-10-23T12:30:19+00:00",
+      "category": "ai_newsletters",
+      "tags": [
+        "AI",
+        "AI Models",
+        "Ai Newsletters"
+      ],
+      "confidence_score": 0.64,
+      "importance_score": 0.7375,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "6ad6da609f379b89dc745723"
+    },
+    {
+      "title": "Black October: The internet is under attack",
+      "summary": "Black October: The internet is under attack Superhuman AI",
+      "source_name": "Superhuman (Zain Kahn)",
+      "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1wSEQ5M3VYd2I1NHlzRkhxaDR4R1EzSE56dnZQeU9MZmQxbWJvcXZNU0tuWnNpQWpKSU50VVFVdUJzZVJVNFQ5NHpoakFwOFNsdmgzdFJVNnVodHpnUDl4QkxBcy1NeVlSQUhiRWhCZ1B5TFN1czd0WTBn?oc=5",
+      "published_at": "2026-10-23T11:35:26+00:00",
+      "category": "ai_newsletters",
+      "tags": [
+        "AI",
+        "Ai Newsletters"
+      ],
+      "confidence_score": 0.64,
+      "importance_score": 0.7337,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "CBMiekFVX3lxTE1wSEQ5M3VYd2I1NHlzRkhxaDR4R1EzSE56dnZQeU9MZmQxbWJvcXZNU0tuWnNpQWpKSU50VVFVdUJzZVJVNFQ5NHpoakFwOFNsdmgzdFJVNnVodHpnUDl4QkxBcy1NeVlSQUhiRWhCZ1B5TFN1czd0WTBn"
+    }
+  ]
+}
