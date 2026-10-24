@@ -1,0 +1,808 @@
+{
+  "post_date": "2026-10-24",
+  "sources_checked": 48,
+  "count": 45,
+  "items": [
+    {
+      "title": "I Don't Understand Quantum Physics (2018)",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.southampton.ac.uk/~doug/quantum_physics/index.html",
+      "published_at": "2026-10-24T09:53:26Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.6485,
+      "importance_score": 0.8378,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50219666"
+    },
+    {
+      "title": "Root shell on Samsung TV",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://twitter.com/log4j/status/2113014142600953868?s=46",
+      "published_at": "2026-10-24T05:49:57Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.8247,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50218633"
+    },
+    {
+      "title": "OBS Studio 33",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://github.com/obsproject/obs-studio/releases/tag/33.0.0",
+      "published_at": "2026-10-24T04:49:58Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.8205,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50218430"
+    },
+    {
+      "title": "How close can pure functional programming get to C?",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://rtfeldman.com/fp-vs-c",
+      "published_at": "2026-10-24T03:43:54Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.6505,
+      "importance_score": 0.8159,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50218195"
+    },
+    {
+      "title": "Twelve years of distributed SQLite",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://philipotoole.com/twelve-years-of-distributed-sqlite/",
+      "published_at": "2026-10-24T01:16:58Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.8057,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50217500"
+    },
+    {
+      "title": "Around a dozen banking apps began specifically permitting GrapheneOS",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://grapheneos.social/@GrapheneOS/117492375462459244",
+      "published_at": "2026-10-24T01:15:14Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.8056,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50217495"
+    },
+    {
+      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+      "summary": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+      "published_at": "2026-10-23T17:00:00Z",
+      "category": "ai_model_companies",
+      "tags": [
+        "Azure",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.99,
+      "importance_score": 0.8012,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/index/scaling-storage-one-billion-users-part-two"
+    },
+    {
+      "title": "CVE Tracker",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://cve.0xosprey.com/",
+      "published_at": "2026-10-23T21:21:47Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.6505,
+      "importance_score": 0.7894,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50215530"
+    },
+    {
+      "title": "Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497",
+      "published_at": "2026-10-24T08:06:39Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.6285,
+      "importance_score": 0.7804,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50219177"
+    },
+    {
+      "title": "Dessa: Conversation Model trained only on speech",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://block.xyz/dessa",
+      "published_at": "2026-10-23T19:09:54Z",
+      "category": "aggregators",
+      "tags": [
+        "AI Models",
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7802,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50213925"
+    },
+    {
+      "title": "Multi-tenant GPU Kubernetes on simulated hardware with Kamaji and HAMi",
+      "summary": "GPU teams usually face a bad trade-off. Give every team its own Kubernetes cluster and you pay for a control plane per team. Put everyone in one shared cluster and you get weak isolation. Either way,...",
+      "source_name": "CNCF",
+      "source_url": "https://www.cncf.io/blog/2026/10/23/multi-tenant-gpu-kubernetes-on-simulated-hardware-with-kamaji-and-hami/",
+      "published_at": "2026-10-23T11:30:00Z",
+      "category": "open_source_foundations",
+      "tags": [
+        "Kubernetes",
+        "GPUs",
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.87,
+      "importance_score": 0.7783,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.cncf.io/?p=176482"
+    },
+    {
+      "title": "Securing our frontier model training environment",
+      "summary": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+      "published_at": "2026-10-23T10:00:00Z",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI Models",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.97,
+      "importance_score": 0.7721,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/index/securing-our-frontier-model-training-environment"
+    },
+    {
+      "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
+      "summary": "https://www.kimi.com/code/docs/en/kimi-code/models.html https://artificialanalysis.ai/models/kimi-k3-1-pro https://www.modelcompare.ai/blog/china-open-source-ai",
+      "source_name": "Hacker News",
+      "source_url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
+      "published_at": "2026-10-23T16:59:08Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7711,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50212065"
+    },
+    {
+      "title": "Today, we hacked what we'd set out to hack: the iPhone",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://blog.calif.io/p/iphone",
+      "published_at": "2026-10-23T16:21:50Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7686,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50211474"
+    },
+    {
+      "title": "Build RAG-ready indexes from Amazon S3 with Amazon OpenSearch intelligent ingestion",
+      "summary": "Amazon OpenSearch intelligent ingestion is a fully managed, serverless capability that turns documents and structured data in Amazon S3 into RAG-ready, searchable indexes with no pipelines to manage. Learn how it works and when to use Ingestion Jobs or Ingestion Streams.",
+      "source_name": "AWS Big Data Blog",
+      "source_url": "https://aws.amazon.com/blogs/big-data/build-rag-ready-indexes-from-amazon-s3-with-amazon-opensearch-intelligent-ingestion/",
+      "published_at": "2026-10-23T21:50:38Z",
+      "category": "cloud_providers",
+      "tags": [
+        "Data Pipelines",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.92,
+      "importance_score": 0.7614,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "678974c5e2dbafe968397b6ceef5666c437facac"
+    },
+    {
+      "title": "Gen Z loves Sol de Janeiro — so I tried 6 of the brand's most popular fragrances and ranked them worst to best",
+      "summary": "Gen Z loves $39 perfume mists from Sol de Janeiro the same way millennials loved scents from Victoria's Secret and Bath & Body Works.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/sol-de-janeiro-perfume-mists-ranked-2026-10",
+      "published_at": "2026-10-24T16:36:01Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7595,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/sol-de-janeiro-perfume-mists-ranked-2026-10"
+    },
+    {
+      "title": "Zelenskyy says Starlink is working again in Ukraine and thanks Americans who 'took this seriously'",
+      "summary": "Zelenskyy's comments came after a chaotic 10-day period when connection speeds for Starlink were throttled in Ukraine.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/starlink-ukraine-zelenskyy-elon-musk-trump-2026-10",
+      "published_at": "2026-10-24T16:15:57Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7581,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/starlink-ukraine-zelenskyy-elon-musk-trump-2026-10"
+    },
+    {
+      "title": "Block’s new voice model sounds eerily human",
+      "summary": "Block said that the voice model can run locally on a MacBook M4 Max",
+      "source_name": "TechCrunch - AI",
+      "source_url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+      "published_at": "2026-10-24T16:00:00Z",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI Models",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.757,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://techcrunch.com/?p=3181490"
+    },
+    {
+      "title": "Enable cross-Region fine-grained data access with AWS Lake Formation and Trusted Identity Propagation",
+      "summary": "Trusted Identity Propagation with AWS IAM Identity Center now works across Regions. Learn how to share AWS Lake Formation-governed Amazon S3 and Amazon Redshift data in one Region and query it from another as the actual corporate user, with fine-grained access control and per-user auditability in AWS CloudTrail.",
+      "source_name": "AWS Big Data Blog",
+      "source_url": "https://aws.amazon.com/blogs/big-data/enable-cross-region-fine-grained-data-access-with-aws-lake-formation-and-trusted-identity-propagation/",
+      "published_at": "2026-10-23T19:50:12Z",
+      "category": "cloud_providers",
+      "tags": [
+        "Cloud",
+        "AWS",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.92,
+      "importance_score": 0.753,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "02470ffebdf3f6373778191231f3b6d5e6549dd9"
+    },
+    {
+      "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
+      "summary": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races.",
+      "source_name": "TechCrunch - AI",
+      "source_url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
+      "published_at": "2026-10-24T15:00:00Z",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "AI Models",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7529,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://techcrunch.com/?p=3181243"
+    },
+    {
+      "title": "Apple Music 404 Not Found",
+      "summary": "https://www.macrumors.com/2026/10/23/apple-music-has-a-hidde...",
+      "source_name": "Hacker News",
+      "source_url": "https://music.apple.com/this-url-doesnt-exist",
+      "published_at": "2026-10-23T12:28:47Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7524,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50207910"
+    },
+    {
+      "title": "I'm 38 and feel like my life is speeding up. My 61-year-old husband wants to slow down.",
+      "summary": "Raising two young children has made me realize how much our 23-year age difference affects our lives.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/older-husband-young-kids-age-gap-marriage-2026-10",
+      "published_at": "2026-10-24T14:36:01Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7512,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/older-husband-young-kids-age-gap-marriage-2026-10"
+    },
+    {
+      "title": "My best friend and I have taken a trip together every year since college. Our getaways look very different now.",
+      "summary": "Every year since graduating from college, my best friend and I have taken a trip together. It helps us stay in touch even though we live far apart.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/take-trip-with-friend-every-year-since-college-how-2026-10",
+      "published_at": "2026-10-24T14:28:01Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7506,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/take-trip-with-friend-every-year-since-college-how-2026-10"
+    },
+    {
+      "title": "Here are the top AI agents that can live in your text messages",
+      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "source_name": "TechCrunch - AI",
+      "source_url": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "published_at": "2026-10-24T14:00:00Z",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7487,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://techcrunch.com/?p=3173132"
+    },
+    {
+      "title": "The AI data center boom has a ghost problem",
+      "summary": "Speculative AI data centers and duplicate electricity requests may make the industry's very real building challenges look bigger.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/ai-data-center-boom-ghost-projects-bragawatts",
+      "published_at": "2026-10-24T14:00:01Z",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7487,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/ai-data-center-boom-ghost-projects-bragawatts"
+    },
+    {
+      "title": "Autonomous attack agent in 'Skynet mode' hijacks other models to carry out its evil deeds",
+      "summary": "Designed to carry out 100,000 steps without human approval",
+      "source_name": "The Register",
+      "source_url": "https://www.theregister.com/security/2026/10/24/autonomous-attack-agent-in-skynet-mode-hijacks-other-models-to-carry-out-its-evil-deeds/5305215",
+      "published_at": "2026-10-24T13:02:00Z",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI Agents",
+        "AI Models",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7447,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.theregister.com/a/5305215"
+    },
+    {
+      "title": "Inside the cyber flaw scramble that brought the AI threat to life",
+      "summary": "The man who set off the chain reaction that put 70% of the web at risk explains why he did it.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/black-october-php-vulnerability-cybersecurity-ai-threat-2026-10",
+      "published_at": "2026-10-24T13:01:22Z",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7446,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/black-october-php-vulnerability-cybersecurity-ai-threat-2026-10"
+    },
+    {
+      "title": "What Biometric Technology Does and Doesn’t Add to Voting",
+      "summary": "The technology has cleaned voter rolls, but risks opacity",
+      "source_name": "IEEE Spectrum",
+      "source_url": "https://spectrum.ieee.org/biometric-voting-technology",
+      "published_at": "2026-10-24T13:00:01Z",
+      "category": "research_feeds",
+      "tags": [
+        "Research Feeds"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.7445,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://spectrum.ieee.org/biometric-voting-technology"
+    },
+    {
+      "title": "I lived with my older brother during my senior year of college. It was far from the nightmare I expected.",
+      "summary": "During my senior year of college, I lived with my 24-year-old brother. He became a safe space for me, and made me less afraid of postgrad life.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/lived-with-older-brother-for-year-college-how-it-went-2026-10",
+      "published_at": "2026-10-24T12:42:01Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7433,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/lived-with-older-brother-for-year-college-how-it-went-2026-10"
+    },
+    {
+      "title": "Scaling NVIDIA TensorRT Performance Optimization Beyond a Single Build Route with the Global Performance Tuner, Part 2",
+      "summary": "The Global Performance Tuner is a feature for automatic performance tuning released in NVIDIA TensorRT 11.1. It provides automatic, accuracy-aware and...",
+      "source_name": "NVIDIA Developer Blog",
+      "source_url": "https://developer.nvidia.com/blog/scaling-nvidia-tensorrt-performance-optimization-beyond-a-single-build-route-with-the-global-performance-tuner-part-2/",
+      "published_at": "2026-10-23T17:27:52Z",
+      "category": "mlops",
+      "tags": [
+        "GPUs",
+        "Mlops"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.7432,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://developer.nvidia.com/blog/?p=124139"
+    },
+    {
+      "title": "The unexpected costs of my 11-year-old's baseball season caught me off guard. Receipts show that we spent around $8,800.",
+      "summary": "I used to judge select sports parents. Now I'm one of them, spending more than $8,800 on my son's last baseball season.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/real-cost-select-sports-baseball-season-family-budget-2026-10",
+      "published_at": "2026-10-24T12:05:01Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7407,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/real-cost-select-sports-baseball-season-family-budget-2026-10"
+    },
+    {
+      "title": "The PHP Meltdown Shows How AI Makes Bugs More Exploitable",
+      "summary": "Security researchers used AI tools to help uncover years-old vulnerabilities in the PHP web scripting language. Then the AI-assisted attacks began.",
+      "source_name": "Wired",
+      "source_url": "https://www.wired.com/story/kernel-panic-the-php-meltdown-shows-how-ai-makes-bugs-more-exploitable/",
+      "published_at": "2026-10-24T12:00:00Z",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Security",
+        "Research",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7404,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "6ad927eedb675d3d17a94c9a"
+    },
+    {
+      "title": "Taylor Swift made a rare PR misstep by revisiting 'Showgirl' instead of her debut album",
+      "summary": "Taylor Swift's self-titled debut album turns 20 this week. The album's anniversary momentum was interrupted by the \"Showgirl\" deluxe release.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/taylor-swift-debut-album-anniversary-showgirl-deluxe-2026-10",
+      "published_at": "2026-10-24T12:00:01Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7404,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/taylor-swift-debut-album-anniversary-showgirl-deluxe-2026-10"
+    },
+    {
+      "title": "A NATO drone maker says Ukraine's underground factories hold a lesson for the West. It's learning that firsthand.",
+      "summary": "Drone maker ORQA is co-producing with Ukraine's General Cherry, but instead of them building everything in NATO, they're making some gear under fire.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/ukraine-nato-drone-maker-says-underground-factories-lesson-for-west-2026-10",
+      "published_at": "2026-10-24T11:54:01Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.74,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/ukraine-nato-drone-maker-says-underground-factories-lesson-for-west-2026-10"
+    },
+    {
+      "title": "The rapid Ukraine war arms race means weapons makers can never truly consider a product finished",
+      "summary": "Ukrainian weapons makers race to stay ahead of Russian countermeasures, constantly updating their products with feedback from front-line soldiers.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/ukraine-weapons-makers-never-consider-product-complete-development-race-russia-2026-10",
+      "published_at": "2026-10-24T11:43:01Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7392,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/ukraine-weapons-makers-never-consider-product-complete-development-race-russia-2026-10"
+    },
+    {
+      "title": "Raspberry Pi Desktop proves old PCs aren't past it",
+      "summary": "Debian 13-based refresh runs comfortably on veteran ThinkPads, without making installation a hobby",
+      "source_name": "The Register",
+      "source_url": "https://www.theregister.com/os-platforms/2026/10/24/raspberry-pi-desktop-proves-old-pcs-arent-past-it/5304676",
+      "published_at": "2026-10-24T11:30:00Z",
+      "category": "enterprise_technology",
+      "tags": [
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7383,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.theregister.com/a/5304676"
+    },
+    {
+      "title": "New mRNA Vaccine Reduces Risk of Melanoma Recurrence by Over 40 Percent",
+      "summary": "The vaccine is personalized to a patient’s tumor, and results from the Phase 3 trial are yet another example of the promise of mRNA vaccines in treating cancer.",
+      "source_name": "Wired",
+      "source_url": "https://www.wired.com/story/new-melanoma-vaccine-reduces-risk-of-tumor-reoccurrence-by-over-40-percent/",
+      "published_at": "2026-10-24T11:30:00Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7383,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "6adbb6231cfad481ad7e3d27"
+    },
+    {
+      "title": "Brotli Decoder Flaw Behind Node.js RCE Also Affects Bun, Python and Other Widely Used Software",
+      "summary": "A memory-corruption flaw in Google's Brotli decoder sits in many programs that unpack Brotli-compressed data, among them Bun, the Python Brotli and brotlicffi packages, and Envoy proxies set up to decompress Brotli. Tracked as CVE-2026-111497, the flaw allows crafted compressed data to overwrite past the end of a buffer and corrupt a program's memory, potentially",
+      "source_name": "The Hacker News",
+      "source_url": "https://thehackernews.com/2026/10/brotli-decoder-flaw-behind-nodejs-rce.html",
+      "published_at": "2026-10-24T11:09:29Z",
+      "category": "cybersecurity",
+      "tags": [
+        "Python",
+        "Cybersecurity"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7369,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://thehackernews.com/2026/10/brotli-decoder-flaw-behind-nodejs-rce.html"
+    },
+    {
+      "title": "Leaked LiteLLM Master Key Let Attackers Steal GitHub Tokens and Hijack Release Pipeline",
+      "summary": "LiteLLM on Friday revealed that an Agent Platform master key accidentally published to a public GitHub repository in late May 2026 ultimately allowed the threat actor to push a malicious version of the popular Python package. \"On May 27, 2026, a configuration file was committed to the public LiteLLM-Labs/lite-harness repository which inadvertently contained the master key to a deployment of",
+      "source_name": "The Hacker News",
+      "source_url": "https://thehackernews.com/2026/10/leaked-litellm-master-key-let-attackers.html",
+      "published_at": "2026-10-24T11:03:33Z",
+      "category": "cybersecurity",
+      "tags": [
+        "AI Agents",
+        "Data Pipelines",
+        "Python",
+        "Developer Tools",
+        "Cybersecurity"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7365,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://thehackernews.com/2026/10/leaked-litellm-master-key-let-attackers.html"
+    },
+    {
+      "title": "Using AI Agents to Teach Robots Like Microduck to Walk in Simulation",
+      "summary": "Teaching a robot to navigate an obstacle course requires more than a walking policy. It must perceive its surroundings, maintain balance, and adjust its actions...",
+      "source_name": "NVIDIA Developer Blog",
+      "source_url": "https://developer.nvidia.com/blog/using-ai-agents-to-teach-robots-like-microduck-to-walk-in-simulation/",
+      "published_at": "2026-10-23T14:58:32Z",
+      "category": "mlops",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Mlops"
+      ],
+      "confidence_score": 0.87,
+      "importance_score": 0.7328,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://developer.nvidia.com/blog/?p=124028"
+    },
+    {
+      "title": "Video Friday: Quadruped Robot Solves Giant Rubik’s Cube by Itself",
+      "summary": "Your weekly selection of awesome robot videos",
+      "source_name": "IEEE Spectrum",
+      "source_url": "https://spectrum.ieee.org/video-friday-rubiks-cube-robot",
+      "published_at": "2026-10-23T15:30:02Z",
+      "category": "research_feeds",
+      "tags": [
+        "Research Feeds"
+      ],
+      "confidence_score": 0.87,
+      "importance_score": 0.655,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://spectrum.ieee.org/video-friday-rubiks-cube-robot"
+    },
+    {
+      "title": "Security Update on PHP2Shell: Impact for Docker Customers",
+      "summary": "On Tuesday, October 20, 2026, Docker began tracking two critical vulnerabilities in PHP, CVE-2026-109618 and CVE-2026-109619, commonly known as PHP2Shell.",
+      "source_name": "Docker Blog",
+      "source_url": "https://www.docker.com/blog/security-update-on-php2shell-impact-for-docker-customers/",
+      "published_at": "2026-10-22T17:22:47Z",
+      "category": "developer_platforms",
+      "tags": [
+        "Containers",
+        "Security",
+        "Developer Platforms"
+      ],
+      "confidence_score": 0.85,
+      "importance_score": 0.6428,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.docker.com/?p=95191"
+    },
+    {
+      "title": "How bug bounty sharpens one researcher’s security skills",
+      "summary": "As Cybersecurity Awareness Month continues, the GitHub Bug Bounty team spotlights @r31n, diving into their research approach, favorite bug classes, and advice for aspiring hackers. The post How bug bounty sharpens one researcher’s security skills appeared first on The GitHub Blog .",
+      "source_name": "The GitHub Blog",
+      "source_url": "https://github.blog/security/how-bug-bounty-sharpens-one-researchers-security-skills/",
+      "published_at": "2026-10-22T17:21:30Z",
+      "category": "developer_platforms",
+      "tags": [
+        "Security",
+        "Developer Tools",
+        "Research",
+        "Developer Platforms"
+      ],
+      "confidence_score": 0.9,
+      "importance_score": 0.6427,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://github.blog/?p=99645"
+    },
+    {
+      "title": "Sam and Dario Sell Legroom",
+      "summary": "The ten smartest AI models carry only 6% of the traffic on an open platform.",
+      "source_name": "AI Secret",
+      "source_url": "https://aisecret.us/sam-and-dario-sell-legroom/",
+      "published_at": "2026-10-23T12:30:19Z",
+      "category": "ai_newsletters",
+      "tags": [
+        "AI",
+        "AI Models",
+        "Ai Newsletters"
+      ],
+      "confidence_score": 0.62,
+      "importance_score": 0.6425,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "6ad6da609f379b89dc745723"
+    },
+    {
+      "title": "Black October: The internet is under attack",
+      "summary": "Black October: The internet is under attack Superhuman AI",
+      "source_name": "Superhuman (Zain Kahn)",
+      "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1wSEQ5M3VYd2I1NHlzRkhxaDR4R1EzSE56dnZQeU9MZmQxbWJvcXZNU0tuWnNpQWpKSU50VVFVdUJzZVJVNFQ5NHpoakFwOFNsdmgzdFJVNnVodHpnUDl4QkxBcy1NeVlSQUhiRWhCZ1B5TFN1czd0WTBn?oc=5",
+      "published_at": "2026-10-23T11:35:26Z",
+      "category": "ai_newsletters",
+      "tags": [
+        "AI",
+        "Ai Newsletters"
+      ],
+      "confidence_score": 0.62,
+      "importance_score": 0.6387,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "CBMiekFVX3lxTE1wSEQ5M3VYd2I1NHlzRkhxaDR4R1EzSE56dnZQeU9MZmQxbWJvcXZNU0tuWnNpQWpKSU50VVFVdUJzZVJVNFQ5NHpoakFwOFNsdmgzdFJVNnVodHpnUDl4QkxBcy1NeVlSQUhiRWhCZ1B5TFN1czd0WTBn"
+    }
+  ]
+}
