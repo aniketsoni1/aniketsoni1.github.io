@@ -1,0 +1,23 @@
+{
+  "post_date": "2026-10-25",
+  "generated_at": "2026-10-25T15:03:38.126571-04:00",
+  "model_provider": "gemini",
+  "model_name": "gemini-2.5-flash",
+  "fallback_used": false,
+  "stories_reviewed": 76,
+  "runs_used": [
+    "2026-10-19",
+    "2026-10-20",
+    "2026-10-21",
+    "2026-10-22",
+    "2026-10-23",
+    "2026-10-24",
+    "2026-10-25"
+  ],
+  "citations": 6,
+  "output_post_path": "_posts/2026-10-25-signal-perspective.md",
+  "validation_status": "passed",
+  "notes": [
+    "validate_perspective: passed; live_links=6 dead_links=0"
+  ]
+}

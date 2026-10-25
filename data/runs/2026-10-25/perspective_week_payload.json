@@ -1,0 +1,138 @@
+{
+  "post_date": "2026-10-25",
+  "week_start": "2026-10-19",
+  "week_label": "October 19–25, 2026",
+  "theme": "AI",
+  "related_themes": [
+    "Ai Model Companies",
+    "AI Models",
+    "Cloud Providers",
+    "AI Agents",
+    "GPUs"
+  ],
+  "tag_counts": [
+    {
+      "tag": "AI",
+      "count": 21
+    },
+    {
+      "tag": "Ai Model Companies",
+      "count": 20
+    },
+    {
+      "tag": "AI Models",
+      "count": 17
+    },
+    {
+      "tag": "Cloud Providers",
+      "count": 12
+    },
+    {
+      "tag": "AI Agents",
+      "count": 12
+    },
+    {
+      "tag": "GPUs",
+      "count": 10
+    }
+  ],
+  "stories_reviewed": 76,
+  "runs_used": [
+    "2026-10-19",
+    "2026-10-20",
+    "2026-10-21",
+    "2026-10-22",
+    "2026-10-23",
+    "2026-10-24",
+    "2026-10-25"
+  ],
+  "sources_count": 20,
+  "citations": [
+    {
+      "date": "2026-10-22",
+      "title": "Filtering and reducing AI agent telemetry with the OpenTelemetry Collector",
+      "url": "https://www.cncf.io/blog/2026/10/22/filtering-and-reducing-ai-agent-telemetry-with-the-opentelemetry-collector/",
+      "source_name": "CNCF",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Open Source Foundations"
+      ],
+      "summary": "AI coding agent telemetry generates a large volume of OpenTelemetry native data that is expensive to store and difficult to interpret.",
+      "why": "Managing and understanding this telemetry data is a challenge for engineers due to its volume and complexity.",
+      "score": 0.8706
+    },
+    {
+      "date": "2026-10-21",
+      "title": "Before you evaluate an AI SRE, give your existing agent context",
+      "url": "https://www.cncf.io/blog/2026/10/21/before-you-evaluate-an-ai-sre-give-your-existing-agent-context/",
+      "source_name": "CNCF",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Kubernetes",
+        "Open Source Foundations"
+      ],
+      "summary": "Existing coding agents used by engineers can investigate a Kubernetes cluster. These agents often lack the necessary context to function as an AI SRE.",
+      "why": "Leveraging and providing context to existing coding agents could be a foundational step before evaluating new AI SRE products.",
+      "score": 0.8703
+    },
+    {
+      "date": "2026-10-19",
+      "title": "How AI workloads are reshaping Kubernetes autoscaling",
+      "url": "https://www.cncf.io/blog/2026/10/19/how-ai-workloads-are-reshaping-kubernetes-autoscaling/",
+      "source_name": "CNCF",
+      "tags": [
+        "AI",
+        "Kubernetes",
+        "Open Source Foundations"
+      ],
+      "summary": "Kubernetes has historically managed containerized software using two control loops that operated largely independently. AI workloads are now influencing how Kubernetes autoscaling functions.",
+      "why": "The evolving interaction between Kubernetes control loops due to AI workloads impacts resource management and efficiency for data and AI infrastructure.",
+      "score": 0.8651
+    },
+    {
+      "date": "2026-10-21",
+      "title": "PHP2Shell: AI uncovers critical RCE in PHP",
+      "url": "https://www.wiz.io/blog/php2shell-php-rce",
+      "source_name": "Hacker News",
+      "tags": [
+        "AI",
+        "Hacker News"
+      ],
+      "summary": "AI identified a critical Remote Code Execution (RCE) vulnerability in PHP, termed PHP2Shell. This flaw allows arbitrary code execution on affected PHP installations.",
+      "why": "This vulnerability could impact data and AI systems built on or interacting with PHP environments, necessitating immediate security review and patching.",
+      "score": 0.8516
+    },
+    {
+      "date": "2026-10-22",
+      "title": "How to Read Data into GPU Memory in Python with NVIDIA GPUDirect Storage",
+      "url": "https://developer.nvidia.com/blog/how-to-read-data-into-gpu-memory-in-python-with-nvidia-gpudirect-storage/",
+      "source_name": "NVIDIA Developer Blog",
+      "tags": [
+        "AI",
+        "GPUs",
+        "Python",
+        "Mlops"
+      ],
+      "summary": "GPU applications are processing ever-growing datasets with increasingly powerful accelerators. According to the 2025 Stanford AI Index, compute for notable AI...",
+      "why": "Practical for MLOps and platform engineers operationalizing models.",
+      "score": 0.8342
+    },
+    {
+      "date": "2026-10-21",
+      "title": "Your Agent Runs in a Docker Sandbox. Now It Can Join a Team.",
+      "url": "https://www.docker.com/blog/band-ai-agents-docker-sandboxes/",
+      "source_name": "Docker Blog",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Containers",
+        "Developer Platforms"
+      ],
+      "summary": "AI agents can run in Docker Sandboxes using BAND AI. This allows for connecting isolated agents, collaborating across environments, and secure access management.",
+      "why": "This enables structured collaboration and secure management of AI agents deployed in isolated Docker environments, which is critical for enterprise AI deployments.",
+      "score": 0.8319
+    }
+  ]
+}
