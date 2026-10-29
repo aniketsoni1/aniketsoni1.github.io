@@ -1,0 +1,835 @@
+{
+  "post_date": "2026-10-29",
+  "sources_checked": 48,
+  "count": 45,
+  "items": [
+    {
+      "title": "The boundary problem in agentic AI is a platform problem",
+      "summary": "An autonomous agent will do exactly what its tools let it do, and no more. This sounds like a constraint. In practice it is the whole risk, because the set of things an agent’s tools let...",
+      "source_name": "CNCF",
+      "source_url": "https://www.cncf.io/blog/2026/10/29/the-boundary-problem-in-agentic-ai-is-a-platform-problem/",
+      "published_at": "2026-10-29T18:11:50Z",
+      "category": "open_source_foundations",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8966,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.cncf.io/?p=176750"
+    },
+    {
+      "title": "An updated Model Spec for more capable and beneficial AI",
+      "summary": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/updated-model-spec",
+      "published_at": "2026-10-29T17:00:00Z",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI",
+        "AI Models",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.99,
+      "importance_score": 0.8916,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/index/updated-model-spec"
+    },
+    {
+      "title": "Even Within an Organization, There Is No Single AI Strategy",
+      "summary": "AI is still jagged. Your enterprise strategy should be, too.",
+      "source_name": "Salesforce News",
+      "source_url": "https://www.salesforce.com/news/stories/no-single-ai-strategy/",
+      "published_at": "2026-10-29T16:30:00Z",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.8895,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.salesforce.com/?p=96131"
+    },
+    {
+      "title": "Salesforce Deepens Investment in Washington, D.C. With New Innovation Center",
+      "summary": "The new space will serve as a hub for public sector customers, partners, and the D.C. community to meet, collaborate, and explore the next generation of government services",
+      "source_name": "Salesforce News",
+      "source_url": "https://www.salesforce.com/news/stories/deepens-investment-washington-dc/",
+      "published_at": "2026-10-29T12:00:00Z",
+      "category": "enterprise_technology",
+      "tags": [
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.8708,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.salesforce.com/?p=96136"
+    },
+    {
+      "title": "Google Search is now less than half of Alphabet’s revenue",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.kadoa.com/companies/insights/google-search-below-half",
+      "published_at": "2026-10-29T16:42:17Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.8604,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50291945"
+    },
+    {
+      "title": "How we detect frontier model misalignment",
+      "summary": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+      "published_at": "2026-10-29T09:00:00Z",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI Agents",
+        "AI Models",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.99,
+      "importance_score": 0.8583,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/index/how-we-detect-frontier-model-misalignment"
+    },
+    {
+      "title": "I went to Mexico to test-drive the cars Americans can’t buy",
+      "summary": "https://archive.ph/sGqBh",
+      "source_name": "Hacker News",
+      "source_url": "https://www.washingtonpost.com/climate-environment/2026/10/27/i-saw-future-driving-mexico-its-off-limits-americans/",
+      "published_at": "2026-10-29T15:30:22Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.6485,
+      "importance_score": 0.8517,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50290668"
+    },
+    {
+      "title": "How Ropes & Gray is developing AI for transactional diligence",
+      "summary": "Ropes & Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients.",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/ropes-gray-ai-diligence",
+      "published_at": "2026-10-29T07:00:00Z",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.99,
+      "importance_score": 0.85,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/index/ropes-gray-ai-diligence"
+    },
+    {
+      "title": "We're releasing the weights of Mistral Large 4",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://mistral.ai/news/mistral-large-4-oss/",
+      "published_at": "2026-10-29T14:13:21Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.85,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50289418"
+    },
+    {
+      "title": "DoorDash to acquire Instacart",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://about.doordash.com/en-us/news/doordash-to-acquire-instacart",
+      "published_at": "2026-10-29T12:33:05Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.687,
+      "importance_score": 0.8431,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50287919"
+    },
+    {
+      "title": "Optimizing Apache HBase availability on Amazon EMR, Part 1: Coordinator startup, RegionServer recovery, and regions in transition",
+      "summary": "A repeatable process for keeping Apache HBase on Amazon EMR highly available. Part 1 covers triaging an HBase coordinator that is slow to start, a RegionServer that leaves the cluster, and regions that stay in transition, with the web UI pages, commands, and log signatures that point to each cause.",
+      "source_name": "AWS Big Data Blog",
+      "source_url": "https://aws.amazon.com/blogs/big-data/optimizing-apache-hbase-availability-on-amazon-emr-part-1-coordinator-startup-regionserver-recovery-and-regions-in-transition/",
+      "published_at": "2026-10-29T18:25:48Z",
+      "category": "cloud_providers",
+      "tags": [
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.92,
+      "importance_score": 0.8376,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "4606dfa6e3a6b2d159e3a65b2354e18eb3d94dd5"
+    },
+    {
+      "title": "How Google determines the names for bodies of water in Google Earth (2008)",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://publicpolicy.googleblog.com/2008/04/how-google-determines-names-for-bodies.html",
+      "published_at": "2026-10-29T11:41:18Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.648,
+      "importance_score": 0.8345,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50287448"
+    },
+    {
+      "title": "Querying Databricks Apache Iceberg Tables with the borderless Lakehouse",
+      "summary": "Enterprise organizations often leverage multiple data platforms, including Databricks, to execute heavy Apache Spark jobs alongside BigQuery to power highly concurrent analytics workloads. Historically, bridging these systems often meant building complex pipelines to copy data between environments. This approach increases storage costs, introduces latency, and fragments security controls. With Google Cloud’s borderless Lakehouse, you can now query Databricks-managed Apache…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/products/data-analytics/querying-databricks-iceberg-tables-with-google-clouds-lakehouse/",
+      "published_at": "2026-10-29T16:00:00Z",
+      "category": "cloud_providers",
+      "tags": [
+        "Data Pipelines",
+        "Lakehouse",
+        "Apache Spark",
+        "Databricks",
+        "Cloud",
+        "Google Cloud",
+        "Security",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.8275,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/products/data-analytics/querying-databricks-iceberg-tables-with-google-clouds-lakehouse/"
+    },
+    {
+      "title": "Cloud CISO Perspectives: Introducing new $250,000 tier for Google Cloud VRP (Q&A)",
+      "summary": "Welcome to the second Cloud CISO Perspectives for October 2026. Today, Chris Betz talks with Michael Cote, our vulnerability rewards program lead, about the new tier of our Cloud VRP program and the current state of vulnerability rewards. As with all Cloud CISO Perspectives, the contents of this newsletter are posted to the Google Cloud blog . If you’re reading this on the website and you’d like to receive the email version, you can subscribe here . aside_block <ListValue…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-introducing-new-tier-for-google-cloud-vrp/",
+      "published_at": "2026-10-29T16:00:00Z",
+      "category": "cloud_providers",
+      "tags": [
+        "Cloud",
+        "Google Cloud",
+        "Security",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.8275,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-introducing-new-tier-for-google-cloud-vrp/"
+    },
+    {
+      "title": "Grounding agents in one context graph connecting semantic models you already trust",
+      "summary": "Picture the scene: Before an executive business review, your VP of Sales asks an AI assistant, \"What was net revenue for our top enterprise accounts last quarter?\" In seconds, the agent returns a polished chart! Unfortunately, the numbers don't match the finance report. Why? Because the agent counted cancelled orders as revenue and pulled from an unvalidated staging table. The agent didn't fail because of the model, or because it couldn't translate a user question into a…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/products/data-analytics/expanded-semantic-model-support-in-knowledge-catalog/",
+      "published_at": "2026-10-29T16:00:00Z",
+      "category": "cloud_providers",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "AI Models",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.8275,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/products/data-analytics/expanded-semantic-model-support-in-knowledge-catalog/"
+    },
+    {
+      "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
+      "summary": "Turning a simulation idea into a working application means assembling assets, connecting physics and rendering, and checking that the scene behaves as intended. Developers are combining frontier AI models with NVIDIA Omniverse libraries to help carry out that work — building applications for exploring scenarios, investigating failures and improving designs. Developers direct AI agents through […]",
+      "source_name": "NVIDIA Blog",
+      "source_url": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/",
+      "published_at": "2026-10-29T16:00:35Z",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "GPUs",
+        "AI Models",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8275,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://blogs.nvidia.com/?p=98677"
+    },
+    {
+      "title": "Unlocking Tensor Core Performance for Machine Learning Interatomic Potentials",
+      "summary": "Atomistic simulations help researchers understand how molecules and materials behave, from chemical reactions and phase transitions to mechanical failure. These...",
+      "source_name": "NVIDIA Developer Blog",
+      "source_url": "https://developer.nvidia.com/blog/unlocking-tensor-core-performance-for-machine-learning-interatomic-potentials/",
+      "published_at": "2026-10-29T15:00:00Z",
+      "category": "mlops",
+      "tags": [
+        "Machine Learning",
+        "Research",
+        "Mlops"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8233,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://developer.nvidia.com/blog/?p=124309"
+    },
+    {
+      "title": "Zero click, silent, remote Android DoS",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://smsofdeath.com/",
+      "published_at": "2026-10-29T07:08:50Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.696,
+      "importance_score": 0.8205,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50285452"
+    },
+    {
+      "title": "Chained PHP2Shell exploit roots 25 servers, including US Government servers",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://dreamgroup.com/blog/chained-php2shell-exploit-roots-25-servers",
+      "published_at": "2026-10-29T10:42:41Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.644,
+      "importance_score": 0.8204,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50286987"
+    },
+    {
+      "title": "Granite Switch 4.1.1 — Update models like you update software",
+      "summary": "",
+      "source_name": "Hugging Face",
+      "source_url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
+      "published_at": "2026-10-29T13:37:07Z",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI Models",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.9,
+      "importance_score": 0.8175,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1"
+    },
+    {
+      "title": "Slice Into GFN Thursday: ‘Phantom Blade Zero’ Launches on GeForce NOW",
+      "summary": "This Halloween week, GFN Thursday is delivering a fresh batch of gaming treats. Something wicked this blade comes. S-GAME’s Phantom Blade Zero launches on GeForce NOW today, bringing a scarily good blend of martial arts and punk fantasy to the cloud. There’s also something on the horizon for adventurers: World of Warcraft: Forever arrives Wednesday, […]",
+      "source_name": "NVIDIA Blog",
+      "source_url": "https://blogs.nvidia.com/blog/geforce-now-thursday-phantom-blade-zero/",
+      "published_at": "2026-10-29T13:00:16Z",
+      "category": "enterprise_technology",
+      "tags": [
+        "Cloud",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.815,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://blogs.nvidia.com/?p=99565"
+    },
+    {
+      "title": "Coding Agent Horror Stories: The CVE That Did Not Exist",
+      "summary": "An AI code review agent invented a CVE and recommended dangerous fixes. Learn how Docker Sandboxes contain agents and why their output needs verification.",
+      "source_name": "Docker Blog",
+      "source_url": "https://www.docker.com/blog/coding-agent-horror-stories-the-cve-that-did-not-exist/",
+      "published_at": "2026-10-29T13:00:00Z",
+      "category": "developer_platforms",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Containers",
+        "Developer Platforms"
+      ],
+      "confidence_score": 0.87,
+      "importance_score": 0.8149,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.docker.com/?p=95520"
+    },
+    {
+      "title": "Volcano v1.16 Released: NamespaceQueue, fairshare, and a broader HyperNode ecosystem",
+      "summary": "Volcano v1.16.0 is available . v1.16.0 introduces NamespaceQueue and the fairshare plugin. Tenants can use hierarchical queues within their own namespaces to organize quotas and queue hierarchies within administrator-authorized resource pools. Fairshare brings historical resource consumption...",
+      "source_name": "CNCF",
+      "source_url": "https://www.cncf.io/blog/2026/10/28/volcano-v1-16-released-namespacequeue-fairshare-and-a-broader-hypernode-ecosystem/",
+      "published_at": "2026-10-28T20:45:08Z",
+      "category": "open_source_foundations",
+      "tags": [
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8072,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.cncf.io/?p=176717"
+    },
+    {
+      "title": "H.264 Is Magic (2016)",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://sidbala.com/h-264-is-magic/",
+      "published_at": "2026-10-29T15:53:03Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.63,
+      "importance_score": 0.8069,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50291054"
+    },
+    {
+      "title": "AI for Science expands to foundations and research institutions",
+      "summary": "AI for Science expands to foundations and research institutions Anthropic",
+      "source_name": "Anthropic",
+      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTE8xTmRrRUZtQndpOVdCTUFQQ2ZXSjl5Tk4zeXB0RzhSVzRYaUt3S091Y3FmRnVvT1c0UXhIVW0xZF83R2c1VUwtNjhNUkcxYWI0MFRXWXcxT2ZLdkF6bUd5V0JpTWJla3BzOWNORmdFN0ZTUkplbmZRcjRNdm5GSUVDUXp5QWwxNkRoN3JCVXo?oc=5",
+      "published_at": "2026-10-28T20:14:19Z",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI",
+        "Research",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.99,
+      "importance_score": 0.8051,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "CBMikAFBVV95cUxNTE8xTmRrRUZtQndpOVdCTUFQQ2ZXSjl5Tk4zeXB0RzhSVzRYaUt3S091Y3FmRnVvT1c0UXhIVW0xZF83R2c1VUwtNjhNUkcxYWI0MFRXWXcxT2ZLdkF6bUd5V0JpTWJla3BzOWNORmdFN0ZTUkplbmZRcjRNdm5GSUVDUXp5QWwxNkRoN3JCVXo"
+    },
+    {
+      "title": "If IPv4 were land",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://iptrust.co/blog/if-ipv4-were-land",
+      "published_at": "2026-10-29T12:19:00Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.634,
+      "importance_score": 0.8021,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50287775"
+    },
+    {
+      "title": "From Working Group to SIG Architecture: spotlight on AI Conformance",
+      "summary": "In this SIG Architecture spotlight we talked with Janet Kuo (Google) and Yuan Tang (Red Hat) about the journey of AI Conformance in Kubernetes, from the initial Working Group to the integration SIG Architecture as a subproject. Introductions Frederico Muñoz and Kirti Goyal (FK): Hi Janet, Yuan, and thank you for the opportunity to learn a bit more about AI Conformance. Can you tell us a bit about yourselves and how you got involved in Kubernetes? Janet Kuo : I'm a Senior…",
+      "source_name": "Kubernetes Blog",
+      "source_url": "https://kubernetes.io/blog/2026/10/29/sig-arch-ai-conformance-2026/",
+      "published_at": "2026-10-29T05:00:00Z",
+      "category": "open_source_foundations",
+      "tags": [
+        "AI",
+        "Kubernetes",
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.92,
+      "importance_score": 0.8016,
+      "source_type": "release_notes",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://kubernetes.io/blog/2026/10/29/sig-arch-ai-conformance-2026/"
+    },
+    {
+      "title": "Gemini 4 Carbon: Our next frontier model",
+      "summary": "",
+      "source_name": "Google DeepMind",
+      "source_url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
+      "published_at": "2026-10-28T17:00:58Z",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI Models",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.95,
+      "importance_score": 0.7917,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/"
+    },
+    {
+      "title": "LLM Voice",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://martinfowler.com/bliki/LLM-Voice.html",
+      "published_at": "2026-10-29T14:57:55Z",
+      "category": "aggregators",
+      "tags": [
+        "LLMs",
+        "Hacker News"
+      ],
+      "confidence_score": 0.625,
+      "importance_score": 0.7906,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50290177"
+    },
+    {
+      "title": "Introducing the Slack Code API: Your agents, your team, one code channel",
+      "summary": "",
+      "source_name": "Salesforce News",
+      "source_url": "https://www.salesforce.com/news/linked-content/introducing-the-slack-code-api-your-agents-your-team-one-code-channel/",
+      "published_at": "2026-10-28T15:15:35Z",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI Agents",
+        "APIs",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.8,
+      "importance_score": 0.7844,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.salesforce.com/?post_type=sf_linked_content&p=96117"
+    },
+    {
+      "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+      "summary": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/openai-servicenow-partnership-expansion",
+      "published_at": "2026-10-28T13:15:00Z",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI Agents",
+        "AI Models",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.97,
+      "importance_score": 0.776,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/index/openai-servicenow-partnership-expansion"
+    },
+    {
+      "title": "The future of the firm",
+      "summary": "How AI might enter the org chart—beneath, beside, and between us.",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/the-future-of-the-firm",
+      "published_at": "2026-10-28T10:00:00Z",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.97,
+      "importance_score": 0.7625,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/index/the-future-of-the-firm"
+    },
+    {
+      "title": "GitLab Orbit is GA: Higher agent accuracy, lower token cost",
+      "summary": "An agent’s true cost isn’t only the tokens it burns. It’s the review that calls your code “safe to merge” after seeing the diff, but without any context on the pipeline. We call that artificial confidence, not artificial intelligence. Agents guess because code is all they can see; they can’t see the merge request that last changed it, the pipeline that ran it, the vulnerability it carries, or the people who wrote and reviewed it. Guessing is expensive. If you’ve tried…",
+      "source_name": "GitLab Blog",
+      "source_url": "https://about.gitlab.com/blog/gitlab-orbit-ga/",
+      "published_at": "2026-10-29T00:00:00Z",
+      "category": "developer_platforms",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Data Pipelines",
+        "Security",
+        "Developer Platforms"
+      ],
+      "confidence_score": 0.86,
+      "importance_score": 0.7608,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://about.gitlab.com/blog/gitlab-orbit-ga/"
+    },
+    {
+      "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
+      "summary": "",
+      "source_name": "Hugging Face",
+      "source_url": "https://huggingface.co/blog/announcing-project-protostar",
+      "published_at": "2026-10-29T00:00:00Z",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.9,
+      "importance_score": 0.7608,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://huggingface.co/blog/announcing-project-protostar"
+    },
+    {
+      "title": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
+      "summary": "",
+      "source_name": "Hugging Face",
+      "source_url": "https://huggingface.co/blog/mistral-large4",
+      "published_at": "2026-10-29T00:00:00Z",
+      "category": "ai_model_companies",
+      "tags": [
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.9,
+      "importance_score": 0.7608,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://huggingface.co/blog/mistral-large4"
+    },
+    {
+      "title": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
+      "summary": "",
+      "source_name": "Hugging Face",
+      "source_url": "https://huggingface.co/blog/anydecisionmodel",
+      "published_at": "2026-10-29T00:00:00Z",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI Models",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.9,
+      "importance_score": 0.7608,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://huggingface.co/blog/anydecisionmodel"
+    },
+    {
+      "title": "This chart shows how much Google's head count surged in the AI boom",
+      "summary": "Google's total workforce hit nearly 205,000 employees at the end of September. The hiring surge runs counter to Big Tech layoffs across the industry.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/google-employee-count-soars-tech-industry-layoffs-chart-2026-10",
+      "published_at": "2026-10-29T18:56:31Z",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7597,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/google-employee-count-soars-tech-industry-layoffs-chart-2026-10"
+    },
+    {
+      "title": "DoorDash to Buy Instacart for $17 Billion, Uniting 2 Delivery Giants",
+      "summary": "The deal combines the country’s largest restaurant delivery service with its biggest online grocery platform.",
+      "source_name": "The New York Times - Technology",
+      "source_url": "https://www.nytimes.com/2026/10/29/technology/doordash-instacart-acquisition-delivery.html",
+      "published_at": "2026-10-29T18:52:07Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7594,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.nytimes.com/2026/10/29/technology/doordash-instacart-acquisition-delivery.html"
+    },
+    {
+      "title": "Linux Kernel TCP Flaw With 9.8 CVSS Score Affects Ubuntu, Red Hat and Other Distributions",
+      "summary": "A flaw in the Linux kernel's TCP code, tracked as CVE-2026-98432, affects Ubuntu, Red Hat Enterprise Linux (RHEL), and other Linux distributions. The kernel's own CVE team rates it 9.8 out of 10 on the CVSS scale. Anthropic said on October 27 that its AI model wrote an exploit that uses the flaw to let a remote attacker with no credentials run commands as root on Linux servers with a",
+      "source_name": "The Hacker News",
+      "source_url": "https://thehackernews.com/2026/10/linux-kernel-tcp-flaw-with-98-cvss.html",
+      "published_at": "2026-10-29T15:57:05Z",
+      "category": "cybersecurity",
+      "tags": [
+        "AI",
+        "AI Models",
+        "Cybersecurity"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7472,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://thehackernews.com/2026/10/linux-kernel-tcp-flaw-with-98-cvss.html"
+    },
+    {
+      "title": "Fake ChatGPT and Claude Apps Abuse Signed Executables to Deploy Crypto Miners",
+      "summary": "Threat actors are delivering malicious loaders and cryptocurrency miners under the guise of artificial intelligence (AI) desktop applications for Anthropic Claude and OpenAI ChatGPT as part of a campaign dubbed Yoba. The activity involves creating fake GitHub projects that claim to be desktop applications like GPT-5.6 Sol, GPT-6 Astra, and Claude Opus, only to deliver a malware family called",
+      "source_name": "The Hacker News",
+      "source_url": "https://thehackernews.com/2026/10/fake-chatgpt-and-claude-apps-abuse.html",
+      "published_at": "2026-10-29T15:20:29Z",
+      "category": "cybersecurity",
+      "tags": [
+        "AI",
+        "Developer Tools",
+        "Cybersecurity"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7447,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://thehackernews.com/2026/10/fake-chatgpt-and-claude-apps-abuse.html"
+    },
+    {
+      "title": "Autonomous Airships Keep Tabs on Energy Infrastructure",
+      "summary": "French startup HyLight goes up against helicopters and drones",
+      "source_name": "IEEE Spectrum",
+      "source_url": "https://spectrum.ieee.org/infrastructure-inspection-airship-hylight",
+      "published_at": "2026-10-29T14:00:02Z",
+      "category": "research_feeds",
+      "tags": [
+        "Research Feeds"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.7391,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://spectrum.ieee.org/infrastructure-inspection-airship-hylight"
+    },
+    {
+      "title": "Robotics Special: Waymo plans massive fleet expansion",
+      "summary": "Robotics Special: Waymo plans massive fleet expansion Superhuman AI",
+      "source_name": "Superhuman (Zain Kahn)",
+      "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOeDZsVHhKQ2xiRVVRV2kxeXVMYzVHR1BoZm9oU2dCZS1fcnp1aWZmelFXRmVRN3RzQ0ZXcWl2TXdCQzNmd1ZMR1NpekkyTnVvZ0sxWnFjVzN0Q3Y5Y1FSVmFpSTVSMHhfM0IzMk9FYzJ0Q2pFTS1Odi1JYXQ5TTdEZHdQblpJMjA?oc=5",
+      "published_at": "2026-10-29T12:47:50Z",
+      "category": "ai_newsletters",
+      "tags": [
+        "AI",
+        "Ai Newsletters"
+      ],
+      "confidence_score": 0.64,
+      "importance_score": 0.7341,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "CBMihwFBVV95cUxOeDZsVHhKQ2xiRVVRV2kxeXVMYzVHR1BoZm9oU2dCZS1fcnp1aWZmelFXRmVRN3RzQ0ZXcWl2TXdCQzNmd1ZMR1NpekkyTnVvZ0sxWnFjVzN0Q3Y5Y1FSVmFpSTVSMHhfM0IzMk9FYzJ0Q2pFTS1Odi1JYXQ5TTdEZHdQblpJMjA"
+    },
+    {
+      "title": "Kimi K3.1 Pro is here, plus Dessa: an eerily realistic voice model",
+      "summary": "Kimi K3.1 Pro is here, plus Dessa: an eerily realistic voice model Superhuman AI",
+      "source_name": "Superhuman (Zain Kahn)",
+      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUFJkRTh2UEJ3WnlOX0Y1YW12ZW00NjF6NlpBbXFCaXlEa1BVeGdyVkkxSEs3ZU5UWkdOREhHVk5XMUVTOE9Va3dBRVVvd2JCYnNyUjB4cDNyaWdBUmFCckZYd1NfS1hOQThGOUd0MzMyYXhRaGUxNWZ2QVZ5TlhKSzF6UGFtd0t5dlVDSk5ONFgwQWR5UGg4?oc=5",
+      "published_at": "2026-10-29T12:47:51Z",
+      "category": "ai_newsletters",
+      "tags": [
+        "AI",
+        "AI Models",
+        "Ai Newsletters"
+      ],
+      "confidence_score": 0.64,
+      "importance_score": 0.7341,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "CBMilwFBVV95cUxOUFJkRTh2UEJ3WnlOX0Y1YW12ZW00NjF6NlpBbXFCaXlEa1BVeGdyVkkxSEs3ZU5UWkdOREhHVk5XMUVTOE9Va3dBRVVvd2JCYnNyUjB4cDNyaWdBUmFCckZYd1NfS1hOQThGOUd0MzMyYXhRaGUxNWZ2QVZ5TlhKSzF6UGFtd0t5dlVDSk5ONFgwQWR5UGg4"
+    },
+    {
+      "title": "The Download: AI agent tracking and climate feedback loops",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Opinion: We urgently need to monitor AI agents’ actions in real time —Madhulika Srikumar and Claire Leibowicz from the Partnership on AI, a nonprofit advancing best practices in AI governance. AI…",
+      "source_name": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/10/29/1147830/the-download-monitoring-ai-agents-climate-feedback-loops/",
+      "published_at": "2026-10-29T12:10:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Data Governance",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.7315,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.technologyreview.com/?p=1147830"
+    },
+    {
+      "title": "Memory-Enforced GPU Sharing in Kubernetes with NVIDIA CUDA 13.4",
+      "summary": "Many AI workloads need only a fraction of a GPU. Giving each one an entire device can leave capacity idle; sharing GPUs lets platform teams serve more workloads...",
+      "source_name": "NVIDIA Developer Blog",
+      "source_url": "https://developer.nvidia.com/blog/memory-enforced-gpu-sharing-in-kubernetes-with-nvidia-cuda-13-4/",
+      "published_at": "2026-10-27T20:50:39Z",
+      "category": "mlops",
+      "tags": [
+        "AI",
+        "Kubernetes",
+        "GPUs",
+        "Mlops"
+      ],
+      "confidence_score": 0.87,
+      "importance_score": 0.6476,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://developer.nvidia.com/blog/?p=124247"
+    }
+  ]
+}
