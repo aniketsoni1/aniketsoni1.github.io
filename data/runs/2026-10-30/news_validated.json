@@ -1,0 +1,821 @@
+{
+  "post_date": "2026-10-30",
+  "sources_checked": 48,
+  "count": 45,
+  "items": [
+    {
+      "title": "Making it easier for websites to express AI training preferences",
+      "summary": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+      "published_at": "2026-10-30T09:30:00Z",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.99,
+      "importance_score": 0.8617,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/index/helping-websites-express-ai-training-preferences"
+    },
+    {
+      "title": "Community safety report and new protections for teens",
+      "summary": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting.",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
+      "published_at": "2026-10-30T09:00:00Z",
+      "category": "ai_model_companies",
+      "tags": [
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.99,
+      "importance_score": 0.8597,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/index/community-safety-report-and-new-protections-for-teens"
+    },
+    {
+      "title": "AI isn't replacing SREs, it's deskilling them",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
+      "published_at": "2026-10-30T15:52:18Z",
+      "category": "aggregators",
+      "tags": [
+        "AI",
+        "Hacker News"
+      ],
+      "confidence_score": 0.6975,
+      "importance_score": 0.8583,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50305693"
+    },
+    {
+      "title": "Medicare Will Pay $50k for Your Heart Attack. It Should Pay $100 to Prevent It",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.medpagetoday.com/opinion/second-opinions/123553?trw=no",
+      "published_at": "2026-10-30T14:27:44Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.6565,
+      "importance_score": 0.8524,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50304419"
+    },
+    {
+      "title": "The $6.3B Binance hack was pulled off in just 20 minutes",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/",
+      "published_at": "2026-10-30T12:50:01Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.6655,
+      "importance_score": 0.8456,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50303172"
+    },
+    {
+      "title": "Northflank Breached",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://status.northflank.com",
+      "published_at": "2026-10-30T15:10:31Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.6445,
+      "importance_score": 0.8417,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50305025"
+    },
+    {
+      "title": "nemotron-halloween",
+      "summary": "",
+      "source_name": "Hugging Face",
+      "source_url": "https://huggingface.co/blog/nvidia/nemotron-halloween",
+      "published_at": "2026-10-30T17:57:24Z",
+      "category": "ai_model_companies",
+      "tags": [
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.9,
+      "importance_score": 0.837,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://huggingface.co/blog/nvidia/nemotron-halloween"
+    },
+    {
+      "title": "Implement least-privilege access with designations in Amazon SageMaker Unified Studio",
+      "summary": "Amazon SageMaker Unified Studio now offers designations: named permission sets that give administrators granular, least-privilege control over what each project member can do. Learn how designations work and how to create and assign your first one from the console and the AWS CLI.",
+      "source_name": "AWS Big Data Blog",
+      "source_url": "https://aws.amazon.com/blogs/big-data/implement-least-privilege-access-with-designations-in-amazon-sagemaker-unified-studio/",
+      "published_at": "2026-10-30T17:22:32Z",
+      "category": "cloud_providers",
+      "tags": [
+        "AWS",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.92,
+      "importance_score": 0.8346,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "75fe370fbe130ad4086936db911f2fa89fde04e3"
+    },
+    {
+      "title": "Azure's Weakest Link – Five Full Cross-Tenant Compromises",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.binarysecurity.no/posts/2026/10/one-root-case",
+      "published_at": "2026-10-30T10:06:15Z",
+      "category": "aggregators",
+      "tags": [
+        "Azure",
+        "Hacker News"
+      ],
+      "confidence_score": 0.651,
+      "importance_score": 0.8342,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50301854"
+    },
+    {
+      "title": "What’s new with Google Cloud",
+      "summary": "Want to know the latest from Google Cloud? Find it here in one handy location. Check back regularly for our newest updates, announcements, resources, events, learning opportunities, and more. Tip : Not sure where to find what you’re looking for on the Google Cloud blog? Start here: Google Cloud blog 101: Full list of topics, links, and resources . aside_block <ListValue: []> Oct 26 - Oct 30 Simplify PostgreSQL Monitoring with the New AlloyDB Omni Web UI The newly released…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
+      "published_at": "2026-10-30T16:00:00Z",
+      "category": "cloud_providers",
+      "tags": [
+        "Cloud",
+        "Google Cloud",
+        "Databases",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.8288,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/"
+    },
+    {
+      "title": "Build Specialized Agents on a Stack You Control with NVIDIA NemoClaw",
+      "summary": "Building an autonomous agent requires a model, a harness, and domain-specific tools. To deploy an agent more securely, developers need a runtime that enforces...",
+      "source_name": "NVIDIA Developer Blog",
+      "source_url": "https://developer.nvidia.com/blog/build-specialized-agents-on-a-stack-you-control-with-nvidia-nemoclaw/",
+      "published_at": "2026-10-30T16:00:00Z",
+      "category": "mlops",
+      "tags": [
+        "AI Agents",
+        "GPUs",
+        "AI Models",
+        "Mlops"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8288,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://developer.nvidia.com/blog/?p=124341"
+    },
+    {
+      "title": "What’s new in AI infrastructure and orchestration in October",
+      "summary": "The Google Cloud AI Infrastructure team had another busy month in October, filled with new product launches and updates to power today’s AI and agentic workloads scalably and efficiently. We were also honored to share our progress with customers, partners, and the broader community at leading industry events, including NVIDIA GTC, PyTorch Conference, and AGNTCon + MCPCon. Let’s dive in! Product, technology, and tools updates New compute service: Agent Compute Engine is a…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/topics/ai-infrastructure/whats-new-in-ai-infrastructure-this-month/",
+      "published_at": "2026-10-30T16:00:00Z",
+      "category": "cloud_providers",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Cloud",
+        "Google Cloud",
+        "GPUs",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.8288,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/topics/ai-infrastructure/whats-new-in-ai-infrastructure-this-month/"
+    },
+    {
+      "title": "When the Kubernetes API went silent: A three-layer networking mystery",
+      "summary": "Every support engineer has a case that stays with them. The one that comes up at team lunches. The one where, even after it's resolved, you find yourself staring at a packet capture at midnight just to make sure you really understand what happened. This is that case. It started in January 2026 with a support ticket that read deceptively simply: pods are intermittently failing to reach the Kubernetes API server. The error was a familiar-looking timeout. The customer had…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/products/networking/the-three-layer-gke-network-mystery/",
+      "published_at": "2026-10-30T16:00:00Z",
+      "category": "cloud_providers",
+      "tags": [
+        "Kubernetes",
+        "APIs",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.8288,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/products/networking/the-three-layer-gke-network-mystery/"
+    },
+    {
+      "title": "Innovate on your own business terms: Google Cloud spend caps now generally available",
+      "summary": "Today, we’re announcing that spend caps on Google Cloud Budgets are generally available. With this release, we’re delivering ways to protect your workloads from runaway costs without risking resource deletion. More importantly, we’re introducing three major updates, directly inspired by your feedback since the initial preview, to bring programmability, real-time visibility, and automated guardrails to your cost-control playbook. How the new spend caps can help your business…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/topics/cost-management/google-cloud-spend-caps-now-generally-available/",
+      "published_at": "2026-10-30T16:00:00Z",
+      "category": "cloud_providers",
+      "tags": [
+        "Cloud",
+        "Google Cloud",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.8288,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/topics/cost-management/google-cloud-spend-caps-now-generally-available/"
+    },
+    {
+      "title": "US tech stocks see sharp falls over AI cost fears",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo",
+      "published_at": "2026-10-30T16:13:02Z",
+      "category": "aggregators",
+      "tags": [
+        "AI",
+        "Hacker News"
+      ],
+      "confidence_score": 0.637,
+      "importance_score": 0.8272,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50306008"
+    },
+    {
+      "title": "KubeCon + CloudNativeCon NA 2026: End User TAB recommendations and tips",
+      "summary": "KubeCon + CloudNativeCon NA 2026 in Salt Lake City will bring the cloud native community together with projects, vendors and end users in what is one of the largest open source events. In this post, we...",
+      "source_name": "CNCF",
+      "source_url": "https://www.cncf.io/blog/2026/10/29/kubecon-cloudnativecon-na-2026-end-user-tab-recommendations-and-tips/",
+      "published_at": "2026-10-30T00:43:04Z",
+      "category": "open_source_foundations",
+      "tags": [
+        "Cloud",
+        "Open Source",
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8251,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.cncf.io/?p=176729"
+    },
+    {
+      "title": "How to Check and Configure NVIDIA GPUDirect Storage for Your Platform",
+      "summary": "NVIDIA GPUDirect Storage (GDS) accelerates GPU storage access in on-premises and cloud environments. It provides a robust, portable, and efficient data path...",
+      "source_name": "NVIDIA Developer Blog",
+      "source_url": "https://developer.nvidia.com/blog/how-to-check-and-configure-nvidia-gpudirect-storage-for-your-platform/",
+      "published_at": "2026-10-30T15:01:36Z",
+      "category": "mlops",
+      "tags": [
+        "Cloud",
+        "GPUs",
+        "Mlops"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8248,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://developer.nvidia.com/blog/?p=124327"
+    },
+    {
+      "title": "Things That Go Beep in the Night: Agentic AI Joins the Search for Extraterrestrial Signals",
+      "summary": "While science fiction lore tells us that humans will meet extraterrestrial life in the form of little green men, the detail that should raise hairs this Halloween is this: the search for extraterrestrial intelligence took a major leap forward with AI, and it increasingly focuses on AI agents built by humans listening for AI agents […]",
+      "source_name": "NVIDIA Blog",
+      "source_url": "https://blogs.nvidia.com/blog/ai-joins-the-search-for-extraterrestrial-signals/",
+      "published_at": "2026-10-30T15:00:10Z",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8247,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://blogs.nvidia.com/?p=99597"
+    },
+    {
+      "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
+      "summary": "https://cursor.com/blog/claude-code-extension-security-notic...",
+      "source_name": "Hacker News",
+      "source_url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
+      "published_at": "2026-10-30T07:09:12Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.8219,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50300683"
+    },
+    {
+      "title": "New Gemini courses for financial services and legal teams",
+      "summary": "Today Google Skills is sharing new, industry-specific video learning bundles to get you into Gemini and using agents. One bundle is designed for financial services and one is built specifically for those in the legal profession . You can access all of these videos at no cost on Google Skills today. Whether you're managing complex market portfolios or navigating rigorous compliance reviews, these bite-sized video courses show you exactly how to work smarter with agentic AI…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/topics/training-certifications/new-gemini-courses-for-financial-services-and-legal-teams/",
+      "published_at": "2026-10-30T13:00:00Z",
+      "category": "cloud_providers",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.8163,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/topics/training-certifications/new-gemini-courses-for-financial-services-and-legal-teams/"
+    },
+    {
+      "title": "Salesforce Signs Definitive Agreement to Acquire Rune Technologies",
+      "summary": "Salesforce, the #1 AI CRM, today announced it has signed a definitive agreement to acquire Rune Technologies, a leading edge-native technology provider building solutions to enable critical logistics and sustainment operations for the U.S. military and allied nations. Rune Technologies’s technology helps frontline teams forecast supply needs, optimize resources, and make mission-critical decisions – including […]",
+      "source_name": "Salesforce News",
+      "source_url": "https://www.salesforce.com/news/stories/salesforce-signs-definitive-agreement-to-acquire-rune-technologies/",
+      "published_at": "2026-10-29T20:00:00Z",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.8055,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.salesforce.com/?p=96158"
+    },
+    {
+      "title": "The boundary problem in agentic AI is a platform problem",
+      "summary": "An autonomous agent will do exactly what its tools let it do, and no more. This sounds like a constraint. In practice it is the whole risk, because the set of things an agent’s tools let...",
+      "source_name": "CNCF",
+      "source_url": "https://www.cncf.io/blog/2026/10/29/the-boundary-problem-in-agentic-ai-is-a-platform-problem/",
+      "published_at": "2026-10-29T18:11:50Z",
+      "category": "open_source_foundations",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.87,
+      "importance_score": 0.798,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.cncf.io/?p=176750"
+    },
+    {
+      "title": "An updated Model Spec for more capable and beneficial AI",
+      "summary": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/updated-model-spec",
+      "published_at": "2026-10-29T17:00:00Z",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI",
+        "AI Models",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.97,
+      "importance_score": 0.793,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/index/updated-model-spec"
+    },
+    {
+      "title": "Even Within an Organization, There Is No Single AI Strategy",
+      "summary": "AI is still jagged. Your enterprise strategy should be, too.",
+      "source_name": "Salesforce News",
+      "source_url": "https://www.salesforce.com/news/stories/no-single-ai-strategy/",
+      "published_at": "2026-10-29T16:30:00Z",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7909,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.salesforce.com/?p=96131"
+    },
+    {
+      "title": "Salesforce Deepens Investment in Washington, D.C. With New Innovation Center",
+      "summary": "The new space will serve as a hub for public sector customers, partners, and the D.C. community to meet, collaborate, and explore the next generation of government services",
+      "source_name": "Salesforce News",
+      "source_url": "https://www.salesforce.com/news/stories/deepens-investment-washington-dc/",
+      "published_at": "2026-10-29T12:00:00Z",
+      "category": "enterprise_technology",
+      "tags": [
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7721,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.salesforce.com/?p=96136"
+    },
+    {
+      "title": "Proton's CEO Cancels AI 'Re-Interviews'",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.404media.co/protons-ceo-cancels-ai-re-interviews/",
+      "published_at": "2026-10-30T17:24:45Z",
+      "category": "aggregators",
+      "tags": [
+        "AI",
+        "Hacker News"
+      ],
+      "confidence_score": 0.609,
+      "importance_score": 0.7622,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50307183"
+    },
+    {
+      "title": "How we detect frontier model misalignment",
+      "summary": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+      "published_at": "2026-10-29T09:00:00Z",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI Agents",
+        "AI Models",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.97,
+      "importance_score": 0.7597,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/index/how-we-detect-frontier-model-misalignment"
+    },
+    {
+      "title": "'I still don't want this to be the end': Read the now-deleted apology Villa Vie's CEO sent to Odyssey residents",
+      "summary": "Villa Vie Residences CEO Kathy Villalba said in her now-deleted message to residents that she was sorry for the pain guests are facing.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/read-villa-vie-ceo-apology-odyssey-never-ending-cruise-2026-10",
+      "published_at": "2026-10-30T18:23:01Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7587,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/read-villa-vie-ceo-apology-odyssey-never-ending-cruise-2026-10"
+    },
+    {
+      "title": "Zest’s new AI agent finds restaurants and books reservations over text",
+      "summary": "Can't agree on where to eat? Zest's AI concierge can combine everyone's tastes, put restaurant options to a vote, and make the reservation.",
+      "source_name": "TechCrunch - AI",
+      "source_url": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
+      "published_at": "2026-10-30T17:47:12Z",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7563,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://techcrunch.com/?p=3183083"
+    },
+    {
+      "title": "Binance’s $6.3 Billion Hack Is Just the Start of a Risky New Era",
+      "summary": "The largest cyber heist in history came as attackers increasingly use artificial intelligence and other advanced techniques to steal crypto and quickly launder the funds.",
+      "source_name": "The New York Times - Technology",
+      "source_url": "https://www.nytimes.com/2026/10/30/technology/binance-hack-ai-north-korea.html",
+      "published_at": "2026-10-30T17:47:07Z",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7562,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.nytimes.com/2026/10/30/technology/binance-hack-ai-north-korea.html"
+    },
+    {
+      "title": "You Can See Everything That Billy Evans Watched on 2x Speed",
+      "summary": "What was Elizabeth Holmes’s partner watching in the new Nathan Fielder documentary? We found the videos (and the scientists in them).",
+      "source_name": "The New York Times - Technology",
+      "source_url": "https://www.nytimes.com/2026/10/30/upshot/billy-evans-you-can-see-everything.html",
+      "published_at": "2026-10-30T17:24:13Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7547,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.nytimes.com/2026/10/30/upshot/billy-evans-you-can-see-everything.html"
+    },
+    {
+      "title": "I explored the ruins of an abandoned zoo on the coast of Florida. It was overrun by nature, but eerie cages remained.",
+      "summary": "Crandon Park Zoo was abandoned after hurricanes ravaged the area. Today, wildlife such as alligators and peacocks live freely in the park.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/abandoned-florida-zoo-crandon-park-2026-10",
+      "published_at": "2026-10-30T17:11:20Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7538,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/abandoned-florida-zoo-crandon-park-2026-10"
+    },
+    {
+      "title": "Google’s first data center satellite is online and writing poetry",
+      "summary": "The first TPU in space is running a Google DeepMind Gemma 4 model and writing cheesy poetry.",
+      "source_name": "TechCrunch - AI",
+      "source_url": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/",
+      "published_at": "2026-10-30T17:00:00Z",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI Models",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.753,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://techcrunch.com/?p=3183584"
+    },
+    {
+      "title": "Chinese Hackers Use AI-Powered ARTEX to Target Over 200 Organizations Worldwide",
+      "summary": "Chinese state-sponsored threat actors have been observed using a Go-based artificial intelligence (AI)-powered penetration testing framework called ARTEX in attacks aimed at high-value targets simultaneously. The activity has been attributed by CrowdStrike to a China-based \"targeted intrusion adversary\" it tracks under the moniker Vapor Panda (previously VexatiousTemper). First identified in",
+      "source_name": "The Hacker News",
+      "source_url": "https://thehackernews.com/2026/10/chinese-hackers-use-ai-powered-artex-to.html",
+      "published_at": "2026-10-30T16:58:44Z",
+      "category": "cybersecurity",
+      "tags": [
+        "AI",
+        "Cybersecurity"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7529,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://thehackernews.com/2026/10/chinese-hackers-use-ai-powered-artex-to.html"
+    },
+    {
+      "title": "How Ropes & Gray is developing AI for transactional diligence",
+      "summary": "Ropes & Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients.",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/ropes-gray-ai-diligence",
+      "published_at": "2026-10-29T07:00:00Z",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.97,
+      "importance_score": 0.7513,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/index/ropes-gray-ai-diligence"
+    },
+    {
+      "title": "Polymarket and Kalshi Face a Major Accuracy Test: The Midterms",
+      "summary": "Studies have shown that the betting sites can predict races correctly, but their ability to forecast U.S. midterm elections is an important proving ground.",
+      "source_name": "The New York Times - Technology",
+      "source_url": "https://www.nytimes.com/2026/10/30/technology/polymarket-kalshi-midterm-elections.html",
+      "published_at": "2026-10-30T16:35:45Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7513,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.nytimes.com/2026/10/30/technology/polymarket-kalshi-midterm-elections.html"
+    },
+    {
+      "title": "Video Friday: Spot Plays to Show Its Whole-Body Manipulation",
+      "summary": "Your weekly selection of awesome robot videos",
+      "source_name": "IEEE Spectrum",
+      "source_url": "https://spectrum.ieee.org/video-friday-whole-body-manipulation",
+      "published_at": "2026-10-30T16:30:03Z",
+      "category": "research_feeds",
+      "tags": [
+        "Research Feeds"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.7509,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://spectrum.ieee.org/video-friday-whole-body-manipulation"
+    },
+    {
+      "title": "Anthropic: That Claude Code extension compromise… couldn't be us",
+      "summary": "Claudeshop fingers 'malicious actor' in targeted supply-chain attack on Cursor",
+      "source_name": "The Register",
+      "source_url": "https://www.theregister.com/cyber-crime/2026/10/30/anthropic-that-claude-code-extension-compromise-couldnt-be-us/5306682",
+      "published_at": "2026-10-30T16:27:00Z",
+      "category": "enterprise_technology",
+      "tags": [
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7507,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.theregister.com/a/5306682"
+    },
+    {
+      "title": "Top YouTuber MrBeast has named his first chief marketing officer",
+      "summary": "YouTube star MrBeast's company named Michelle St. Jacques to the role, an expansion of her duties leading Feastables.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/mrbeast-jimmy-donaldson-first-chief-marketer-feastables-michelle-st-jacques-2026-10",
+      "published_at": "2026-10-30T16:23:04Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7504,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/mrbeast-jimmy-donaldson-first-chief-marketer-feastables-michelle-st-jacques-2026-10"
+    },
+    {
+      "title": "OpenAI drops 3 discoveries, plus a new model",
+      "summary": "OpenAI drops 3 discoveries, plus a new model Superhuman AI",
+      "source_name": "Superhuman (Zain Kahn)",
+      "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5jUEpwajk0S0cxS0VLV3ZkRkZKdmNOWjl0YU5aa1c4Vk9WcmtGcGxXTnZGZFg0Tl9YSkV2NzFMLW05TExhelZJbXhvZUp5WFBKSTU1WDZiXzJsRzE1eFNpdTE1RkJDR0Z6VXVpeU5tcHBjVGw4bGxiQkU2QQ?oc=5",
+      "published_at": "2026-10-30T15:21:21Z",
+      "category": "ai_newsletters",
+      "tags": [
+        "AI",
+        "AI Models",
+        "Ai Newsletters"
+      ],
+      "confidence_score": 0.64,
+      "importance_score": 0.7461,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "CBMie0FVX3lxTE5jUEpwajk0S0cxS0VLV3ZkRkZKdmNOWjl0YU5aa1c4Vk9WcmtGcGxXTnZGZFg0Tl9YSkV2NzFMLW05TExhelZJbXhvZUp5WFBKSTU1WDZiXzJsRzE1eFNpdTE1RkJDR0Z6VXVpeU5tcHBjVGw4bGxiQkU2QQ"
+    },
+    {
+      "title": "TeamViewer Flaw Lets Remote Computers Attack Users Who Connect to Control Them",
+      "summary": "TeamViewer has fixed a flaw that lets the machine being controlled in a remote session attack the computer that connected to control it. In a TeamViewer session, the computer that connects and takes control is the viewer, and the machine it controls is the host. A malicious or compromised host can exploit the flaw to crash the viewer's TeamViewer and, depending on the platform, may also run",
+      "source_name": "The Hacker News",
+      "source_url": "https://thehackernews.com/2026/10/teamviewer-flaw-lets-remote-computers.html",
+      "published_at": "2026-10-30T15:17:28Z",
+      "category": "cybersecurity",
+      "tags": [
+        "Cybersecurity"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7459,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://thehackernews.com/2026/10/teamviewer-flaw-lets-remote-computers.html"
+    },
+    {
+      "title": "Musical Chairs With Landlords",
+      "summary": "The $800 billion bill behind Anthropic's IPO.",
+      "source_name": "AI Secret",
+      "source_url": "https://aisecret.us/musical-chairs-with-landlords/",
+      "published_at": "2026-10-30T12:30:30Z",
+      "category": "ai_newsletters",
+      "tags": [
+        "Ai Newsletters"
+      ],
+      "confidence_score": 0.64,
+      "importance_score": 0.7343,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "6ae0b7c59f379b89dc95fe8e"
+    },
+    {
+      "title": "The Download: GLP-1s and eating disorders, self-aware cities, and forever chemicals",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Eating disorders are on the rise. GLP-1s could make things worse. GLP-1 weight-loss drugs are one of the biggest biotech breakthroughs of the last decade. But to some clinicians, they can…",
+      "source_name": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/10/30/1147843/the-download-glp-1s-eating-disorders-forever-chemicals/",
+      "published_at": "2026-10-30T11:30:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "Research Feeds"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.7301,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.technologyreview.com/?p=1147843"
+    },
+    {
+      "title": "Coding Agent Horror Stories: The CVE That Did Not Exist",
+      "summary": "An AI code review agent invented a CVE and recommended dangerous fixes. Learn how Docker Sandboxes contain agents and why their output needs verification.",
+      "source_name": "Docker Blog",
+      "source_url": "https://www.docker.com/blog/coding-agent-horror-stories-the-cve-that-did-not-exist/",
+      "published_at": "2026-10-29T13:00:00Z",
+      "category": "developer_platforms",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Containers",
+        "Developer Platforms"
+      ],
+      "confidence_score": 0.85,
+      "importance_score": 0.7163,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.docker.com/?p=95520"
+    },
+    {
+      "title": "It’s ok that computers are (sometimes) better than us",
+      "summary": "Ryan is joined by Charity Majors, co-founder and CTO at Honeycomb, for a conversation about applying the concept of immutable infrastructure to software development to treat code like cattle instead of pets, shifting the paradigm of system specifications to accommodate the rapid influx of AI-generated code, and navigating the complex ethical boundaries between system observability and human surveillance in modern technology ecosystems.",
+      "source_name": "Stack Overflow Blog",
+      "source_url": "https://stackoverflow.blog/2026/10/30/it-s-ok-that-computers-are-sometimes-better-than-us/",
+      "published_at": "2026-10-30T07:40:00Z",
+      "category": "developer_platforms",
+      "tags": [
+        "AI",
+        "Developer Platforms"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7141,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "3e9f61bf-ac99-4dda-99be-643153e773f6"
+    }
+  ]
+}
