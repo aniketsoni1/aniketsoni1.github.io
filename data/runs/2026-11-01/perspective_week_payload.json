@@ -1,0 +1,133 @@
+{
+  "post_date": "2026-11-01",
+  "week_start": "2026-10-26",
+  "week_label": "October 26 – November 1, 2026",
+  "theme": "AI",
+  "related_themes": [
+    "AI Models",
+    "Ai Model Companies",
+    "AI Agents",
+    "Cloud Providers",
+    "GPUs"
+  ],
+  "tag_counts": [
+    {
+      "tag": "AI",
+      "count": 38
+    },
+    {
+      "tag": "AI Models",
+      "count": 23
+    },
+    {
+      "tag": "Ai Model Companies",
+      "count": 23
+    },
+    {
+      "tag": "AI Agents",
+      "count": 20
+    },
+    {
+      "tag": "Cloud Providers",
+      "count": 15
+    },
+    {
+      "tag": "GPUs",
+      "count": 11
+    }
+  ],
+  "stories_reviewed": 91,
+  "runs_used": [
+    "2026-10-26",
+    "2026-10-27",
+    "2026-10-28",
+    "2026-10-29",
+    "2026-10-30",
+    "2026-10-31",
+    "2026-11-01"
+  ],
+  "sources_count": 22,
+  "citations": [
+    {
+      "date": "2026-10-29",
+      "title": "The boundary problem in agentic AI is a platform problem",
+      "url": "https://www.cncf.io/blog/2026/10/29/the-boundary-problem-in-agentic-ai-is-a-platform-problem/",
+      "source_name": "CNCF",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Open Source Foundations"
+      ],
+      "summary": "Autonomous agents are limited by their tools, which defines the scope of their actions and associated risks.",
+      "why": "Understanding these tool-based constraints is critical for engineers designing and deploying agentic AI systems, as it directly impacts system capabilities and potential risks.",
+      "score": 0.8966
+    },
+    {
+      "date": "2026-10-29",
+      "title": "An updated Model Spec for more capable and beneficial AI",
+      "url": "https://openai.com/index/updated-model-spec",
+      "source_name": "OpenAI",
+      "tags": [
+        "AI",
+        "AI Models",
+        "Ai Model Companies"
+      ],
+      "summary": "OpenAI's updated Model Spec details five core values intended to guide AI towards sound judgment, human agency, and faithfulness to human intent.",
+      "why": "This framework provides insight into the ethical and operational principles guiding the development of advanced AI models, which can influence their design and deployment in enterprise systems.",
+      "score": 0.8916
+    },
+    {
+      "date": "2026-10-28",
+      "title": "The future of the firm",
+      "url": "https://openai.com/index/the-future-of-the-firm",
+      "source_name": "OpenAI",
+      "tags": [
+        "AI",
+        "Ai Model Companies"
+      ],
+      "summary": "AI could be integrated into organizational structures, positioned below, alongside, or in between existing roles.",
+      "why": "This suggests potential shifts in how AI systems interact with human roles within enterprise technology organizations.",
+      "score": 0.8627
+    },
+    {
+      "date": "2026-10-30",
+      "title": "Making it easier for websites to express AI training preferences",
+      "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+      "source_name": "OpenAI",
+      "tags": [
+        "AI",
+        "Ai Model Companies"
+      ],
+      "summary": "OpenAI will respect a shared robots.txt signal, enabling website operators to convey their AI training preferences to participating providers.",
+      "why": "This provides a standardized mechanism for controlling data access for AI model training, impacting data governance and model development strategies.",
+      "score": 0.8617
+    },
+    {
+      "date": "2026-10-30",
+      "title": "AI isn't replacing SREs, it's deskilling them",
+      "url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
+      "source_name": "Hacker News",
+      "tags": [
+        "AI",
+        "Hacker News"
+      ],
+      "summary": "The provided source text does not contain an abstract or body content to summarize.",
+      "why": "Without source content, it is not possible to determine why this topic would matter to data or AI engineers.",
+      "score": 0.8583
+    },
+    {
+      "date": "2026-10-27",
+      "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+      "url": "https://openai.com/index/oracle-apps-in-chatgpt",
+      "source_name": "OpenAI",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Ai Model Companies"
+      ],
+      "summary": "OpenAI and Oracle are expanding their partnership to integrate business applications and AI agents into ChatGPT, and to power new Oracle offerings.",
+      "why": "This partnership aims to embed AI capabilities directly into enterprise applications, potentially streamlining workflows and data interaction for businesses.",
+      "score": 0.851
+    }
+  ]
+}
