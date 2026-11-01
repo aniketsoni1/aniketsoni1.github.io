@@ -1,0 +1,790 @@
+{
+  "post_date": "2026-11-01",
+  "sources_checked": 48,
+  "count": 45,
+  "items": [
+    {
+      "title": "Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
+      "summary": "Saw Karpathy's HackerTube and wanted the same thing for books. So I had Claude build one (Opus 5.5). It's ~16.5k books that at least two different HN commenters brought up, from 2007 till now. Each book links back to the comments that mentioned it. Data is downloadable from the about page. To be…",
+      "source_name": "Hacker News",
+      "source_url": "https://hackerbooks.org",
+      "published_at": "2026-11-01T15:58:28Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.697,
+      "importance_score": 0.8596,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50326821"
+    },
+    {
+      "title": "Police chief unplugs Flock cameras after company ignores contract cancellation",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.tomshardware.com/tech-industry/big-tech/police-chief-physically-unplugs-flock-cameras-after-the-company-ignores-contract-cancellation-city-takes-matters-into-its-own-hands-amid-privacy-controversies",
+      "published_at": "2026-11-01T14:36:13Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.68,
+      "importance_score": 0.8539,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50326118"
+    },
+    {
+      "title": "Lenovo's 'encrypted' fingerprint USB is just an unencrypted SD card in a case",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.reddit.com/r/technology/comments/1xl2pr3/lenovos_encrypted_fingerprint_usb_drive_is_just/",
+      "published_at": "2026-11-01T14:34:43Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.6555,
+      "importance_score": 0.8538,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50326099"
+    },
+    {
+      "title": "Restrooms along the Norwegian Scenic Routes",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.visitnorway.com/plan-your-trip/travel-tips-a-z/norwegian-scenic-routes/worlds-best-toilets/",
+      "published_at": "2026-11-01T10:47:58Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.8381,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50324388"
+    },
+    {
+      "title": "The AI cost of JavaScript frameworks",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
+      "published_at": "2026-11-01T06:06:19Z",
+      "category": "aggregators",
+      "tags": [
+        "AI",
+        "Hacker News"
+      ],
+      "confidence_score": 0.6585,
+      "importance_score": 0.8185,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50323088"
+    },
+    {
+      "title": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/",
+      "published_at": "2026-11-01T02:19:53Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.681,
+      "importance_score": 0.8028,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50322173"
+    },
+    {
+      "title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve",
+      "published_at": "2026-10-31T22:46:12Z",
+      "category": "aggregators",
+      "tags": [
+        "AI Models",
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7879,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50320995"
+    },
+    {
+      "title": "An Italian farmer found some unknown seeds in his attic and planted them",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/",
+      "published_at": "2026-10-31T22:41:06Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7876,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50320963"
+    },
+    {
+      "title": "HackerTube: YouTube built from videos recommended by HN",
+      "summary": "YouTube-style UI over 6,454 videos sourced from 39,834 HN comments since 2007. https://hackertube.org/",
+      "source_name": "Hacker News",
+      "source_url": "https://karpathy.bearblog.dev/hacker-tube/",
+      "published_at": "2026-10-31T19:56:53Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7762,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50319510"
+    },
+    {
+      "title": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf",
+      "published_at": "2026-10-31T19:16:30Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7734,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50319143"
+    },
+    {
+      "title": "After living in California for decades, I've found the perfect place to visit when I crave coastal Mediterranean vibes",
+      "summary": "I grew up in California. As a local, my favorite city in the US that feels like Europe is Newport Beach. Here's what to do there and where to stay.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/california-favorite-city-feels-like-europe-newport-beach-local-tips-2026-11",
+      "published_at": "2026-11-01T18:15:01Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7591,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/california-favorite-city-feels-like-europe-newport-beach-local-tips-2026-11"
+    },
+    {
+      "title": "AI Is Finding a Flood of Bugs, and Silicon Valley Is Rushing to Fix Them",
+      "summary": "A.I. has uncovered a horde of software flaws, which engineers are racing to fix before they can be exploited and abused by hackers.",
+      "source_name": "The New York Times - Technology",
+      "source_url": "https://www.nytimes.com/2026/10/28/technology/silicon-valley-bugs-ai.html",
+      "published_at": "2026-11-01T17:19:20Z",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7552,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.nytimes.com/2026/10/28/technology/silicon-valley-bugs-ai.html"
+    },
+    {
+      "title": "'SNL' goes after AI, startup culture, and 'predatory tech guys'",
+      "summary": "'SNL' fired shots at AI startup culture in its latest episode.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/saturday-night-live-snl-ai-startup-culture-tech-comedy-2026-11",
+      "published_at": "2026-11-01T17:13:48Z",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7549,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/saturday-night-live-snl-ai-startup-culture-tech-comedy-2026-11"
+    },
+    {
+      "title": "I wanted a part-time job while homeschooling my 3 kids. Then my cake pop side hustle took off.",
+      "summary": "Jessica Redford started a cake pop business while homeschooling three kids. She now sells out weekly and has found a creative outlet.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/homeschool-mom-started-business-instead-part-time-job-2026-11",
+      "published_at": "2026-11-01T16:52:01Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7533,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/homeschool-mom-started-business-instead-part-time-job-2026-11"
+    },
+    {
+      "title": "Even millionaires are renting. Here are 10 cities they're flocking to.",
+      "summary": "As companies head South, they're bringing their workers with them. It's fueling a surge in millionaire renters across several Southern cities.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/us-cities-most-millionaire-renters-2026-11",
+      "published_at": "2026-11-01T16:24:01Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7514,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/us-cities-most-millionaire-renters-2026-11"
+    },
+    {
+      "title": "I hadn't seen my grandfather in 22 years. When I finally returned to the Dominican Republic, his first question broke me.",
+      "summary": "I spent a summer with my grandfather in the Dominican Republic at 12. After years of financial struggles, I finally returned 22 years later.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/couldnt-afford-visit-grandfather-dominican-republic-2026-11",
+      "published_at": "2026-11-01T15:58:01Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7496,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/couldnt-afford-visit-grandfather-dominican-republic-2026-11"
+    },
+    {
+      "title": "8 of the best and 5 of the worst looks Kate Middleton has worn in 2026",
+      "summary": "Kate Middleton's fashion wins of 2026 include ball gowns and colorful suits, but she's had some style misses with her more casual attire.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/kate-middleton-best-worst-looks-2026-11",
+      "published_at": "2026-11-01T15:41:01Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7484,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/kate-middleton-best-worst-looks-2026-11"
+    },
+    {
+      "title": "Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM (2024)",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://arxiv.org/abs/2409.02292",
+      "published_at": "2026-11-01T01:46:29Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.629,
+      "importance_score": 0.748,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50322022"
+    },
+    {
+      "title": "Anthropic's internal AI use, valued at retail prices, now exceeds its employee pay",
+      "summary": "Anthropic's IPO filing reveals a striking milestone: Its internal AI usage is now valued above employee compensation.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11",
+      "published_at": "2026-11-01T15:00:01Z",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7456,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11"
+    },
+    {
+      "title": "At 27, I quit my dream job without a plan. It killed me at the time, but paid off over a decade later.",
+      "summary": "It was hard to quit my dream job without a plan or another job lined up, but doing so has paid off and helped me pivot and build a career I love.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/quit-dream-job-without-plan-paid-off-years-later-2026-11",
+      "published_at": "2026-11-01T14:25:01Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7431,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/quit-dream-job-without-plan-paid-off-years-later-2026-11"
+    },
+    {
+      "title": "Guarding the Gates of Knowledge",
+      "summary": "AI can fake a plausible paper at the push of a button. Can detection tools and peer review keep up?",
+      "source_name": "IEEE Spectrum",
+      "source_url": "https://spectrum.ieee.org/ai-slop-trust-science",
+      "published_at": "2026-11-01T14:00:01Z",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.7414,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://spectrum.ieee.org/ai-slop-trust-science"
+    },
+    {
+      "title": "AI agent swarms in Minecraft fail to build civilization, drown in bureaucracy",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy",
+      "published_at": "2026-11-01T13:47:24Z",
+      "category": "aggregators",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Hacker News"
+      ],
+      "confidence_score": 0.606,
+      "importance_score": 0.7405,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50325662"
+    },
+    {
+      "title": "Ukraine is pushing fiber-optic drones to greater ranges. One maker questions whether that's worth the trade-offs.",
+      "summary": "Ukraine's unjammable fiber-optic drones have achieved greater ranges, but one maker, TechEx, says pushing them further may not be worth the trade-off.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/ukraine-fiber-optic-drone-maker-question-greater-range-trade-off-2026-11",
+      "published_at": "2026-11-01T13:27:01Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7391,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/ukraine-fiber-optic-drone-maker-question-greater-range-trade-off-2026-11"
+    },
+    {
+      "title": "A 'humbling' career move led to Catherine Zeta-Jones' big break",
+      "summary": "Catherine Zeta-Jones talks about her humbling experience of moving to LA, her best movie and TV roles, and working with her husband, Michael Douglas.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/catherine-zeta-jones-movie-tv-roles-zorro-working-with-husband-2026-11",
+      "published_at": "2026-11-01T13:08:01Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7378,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/catherine-zeta-jones-movie-tv-roles-zorro-working-with-husband-2026-11"
+    },
+    {
+      "title": "The 30 Best Gifts for Star Wars Fans (2026)",
+      "summary": "From marble runs to advent calendars, these are the best Star Wars gifts for fans of all ages.",
+      "source_name": "Wired",
+      "source_url": "https://www.wired.com/gallery/best-star-wars-gifts/",
+      "published_at": "2026-11-01T12:30:00Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7352,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "663369f7f554f4ca4bded921"
+    },
+    {
+      "title": "My family and I moved back home to Kentucky from Los Angeles. It gave me more time with my dad before his sudden death.",
+      "summary": "Moving back home from Los Angeles meant more time with family. When my dad suddenly passed, that meant even more.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/moving-home-kentucky-los-angeles-time-dad-2026-11",
+      "published_at": "2026-11-01T12:28:01Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.735,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/moving-home-kentucky-los-angeles-time-dad-2026-11"
+    },
+    {
+      "title": "The 7 best movies coming to Netflix in November",
+      "summary": "This November on Netflix, watch the hit movie \"Obsession,\" new release \"The Mosquito Bowl,\" and classics \"Cliffhanger,\" and \"Weekend at Bernie's.\"",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/best-movies-on-netflix-november-2026",
+      "published_at": "2026-11-01T12:12:01Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7339,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/best-movies-on-netflix-november-2026"
+    },
+    {
+      "title": "There’s a Free Video Editor Inside Google Drive That Anyone Can Use",
+      "summary": "You may not have noticed everything Google’s free software suite offers—especially a web app called Google Vids.",
+      "source_name": "Wired",
+      "source_url": "https://www.wired.com/story/google-vids-free-video-editor-inside-google-drive/",
+      "published_at": "2026-11-01T12:00:00Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7331,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "6ad7ae04a2fe7a32ff22213c"
+    },
+    {
+      "title": "The Hollywood Color Nerd Who Shot ‘Knives Out’ Explains His Viral iPhone Camera App",
+      "summary": "The Chromagraph Camera app costs $13 dollars and processes iPhone photos with the same color math Rian Johnson’s cinematographer, Steve Yedlin, uses for film.",
+      "source_name": "Wired",
+      "source_url": "https://www.wired.com/story/the-hollywood-color-nerd-who-shot-knives-out-explains-his-viral-iphone-camera-app/",
+      "published_at": "2026-11-01T12:00:00Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7331,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "6ae4bb2befa3d2dc0cf68d76"
+    },
+    {
+      "title": "'Mother of all editors' Emacs is 50",
+      "summary": "By a startling coincidence, so is its arch-rival Vi",
+      "source_name": "The Register",
+      "source_url": "https://www.theregister.com/applications/2026/11/01/mother-of-all-editors-emacs-is-50/5306727",
+      "published_at": "2026-11-01T11:51:00Z",
+      "category": "enterprise_technology",
+      "tags": [
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7324,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.theregister.com/a/5306727"
+    },
+    {
+      "title": "Lenovo LOQ 15: The Only Gaming Laptop Worth Buying Below $1,500",
+      "summary": "As prices escalate on gaming laptops, there’s really only one affordable option still around: the Lenovo LOQ 15, which offers a better performance and display than its competitors.",
+      "source_name": "Wired",
+      "source_url": "https://www.wired.com/story/lenovo-loq-15-best-deal/",
+      "published_at": "2026-11-01T11:30:00Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.731,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "6ae505d521bfda08f54b3e83"
+    },
+    {
+      "title": "8 Best Space Heaters (2026): Tested, Measured, and Mistreated",
+      "summary": "These portable heaters will heat a room quickly, quietly, and safely.",
+      "source_name": "Wired",
+      "source_url": "https://www.wired.com/gallery/the-best-space-heaters/",
+      "published_at": "2026-11-01T11:30:00Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.731,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "6765c821323d4215f6f1937e"
+    },
+    {
+      "title": "What Democrats Can Learn From New York’s Data Center Moratorium",
+      "summary": "With a number of anti-data-center candidates poised to win on Tuesday, New York provides a glimpse at the tensions around actually having to do something about the digital infrastructure.",
+      "source_name": "Wired",
+      "source_url": "https://www.wired.com/story/what-democrats-can-learn-new-york-data-center-moratorium/",
+      "published_at": "2026-11-01T11:00:00Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7289,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "6ae3cc2bfeb0012f49429fe9"
+    },
+    {
+      "title": "7 Best Travel Mugs (2026): Insulated, Leakproof, and Self-Heating",
+      "summary": "These top picks from brands like Ember, Owala, and Hydro Flask are built to last, keeping your drinks hot and your mornings smooth.",
+      "source_name": "Wired",
+      "source_url": "https://www.wired.com/story/the-best-travel-mugs/",
+      "published_at": "2026-11-01T10:31:00Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7269,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "6abd503baa33d1078558869a"
+    },
+    {
+      "title": "Chatbots Are Leading Hikers Astray, With Dangerous Consequences",
+      "summary": "Outsourcing planning to AI can lead people to surrender their own critical thinking, which can have potentially deadly results in places like the backcountry.",
+      "source_name": "Wired",
+      "source_url": "https://www.wired.com/story/chatbots-are-leading-hikers-astray-with-dangerous-consequences/",
+      "published_at": "2026-11-01T10:30:00Z",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7268,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "6ae100238620da29e32c576d"
+    },
+    {
+      "title": "Cyril Hilsum, Who Helped Invent Flat-Panel Displays in TVs and iPhones, Has Died at 101",
+      "summary": "The man who helped develop the technology for liquid crystal displays — the screens in flat-panel televisions and laptops — has died at 101.",
+      "source_name": "The New York Times - Technology",
+      "source_url": "https://www.nytimes.com/2026/11/01/technology/cyril-hilsum-dead.html",
+      "published_at": "2026-11-01T10:00:44Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7248,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.nytimes.com/2026/11/01/technology/cyril-hilsum-dead.html"
+    },
+    {
+      "title": "Best Chromebooks and Googlebooks (2026): Laptops With a Google Touch",
+      "summary": "While Google is heralding a new series of laptops called Googlebooks, Chromebooks are sticking around—for now. These are the ones to consider.",
+      "source_name": "Wired",
+      "source_url": "https://www.wired.com/story/best-chromebooks/",
+      "published_at": "2026-11-01T10:00:00Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7247,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "69e2b832dde1a21de922217d"
+    },
+    {
+      "title": "A Newly Discovered Trail of Cosmic Debris Illustrates How the End of the Solar System Could Look",
+      "summary": "A dying star 1,600 light-years from Earth is surrounded by two rings of gas and dust that astronomers believe are the remnants of the planetary bodies it once hosted.",
+      "source_name": "Wired",
+      "source_url": "https://www.wired.com/story/a-newly-discovered-trail-of-cosmic-debris-illustrates-what-the-end-of-the-solar-system-could-look-like/",
+      "published_at": "2026-11-01T10:00:00Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7247,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "6ae377e17dd0104326133a38"
+    },
+    {
+      "title": "Landline phones will switch off across Britland in 100 days, no extensions – Openreach",
+      "summary": "Legacy public switched telephone network service is to be retired on January 31, 2027",
+      "source_name": "The Register",
+      "source_url": "https://www.theregister.com/networks/2026/11/01/landline-phones-will-switch-off-across-britland-in-100-days-no-extensions-openreach/5306673",
+      "published_at": "2026-11-01T09:04:00Z",
+      "category": "enterprise_technology",
+      "tags": [
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7208,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.theregister.com/a/5306673"
+    },
+    {
+      "title": "CVSS 10.0 LXD, MicroCloud Flaw Lets Attackers Impersonate Trusted Clients Without a Private Key",
+      "summary": "A critical flaw in Canonical's LXD and MicroCloud let an attacker log in as a trusted client without holding that client's private key. To do it, the attacker had to reach their HTTPS API over the network and have the trusted client's public certificate. Once in, the attacker would act as that client, with access to the cluster and its virtual machines. If the impersonated account is",
+      "source_name": "The Hacker News",
+      "source_url": "https://thehackernews.com/2026/11/critical-lxd-and-microcloud-flaw-cvss.html",
+      "published_at": "2026-11-01T08:51:31Z",
+      "category": "cybersecurity",
+      "tags": [
+        "APIs",
+        "Cybersecurity"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.72,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://thehackernews.com/2026/11/critical-lxd-and-microcloud-flaw-cvss.html"
+    },
+    {
+      "title": "Hackers Steal About $2.7 Million From Polymarket Traders via Hijacked DebugBear Script",
+      "summary": "Malicious code on the website of prediction market Polymarket sold some signed-in traders' positions and moved their funds to the hackers on October 29. The code had replaced a page-speed script that the site loaded from an outside company. Polymarket says it is refunding about $2.7 million to 726 affected wallets. Blockchain records show crypto worth about $2.64 million reached",
+      "source_name": "The Hacker News",
+      "source_url": "https://thehackernews.com/2026/11/hackers-steal-about-27-million-from.html",
+      "published_at": "2026-11-01T07:25:40Z",
+      "category": "cybersecurity",
+      "tags": [
+        "Cybersecurity"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.714,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://thehackernews.com/2026/11/hackers-steal-about-27-million-from.html"
+    },
+    {
+      "title": "Build a Validated Kubernetes Runtime for NVIDIA Dynamo",
+      "summary": "Teams building AI applications need a repeatable path from a model configuration to a working inference endpoint. NVIDIA Dynamo is a distributed inference...",
+      "source_name": "NVIDIA Developer Blog",
+      "source_url": "https://developer.nvidia.com/blog/build-a-validated-kubernetes-runtime-for-nvidia-dynamo/",
+      "published_at": "2026-10-30T21:35:31Z",
+      "category": "mlops",
+      "tags": [
+        "AI",
+        "Kubernetes",
+        "GPUs",
+        "AI Models",
+        "Mlops"
+      ],
+      "confidence_score": 0.87,
+      "importance_score": 0.653,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://developer.nvidia.com/blog/?p=124424"
+    },
+    {
+      "title": "Run AI Models for Edge Application Development with Just a Few Commands",
+      "summary": "AI is expanding beyond the data center as developers build a new generation of agents to act at the edge: monitoring driver attention and cabin conditions,...",
+      "source_name": "NVIDIA Developer Blog",
+      "source_url": "https://developer.nvidia.com/blog/run-ai-models-for-edge-application-development-with-just-a-few-commands/",
+      "published_at": "2026-10-30T20:33:18Z",
+      "category": "mlops",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "AI Models",
+        "Mlops"
+      ],
+      "confidence_score": 0.87,
+      "importance_score": 0.6487,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://developer.nvidia.com/blog/?p=124453"
+    },
+    {
+      "title": "Robotics Special: Unitree's first earnings report is in",
+      "summary": "Robotics Special: Unitree's first earnings report is in Superhuman AI",
+      "source_name": "Superhuman (Zain Kahn)",
+      "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPVmZVQm9sdVMyMFp0bjU1X0hlYmlOY1kzWm9VODJ5MUVneE94SWFTekcwMXd6RjVla2FTbjBUXzBfejdaRDZyN0MzZjNHSUdLNDV3d0hoUVo1MGxCeGZINVhIZV9rTGtqRlR6a3oxYmxub0ROc0czckxfMWFRbXJXd3hLeTJMZjFfSUE?oc=5",
+      "published_at": "2026-10-31T15:15:06Z",
+      "category": "ai_newsletters",
+      "tags": [
+        "AI",
+        "Ai Newsletters"
+      ],
+      "confidence_score": 0.62,
+      "importance_score": 0.6466,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "CBMiigFBVV95cUxPVmZVQm9sdVMyMFp0bjU1X0hlYmlOY1kzWm9VODJ5MUVneE94SWFTekcwMXd6RjVla2FTbjBUXzBfejdaRDZyN0MzZjNHSUdLNDV3d0hoUVo1MGxCeGZINVhIZV9rTGtqRlR6a3oxYmxub0ROc0czckxfMWFRbXJXd3hLeTJMZjFfSUE"
+    },
+    {
+      "title": "When Electric Cars Were for Women",
+      "summary": "Early carmakers decided women wanted cars that were quiet, clean, and easy to start",
+      "source_name": "IEEE Spectrum",
+      "source_url": "https://spectrum.ieee.org/early-electric-vehicles",
+      "published_at": "2026-10-31T13:00:02Z",
+      "category": "research_feeds",
+      "tags": [
+        "Research Feeds"
+      ],
+      "confidence_score": 0.87,
+      "importance_score": 0.6372,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://spectrum.ieee.org/early-electric-vehicles"
+    }
+  ]
+}
