@@ -1,0 +1,838 @@
+{
+  "generated_at": "2026-11-03T20:10:31.533569+00:00",
+  "post_date": "2026-11-03",
+  "sources_checked": 48,
+  "candidates": 45,
+  "items": [
+    {
+      "title": "Agentic cheminformatics with Google Antigravity",
+      "summary": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.",
+      "source_name": "Google DeepMind",
+      "source_url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
+      "published_at": "2026-11-03T17:01:49+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI Agents",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.99,
+      "importance_score": 0.8869,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/"
+    },
+    {
+      "title": "Accelerating engineering for the physical world",
+      "summary": "Discover how ChatGPT and Codex are helping engineers accelerate CAD, PCB design, simulation, and other workflows across the physical world.",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
+      "published_at": "2026-11-03T12:00:00+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.99,
+      "importance_score": 0.866,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/index/accelerating-engineering-for-the-physical-world"
+    },
+    {
+      "title": "OpenKruise Agents v0.6.0: Leaping ahead in agent Sandbox security and automation",
+      "summary": "About OpenKruise Agents OpenKruise Agents is a sub-project of OpenKruise, the CNCF open-source application automation and workload orchestration project. It provides full lifecycle management for Agent Sandboxes running at scale on Kubernetes, together with a complete...",
+      "source_name": "CNCF",
+      "source_url": "https://www.cncf.io/blog/2026/11/03/openkruise-agents-v0-6-0-leaping-ahead-in-agent-sandbox-security-and-automation/",
+      "published_at": "2026-11-03T12:00:00+00:00",
+      "category": "open_source_foundations",
+      "tags": [
+        "AI Agents",
+        "Kubernetes",
+        "Open Source",
+        "Security",
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8659,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.cncf.io/?p=176763"
+    },
+    {
+      "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
+      "published_at": "2026-11-03T17:40:00+00:00",
+      "category": "aggregators",
+      "tags": [
+        "AI Models",
+        "Hacker News"
+      ],
+      "confidence_score": 0.688,
+      "importance_score": 0.8595,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50355251"
+    },
+    {
+      "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
+      "published_at": "2026-11-03T17:22:37+00:00",
+      "category": "aggregators",
+      "tags": [
+        "AI",
+        "APIs",
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.8583,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50354960"
+    },
+    {
+      "title": "Study estimates 75% of NFL players who died over 15-year span had CTE",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.nbcnews.com/health/health-news/study-estimates-75-nfl-players-died-15-year-span-may-cte-rcna605975",
+      "published_at": "2026-11-03T15:38:04+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.65,
+      "importance_score": 0.8511,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50353335"
+    },
+    {
+      "title": "Kalshi and its co-founders face felony charges for violating Utah gambling laws",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://arstechnica.com/tech-policy/2026/10/trump-admin-sues-utah-to-save-kalshi-from-the-states-total-ban-on-gambling/",
+      "published_at": "2026-11-03T15:29:15+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.8505,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50353229"
+    },
+    {
+      "title": "Google will turn off search for schools that reject AI",
+      "summary": "https://archive.ph/RuwsB https://blog.google/products-and-platforms/products/educatio...",
+      "source_name": "Hacker News",
+      "source_url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
+      "published_at": "2026-11-03T15:25:47+00:00",
+      "category": "aggregators",
+      "tags": [
+        "AI",
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.8502,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50353192"
+    },
+    {
+      "title": "How Cisco defends at machine speed with OpenAI",
+      "summary": "Cisco combines network intelligence with OpenAI models to strengthen enterprise security. Learn how it is building more adaptive defenses.",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/cisco-cyber",
+      "published_at": "2026-11-03T08:00:00+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "Security",
+        "AI Models",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.99,
+      "importance_score": 0.8493,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/index/cisco-cyber"
+    },
+    {
+      "title": "Heimstaden is changing residential real estate management with AI",
+      "summary": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe.",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/heimstaden",
+      "published_at": "2026-11-03T08:00:00+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.99,
+      "importance_score": 0.8493,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/index/heimstaden"
+    },
+    {
+      "title": "OpenAI seems to be silently re-enabling model training on Codex chats",
+      "summary": "My company is pretty paranoid about leaking IP to the frontier labs through prompts, so we've all been diligent about disabling data sharing in Codex/Claude Code/etc. But yesterday my coworkers and I noticed that the setting had been silently reenabled in Codex. None of us knowingly opted back in…",
+      "source_name": "Hacker News",
+      "source_url": "https://news.ycombinator.com/item?id=50352757",
+      "published_at": "2026-11-03T14:53:41+00:00",
+      "category": "aggregators",
+      "tags": [
+        "AI Models",
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.848,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50352757"
+    },
+    {
+      "title": "Mac at Any Scale",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://namespace.so/blog/mac-at-any-scale",
+      "published_at": "2026-11-03T14:53:42+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.66,
+      "importance_score": 0.848,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50352758"
+    },
+    {
+      "title": "Quick Start: C# and MongoDB - Starting and Setup",
+      "summary": "In the first of the C# Quick Start series, I'll show how to set up connections between C# and MongoDB. In future parts we'll move on and work through: Database Create, Read, Update, and Delete (CRUD) operations Map MongoDB to C# objects Look at MongoDB aggregation How to use LINQ with MongoDB As you already know, C# is a general-purpose language and MongoDB is a general-purpose data platform. Together, C# and MongoDB are a powerful combination. To follow along, I'll be using…",
+      "source_name": "MongoDB Blog",
+      "source_url": "https://www.mongodb.com/company/blog/technical/quick-start-c-sharp-and-mongodb-starting-and-setup",
+      "published_at": "2026-11-03T20:09:41+00:00",
+      "category": "databases",
+      "tags": [
+        "Databases"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.8399,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.mongodb.com/company/blog/technical/quick-start-c-sharp-and-mongodb-starting-and-setup"
+    },
+    {
+      "title": "Introducing Atlas App Connections: Secure, One-Click Access for AI Tools",
+      "summary": "For builders using AI coding tools, speed is everything. Integrations that require generating a credential, filing an access request, or waiting on a custom build can stop momentum (and productivity) in its tracks. Until now, connecting an external application like an AI coding assistant to a MongoDB Atlas account introduced some of that friction. The only way to do so was by sharing long-lived service account credentials, a workaround that slowed builders down and left…",
+      "source_name": "MongoDB Blog",
+      "source_url": "https://www.mongodb.com/company/blog/product-release-announcements/introducing-atlas-app-connections-secure-one-click-access-for-ai-tools",
+      "published_at": "2026-11-03T20:08:21+00:00",
+      "category": "databases",
+      "tags": [
+        "AI",
+        "Databases"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.8399,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.mongodb.com/company/blog/product-release-announcements/introducing-atlas-app-connections-secure-one-click-access-for-ai-tools"
+    },
+    {
+      "title": "Building Next-gen AI agents: The MongoDB Atlas-Microsoft Foundry Integration",
+      "summary": "Generative AI is rapidly evolving from experimenting with models to relying on intelligent, autonomous multi-agent workflows that can reason, act, and adapt in real time. Together, Microsoft and MongoDB are defining the future of AI by providing companies everywhere a robust, secure, scalable foundation for building innovative, next-generation AI agents. Microsoft Azure Foundry provides a unified, enterprise-grade platform to build, deploy, and govern AI applications and…",
+      "source_name": "MongoDB Blog",
+      "source_url": "https://www.mongodb.com/company/blog/innovation/building-next-gen-ai-agents-mongodb-atlas-integration-microsoft-foundry",
+      "published_at": "2026-11-03T20:02:58+00:00",
+      "category": "databases",
+      "tags": [
+        "AI",
+        "GenAI",
+        "AI Agents",
+        "Azure",
+        "AI Models",
+        "Databases"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.8395,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.mongodb.com/company/blog/innovation/building-next-gen-ai-agents-mongodb-atlas-integration-microsoft-foundry"
+    },
+    {
+      "title": "Automated, Secure, and Scalable: Reference Implementation for Atlas on Azure",
+      "summary": "Today’s cloud-driven world is characterized by the requirement to scale—and to do so massively and faster than ever. But standing up secure and compliant environments on the cloud is complex and requires huge efforts, as teams have to figure out networking, policies, identity, and governance requirements across numerous projects. At MongoDB, we’re focused on empowering enterprise customers to build faster, smarter, and more securely. We know how important it is to developers…",
+      "source_name": "MongoDB Blog",
+      "source_url": "https://www.mongodb.com/company/blog/innovation/automated-secure-scalable-reference-implementation-mongodb-atlas-on-azure",
+      "published_at": "2026-11-03T20:02:16+00:00",
+      "category": "databases",
+      "tags": [
+        "Cloud",
+        "Azure",
+        "Data Governance",
+        "Databases"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.8394,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.mongodb.com/company/blog/innovation/automated-secure-scalable-reference-implementation-mongodb-atlas-on-azure"
+    },
+    {
+      "title": "Fighting Tool Sprawl: The Case for AI Tool Registries",
+      "summary": "As enterprise AI agent adoption scales, the absence of centralized, organization-level tool infrastructure is producing compounding costs. When adoption is built around optimizing for deployment speed, enterprises expose themselves to a combination of risks: duplicated engineering effort, security exposure, and operational opacity. Every enterprise needs its own shared tool registry, one that reflects its specific regulatory environment, security posture, and operational…",
+      "source_name": "MongoDB Blog",
+      "source_url": "https://www.mongodb.com/company/blog/technical/fighting-tool-sprawl-case-for-ai-tool-registries",
+      "published_at": "2026-11-03T20:01:13+00:00",
+      "category": "databases",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Security",
+        "Databases"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.8394,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.mongodb.com/company/blog/technical/fighting-tool-sprawl-case-for-ai-tool-registries"
+    },
+    {
+      "title": "Financial Crime Mitigation with MongoDB / Part IV: Agentic AI for Case Management",
+      "summary": "Welcome back to the last part of our series on Building a Financial Crime Mitigation Platform. We have shown how MongoDB ideally supports the technical capabilities of modern digital financial operations as a unified data platform. In case you missed it, be sure to check out the series overview . In today’s world, fraud management systems need to react in the moment. Immediacy has become a must-have characteristic of control systems. Real-time monitoring is required not only…",
+      "source_name": "MongoDB Blog",
+      "source_url": "https://www.mongodb.com/company/blog/innovation/financial-crime-mitigation-part-iv-agentic-ai-for-case-management",
+      "published_at": "2026-11-03T20:00:16+00:00",
+      "category": "databases",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Databases"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.8393,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.mongodb.com/company/blog/innovation/financial-crime-mitigation-part-iv-agentic-ai-for-case-management"
+    },
+    {
+      "title": "Layer MongoDB Atlas Resource Policies for Defense-in-Depth",
+      "summary": "Editor’s note: This post is the second in a five-part series exploring how MongoDB Atlas Resource Policies help you strengthen database security and enforce consistent guardrails across your organization. Read the first post on IP access list management here . Future posts will cover topics like blocking wildcard IP access and restricting access by cloud provider or region. Imagine protecting your home with only a front-door lock. No matter how good that lock is, what…",
+      "source_name": "MongoDB Blog",
+      "source_url": "https://www.mongodb.com/company/blog/innovation/layer-mongodb-atlas-resource-policies-for-defense-in-depth",
+      "published_at": "2026-11-03T19:56:14+00:00",
+      "category": "databases",
+      "tags": [
+        "Cloud",
+        "Security",
+        "Databases"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.839,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.mongodb.com/company/blog/innovation/layer-mongodb-atlas-resource-policies-for-defense-in-depth"
+    },
+    {
+      "title": "Secure MongoDB Atlas With Automated IP Access List Policies",
+      "summary": "Editor’s note: This post is the first in a five-part series exploring how MongoDB Atlas Resource Policies help you strengthen database security and enforce consistent guardrails across your organization. Future posts will cover topics like defense-in-depth, blocking wildcard IP access, and restricting access by cloud provider or region. Picture this: Your development team spins up a new MongoDB cluster for a critical application. To get things working quickly, the team adds…",
+      "source_name": "MongoDB Blog",
+      "source_url": "https://www.mongodb.com/company/blog/innovation/secure-mongodb-atlas-automated-ip-access-list-policies",
+      "published_at": "2026-11-03T19:55:16+00:00",
+      "category": "databases",
+      "tags": [
+        "Cloud",
+        "Security",
+        "Databases"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.8389,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.mongodb.com/company/blog/innovation/secure-mongodb-atlas-automated-ip-access-list-policies"
+    },
+    {
+      "title": "LEAF: Distillation of State‑of‑the‑Art Text Embedding Models",
+      "summary": "At MongoDB Research, we’re exploring how to make cutting‑edge AI models smaller, faster, and more flexible. In this blog post, we present LEAF ( Lightweight Embedding Alignment Framework ), a new knowledge distillation framework for text embedding models. We’re also releasing two best‑in‑class embedding models trained with LEAF: mdbr-leaf-ir —23M parameter model optimized for retrieval‑focused tasks like semantic search and retrieval‑augmented generation (RAG). mdbr-leaf-mt…",
+      "source_name": "MongoDB Blog",
+      "source_url": "https://www.mongodb.com/company/blog/engineering/leaf-distillation-state-of-the-art-text-embedding-models",
+      "published_at": "2026-11-03T19:54:38+00:00",
+      "category": "databases",
+      "tags": [
+        "AI",
+        "AI Models",
+        "Research",
+        "Databases"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.8389,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.mongodb.com/company/blog/engineering/leaf-distillation-state-of-the-art-text-embedding-models"
+    },
+    {
+      "title": "Financial Crime Mitigation with MongoDB / Series Overview",
+      "summary": "Where money moves, crime evolves. As banking becomes fully digital—with instant payments, open finance APIs, and mobile-first onboarding—it has opened new roads for cyberattacks, forcing financial institutions to respond in real-time. With just seconds to detect, prevent, and react to suspicious activity—without disrupting the customer experience—banks face an immense challenge that only modern, AI-powered solutions can meet. Welcome to our new series on mitigating financial…",
+      "source_name": "MongoDB Blog",
+      "source_url": "https://www.mongodb.com/company/blog/innovation/building-financial-crime-mitigation-platform-with-mongodb-series-overview",
+      "published_at": "2026-11-03T19:53:52+00:00",
+      "category": "databases",
+      "tags": [
+        "AI",
+        "APIs",
+        "Databases"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.8388,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.mongodb.com/company/blog/innovation/building-financial-crime-mitigation-platform-with-mongodb-series-overview"
+    },
+    {
+      "title": "Enforce Data Sovereignty With MongoDB Atlas Resource Policies",
+      "summary": "Editor’s note: This post is the fourth in a five-part series exploring how MongoDB Atlas Resource Policies help you strengthen database security and enforce consistent guardrails across your organization. Read the first post on IP access list management , the second on defense in depth strategies , and the third on blocking the wildcard IP address . Maintaining control in a multi-cloud world As organizations scale their database infrastructure, maintaining consistent…",
+      "source_name": "MongoDB Blog",
+      "source_url": "https://www.mongodb.com/company/blog/innovation/enforce-data-sovereignty-with-mongodb-atlas-resource-policies",
+      "published_at": "2026-11-03T19:52:56+00:00",
+      "category": "databases",
+      "tags": [
+        "Cloud",
+        "Security",
+        "Databases"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.8388,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.mongodb.com/company/blog/innovation/enforce-data-sovereignty-with-mongodb-atlas-resource-policies"
+    },
+    {
+      "title": "Connect to a MongoDB Database Using Node.js",
+      "summary": "Use Node.js? Want to learn MongoDB? This is the blog series for you! In this Quick Start series, I’ll walk you through the basics of how to get started using MongoDB with Node.js. In today’s post, we’ll work through connecting to a MongoDB database from a Node.js script, retrieving a list of databases, and printing the results to your console. Set up Before we begin, we need to ensure you’ve completed a few prerequisite steps. Install Node.js First, make sure you have a…",
+      "source_name": "MongoDB Blog",
+      "source_url": "https://www.mongodb.com/company/blog/technical/quick-start-nodejs-mongodb-how-to-get-connected-to-your-database",
+      "published_at": "2026-11-03T19:51:39+00:00",
+      "category": "databases",
+      "tags": [
+        "Databases"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.8387,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.mongodb.com/company/blog/technical/quick-start-nodejs-mongodb-how-to-get-connected-to-your-database"
+    },
+    {
+      "title": "The 'Astra can read and write weights to improve Qwen' post is misleading",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://honnibal.dev/blog/astra-read-write-misleading",
+      "published_at": "2026-11-03T12:21:17+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.8374,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50351111"
+    },
+    {
+      "title": "How Nammu21 automates syndicated loans on Google Cloud Universal Ledger",
+      "summary": "The syndicated loan and private credit markets, both critical components of corporate finance, have long been constrained by manual processes, leading to multi-week settlements, valuation opacity, and trade friction. To solve these long-standing challenges, fintech innovator Nammu21 partnered with Google Cloud on a new proof-of-concept. Using its AI-powered platform to structure legal agreements and instantiate them as smart contracts on the Google Cloud Universal Ledger…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/topics/financial-services/how-nammu21-automates-syndicated-loans-on-google-cloud-universal-ledger/",
+      "published_at": "2026-11-03T18:00:00+00:00",
+      "category": "cloud_providers",
+      "tags": [
+        "AI",
+        "Cloud",
+        "Google Cloud",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.831,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/topics/financial-services/how-nammu21-automates-syndicated-loans-on-google-cloud-universal-ledger/"
+    },
+    {
+      "title": "StateBench: Testing how language models track state changes over long documents",
+      "summary": "",
+      "source_name": "Hugging Face",
+      "source_url": "https://huggingface.co/blog/allenai/statebench",
+      "published_at": "2026-11-03T17:15:21+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI Models",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.9,
+      "importance_score": 0.8279,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://huggingface.co/blog/allenai/statebench"
+    },
+    {
+      "title": "Leading in the agentic era: How to put people first as you adopt AI agents",
+      "summary": "Over the past few years, our Google Cloud Consulting team has partnered with many companies to introduce AI into their daily operations. In that time, we’ve seen the focus shift from generative AI that answers questions to agentic systems that fully carry out the work. These agents can create multi-step plans and manage a project from start to finish. While budget, compute, and tooling can help launch an agent program, enterprise adoption takes intentional culture work…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/topics/consulting/lessons-for-adopting-ai-agents/",
+      "published_at": "2026-11-03T17:00:00+00:00",
+      "category": "cloud_providers",
+      "tags": [
+        "AI",
+        "GenAI",
+        "AI Agents",
+        "Cloud",
+        "Google Cloud",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.8268,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/topics/consulting/lessons-for-adopting-ai-agents/"
+    },
+    {
+      "title": "Palette: teaching a small model to build decks in your design language",
+      "summary": "",
+      "source_name": "Hugging Face",
+      "source_url": "https://huggingface.co/blog/ibm-research/palette-deck-building",
+      "published_at": "2026-11-03T16:35:36+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI Models",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.9,
+      "importance_score": 0.8251,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://huggingface.co/blog/ibm-research/palette-deck-building"
+    },
+    {
+      "title": "AI Is Changing How Semiconductor Fabs Work — and Engineers Are Moving Faster Because of It",
+      "summary": "Demand for advanced chips is rising. The processes to build them are getting more complex. And the margin for error is shrinking. For engineers, understanding how a process change will behave, how a material will interact with a new step, how a defect maps back to a root cause are critical, challenging steps in semiconductor […]",
+      "source_name": "NVIDIA Blog",
+      "source_url": "https://blogs.nvidia.com/blog/ai-semiconductor-fabs/",
+      "published_at": "2026-11-03T16:00:45+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8227,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://blogs.nvidia.com/?p=99605"
+    },
+    {
+      "title": "Arnis turns any place on Earth into a Minecraft world",
+      "summary": "Louis Erbkamm built the first prototype in his free time. Now GitHub Copilot helps him maintain it alone. The post Arnis turns any place on Earth into a Minecraft world appeared first on The GitHub Blog .",
+      "source_name": "The GitHub Blog",
+      "source_url": "https://github.blog/open-source/maintainers/arnis-turns-any-place-on-earth-into-a-minecraft-world/",
+      "published_at": "2026-11-03T16:00:00+00:00",
+      "category": "developer_platforms",
+      "tags": [
+        "Developer Tools",
+        "Developer Platforms"
+      ],
+      "confidence_score": 0.92,
+      "importance_score": 0.8226,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://github.blog/?p=99955"
+    },
+    {
+      "title": "Could a modern chess engine on a Pentium have defeated Kasparov in 1996?",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://nicholas.carlini.com/writing/2026/algorithmic-improvements-chess.html",
+      "published_at": "2026-11-03T07:56:21+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.819,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50349276"
+    },
+    {
+      "title": "Salesforce Signs Definitive Agreement to Acquire Cresta",
+      "summary": "Combination unites advanced voice agents with the world’s #1 CRM, bringing together the customer, the conversation and the outcome",
+      "source_name": "Salesforce News",
+      "source_url": "https://www.salesforce.com/news/stories/salesforce-signs-definitive-agreement-to-acquire-cresta/",
+      "published_at": "2026-11-02T21:00:00+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI Agents",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.8034,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.salesforce.com/?p=96206"
+    },
+    {
+      "title": "The Linkerd Story: The People Behind The Service Mesh — A new documentary premieres at KubeCon + CloudNativeCon North America 2026",
+      "summary": "Join CNCF and Buoyant on November 9 in Salt Lake City for the premiere of a new documentary celebrating a decade of Linkerd, the evolution of service mesh technology, and the people who helped make it...",
+      "source_name": "CNCF",
+      "source_url": "https://www.cncf.io/blog/2026/11/02/the-linkerd-story-the-people-behind-the-service-mesh-a-new-documentary-premieres-at-kubecon-cloudnativecon-north-america-2026/",
+      "published_at": "2026-11-02T12:00:00+00:00",
+      "category": "open_source_foundations",
+      "tags": [
+        "Cloud",
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.87,
+      "importance_score": 0.7659,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.cncf.io/?p=176817"
+    },
+    {
+      "title": "Voting Problems Cause a Surge in Misleading Fraud Claims Online",
+      "summary": "Mentions of “cheat,” “steal,” “rig” and similar terms spiked on X this morning as voting began.",
+      "source_name": "The New York Times - Technology",
+      "source_url": "https://www.nytimes.com/2026/11/03/technology/midterm-elections-voter-fraud-claims.html",
+      "published_at": "2026-11-03T19:54:29+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7589,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.nytimes.com/2026/11/03/technology/midterm-elections-voter-fraud-claims.html"
+    },
+    {
+      "title": "US Space Force Guardians will join Army Rangers, Navy SEALS, and other special forces in a new command",
+      "summary": "The new command will train and equip Space Force Guardians to special operations around the world.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/us-space-force-activates-special-operations-command-2026-11",
+      "published_at": "2026-11-03T19:52:20+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7587,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/us-space-force-activates-special-operations-command-2026-11"
+    },
+    {
+      "title": "Diagnose Distributed AI Workload Failures with NVIDIA Attribution",
+      "summary": "In distributed AI workloads, a single error can produce a cascade of symptoms. A GPU or fabric event may surface as NCCL errors on other ranks, scheduler state...",
+      "source_name": "NVIDIA Developer Blog",
+      "source_url": "https://developer.nvidia.com/blog/diagnose-distributed-ai-workload-failures-with-nvidia-attribution/",
+      "published_at": "2026-11-02T23:39:34+00:00",
+      "category": "mlops",
+      "tags": [
+        "AI",
+        "GPUs",
+        "Mlops"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.7545,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://developer.nvidia.com/blog/?p=124515"
+    },
+    {
+      "title": "mSecure Warns Users to Change Passwords, Reset 2FA and Passkeys After Suspicious Activity",
+      "summary": "Customers of the mSecure password manager are being urged to act now to protect the confidential information they store in it, possibly by changing passwords, resetting two-factor authentication (2FA), and removing passkeys. The warning came in an email sent on November 3 in the name of developer mSeven Software. It says the company recently learned of suspicious activity linked to the app but",
+      "source_name": "The Hacker News",
+      "source_url": "https://thehackernews.com/2026/11/msecure-warns-users-to-change-passwords.html",
+      "published_at": "2026-11-03T18:46:38+00:00",
+      "category": "cybersecurity",
+      "tags": [
+        "Cybersecurity"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7542,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://thehackernews.com/2026/11/msecure-warns-users-to-change-passwords.html"
+    },
+    {
+      "title": "Chainstack Reports Production Systems Breach Exposing Customer Data and Password Hashes",
+      "summary": "Blockchain infrastructure provider Chainstack on Tuesday disclosed that it was targeted in a cyber attack that allowed an unauthorized party to gain access to some parts of its infrastructure. The incident is assessed to be part of a large-scale, artificial intelligence (AI)-powered attack campaign that came to light last week. \"An external attacker gained unauthorized access to part of",
+      "source_name": "The Hacker News",
+      "source_url": "https://thehackernews.com/2026/11/chainstack-reports-production-systems.html",
+      "published_at": "2026-11-03T18:16:19+00:00",
+      "category": "cybersecurity",
+      "tags": [
+        "AI",
+        "Cybersecurity"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7521,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://thehackernews.com/2026/11/chainstack-reports-production-systems.html"
+    },
+    {
+      "title": "Keep Distributed Training Running with Automated Workload Recovery",
+      "summary": "As distributed AI training scales, failures across hardware and software dependencies increasingly disrupt training progress, making fast, reliable recovery...",
+      "source_name": "NVIDIA Developer Blog",
+      "source_url": "https://developer.nvidia.com/blog/keep-distributed-training-running-with-automated-workload-recovery/",
+      "published_at": "2026-11-02T22:43:05+00:00",
+      "category": "mlops",
+      "tags": [
+        "AI",
+        "Mlops"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.7506,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://developer.nvidia.com/blog/?p=124491"
+    },
+    {
+      "title": "How a Kenyan Startup Is Rethinking AI for Small Businesses",
+      "summary": "Fastagger builds AI around mobile money and low-cost phones",
+      "source_name": "IEEE Spectrum",
+      "source_url": "https://spectrum.ieee.org/ai-small-business-mobile-money-startup",
+      "published_at": "2026-11-03T14:30:02+00:00",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.7364,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://spectrum.ieee.org/ai-small-business-mobile-money-startup"
+    },
+    {
+      "title": "Europe Taxes the Future",
+      "summary": "Plus: OpenAI Guards the Grid It Drains, Musk's Abundance Lasted Three Days",
+      "source_name": "AI Secret",
+      "source_url": "https://aisecret.us/europe-taxes-the-future/",
+      "published_at": "2026-11-03T13:30:48+00:00",
+      "category": "ai_newsletters",
+      "tags": [
+        "Ai Newsletters"
+      ],
+      "confidence_score": 0.64,
+      "importance_score": 0.7322,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "6ae2e0e49f379b89dc9bafcb"
+    },
+    {
+      "title": "The Download: controlling AI agents and “Super Intelligence” loyalty tests",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How “reverse game theory” could keep AI agents in check A new approach known as “reverse game theory” aims to control powerful AI models by designing systems that incentivize them to…",
+      "source_name": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/11/03/1147940/the-download-controlling-ai-agents-trump-super-intelligence/",
+      "published_at": "2026-11-03T13:10:00+00:00",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "AI Models",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.7308,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.technologyreview.com/?p=1147940"
+    },
+    {
+      "title": "😸 Proton’s AI staff revolt",
+      "summary": "PLUS: Proton drops AI re-interviews + Anthropic’s $895B tab",
+      "source_name": "The Neuron",
+      "source_url": "https://www.theneurondaily.com/p/proton-s-ai-staff-revolt",
+      "published_at": "2026-11-03T10:00:00+00:00",
+      "category": "ai_newsletters",
+      "tags": [
+        "AI",
+        "Ai Newsletters"
+      ],
+      "confidence_score": 0.64,
+      "importance_score": 0.7176,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.theneurondaily.com/p/proton-s-ai-staff-revolt"
+    },
+    {
+      "title": "The Ecosystem is the Answer: Docker, the Blueprint Alliance, and the Importance of Collaboration in the Agentic Era",
+      "summary": "Docker is a founding member of the Blueprint Alliance, a 12-company reference architecture for securing AI agents, built around four governance questions.",
+      "source_name": "Docker Blog",
+      "source_url": "https://www.docker.com/blog/docker-blueprint-alliance-agent-baseline/",
+      "published_at": "2026-11-02T14:00:00+00:00",
+      "category": "developer_platforms",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Containers",
+        "Data Governance",
+        "Developer Platforms"
+      ],
+      "confidence_score": 0.85,
+      "importance_score": 0.7143,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.docker.com/?p=95691"
+    }
+  ]
+}
