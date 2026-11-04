@@ -1,0 +1,831 @@
+{
+  "post_date": "2026-11-04",
+  "sources_checked": 48,
+  "count": 45,
+  "items": [
+    {
+      "title": "Double recall: Inside the Agentforce Memory update",
+      "summary": "",
+      "source_name": "Salesforce News",
+      "source_url": "https://www.salesforce.com/news/linked-content/double-recall-inside-the-agentforce-memory-update/",
+      "published_at": "2026-11-04T18:00:30Z",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI Agents",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.8898,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.salesforce.com/?post_type=sf_linked_content&p=96268"
+    },
+    {
+      "title": "Your AI Agents Are Fast. Your Process Isn’t. Here’s How to Fix It.",
+      "summary": "Picture a race car flying down a country highway, only to find itself stuck behind a tractor. The car’s engine is spectacular. But it can’t go any faster than the tractor. That’s what many companies encounter, often without realizing it, when they build with AI. They drop an agent into one step of a workflow, […]",
+      "source_name": "Salesforce News",
+      "source_url": "https://www.salesforce.com/news/stories/ai-agents-fast-how-to-fix-process/",
+      "published_at": "2026-11-04T17:00:00Z",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.8855,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.salesforce.com/?p=96233"
+    },
+    {
+      "title": "OpenAI to acquire Pierre Computer Company, Inc.",
+      "summary": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code.",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/openai-to-acquire-pierre",
+      "published_at": "2026-11-04T14:30:00Z",
+      "category": "ai_model_companies",
+      "tags": [
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.99,
+      "importance_score": 0.8751,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/index/openai-to-acquire-pierre"
+    },
+    {
+      "title": "Salesforce’s Agentforce Coworker Usage Soars 21x in Three Months as Enterprises Delegate Real Work to AI",
+      "summary": "More than 185,000 users are putting Coworker to work, with companies including The Adecco Group, Fulton Bank, and BACA Systems expanding adoption across their businesses. New capabilities make Coworker smarter, more proactive, and available wherever employees work — from Microsoft Teams to mobile and desktop. Salesforce (NYSE: CRM), the world’s #1 AI CRM, today announced […]",
+      "source_name": "Salesforce News",
+      "source_url": "https://www.salesforce.com/news/stories/agentforce-coworker-surpasses-185k-users/",
+      "published_at": "2026-11-04T14:00:00Z",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.873,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.salesforce.com/?p=96241"
+    },
+    {
+      "title": "OpenShell on Kubernetes: A guide for platform engineers",
+      "summary": "What OpenShell is AI agents do more than call APIs. They run shells, install packages, read files, and open network connections. Often they act on text they pulled from the internet a minute earlier. So every...",
+      "source_name": "CNCF",
+      "source_url": "https://www.cncf.io/blog/2026/11/04/openshell-on-kubernetes-a-guide-for-platform-engineers/",
+      "published_at": "2026-11-04T12:00:00Z",
+      "category": "open_source_foundations",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Kubernetes",
+        "APIs",
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8647,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.cncf.io/?p=176841"
+    },
+    {
+      "title": "AMD expects to outsell Intel in Q4 for the first time in history",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.tomshardware.com/pc-components/cpus/amd-expects-to-outsell-intel-in-q4-for-the-first-time-in-history-usd17b-guidance-would-exceed-intels-projections",
+      "published_at": "2026-11-04T15:38:34Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.8499,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50367125"
+    },
+    {
+      "title": "Kimi K3.1 Pro model weights are out",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
+      "published_at": "2026-11-04T15:30:30Z",
+      "category": "aggregators",
+      "tags": [
+        "AI Models",
+        "Hacker News"
+      ],
+      "confidence_score": 0.669,
+      "importance_score": 0.8493,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50366999"
+    },
+    {
+      "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
+      "summary": "Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work.",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/daybreak-red-aws-govcloud",
+      "published_at": "2026-11-04T07:00:00Z",
+      "category": "ai_model_companies",
+      "tags": [
+        "AWS",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.99,
+      "importance_score": 0.8439,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/index/daybreak-red-aws-govcloud"
+    },
+    {
+      "title": "North Korean fake job interview led to $6.3B Binance heist",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.theregister.com/security/2026/11/03/north-korean-fake-job-interview-led-to-63b-binance-heist/5307398",
+      "published_at": "2026-11-04T14:09:55Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.8437,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50365755"
+    },
+    {
+      "title": "Guerrilla bike lanes: San Francisco makes illicit infrastructure permanent (2016)",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://99percentinvisible.org/article/guerrilla-bike-lanes-san-francisco-makes-illicit-infrastructure-permanent/",
+      "published_at": "2026-11-04T15:01:44Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.6485,
+      "importance_score": 0.8436,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50366522"
+    },
+    {
+      "title": "AI is forcing us to pay off 40 years of technical debt",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
+      "published_at": "2026-11-04T11:52:17Z",
+      "category": "aggregators",
+      "tags": [
+        "AI",
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.8342,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50364336"
+    },
+    {
+      "title": "NVIDIA CUDA 13.5 Brings NVIDIA Vera Rubin GA Support",
+      "summary": "As artificial intelligence and accelerated computing continue to push the boundaries of what's possible, the latest NVIDIA CUDA release arrives to unlock...",
+      "source_name": "NVIDIA Developer Blog",
+      "source_url": "https://developer.nvidia.com/blog/nvidia-cuda-13-5-brings-nvidia-vera-rubin-ga-support/",
+      "published_at": "2026-11-04T18:46:07Z",
+      "category": "mlops",
+      "tags": [
+        "AI",
+        "GPUs",
+        "Mlops"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8329,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://developer.nvidia.com/blog/?p=124464"
+    },
+    {
+      "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+      "summary": "",
+      "source_name": "Hugging Face",
+      "source_url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
+      "published_at": "2026-11-04T17:50:10Z",
+      "category": "ai_model_companies",
+      "tags": [
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.9,
+      "importance_score": 0.829,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor"
+    },
+    {
+      "title": "Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)",
+      "summary": "If you have a personal Google AI subscription, all your saved chat history in Gemini can be used for training and there is no way to opt out unless you turn off chat history or use temporary chat sessions. These chat transcripts may even be read by human reviewers. Although Google claims to…",
+      "source_name": "Hacker News",
+      "source_url": "https://news.ycombinator.com/item?id=50363461",
+      "published_at": "2026-11-04T10:10:27Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.8271,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50363461"
+    },
+    {
+      "title": "Incident with Pull Requests, Git Operations and Issues",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.githubstatus.com/incidents/smtdswd1h2w4",
+      "published_at": "2026-11-04T10:00:06Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.6645,
+      "importance_score": 0.8264,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50363378"
+    },
+    {
+      "title": "Helping you build and defend at machine-speed in the agentic era",
+      "summary": "As both a frontier lab and the operator of the world's most comprehensive threat intelligence network, Google occupies a unique vantage point: We see exactly how Large Language Models are engineered, and how adversaries are targeting them in the wild. Passive defense is no longer viable. Allowing rapid, ungoverned adoption of autonomous systems into traditional workflows can lead to critical security incidents. At the Google Cloud Security Summit, we are sharing updates on…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/products/identity-security/helping-you-build-and-defend-at-machine-speed-in-the-agentic-era/",
+      "published_at": "2026-11-04T17:00:00Z",
+      "category": "cloud_providers",
+      "tags": [
+        "LLMs",
+        "AI Agents",
+        "Cloud",
+        "Google Cloud",
+        "Security",
+        "AI Models",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.8256,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/products/identity-security/helping-you-build-and-defend-at-machine-speed-in-the-agentic-era/"
+    },
+    {
+      "title": "Highlights and reflections from Google Public Sector Summit: Where mission meets moonshot",
+      "summary": "Over 2,700 government leaders, innovators, and industry partners convened across two-days at our Google Public Sector Summit in Washington D.C. where we explored the theme, “Where mission meets moonshot.” We were honored to bring together leaders who are driving impact in the agentic era and leveraging agents to help boost productivity, drive innovation, and transform how services are delivered. Let’s take a closer look at the sessions, speakers, demos, and activations…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/topics/public-sector/highlights-and-reflections-from-google-public-sector-summit-where-mission-meets-moonshot/",
+      "published_at": "2026-11-04T17:00:00Z",
+      "category": "cloud_providers",
+      "tags": [
+        "AI Agents",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.8256,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/topics/public-sector/highlights-and-reflections-from-google-public-sector-summit-where-mission-meets-moonshot/"
+    },
+    {
+      "title": "How NVIDIA Factory Operations Blueprint Coordinates AI Agents to Investigate Production Issues",
+      "summary": "A Siemens report estimates that unplanned downtime costs an average large plant in the surveyed sectors $253 million per year. Whether investigating a failed...",
+      "source_name": "NVIDIA Developer Blog",
+      "source_url": "https://developer.nvidia.com/blog/how-nvidia-factory-operations-blueprint-coordinates-ai-agents-to-investigate-production-issues/",
+      "published_at": "2026-11-04T17:00:00Z",
+      "category": "mlops",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "GPUs",
+        "Mlops"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8255,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://developer.nvidia.com/blog/?p=124039"
+    },
+    {
+      "title": "Kitty 0.50",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://sw.kovidgoyal.net/kitty/changelog/#",
+      "published_at": "2026-11-04T08:57:10Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.822,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50362980"
+    },
+    {
+      "title": "Introducing Compute Engine API multi-versioning: Predictable evolution without breaking production",
+      "summary": "Ready to modernize your infrastructure without risking production stability? API multi-versioning for Compute Engine, now in general availability, helps you do just that. With date-based API versions, Compute Engine can now regularly deliver modern API semantics, stronger resilience defaults, and improved developer experience while preserving the rock-solid stability of the /v1 API. For more than a decade, the Google Compute Engine /v1 API has served as the foundational…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/topics/developers-practitioners/introducing-compute-engine-api-multi-versioning-predictable-evolution-without-breaking-production/",
+      "published_at": "2026-11-04T16:00:00Z",
+      "category": "cloud_providers",
+      "tags": [
+        "APIs",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.8214,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/topics/developers-practitioners/introducing-compute-engine-api-multi-versioning-predictable-evolution-without-breaking-production/"
+    },
+    {
+      "title": "Use NVIDIA NeMo to Turn Agent Failures into Tests and Harness Fixes",
+      "summary": "Turn production evidence into prioritized issues and custom evaluations that help you improve prompts, tools, models, memory, skills, and harness code. When you...",
+      "source_name": "NVIDIA Developer Blog",
+      "source_url": "https://developer.nvidia.com/blog/use-nvidia-nemo-to-turn-agent-failures-into-tests-and-harness-fixes/",
+      "published_at": "2026-11-04T16:00:00Z",
+      "category": "mlops",
+      "tags": [
+        "AI Agents",
+        "GPUs",
+        "AI Models",
+        "Mlops"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8214,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://developer.nvidia.com/blog/?p=124389"
+    },
+    {
+      "title": "Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop",
+      "published_at": "2026-11-04T08:46:29Z",
+      "category": "aggregators",
+      "tags": [
+        "Apache Spark",
+        "GPUs",
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.8213,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50362905"
+    },
+    {
+      "title": "Introducing the MongoDB Google ADK Integration: Durable Memory for Agent State",
+      "summary": "We’re excited to announce the MongoDB Google ADK Integration , which provides developers with the building blocks they need to create durable memory for agent state. As agents move from prototypes to real-world applications, they need secure, dependable access to data and the ability to retain context over a long time. However, developers still need to build their own tooling for a data store that provides durable agent memory for agent state. This integration gives…",
+      "source_name": "MongoDB Blog",
+      "source_url": "https://www.mongodb.com/company/blog/product-release-announcements/introducing-mongodb-google-adk-integration-durable-memory-agent-state",
+      "published_at": "2026-11-04T15:29:17Z",
+      "category": "databases",
+      "tags": [
+        "AI Agents",
+        "Databases"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.8192,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.mongodb.com/company/blog/product-release-announcements/introducing-mongodb-google-adk-integration-durable-memory-agent-state"
+    },
+    {
+      "title": "Verification Is Not Knowledge: Science needs more than answers",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://blog.cosmos-institute.org/p/verification-is-not-knowledge",
+      "published_at": "2026-11-04T09:01:58Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.6485,
+      "importance_score": 0.8185,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50363019"
+    },
+    {
+      "title": "New capabilities to power agents at scale with Google's Agentic Data Cloud",
+      "summary": "Not long ago, we were entering the agentic era; today, organizations are deriving significant value from running agents in production. The opportunity to capture new revenue streams, improve efficiency, and manage risk makes reimagining operations with agents top of mind for enterprise leaders. That is why we built the Agentic Data Cloud — a System of Action designed to activate all your data by breaking down walled gardens, deliver high accuracy and trust, and operate…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/products/databases/whats-new-across-googles-agentic-data-cloud/",
+      "published_at": "2026-11-04T14:00:00Z",
+      "category": "cloud_providers",
+      "tags": [
+        "AI Agents",
+        "Cloud",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.8131,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/products/databases/whats-new-across-googles-agentic-data-cloud/"
+    },
+    {
+      "title": "AlloyDB Express: Instant, scale-to-zero PostgreSQL for developers and coding agents",
+      "summary": "Databases have struggled to keep up with the speed of AI-enabled software development. Across the engineering and platform teams we talk to, we see coding agents stalled by slow database provisioning, CI/CD test pipelines bottlenecked by complexity, and internal apps hitting a wall as they transition from sandbox to production. Until now, no PostgreSQL service in the market has combined agent-ready capabilities with uncompromised enterprise security and scale. To solve this…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/products/databases/introducing-alloydb-express-for-rapid-testing-and-prototyping/",
+      "published_at": "2026-11-04T14:00:00Z",
+      "category": "cloud_providers",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Data Pipelines",
+        "Security",
+        "Databases",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.8131,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/products/databases/introducing-alloydb-express-for-rapid-testing-and-prototyping/"
+    },
+    {
+      "title": "Unify operational and Lakehouse data with direct Iceberg access in AlloyDB for PostgreSQL",
+      "summary": "To make good business decisions, you need two kinds of data: the live state of the business from operational databases, and the historical context stored in an analytical system such as a lakehouse or a data warehouse. Traditionally, those systems have been separate, but they are now converging rapidly. That’s why today, we're announcing direct Iceberg access in AlloyDB for PostgreSQL , in preview. Now, developers can query Apache Iceberg tables stored in a cloud storage…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/products/databases/direct-iceberg-access-in-alloydb/",
+      "published_at": "2026-11-04T14:00:00Z",
+      "category": "cloud_providers",
+      "tags": [
+        "Lakehouse",
+        "Cloud",
+        "Databases",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.8131,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/products/databases/direct-iceberg-access-in-alloydb/"
+    },
+    {
+      "title": "Half of Slack Messages Are No Longer From People. Here’s Slack by the Numbers.",
+      "summary": "More than a decade ago an engineering team built Slack because they needed a way to coordinate code, log alerts, and talk to each other all in one place. Now, as AI agents move from pilots into live business production, they’ve entered the channels where people already collaborate: Through open standards like MCP, agents can […]",
+      "source_name": "Salesforce News",
+      "source_url": "https://www.salesforce.com/news/stories/slack-stats/",
+      "published_at": "2026-11-03T22:30:00Z",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.8085,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.salesforce.com/?p=96181"
+    },
+    {
+      "title": "Jelly Sheet",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://mrdoob.github.io/codevember-2026/01/",
+      "published_at": "2026-11-04T03:40:50Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.8,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50361268"
+    },
+    {
+      "title": "Chrome Enterprise Premium drives 50%+ projected cost reduction for Mercari",
+      "summary": "Editor's Note: Today's post is by Yu Susaki, Manager of Enterprise Security at Mercari , a leading consumer-to-consumer (C2C) marketplace with more than 20 million monthly active users. Mercari selected Chrome Enterprise Premium and Chromebooks to secure its highly sensitive customer service (CS) environment. Handling personally identifiable information (PII) on a daily basis, Mercari required a security strategy that could protect its data while addressing the operational…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/products/chrome-enterprise/chrome-enterprise-premium-drives-50-projected-cost-reduction-for-mercari/",
+      "published_at": "2026-11-04T09:00:00Z",
+      "category": "cloud_providers",
+      "tags": [
+        "Security",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.7922,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/products/chrome-enterprise/chrome-enterprise-premium-drives-50-projected-cost-reduction-for-mercari/"
+    },
+    {
+      "title": "Agentic cheminformatics with Google Antigravity",
+      "summary": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.",
+      "source_name": "Google DeepMind",
+      "source_url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
+      "published_at": "2026-11-03T17:01:49Z",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI Agents",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.97,
+      "importance_score": 0.7857,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/"
+    },
+    {
+      "title": "OpenKruise Agents v0.6.0: Leaping ahead in agent Sandbox security and automation",
+      "summary": "About OpenKruise Agents OpenKruise Agents is a sub-project of OpenKruise, the CNCF open-source application automation and workload orchestration project. It provides full lifecycle management for Agent Sandboxes running at scale on Kubernetes, together with a complete...",
+      "source_name": "CNCF",
+      "source_url": "https://www.cncf.io/blog/2026/11/03/openkruise-agents-v0-6-0-leaping-ahead-in-agent-sandbox-security-and-automation/",
+      "published_at": "2026-11-03T12:00:00Z",
+      "category": "open_source_foundations",
+      "tags": [
+        "AI Agents",
+        "Kubernetes",
+        "Open Source",
+        "Security",
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.87,
+      "importance_score": 0.7647,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.cncf.io/?p=176763"
+    },
+    {
+      "title": "Accelerating engineering for the physical world",
+      "summary": "Discover how ChatGPT and Codex are helping engineers accelerate CAD, PCB design, simulation, and other workflows across the physical world.",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
+      "published_at": "2026-11-03T12:00:00Z",
+      "category": "ai_model_companies",
+      "tags": [
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.97,
+      "importance_score": 0.7647,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/index/accelerating-engineering-for-the-physical-world"
+    },
+    {
+      "title": "Progress on provable inference for large language models",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.anthropic.com/research/provable-inference",
+      "published_at": "2026-11-04T17:17:46Z",
+      "category": "aggregators",
+      "tags": [
+        "LLMs",
+        "AI Models",
+        "Hacker News"
+      ],
+      "confidence_score": 0.6125,
+      "importance_score": 0.763,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50368626"
+    },
+    {
+      "title": "‘Blade Runner 2099’ Shows the ‘Silver Linings’ of a Replicant Takeover",
+      "summary": "Showrunner Silka Luisa and star Hunter Schafer want their series, Blade Runner 2099, to show the benefits of a post-revolution world.",
+      "source_name": "Wired",
+      "source_url": "https://www.wired.com/story/wired-world-fair-2026-blade-runner-2099/",
+      "published_at": "2026-11-04T20:24:14Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7597,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "6ad277d241b049c40a311550"
+    },
+    {
+      "title": "How a blue wave crushed the tech right",
+      "summary": "The Democratic wins that swept America on election night was a backlash against data centers, and a rebuke to Silicon Valley elites.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/how-a-blue-wave-crushed-the-tech-right-2026-11",
+      "published_at": "2026-11-04T20:23:39Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7597,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/how-a-blue-wave-crushed-the-tech-right-2026-11"
+    },
+    {
+      "title": "😸 WATCH: Napster Is an AI Company Now. Seriously.",
+      "summary": "PLUS: Why Napster is betting on AI agents with faces.",
+      "source_name": "The Neuron",
+      "source_url": "https://www.theneurondaily.com/p/watch-napster-is-an-ai-company-now",
+      "published_at": "2026-11-04T20:05:00Z",
+      "category": "ai_newsletters",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Ai Newsletters"
+      ],
+      "confidence_score": 0.64,
+      "importance_score": 0.7584,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.theneurondaily.com/p/watch-napster-is-an-ai-company-now"
+    },
+    {
+      "title": "The next chapter of Redis Iris: what agents need to work in the real world",
+      "summary": "The other day, I was chatting with a customer support AI agent dealing with a cancelled flight. The experience was terrible. You could tell the agent realistically only had a few functions, and this was clearly not one of them. I’m sure when the devel...",
+      "source_name": "Redis Blog",
+      "source_url": "https://redis.io/blog/the-next-chapter-of-redis-iris-what-agents-need-to-work-in-the-real-world/",
+      "published_at": "2026-11-04T00:00:00Z",
+      "category": "databases",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Databases"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7547,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://redis.io/blog/the-next-chapter-of-redis-iris-what-agents-need-to-work-in-the-real-world/"
+    },
+    {
+      "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
+      "summary": "Texas is the fastest-growing data center market in the US and ground zero for Big Tech’s largest AI buildouts. But the blue wave that swept the Lone Star State may jeopardize that position. Democrat James Talarico won the US Senate seat against Ken Paxton. Gina Hinojosa won the race for governor against the Republican incumbent,…",
+      "source_name": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
+      "published_at": "2026-11-04T18:50:55Z",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.7533,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.technologyreview.com/?p=1148043"
+    },
+    {
+      "title": "Are Drone Ports the Next Annoying Tech Neighbor?",
+      "summary": "Flying delivery robots prompt concern about noise, safety, and more",
+      "source_name": "IEEE Spectrum",
+      "source_url": "https://spectrum.ieee.org/drone-delivery-noise",
+      "published_at": "2026-11-04T18:47:21Z",
+      "category": "research_feeds",
+      "tags": [
+        "Research Feeds"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.753,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://spectrum.ieee.org/drone-delivery-noise"
+    },
+    {
+      "title": "Debian and Ubuntu APT Flaw Lets MitM Attackers Swap Verified Packages and Run Code as Root",
+      "summary": "A flaw in APT, the package manager for Debian and Ubuntu, allows an attacker who can modify package downloads to swap a checked package for their own. The attacker's code then runs as root, according to advisories that Debian, Ubuntu, and APT's developers published on November 4. The attack needs APT to retry failed downloads, which it does by default from Debian 12 and",
+      "source_name": "The Hacker News",
+      "source_url": "https://thehackernews.com/2026/11/debian-and-ubuntu-apt-flaw-lets-mitm.html",
+      "published_at": "2026-11-04T17:00:46Z",
+      "category": "cybersecurity",
+      "tags": [
+        "Cybersecurity"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7456,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://thehackernews.com/2026/11/debian-and-ubuntu-apt-flaw-lets-mitm.html"
+    },
+    {
+      "title": "SonicWall Won't Patch EoL GMS Flaws That Could Expose Files, Alter Database Records",
+      "summary": "SonicWall has warned of two vulnerabilities impacting end-of-life Global Management System (GMS) systems that it said will not be patched. Details of the security flaws, which affect SonicWall GMS 9.5.2 and earlier versions, are below - CVE-2026-109593 (CVSS score: 9.1) - An unauthenticated file read vulnerability that could allow an attacker with network access to read internal GMS files,",
+      "source_name": "The Hacker News",
+      "source_url": "https://thehackernews.com/2026/11/sonicwall-wont-patch-eol-gms-flaws-that.html",
+      "published_at": "2026-11-04T17:00:38Z",
+      "category": "cybersecurity",
+      "tags": [
+        "Security",
+        "Databases",
+        "Cybersecurity"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7456,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://thehackernews.com/2026/11/sonicwall-wont-patch-eol-gms-flaws-that.html"
+    },
+    {
+      "title": "Your .NET parallel loop can become serial in a one-CPU container",
+      "summary": "CPU-based defaults can leave an I/O-heavy loop processing one record at a time. Raising the limit helps, but each downstream service still needs a concurrency budget it can handle.",
+      "source_name": "Stack Overflow Blog",
+      "source_url": "https://stackoverflow.blog/2026/11/04/your-net-parallel-loop-can-become-serial-in-a-one-cpu-container/",
+      "published_at": "2026-11-04T16:34:13Z",
+      "category": "developer_platforms",
+      "tags": [
+        "Developer Platforms"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7438,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "36d88082-2c6e-437a-abae-0a265d2acd72"
+    },
+    {
+      "title": "Jensen Discovers Export Controls",
+      "summary": "Plus: OpenAI Wants More Ads, Google Pulls an Adobe on Schools",
+      "source_name": "AI Secret",
+      "source_url": "https://aisecret.us/jensen-discovers-export-controls/",
+      "published_at": "2026-11-04T13:30:12Z",
+      "category": "ai_newsletters",
+      "tags": [
+        "Ai Newsletters"
+      ],
+      "confidence_score": 0.64,
+      "importance_score": 0.731,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "6ae2e0e79f379b89dc9bafdd"
+    },
+    {
+      "title": "Arnis turns any place on Earth into a Minecraft world",
+      "summary": "Louis Erbkamm built the first prototype in his free time. Now GitHub Copilot helps him maintain it alone. The post Arnis turns any place on Earth into a Minecraft world appeared first on The GitHub Blog .",
+      "source_name": "The GitHub Blog",
+      "source_url": "https://github.blog/open-source/maintainers/arnis-turns-any-place-on-earth-into-a-minecraft-world/",
+      "published_at": "2026-11-03T16:00:00Z",
+      "category": "developer_platforms",
+      "tags": [
+        "Developer Tools",
+        "Developer Platforms"
+      ],
+      "confidence_score": 0.9,
+      "importance_score": 0.7214,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://github.blog/?p=99955"
+    }
+  ]
+}
