@@ -1,0 +1,827 @@
+{
+  "generated_at": "2026-11-06T19:59:38.598035+00:00",
+  "post_date": "2026-11-06",
+  "sources_checked": 48,
+  "candidates": 45,
+  "items": [
+    {
+      "title": "Less Reasoning. More Doing. Meet Koa Decisions.",
+      "summary": "The new version of Salesforce’s decision model handles single-step decisions in milliseconds.",
+      "source_name": "Salesforce News",
+      "source_url": "https://www.salesforce.com/news/stories/koa-decisions-salesforce-decision-models/",
+      "published_at": "2026-11-06T16:00:00+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI Models",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.8834,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.salesforce.com/?p=96319"
+    },
+    {
+      "title": "Faster LLM inference startup: What you need to know",
+      "summary": "Adding an inference replica creates capacity only after the new instance can serve requests. Between starting a process and generating a response, an LLM server may need to load weights, initialize GPU resources, compile kernels, capture...",
+      "source_name": "CNCF",
+      "source_url": "https://www.cncf.io/blog/2026/11/06/faster-llm-inference-startup-what-you-need-to-know/",
+      "published_at": "2026-11-06T12:00:00+00:00",
+      "category": "open_source_foundations",
+      "tags": [
+        "LLMs",
+        "GPUs",
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8667,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.cncf.io/?p=176956"
+    },
+    {
+      "title": "Deus Ex",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.filfre.net/2026/11/deus-ex/",
+      "published_at": "2026-11-06T15:44:36+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.682,
+      "importance_score": 0.8523,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50393758"
+    },
+    {
+      "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+      "summary": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/partnering-with-hacktron",
+      "published_at": "2026-11-06T08:00:00+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI",
+        "Security",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.99,
+      "importance_score": 0.8501,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/index/partnering-with-hacktron"
+    },
+    {
+      "title": "Gemini Omni 1.2 Flash",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+      "published_at": "2026-11-06T13:35:27+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.6725,
+      "importance_score": 0.8433,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50392118"
+    },
+    {
+      "title": "Tesla to wind down Cybertruck production",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817",
+      "published_at": "2026-11-06T12:13:51+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.8377,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50391456"
+    },
+    {
+      "title": "Accelerating Reinforcement Learning Weight Refit with the Reshard Collective",
+      "summary": "During reinforcement learning (RL) post-training, training trajectories are generated on the fly by running inference with the current policy model. For...",
+      "source_name": "NVIDIA Developer Blog",
+      "source_url": "https://developer.nvidia.com/blog/accelerating-reinforcement-learning-weight-refit-with-the-reshard-collective/",
+      "published_at": "2026-11-06T18:03:26+00:00",
+      "category": "mlops",
+      "tags": [
+        "AI Models",
+        "Mlops"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8319,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://developer.nvidia.com/blog/?p=124653"
+    },
+    {
+      "title": "The Blueprint: Orchestrating 5,000+ AI assets for a World Cup TV spot",
+      "summary": "Welcome back to The Blueprint, a regular feature where we highlight how Google Cloud customers are tackling unique and common challenges across industries using the latest AI and cloud technologies. We hope to inspire others looking to innovate in their work. AI is rapidly transforming video production at virtually every step of the process, from ideation and storyboarding to filming, editing, and release. At Mito , we’re striving to democratize AI-powered video creation…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/products/media-entertainment/how-mito-orchestrated-5000-plus-ai-assets-for-a-world-cup-tv-spot/",
+      "published_at": "2026-11-06T17:00:00+00:00",
+      "category": "cloud_providers",
+      "tags": [
+        "AI",
+        "Cloud",
+        "Google Cloud",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.8275,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/products/media-entertainment/how-mito-orchestrated-5000-plus-ai-assets-for-a-world-cup-tv-spot/"
+    },
+    {
+      "title": "Introducing Z4M: storage-optimized compute for AI/ML and parallel file systems",
+      "summary": "Today, we’re excited to announce the general availability of our next-generation Storage-optimized Z4M machine series in Google Compute Engine, available as both Virtual Machine (VM) and bare-metal instances. We built Z4M to provide storage for AI/ML training and inference workloads such as checkpointing, distributed key-value (KV) cache and parallel file systems — workloads that handle huge data volumes and require massive parallel data processing, as well as high storage…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/products/compute/storage-optimized-z4m-machine-series-are-ga/",
+      "published_at": "2026-11-06T17:00:00+00:00",
+      "category": "cloud_providers",
+      "tags": [
+        "AI",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.8275,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/products/compute/storage-optimized-z4m-machine-series-are-ga/"
+    },
+    {
+      "title": "What’s new with Google Cloud",
+      "summary": "Want to know the latest from Google Cloud? Find it here in one handy location. Check back regularly for our newest updates, announcements, resources, events, learning opportunities, and more. Tip : Not sure where to find what you’re looking for on the Google Cloud blog? Start here: Google Cloud blog 101: Full list of topics, links, and resources . aside_block <ListValue: []> Nov 2 - Nov 6 Security for AI workloads with Model Armor Securing generative AI applications requires…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
+      "published_at": "2026-11-06T17:00:00+00:00",
+      "category": "cloud_providers",
+      "tags": [
+        "AI",
+        "GenAI",
+        "Cloud",
+        "Google Cloud",
+        "Security",
+        "AI Models",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.8275,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/"
+    },
+    {
+      "title": "Dutch 'idealist' bank ASN blocks non-Google Android, including GrapheneOS",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105",
+      "published_at": "2026-11-06T09:27:12+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.8261,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50390124"
+    },
+    {
+      "title": "How NVIDIA Open Source Tools Are Helping Researchers Build Next-Generation 6G Networks",
+      "summary": "A year ago, NVIDIA open sourced its Aerial wireless software, joining Sionna and a broader suite of open source tools for accelerating next-generation 6G network development. Together, they give researchers a foundation for testing ideas, comparing results and building on each other’s work — connecting simulation and AI training with experiments on real over-the-air wireless […]",
+      "source_name": "NVIDIA Blog",
+      "source_url": "https://blogs.nvidia.com/blog/telco-open-source-tools-research-6g-networks/",
+      "published_at": "2026-11-06T16:00:35+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "GPUs",
+        "Open Source",
+        "Research",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8234,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://blogs.nvidia.com/?p=99702"
+    },
+    {
+      "title": "Blender's UI and Runtime: Much Faster Than GPUI",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://github.com/ppmpreetham/BUI",
+      "published_at": "2026-11-06T07:40:35+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.8187,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50389333"
+    },
+    {
+      "title": "Measuring how AI agents handle everyday wet-lab science",
+      "summary": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+      "published_at": "2026-11-06T00:00:00+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.99,
+      "importance_score": 0.8167,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science"
+    },
+    {
+      "title": "ToyBlocks: A controlled world for robot learning and evaluation",
+      "summary": "",
+      "source_name": "Hugging Face",
+      "source_url": "https://huggingface.co/blog/allenai/toyblocks",
+      "published_at": "2026-11-06T14:00:48+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.9,
+      "importance_score": 0.8151,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://huggingface.co/blog/allenai/toyblocks"
+    },
+    {
+      "title": "Cult.fit builds operational muscle with Codex",
+      "summary": "Cult.fit is using Codex to help teams across functions build tools, move faster, and change how work gets done.",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/cultfit-builds-with-codex",
+      "published_at": "2026-11-05T20:00:00+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.99,
+      "importance_score": 0.8001,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/index/cultfit-builds-with-codex"
+    },
+    {
+      "title": "Zero-shot predictions in Pandas using the new BigQuery Accessor",
+      "summary": "Imagine running advanced machine learning workflows—from forecasting and classification to high-dimensional embedding generation—without ever leaving your familiar pandas DataFrame. With the new .bigquery accessor from BigQuery DataFrames (BigFrames) , that vision is now a reality. You can seamlessly invoke BigQuery's enterprise-grade AI functions directly within pandas, scaling your data science and ML pipelines on cloud infrastructure . Take linear regression as an…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/products/data-analytics/bigquery-ai-functions-in-pandas/",
+      "published_at": "2026-11-06T08:00:00+00:00",
+      "category": "cloud_providers",
+      "tags": [
+        "AI",
+        "Machine Learning",
+        "Data Pipelines",
+        "Cloud",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.79,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/products/data-analytics/bigquery-ai-functions-in-pandas/"
+    },
+    {
+      "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+      "summary": "",
+      "source_name": "Google DeepMind",
+      "source_url": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
+      "published_at": "2026-11-05T17:05:16+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.95,
+      "importance_score": 0.7879,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/"
+    },
+    {
+      "title": "Australian universities are creating AI-native graduates",
+      "summary": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce.",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/australian-universities-ai-native-graduates",
+      "published_at": "2026-11-05T17:00:00+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.97,
+      "importance_score": 0.7876,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/index/australian-universities-ai-native-graduates"
+    },
+    {
+      "title": "Ask (a Forward Deployed Engineer’s) Slackbot",
+      "summary": "I’m prepping for a customer discovery call. Do I accept all of their opinions or challenge their assumptions?",
+      "source_name": "Salesforce News",
+      "source_url": "https://www.salesforce.com/news/stories/ask-slackbot-fde-discovery-calls/",
+      "published_at": "2026-11-05T16:00:00+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7834,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.salesforce.com/?p=96278"
+    },
+    {
+      "title": "Docker Sandboxes vs. Containers: Choosing the Right Isolation for AI Agents",
+      "summary": "A container shares the host kernel. Docker Sandboxes are microVMs with their own kernel and private Docker Engine. See how they differ and when to use each.",
+      "source_name": "Docker Blog",
+      "source_url": "https://www.docker.com/blog/docker-sandboxes-vs-containers/",
+      "published_at": "2026-11-06T03:17:04+00:00",
+      "category": "developer_platforms",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Containers",
+        "Developer Platforms"
+      ],
+      "confidence_score": 0.87,
+      "importance_score": 0.7704,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.docker.com/?p=96008"
+    },
+    {
+      "title": "kpt v1.0.0 is released",
+      "summary": "After many years and much development, the kpt community has released v1.0.0 of the kpt toolchain. This is a big step in maturing the kpt project after having it in pre-release status for several years. In...",
+      "source_name": "CNCF",
+      "source_url": "https://www.cncf.io/blog/2026/11/05/kpt-v1-0-0-is-released/",
+      "published_at": "2026-11-05T12:00:00+00:00",
+      "category": "open_source_foundations",
+      "tags": [
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.87,
+      "importance_score": 0.7667,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.cncf.io/?p=176926"
+    },
+    {
+      "title": "Elon Musk’s go-to lawyer on AI’s impact on the legal industry: ‘Fat in the middle is going to be cut out’",
+      "summary": "High-profile attorney Alex Spiro said during a TBPN appearance that AI \"will eliminate a layer of a lot of things including my day job.\"",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/alex-spiro-attorney-ai-legal-industry-fat-cut-law-2026-11",
+      "published_at": "2026-11-06T19:55:24+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7597,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/alex-spiro-attorney-ai-legal-industry-fat-cut-law-2026-11"
+    },
+    {
+      "title": "Living beyond the limits of survival: wood ants trapped in a gigantic pitfall (2016)",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://jhr.pensoft.net/articles.php?id=9096",
+      "published_at": "2026-11-06T10:21:15+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.6215,
+      "importance_score": 0.7586,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50390525"
+    },
+    {
+      "title": "The engineer accused of bugging OpenAI's office pleads not guilty",
+      "summary": "OpenAI engineer Abdulrahman Alfozan pleads not guilty in San Francisco to federal bugging charges over a hidden office recording device.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/openai-engineer-abdulrahman-alfozan-pleads-not-guilty-2026-11",
+      "published_at": "2026-11-06T19:34:02+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7582,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/openai-engineer-abdulrahman-alfozan-pleads-not-guilty-2026-11"
+    },
+    {
+      "title": "How the cast of 'I Play Rocky' compares to the real-life people they're playing",
+      "summary": "\"I Play Rocky\" tells the true story of how \"Rocky\" was made. Here's who plays Sylvester Stallone, Carl Weathers, and the rest of the cast.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/i-play-rocky-cast-vs-real-people-sylvester-stallone-photos-2026-11",
+      "published_at": "2026-11-06T19:12:50+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7568,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/i-play-rocky-cast-vs-real-people-sylvester-stallone-photos-2026-11"
+    },
+    {
+      "title": "The Pentagon wants to know who checks code when AI writes it",
+      "summary": "The Department of War now treats AI-generated code as unverified until it’s proven otherwise. DoW Instruction 8430.01 , “Accelerated Mission Software,” took effect September 8, 2026, and is the department’s latest guidance on modernizing and managing software. If you build or buy software for the DoW, the instruction changes what’s required of you for every line AI writes. You have to review and test it to the same standard as human-written code, show where AI touched it…",
+      "source_name": "GitLab Blog",
+      "source_url": "https://about.gitlab.com/blog/department-of-war-instruction-for-ai-generated-code/",
+      "published_at": "2026-11-06T00:00:00+00:00",
+      "category": "developer_platforms",
+      "tags": [
+        "AI",
+        "Developer Platforms"
+      ],
+      "confidence_score": 0.86,
+      "importance_score": 0.7567,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://about.gitlab.com/blog/department-of-war-instruction-for-ai-generated-code/"
+    },
+    {
+      "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
+      "summary": "",
+      "source_name": "Hugging Face",
+      "source_url": "https://huggingface.co/blog/open-asr-leaderboard-liva",
+      "published_at": "2026-11-06T00:00:00+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.9,
+      "importance_score": 0.7567,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://huggingface.co/blog/open-asr-leaderboard-liva"
+    },
+    {
+      "title": "Rocco’s Black Friday Sale: Smart Fridges Hit Their Lowest Prices of 2026",
+      "summary": "The new Essential and certain colors of the original Classic are at their lowest prices of the year.",
+      "source_name": "Wired",
+      "source_url": "https://www.wired.com/story/rocco-black-friday-sale-2026/",
+      "published_at": "2026-11-06T18:54:21+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7555,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "6aecc0cf7a37f8fb97afb0fa"
+    },
+    {
+      "title": "Early Black Friday Mattress Deals: Get Up to 35% Off WIRED-Tested Favorites",
+      "summary": "I’ve already found early deals on our favorite WIRED-tested mattresses and sleep accessories.",
+      "source_name": "Wired",
+      "source_url": "https://www.wired.com/story/best-early-black-friday-mattress-deals-11-6-2026/",
+      "published_at": "2026-11-06T18:51:27+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7553,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "6ac40a20afafd73a99ceb10c"
+    },
+    {
+      "title": "I left my job of 17 years and started 6 side hustles. Now I work half as many hours and earn close to my old paycheck.",
+      "summary": "After having my second child, I left my job because childcare would consume half my wages. Six side hustles now help replace my income.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/quit-job-childcare-cost-six-side-hustles-income-2026-11",
+      "published_at": "2026-11-06T18:51:01+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7552,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/quit-job-childcare-cost-six-side-hustles-income-2026-11"
+    },
+    {
+      "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
+      "summary": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool.",
+      "source_name": "TechCrunch - AI",
+      "source_url": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
+      "published_at": "2026-11-06T18:44:38+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "Security",
+        "Research",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7548,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://techcrunch.com/?p=3185905"
+    },
+    {
+      "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
+      "summary": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers.",
+      "source_name": "TechCrunch - AI",
+      "source_url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
+      "published_at": "2026-11-06T18:44:20+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7548,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://techcrunch.com/?p=3185929"
+    },
+    {
+      "title": "Free Chinese AI Models Are Getting Scary Good at Hacking",
+      "summary": "An experiment in which AI models were asked to break into simulated networks showed the hacking skills of DeepSeek and GLM to be not far behind OpenAI’s most advanced cyber model, which isn’t public.",
+      "source_name": "Wired",
+      "source_url": "https://www.wired.com/story/free-chinese-ai-models-are-getting-scary-good-at-hacking/",
+      "published_at": "2026-11-06T18:43:43+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "AI Models",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7547,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "6aeb76b2899aefeeb033197b"
+    },
+    {
+      "title": "F.A.A. to Phase Out Floppy Disks in Air Traffic Control Towers",
+      "summary": "Decades after the computer industry moved on, federal officials plan to finally ground the once-vaunted tech relic.",
+      "source_name": "The New York Times - Technology",
+      "source_url": "https://www.nytimes.com/2026/11/06/us/faa-floppy-disks-atc-2028.html",
+      "published_at": "2026-11-06T18:42:14+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7546,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.nytimes.com/2026/11/06/us/faa-floppy-disks-atc-2028.html"
+    },
+    {
+      "title": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
+      "summary": "Introducing GPT‑6 Cyber, OpenAI’s cybersecurity model for finding exploitable vulnerabilities and developing fixes, trained to stay within authorized scope.",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/introducing-gpt-6-cyber",
+      "published_at": "2026-11-05T09:00:00+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI Agents",
+        "Security",
+        "AI Models",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.97,
+      "importance_score": 0.7542,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/index/introducing-gpt-6-cyber"
+    },
+    {
+      "title": "Video Friday: Room-Scale Cable-Driven Home Robot Tidies Up",
+      "summary": "Your weekly selection of awesome robot videos",
+      "source_name": "IEEE Spectrum",
+      "source_url": "https://spectrum.ieee.org/video-friday-home-cable-robot",
+      "published_at": "2026-11-06T17:00:03+00:00",
+      "category": "research_feeds",
+      "tags": [
+        "Research Feeds"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.7475,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://spectrum.ieee.org/video-friday-home-cable-robot"
+    },
+    {
+      "title": "Installing the Fix for an Exploited WordPress Flaw Can Expose Some Sites One Last Time",
+      "summary": "Some WordPress sites can still be attacked while they install the fix for an actively exploited flaw, according to Umut Bayram, the Picus Security researcher who found it. The update that installs the fix still unpacks its files using the site's old, unpatched code, so an attacker who strikes at the right moment can run code on the server. The researcher advises blocking web access to the",
+      "source_name": "The Hacker News",
+      "source_url": "https://thehackernews.com/2026/11/installing-fix-for-exploited-wordpress.html",
+      "published_at": "2026-11-06T16:08:38+00:00",
+      "category": "cybersecurity",
+      "tags": [
+        "Security",
+        "Research",
+        "Cybersecurity"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.744,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://thehackernews.com/2026/11/installing-fix-for-exploited-wordpress.html"
+    },
+    {
+      "title": "Hackers Target OpenSSH SSHole Flaw Within Hours of Disclosure, Gain Root on Honeypot",
+      "summary": "Threat actors are attempting to exploit a recently disclosed security flaw impacting OpenSSH that can enable sign-ins to accounts that have no password set, according to Previdian. The vulnerability, tracked as CVE-2026-123158 (CVSS score: 8.1) and codenamed SSHole (or *sshole), impacts Linux systems that run OpenSSH on the musl C library with Pluggable Authentication Modules (PAM) disabled,",
+      "source_name": "The Hacker News",
+      "source_url": "https://thehackernews.com/2026/11/hackers-exploited-openssh-sshole-flaw.html",
+      "published_at": "2026-11-06T15:21:49+00:00",
+      "category": "cybersecurity",
+      "tags": [
+        "Security",
+        "Cybersecurity"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7407,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://thehackernews.com/2026/11/hackers-exploited-openssh-sshole-flaw.html"
+    },
+    {
+      "title": "How Do You Land on a Moon With Almost No Gravity?",
+      "summary": "Japan’s MMX mission aims to sample the Martian moon Phobos",
+      "source_name": "IEEE Spectrum",
+      "source_url": "https://spectrum.ieee.org/mmx-mission-to-phobos",
+      "published_at": "2026-11-06T15:00:02+00:00",
+      "category": "research_feeds",
+      "tags": [
+        "Research Feeds"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.7392,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://spectrum.ieee.org/mmx-mission-to-phobos"
+    },
+    {
+      "title": "Recursively Testing and Vibe Debugging a Google AI Studio Generated Vibe-Coded Database Software Application",
+      "summary": "arXiv:2611.06952v1 Announce Type: new Abstract: This research paper proposes a broader definition of vibe coding, extending the original one with non-developers and natural languages other than English, and introduces the notion of vibe debugging, as well as a sound, complete, and optimal algorithmic methodology for testing and vibe debugging vibe-coded software applications. This methodology is illustrated by applying it to a vibe-coded real-world database application of…",
+      "source_name": "arXiv cs.DB (Databases)",
+      "source_url": "https://arxiv.org/abs/2611.06952",
+      "published_at": "2026-11-06T05:00:00+00:00",
+      "category": "databases",
+      "tags": [
+        "AI",
+        "Databases",
+        "Research"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7375,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2611.06952v1"
+    },
+    {
+      "title": "DiagDBench: Evaluating Agentic LLMs on Interactive Database Diagnosis and Anomaly Remediation",
+      "summary": "arXiv:2611.07339v1 Announce Type: new Abstract: Database diagnosis and anomaly remediation are essential to reliable database management system (DBMS) operation. Despite advances in large language model (LLM)-based database agents, constructing live DBMS environments that reproduce diverse anomalies at scale remains challenging, limiting the availability of executable samples for database agent training and evaluation. To this end, we introduce DiagDBench, a large-scale…",
+      "source_name": "arXiv cs.DB (Databases)",
+      "source_url": "https://arxiv.org/abs/2611.07339",
+      "published_at": "2026-11-06T05:00:00+00:00",
+      "category": "databases",
+      "tags": [
+        "LLMs",
+        "AI Agents",
+        "Databases",
+        "AI Models",
+        "Research"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7375,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2611.07339v1"
+    },
+    {
+      "title": "The Bubble Got a Credit Rating",
+      "summary": "The bill arrived in October, in the name on the key.",
+      "source_name": "AI Secret",
+      "source_url": "https://aisecret.us/black-october/",
+      "published_at": "2026-11-06T13:30:42+00:00",
+      "category": "ai_newsletters",
+      "tags": [
+        "Ai Newsletters"
+      ],
+      "confidence_score": 0.64,
+      "importance_score": 0.733,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "6ae9c7dd9f379b89dcac52ce"
+    },
+    {
+      "title": "Claude gets personal finance skills",
+      "summary": "Claude gets personal finance skills Superhuman AI",
+      "source_name": "Superhuman (Zain Kahn)",
+      "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5CNHFBVnhzdHdLdk1mSlVzNzctRkk2eFN4QTJwdDB4TXNTT1oyZzFpdUtWMWhiODRReUY4VnNGNU8zdnJlSzZ1ZU9zUjFWV2pLUTA5UVpTWlZIOVhEVlZwX2xObi05S0o3ZlNkNWdKQWE?oc=5",
+      "published_at": "2026-11-06T12:19:43+00:00",
+      "category": "ai_newsletters",
+      "tags": [
+        "AI",
+        "Ai Newsletters"
+      ],
+      "confidence_score": 0.64,
+      "importance_score": 0.7281,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "CBMicEFVX3lxTE5CNHFBVnhzdHdLdk1mSlVzNzctRkk2eFN4QTJwdDB4TXNTT1oyZzFpdUtWMWhiODRReUY4VnNGNU8zdnJlSzZ1ZU9zUjFWV2pLUTA5UVpTWlZIOVhEVlZwX2xObi05S0o3ZlNkNWdKQWE"
+    },
+    {
+      "title": "Configure, Certify, and Operate Kubernetes GPU Clusters with NVIDIA DSX OS",
+      "summary": "One underperforming GPU can slow an entire distributed training job. The node may pass basic health checks and show normal utilization, leaving operators to...",
+      "source_name": "NVIDIA Developer Blog",
+      "source_url": "https://developer.nvidia.com/blog/configure-certify-and-operate-kubernetes-gpu-clusters-with-nvidia-dsx-os/",
+      "published_at": "2026-11-05T17:00:00+00:00",
+      "category": "mlops",
+      "tags": [
+        "Kubernetes",
+        "GPUs",
+        "Mlops"
+      ],
+      "confidence_score": 0.87,
+      "importance_score": 0.7275,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://developer.nvidia.com/blog/?p=124575"
+    }
+  ]
+}
