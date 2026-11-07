@@ -1,0 +1,814 @@
+{
+  "post_date": "2026-11-07",
+  "sources_checked": 48,
+  "count": 45,
+  "items": [
+    {
+      "title": "We organized Sustainability Month. Here’s what we learned. 🌱",
+      "summary": "What do Kubernetes resource allocation, eBPF, carbon observability, and GPUs have in common? Quite a lot, actually. Especially when you start looking at them through the lens of environmental sustainability. This October, we brought these conversations...",
+      "source_name": "CNCF",
+      "source_url": "https://www.cncf.io/blog/2026/11/07/we-organized-sustainability-month-heres-what-we-learned-%f0%9f%8c%b1/",
+      "published_at": "2026-11-07T12:30:00Z",
+      "category": "open_source_foundations",
+      "tags": [
+        "Kubernetes",
+        "GPUs",
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8767,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.cncf.io/?p=177128"
+    },
+    {
+      "title": "Every Mac comes with an (undocumented) family member classifier",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph",
+      "published_at": "2026-11-07T09:46:03Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.8353,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50403097"
+    },
+    {
+      "title": "Need for Speed Underground 2 online in the browser",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://nfsu2.xyz/",
+      "published_at": "2026-11-07T09:36:36Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.8346,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50403052"
+    },
+    {
+      "title": "Libghostty 1.0",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://mitchellh.com/writing/libghostty-1-0",
+      "published_at": "2026-11-06T23:30:52Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7926,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50399933"
+    },
+    {
+      "title": "Less Reasoning. More Doing. Meet Koa Decisions.",
+      "summary": "The new version of Salesforce’s decision model handles single-step decisions in milliseconds.",
+      "source_name": "Salesforce News",
+      "source_url": "https://www.salesforce.com/news/stories/koa-decisions-salesforce-decision-models/",
+      "published_at": "2026-11-06T16:00:00Z",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI Models",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7913,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.salesforce.com/?p=96319"
+    },
+    {
+      "title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://hightouch.com/blog/llm-judges-identity-resolution",
+      "published_at": "2026-11-06T19:48:51Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7771,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50397429"
+    },
+    {
+      "title": "Firecracker VM Escape: PwnEscape Part 2",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://pwn.ai/blog/firecracker-escape",
+      "published_at": "2026-11-06T19:33:38Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.6855,
+      "importance_score": 0.7761,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50397219"
+    },
+    {
+      "title": "Faster LLM inference startup: What you need to know",
+      "summary": "Adding an inference replica creates capacity only after the new instance can serve requests. Between starting a process and generating a response, an LLM server may need to load weights, initialize GPU resources, compile kernels, capture...",
+      "source_name": "CNCF",
+      "source_url": "https://www.cncf.io/blog/2026/11/06/faster-llm-inference-startup-what-you-need-to-know/",
+      "published_at": "2026-11-06T12:00:00Z",
+      "category": "open_source_foundations",
+      "tags": [
+        "LLMs",
+        "GPUs",
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.87,
+      "importance_score": 0.7746,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.cncf.io/?p=176956"
+    },
+    {
+      "title": "Running a law firm on Free software",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://decoded.legal/blog/2026/11/running-a-law-firm-on-free-software-2026-edition/",
+      "published_at": "2026-11-07T09:39:06Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.6225,
+      "importance_score": 0.766,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50403066"
+    },
+    {
+      "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+      "summary": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/partnering-with-hacktron",
+      "published_at": "2026-11-06T08:00:00Z",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI",
+        "Security",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.97,
+      "importance_score": 0.7579,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/index/partnering-with-hacktron"
+    },
+    {
+      "title": "Speed Up Image Generation with FLUX 3 Image Klein on NVIDIA Blackwell GPUs",
+      "summary": "When deploying diffusion models in design tools, image editors, and visual production workflows, developers must account for inference latency. Generating an...",
+      "source_name": "NVIDIA Developer Blog",
+      "source_url": "https://developer.nvidia.com/blog/speed-up-image-generation-with-flux-3-image-klein-on-nvidia-blackwell-gpus/",
+      "published_at": "2026-11-06T22:20:20Z",
+      "category": "mlops",
+      "tags": [
+        "GPUs",
+        "AI Models",
+        "Mlops"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.7577,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://developer.nvidia.com/blog/?p=124785"
+    },
+    {
+      "title": "Beyond code generation: A developer’s guide to agentic engineering",
+      "summary": "Writing code got faster. The work around it didn't. See how you can plan, write code, review changes, and investigate production issues with GitHub Copilot, and what work still needs your judgment. The post Beyond code generation: A developer’s guide to agentic engineering appeared first on The GitHub Blog .",
+      "source_name": "The GitHub Blog",
+      "source_url": "https://github.blog/ai-and-ml/github-copilot/beyond-code-generation-a-developers-guide-to-agentic-engineering/",
+      "published_at": "2026-11-06T22:15:59Z",
+      "category": "developer_platforms",
+      "tags": [
+        "AI Agents",
+        "Developer Tools",
+        "Developer Platforms"
+      ],
+      "confidence_score": 0.92,
+      "importance_score": 0.7574,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://github.blog/?p=100047"
+    },
+    {
+      "title": "Elon Musk and Elizabeth Holmes share a 'superpower,' says documentary director Alex Gibney",
+      "summary": "Director Alex Gibney explains the \"superpower\" that Elon Musk and Elizabeth Holmes share after making documentaries about both figures.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/elon-musk-elizabeth-holmes-similarities-alex-gibney-2026-11",
+      "published_at": "2026-11-07T17:16:01Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7565,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/elon-musk-elizabeth-holmes-similarities-alex-gibney-2026-11"
+    },
+    {
+      "title": "As a Los Angeles local, I love taking a $22 train to this spot with low-key beaches, great shopping, and delicious food",
+      "summary": "My favorite California day trip is Ventura, a city off the Amtrak Pacific Surfliner route. This coastal spot has great thrift shops and calm beaches.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/favorite-day-trip-southern-california-what-to-do-ventura-amtrak-2026-11",
+      "published_at": "2026-11-07T16:55:01Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7551,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/favorite-day-trip-southern-california-what-to-do-ventura-amtrak-2026-11"
+    },
+    {
+      "title": "The $8 Linux Computer (2022)",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html",
+      "published_at": "2026-11-07T14:00:20Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.6105,
+      "importance_score": 0.7542,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50404599"
+    },
+    {
+      "title": "I don't allow my toddler screen time. Sometimes I envy the parents who do.",
+      "summary": "I've kept my almost-3-year-old mostly screen-free. It isn't always easy, but I love seeing the ways he engages with the world.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/dont-allow-screens-toddler-envy-parents-who-do-2026-11",
+      "published_at": "2026-11-07T16:29:01Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7533,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/dont-allow-screens-toddler-envy-parents-who-do-2026-11"
+    },
+    {
+      "title": "AI is changing what it takes to get hired as a mathematician",
+      "summary": "Mathematicians are struggling as AI upends their field. A prominent math professor says a little charisma will help researchers set themselves apart.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/ai-math-hiring-academia-papers-journals-phd-charisma-communication-2026-11",
+      "published_at": "2026-11-07T16:17:17Z",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Research",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7525,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/ai-math-hiring-academia-papers-journals-phd-charisma-communication-2026-11"
+    },
+    {
+      "title": "I ordered the same meal at Chipotle and Qdoba. One chain was the clear winner.",
+      "summary": "I compared the same chicken burrito bowl, chips, and hot salsa order at Chipotle and Qdoba to see which chain restaurant has the best food and value.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/chipotle-vs-qdoba-burrito-bowl-comparison-which-is-better-review-2026-11",
+      "published_at": "2026-11-07T16:08:01Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7518,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/chipotle-vs-qdoba-burrito-bowl-comparison-which-is-better-review-2026-11"
+    },
+    {
+      "title": "I'm a 41-year-old single mom with 2 teens. Six months ago, I asked my friend to move in with us.",
+      "summary": "I'm a single mom with two kids. I was struggling financially, so I asked my friend to live with us. There are tradeoffs, but we've both saved money.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/friend-shares-home-with-me-my-kids-saving-money-benefits-2026-11",
+      "published_at": "2026-11-07T16:07:01Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7517,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/friend-shares-home-with-me-my-kids-saving-money-benefits-2026-11"
+    },
+    {
+      "title": "RealPage rent-pricing case wraps with nearly $360M to renters",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.multifamilydive.com/news/realpage-rent-pricing-case-360m-renters/873553/",
+      "published_at": "2026-11-06T23:37:19Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.6335,
+      "importance_score": 0.7517,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50399991"
+    },
+    {
+      "title": "My 15-year-old dog was struggling to walk, so I taught him Pilates. His recovery inspired me to start a business.",
+      "summary": "Jillian Loustaunau's nearly 16-year-old golden retriever inspired a business after Pilates exercises helped improve his mobility.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/senior-golden-retriever-pilates-inspired-business-2026-11",
+      "published_at": "2026-11-07T16:02:01Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7514,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/senior-golden-retriever-pilates-inspired-business-2026-11"
+    },
+    {
+      "title": "Store and process large strings in Amazon Redshift SUPER columns",
+      "summary": "Storing large semi-structured data such as JSON and arrays in a data warehouse often means splitting or truncating your data. With PartiQL and the SUPER data type, Amazon Redshift is now equipped to handle these issues. In this post, we walk you through three key SUPER data type enhancements that simplify semi-structured data workflows and reduce common migration challenges.",
+      "source_name": "AWS Big Data Blog",
+      "source_url": "https://aws.amazon.com/blogs/big-data/store-and-process-large-strings-in-amazon-redshift-super-columns/",
+      "published_at": "2026-11-06T20:19:36Z",
+      "category": "cloud_providers",
+      "tags": [
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.92,
+      "importance_score": 0.7493,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "44d8182057e0bbb730bc016bf67b10a6231921c2"
+    },
+    {
+      "title": "Fireworks says you’re wasting money on AI unless you’re using all the models",
+      "summary": "The case for managed inference, or automatically routing queries to the right model for the right job",
+      "source_name": "The Register",
+      "source_url": "https://www.theregister.com/ai-and-ml/2026/11/07/fireworks-says-youre-wasting-money-on-ai-unless-youre-using-all-the-models/5308277",
+      "published_at": "2026-11-07T15:00:00Z",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "AI Models",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7471,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.theregister.com/a/5308277"
+    },
+    {
+      "title": "Warren Buffett isn't running Berkshire anymore. You wouldn't know it.",
+      "summary": "Warren Buffett's successor, Greg Abel, followed his lead in making few changes to Berkshire's stock portfolio last quarter.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/warren-buffett-berkshire-hathaway-earnings-stocks-portfolio-cash-buybacks-abel-2026-11",
+      "published_at": "2026-11-07T14:51:48Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7465,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/warren-buffett-berkshire-hathaway-earnings-stocks-portfolio-cash-buybacks-abel-2026-11"
+    },
+    {
+      "title": "13 of the most daring looks celebrities have worn in 2026",
+      "summary": "Red carpets and A-list events have been bold in 2026. Celebrities like Florence Pugh, Rihanna, and Kim Kardashian have been spotted in daring looks.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/most-daring-celebrity-looks-2026-11",
+      "published_at": "2026-11-07T14:34:01Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7453,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/most-daring-celebrity-looks-2026-11"
+    },
+    {
+      "title": "How much more money you need to make to afford a home in every US state",
+      "summary": "Buying a home in 2026 takes more money than the typical household earns in any US state, according to a new report from Realtor.com.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/how-much-more-money-needed-to-buy-home-every-us-state-2026-11",
+      "published_at": "2026-11-07T14:23:01Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7445,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/how-much-more-money-needed-to-buy-home-every-us-state-2026-11"
+    },
+    {
+      "title": "Building the next generation of multimodal AI experiences with fal in Microsoft Foundry",
+      "summary": "Microsoft and fal partner to expand video generation in Microsoft Foundry, helping developers bring creative ideas into enterprise applications. The post Building the next generation of multimodal AI experiences with fal in Microsoft Foundry appeared first on Microsoft Azure Blog .",
+      "source_name": "Microsoft Azure Blog",
+      "source_url": "https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/building-the-next-generation-of-multimodal-ai-experiences-with-fal-in-microsoft-/4570032",
+      "published_at": "2026-11-06T19:08:44Z",
+      "category": "cloud_providers",
+      "tags": [
+        "AI",
+        "Azure",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.92,
+      "importance_score": 0.7444,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://azure.microsoft.com/en-us/blog/?p=54939"
+    },
+    {
+      "title": "I made Dolly Parton's sweet potato casserole for Friendsgiving. It disappeared within minutes.",
+      "summary": "Dolly Parton's 2024 cookbook featured an entire section dedicated to Thanksgiving recipes, including her delicious sweet potato casserole.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/dolly-parton-sweet-potato-casserole-recipe-2026-11",
+      "published_at": "2026-11-07T14:18:02Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7442,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/dolly-parton-sweet-potato-casserole-recipe-2026-11"
+    },
+    {
+      "title": "These Solar Panels Stay Cool in Hot Climates",
+      "summary": "New tech tested in Iraq could boost energy efficiency",
+      "source_name": "IEEE Spectrum",
+      "source_url": "https://spectrum.ieee.org/solar-panel-cooling",
+      "published_at": "2026-11-07T14:00:01Z",
+      "category": "research_feeds",
+      "tags": [
+        "Research Feeds"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.7429,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://spectrum.ieee.org/solar-panel-cooling"
+    },
+    {
+      "title": "Accelerating Reinforcement Learning Weight Refit with the Reshard Collective",
+      "summary": "During reinforcement learning (RL) post-training, training trajectories are generated on the fly by running inference with the current policy model. For...",
+      "source_name": "NVIDIA Developer Blog",
+      "source_url": "https://developer.nvidia.com/blog/accelerating-reinforcement-learning-weight-refit-with-the-reshard-collective/",
+      "published_at": "2026-11-06T18:03:26Z",
+      "category": "mlops",
+      "tags": [
+        "AI Models",
+        "Mlops"
+      ],
+      "confidence_score": 0.87,
+      "importance_score": 0.7398,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://developer.nvidia.com/blog/?p=124653"
+    },
+    {
+      "title": "The Fridge-Hacking Spree Is an Internet-of-Things Wake-Up Call",
+      "summary": "Escalating hacks affecting blood labs and grocery stores show the very real risks to critical infrastructure that come from basic security lapses involving internet-connected devices.",
+      "source_name": "Wired",
+      "source_url": "https://www.wired.com/story/kernel-panic-refrigeration-hacks-internet-of-things/",
+      "published_at": "2026-11-07T13:00:00Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Security",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7388,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "6aecb024d52bfcd5eead0d31"
+    },
+    {
+      "title": "I hired an interior designer for my tiny home, even though it's temporary. She helped me make the space more functional.",
+      "summary": "I'm living in my parents' converted garage. My home is tiny, so I hired an interior designer to help me make it more functional.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/hired-interior-designer-tiny-home-storage-solutions-2026-11",
+      "published_at": "2026-11-07T12:38:01Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7372,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/hired-interior-designer-tiny-home-storage-solutions-2026-11"
+    },
+    {
+      "title": "What’s new with Google Cloud",
+      "summary": "Want to know the latest from Google Cloud? Find it here in one handy location. Check back regularly for our newest updates, announcements, resources, events, learning opportunities, and more. Tip : Not sure where to find what you’re looking for on the Google Cloud blog? Start here: Google Cloud blog 101: Full list of topics, links, and resources . aside_block <ListValue: []> Nov 2 - Nov 6 Security for AI workloads with Model Armor Securing generative AI applications requires…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
+      "published_at": "2026-11-06T17:00:00Z",
+      "category": "cloud_providers",
+      "tags": [
+        "AI",
+        "GenAI",
+        "Cloud",
+        "Google Cloud",
+        "Security",
+        "AI Models",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.92,
+      "importance_score": 0.7354,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/"
+    },
+    {
+      "title": "Introducing Z4M: storage-optimized compute for AI/ML and parallel file systems",
+      "summary": "Today, we’re excited to announce the general availability of our next-generation Storage-optimized Z4M machine series in Google Compute Engine, available as both Virtual Machine (VM) and bare-metal instances. We built Z4M to provide storage for AI/ML training and inference workloads such as checkpointing, distributed key-value (KV) cache and parallel file systems — workloads that handle huge data volumes and require massive parallel data processing, as well as high storage…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/products/compute/storage-optimized-z4m-machine-series-are-ga/",
+      "published_at": "2026-11-06T17:00:00Z",
+      "category": "cloud_providers",
+      "tags": [
+        "AI",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.92,
+      "importance_score": 0.7354,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/products/compute/storage-optimized-z4m-machine-series-are-ga/"
+    },
+    {
+      "title": "The Blueprint: Orchestrating 5,000+ AI assets for a World Cup TV spot",
+      "summary": "Welcome back to The Blueprint, a regular feature where we highlight how Google Cloud customers are tackling unique and common challenges across industries using the latest AI and cloud technologies. We hope to inspire others looking to innovate in their work. AI is rapidly transforming video production at virtually every step of the process, from ideation and storyboarding to filming, editing, and release. At Mito , we’re striving to democratize AI-powered video creation…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/products/media-entertainment/how-mito-orchestrated-5000-plus-ai-assets-for-a-world-cup-tv-spot/",
+      "published_at": "2026-11-06T17:00:00Z",
+      "category": "cloud_providers",
+      "tags": [
+        "AI",
+        "Cloud",
+        "Google Cloud",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.92,
+      "importance_score": 0.7354,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/products/media-entertainment/how-mito-orchestrated-5000-plus-ai-assets-for-a-world-cup-tv-spot/"
+    },
+    {
+      "title": "Best Wi-Fi Routers (2026): My Honest Picks After Testing 50+",
+      "summary": "Don’t suffer the buffer. These WIRED-tested home routers will deliver reliable internet across your home, whatever your needs or budget.",
+      "source_name": "Wired",
+      "source_url": "https://www.wired.com/gallery/best-wifi-routers/",
+      "published_at": "2026-11-07T12:00:00Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7346,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "6246df08ceb527a328de3864"
+    },
+    {
+      "title": "The 10 Best Early Black Friday Headphone Deals (2026)",
+      "summary": "Get up to 50 percent off some of my favorite headphones and earbuds from Apple, Sony, Bose, and more.",
+      "source_name": "Wired",
+      "source_url": "https://www.wired.com/story/best-early-black-friday-headphone-deals-11-6-26/",
+      "published_at": "2026-11-07T11:45:00Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7335,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "691e4b9bf2b91809d95c122a"
+    },
+    {
+      "title": "The Best Cat Water Fountains of 2026: Petlibro, Petkit, Oneisall",
+      "summary": "Ensuring your cat stays hydrated is one of the best ways to keep your pet healthy. The right pet water fountain can help.",
+      "source_name": "Wired",
+      "source_url": "https://www.wired.com/gallery/best-cat-water-fountains/",
+      "published_at": "2026-11-07T11:37:00Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.733,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "677d8d6a9c20569cd9f8080f"
+    },
+    {
+      "title": "Measuring how AI agents handle everyday wet-lab science",
+      "summary": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+      "published_at": "2026-11-06T00:00:00Z",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.97,
+      "importance_score": 0.7246,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science"
+    },
+    {
+      "title": "Claude Code's “Don't Ask Again” File Exposes Passwords and Keys in 1,122 Public Copies on GitHub",
+      "summary": "Passwords and API keys that developers typed into commands they approved in Claude Code are sitting in public GitHub repositories, where anyone can read them. When a user selects \"Yes, and don't ask again,\" Anthropic's AI coding assistant can save the command, word-for-word, including the secret, in a project settings file. Software security company Apiiro said yesterday that 1,122 public",
+      "source_name": "The Hacker News",
+      "source_url": "https://thehackernews.com/2026/11/claude-codes-dont-ask-again-file.html",
+      "published_at": "2026-11-07T06:44:17Z",
+      "category": "cybersecurity",
+      "tags": [
+        "AI",
+        "Security",
+        "Developer Tools",
+        "APIs",
+        "Cybersecurity"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7127,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://thehackernews.com/2026/11/claude-codes-dont-ask-again-file.html"
+    },
+    {
+      "title": "Netflix launches AI Discover to make finding new movies easier",
+      "summary": "Netflix launches AI Discover to make finding new movies easier Superhuman AI",
+      "source_name": "Superhuman (Zain Kahn)",
+      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNLTVPS0JYSUs2aHVuZnhuSXVINEl2cWt6QTB6ZGRfQ2JNMTMtLWYtc1NhUWp0UWNOSE1xTk5YLV9rN0NyaUJWbm1pWTZKVVlNWjhjY2U1ZUFZaEJybkhhUUo5UG1DSDNJWGZVX29IcnZWSjBkLXlKOTFlUmp4UXR4YjRFS21Qc0ptVV9kT0w2Z3JkY0tT?oc=5",
+      "published_at": "2026-11-07T01:01:20Z",
+      "category": "ai_newsletters",
+      "tags": [
+        "AI",
+        "Ai Newsletters"
+      ],
+      "confidence_score": 0.64,
+      "importance_score": 0.6888,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "CBMilAFBVV95cUxNLTVPS0JYSUs2aHVuZnhuSXVINEl2cWt6QTB6ZGRfQ2JNMTMtLWYtc1NhUWp0UWNOSE1xTk5YLV9rN0NyaUJWbm1pWTZKVVlNWjhjY2U1ZUFZaEJybkhhUUo5UG1DSDNJWGZVX29IcnZWSjBkLXlKOTFlUmp4UXR4YjRFS21Qc0ptVV9kT0w2Z3JkY0tT"
+    },
+    {
+      "title": "DeepSeek's customization skills ramp up pressure on US labs",
+      "summary": "DeepSeek's customization skills ramp up pressure on US labs Superhuman AI",
+      "source_name": "Superhuman (Zain Kahn)",
+      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdWZ2VEtjR1J4QWJOVjhOdU1KSmdjSHVPZWItWFNxcThmM0x0a3BvZ0VXSTUwTVJOdDRSVXpuSHp4RWljSXdnMWU2dmJsQXJ0T2p6MkdfN0lrRDhGUzdIaHNBLTF5Y3AwVERxR19vbXhqb000UW5sNWZTZ0xEQVZFVTFBdFlTc2EtV0lvR1JnaUk?oc=5",
+      "published_at": "2026-11-06T23:15:34Z",
+      "category": "ai_newsletters",
+      "tags": [
+        "AI",
+        "Ai Newsletters"
+      ],
+      "confidence_score": 0.64,
+      "importance_score": 0.6815,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "CBMikAFBVV95cUxQdWZ2VEtjR1J4QWJOVjhOdU1KSmdjSHVPZWItWFNxcThmM0x0a3BvZ0VXSTUwTVJOdDRSVXpuSHp4RWljSXdnMWU2dmJsQXJ0T2p6MkdfN0lrRDhGUzdIaHNBLTF5Y3AwVERxR19vbXhqb000UW5sNWZTZ0xEQVZFVTFBdFlTc2EtV0lvR1JnaUk"
+    },
+    {
+      "title": "Docker Sandboxes vs. Containers: Choosing the Right Isolation for AI Agents",
+      "summary": "A container shares the host kernel. Docker Sandboxes are microVMs with their own kernel and private Docker Engine. See how they differ and when to use each.",
+      "source_name": "Docker Blog",
+      "source_url": "https://www.docker.com/blog/docker-sandboxes-vs-containers/",
+      "published_at": "2026-11-06T03:17:04Z",
+      "category": "developer_platforms",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Containers",
+        "Developer Platforms"
+      ],
+      "confidence_score": 0.85,
+      "importance_score": 0.6783,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.docker.com/?p=96008"
+    },
+    {
+      "title": "Video Friday: Room-Scale Cable-Driven Home Robot Tidies Up",
+      "summary": "Your weekly selection of awesome robot videos",
+      "source_name": "IEEE Spectrum",
+      "source_url": "https://spectrum.ieee.org/video-friday-home-cable-robot",
+      "published_at": "2026-11-06T17:00:03Z",
+      "category": "research_feeds",
+      "tags": [
+        "Research Feeds"
+      ],
+      "confidence_score": 0.87,
+      "importance_score": 0.6554,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://spectrum.ieee.org/video-friday-home-cable-robot"
+    },
+    {
+      "title": "Installing the Fix for an Exploited WordPress Flaw Can Expose Some Sites One Last Time",
+      "summary": "Some WordPress sites can still be attacked while they install the fix for an actively exploited flaw, according to Umut Bayram, the Picus Security researcher who found it. The update that installs the fix still unpacks its files using the site's old, unpatched code, so an attacker who strikes at the right moment can run code on the server. The researcher advises blocking web access to the",
+      "source_name": "The Hacker News",
+      "source_url": "https://thehackernews.com/2026/11/installing-fix-for-exploited-wordpress.html",
+      "published_at": "2026-11-06T16:08:38Z",
+      "category": "cybersecurity",
+      "tags": [
+        "Security",
+        "Research",
+        "Cybersecurity"
+      ],
+      "confidence_score": 0.74,
+      "importance_score": 0.6519,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://thehackernews.com/2026/11/installing-fix-for-exploited-wordpress.html"
+    }
+  ]
+}
