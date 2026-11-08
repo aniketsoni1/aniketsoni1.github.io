@@ -1,0 +1,135 @@
+{
+  "post_date": "2026-11-08",
+  "week_start": "2026-11-02",
+  "week_label": "November 2–8, 2026",
+  "theme": "AI",
+  "related_themes": [
+    "Ai Model Companies",
+    "AI Agents",
+    "GPUs",
+    "AI Models",
+    "Cloud Providers"
+  ],
+  "tag_counts": [
+    {
+      "tag": "AI",
+      "count": 29
+    },
+    {
+      "tag": "Ai Model Companies",
+      "count": 19
+    },
+    {
+      "tag": "AI Agents",
+      "count": 16
+    },
+    {
+      "tag": "GPUs",
+      "count": 14
+    },
+    {
+      "tag": "AI Models",
+      "count": 14
+    },
+    {
+      "tag": "Cloud Providers",
+      "count": 14
+    }
+  ],
+  "stories_reviewed": 83,
+  "runs_used": [
+    "2026-11-02",
+    "2026-11-03",
+    "2026-11-04",
+    "2026-11-05",
+    "2026-11-06",
+    "2026-11-07",
+    "2026-11-08"
+  ],
+  "sources_count": 20,
+  "citations": [
+    {
+      "date": "2026-11-02",
+      "title": "The latest AI news we announced in October 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
+      "source_name": "Google AI (The Keyword)",
+      "tags": [
+        "AI",
+        "Ai Model Companies"
+      ],
+      "summary": "The source provides an animated carousel of images from AI posts in October.",
+      "why": "This indicates a collection of AI-related announcements or updates from the specified month, which could contain relevant technical developments for engineers and architects.",
+      "score": 0.8807
+    },
+    {
+      "date": "2026-11-04",
+      "title": "OpenShell on Kubernetes: A guide for platform engineers",
+      "url": "https://www.cncf.io/blog/2026/11/04/openshell-on-kubernetes-a-guide-for-platform-engineers/",
+      "source_name": "CNCF",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Kubernetes",
+        "APIs",
+        "Open Source Foundations"
+      ],
+      "summary": "OpenShell AI agents can run shells, install packages, read files, and open network connections. They often act on text recently pulled from the internet.",
+      "why": "This capability allows AI agents to perform a broader range of operational tasks within a system, impacting automation and data processing workflows.",
+      "score": 0.8647
+    },
+    {
+      "date": "2026-11-03",
+      "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
+      "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
+      "source_name": "Hacker News",
+      "tags": [
+        "AI",
+        "APIs",
+        "Hacker News"
+      ],
+      "summary": "The provided source text lacks an abstract, making it impossible to summarize what Postman did.",
+      "why": "Without source information, the implications for data and AI engineers cannot be determined.",
+      "score": 0.8583
+    },
+    {
+      "date": "2026-11-06",
+      "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+      "url": "https://openai.com/index/partnering-with-hacktron",
+      "source_name": "OpenAI",
+      "tags": [
+        "AI",
+        "Security",
+        "Ai Model Companies"
+      ],
+      "summary": "OpenAI is partnering with Hacktron to identify vulnerabilities, test third-party service connections, and enhance defenses using frontier AI.",
+      "why": "This collaboration indicates a focus on securing AI systems and their integrations, which is critical for engineers deploying and managing AI solutions.",
+      "score": 0.8501
+    },
+    {
+      "date": "2026-11-03",
+      "title": "Heimstaden is changing residential real estate management with AI",
+      "url": "https://openai.com/index/heimstaden",
+      "source_name": "OpenAI",
+      "tags": [
+        "AI",
+        "Ai Model Companies"
+      ],
+      "summary": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe.",
+      "why": "Signals how frontier-model capabilities and access may shift for AI engineers and product teams.",
+      "score": 0.8493
+    },
+    {
+      "date": "2026-11-02",
+      "title": "Anthropic's internal AI use, at retail prices, now exceeds its employee pay",
+      "url": "https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11",
+      "source_name": "Hacker News",
+      "tags": [
+        "AI",
+        "Hacker News"
+      ],
+      "summary": "No abstract provided in the source text.",
+      "why": "Without source text, it is not possible to determine why this matters to data engineers, AI engineers, cloud architects, or enterprise tech leaders.",
+      "score": 0.8462
+    }
+  ]
+}
