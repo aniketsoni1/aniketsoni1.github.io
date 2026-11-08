@@ -1,0 +1,776 @@
+{
+  "post_date": "2026-11-08",
+  "sources_checked": 48,
+  "count": 44,
+  "items": [
+    {
+      "title": "Lima v2.3: Native on Windows, VMnet on Linux, and menu TUI",
+      "summary": "Back in July with v2.2, we added support for Windows guests. On November 6, we shipped v2.3 of Lima and now it runs without extra dependencies on Windows: VMs start through the same Host Compute System...",
+      "source_name": "CNCF",
+      "source_url": "https://www.cncf.io/blog/2026/11/08/lima-v2-3-native-on-windows-vmnet-on-linux-and-menu-tui/",
+      "published_at": "2026-11-08T12:30:00Z",
+      "category": "open_source_foundations",
+      "tags": [
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8754,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.cncf.io/?p=177131"
+    },
+    {
+      "title": "Person of Interest",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://krthr.co/person-of-interest/",
+      "published_at": "2026-11-08T11:23:28Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.6715,
+      "importance_score": 0.8407,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50412318"
+    },
+    {
+      "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://github.com/synchopate/llama-modchip",
+      "published_at": "2026-11-08T10:22:04Z",
+      "category": "aggregators",
+      "tags": [
+        "GPUs",
+        "Hacker News"
+      ],
+      "confidence_score": 0.668,
+      "importance_score": 0.8365,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50411961"
+    },
+    {
+      "title": "Goodbye Claude, hello Pi",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://caleb.software/posts/claude-to-pi.html",
+      "published_at": "2026-11-08T03:11:48Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.8066,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50410107"
+    },
+    {
+      "title": "OpenAI raises $11B at a $1.25T valuation",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought/",
+      "published_at": "2026-11-08T14:49:23Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.624,
+      "importance_score": 0.79,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50413822"
+    },
+    {
+      "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
+      "published_at": "2026-11-07T20:45:32Z",
+      "category": "aggregators",
+      "tags": [
+        "Developer Tools",
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7798,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50407882"
+    },
+    {
+      "title": "We organized Sustainability Month. Here’s what we learned. 🌱",
+      "summary": "What do Kubernetes resource allocation, eBPF, carbon observability, and GPUs have in common? Quite a lot, actually. Especially when you start looking at them through the lens of environmental sustainability. This October, we brought these conversations...",
+      "source_name": "CNCF",
+      "source_url": "https://www.cncf.io/blog/2026/11/07/we-organized-sustainability-month-heres-what-we-learned-%f0%9f%8c%b1/",
+      "published_at": "2026-11-07T12:30:00Z",
+      "category": "open_source_foundations",
+      "tags": [
+        "Kubernetes",
+        "GPUs",
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.87,
+      "importance_score": 0.7754,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.cncf.io/?p=177128"
+    },
+    {
+      "title": "Making any integer with four 2s (2025)",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/",
+      "published_at": "2026-11-07T22:38:58Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.644,
+      "importance_score": 0.7727,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50408713"
+    },
+    {
+      "title": "What I run on my $10 USD OpenStick homelab",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://blog.bosscher.ch/posts/openstick/",
+      "published_at": "2026-11-07T18:12:12Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7691,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50406670"
+    },
+    {
+      "title": "MaxxBench – \"Nice DeepSWE score. But is it true?\"",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://maxxbench.unlap.ai/research/why-maxxbench/",
+      "published_at": "2026-11-07T17:19:00Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7654,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50406222"
+    },
+    {
+      "title": "Writing as a thinking tool",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "http://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html",
+      "published_at": "2026-11-08T10:41:52Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.619,
+      "importance_score": 0.7604,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50412067"
+    },
+    {
+      "title": "I've spent 128 hours on Amtrak sleeper trains. Here are 6 essentials I've always packed and 4 I discovered along the way.",
+      "summary": "I've always packed comfortable clothes and plenty of entertainment on overnight Amtrak trips. After some experience, I started packing slippers.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/overnight-amtrak-train-essentials-packing-list-2026-11",
+      "published_at": "2026-11-08T18:14:01Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7593,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/overnight-amtrak-train-essentials-packing-list-2026-11"
+    },
+    {
+      "title": "Claude gets personal finance skills",
+      "summary": "Claude gets personal finance skills Superhuman AI",
+      "source_name": "Superhuman (Zain Kahn)",
+      "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5CNHFBVnhzdHdLdk1mSlVzNzctRkk2eFN4QTJwdDB4TXNTT1oyZzFpdUtWMWhiODRReUY4VnNGNU8zdnJlSzZ1ZU9zUjFWV2pLUTA5UVpTWlZIOVhEVlZwX2xObi05S0o3ZlNkNWdKQWE?oc=5",
+      "published_at": "2026-11-08T18:10:20Z",
+      "category": "ai_newsletters",
+      "tags": [
+        "AI",
+        "Ai Newsletters"
+      ],
+      "confidence_score": 0.64,
+      "importance_score": 0.759,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "CBMicEFVX3lxTE5CNHFBVnhzdHdLdk1mSlVzNzctRkk2eFN4QTJwdDB4TXNTT1oyZzFpdUtWMWhiODRReUY4VnNGNU8zdnJlSzZ1ZU9zUjFWV2pLUTA5UVpTWlZIOVhEVlZwX2xObi05S0o3ZlNkNWdKQWE"
+    },
+    {
+      "title": "I tried Ina Garten's easy cornbread. I love the recipe so much that I now make it for every Thanksgiving.",
+      "summary": "Ina Garten's brown-butter skillet cornbread is really easy to make and always a hit at holiday parties. Now I make it for every Thanksgiving dinner.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/ina-garten-easy-cornbread-recipe-2026-11",
+      "published_at": "2026-11-08T17:44:02Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7572,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/ina-garten-easy-cornbread-recipe-2026-11"
+    },
+    {
+      "title": "'Saturday Night Live' roasts Elon Musk after midterm rout: 'My car did a flip!'",
+      "summary": "Comedian Jeremy Culhane played Elon Musk during \"Weekend Update\" on \"Saturday Night Live,\" where he fielded questions about the midterm elections.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/saturday-night-live-elon-musk-jeremy-culhane-colin-jost-midterms-2026-11",
+      "published_at": "2026-11-08T16:47:53Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7533,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/saturday-night-live-elon-musk-jeremy-culhane-colin-jost-midterms-2026-11"
+    },
+    {
+      "title": "I was an international flight attendant. At 36, I'm a part-time receptionist, and I'm happier than ever.",
+      "summary": "I traded my demanding flight attendant career for a part-time receptionist job. At 36, I've found happiness in a slower, simpler life.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/flight-attendant-receptionist-career-change-happier-2026-11",
+      "published_at": "2026-11-08T16:40:01Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7527,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/flight-attendant-receptionist-career-change-happier-2026-11"
+    },
+    {
+      "title": "Twins bought homes next door to each other to create a family compound and raise their kids together",
+      "summary": "Twins Sydney and Amelia Stoker are raising their kids side by side after buying Bay Area homes next door to each other in 2022.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/twins-bought-homes-next-door-family-compound-2026-11",
+      "published_at": "2026-11-08T15:39:01Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7485,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/twins-bought-homes-next-door-family-compound-2026-11"
+    },
+    {
+      "title": "I avoided club sports because of the cost and time commitment. Now I wish I'd started sooner.",
+      "summary": "I never prioritized club sports for my kids until my youngest joined a soccer team. Now I regret not giving my older children the same opportunity.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/regret-signup-club-travel-sports-sooner-expensive-time-commitment-2026-11",
+      "published_at": "2026-11-08T14:51:01Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7452,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/regret-signup-club-travel-sports-sooner-expensive-time-commitment-2026-11"
+    },
+    {
+      "title": "Agent memory needs its OpenTelemetry moment",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.lorekit.io/blog/open-agent-memory-format",
+      "published_at": "2026-11-08T08:40:23Z",
+      "category": "aggregators",
+      "tags": [
+        "AI Agents",
+        "Hacker News"
+      ],
+      "confidence_score": 0.616,
+      "importance_score": 0.7444,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50411467"
+    },
+    {
+      "title": "I went from owning a home in a small town to renting in a big city. Life costs more, but it feels richer.",
+      "summary": "Going from owning a home in a small town in Virginia to living in a big city and renting an apartment in Washington, DC, has been good, but expensive.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/owned-home-small-town-now-renting-big-city-washington-dc-2026-11",
+      "published_at": "2026-11-08T14:23:01Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7432,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/owned-home-small-town-now-renting-big-city-washington-dc-2026-11"
+    },
+    {
+      "title": "Implant Zaps Excess Sugar Directly From Blood",
+      "summary": "Early trial hints at a radical new fix for type 2 diabetes",
+      "source_name": "IEEE Spectrum",
+      "source_url": "https://spectrum.ieee.org/type-2-diabetes-electroceutical-implant",
+      "published_at": "2026-11-08T14:00:02Z",
+      "category": "research_feeds",
+      "tags": [
+        "Research Feeds"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.7416,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://spectrum.ieee.org/type-2-diabetes-electroceutical-implant"
+    },
+    {
+      "title": "DARPA wants AI to find hidden flaws in digital markets that adversaries could exploit to wreak economic havoc",
+      "summary": "DARPA is studying how the rules governing online markets could be manipulated to cause disruption, rather than just how their systems could be hacked.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/darpa-wants-to-find-weak-points-digital-markets-2026-11",
+      "published_at": "2026-11-08T14:00:01Z",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7416,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/darpa-wants-to-find-weak-points-digital-markets-2026-11"
+    },
+    {
+      "title": "I took my kids on vacation to practice their Spanish. Our no-English rule didn't last long.",
+      "summary": "My kids attend Spanish immersion school in the US., A family trip to Puerto Rico gave us a different kind of language lesson.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/family-vacation-tested-spanish-speaking-bilingual-skills-2026-11",
+      "published_at": "2026-11-08T13:53:01Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7411,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/family-vacation-tested-spanish-speaking-bilingual-skills-2026-11"
+    },
+    {
+      "title": "Every Windows 11 app should kill Electron, and Discord just showed why",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.windowslatest.com/2026/11/06/every-windows-11-app-should-kill-electron-and-discord-just-showed-why-no-starting-screen-and-70-less-ram-even-with-two-accounts-signed-in/",
+      "published_at": "2026-11-07T11:11:15Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7399,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50403507"
+    },
+    {
+      "title": "I took my 80-year-old mother to Taiwan. I thought I'd be looking after her, but she proved me wrong.",
+      "summary": "I took my 80-year-old mom on a long international trip to Taiwan. I wasn't sure if she'd be able to keep up with the group tour, but she surprised me.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/took-80-year-old-mom-long-international-trip-surprises-2026-11",
+      "published_at": "2026-11-08T13:29:01Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7395,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/took-80-year-old-mom-long-international-trip-surprises-2026-11"
+    },
+    {
+      "title": "I love my $115,000 home in rural Japan. I'd still warn most Americans against following my lead.",
+      "summary": "Keito Swan moved from the US to Japan and bought a home there. He says Americans shouldn't do the same if they're looking for an investment.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/bought-cheap-home-rural-japan-dont-recommend-americans-2026-11",
+      "published_at": "2026-11-08T13:18:01Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7387,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/bought-cheap-home-rural-japan-dont-recommend-americans-2026-11"
+    },
+    {
+      "title": "Sailors aboard Britain's newest aircraft carrier are training to fight through darkness, rough seas, and radio silence",
+      "summary": "NATO is increasingly focused on reinforcing its northern flank amid a rise in Russian military activity across the Arctic and North Atlantic.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/newest-uk-aircraft-carrier-trains-fight-arctic-north-atlantic-winter-2026-11",
+      "published_at": "2026-11-08T13:13:01Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7384,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/newest-uk-aircraft-carrier-trains-fight-arctic-north-atlantic-winter-2026-11"
+    },
+    {
+      "title": "Every Mac comes with an (undocumented) family member classifier",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph",
+      "published_at": "2026-11-07T09:46:03Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.734,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50403097"
+    },
+    {
+      "title": "8 Best Computer Speakers (2026) After Testing 30 Pairs",
+      "summary": "After testing 30 pairs of computer speakers, these are the best computer speakers—from stereo speakers to subwoofers to surround sound systems.",
+      "source_name": "Wired",
+      "source_url": "https://www.wired.com/gallery/best-computer-speakers/",
+      "published_at": "2026-11-08T12:00:00Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7333,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "662b81aae6bf26f4a7313ad0"
+    },
+    {
+      "title": "I Used NYT Cooking’s New AI-Powered Recipe Modifier, and It’s Actually Pretty Good",
+      "summary": "The New York Times has added a beta feature to its Cooking app that helps readers swap ingredients or adjust recipes to suit their needs. It mostly hits the mark.",
+      "source_name": "Wired",
+      "source_url": "https://www.wired.com/story/nyt-cooking-new-ai-powered-recipe-modifier-is-pretty-good/",
+      "published_at": "2026-11-08T12:00:00Z",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7333,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "6aed1403f979e2b672d1308c"
+    },
+    {
+      "title": "Wandrd’s Magnetic Camera Straps Are My New Favorite Accessory",
+      "summary": "More evidence that magnets are magical.",
+      "source_name": "Wired",
+      "source_url": "https://www.wired.com/story/wandrd-magnetic-camera-straps-are-my-new-favorite-accessory/",
+      "published_at": "2026-11-08T11:30:00Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7312,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "6aedfa1b872401bb1cbf6303"
+    },
+    {
+      "title": "Doom delivers five minutes of terminal violence on an IBM mainframe",
+      "summary": "Browser demo renders the classic shooter in ASCII, with no login required and considerable squinting encouraged",
+      "source_name": "The Register",
+      "source_url": "https://www.theregister.com/offbeat/2026/11/08/doom-delivers-five-minutes-of-terminal-violence-on-an-ibm-mainframe/5308092",
+      "published_at": "2026-11-08T11:19:00Z",
+      "category": "enterprise_technology",
+      "tags": [
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7304,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.theregister.com/a/5308092"
+    },
+    {
+      "title": "How to Remind Your Boss of Your PTO Without Pissing Them Off",
+      "summary": "The next time you take paid time off, your boss and coworkers will remember if you follow this advice.",
+      "source_name": "Wired",
+      "source_url": "https://www.wired.com/story/how-to-remind-your-boss-about-your-vacation/",
+      "published_at": "2026-11-08T11:00:00Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7291,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "6ae8f97ce744a53ef57b2583"
+    },
+    {
+      "title": "A 55-Year-Old Math Problem Was Solved—This Time by Humans",
+      "summary": "A group of young mathematicians found the solution to the long unanswered conjecture, first inspired by juggling, through randomness and friendship.",
+      "source_name": "Wired",
+      "source_url": "https://www.wired.com/story/a-55-year-old-math-problem-was-solved-this-time-by-humans/",
+      "published_at": "2026-11-08T10:30:00Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.727,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "6aebd3810d7423bc23450349"
+    },
+    {
+      "title": "6 Best Touchscreen Gloves (2026) Knitted, Waterproof, Leather, and More",
+      "summary": "We braved the cold to answer a modern dilemma: Can you keep your hands warm and use a smartphone at the same time?",
+      "source_name": "Wired",
+      "source_url": "https://www.wired.com/gallery/best-touchscreen-gloves/",
+      "published_at": "2026-11-08T10:00:00Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7249,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "61af6ef8d184762c75e0040d"
+    },
+    {
+      "title": "The Apple MacBook Pro M5 is on Sale, and a Top MacBook to Buy Right Now",
+      "summary": "Apple announced an updated 14-inch MacBook Pro with the latest M6 chip. But with the M5 model on sale, I’m not sure the M6 is worth the upgrade.",
+      "source_name": "Wired",
+      "source_url": "https://www.wired.com/story/macbook-pro-m5-deal-11-6-2026/",
+      "published_at": "2026-11-08T10:00:00Z",
+      "category": "mainstream_press",
+      "tags": [
+        "AI Models",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7249,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "6aee0d7c8f04ba0cb07255aa"
+    },
+    {
+      "title": "World Models Will Soon Be Inescapable. Here’s What You Need to Know",
+      "summary": "Moving AI from text to 3D space, world models simulate real-world physics to teach robots and autonomous cars how to navigate reality.",
+      "source_name": "Wired",
+      "source_url": "https://www.wired.com/story/world-models-will-soon-be-inescapable-what-you-need-to-know/",
+      "published_at": "2026-11-08T10:00:00Z",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "AI Models",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7249,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "6ae4b7e754bf7a084fa1ea61"
+    },
+    {
+      "title": "Internet governance about to get its quadrennial stress test at ITU meeting",
+      "summary": "278 proposals on table, and some fear they might shift power to governments",
+      "source_name": "The Register",
+      "source_url": "https://www.theregister.com/networks/2026/11/08/internet-governance-about-to-get-its-quadrennial-stress-test-at-itu-meeting/5308031",
+      "published_at": "2026-11-08T09:33:00Z",
+      "category": "enterprise_technology",
+      "tags": [
+        "Data Governance",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7231,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.theregister.com/a/5308031"
+    },
+    {
+      "title": "ChatGPT gets GIFs & a new startup creates lifelike avatars",
+      "summary": "ChatGPT gets GIFs & a new startup creates lifelike avatars Superhuman AI",
+      "source_name": "Superhuman (Zain Kahn)",
+      "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdk1RNmtQUXh0VXdudEtEU1huTk0xY00wdFR4bUVGSWJnR1k4VGNoZjVGQ3JYMTBLVkdqdnBGTURGVDJsTkxEb2FkT2NzYUlYalozUmRncjN0MEplZEF5dktZTVk2TFppdTBqa0E0TXc3VWhlUzlhajVfSFdzZi1WczV0MDBCNzdqaXkzVw?oc=5",
+      "published_at": "2026-11-07T19:25:44Z",
+      "category": "ai_newsletters",
+      "tags": [
+        "AI",
+        "Ai Newsletters"
+      ],
+      "confidence_score": 0.64,
+      "importance_score": 0.6642,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "CBMijAFBVV95cUxNdk1RNmtQUXh0VXdudEtEU1huTk0xY00wdFR4bUVGSWJnR1k4VGNoZjVGQ3JYMTBLVkdqdnBGTURGVDJsTkxEb2FkT2NzYUlYalozUmRncjN0MEplZEF5dktZTVk2TFppdTBqa0E0TXc3VWhlUzlhajVfSFdzZi1WczV0MDBCNzdqaXkzVw"
+    },
+    {
+      "title": "Speed Up Image Generation with FLUX 3 Image Klein on NVIDIA Blackwell GPUs",
+      "summary": "When deploying diffusion models in design tools, image editors, and visual production workflows, developers must account for inference latency. Generating an...",
+      "source_name": "NVIDIA Developer Blog",
+      "source_url": "https://developer.nvidia.com/blog/speed-up-image-generation-with-flux-3-image-klein-on-nvidia-blackwell-gpus/",
+      "published_at": "2026-11-06T22:20:20Z",
+      "category": "mlops",
+      "tags": [
+        "GPUs",
+        "AI Models",
+        "Mlops"
+      ],
+      "confidence_score": 0.87,
+      "importance_score": 0.6564,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://developer.nvidia.com/blog/?p=124785"
+    },
+    {
+      "title": "Beyond code generation: A developer’s guide to agentic engineering",
+      "summary": "Writing code got faster. The work around it didn't. See how you can plan, write code, review changes, and investigate production issues with GitHub Copilot, and what work still needs your judgment. The post Beyond code generation: A developer’s guide to agentic engineering appeared first on The GitHub Blog .",
+      "source_name": "The GitHub Blog",
+      "source_url": "https://github.blog/ai-and-ml/github-copilot/beyond-code-generation-a-developers-guide-to-agentic-engineering/",
+      "published_at": "2026-11-06T22:15:59Z",
+      "category": "developer_platforms",
+      "tags": [
+        "AI Agents",
+        "Developer Tools",
+        "Developer Platforms"
+      ],
+      "confidence_score": 0.9,
+      "importance_score": 0.6561,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://github.blog/?p=100047"
+    },
+    {
+      "title": "Store and process large strings in Amazon Redshift SUPER columns",
+      "summary": "Storing large semi-structured data such as JSON and arrays in a data warehouse often means splitting or truncating your data. With PartiQL and the SUPER data type, Amazon Redshift is now equipped to handle these issues. In this post, we walk you through three key SUPER data type enhancements that simplify semi-structured data workflows and reduce common migration challenges.",
+      "source_name": "AWS Big Data Blog",
+      "source_url": "https://aws.amazon.com/blogs/big-data/store-and-process-large-strings-in-amazon-redshift-super-columns/",
+      "published_at": "2026-11-06T20:19:36Z",
+      "category": "cloud_providers",
+      "tags": [
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.9,
+      "importance_score": 0.648,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "44d8182057e0bbb730bc016bf67b10a6231921c2"
+    },
+    {
+      "title": "These Solar Panels Stay Cool in Hot Climates",
+      "summary": "New tech tested in Iraq could boost energy efficiency",
+      "source_name": "IEEE Spectrum",
+      "source_url": "https://spectrum.ieee.org/solar-panel-cooling",
+      "published_at": "2026-11-07T14:00:01Z",
+      "category": "research_feeds",
+      "tags": [
+        "Research Feeds"
+      ],
+      "confidence_score": 0.87,
+      "importance_score": 0.6416,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://spectrum.ieee.org/solar-panel-cooling"
+    },
+    {
+      "title": "Claude Code's “Don't Ask Again” File Exposes Passwords and Keys in 1,122 Public Copies on GitHub",
+      "summary": "Passwords and API keys that developers typed into commands they approved in Claude Code are sitting in public GitHub repositories, where anyone can read them. When a user selects \"Yes, and don't ask again,\" Anthropic's AI coding assistant can save the command, word-for-word, including the secret, in a project settings file. Software security company Apiiro said yesterday that 1,122 public",
+      "source_name": "The Hacker News",
+      "source_url": "https://thehackernews.com/2026/11/claude-codes-dont-ask-again-file.html",
+      "published_at": "2026-11-07T06:44:17Z",
+      "category": "cybersecurity",
+      "tags": [
+        "AI",
+        "Security",
+        "Developer Tools",
+        "APIs",
+        "Cybersecurity"
+      ],
+      "confidence_score": 0.74,
+      "importance_score": 0.6114,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://thehackernews.com/2026/11/claude-codes-dont-ask-again-file.html"
+    }
+  ]
+}
