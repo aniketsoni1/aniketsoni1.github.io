@@ -1,0 +1,834 @@
+{
+  "generated_at": "2026-11-09T23:01:42.368435+00:00",
+  "post_date": "2026-11-09",
+  "sources_checked": 48,
+  "candidates": 45,
+  "items": [
+    {
+      "title": "ChatGPT Enterprise now available in AWS Marketplace",
+      "summary": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+      "published_at": "2026-11-09T19:00:00+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "AWS",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.99,
+      "importance_score": 0.8832,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/index/chatgpt-enterprise-aws-marketplace"
+    },
+    {
+      "title": "New research: Virtual machines remain central to cloud native infrastructure as AI workloads evolve",
+      "summary": "A Linux Foundation Research study, sponsored by CNCF and Broadcom, explores how organizations are using virtual machines alongside containers, and the growing importance of workload isolation for AI. Cloud native infrastructure continues to evolve as organizations...",
+      "source_name": "CNCF",
+      "source_url": "https://www.cncf.io/blog/2026/11/09/new-research-virtual-machines-remain-central-to-cloud-native-infrastructure-as-ai-workloads-evolve/",
+      "published_at": "2026-11-09T14:00:00+00:00",
+      "category": "open_source_foundations",
+      "tags": [
+        "AI",
+        "Cloud",
+        "Research",
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8624,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.cncf.io/?p=176815"
+    },
+    {
+      "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+      "summary": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/control-room",
+      "published_at": "2026-11-09T13:00:00+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "Security",
+        "AI Models",
+        "Research",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.99,
+      "importance_score": 0.8582,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/index/control-room"
+    },
+    {
+      "title": "Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://artificialanalysis.ai/models/claude-fable-5-2",
+      "published_at": "2026-11-09T20:04:55+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.65,
+      "importance_score": 0.8577,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50431144"
+    },
+    {
+      "title": "USPS now offers official ZIP Code boundary polygons",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://postalpro.usps.com/zcb",
+      "published_at": "2026-11-09T19:58:59+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.8573,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50431058"
+    },
+    {
+      "title": "Run Linux applications in hypervisor-isolated micro-VMs with Hyperlight",
+      "summary": "More and more cloud native systems run code nobody on the team wrote: the Python an AI agent generated a second ago, or a plugin a customer just uploaded. Each of them needs a boundary between...",
+      "source_name": "CNCF",
+      "source_url": "https://www.cncf.io/blog/2026/11/09/run-linux-applications-in-hypervisor-isolated-micro-vms-with-hyperlight/",
+      "published_at": "2026-11-09T12:00:00+00:00",
+      "category": "open_source_foundations",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Cloud",
+        "Python",
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8541,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.cncf.io/?p=177108"
+    },
+    {
+      "title": "Claude Fable 5.2 and Mythos 5.2",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+      "published_at": "2026-11-09T18:56:29+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.853,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50429906"
+    },
+    {
+      "title": "E-means: 10x faster k-means at equal loss",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://e-means.github.io/",
+      "published_at": "2026-11-09T18:45:43+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.6575,
+      "importance_score": 0.8522,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50429734"
+    },
+    {
+      "title": "Google Gemini routes personal Drive files and emails to human annotators",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://github.com/thisisme6598/gemini_files/",
+      "published_at": "2026-11-09T18:24:38+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.666,
+      "importance_score": 0.8508,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50429426"
+    },
+    {
+      "title": "Our Smallest, Most Efficient Model: Muse Ember",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://research.meta.ai/blog/muse-ember",
+      "published_at": "2026-11-09T17:58:46+00:00",
+      "category": "aggregators",
+      "tags": [
+        "AI Models",
+        "Hacker News"
+      ],
+      "confidence_score": 0.655,
+      "importance_score": 0.849,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50429024"
+    },
+    {
+      "title": "When will this stop? The Raspberry Pi 5 16GB SBC now sells for $385",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.cnx-software.com/2026/11/03/when-will-this-stop-the-raspberry-pi-5-16gb-sbc-now-sells-for-385/",
+      "published_at": "2026-11-09T17:42:55+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.6815,
+      "importance_score": 0.8479,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50428801"
+    },
+    {
+      "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy",
+      "published_at": "2026-11-09T16:00:45+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.8408,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50427362"
+    },
+    {
+      "title": "CodeRabbit scales agentic software development and ships 20x more",
+      "summary": "CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team.",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/coderabbit-codex-daybreak",
+      "published_at": "2026-11-09T08:00:00+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "AI Models",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.99,
+      "importance_score": 0.8374,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/index/coderabbit-codex-daybreak"
+    },
+    {
+      "title": "Kuken Industries searches 70 years of drawings in minutes",
+      "summary": "Kuken Industries uses the OpenAI API to search 70 years of cooling tower drawings. Engineers can find the drawing for a repair in 4.5 minutes, down from nearly an hour.",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/kuken",
+      "published_at": "2026-11-09T08:00:00+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "APIs",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.99,
+      "importance_score": 0.8374,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/index/kuken"
+    },
+    {
+      "title": "Introducing the Workday Data Cloud integration with AWS",
+      "summary": "Workday Data Cloud now integrates with AWS, giving developers bi-directional, zero-copy access to Workday's governed people and money data from the AWS analytics and AI services they already use, without brittle pipelines or data duplication.",
+      "source_name": "AWS Big Data Blog",
+      "source_url": "https://aws.amazon.com/blogs/big-data/introducing-the-workday-data-cloud-integration-with-aws/",
+      "published_at": "2026-11-09T22:21:40+00:00",
+      "category": "cloud_providers",
+      "tags": [
+        "AI",
+        "Data Pipelines",
+        "Cloud",
+        "AWS",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.92,
+      "importance_score": 0.8372,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "d46ce62b1d2fd865df5ed2cb47c9d4611c31a0b7"
+    },
+    {
+      "title": "Magenta solar panels may be agrivoltaics' cleverest trick yet",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.anthropocenemagazine.org/2026/10/magenta-solar-panels-may-be-agrivoltaics-cleverest-trick-yet/",
+      "published_at": "2026-11-09T14:31:39+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.6705,
+      "importance_score": 0.8346,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50426175"
+    },
+    {
+      "title": "Define metrics once and keep them correct with the dbt Semantic Layer on Amazon Redshift",
+      "summary": "Amazon Redshift has no native semantic layer, yet teams still need consistent, governed metric definitions across BI tools. This post shows how to define a metric once with the open-source dbt Semantic Layer (MetricFlow) on Amazon Redshift so it stays correct at any grain, and proves a non-additive weekly average comes out right ($280, not $550).",
+      "source_name": "AWS Big Data Blog",
+      "source_url": "https://aws.amazon.com/blogs/big-data/define-metrics-once-and-keep-them-correct-with-the-dbt-semantic-layer-on-amazon-redshift/",
+      "published_at": "2026-11-09T20:17:13+00:00",
+      "category": "cloud_providers",
+      "tags": [
+        "Open Source",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.92,
+      "importance_score": 0.8286,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "491111bdbc04e39478f4a4cb433ed6fa54108d15"
+    },
+    {
+      "title": "Assess and track your Amazon Redshift RA3 to RG modernization with CUDOS",
+      "summary": "The CUDOS 5.10 dashboard adds an Amazon Redshift RA3-to-RG section that helps you assess the cost-efficiency opportunity of moving to Graviton-based RG instances, track adoption as your instance-generation mix shifts, and quantify the gains already achieved on RG.",
+      "source_name": "AWS Big Data Blog",
+      "source_url": "https://aws.amazon.com/blogs/big-data/assess-and-track-your-amazon-redshift-ra3-to-rg-modernization-with-cudos/",
+      "published_at": "2026-11-09T20:11:01+00:00",
+      "category": "cloud_providers",
+      "tags": [
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.92,
+      "importance_score": 0.8282,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "465a150a53ab756ba858a4a058572b56148528cc"
+    },
+    {
+      "title": "Fold Epic Paper Airplanes",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.foldableflight.com",
+      "published_at": "2026-11-09T12:19:22+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.8254,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50424581"
+    },
+    {
+      "title": "Make a Robot Arm Feel Weightless with NVIDIA Holoscan 5",
+      "summary": "Picture guiding a robot arm by hand while its motors supply just enough torque to support its weight and keep the robot upright. This simple interaction, a...",
+      "source_name": "NVIDIA Developer Blog",
+      "source_url": "https://developer.nvidia.com/blog/make-a-robot-arm-feel-weightless-with-nvidia-holoscan-5/",
+      "published_at": "2026-11-09T19:09:32+00:00",
+      "category": "mlops",
+      "tags": [
+        "GPUs",
+        "Mlops"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8239,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://developer.nvidia.com/blog/?p=124655"
+    },
+    {
+      "title": "Show HN: Every satellite that passed over any place this week, and its photos",
+      "summary": "hey HN, i built this because i wanted to know what had actually photographed my street. type in any place and it finds every satellite that passed over it in the last 7 days (SGP4 on the CelesTrak catalog, runs in your browser in about half a second), then pulls the real Sentinel-2 / Landsat / NASA…",
+      "source_name": "Hacker News",
+      "source_url": "https://www.watched.earth",
+      "published_at": "2026-11-09T17:51:31+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.64,
+      "importance_score": 0.8235,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50428907"
+    },
+    {
+      "title": "What is malloc doing, anyway?",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://benmandrew.com/articles/what-is-malloc-doing-anyway",
+      "published_at": "2026-11-09T11:31:05+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.651,
+      "importance_score": 0.822,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50424157"
+    },
+    {
+      "title": "Amazon Athena introduces system tables for query execution observability",
+      "summary": "Amazon Athena now offers system tables: SQL-queryable, per-query execution metadata stored as Apache Iceberg in your own account. This post walks through what system tables are, how to turn them on, and how to use them for usage analysis, cost attribution, performance trends, audit, and capacity optimization without custom pipelines.",
+      "source_name": "AWS Big Data Blog",
+      "source_url": "https://aws.amazon.com/blogs/big-data/amazon-athena-introduces-system-tables-for-query-execution-observability/",
+      "published_at": "2026-11-09T18:06:44+00:00",
+      "category": "cloud_providers",
+      "tags": [
+        "Data Pipelines",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.92,
+      "importance_score": 0.8195,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "cee77cfc0389641082720d839f3d8db741dcbbb9"
+    },
+    {
+      "title": "AWS Weekly Roundup: AgentCore Runtime V2, Amazon DynamoDB bulk put items, and more (November 9, 2026)",
+      "summary": "Most of the cost of adopting something new isn’t the new thing, it’s the move. Moving a Hive table to Apache Iceberg has typically meant weeks of engineering work. Last week, Amazon S3 Tables turned that into three steps: start, sync as often as you need, complete. The source stays writable except for a few […]",
+      "source_name": "AWS News Blog",
+      "source_url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-agentcore-runtime-v2-amazon-dynamodb-bulk-put-items-and-more-november-9-2026/",
+      "published_at": "2026-11-09T17:55:26+00:00",
+      "category": "cloud_providers",
+      "tags": [
+        "AI Agents",
+        "AWS",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.8188,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "92fb165d30993e71e0cdd70801398f45f9518c7d"
+    },
+    {
+      "title": "New survey finds enterprises trapped between legacy software and AI modernization",
+      "summary": "Throughout my career in cybersecurity and infrastructure protection — both in government and now at Google Cloud — I have consistently seen that friction between new and existing technology is often a barrier to progress. A new piece of software or service may work wonderfully on its own but then it’s placed within a complex, interconnected IT environment and lost in the operational inertia. Today, enterprise technology is experiencing a historic transformation…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/products/ai-machine-learning/new-survey-finds-enterprises-trapped-between-legacy-software-and-ai-modernization/",
+      "published_at": "2026-11-09T17:00:00+00:00",
+      "category": "cloud_providers",
+      "tags": [
+        "AI",
+        "Cloud",
+        "Google Cloud",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.8149,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/products/ai-machine-learning/new-survey-finds-enterprises-trapped-between-legacy-software-and-ai-modernization/"
+    },
+    {
+      "title": "Cloud CISO Perspectives: Our security forecast for 2027",
+      "summary": "Welcome to the first Cloud CISO Perspectives for November 2026. Today, Chris Betz shares our security forecast for 2027, with insights from top leaders at Google, Google Cloud, and Mandiant. As with all Cloud CISO Perspectives, the contents of this newsletter are posted to the Google Cloud blog . If you’re reading this on the website and you’d like to receive the email version, you can subscribe here . aside_block <ListValue: [StructValue([('title', 'Get vital board insights…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-our-security-forecast-2027/",
+      "published_at": "2026-11-09T16:00:00+00:00",
+      "category": "cloud_providers",
+      "tags": [
+        "Cloud",
+        "Google Cloud",
+        "Security",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.8107,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-our-security-forecast-2027/"
+    },
+    {
+      "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
+      "summary": "",
+      "source_name": "Hugging Face",
+      "source_url": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
+      "published_at": "2026-11-09T15:05:57+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.9,
+      "importance_score": 0.807,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan"
+    },
+    {
+      "title": "Is Opus 5.5 nerfed? Thinking patterns changed on November 3",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://twitter.com/shanemelaugh/status/2119192075505893695",
+      "published_at": "2026-11-09T07:04:25+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.8035,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50422069"
+    },
+    {
+      "title": "Practice Makes Precise: At CoRL, NVIDIA and Partners Reveal How Robots Rehearse Delicate Work in Simulation",
+      "summary": "Simulation, which has long been the proving ground for robots learning to walk, roll and hop, is now helping researchers teach robots tasks that require a finer touch: aligning gears, connecting cables and assembling small components. The shift from locomotion to manipulation is taking center stage at this week’s Conference on Robot Learning (CoRL) in […]",
+      "source_name": "NVIDIA Blog",
+      "source_url": "https://blogs.nvidia.com/blog/robotics-simulation-advancements-corl/",
+      "published_at": "2026-11-09T14:00:01+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "GPUs",
+        "Research",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8024,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://blogs.nvidia.com/?p=99751"
+    },
+    {
+      "title": "Atlas Data Federation and Online Archive Can Now Be Deployed in Azure",
+      "summary": "Exciting developments are on the horizon for users of Microsoft Azure, marking a significant leap in data management capabilities. First off, Atlas Data Federation is now Generally Available on Azure. Atlas Data Federation is now generally available for deployment in Azure. An Azure deployment can query data in Microsoft Azure Blob Storage, alongside other supported sources. And that's not all. We've also launched the General Availability of Atlas Online Archive on Azure…",
+      "source_name": "MongoDB Blog",
+      "source_url": "https://www.mongodb.com/company/blog/product-release-announcements/atlas-data-federation-online-archive-can-now-be-deployed-in-azure",
+      "published_at": "2026-11-09T13:22:06+00:00",
+      "category": "databases",
+      "tags": [
+        "Azure",
+        "Databases"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7998,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.mongodb.com/company/blog/product-release-announcements/atlas-data-federation-online-archive-can-now-be-deployed-in-azure"
+    },
+    {
+      "title": "AI Search for Agents: Announcing Automated Embedding in MongoDB Atlas",
+      "summary": "Automated Embedding is now available in Public Preview on MongoDB Atlas . When we introduced Automated Embedding to MongoDB Vector Search in MongoDB Community Edition , we started from a single principle: developers building agentic applications shouldn't have to operate a parallel embedding pipeline just to search their own data. That release proved the pattern: text in, text out, no client-side embedding code. On MongoDB Atlas, it goes further, using Voyage AI embedding…",
+      "source_name": "MongoDB Blog",
+      "source_url": "https://www.mongodb.com/company/blog/product-release-announcements/ai-search-for-agents-announcing-automated-embedding-atlas",
+      "published_at": "2026-11-09T13:17:29+00:00",
+      "category": "databases",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Data Pipelines",
+        "Vector Databases",
+        "Databases"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7994,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.mongodb.com/company/blog/product-release-announcements/ai-search-for-agents-announcing-automated-embedding-atlas"
+    },
+    {
+      "title": "Introducing TPU Sync: Fast KV cache and weight transfer for inference and RL on TPU",
+      "summary": "As frontier AI evolves from stateless single-turn prompts to million-token agents, disaggregated serving, and continuous reinforcement learning (RL), the primary bottleneck in AI infrastructure has shifted from raw compute to orchestrating live model state — both the contextual state held in massive key-value (KV) caches during inference and the parameter state updated and broadcast from trainers to rollout samplers during RL. Whenever this state is trapped inside a single…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/topics/ai-infrastructure/introducing-tpu-sync-fast-kv-cache-and-weight-transfer-on-tpu/",
+      "published_at": "2026-11-09T13:00:00+00:00",
+      "category": "cloud_providers",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "AI Models",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.7982,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/topics/ai-infrastructure/introducing-tpu-sync-fast-kv-cache-and-weight-transfer-on-tpu/"
+    },
+    {
+      "title": "Now generally available: GKE dynamic slicing for higher resilience, and efficiency for TPUs",
+      "summary": "Running large-scale AI workloads on TPU and Google Kubernetes Engine (GKE) requires infrastructure that adapts as fast as your models change. Dynamic Slicing is generally available on GKE, which decouples logical TPU slice formation from physical nodepool provisioning. Compared to creating a static nodepool for each TPU slice, dynamic slicing reduces AI workload startup times by up to 5x and workload recovery by 4.5x — maximizing TPU goodput, efficiency, and workload…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/products/containers-kubernetes/gke-dynamic-slicing-on-tpus/",
+      "published_at": "2026-11-09T13:00:00+00:00",
+      "category": "cloud_providers",
+      "tags": [
+        "AI",
+        "Kubernetes",
+        "AI Models",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.7982,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/products/containers-kubernetes/gke-dynamic-slicing-on-tpus/"
+    },
+    {
+      "title": "Our newest TPUs: 8tx and 8i Max, built for the agentic era",
+      "summary": "Editor’s note: This blog was originally published on News from Google . We first designed TPUs more than a decade ago motivated by Google’s internal demands, including voice recognition and language translation. Eight generations of TPUs later, the use cases have exploded, covering: i) training and serving our own Gemini models, ii) agentic workloads, iii) delivering services to Google Cloud customers on our cloud infrastructure, and most recently, iv) allowing customers to…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/topics/ai-infrastructure/tpu-8tx-and-tpu-8i-max/",
+      "published_at": "2026-11-09T13:00:00+00:00",
+      "category": "cloud_providers",
+      "tags": [
+        "AI Agents",
+        "Cloud",
+        "Google Cloud",
+        "AI Models",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.7982,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/topics/ai-infrastructure/tpu-8tx-and-tpu-8i-max/"
+    },
+    {
+      "title": "NVIDIA Announces New Planned Investments in Korean Startups at the MSIT-NVIDIA AI Startup Partnership Forum",
+      "summary": "Korea’s Ministry of Science and ICT and NVIDIA hosted the MSIT-NVIDIA AI Startup Partnership Forum at COEX. Ryu Je-myung, vice minister of science and ICT, joined NVIDIA leaders to meet with over 20 Korean startups across foundation models, physical AI, AI infrastructure and AI semiconductors. NVIDIA also announced an investment in Korean startup Point2, with […]",
+      "source_name": "NVIDIA Blog",
+      "source_url": "https://blogs.nvidia.com/blog/korean-startup-investments-msit/",
+      "published_at": "2026-11-09T08:00:53+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "GPUs",
+        "AI Models",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.7775,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://blogs.nvidia.com/?p=99744"
+    },
+    {
+      "title": "Waymo Said It Fixed Its School Bus Problem. The US Government Says It Didn’t Work",
+      "summary": "Last year, Waymo recalled its software after several of its autonomous cars drove around stopped buses. But the problems remained. Now the feds want to know more.",
+      "source_name": "Wired",
+      "source_url": "https://www.wired.com/story/waymo-school-bus-problem-the-us-government-says-it-didnt-work/",
+      "published_at": "2026-11-09T22:40:10+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7585,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "6af237d52008482926d88954"
+    },
+    {
+      "title": "The internet is roasting Jensen Huang's rough start to the week",
+      "summary": "The internet is making light of Jensen Huang's decidedly dark start to the week by letting the memes rip.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/jensen-huang-affair-memes-2026-11",
+      "published_at": "2026-11-09T22:21:09+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7572,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/jensen-huang-affair-memes-2026-11"
+    },
+    {
+      "title": "Never Share Your Password Again — The OAuth 2.0 Solution",
+      "summary": "",
+      "source_name": "Stack Overflow Blog",
+      "source_url": "https://stackoverflow.blog/2026/11/09/never-share-your-password-again-the-oauth-2-0-solution/",
+      "published_at": "2026-11-09T20:50:38+00:00",
+      "category": "developer_platforms",
+      "tags": [
+        "Developer Platforms"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7509,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "fbc0f8b8-fad5-49c5-b515-a7ab8cf42768"
+    },
+    {
+      "title": "The backlash about data centers might really just be about electricity",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. As voters went to the polls across the US last week, I was in Ashburn, Virginia, part of what’s known as Data Center Alley—the world’s largest data center hub. It’s also where…",
+      "source_name": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/",
+      "published_at": "2026-11-09T19:35:33+00:00",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.7457,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.technologyreview.com/?p=1148194"
+    },
+    {
+      "title": "How to design a decision-grade pilot for agentic AI",
+      "summary": "Agentic AI changes the nature of a technology evaluation. When an AI system only generates an answer, a person reviews the output and decides whether to use it. An agent goes further: It gathers context, selects tools, makes decisions, and executes a sequence of actions across the software development lifecycle. The central question for a pilot is therefore not whether the agent can produce an impressive result. It is: What evidence would be sufficient to authorize this…",
+      "source_name": "GitLab Blog",
+      "source_url": "https://about.gitlab.com/blog/how-to-develop-a-decision-grade-ai-pilot/",
+      "published_at": "2026-11-09T00:00:00+00:00",
+      "category": "developer_platforms",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Developer Platforms"
+      ],
+      "confidence_score": 0.86,
+      "importance_score": 0.7441,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://about.gitlab.com/blog/how-to-develop-a-decision-grade-ai-pilot/"
+    },
+    {
+      "title": "Hackers Exploit Qubole's Trusted AWS Access to Breach Customer Accounts and Steal Data",
+      "summary": "An attacker broke into AWS accounts belonging to multiple Qubole customers between October 14 and October 26 and stole stored secrets and data, cloud security company Wiz said today. The attacker used credentials for an AWS account that Qubole's platform uses to reach those customers. How the attacker got those credentials has not been disclosed. Qubole, a data lake platform owned by Idera,",
+      "source_name": "The Hacker News",
+      "source_url": "https://thehackernews.com/2026/11/hackers-exploit-quboles-trusted-aws.html",
+      "published_at": "2026-11-09T17:51:21+00:00",
+      "category": "cybersecurity",
+      "tags": [
+        "Cloud",
+        "AWS",
+        "Security",
+        "Cybersecurity"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7385,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://thehackernews.com/2026/11/hackers-exploit-quboles-trusted-aws.html"
+    },
+    {
+      "title": "Hackers Compromise Ethersphere's bee-js and Swarm Desktop to Deliver Wallet-Stealing Malware",
+      "summary": "Attackers used the Ethersphere project's own release automation to publish malicious versions of two of its tools for the Swarm decentralized storage network: bee-js 13.3.0 and Swarm Desktop 0.56.2. Both releases download and run code built to steal the wallet key that Swarm Desktop keeps for its node, along with the stored password that unlocks it. The code is also built to install a backdoor",
+      "source_name": "The Hacker News",
+      "source_url": "https://thehackernews.com/2026/11/hackers-compromise-etherspheres-bee-js.html",
+      "published_at": "2026-11-09T17:36:28+00:00",
+      "category": "cybersecurity",
+      "tags": [
+        "Cybersecurity"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7374,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://thehackernews.com/2026/11/hackers-compromise-etherspheres-bee-js.html"
+    },
+    {
+      "title": "Nancy Pelosi’s replacement is ready to regulate AI",
+      "summary": "As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after winning a tight congressional race for former Speaker of the House Nancy Pelosi’s open San Francisco seat, he could play a key role in setting federal AI policy. I spoke with Wiener on Friday, only a…",
+      "source_name": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/",
+      "published_at": "2026-11-09T17:05:43+00:00",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.7353,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.technologyreview.com/?p=1148182"
+    },
+    {
+      "title": "Nvidia's CEO had an affair with an alleged Chinese spy",
+      "summary": "Nvidia's CEO had an affair with an alleged Chinese spy Superhuman AI",
+      "source_name": "Superhuman (Zain Kahn)",
+      "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMTVyeTFsd3JrdlVGVWtOYU1mckJwcENjZWpyMXhQYXZVMVBRVjJZNEh4N2pkWUNFYTdvV2szcENOelgzZkVycHBXVk1lUE1xaU5Fc1Q4WlkxTEZtYmtSQWhhbjFDWFdsMFU0MlRsQXhjUzQ3TVA2SlBZSC1TMHd1by1YYkZ4Z0kyNUE?oc=5",
+      "published_at": "2026-11-09T13:52:55+00:00",
+      "category": "ai_newsletters",
+      "tags": [
+        "AI",
+        "GPUs",
+        "Ai Newsletters"
+      ],
+      "confidence_score": 0.64,
+      "importance_score": 0.7219,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "CBMiigFBVV95cUxNMTVyeTFsd3JrdlVGVWtOYU1mckJwcENjZWpyMXhQYXZVMVBRVjJZNEh4N2pkWUNFYTdvV2szcENOelgzZkVycHBXVk1lUE1xaU5Fc1Q4WlkxTEZtYmtSQWhhbjFDWFdsMFU0MlRsQXhjUzQ3TVA2SlBZSC1TMHd1by1YYkZ4Z0kyNUE"
+    },
+    {
+      "title": "Huang Admits Affair With Suspected Spy",
+      "summary": "Plus: Fuji TV Tests AI on Its Dramas, Accenture Hallucinated by Hand",
+      "source_name": "AI Secret",
+      "source_url": "https://aisecret.us/huang-admits-affair-with-suspected-spy/",
+      "published_at": "2026-11-09T13:30:51+00:00",
+      "category": "ai_newsletters",
+      "tags": [
+        "AI",
+        "Ai Newsletters"
+      ],
+      "confidence_score": 0.64,
+      "importance_score": 0.7204,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "6aec25f09f379b89dcb8417f"
+    }
+  ]
+}
