@@ -1,0 +1,845 @@
+{
+  "generated_at": "2026-11-10T20:30:26.334668+00:00",
+  "post_date": "2026-11-10",
+  "sources_checked": 48,
+  "candidates": 45,
+  "items": [
+    {
+      "title": "Gemini Intelligence: New features, on more devices",
+      "summary": "A man speaks into a phone. Text on the screen reads 'Gemini Intelligence'",
+      "source_name": "Google AI (The Keyword)",
+      "source_url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/",
+      "published_at": "2026-11-10T19:00:00+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.8938,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/"
+    },
+    {
+      "title": "New Data Shows Sales Agents Are Rescuing the Sales Cycle",
+      "summary": "Nobody gets into sales to do data entry. Sellers want to build relationships and close deals, yet the average seller spends 60% of their time on non-selling activities like manually updating CRM systems and researching accounts. Sales leaders feel the pain, too; relying on data that reps have to enter manually leaves the critical deal […]",
+      "source_name": "Salesforce News",
+      "source_url": "https://www.salesforce.com/news/stories/how-ai-agents-improve-crm-data-accuracy/",
+      "published_at": "2026-11-10T17:00:00+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI Agents",
+        "Research",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.8854,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.salesforce.com/?p=96368"
+    },
+    {
+      "title": "Gemini 4 Carbon is now available",
+      "summary": "",
+      "source_name": "Google DeepMind",
+      "source_url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
+      "published_at": "2026-11-10T16:03:47+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.97,
+      "importance_score": 0.8815,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/"
+    },
+    {
+      "title": "CNCF Welcomes Twelve New Members as Organizations Look to Run AI Agents on Open, Sovereign Infrastructure",
+      "summary": "Organizations join the cloud native community to strengthen security, visibility, and control for production AI Key Highlights KUBECON + CLOUDNATIVECON NORTH AMERICA, SALT LAKE CITY – November 10, 2026 – The Cloud Native Computing Foundation® (CNCF®),...",
+      "source_name": "CNCF",
+      "source_url": "https://www.cncf.io/announcements/2026/11/10/cncf-welcomes-twelve-new-members-as-organizations-look-to-run-ai-agents-on-open-sovereign-infrastructure/",
+      "published_at": "2026-11-10T16:00:00+00:00",
+      "category": "open_source_foundations",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Cloud",
+        "Security",
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8813,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.cncf.io/?p=177328"
+    },
+    {
+      "title": "CNCF Welcomes CoreWeave as a Platinum Member to Further Open Source AI Infrastructure",
+      "summary": "Investment underscores CoreWeave’s continued push to build open, cloud native infrastructure for production AI at scale Key Highlights SAN FRANCISCO — November 10, 2026 — The Cloud Native Computing Foundation® (CNCF®), which builds sustainable ecosystems for...",
+      "source_name": "CNCF",
+      "source_url": "https://www.cncf.io/announcements/2026/11/10/cncf-welcomes-coreweave-as-a-platinum-member-to-further-open-source-ai-infrastructure/",
+      "published_at": "2026-11-10T16:00:00+00:00",
+      "category": "open_source_foundations",
+      "tags": [
+        "AI",
+        "Cloud",
+        "Open Source",
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8813,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.cncf.io/?p=176933"
+    },
+    {
+      "title": "Open Cluster Management (OCM) becomes a CNCF Incubating Project",
+      "summary": "The CNCF Technical Oversight Committee (TOC) voted to accept Open Cluster Management as a CNCF incubating project. Open Cluster Management is an open source project that simplifies the management of Kubernetes clusters across cloud, on-premises, and...",
+      "source_name": "CNCF",
+      "source_url": "https://www.cncf.io/blog/2026/11/10/open-cluster-management-ocm-becomes-a-cncf-incubating-project/",
+      "published_at": "2026-11-10T16:00:00+00:00",
+      "category": "open_source_foundations",
+      "tags": [
+        "Kubernetes",
+        "Cloud",
+        "Open Source",
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8813,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.cncf.io/?p=177373"
+    },
+    {
+      "title": "CNCF Welcomes Vultr as a Platinum Member to Advance Open and Sovereign Cloud Infrastructure for AI",
+      "summary": "Upgrade extends Vultr’s 5-year history with CNCF and expands its voice in shaping open interoperability for AI factory infrastructure at global scale Key Highlights KUBECON + CLOUDNATIVECON NORTH AMERICA, SALT LAKE CITY – November 10, 2026–...",
+      "source_name": "CNCF",
+      "source_url": "https://www.cncf.io/announcements/2026/11/10/cncf-welcomes-vultr-as-a-platinum-member-to-advance-open-and-sovereign-cloud-infrastructure-for-ai/",
+      "published_at": "2026-11-10T16:00:00+00:00",
+      "category": "open_source_foundations",
+      "tags": [
+        "AI",
+        "Cloud",
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8813,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.cncf.io/?p=176937"
+    },
+    {
+      "title": "CNCF and SlashData Report Finds Cloud Native Developers Are More AI-Ready, Global Population Surpasses 21 Million",
+      "summary": "New research released finds 75% of cloud native developers use AI coding tools, compared to 55% of non-cloud native developer peers Key Highlights: SALT LAKE CITY – KubeCon + CloudNativeCon North America – Nov. 10, 2026...",
+      "source_name": "CNCF",
+      "source_url": "https://www.cncf.io/announcements/2026/11/10/cncf-and-slashdata-report-finds-cloud-native-developers-are-more-ai-ready-global-population-surpasses-21-million/",
+      "published_at": "2026-11-10T16:00:00+00:00",
+      "category": "open_source_foundations",
+      "tags": [
+        "AI",
+        "Cloud",
+        "Research",
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8813,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.cncf.io/?p=177077"
+    },
+    {
+      "title": "CNCF Welcomes Qualcomm Upgrade to Gold Membership to Advance AI Infrastructure Across the Edge-to-Cloud Continuum",
+      "summary": "Key Highlights KubeCon + CloudNativeCon North America, SALT LAKE CITY, UT – November 10, 2026 – The Cloud Native Computing Foundation® (CNCF®), which builds sustainable ecosystems for cloud native software, today announced that Qualcomm Technologies has...",
+      "source_name": "CNCF",
+      "source_url": "https://www.cncf.io/announcements/2026/11/10/cncf-welcomes-qualcomm-upgrade-to-gold-membership-to-advance-ai-infrastructure-across-the-edge-to-cloud-continuum/",
+      "published_at": "2026-11-10T16:00:00+00:00",
+      "category": "open_source_foundations",
+      "tags": [
+        "AI",
+        "Cloud",
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8813,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.cncf.io/?p=176941"
+    },
+    {
+      "title": "Donating KubeRay to CNCF",
+      "summary": "The PARK stack (PyTorch, AI models, Ray, and Kubernetes) is emerging as the de facto open source standard for production AI. Within that stack, KubeRay has become the bridge connecting scalable AI applications built on Ray...",
+      "source_name": "CNCF",
+      "source_url": "https://www.cncf.io/blog/2026/11/10/donating-kuberay-to-cncf/",
+      "published_at": "2026-11-10T16:00:00+00:00",
+      "category": "open_source_foundations",
+      "tags": [
+        "AI",
+        "Kubernetes",
+        "Open Source",
+        "AI Models",
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8813,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.cncf.io/?p=177293"
+    },
+    {
+      "title": "CNCF and SlashData Report Finds Platform Engineering Strategies Are Shaping AI Infrastructure Adoption",
+      "summary": "Latest research finds 54% of developers with independently managed tooling use hybrid approaches for AI workflows, compared to just 5% at organizations building custom internal platforms Key Highlights: SALT LAKE CITY – KubeCon + CloudNativeCon North...",
+      "source_name": "CNCF",
+      "source_url": "https://www.cncf.io/announcements/2026/11/10/cncf-and-slashdata-report-finds-platform-engineering-strategies-are-shaping-ai-infrastructure-adoption/",
+      "published_at": "2026-11-10T16:00:00+00:00",
+      "category": "open_source_foundations",
+      "tags": [
+        "AI",
+        "Cloud",
+        "Research",
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8813,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.cncf.io/?p=177074"
+    },
+    {
+      "title": "CNCF Hits Major Milestones with Global Community Growth, Record Industry Investment and a New Generation of Projects to Build AI Systems in Production",
+      "summary": "New Sandbox projects, including Agent Substrate and OpenShell, expand CNCF’s portfolio to 231 projects as the community adds over 5.5 million cloud native developers in 12 months, welcomes eight Platinum memberships and brings together 82,000 attendees...",
+      "source_name": "CNCF",
+      "source_url": "https://www.cncf.io/announcements/2026/11/10/cncf-hits-major-milestones-with-global-community-growth-record-industry-investment-and-a-new-generation-of-projects-to-build-ai-systems-in-production/",
+      "published_at": "2026-11-10T16:00:00+00:00",
+      "category": "open_source_foundations",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Cloud",
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8813,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.cncf.io/?p=177324"
+    },
+    {
+      "title": "CNCF Launches Certified Kubernetes Network Engineer Certification (CKNE) to Advance Production Ready Networking Skills for AI Era",
+      "summary": "New certification validates specialized expertise in Kubernetes networking, security and troubleshooting as demand for cloud native skills grows Key Highlights SALT LAKE CITY – KubeCon + CloudNativeCon North America – November 10, 2026 – The Cloud...",
+      "source_name": "CNCF",
+      "source_url": "https://www.cncf.io/announcements/2026/11/10/cncf-launches-certified-kubernetes-network-engineer-certification-ckne-to-advance-production-ready-networking-skills-for-ai-era/",
+      "published_at": "2026-11-10T16:00:00+00:00",
+      "category": "open_source_foundations",
+      "tags": [
+        "AI",
+        "Kubernetes",
+        "Cloud",
+        "Security",
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8813,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.cncf.io/?p=177080"
+    },
+    {
+      "title": "Missionforce National Security Achieves ‘Awardable’ Status for Department of War Recruiting Capabilities in the CDAO’s Tradewinds Solutions Marketplace",
+      "summary": "SAN FRANCISCO and WASHINGTON, November 10, 2026 — Salesforce, the world’s #1 Agentic CRM, today announced it has received “Awardable” status for Missionforce National Security personnel recruiting through the Chief Digital and Artificial Intelligence Office’s (CDAO) Tradewinds Solutions Marketplace. This designation gives Department of War (DOW) organizations direct access to Salesforce’s recruiting solutions through the […]",
+      "source_name": "Salesforce News",
+      "source_url": "https://www.salesforce.com/news/press-releases/2026/11/10/missionforce-achieves-awardable-status/",
+      "published_at": "2026-11-10T14:00:00+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Security",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.8729,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.salesforce.com/?post_type=sf_press_release&p=96349"
+    },
+    {
+      "title": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
+      "summary": "Google and Adobe are integrating creative and productivity tools. Edit PDFs in Drive and use Adobe AI in Gemini. See what’s new in this partnership.",
+      "source_name": "Google AI (The Keyword)",
+      "source_url": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/",
+      "published_at": "2026-11-10T14:00:00+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.8729,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/"
+    },
+    {
+      "title": "Google Cloud launches Gemini for healthcare.",
+      "summary": "Google Cloud launches Gemini for healthcare to unify clinical data and automate workflows. Reduce administrative burnout. See how it works.",
+      "source_name": "Google AI (The Keyword)",
+      "source_url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/",
+      "published_at": "2026-11-10T13:00:00+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "Cloud",
+        "Google Cloud",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.8688,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/"
+    },
+    {
+      "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+      "summary": "AlphaProof Code agents wrote three million lines of proofs in Lean to verify Signal’s core encryption.",
+      "source_name": "Google DeepMind",
+      "source_url": "https://deepmind.google/blog/introducing-alphaproof-code/",
+      "published_at": "2026-11-10T12:02:28+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI Agents",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.99,
+      "importance_score": 0.8648,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://deepmind.google/blog/introducing-alphaproof-code/"
+    },
+    {
+      "title": "Helping caregivers use AI in everyday life",
+      "summary": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+      "published_at": "2026-11-10T12:00:00+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.99,
+      "importance_score": 0.8646,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life"
+    },
+    {
+      "title": "Anthropic launches roadshow for proposed initial public offering",
+      "summary": "Anthropic launches roadshow for proposed initial public offering Anthropic",
+      "source_name": "Anthropic",
+      "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE51YVF6eThycm5nblZRV2ZpeDRhWUtVRi03bmxZMGNuX0pJMzUzRDFWSHh5clR6VVN1R3ZzaTNFWHNvYjRwUTNCUERQbFQ3WmFyMkxVcGpFTUpjQQ?oc=5",
+      "published_at": "2026-11-10T11:44:40+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.99,
+      "importance_score": 0.8635,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "CBMiWkFVX3lxTE51YVF6eThycm5nblZRV2ZpeDRhWUtVRi03bmxZMGNuX0pJMzUzRDFWSHh5clR6VVN1R3ZzaTNFWHNvYjRwUTNCUERQbFQ3WmFyMkxVcGpFTUpjQQ"
+    },
+    {
+      "title": "Introducing Businesses in ChatGPT",
+      "summary": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/introducing-businesses-chatgpt",
+      "published_at": "2026-11-10T10:00:00+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.99,
+      "importance_score": 0.8563,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/index/introducing-businesses-chatgpt"
+    },
+    {
+      "title": ".name Grandfathered",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://neil.fraser.name/news/2026/11/10/",
+      "published_at": "2026-11-10T16:37:44+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.8538,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50442736"
+    },
+    {
+      "title": "Blender 5.3 released with Gaussian Splat support",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.blender.org/download/releases/5-3/",
+      "published_at": "2026-11-10T16:15:43+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.8523,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50442426"
+    },
+    {
+      "title": "Closing the AI guidance gap in education",
+      "summary": "New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning.",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/closing-ai-guidance-gap-education",
+      "published_at": "2026-11-10T09:00:00+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI",
+        "Research",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.99,
+      "importance_score": 0.8521,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/index/closing-ai-guidance-gap-education"
+    },
+    {
+      "title": "Smart home devices should work without the internet",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://docodethatmatters.com/home-automation-overnight-success/",
+      "published_at": "2026-11-10T15:25:20+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.8488,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50441707"
+    },
+    {
+      "title": "Work at the Frontier: AI’s effect on freelance work",
+      "summary": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects.",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/ai-effect-on-freelance-work",
+      "published_at": "2026-11-10T07:00:00+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI",
+        "Research",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.99,
+      "importance_score": 0.8438,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/index/ai-effect-on-freelance-work"
+    },
+    {
+      "title": "Ableton Live 13",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.ableton.com/en/live/",
+      "published_at": "2026-11-10T12:58:04+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.656,
+      "importance_score": 0.8386,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50439695"
+    },
+    {
+      "title": "46% fewer nodes, 2× faster indexing: Confluent on Amazon OpenSearch Service",
+      "summary": "How Confluent modernized its Amazon OpenSearch Service observability hot tier, ingesting hundreds of terabytes of logs per day, by migrating from r6gd to the purpose-built oi2 instance family. A measure-first approach cut the fleet 46%, roughly halved indexing latency, and cleared write backpressure, lowering cost even at a higher per-node price.",
+      "source_name": "AWS Big Data Blog",
+      "source_url": "https://aws.amazon.com/blogs/big-data/46-fewer-nodes-2x-faster-indexing-confluent-on-amazon-opensearch-service/",
+      "published_at": "2026-11-10T19:56:57+00:00",
+      "category": "cloud_providers",
+      "tags": [
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.92,
+      "importance_score": 0.8377,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "31ab9988210ac8dda5529377f97404094b11797c"
+    },
+    {
+      "title": "Git security vulnerabilities announced",
+      "summary": "Git is releasing updates addressing six security vulnerabilities affecting recursive clones, reference handling, merges, binary patches, and imports. Here is what users need to know. The post Git security vulnerabilities announced appeared first on The GitHub Blog .",
+      "source_name": "The GitHub Blog",
+      "source_url": "https://github.blog/open-source/git/git-security-vulnerabilities-announced-7/",
+      "published_at": "2026-11-10T18:00:00+00:00",
+      "category": "developer_platforms",
+      "tags": [
+        "Security",
+        "Developer Tools",
+        "Developer Platforms"
+      ],
+      "confidence_score": 0.92,
+      "importance_score": 0.8296,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://github.blog/?p=100077"
+    },
+    {
+      "title": "AI usage generates a fragile codebase",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/",
+      "published_at": "2026-11-10T10:25:58+00:00",
+      "category": "aggregators",
+      "tags": [
+        "AI",
+        "Hacker News"
+      ],
+      "confidence_score": 0.673,
+      "importance_score": 0.828,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50438318"
+    },
+    {
+      "title": "Inside the Gemini factory: Accelerating partner solutions",
+      "summary": "With the new unified Gemini experience, enterprises can bring third-party partner capabilities directly in Gemini through standardized connectors (spanning Model Context Protocol (MCP), Agent-to-Agent (A2A) runtimes, and REST APIs), alongside emerging declarative skills and plugins. For independent software vendors (ISVs), this unified architecture unlocks a powerful opportunity to embed domain-specialized intelligence, regulated workflows, and live systems of record…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/topics/partners/inside-the-gemini-factory-accelerating-partner-solutions/",
+      "published_at": "2026-11-10T17:00:00+00:00",
+      "category": "cloud_providers",
+      "tags": [
+        "AI Agents",
+        "APIs",
+        "AI Models",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.8254,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/topics/partners/inside-the-gemini-factory-accelerating-partner-solutions/"
+    },
+    {
+      "title": "BigQuery measures is now GA: Unifying BI metrics and knowledge graphs for AI accuracy",
+      "summary": "To answer a complex business question, an AI agent must understand two things: what happened, and why . The what is a governed metric, like revenue at risk; the why is the network of relationships that produced it. Because metric definitions, a.k.a. measures, traditionally live in business intelligence (BI) platforms while relationships live in knowledge graphs, an AI agent only ever sees half the picture. It guesses the rest, leading to confident but sometimes wrong…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/products/data-analytics/bigquery-measures-ga-unifying-bi-metrics-and-knowledge-graphs/",
+      "published_at": "2026-11-10T17:00:00+00:00",
+      "category": "cloud_providers",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.8254,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/products/data-analytics/bigquery-measures-ga-unifying-bi-metrics-and-knowledge-graphs/"
+    },
+    {
+      "title": "Don't just flag it, fix it: How to run CodeMender in your pull requests",
+      "summary": "As many developers use agentic tools to create more code faster than ever before, the code has gotten more complex and they’re taking longer to find and fix software flaws. Helping to address that pressure is a key concern at Google. We know that software development velocity is increasing, as much as 2x for some teams , and the average developer fix time for software flaws expanded from approximately 59 days a decade ago to more than 170 days in 2025, according to the…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/products/identity-security/how-to-run-codemender-in-your-pull-requests/",
+      "published_at": "2026-11-10T17:00:00+00:00",
+      "category": "cloud_providers",
+      "tags": [
+        "AI Agents",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.8254,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/products/identity-security/how-to-run-codemender-in-your-pull-requests/"
+    },
+    {
+      "title": "Running AV Reasoning Models Within Onboard Compute and Latency Limits",
+      "summary": "Autonomous vehicle (AV) developers need reasoning models that can operate within the compute and latency constraints of an onboard system. Larger models provide...",
+      "source_name": "NVIDIA Developer Blog",
+      "source_url": "https://developer.nvidia.com/blog/running-av-reasoning-models-within-onboard-compute-and-latency-limits/",
+      "published_at": "2026-11-10T16:00:00+00:00",
+      "category": "mlops",
+      "tags": [
+        "AI Models",
+        "Mlops"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8213,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://developer.nvidia.com/blog/?p=124882"
+    },
+    {
+      "title": "Agent Substrate: Advancing Kubernetes for Agents at Scale",
+      "summary": "AI agents spend most of their time idle, waiting on a human prompt, a tool result or a model response. Kubernetes wasn’t built for that. Running one Pod per...",
+      "source_name": "NVIDIA Developer Blog",
+      "source_url": "https://developer.nvidia.com/blog/agent-substrate-advancing-kubernetes-for-agents-at-scale/",
+      "published_at": "2026-11-10T15:00:00+00:00",
+      "category": "mlops",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Kubernetes",
+        "AI Models",
+        "Mlops"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8171,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://developer.nvidia.com/blog/?p=124728"
+    },
+    {
+      "title": "Web Summit cancels day 2 due to Storm Charles and risks of tidal flood",
+      "summary": "Web Summit in Lisbon cancels Day 2 as Storm Charles brings high winds, tidal flooding and transport disruption across Portugal.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/web-summit-lisbon-weather-day-2-canceled-storm-charles-2026-11",
+      "published_at": "2026-11-10T20:21:59+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7594,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/web-summit-lisbon-weather-day-2-canceled-storm-charles-2026-11"
+    },
+    {
+      "title": "I made lip balm in my mom's kitchen at 19. It became a business sold at Nordstrom, and it's still growing decades later.",
+      "summary": "I started a lip balm business at 19 and sold to major retailers. After having kids, I chose to slow its growth so I could be present.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/started-lip-balm-business-at-19-nordstrom-2026-11",
+      "published_at": "2026-11-10T20:14:01+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7589,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/started-lip-balm-business-at-19-nordstrom-2026-11"
+    },
+    {
+      "title": "Git Patches Flaw That Lets Malicious Repositories Execute Code During Recursive Clones",
+      "summary": "A flaw in Git can let a malicious repository run an attacker's code on a computer that clones it recursively, together with its submodules. The Git project fixed it this week in Git 2.56.1, with matching fixes for the 2.50 through 2.55 series in 2.50.2, 2.51.3, 2.52.1, 2.53.1, 2.54.1 and 2.55.1. The flaw, tracked as CVE-2026-111760, is an integer truncation in how Git handles its index. An",
+      "source_name": "The Hacker News",
+      "source_url": "https://thehackernews.com/2026/11/git-patches-flaw-that-lets-malicious.html",
+      "published_at": "2026-11-10T19:23:10+00:00",
+      "category": "cybersecurity",
+      "tags": [
+        "Cybersecurity"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7554,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://thehackernews.com/2026/11/git-patches-flaw-that-lets-malicious.html"
+    },
+    {
+      "title": "SGLang RCE Exploit Breaches NEAR AI, Steals Data From 18 Agents and About 100 Users",
+      "summary": "An attacker exploited a remote code execution flaw in SGLang, an open-source inference engine, and ran code on one of NEAR AI's inference servers last Sunday. The attacker could also have seen requests being processed on that server that day, including requests sent in confidential mode, the company said earlier this week. That mode processes requests inside a trusted execution environment (TEE",
+      "source_name": "The Hacker News",
+      "source_url": "https://thehackernews.com/2026/11/sglang-rce-exploit-breaches-near-ai.html",
+      "published_at": "2026-11-10T19:19:39+00:00",
+      "category": "cybersecurity",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Open Source",
+        "Cybersecurity"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7551,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://thehackernews.com/2026/11/sglang-rce-exploit-breaches-near-ai.html"
+    },
+    {
+      "title": "Robotics Special: Xiaomi’s humanoid robots clock in for a full 8-hour factory shift",
+      "summary": "Robotics Special: Xiaomi’s humanoid robots clock in for a full 8-hour factory shift Superhuman AI",
+      "source_name": "Superhuman (Zain Kahn)",
+      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRmpBdktBcjZrWE84bFBuUXAxV2FnaUoyYV9Hb1JmS1NIX3kwZHc1clowM0xBeUUtbXlxTUc5Y2JXTTd4b0ZidHVMMERhRjdEN0xCbUNiUDZVNjhjQWxvcVZYQ3htV0t0a3kwTGFaUjN3WFJXVmUyMXRWQ3lHSUVJZVd0Sm5oSmU1VlItNUYtc3l5c1p2QlFOV0w0bFQwaFpFQjJTN2FVY3NnUTF2OE1r?oc=5",
+      "published_at": "2026-11-10T19:04:45+00:00",
+      "category": "ai_newsletters",
+      "tags": [
+        "AI",
+        "Ai Newsletters"
+      ],
+      "confidence_score": 0.64,
+      "importance_score": 0.7541,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "CBMirwFBVV95cUxNRmpBdktBcjZrWE84bFBuUXAxV2FnaUoyYV9Hb1JmS1NIX3kwZHc1clowM0xBeUUtbXlxTUc5Y2JXTTd4b0ZidHVMMERhRjdEN0xCbUNiUDZVNjhjQWxvcVZYQ3htV0t0a3kwTGFaUjN3WFJXVmUyMXRWQ3lHSUVJZVd0Sm5oSmU1VlItNUYtc3l5c1p2QlFOV0w0bFQwaFpFQjJTN2FVY3NnUTF2OE1r"
+    },
+    {
+      "title": "How CERN Built the Large Hadron Collider’s Next-Gen Magnets",
+      "summary": "New materials and processes are behind the 11.3 tesla superconducting magnets",
+      "source_name": "IEEE Spectrum",
+      "source_url": "https://spectrum.ieee.org/large-hadron-collider-superconducting-magnets",
+      "published_at": "2026-11-10T14:00:02+00:00",
+      "category": "research_feeds",
+      "tags": [
+        "Research Feeds"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.7329,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://spectrum.ieee.org/large-hadron-collider-superconducting-magnets"
+    },
+    {
+      "title": "Anthropic Unveils Fable 5.2",
+      "summary": "Plus: OpenAI Ships a Game Boy, AI Is Now Buying Used Jet Engines",
+      "source_name": "AI Secret",
+      "source_url": "https://aisecret.us/anthropic-unveils-fable-5-2/",
+      "published_at": "2026-11-10T13:30:39+00:00",
+      "category": "ai_newsletters",
+      "tags": [
+        "AI",
+        "Ai Newsletters"
+      ],
+      "confidence_score": 0.64,
+      "importance_score": 0.7309,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "6aeeaf699f379b89dcc33f1e"
+    },
+    {
+      "title": "The Download: Pelosi’s successor targets AI and data centers face power woes",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Nancy Pelosi’s replacement is ready to regulate AI —Grace Huckins As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after winning a…",
+      "source_name": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/11/10/1148150/the-download-pelosi-successor-ai-regulation-data-center-backlash/",
+      "published_at": "2026-11-10T13:10:00+00:00",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.7294,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.technologyreview.com/?p=1148150"
+    },
+    {
+      "title": "Customer support is the gnarliest AI problem",
+      "summary": "Ryan chats with Ahmad Al-Dahle, CTO at Airbnb, about deploying multi-party AI agents to tackle the uniquely gnarly problem of customer support, how a moving target of rigorous evaluations helps engineers balance latency against accuracy, and the ways in which AI coding tools demand an even higher level of judgment from software engineering teams.",
+      "source_name": "Stack Overflow Blog",
+      "source_url": "https://stackoverflow.blog/2026/11/10/customer-support-is-the-gnarliest-ai-problem/",
+      "published_at": "2026-11-10T08:40:00+00:00",
+      "category": "developer_platforms",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Developer Platforms"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7107,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "4bffa630-54f8-412c-8fb9-5a1e2fedfd94"
+    },
+    {
+      "title": "Atlas Data Federation and Online Archive Can Now Be Deployed in Azure",
+      "summary": "Exciting developments are on the horizon for users of Microsoft Azure, marking a significant leap in data management capabilities. First off, Atlas Data Federation is now Generally Available on Azure. Atlas Data Federation is now generally available for deployment in Azure. An Azure deployment can query data in Microsoft Azure Blob Storage, alongside other supported sources. And that's not all. We've also launched the General Availability of Atlas Online Archive on Azure…",
+      "source_name": "MongoDB Blog",
+      "source_url": "https://www.mongodb.com/company/blog/product-release-announcements/atlas-data-federation-online-archive-can-now-be-deployed-in-azure",
+      "published_at": "2026-11-09T13:22:06+00:00",
+      "category": "databases",
+      "tags": [
+        "Azure",
+        "Databases"
+      ],
+      "confidence_score": 0.8,
+      "importance_score": 0.7103,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.mongodb.com/company/blog/product-release-announcements/atlas-data-federation-online-archive-can-now-be-deployed-in-azure"
+    },
+    {
+      "title": "AI Search for Agents: Announcing Automated Embedding in MongoDB Atlas",
+      "summary": "Automated Embedding is now available in Public Preview on MongoDB Atlas . When we introduced Automated Embedding to MongoDB Vector Search in MongoDB Community Edition , we started from a single principle: developers building agentic applications shouldn't have to operate a parallel embedding pipeline just to search their own data. That release proved the pattern: text in, text out, no client-side embedding code. On MongoDB Atlas, it goes further, using Voyage AI embedding…",
+      "source_name": "MongoDB Blog",
+      "source_url": "https://www.mongodb.com/company/blog/product-release-announcements/ai-search-for-agents-announcing-automated-embedding-atlas",
+      "published_at": "2026-11-09T13:17:29+00:00",
+      "category": "databases",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Data Pipelines",
+        "Vector Databases",
+        "Databases"
+      ],
+      "confidence_score": 0.8,
+      "importance_score": 0.71,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.mongodb.com/company/blog/product-release-announcements/ai-search-for-agents-announcing-automated-embedding-atlas"
+    }
+  ]
+}
