@@ -1,0 +1,831 @@
+{
+  "generated_at": "2026-11-12T20:56:31.676509+00:00",
+  "post_date": "2026-11-12",
+  "sources_checked": 48,
+  "candidates": 45,
+  "items": [
+    {
+      "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+      "summary": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/amplitude",
+      "published_at": "2026-11-12T20:00:00+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI Agents",
+        "AI Models",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.99,
+      "importance_score": 0.8961,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/index/amplitude"
+    },
+    {
+      "title": "Introducing Gemini 4 Hydrogen",
+      "summary": "",
+      "source_name": "Google DeepMind",
+      "source_url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
+      "published_at": "2026-11-12T18:00:50+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.97,
+      "importance_score": 0.8878,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/"
+    },
+    {
+      "title": "New Data: Holiday Shoppers Will Rely on Agents. Retailers Must Be Ready.",
+      "summary": "A Salesforce survey shows that holiday shoppers are using AI agents for research and advice — almost 20% of shoppers now say that AI is their first stop on the way to the store — but most aren’t ready to let AI click Buy Now.",
+      "source_name": "Salesforce News",
+      "source_url": "https://www.salesforce.com/news/stories/ai-first-holiday/",
+      "published_at": "2026-11-12T18:00:00+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Research",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.8878,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.salesforce.com/?p=96524"
+    },
+    {
+      "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+      "summary": "Rotating carousel of cards with text \"Gemini 4 Hydrogen\" \"Now in Google Search\" and examples from the Google Search UI",
+      "source_name": "Google AI (The Keyword)",
+      "source_url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
+      "published_at": "2026-11-12T18:00:00+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.8878,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/"
+    },
+    {
+      "title": "CNCF Recognizes Cloud Native Champions in 2026 Community Awards",
+      "summary": "Annual awards honor leaders, maintainers, and documentarians building open source infrastructure Key Highlights KUBECON + CLOUDNATIVECON NORTH AMERICA, SALT LAKE CITY – November 12, 2026 – The Cloud Native Computing Foundation® (CNCF®), which builds sustainable ecosystems...",
+      "source_name": "CNCF",
+      "source_url": "https://www.cncf.io/announcements/2026/11/12/cncf-recognizes-cloud-native-champions-in-2026-community-awards/",
+      "published_at": "2026-11-12T16:00:00+00:00",
+      "category": "open_source_foundations",
+      "tags": [
+        "Cloud",
+        "Open Source",
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8794,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.cncf.io/?p=177332"
+    },
+    {
+      "title": "For AI Advice to Be Any Good, It Has to Actually Change the Outcome",
+      "summary": "Real-time AI video assistants need a new kind of test. Here’s how we built the necessary proving ground.",
+      "source_name": "Salesforce News",
+      "source_url": "https://www.salesforce.com/news/stories/visual-ai-assistants-ivg-lessons/",
+      "published_at": "2026-11-12T16:00:00+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.8794,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.salesforce.com/?p=96474"
+    },
+    {
+      "title": "Gang scheduling and topology-aware placement for AI training in Kubernetes",
+      "summary": "Distributed AI training workloads impose complex scheduling requirements that Kubernetes’s built-in scheduler can’t meet. Kubernetes schedules pods individually and independently, but distributed training introduces two requirements that break this model: Pods must land on hardware with...",
+      "source_name": "CNCF",
+      "source_url": "https://www.cncf.io/blog/2026/11/12/gang-scheduling-and-topology-aware-placement-for-ai-training-in-kubernetes/",
+      "published_at": "2026-11-12T12:00:00+00:00",
+      "category": "open_source_foundations",
+      "tags": [
+        "AI",
+        "Kubernetes",
+        "AI Models",
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8628,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.cncf.io/?p=177120"
+    },
+    {
+      "title": "Ask HN: Microsoft/Azure Outage?",
+      "summary": "For the past 5 minutes all of our Microsoft Cloud connections are down. Anyone else? The Status page won't even load.",
+      "source_name": "Hacker News",
+      "source_url": "https://news.ycombinator.com/item?id=50471668",
+      "published_at": "2026-11-12T18:17:13+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Azure",
+        "Hacker News"
+      ],
+      "confidence_score": 0.697,
+      "importance_score": 0.8589,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50471668"
+    },
+    {
+      "title": "Gemini 4 Hydrogen",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
+      "published_at": "2026-11-12T18:01:48+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.8579,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50471431"
+    },
+    {
+      "title": "Holiday Extras is rethinking what it can build with Codex",
+      "summary": "With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth.",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/business/customer-stories/holidays-extras-codex",
+      "published_at": "2026-11-12T09:30:00+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.99,
+      "importance_score": 0.8523,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/business/customer-stories/holidays-extras-codex"
+    },
+    {
+      "title": "Nintendo Takes Down Emulators and Firmware in Massive GitHub DMCA Sweep",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.ign.com/articles/nintendo-takes-down-switch-emulators-and-mod-chip-firmware-in-massive-github-dmca-sweep",
+      "published_at": "2026-11-12T16:29:13+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Developer Tools",
+        "Hacker News"
+      ],
+      "confidence_score": 0.6505,
+      "importance_score": 0.8514,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50469994"
+    },
+    {
+      "title": "Abandoned Quake 4 expansion finished by modders and now playable",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.moddb.com/mods/openq4/downloads/openq4-0141-windows-x64",
+      "published_at": "2026-11-12T14:18:49+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.652,
+      "importance_score": 0.8424,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50467618"
+    },
+    {
+      "title": "Jensen Huang resigns",
+      "summary": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-tran... https://www.reuters.com/business/retail-consumer/nvidia-ceo-... , https://www.reuters.com/live/nvidia-live-board-meets-fate-ce... https://www.nytimes.com/live/2026/11/12/business/nvidia-jens...",
+      "source_name": "Hacker News",
+      "source_url": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f",
+      "published_at": "2026-11-12T13:52:29+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.8406,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50467087"
+    },
+    {
+      "title": "I'm making LLMs work on small and old devices",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://github.com/hyperionaidev/smolmaxxing/",
+      "published_at": "2026-11-12T15:23:10+00:00",
+      "category": "aggregators",
+      "tags": [
+        "LLMs",
+        "Hacker News"
+      ],
+      "confidence_score": 0.6465,
+      "importance_score": 0.8381,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50468888"
+    },
+    {
+      "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+      "summary": "",
+      "source_name": "Hugging Face",
+      "source_url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
+      "published_at": "2026-11-12T19:07:35+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "LLMs",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.9,
+      "importance_score": 0.8325,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite"
+    },
+    {
+      "title": "Anthropic IPO",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://ipo.anthropic.com/us/",
+      "published_at": "2026-11-12T11:46:41+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.8318,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50465829"
+    },
+    {
+      "title": "Chrome Enterprise brings more protections to healthcare technologies",
+      "summary": "Healthcare is adopting AI quickly, and it's moving beyond chat. Clinical teams are starting to use AI agents that draft documentation, summarize charts, navigate web apps, and complete multi-step tasks on a clinician's behalf. Many of these agents work in the same place—the browser. As electronic health records (EHRs) and clinical apps move to the web, the browser is where clinicians, applications, patient data, and AI services meet. When clinicians or agents act inside a…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/products/chrome-enterprise/chrome-enterprise-brings-more-protections-to-healthcare-technologies/",
+      "published_at": "2026-11-12T18:55:00+00:00",
+      "category": "cloud_providers",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.8316,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/products/chrome-enterprise/chrome-enterprise-brings-more-protections-to-healthcare-technologies/"
+    },
+    {
+      "title": "Why Writing Correct Software Is Hard",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://pron.github.io/posts/correctness-and-complexity",
+      "published_at": "2026-11-12T10:28:26+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.8264,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50465352"
+    },
+    {
+      "title": "Powering agentic cloud governance: What's new in Organization Policy",
+      "summary": "Even as sophisticated, new zero-day exploits continue to emerge, most cybersecurity incidents still start from the same common sources: an attacker locating and exploiting a fundamental, easily preventable cloud misconfiguration. Organization Policy Service can help you secure resource configurations and set up security guardrails across your Google Cloud resource hierarchy. Using a catalog of over 100 predefined policies for many common cloud governance needs, as well as…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/products/identity-security/ai-powered-cloud-governance-whats-new-in-organization-policy/",
+      "published_at": "2026-11-12T17:00:00+00:00",
+      "category": "cloud_providers",
+      "tags": [
+        "AI Agents",
+        "Cloud",
+        "Google Cloud",
+        "Security",
+        "Data Governance",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.8236,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/products/identity-security/ai-powered-cloud-governance-whats-new-in-organization-policy/"
+    },
+    {
+      "title": "Simplifying last mile cloud connectivity with Lumen and partner Cross-Cloud Interconnect",
+      "summary": "Cross-Cloud Interconnect is expanding to connect to more of your workloads. We designed Google Cloud's Cross-Cloud Network to simplify and optimize how organizations connect and secure applications across cloud and on-premises environments. Last year, we launched partner Cross-Cloud Interconnect for AWS based on an open specification, turning complex cross-cloud network builds into a managed service that provisions in minutes. Today, we are extending partner Cross-Cloud…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/products/networking/partner-cross-cloud-interconnect-for-last-mile-delivered-by-lumen/",
+      "published_at": "2026-11-12T17:00:00+00:00",
+      "category": "cloud_providers",
+      "tags": [
+        "Cloud",
+        "AWS",
+        "Google Cloud",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.8236,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/products/networking/partner-cross-cloud-interconnect-for-last-mile-delivered-by-lumen/"
+    },
+    {
+      "title": "What’s new with Google Data Cloud",
+      "summary": "November 9 - November 13 Bringing conversational analytics to Gemini with Data Cloud connectors : Data Cloud connectors in Gemini are now in preview, enabling knowledge workers to query live enterprise data using natural language directly within tools like Google Docs, Gmail, and Google Slides. The capability connects across BigQuery, Looker, Spanner, AlloyDB for PostgreSQL, and Cloud SQL without requiring data movement, grounded by Knowledge Catalog semantic models under…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/products/data-analytics/whats-new-with-google-data-cloud/",
+      "published_at": "2026-11-12T17:00:00+00:00",
+      "category": "cloud_providers",
+      "tags": [
+        "Cloud",
+        "Databases",
+        "AI Models",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.8236,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/products/data-analytics/whats-new-with-google-data-cloud/"
+    },
+    {
+      "title": "Autonomous defense at cloud speed with SentinelOne and Google Security Operations",
+      "summary": "Modern security operations centers (SOCs) face an ongoing pipeline dilemma. While ingesting comprehensive endpoint telemetry is non-negotiable for defense, conventional delivery paths often drive up transfer overhead and alert latency. As attackers operate at machine speed, any unnecessary friction in how data moves from endpoints to the SOC can leave teams without the insight they need to respond to attacks in real time. Addressing this requires optimizing the data pipeline…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/topics/partners/autonomous-defense-at-cloud-speed-with-sentinelone-and-google-security-operations/",
+      "published_at": "2026-11-12T17:00:00+00:00",
+      "category": "cloud_providers",
+      "tags": [
+        "Data Pipelines",
+        "Cloud",
+        "Security",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.8236,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/topics/partners/autonomous-defense-at-cloud-speed-with-sentinelone-and-google-security-operations/"
+    },
+    {
+      "title": "Google named the furthest in vision for the Gartner Magic Quadrant for Data Lakehouse Platforms",
+      "summary": "Gartner has named Google a Leader, positioned furthest in vision, in its first-ever Magic Quadrant for Data Lakehouse Platforms. In our opinion, this recognition validates a fundamental shift our customers are experiencing every day: In the agentic era, the enterprise lakehouse is no longer a passive data repository, but a foundation where agents reason and act across all your data. The lakehouse originally emerged to bring data warehouse reliability to open, low-cost…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/products/data-analytics/google-is-a-leader-in-the-gartner-magic-quadrant-for-data-lakehouse-platforms/",
+      "published_at": "2026-11-12T16:00:00+00:00",
+      "category": "cloud_providers",
+      "tags": [
+        "AI Agents",
+        "Lakehouse",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.8194,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/products/data-analytics/google-is-a-leader-in-the-gartner-magic-quadrant-for-data-lakehouse-platforms/"
+    },
+    {
+      "title": "Migrating from Apache Hudi-based data lake to Apache Iceberg-based data lake",
+      "summary": "Learn how to migrate transactional data lakes from Apache Hudi to Apache Iceberg on AWS. This post walks through in-place migration with the Iceberg add_files procedure and Apache XTable, plus full table migration with CTAS and INSERT, using AWS Glue notebooks and Amazon S3 Tables, then validates the results in Amazon Athena.",
+      "source_name": "AWS Big Data Blog",
+      "source_url": "https://aws.amazon.com/blogs/big-data/migrating-from-apache-hudi-based-data-lake-to-apache-iceberg-based-data-lake/",
+      "published_at": "2026-11-12T15:50:48+00:00",
+      "category": "cloud_providers",
+      "tags": [
+        "AWS",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.92,
+      "importance_score": 0.8188,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "f8df1b6fe12c62708ece7bb679fc29508a2c093b"
+    },
+    {
+      "title": "The $5 Trillion Shift: Preparing Retail Backends for the Age of AI Agents",
+      "summary": "Retail is entering the era of the multi-agent shopping assistant. Instead of a single, stateless chatbot following a rigid script, retailers are building systems where multiple agents collaborate behind the scenes, drawing on preferences and customer purchase history to deliver recommendations that improve with every interaction. More retailers are reconfiguring their backends to reflect the rise in agentic usage, as this is no small trend: McKinsey estimates AI agents could…",
+      "source_name": "MongoDB Blog",
+      "source_url": "https://www.mongodb.com/company/blog/innovation/5-trillion-shift-preparing-retail-backends-for-age-of-ai-agents",
+      "published_at": "2026-11-12T15:25:40+00:00",
+      "category": "databases",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Databases"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.817,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.mongodb.com/company/blog/innovation/5-trillion-shift-preparing-retail-backends-for-age-of-ai-agents"
+    },
+    {
+      "title": "How to Model an Insurance Policy Without Joining Dozens of Tables",
+      "summary": "Ask an underwriter to describe a policy, and you’ll get a coherent answer: A contract, for a customer, covering a car or a house, with a handful of coverages, each with a limit and a deductible, plus a history of every change since it was issued. One policy—with parts. Many parts. Now ask your database the same question. In most insurance core systems, that single policy is sliced across dozens of relational tables: one each for coverages, vehicles, named parties…",
+      "source_name": "MongoDB Blog",
+      "source_url": "https://www.mongodb.com/company/blog/innovation/how-model-insurance-policy-without-joining-dozens-tables",
+      "published_at": "2026-11-12T15:00:00+00:00",
+      "category": "databases",
+      "tags": [
+        "Databases",
+        "AI Models"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.8152,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.mongodb.com/company/blog/innovation/how-model-insurance-policy-without-joining-dozens-tables"
+    },
+    {
+      "title": "Supporting research on AI and children’s safety",
+      "summary": "OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people.",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/children-first-declaration",
+      "published_at": "2026-11-12T00:00:00+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI",
+        "Research",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.99,
+      "importance_score": 0.8128,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/index/children-first-declaration"
+    },
+    {
+      "title": "Gilbert + Tobin rethinks the business of law with AI",
+      "summary": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/gilbert-tobin-sam-nickless",
+      "published_at": "2026-11-12T00:00:00+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.99,
+      "importance_score": 0.8128,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/index/gilbert-tobin-sam-nickless"
+    },
+    {
+      "title": "A New Dawn in the Cloud: ‘Warhammer 40,000: Dawn of War IV’ Is Coming to GeForce NOW",
+      "summary": "Rally the ranks this GFN Thursday. Warhammer 40,000: Dawn of War IV is coming to GeForce NOW, allowing players to experience the battle for Kronus through cloud gaming. There’s more on the horizon, with NVIDIA DLSS 5 technology coming to War Thunder and Where Winds Meet. Meanwhile, Dragon’s Dogma 2: Dark Arisen brings new tales […]",
+      "source_name": "NVIDIA Blog",
+      "source_url": "https://blogs.nvidia.com/blog/geforce-now-thursday-warhammer-dawn-of-war-iv-coming/",
+      "published_at": "2026-11-12T14:00:59+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "Cloud",
+        "GPUs",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8112,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://blogs.nvidia.com/?p=99861"
+    },
+    {
+      "title": "How Observe.AI Used MongoDB Resharding to Scale Its AI Platform",
+      "summary": "Launched in 2017, Observe.AI was originally known for its expertise in conversation intelligence and contact center analytics. In recent years, however, the company has grown into a comprehensive agentic AI platform, and now has three core offerings: AI agents for customers that resolve customer requests across voice and chat. AI agents for frontline teams. These include Observe.AI’s recently launched Companion Agent, which provides human team members real-time guidance and…",
+      "source_name": "MongoDB Blog",
+      "source_url": "https://www.mongodb.com/company/blog/innovation/how-observe-ai-used-mongodb-resharding-scale-ai-platform",
+      "published_at": "2026-11-12T12:34:46+00:00",
+      "category": "databases",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Databases"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.8052,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.mongodb.com/company/blog/innovation/how-observe-ai-used-mongodb-resharding-scale-ai-platform"
+    },
+    {
+      "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
+      "summary": "Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions.",
+      "source_name": "Google AI (The Keyword)",
+      "source_url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+      "published_at": "2026-11-11T18:00:00+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "APIs",
+        "AI Models",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.92,
+      "importance_score": 0.7878,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/"
+    },
+    {
+      "title": "Show HN: My $300 embroidery machine needed a subscription, so I built my own app",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://github.com/simpsoka/zigzag",
+      "published_at": "2026-11-12T17:02:42+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.6215,
+      "importance_score": 0.7825,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50470488"
+    },
+    {
+      "title": "Introducing CNCF User Groups: Long-lived homes for End User collaboration",
+      "summary": "The CNCF End User Community is launching its User Group Program at KubeCon + CloudNativeCon North America. These are long-lived groups, each built around an industry vertical or problem domain, that serves the common need of...",
+      "source_name": "CNCF",
+      "source_url": "https://www.cncf.io/blog/2026/11/11/introducing-cncf-user-groups-long-lived-homes-for-end-user-collaboration/",
+      "published_at": "2026-11-11T16:41:17+00:00",
+      "category": "open_source_foundations",
+      "tags": [
+        "Cloud",
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.87,
+      "importance_score": 0.7823,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.cncf.io/?p=177340"
+    },
+    {
+      "title": "Talking Zen 6 with Mike Clark at AMD In-Depth",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://chipsandcheese.com/p/talking-zen-6-with-mike-clark-at",
+      "published_at": "2026-11-12T14:12:37+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.6255,
+      "importance_score": 0.7808,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50467460"
+    },
+    {
+      "title": "Jensen Huang Didn’t Name His Own Replacement as One of Tech’s Most Powerful Women",
+      "summary": "A recent WIRED investigation explored the complicated definition of “power” for women in the industry. Jensen Huang’s answers now appear to show his blind spots.",
+      "source_name": "Wired",
+      "source_url": "https://www.wired.com/story/jensen-huang-colette-kress-replacement-powerful-women-in-tech/",
+      "published_at": "2026-11-12T20:35:11+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7585,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "6af5d68f8875b9db16ffe524"
+    },
+    {
+      "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
+      "summary": "Representatives from Nvidia told Illinois representative Bill Foster that the tracking requirements of his Chip Security Act meant to combat smuggling were technically possible, Foster told MIT Technology Review in an interview on Thursday, even while its industry group claimed they were “potentially infeasible.” Representative Foster, a Democrat who serves on the Committee on Science,…",
+      "source_name": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/",
+      "published_at": "2026-11-12T20:16:24+00:00",
+      "category": "research_feeds",
+      "tags": [
+        "GPUs",
+        "Security",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.7572,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.technologyreview.com/?p=1148483"
+    },
+    {
+      "title": "US Marines are training to break up and move their command posts to survive a Pacific war",
+      "summary": "Future conflicts, especially one in the vast Indo-Pacific, could require command-and-control networks to be dispersed and mobile.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/us-marines-dispersing-and-moving-command-pacific-war-2026-11",
+      "published_at": "2026-11-12T20:07:33+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7566,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/us-marines-dispersing-and-moving-command-pacific-war-2026-11"
+    },
+    {
+      "title": "Turn Jira tickets into GitLab merge requests with Duo Agent Platform",
+      "summary": "Many teams plan in Jira and ship in GitLab. Even if you already use GitLab Duo Agent Platform, you still open Jira to read each ticket, copy it into an agent for implementation, and report the merge request back. This tutorial shows you how to remove that handoff. You add a Jira agent to Duo Agentic Chat. The agent knows your project and repository, and you use it to find, create, and update tickets. Then you hand a ticket to Developer Flow with /goal , and Developer Flow…",
+      "source_name": "GitLab Blog",
+      "source_url": "https://about.gitlab.com/blog/jira-ticket-to-gitlab-mr-with-duo-agent-platform/",
+      "published_at": "2026-11-12T00:00:00+00:00",
+      "category": "developer_platforms",
+      "tags": [
+        "AI Agents",
+        "Developer Platforms"
+      ],
+      "confidence_score": 0.86,
+      "importance_score": 0.7528,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://about.gitlab.com/blog/jira-ticket-to-gitlab-mr-with-duo-agent-platform/"
+    },
+    {
+      "title": "Webinar: See How Identity Blind Spots Put Your SOC at Risk and How to Close Them",
+      "summary": "Security teams have more alerts, logs, and monitoring tools than ever. Yet when an attack happens, one simple question can still take too long to answer: Who or what is behind this activity, and what can they access? A suspicious login might belong to an employee. An unusual API call could come from a machine account. Or an AI agent might be accessing sensitive systems using permissions nobody",
+      "source_name": "The Hacker News",
+      "source_url": "https://thehackernews.com/2026/11/your-soc-sees-alert-but-does-it-know.html",
+      "published_at": "2026-11-12T18:07:15+00:00",
+      "category": "cybersecurity",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Security",
+        "APIs",
+        "Cybersecurity"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7483,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://thehackernews.com/2026/11/your-soc-sees-alert-but-does-it-know.html"
+    },
+    {
+      "title": "ThreatsDay: 59 Linux Kernel Bugs, Falcon Spyware, GSocket Backdoors + 17 More Stories",
+      "summary": "A search result isn't always safe. An access request isn't always harmless. And a familiar account doesn't always mean a familiar person is using it. Simple things to remember. Yet a surprising amount of this week's trouble starts right there. Attackers are using fake websites, stolen access, and trusted tools to get into places they shouldn't be. AI is helping them build attacks faster, while",
+      "source_name": "The Hacker News",
+      "source_url": "https://thehackernews.com/2026/11/threatsday-59-linux-kernel-bugs-falcon.html",
+      "published_at": "2026-11-12T18:02:51+00:00",
+      "category": "cybersecurity",
+      "tags": [
+        "AI",
+        "Cybersecurity"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7479,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://thehackernews.com/2026/11/threatsday-59-linux-kernel-bugs-falcon.html"
+    },
+    {
+      "title": "😸 LIVE in 2 Minutes: The AI Patch Tsunami is here!",
+      "summary": "AI can find the flaws. Who keeps up with the fixes?",
+      "source_name": "The Neuron",
+      "source_url": "https://www.theneurondaily.com/p/live-in-2-minutes-the-ai-patch-tsunami-is-here",
+      "published_at": "2026-11-12T17:58:00+00:00",
+      "category": "ai_newsletters",
+      "tags": [
+        "AI",
+        "Ai Newsletters"
+      ],
+      "confidence_score": 0.64,
+      "importance_score": 0.7476,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.theneurondaily.com/p/live-in-2-minutes-the-ai-patch-tsunami-is-here"
+    },
+    {
+      "title": "What Will It Take to Lay Fiber Optic Cables Across the Arctic?",
+      "summary": "Plenty, including icebreakers and satellite sensing networks",
+      "source_name": "IEEE Spectrum",
+      "source_url": "https://spectrum.ieee.org/undersea-cables-arctic-european-commission",
+      "published_at": "2026-11-12T17:06:44+00:00",
+      "category": "research_feeds",
+      "tags": [
+        "Research Feeds"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.7441,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://spectrum.ieee.org/undersea-cables-arctic-european-commission"
+    },
+    {
+      "title": "How do you hire a human? Q&A with Tom Harvey, Stack Overflow technical recruiter",
+      "summary": "Everybody's resume is perfect now, so how do you find the perfect teammate?",
+      "source_name": "Stack Overflow Blog",
+      "source_url": "https://stackoverflow.blog/2026/11/12/how-do-you-hire-a-human-q-and-a-with-tom-harvey-stack-overflow-technical-recruiter/",
+      "published_at": "2026-11-12T16:16:25+00:00",
+      "category": "developer_platforms",
+      "tags": [
+        "Developer Platforms"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7406,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "776832c8-f8d2-4edd-9692-8634e675d611"
+    },
+    {
+      "title": "United Bans Meta Muse",
+      "summary": "Plus: Claude Wants to Be Your Apps' Landlord, Grok Leaks Again",
+      "source_name": "AI Secret",
+      "source_url": "https://aisecret.us/united-bans-meta-muse/",
+      "published_at": "2026-11-12T13:30:28+00:00",
+      "category": "ai_newsletters",
+      "tags": [
+        "Ai Newsletters"
+      ],
+      "confidence_score": 0.64,
+      "importance_score": 0.729,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "6aeeaf6b9f379b89dcc33f27"
+    },
+    {
+      "title": "Validating GPU Platforms with Runtime AI Inventory via the NVIDIA DSX AI Factory",
+      "summary": "As teams deploy and scale AI workloads using NVIDIA Dynamo, Kubeflow, or Slurm, tracking what actually runs requires visibility beyond the platform...",
+      "source_name": "NVIDIA Developer Blog",
+      "source_url": "https://developer.nvidia.com/blog/validating-gpu-platforms-with-runtime-ai-inventory-via-the-nvidia-dsx-ai-factory/",
+      "published_at": "2026-11-11T17:00:00+00:00",
+      "category": "mlops",
+      "tags": [
+        "AI",
+        "GPUs",
+        "Mlops"
+      ],
+      "confidence_score": 0.87,
+      "importance_score": 0.7236,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://developer.nvidia.com/blog/?p=124959"
+    }
+  ]
+}
