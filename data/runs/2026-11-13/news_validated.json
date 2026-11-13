@@ -1,0 +1,816 @@
+{
+  "post_date": "2026-11-13",
+  "sources_checked": 48,
+  "count": 44,
+  "items": [
+    {
+      "title": "Introducing ChatGPT Wallet",
+      "summary": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/introducing-chatgpt-wallet",
+      "published_at": "2026-11-13T15:00:00Z",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI Agents",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.99,
+      "importance_score": 0.877,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/index/introducing-chatgpt-wallet"
+    },
+    {
+      "title": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
+      "published_at": "2026-11-13T17:30:10Z",
+      "category": "aggregators",
+      "tags": [
+        "AI",
+        "Hacker News"
+      ],
+      "confidence_score": 0.656,
+      "importance_score": 0.8574,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50486748"
+    },
+    {
+      "title": "LibreOffice actually works 365 days a year",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://twitter.com/LibreOffice/status/2121205272479998268",
+      "published_at": "2026-11-13T17:09:58Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.856,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50486482"
+    },
+    {
+      "title": "Multi-statement transactions for Apache Iceberg tables in Amazon Redshift",
+      "summary": "Amazon Redshift now supports multi-statement transactions for Apache Iceberg tables, so you can run several DML statements against one Iceberg table inside a single BEGIN…COMMIT and publish them as one atomic Iceberg snapshot. This post explains why one commit per statement makes multi-step pipelines fragile, what you can run in a transaction, and how it performs.",
+      "source_name": "AWS Big Data Blog",
+      "source_url": "https://aws.amazon.com/blogs/big-data/multi-statement-transactions-for-apache-iceberg-tables-in-amazon-redshift/",
+      "published_at": "2026-11-13T19:32:46Z",
+      "category": "cloud_providers",
+      "tags": [
+        "Data Pipelines",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.92,
+      "importance_score": 0.8359,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "d64bc66904baf525ffcdfc93feeea2e5e7895506"
+    },
+    {
+      "title": "Doomsday: Friday, 13 November, A.D. 2026 (1960)",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.science.org/doi/10.1126/science.132.3436.1291",
+      "published_at": "2026-11-13T12:10:24Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.8352,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50482379"
+    },
+    {
+      "title": "Build a self-healing ETL pipeline with Amazon Bedrock AgentCore",
+      "summary": "Build a self-healing ETL pipeline on AWS Glue and Amazon Bedrock AgentCore that automatically corrects bad records using domain knowledge, writes the fixes back to the data lake, and can open pull requests to prevent the same errors from recurring.",
+      "source_name": "AWS Big Data Blog",
+      "source_url": "https://aws.amazon.com/blogs/big-data/build-a-self-healing-etl-pipeline-with-amazon-bedrock-agentcore/",
+      "published_at": "2026-11-13T19:08:10Z",
+      "category": "cloud_providers",
+      "tags": [
+        "AI Agents",
+        "Data Pipelines",
+        "ETL",
+        "AWS",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.92,
+      "importance_score": 0.8342,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "f920b9035a8a287e5dde4fe724eccdbc0824b152"
+    },
+    {
+      "title": "Run Native DLA Inference in Python on NVIDIA Jetson AGX Orin Using cuDLA",
+      "summary": "AI applications at the edge often need to run multiple neural networks within limited compute and power budgets. NVIDIA Deep Learning Accelerator (DLA)...",
+      "source_name": "NVIDIA Developer Blog",
+      "source_url": "https://developer.nvidia.com/blog/run-native-dla-inference-in-python-on-nvidia-jetson-agx-orin-using-cudla/",
+      "published_at": "2026-11-13T18:57:10Z",
+      "category": "mlops",
+      "tags": [
+        "AI",
+        "GPUs",
+        "Python",
+        "Mlops"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8334,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://developer.nvidia.com/blog/?p=121180"
+    },
+    {
+      "title": "Choose the right streaming ingestion path for Apache Iceberg tables on AWS",
+      "summary": "Choosing the right streaming ingestion path for Apache Iceberg tables shapes your data lake's latency, cost, and capabilities. This post compares five AWS paths against eight technical criteria and closes with a decision framework you can apply to your own workload.",
+      "source_name": "AWS Big Data Blog",
+      "source_url": "https://aws.amazon.com/blogs/big-data/choose-the-right-streaming-ingestion-path-for-apache-iceberg-tables-on-aws/",
+      "published_at": "2026-11-13T18:12:57Z",
+      "category": "cloud_providers",
+      "tags": [
+        "Streaming",
+        "AWS",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.92,
+      "importance_score": 0.8304,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "8d8f87619d4bf135a37494723c4260cc1816099b"
+    },
+    {
+      "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+      "summary": "",
+      "source_name": "Hugging Face",
+      "source_url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+      "published_at": "2026-11-13T18:00:39Z",
+      "category": "ai_model_companies",
+      "tags": [
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.9,
+      "importance_score": 0.8295,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place"
+    },
+    {
+      "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://status.claude.com/incidents/nn11wk485zfn",
+      "published_at": "2026-11-13T10:18:13Z",
+      "category": "aggregators",
+      "tags": [
+        "AI",
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.8274,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50481187"
+    },
+    {
+      "title": "XYBench: Helping with the problem behind the question",
+      "summary": "",
+      "source_name": "Hugging Face",
+      "source_url": "https://huggingface.co/blog/allenai/xybench",
+      "published_at": "2026-11-13T17:02:35Z",
+      "category": "ai_model_companies",
+      "tags": [
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.9,
+      "importance_score": 0.8255,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://huggingface.co/blog/allenai/xybench"
+    },
+    {
+      "title": "When One GPU Isn’t Enough: Serving GLM-5.3 Across Two NVIDIA DGX Stations with vLLM",
+      "summary": "Running a frontier-scale model locally means keeping all its weights in GPU memory; the largest models no longer fit on one machine. Two NVIDIA DGX Stations...",
+      "source_name": "NVIDIA Developer Blog",
+      "source_url": "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm/",
+      "published_at": "2026-11-13T17:00:00Z",
+      "category": "mlops",
+      "tags": [
+        "GPUs",
+        "AI Models",
+        "Mlops"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8253,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://developer.nvidia.com/blog/?p=124562"
+    },
+    {
+      "title": "What’s new with Google Cloud",
+      "summary": "Want to know the latest from Google Cloud? Find it here in one handy location. Check back regularly for our newest updates, announcements, resources, events, learning opportunities, and more. Tip : Not sure where to find what you’re looking for on the Google Cloud blog? Start here: Google Cloud blog 101: Full list of topics, links, and resources . aside_block <ListValue: []> Nov 9 - Nov 13 Next-Generation SecOps: SentinelOne and Google Cloud Google Cloud and SentinelOne…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
+      "published_at": "2026-11-13T17:00:00Z",
+      "category": "cloud_providers",
+      "tags": [
+        "Cloud",
+        "Google Cloud",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.8253,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/"
+    },
+    {
+      "title": "New AI agent observability and governance across BigQuery and Looker",
+      "summary": "As enterprises move AI agents from experimental prototypes into production, data and platform teams are discovering that deploying an agent is only half the battle — you also need to see how it reasons, which data it touches, and what it costs to run. Today, we are announcing expanded AI agent observability and evaluation capabilities across Google Data Cloud, giving you unified visibility into your first-party (1P) data agents in BigQuery and Looker as well as custom…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/products/data-analytics/enterprise-ai-agent-observability-with-bigquery-and-looker/",
+      "published_at": "2026-11-13T17:00:00Z",
+      "category": "cloud_providers",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Cloud",
+        "Data Governance",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.8253,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/products/data-analytics/enterprise-ai-agent-observability-with-bigquery-and-looker/"
+    },
+    {
+      "title": "Where supercomputing meets agentic AI: What’s new in Google Cloud HPC and AI at SC26",
+      "summary": "Computational scientists and HPC engineers have always been among the earliest adopters of new computing paradigms, and agents are no exception. Today, research and engineering teams use AI models and agents for things such as ingesting dense scientific literature, optimizing code, and autonomously steering simulations. Yet moving from an agent that suggests code optimizations to an agentic system that reliably architects, provisions, and optimizes production HPC workloads…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/topics/hpc/whats-new-in-hpc-and-ai-at-sc26/",
+      "published_at": "2026-11-13T17:00:00Z",
+      "category": "cloud_providers",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Cloud",
+        "Google Cloud",
+        "AI Models",
+        "Research",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.8253,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/topics/hpc/whats-new-in-hpc-and-ai-at-sc26/"
+    },
+    {
+      "title": "From OLAP to OLTP: How Copel Simplified Reverse ETL Using BigQuery's Native Export to AlloyDB",
+      "summary": "Bridging the gap between analytical systems (OLAP) and transactional databases (OLTP) is notoriously complex. Synchronizing data between the two systems, often called Reverse ETL (Extract, Transform, Load), traditionally requires heavy middleware, staging buckets, and complex orchestration, especially at enterprise scale. We’re announcing the general availability (GA) of BigQuery exports to AlloyDB , allowing data engineering teams to use a single, declarative SQL statement…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/products/data-analytics/reverse-etl-bigquery-exports-to-alloydb/",
+      "published_at": "2026-11-13T17:00:00Z",
+      "category": "cloud_providers",
+      "tags": [
+        "Data Engineering",
+        "ETL",
+        "Databases",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.8253,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/products/data-analytics/reverse-etl-bigquery-exports-to-alloydb/"
+    },
+    {
+      "title": "Adapt Human Motion for Robots with NVIDIA SOMA Retargeter",
+      "summary": "Human motion offers roboticists a great starting point for teaching humanoid robots how to move. A human demonstration captures the coordination and timing...",
+      "source_name": "NVIDIA Developer Blog",
+      "source_url": "https://developer.nvidia.com/blog/adapt-human-motion-for-robots-with-nvidia-soma-retargeter/",
+      "published_at": "2026-11-13T17:00:00Z",
+      "category": "mlops",
+      "tags": [
+        "GPUs",
+        "Mlops"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8253,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://developer.nvidia.com/blog/?p=125128"
+    },
+    {
+      "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+      "summary": "",
+      "source_name": "Hugging Face",
+      "source_url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+      "published_at": "2026-11-13T14:05:22Z",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.9,
+      "importance_score": 0.8132,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://huggingface.co/blog/ggml-org/llama-cpp-v1"
+    },
+    {
+      "title": "How AI Is Helping Care Teams Get Patients the Right Care, Sooner",
+      "summary": "From pediatric research to smart hospitals, AI is helping care teams spend less time on routine tasks and more time with patients. Health systems and startups are putting it to work across healthcare, from matching patients to clinical trials to supporting radiologists, hospital teams and patients at home. Clinicians stay at the center, reviewing AI […]",
+      "source_name": "NVIDIA Blog",
+      "source_url": "https://blogs.nvidia.com/blog/how-ai-is-helping-care-teams/",
+      "published_at": "2026-11-13T13:00:42Z",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "Research",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8087,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://blogs.nvidia.com/?p=99829"
+    },
+    {
+      "title": "How to Model an Insurance Policy Without Joining Dozens of Tables",
+      "summary": "Ask an underwriter to describe a policy, and you’ll get a coherent answer: A contract, for a customer, covering a car or a house, with a handful of coverages, each with a limit and a deductible, plus a history of every change since it was issued. One policy—with parts. Many parts. Now ask your database the same question. In most insurance core systems, that single policy is sliced across dozens of relational tables: one each for coverages, vehicles, named parties…",
+      "source_name": "MongoDB Blog",
+      "source_url": "https://www.mongodb.com/company/blog/innovation/how-model-insurance-policy-without-joining-dozens-tables",
+      "published_at": "2026-11-13T12:30:27Z",
+      "category": "databases",
+      "tags": [
+        "Databases",
+        "AI Models"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.8066,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.mongodb.com/company/blog/innovation/how-model-insurance-policy-without-joining-dozens-tables"
+    },
+    {
+      "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+      "summary": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/business/customer-stories/amplitude",
+      "published_at": "2026-11-12T20:00:00Z",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI Agents",
+        "AI Models",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.97,
+      "importance_score": 0.7978,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/business/customer-stories/amplitude"
+    },
+    {
+      "title": "Brave Search API now accepts agentic payments via the x402 protocol",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://brave.com/blog/search-api-agentic-payments/",
+      "published_at": "2026-11-13T03:08:08Z",
+      "category": "aggregators",
+      "tags": [
+        "AI Agents",
+        "APIs",
+        "Hacker News"
+      ],
+      "confidence_score": 0.677,
+      "importance_score": 0.7975,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50477649"
+    },
+    {
+      "title": "Introducing Gemini 4 Hydrogen",
+      "summary": "",
+      "source_name": "Google DeepMind",
+      "source_url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
+      "published_at": "2026-11-12T18:00:50Z",
+      "category": "ai_model_companies",
+      "tags": [
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.95,
+      "importance_score": 0.7895,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/"
+    },
+    {
+      "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+      "summary": "Rotating carousel of cards with text \"Gemini 4 Hydrogen\" \"Now in Google Search\" and examples from the Google Search UI",
+      "source_name": "Google AI (The Keyword)",
+      "source_url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
+      "published_at": "2026-11-12T18:00:00Z",
+      "category": "ai_model_companies",
+      "tags": [
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.92,
+      "importance_score": 0.7895,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/"
+    },
+    {
+      "title": "New Data: Holiday Shoppers Will Rely on Agents. Retailers Must Be Ready.",
+      "summary": "A Salesforce survey shows that holiday shoppers are using AI agents for research and advice — almost 20% of shoppers now say that AI is their first stop on the way to the store — but most aren’t ready to let AI click Buy Now.",
+      "source_name": "Salesforce News",
+      "source_url": "https://www.salesforce.com/news/stories/ai-first-holiday/",
+      "published_at": "2026-11-12T18:00:00Z",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Research",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7894,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.salesforce.com/?p=96524"
+    },
+    {
+      "title": "Brazil's Caixa insurer breach exposes names and tax IDs of all 7.6M customers",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://filemanager-cdn.mziq.com/published/3972906b-e50b-4f74-ab74-4d0d32125d11/9567a559-d20a-486e-a7ae-5c6bbc030c5e",
+      "published_at": "2026-11-13T15:52:04Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.625,
+      "importance_score": 0.7881,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50485295"
+    },
+    {
+      "title": "CNCF Recognizes Cloud Native Champions in 2026 Community Awards",
+      "summary": "Annual awards honor leaders, maintainers, and documentarians building open source infrastructure Key Highlights KUBECON + CLOUDNATIVECON NORTH AMERICA, SALT LAKE CITY – November 12, 2026 – The Cloud Native Computing Foundation® (CNCF®), which builds sustainable ecosystems...",
+      "source_name": "CNCF",
+      "source_url": "https://www.cncf.io/announcements/2026/11/12/cncf-recognizes-cloud-native-champions-in-2026-community-awards/",
+      "published_at": "2026-11-12T16:00:00Z",
+      "category": "open_source_foundations",
+      "tags": [
+        "Cloud",
+        "Open Source",
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.87,
+      "importance_score": 0.7811,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.cncf.io/?p=177332"
+    },
+    {
+      "title": "For AI Advice to Be Any Good, It Has to Actually Change the Outcome",
+      "summary": "Real-time AI video assistants need a new kind of test. Here’s how we built the necessary proving ground.",
+      "source_name": "Salesforce News",
+      "source_url": "https://www.salesforce.com/news/stories/visual-ai-assistants-ivg-lessons/",
+      "published_at": "2026-11-12T16:00:00Z",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7811,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.salesforce.com/?p=96474"
+    },
+    {
+      "title": "After 600 experiments, here's what I discovered about JEPA world models",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://haddyalchaer.com/jepa",
+      "published_at": "2026-11-13T17:55:28Z",
+      "category": "aggregators",
+      "tags": [
+        "AI Models",
+        "Hacker News"
+      ],
+      "confidence_score": 0.6185,
+      "importance_score": 0.7804,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50487185"
+    },
+    {
+      "title": "Reverse engineering my Coway air purifier to ditch the cloud",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/",
+      "published_at": "2026-11-12T22:03:09Z",
+      "category": "aggregators",
+      "tags": [
+        "Cloud",
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7763,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50474959"
+    },
+    {
+      "title": "A technical vision for the Haskell ecosystem",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://discourse.haskell.org/t/a-technical-vision-for-the-haskell-ecosystem/15078",
+      "published_at": "2026-11-13T14:43:12Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.62,
+      "importance_score": 0.7708,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50484235"
+    },
+    {
+      "title": "Gang scheduling and topology-aware placement for AI training in Kubernetes",
+      "summary": "Distributed AI training workloads impose complex scheduling requirements that Kubernetes’s built-in scheduler can’t meet. Kubernetes schedules pods individually and independently, but distributed training introduces two requirements that break this model: Pods must land on hardware with...",
+      "source_name": "CNCF",
+      "source_url": "https://www.cncf.io/blog/2026/11/12/gang-scheduling-and-topology-aware-placement-for-ai-training-in-kubernetes/",
+      "published_at": "2026-11-12T12:00:00Z",
+      "category": "open_source_foundations",
+      "tags": [
+        "AI",
+        "Kubernetes",
+        "AI Models",
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.87,
+      "importance_score": 0.7645,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.cncf.io/?p=177120"
+    },
+    {
+      "title": "Gondola doubles revenue as its team builds more with Codex",
+      "summary": "Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily work.",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/business/customer-stories/gondola",
+      "published_at": "2026-11-12T12:00:00Z",
+      "category": "ai_model_companies",
+      "tags": [
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.97,
+      "importance_score": 0.7645,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/business/customer-stories/gondola"
+    },
+    {
+      "title": "Atlas Coffee Club’s Black Friday Deals (2026)",
+      "summary": "For Black Friday, a new quarterly option delivers three bags at a time, each from a different country.",
+      "source_name": "Wired",
+      "source_url": "https://www.wired.com/story/atlas-coffee-club-black-friday-2026/",
+      "published_at": "2026-11-13T19:58:41Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7577,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "6af5e015dd5636719c57f4de"
+    },
+    {
+      "title": "Early Black Friday Mattress Deals: Get Up to 55% Off WIRED-Tested Favorites",
+      "summary": "I’ve already found early deals on our favorite WIRED-tested mattresses and sleep accessories.",
+      "source_name": "Wired",
+      "source_url": "https://www.wired.com/story/best-early-black-friday-mattress-deals-11-13-2026/",
+      "published_at": "2026-11-13T19:57:56Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7576,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "6ac40a20afafd73a99ceb10c"
+    },
+    {
+      "title": "GitHub availability report: October 2026",
+      "summary": "In October, we experienced eight incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: October 2026 appeared first on The GitHub Blog .",
+      "source_name": "The GitHub Blog",
+      "source_url": "https://github.blog/news-insights/company-news/github-availability-report-october-2026/",
+      "published_at": "2026-11-13T00:20:16Z",
+      "category": "developer_platforms",
+      "tags": [
+        "Developer Tools",
+        "Developer Platforms"
+      ],
+      "confidence_score": 0.92,
+      "importance_score": 0.7559,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://github.blog/?p=100130"
+    },
+    {
+      "title": "Optimizing Document Lookup: Making Atlas Search and Vector Search Up to 5x Faster",
+      "summary": "Sometimes the biggest performance gains come not from making core operations faster, but from eliminating unnecessary work surrounding them. That is exactly what we discovered while optimizing document lookup in MongoDB Atlas Search and Vector Search. By removing redundant query planning and execution overhead, we made search queries up to 5x faster without changing the underlying search algorithms. When you run a $search or $vectorSearch query in MongoDB, two key stages…",
+      "source_name": "MongoDB Blog",
+      "source_url": "https://www.mongodb.com/company/blog/engineering/optimizing-document-lookup-making-atlas-search-vector-search-up-to-5x-faster",
+      "published_at": "2026-11-12T23:34:15Z",
+      "category": "databases",
+      "tags": [
+        "Vector Databases",
+        "Databases"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7527,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.mongodb.com/company/blog/engineering/optimizing-document-lookup-making-atlas-search-vector-search-up-to-5x-faster"
+    },
+    {
+      "title": "Draft a Constructive Feedback Conversation Script",
+      "summary": "Draft a Constructive Feedback Conversation Script Superhuman AI",
+      "source_name": "Superhuman (Zain Kahn)",
+      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQjFEUklmSUd4VGNxaF9NQ29oOHhxb1FaRTVNQUo3SGxQOThPRUtqUXN6VHpLM1V0ZFVPNFpKTVAzaEhHY19naXVYYU5ZQmRBZVlyV2tEajdiY3pheGhwMzN4YWdDVFRIVmhIYVpwNUlRTDNVUnpEWGZxXzczbjNwMmdPQ3YzSjZUV1lvNy1YQXZLZw?oc=5",
+      "published_at": "2026-11-13T18:30:59Z",
+      "category": "ai_newsletters",
+      "tags": [
+        "AI",
+        "Ai Newsletters"
+      ],
+      "confidence_score": 0.64,
+      "importance_score": 0.7516,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "CBMikgFBVV95cUxPQjFEUklmSUd4VGNxaF9NQ29oOHhxb1FaRTVNQUo3SGxQOThPRUtqUXN6VHpLM1V0ZFVPNFpKTVAzaEhHY19naXVYYU5ZQmRBZVlyV2tEajdiY3pheGhwMzN4YWdDVFRIVmhIYVpwNUlRTDNVUnpEWGZxXzczbjNwMmdPQ3YzSjZUV1lvNy1YQXZLZw"
+    },
+    {
+      "title": "Build once, run on any agent: A practical guide to agent skills",
+      "summary": "Agent skills capture repeatable engineering work in files teams can review and reuse, while tools, project context, and permissions remain specific to the host that runs them. The post Build once, run on any agent: A practical guide to agent skills appeared first on The GitHub Blog .",
+      "source_name": "The GitHub Blog",
+      "source_url": "https://github.blog/ai-and-ml/github-copilot/build-once-run-on-any-agent-a-practical-guide-to-agent-skills/",
+      "published_at": "2026-11-12T22:54:52Z",
+      "category": "developer_platforms",
+      "tags": [
+        "AI Agents",
+        "Developer Tools",
+        "Developer Platforms"
+      ],
+      "confidence_score": 0.92,
+      "importance_score": 0.7499,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://github.blog/?p=100122"
+    },
+    {
+      "title": "Video Friday: NASA PROMISEs a New Moon Rover",
+      "summary": "Your weekly selection of awesome robot videos",
+      "source_name": "IEEE Spectrum",
+      "source_url": "https://spectrum.ieee.org/video-friday-moon-rover-promise",
+      "published_at": "2026-11-13T17:30:03Z",
+      "category": "research_feeds",
+      "tags": [
+        "Research Feeds"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.7474,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://spectrum.ieee.org/video-friday-moon-rover-promise"
+    },
+    {
+      "title": "PostgreSQL Patches 52 Flaws, Including 22-Year-Old Bug Enabling Authenticated RCE",
+      "summary": "A type confusion flaw in PostgreSQL lets a database user who can create objects run code on the server. Updates released yesterday fix it, along with 51 other security flaws. Full protection from this flaw also requires rebuilding any C-language extensions installed on the server. The flaw, tracked as CVE-2026-6460, has a CVSS score of 8.8. Any code run this way has the rights of the operating",
+      "source_name": "The Hacker News",
+      "source_url": "https://thehackernews.com/2026/11/postgresql-patches-52-flaws-including.html",
+      "published_at": "2026-11-13T16:53:08Z",
+      "category": "cybersecurity",
+      "tags": [
+        "Security",
+        "Databases",
+        "Cybersecurity"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7448,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://thehackernews.com/2026/11/postgresql-patches-52-flaws-including.html"
+    },
+    {
+      "title": "New Mior and Skyfall Attacks Let Rogue Cloud Hosts Steal Secrets From AMD SEV-SNP VMs",
+      "summary": "Two attacks made public this week allow a malicious host to read data inside AMD SEV-SNP-protected virtual machines (VMs), which are built to keep the server's operator out. One of them, Mior, can also modify a VM's memory and fake the signed report confirming which software it runs. Both need control of the server's hypervisor, and Mior also needs control of the server's BIOS. Researchers",
+      "source_name": "The Hacker News",
+      "source_url": "https://thehackernews.com/2026/11/new-mior-and-skyfall-attacks-let-rogue.html",
+      "published_at": "2026-11-13T15:27:05Z",
+      "category": "cybersecurity",
+      "tags": [
+        "Cloud",
+        "Research",
+        "Cybersecurity"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7388,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://thehackernews.com/2026/11/new-mior-and-skyfall-attacks-let-rogue.html"
+    },
+    {
+      "title": "The Download: Silicon Valley’s blind spot and Nvidia’s chip-tracking plan",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Silicon Valley claims to know the future. So why did it get the midterms so wrong? —Aaron Zamost, a tech communications consultant and a former executive at Square The self-styled visionaries…",
+      "source_name": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/11/13/1148551/the-download-silicon-valley-midterms-nvidia-chip-tracking/",
+      "published_at": "2026-11-13T13:10:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "GPUs",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.7293,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.technologyreview.com/?p=1148551"
+    },
+    {
+      "title": "Anthropic brings Claude into your video calls",
+      "summary": "Anthropic brings Claude into your video calls Superhuman AI",
+      "source_name": "Superhuman (Zain Kahn)",
+      "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9qQkhKdjV4V0VnX0VsWGtQN3Qza2FiQzNVMTlMXzZaSHNJRzBnYXhOcjI5eXlLay1PeE5IeC1IM191YjNnYjFHazZMUnVCb05MOUFzZFBhZkRtcVUzMG1vQ2p3UG9jWWhRU1hnNmFxOU5fUU5xQ2NZOHBpTkhfUQ?oc=5",
+      "published_at": "2026-11-13T13:06:04Z",
+      "category": "ai_newsletters",
+      "tags": [
+        "AI",
+        "Ai Newsletters"
+      ],
+      "confidence_score": 0.64,
+      "importance_score": 0.729,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "CBMifkFVX3lxTE9qQkhKdjV4V0VnX0VsWGtQN3Qza2FiQzNVMTlMXzZaSHNJRzBnYXhOcjI5eXlLay1PeE5IeC1IM191YjNnYjFHazZMUnVCb05MOUFzZFBhZkRtcVUzMG1vQ2p3UG9jWWhRU1hnNmFxOU5fUU5xQ2NZOHBpTkhfUQ"
+    }
+  ]
+}
