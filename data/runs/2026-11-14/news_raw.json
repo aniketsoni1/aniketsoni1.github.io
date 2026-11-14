@@ -1,0 +1,830 @@
+{
+  "generated_at": "2026-11-14T18:46:42.714710+00:00",
+  "post_date": "2026-11-14",
+  "sources_checked": 48,
+  "candidates": 45,
+  "items": [
+    {
+      "title": "KDE: The documentary [video]",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c",
+      "published_at": "2026-11-14T13:43:28+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.654,
+      "importance_score": 0.8489,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50496976"
+    },
+    {
+      "title": "Tech Companies Are Trying to Shift the Concept of Privacy (Again)",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again",
+      "published_at": "2026-11-14T12:45:45+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.689,
+      "importance_score": 0.8449,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50496602"
+    },
+    {
+      "title": "Italy fines Meta $887M over Android users' data access",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.reuters.com/world/italy-fines-meta-887-million-over-android-users-data-access-2026-11-14/",
+      "published_at": "2026-11-14T13:48:06+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.6385,
+      "importance_score": 0.8206,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50497009"
+    },
+    {
+      "title": "Monkey Island: all 13 versions side by side",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://monkeyisland.pages.dev/",
+      "published_at": "2026-11-14T04:23:30+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.8101,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50493904"
+    },
+    {
+      "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+      "published_at": "2026-11-14T02:52:59+00:00",
+      "category": "aggregators",
+      "tags": [
+        "AI",
+        "GPUs",
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.8038,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50493251"
+    },
+    {
+      "title": "Ggml v1.0.0",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://github.com/ggml-org/ggml/releases/tag/v1.0.0",
+      "published_at": "2026-11-14T02:28:29+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.8021,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50493062"
+    },
+    {
+      "title": "Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://unsloth.ai/docs/models/qwen3.8",
+      "published_at": "2026-11-14T00:06:04+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.664,
+      "importance_score": 0.7922,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50491980"
+    },
+    {
+      "title": "Terminal borders that don't cost a cell",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.joshka.net/cell-borders/",
+      "published_at": "2026-11-13T23:06:40+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7881,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50491423"
+    },
+    {
+      "title": "Introducing ChatGPT Wallet",
+      "summary": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/introducing-chatgpt-wallet",
+      "published_at": "2026-11-13T15:00:00+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI Agents",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.97,
+      "importance_score": 0.7843,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/index/introducing-chatgpt-wallet"
+    },
+    {
+      "title": "Tech Leaders Rally Behind Jensen Huang",
+      "summary": "In social media posts and letters to Nvidia’s board, Mr. Huang’s billionaire peers described him as a singular leader who could not be replaced at Nvidia.",
+      "source_name": "The New York Times - Technology",
+      "source_url": "https://www.nytimes.com/2026/11/14/technology/silicon-valley-nvidia-jensen-huang.html",
+      "published_at": "2026-11-14T18:29:55+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "GPUs",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7588,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.nytimes.com/2026/11/14/technology/silicon-valley-nvidia-jensen-huang.html"
+    },
+    {
+      "title": "PyPI's redesigned project pages with clearer security signals are now live",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/",
+      "published_at": "2026-11-14T15:40:52+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Security",
+        "Hacker News"
+      ],
+      "confidence_score": 0.6105,
+      "importance_score": 0.7584,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50497892"
+    },
+    {
+      "title": "The FAA ground stop stranded me at the airport with 3 kids until 4 a.m. We're delayed 3 days and facing thousands in costs.",
+      "summary": "The FAA ground stop left my family stranded in Orlando with three young kids. We're facing thousands in extra expenses and lost wages.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/faa-ground-stop-stranded-airport-twin-toddlers-family-2026-11",
+      "published_at": "2026-11-14T18:19:33+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7581,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/faa-ground-stop-stranded-airport-twin-toddlers-family-2026-11"
+    },
+    {
+      "title": "Here's what officials say caused the FAA's nationwide ground stop",
+      "summary": "The transportation secretary on Saturday said the telecommunications issue was either a contractor mistake or a faulty router.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/faa-national-ground-stop-flights-2026-11",
+      "published_at": "2026-11-14T18:18:27+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.758,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/faa-national-ground-stop-flights-2026-11"
+    },
+    {
+      "title": "I let my teaching license expire after years of hard work. I didn't expect to feel so free.",
+      "summary": "A chronic illness forced me to leave my teaching career behind. Letting my license expire helped me move on.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/let-career-credentials-teaching-license-expire-found-unexpected-freedom-2026-11",
+      "published_at": "2026-11-14T17:49:01+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.756,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/let-career-credentials-teaching-license-expire-found-unexpected-freedom-2026-11"
+    },
+    {
+      "title": "Shield helps technicians hand off legacy portal work with OpenAI",
+      "summary": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/business/customer-stories/shield",
+      "published_at": "2026-11-13T08:00:00+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI Agents",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.97,
+      "importance_score": 0.7551,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/business/customer-stories/shield"
+    },
+    {
+      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+      "source_name": "TechCrunch - AI",
+      "source_url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "published_at": "2026-11-14T17:30:00+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7547,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://techcrunch.com/?p=3162590"
+    },
+    {
+      "title": "A petition to reinstate Jensen Huang as Nvidia CEO has over 100,000 signatures, including some big names",
+      "summary": "Organizers of the petition say some 50,000 shareholders and 5,000 current Nvidia employees, have signed their petition to bring back Jensen Huang.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/petition-reinstate-jensen-huang-nvidia-elon-musk-2026-11",
+      "published_at": "2026-11-14T17:28:05+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "GPUs",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7545,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/petition-reinstate-jensen-huang-nvidia-elon-musk-2026-11"
+    },
+    {
+      "title": "Faster Scientific Simulations with New FP64 Algorithms in NVIDIA cuBLAS",
+      "summary": "Many scientific simulations, from molecular chemistry to materials science, spend the majority of their execution time computing high-precision dense general...",
+      "source_name": "NVIDIA Developer Blog",
+      "source_url": "https://developer.nvidia.com/blog/faster-scientific-simulations-with-new-fp64-algorithms-in-nvidia-cublas/",
+      "published_at": "2026-11-13T22:13:51+00:00",
+      "category": "mlops",
+      "tags": [
+        "GPUs",
+        "Mlops"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.7544,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://developer.nvidia.com/blog/?p=125124"
+    },
+    {
+      "title": "Understanding span queries in Amazon OpenSearch Service",
+      "summary": "Among OpenSearch query types, span queries give you precise control over where terms appear in a document and how they relate to one another. Learn how span queries work, when to use them instead of phrase queries, and how to compose them to enforce exact term order, position, and containment that phrase queries cannot express.",
+      "source_name": "AWS Big Data Blog",
+      "source_url": "https://aws.amazon.com/blogs/big-data/understanding-span-queries-in-amazon-opensearch-service/",
+      "published_at": "2026-11-13T22:00:29+00:00",
+      "category": "cloud_providers",
+      "tags": [
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.92,
+      "importance_score": 0.7535,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "d36c156ec420e9dcc0e92aed00efa8fc2cac16a0"
+    },
+    {
+      "title": "Lovable apps expose passport details and more than 200K private messages",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.crissyfield.de/research/lovable-en/",
+      "published_at": "2026-11-14T17:43:10+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.605,
+      "importance_score": 0.7531,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50499017"
+    },
+    {
+      "title": "Nvidia's new CEO search is on. Here are the top candidates to replace Jensen Huang.",
+      "summary": "Nvidia's new CEO search is underway after Jensen Huang's resignation. Rene Haas, Tim Cook, and others are being floated as potential candidates.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/nvidia-new-ceo-candidates-replace-jensen-huang-2026-11",
+      "published_at": "2026-11-14T16:37:13+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "GPUs",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.751,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/nvidia-new-ceo-candidates-replace-jensen-huang-2026-11"
+    },
+    {
+      "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
+      "summary": "Some governments moved to confirm chip supply commitments, while others are monitoring the impact on local projects or addressing ongoing investigations.",
+      "source_name": "TechCrunch - AI",
+      "source_url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
+      "published_at": "2026-11-14T16:34:15+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "GPUs",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7508,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://techcrunch.com/?p=3188720"
+    },
+    {
+      "title": "Run GPU-Powered Black Hole Interferometry with NVIDIA cuPhoton",
+      "summary": "Imaging black holes is challenging because they are distant and appear tiny in the sky—for example, M87*’s observed ring spans just 42 microarcseconds. The...",
+      "source_name": "NVIDIA Developer Blog",
+      "source_url": "https://developer.nvidia.com/blog/run-gpu-powered-black-hole-interferometry-with-nvidia-cuphoton/",
+      "published_at": "2026-11-13T21:17:17+00:00",
+      "category": "mlops",
+      "tags": [
+        "GPUs",
+        "Mlops"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.7505,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://developer.nvidia.com/blog/?p=125204"
+    },
+    {
+      "title": "A former Miss USA contestant says she felt 'robbed' after a leaked Miss Universe video raised doubts about who could win",
+      "summary": "TLC's \"Crown of Deceit: Inside the Miss Universe Scandal\" dives into the controversies that have plagued the pageant, including a leaked video.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/miss-usa-contestant-stephanie-sullivan-leaked-miss-universe-diversity-video-2026-11",
+      "published_at": "2026-11-14T16:12:01+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7493,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/miss-usa-contestant-stephanie-sullivan-leaked-miss-universe-diversity-video-2026-11"
+    },
+    {
+      "title": "Optimizing PySpark UDFs on AWS Glue 6.0 with native Arrow UDFs",
+      "summary": "Python UDFs in PySpark can be slow because data is serialized between the JVM and the Python runtime. We benchmark five approaches on AWS Glue 6.0 (standard Python, Arrow-optimized Python, vectorized pandas, native Arrow UDFs, and Spark SQL) across 10M to 100M rows, and separate transport cost from compute cost to explain the ranking.",
+      "source_name": "AWS Big Data Blog",
+      "source_url": "https://aws.amazon.com/blogs/big-data/optimizing-pyspark-udfs-on-aws-glue-6-0-with-native-arrow-udfs/",
+      "published_at": "2026-11-13T20:58:25+00:00",
+      "category": "cloud_providers",
+      "tags": [
+        "Apache Spark",
+        "AWS",
+        "Vector Databases",
+        "Python",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.92,
+      "importance_score": 0.7492,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "7bf8b83db29cb68a3458eff6c530e770186e13e9"
+    },
+    {
+      "title": "😸 Deep Dive: The Future of Work is Multiplayer",
+      "summary": "PLUS: What happens when AI stops being your personal assistant and starts working alongside the whole team?",
+      "source_name": "The Neuron",
+      "source_url": "https://www.theneurondaily.com/p/deep-dive-the-future-of-work-is-multiplayer",
+      "published_at": "2026-11-14T16:00:00+00:00",
+      "category": "ai_newsletters",
+      "tags": [
+        "AI",
+        "Ai Newsletters"
+      ],
+      "confidence_score": 0.64,
+      "importance_score": 0.7484,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.theneurondaily.com/p/deep-dive-the-future-of-work-is-multiplayer"
+    },
+    {
+      "title": "I was flying when the FAA grounded all flights. Everything was chaos, and I got stuck on the tarmac for hours.",
+      "summary": "I learned about the ground stop at 35,000 feet. It was scary not knowing if it was AI related or a cyberattack.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/flying-when-faa-grounded-flights-what-happened-travel-chaos-2026-11",
+      "published_at": "2026-11-14T14:49:09+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7435,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/flying-when-faa-grounded-flights-what-happened-travel-chaos-2026-11"
+    },
+    {
+      "title": "Multi-statement transactions for Apache Iceberg tables in Amazon Redshift",
+      "summary": "Amazon Redshift now supports multi-statement transactions for Apache Iceberg tables, so you can run several DML statements against one Iceberg table inside a single BEGIN…COMMIT and publish them as one atomic Iceberg snapshot. This post explains why one commit per statement makes multi-step pipelines fragile, what you can run in a transaction, and how it performs.",
+      "source_name": "AWS Big Data Blog",
+      "source_url": "https://aws.amazon.com/blogs/big-data/multi-statement-transactions-for-apache-iceberg-tables-in-amazon-redshift/",
+      "published_at": "2026-11-13T19:32:46+00:00",
+      "category": "cloud_providers",
+      "tags": [
+        "Data Pipelines",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.92,
+      "importance_score": 0.7432,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "d64bc66904baf525ffcdfc93feeea2e5e7895506"
+    },
+    {
+      "title": "Zugwise: Domain-Aware Game Reconstruction for Digitizing Handwritten Chess Scoresheets",
+      "summary": "arXiv:2611.14544v1 Announce Type: new Abstract: Digitizing handwritten chess scoresheets has been studied as a handwriting-recognition problem: read the move in each box and check that it is legal. This framing misses the errors that matter most. A misread that yields an illegal move is loud. One that yields a legal-but-wrong move is silent, because a legality-only pipeline accepts it and reads every later move against a wrong position. We therefore treat the task as game…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2611.14544",
+      "published_at": "2026-11-14T05:00:00+00:00",
+      "category": "research_feeds",
+      "tags": [
+        "Data Pipelines",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7426,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2611.14544v1"
+    },
+    {
+      "title": "Cleaning an Agent's History Hurts When the World Still Holds the Error",
+      "summary": "arXiv:2611.14654v1 Announce Type: new Abstract: Tool-using language-model agents accumulate histories of their own mistakes, and a system that compacts, repairs or hands off such a history decides what it says about those mistakes while their effects stay in the world. Prior work cleans the history at a fixed world, where showing a corrected step and saying it is done move together. We ask whether the same correct content helps or hurts depending on how the history states it…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2611.14654",
+      "published_at": "2026-11-14T05:00:00+00:00",
+      "category": "research_feeds",
+      "tags": [
+        "AI Agents",
+        "AI Models",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7426,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2611.14654v1"
+    },
+    {
+      "title": "Together Compiler: Continual Compilation for AI Inference",
+      "summary": "arXiv:2611.14681v1 Announce Type: new Abstract: Today's AI workloads are rapidly changing: new models are released more often, model architectures are increasingly diverse, and traffic distributions change frequently. The challenge we face at Together AI is continual optimization for these changing workloads. Compiling a deployment into an optimized forward pass is a challenge that is well-suited for agent hill-climbing. Existing systems struggle with continual compilation…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2611.14681",
+      "published_at": "2026-11-14T05:00:00+00:00",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "AI Models",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7426,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2611.14681v1"
+    },
+    {
+      "title": "When Should Semantic Priors Enter Partially-Identified Causal Discovery?",
+      "summary": "arXiv:2611.14736v1 Announce Type: new Abstract: Observational causal discovery often leaves causal di- rections unresolved or unstable. Large language mod- els (LLMs) can provide semantic information to resolve these directions, but incorrect proposals can exclude the true causal graph and invalidate downstream inference. We study three separate decisions: where to allocate semantic queries, which proposals to admit, and which causal graphs to retain. Our framework…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2611.14736",
+      "published_at": "2026-11-14T05:00:00+00:00",
+      "category": "research_feeds",
+      "tags": [
+        "LLMs",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7426,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2611.14736v1"
+    },
+    {
+      "title": "SynthCorp: A Platform for Creating Benchmarks for Data Agents",
+      "summary": "arXiv:2611.14765v1 Announce Type: new Abstract: Current benchmarks for LLM-driven data agents saturate quickly and cannot target specific capabilities. We present SynthCorp, a platform that creates customizable data estates and benchmarks by simulating how business events produce and modify corporate data over time. Each data estate combines relational databases, a document store, and a data catalog, paired with evaluation tasks and executable gold programs. First, given a…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2611.14765",
+      "published_at": "2026-11-14T05:00:00+00:00",
+      "category": "research_feeds",
+      "tags": [
+        "LLMs",
+        "AI Agents",
+        "Databases",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7426,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2611.14765v1"
+    },
+    {
+      "title": "Rational Use of Time for Social Coordination in Humans and AI",
+      "summary": "arXiv:2611.14766v1 Announce Type: new Abstract: All social interactions are situated in time. Previous studies have shown that humans are able to use implicit temporal cues, such as the duration of a pause, to infer others' mental states. But how do humans use temporal cues for dynamic, fine-grained social coordination? And can AI systems do the same, without ``experiencing'' continuous real-time as humans do? We study these questions using a cooperative card game task…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2611.14766",
+      "published_at": "2026-11-14T05:00:00+00:00",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7426,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2611.14766v1"
+    },
+    {
+      "title": "Leaderboard Hacking: Preference-Based Model Evaluations are Vulnerable to Manipulation",
+      "summary": "arXiv:2611.14769v1 Announce Type: new Abstract: Arena-style rankings of language models are a widely used evaluation framework in online leaderboards, research papers, and model evaluation in production. These rankings aim to realistically assess model performance using pairwise comparisons of anonymous models on user prompts, aggregating votes via the Bradley-Terry model to produce the final ranking. However, we find that these leaderboards are highly vulnerable to several…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2611.14769",
+      "published_at": "2026-11-14T05:00:00+00:00",
+      "category": "research_feeds",
+      "tags": [
+        "AI Models",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7426,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2611.14769v1"
+    },
+    {
+      "title": "Robust Task-Aware State Estimation from Pre-trained Perception",
+      "summary": "arXiv:2611.14781v1 Announce Type: new Abstract: Agents that perform state estimation using pretrained perception models, e.g., Vision-Language Models (VLMs), face the fundamental challenge that predictions are uncertain. Still, most approaches determinize these predictions into a single best-guess state and make decisions as if it were ground truth. This is brittle because when the guess is wrong, the agent's decisions may be unsafe or infeasible. At the other extreme…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2611.14781",
+      "published_at": "2026-11-14T05:00:00+00:00",
+      "category": "research_feeds",
+      "tags": [
+        "AI Agents",
+        "AI Models",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7426,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2611.14781v1"
+    },
+    {
+      "title": "When Is Proof-Step Verification Worth Its Cost? Operating Requirements of Certify-or-Decline Verification for Open-Weight Mathematical Reasoning",
+      "summary": "arXiv:2611.14794v1 Announce Type: new Abstract: Proof-step verification rewrites a solver's answer into typed steps and uses LLM judges to certify or decline. We evaluate this pipeline on open-weight models across GPQA, AIME-2025, and a MATH-500 subset. Certification raises answer-key-match precision by 31 percentage points on the strong GPQA configuration and 46 on AIME, while answering only 35% and 21% of attempts. On near-ceiling MATH-500, gains are at most 5 points at a…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2611.14794",
+      "published_at": "2026-11-14T05:00:00+00:00",
+      "category": "research_feeds",
+      "tags": [
+        "LLMs",
+        "Data Pipelines",
+        "AI Models",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7426,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2611.14794v1"
+    },
+    {
+      "title": "GenPFN: An In-Context Tabular Foundation Model Approach for Augmenting Small Datasets in Engineering",
+      "summary": "arXiv:2611.14804v1 Announce Type: new Abstract: Costly simulations and experiments limit the data available for engineering design. This paper proposes GenPFN, a training-free candidate generator guided by a pretrained tabular Prior-Data Fitted Network (TabPFN) classifier with fixed weights. The context contains evaluated designs labeled desired (Class 1) or undesired (Class 0). GenPFN interpolates between desired designs and refines candidates using gated classifier…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2611.14804",
+      "published_at": "2026-11-14T05:00:00+00:00",
+      "category": "research_feeds",
+      "tags": [
+        "AI Models",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7426,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2611.14804v1"
+    },
+    {
+      "title": "Attackers Exploit UnrealIRCd Flaw That Enables Server-Level Command Injection",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a high-severity security flaw impacting UnrealIRCd, an open-source Internet Relay Chat (IRC) server, to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation. The vulnerability, tracked as CVE-2026-114713 (CVSS score: 8.6), is a case of improper neutralization of delimiters",
+      "source_name": "The Hacker News",
+      "source_url": "https://thehackernews.com/2026/11/attackers-exploit-unrealircd-flaw-that.html",
+      "published_at": "2026-11-14T12:38:35+00:00",
+      "category": "cybersecurity",
+      "tags": [
+        "Open Source",
+        "Security",
+        "Cybersecurity"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7344,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://thehackernews.com/2026/11/attackers-exploit-unrealircd-flaw-that.html"
+    },
+    {
+      "title": "How to Model an Insurance Policy Without Joining Dozens of Tables",
+      "summary": "Ask an underwriter to describe a policy, and you’ll get a coherent answer: A contract, for a customer, covering a car or a house, with a handful of coverages, each with a limit and a deductible, plus a history of every change since it was issued. One policy—with parts. Many parts. Now ask your database the same question. In most insurance core systems, that single policy is sliced across dozens of relational tables: one each for coverages, vehicles, named parties…",
+      "source_name": "MongoDB Blog",
+      "source_url": "https://www.mongodb.com/company/blog/innovation/how-model-insurance-policy-without-joining-dozens-tables",
+      "published_at": "2026-11-13T12:30:27+00:00",
+      "category": "databases",
+      "tags": [
+        "Databases",
+        "AI Models"
+      ],
+      "confidence_score": 0.8,
+      "importance_score": 0.7139,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.mongodb.com/company/blog/innovation/how-model-insurance-policy-without-joining-dozens-tables"
+    },
+    {
+      "title": "GitHub availability report: October 2026",
+      "summary": "In October, we experienced eight incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: October 2026 appeared first on The GitHub Blog .",
+      "source_name": "The GitHub Blog",
+      "source_url": "https://github.blog/news-insights/company-news/github-availability-report-october-2026/",
+      "published_at": "2026-11-13T00:20:16+00:00",
+      "category": "developer_platforms",
+      "tags": [
+        "Developer Tools",
+        "Developer Platforms"
+      ],
+      "confidence_score": 0.9,
+      "importance_score": 0.6632,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://github.blog/?p=100130"
+    },
+    {
+      "title": "Optimizing Document Lookup: Making Atlas Search and Vector Search Up to 5x Faster",
+      "summary": "Sometimes the biggest performance gains come not from making core operations faster, but from eliminating unnecessary work surrounding them. That is exactly what we discovered while optimizing document lookup in MongoDB Atlas Search and Vector Search. By removing redundant query planning and execution overhead, we made search queries up to 5x faster without changing the underlying search algorithms. When you run a $search or $vectorSearch query in MongoDB, two key stages…",
+      "source_name": "MongoDB Blog",
+      "source_url": "https://www.mongodb.com/company/blog/engineering/optimizing-document-lookup-making-atlas-search-vector-search-up-to-5x-faster",
+      "published_at": "2026-11-12T23:34:15+00:00",
+      "category": "databases",
+      "tags": [
+        "Vector Databases",
+        "Databases"
+      ],
+      "confidence_score": 0.8,
+      "importance_score": 0.66,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.mongodb.com/company/blog/engineering/optimizing-document-lookup-making-atlas-search-vector-search-up-to-5x-faster"
+    },
+    {
+      "title": "Draft a Constructive Feedback Conversation Script",
+      "summary": "Draft a Constructive Feedback Conversation Script Superhuman AI",
+      "source_name": "Superhuman (Zain Kahn)",
+      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQjFEUklmSUd4VGNxaF9NQ29oOHhxb1FaRTVNQUo3SGxQOThPRUtqUXN6VHpLM1V0ZFVPNFpKTVAzaEhHY19naXVYYU5ZQmRBZVlyV2tEajdiY3pheGhwMzN4YWdDVFRIVmhIYVpwNUlRTDNVUnpEWGZxXzczbjNwMmdPQ3YzSjZUV1lvNy1YQXZLZw?oc=5",
+      "published_at": "2026-11-13T18:30:59+00:00",
+      "category": "ai_newsletters",
+      "tags": [
+        "AI",
+        "Ai Newsletters"
+      ],
+      "confidence_score": 0.62,
+      "importance_score": 0.6589,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "CBMikgFBVV95cUxPQjFEUklmSUd4VGNxaF9NQ29oOHhxb1FaRTVNQUo3SGxQOThPRUtqUXN6VHpLM1V0ZFVPNFpKTVAzaEhHY19naXVYYU5ZQmRBZVlyV2tEajdiY3pheGhwMzN4YWdDVFRIVmhIYVpwNUlRTDNVUnpEWGZxXzczbjNwMmdPQ3YzSjZUV1lvNy1YQXZLZw"
+    },
+    {
+      "title": "Build once, run on any agent: A practical guide to agent skills",
+      "summary": "Agent skills capture repeatable engineering work in files teams can review and reuse, while tools, project context, and permissions remain specific to the host that runs them. The post Build once, run on any agent: A practical guide to agent skills appeared first on The GitHub Blog .",
+      "source_name": "The GitHub Blog",
+      "source_url": "https://github.blog/ai-and-ml/github-copilot/build-once-run-on-any-agent-a-practical-guide-to-agent-skills/",
+      "published_at": "2026-11-12T22:54:52+00:00",
+      "category": "developer_platforms",
+      "tags": [
+        "AI Agents",
+        "Developer Tools",
+        "Developer Platforms"
+      ],
+      "confidence_score": 0.9,
+      "importance_score": 0.6572,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://github.blog/?p=100122"
+    },
+    {
+      "title": "PostgreSQL Patches 52 Flaws, Including 22-Year-Old Bug Enabling Authenticated RCE",
+      "summary": "A type confusion flaw in PostgreSQL lets a database user who can create objects run code on the server. Updates released yesterday fix it, along with 51 other security flaws. Full protection from this flaw also requires rebuilding any C-language extensions installed on the server. The flaw, tracked as CVE-2026-6460, has a CVSS score of 8.8. Any code run this way has the rights of the operating",
+      "source_name": "The Hacker News",
+      "source_url": "https://thehackernews.com/2026/11/postgresql-patches-52-flaws-including.html",
+      "published_at": "2026-11-13T16:53:08+00:00",
+      "category": "cybersecurity",
+      "tags": [
+        "Security",
+        "Databases",
+        "Cybersecurity"
+      ],
+      "confidence_score": 0.74,
+      "importance_score": 0.6521,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://thehackernews.com/2026/11/postgresql-patches-52-flaws-including.html"
+    }
+  ]
+}
