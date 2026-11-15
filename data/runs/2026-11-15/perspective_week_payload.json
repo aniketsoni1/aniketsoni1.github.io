@@ -1,0 +1,140 @@
+{
+  "post_date": "2026-11-15",
+  "week_start": "2026-11-09",
+  "week_label": "November 9–15, 2026",
+  "theme": "AI",
+  "related_themes": [
+    "Ai Model Companies",
+    "AI Agents",
+    "Cloud",
+    "Open Source Foundations",
+    "Mainstream Press"
+  ],
+  "tag_counts": [
+    {
+      "tag": "AI",
+      "count": 23
+    },
+    {
+      "tag": "Ai Model Companies",
+      "count": 22
+    },
+    {
+      "tag": "AI Agents",
+      "count": 13
+    },
+    {
+      "tag": "Cloud",
+      "count": 12
+    },
+    {
+      "tag": "Open Source Foundations",
+      "count": 10
+    },
+    {
+      "tag": "Mainstream Press",
+      "count": 8
+    }
+  ],
+  "stories_reviewed": 68,
+  "runs_used": [
+    "2026-11-09",
+    "2026-11-10",
+    "2026-11-11",
+    "2026-11-12",
+    "2026-11-13",
+    "2026-11-14",
+    "2026-11-15"
+  ],
+  "sources_count": 15,
+  "citations": [
+    {
+      "date": "2026-11-11",
+      "title": "Gilbert + Tobin rethinks the business of law with AI",
+      "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
+      "source_name": "OpenAI",
+      "tags": [
+        "AI",
+        "Ai Model Companies"
+      ],
+      "summary": "Gilbert + Tobin's Partner and CEO, Sam Nickless, engaged in a conversation regarding the business of law and AI.",
+      "why": "This indicates an enterprise-level discussion on AI integration, which can inform strategies for data and AI engineers on legal sector applications and challenges.",
+      "score": 0.9
+    },
+    {
+      "date": "2026-11-11",
+      "title": "Meta Wins CNCF End User Case Study Contest for Accelerating AI Infrastructure Deployments From Hours to Minutes",
+      "url": "https://www.cncf.io/announcements/2026/11/11/meta-wins-cncf-end-user-case-study-contest-for-accelerating-ai-infrastructure-deployments-from-hours-to-minutes/",
+      "source_name": "CNCF",
+      "tags": [
+        "AI",
+        "Kubernetes",
+        "Cloud",
+        "Research",
+        "Open Source Foundations"
+      ],
+      "summary": "Meta is developing a GitOps platform utilizing Argo CD and Kargo to enhance application delivery across 100 Kubernetes clusters that support AI research and inference.",
+      "why": "This approach aims to accelerate AI infrastructure deployments, which is critical for engineers managing large-scale AI workloads.",
+      "score": 0.8823
+    },
+    {
+      "date": "2026-11-10",
+      "title": "CNCF Welcomes Twelve New Members as Organizations Look to Run AI Agents on Open, Sovereign Infrastructure",
+      "url": "https://www.cncf.io/announcements/2026/11/10/cncf-welcomes-twelve-new-members-as-organizations-look-to-run-ai-agents-on-open-sovereign-infrastructure/",
+      "source_name": "CNCF",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Cloud",
+        "Security",
+        "Open Source Foundations"
+      ],
+      "summary": "The Cloud Native Computing Foundation (CNCF) welcomed new members. Organizations are joining the cloud native community to enhance security, visibility, and control for production AI.",
+      "why": "This indicates a growing industry focus on leveraging cloud native principles to manage and secure AI workloads, which is relevant for engineers building and deploying AI systems.",
+      "score": 0.8813
+    },
+    {
+      "date": "2026-11-10",
+      "title": "CNCF Welcomes CoreWeave as a Platinum Member to Further Open Source AI Infrastructure",
+      "url": "https://www.cncf.io/announcements/2026/11/10/cncf-welcomes-coreweave-as-a-platinum-member-to-further-open-source-ai-infrastructure/",
+      "source_name": "CNCF",
+      "tags": [
+        "AI",
+        "Cloud",
+        "Open Source",
+        "Open Source Foundations"
+      ],
+      "summary": "The Cloud Native Computing Foundation (CNCF) announced CoreWeave has joined as a Platinum Member.",
+      "why": "This indicates a commitment to open, cloud-native infrastructure for production AI at scale, which is relevant for engineers building and deploying AI solutions.",
+      "score": 0.8813
+    },
+    {
+      "date": "2026-11-10",
+      "title": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
+      "url": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/",
+      "source_name": "Google AI (The Keyword)",
+      "tags": [
+        "AI",
+        "Ai Model Companies"
+      ],
+      "summary": "Google and Adobe are integrating creative and productivity tools, enabling PDF editing in Drive and Adobe AI use within Gemini.",
+      "why": "This integration streamlines workflows for enterprise users by embedding specialized tools directly into common productivity platforms.",
+      "score": 0.8729
+    },
+    {
+      "date": "2026-11-12",
+      "title": "Gang scheduling and topology-aware placement for AI training in Kubernetes",
+      "url": "https://www.cncf.io/blog/2026/11/12/gang-scheduling-and-topology-aware-placement-for-ai-training-in-kubernetes/",
+      "source_name": "CNCF",
+      "tags": [
+        "AI",
+        "Kubernetes",
+        "AI Models",
+        "Open Source Foundations"
+      ],
+      "summary": "Distributed AI training workloads have complex scheduling requirements that the default Kubernetes scheduler cannot meet. Kubernetes schedules pods individually and independently, which is insufficient for distributed training.",
+      "why": "This indicates a need for specialized scheduling solutions beyond standard Kubernetes for efficient AI training infrastructure.",
+      "score": 0.8628
+    }
+  ]
+}
