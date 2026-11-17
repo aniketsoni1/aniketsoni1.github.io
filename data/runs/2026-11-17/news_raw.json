@@ -1,0 +1,828 @@
+{
+  "generated_at": "2026-11-17T21:50:02.104642+00:00",
+  "post_date": "2026-11-17",
+  "sources_checked": 48,
+  "candidates": 45,
+  "items": [
+    {
+      "title": "Salesforce and Microsoft Announce Copilotforce, Bringing Salesforce Customer Context and Sales Workflows to Microsoft Copilot",
+      "summary": "New integrations bring Salesforce customer context and sales workflows into Microsoft Copilot, enable real-time CRM collaboration in Microsoft Teams, and connect Salesforce Data 360 with Microsoft Fabric through bidirectional zero-copy data access. Accenture is serving as design and implementation partner along with being customer zero, deploying the integrations in its own global sales organization. SAN […]",
+      "source_name": "Salesforce News",
+      "source_url": "https://www.salesforce.com/news/stories/copilotforce-announcement/",
+      "published_at": "2026-11-17T18:05:00+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.8844,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.salesforce.com/?p=96611"
+    },
+    {
+      "title": "Informatica from Salesforce brings Trusted Enterprise Data into Microsoft Copilot, Microsoft Foundry, and Microsoft Fabric to Accelerate AI & Analytics",
+      "summary": "Expanded Microsoft collaboration brings Informatica’s enterprise data intelligence directly into Microsoft Copilot for business users and Microsoft Foundry for AI developers, while strengthening trusted analytics across Microsoft Fabric. Announcement Highlights Informatica, a leader in AI-powered enterprise cloud data management, today announced an expanded collaboration with Microsoft at Microsoft Ignite 2026. The collaboration introduces a Microsoft […]",
+      "source_name": "Salesforce News",
+      "source_url": "https://www.salesforce.com/news/stories/informatica-trusted-enterprise-data-microsoft-collaboration/",
+      "published_at": "2026-11-17T18:05:00+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "Cloud",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.8844,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.salesforce.com/?p=96633"
+    },
+    {
+      "title": "Introducing GPT-6.2 Astra and Sol",
+      "summary": "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+      "published_at": "2026-11-17T17:45:00+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "APIs",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.99,
+      "importance_score": 0.883,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/index/introducing-gpt-6-2-astra-sol"
+    },
+    {
+      "title": "Put Gemini to work for you",
+      "summary": "A user interface displaying the prompt \"What can I get done for you?\" above an input box containing placeholder text \"Describe a task\".",
+      "source_name": "Google AI (The Keyword)",
+      "source_url": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
+      "published_at": "2026-11-17T17:00:00+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.8799,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/"
+    },
+    {
+      "title": "Is your OpenTelemetry pipeline becoming a performance bottleneck?",
+      "summary": "At Cloud Native Days Austria 2026, I presented a talk called How to Defeat OTel’s Silent Killer: The Performance Overhead, exploring a problem that is easy to overlook when building observability pipelines: the cost of collecting...",
+      "source_name": "CNCF",
+      "source_url": "https://www.cncf.io/blog/2026/11/17/is-your-opentelemetry-pipeline-becoming-a-performance-bottleneck/",
+      "published_at": "2026-11-17T12:21:00+00:00",
+      "category": "open_source_foundations",
+      "tags": [
+        "Data Pipelines",
+        "Cloud",
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8605,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.cncf.io/?p=177585"
+    },
+    {
+      "title": "MAI Code 2 and Code 2 Flash",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/",
+      "published_at": "2026-11-17T18:25:13+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.65,
+      "importance_score": 0.8558,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50535885"
+    },
+    {
+      "title": "Apple Services Down",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://developer.apple.com/system-status/",
+      "published_at": "2026-11-17T17:47:14+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.8531,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50535238"
+    },
+    {
+      "title": "Nvidia stopped disclosing Singapore sales as revenues hit $104B",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf",
+      "published_at": "2026-11-17T17:12:06+00:00",
+      "category": "aggregators",
+      "tags": [
+        "GPUs",
+        "Hacker News"
+      ],
+      "confidence_score": 0.6595,
+      "importance_score": 0.8507,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50534631"
+    },
+    {
+      "title": "Highly classified US national security communications network goes down",
+      "summary": "https://www.reuters.com/technology/highly-classified-us-nati...",
+      "source_name": "Hacker News",
+      "source_url": "https://www.cnn.com/2026/11/17/politics/highly-classified-national-security-communications-network-goes-down",
+      "published_at": "2026-11-17T15:38:28+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Security",
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.8442,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50532849"
+    },
+    {
+      "title": "What is the best harness for each model?",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://runta.com/blog/introducing-frontierharness-eval-v1-1/",
+      "published_at": "2026-11-17T14:53:43+00:00",
+      "category": "aggregators",
+      "tags": [
+        "AI Models",
+        "Hacker News"
+      ],
+      "confidence_score": 0.6975,
+      "importance_score": 0.8411,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50532191"
+    },
+    {
+      "title": "New Evidence Shows School Phone Bans Are Gradually Improving Test Scores",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html",
+      "published_at": "2026-11-17T11:45:51+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.828,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50530163"
+    },
+    {
+      "title": "Simplifying multicloud networking to Azure with partner Cross-Cloud Interconnect",
+      "summary": "As AI changes how businesses build and run applications, more enterprises are spreading their models, data and applications across multiple clouds. To make that work, they need fast, private connections between those environments. Historically, connecting multiple clouds has meant ordering physical connections from each provider, setting up networking on both sides, and coordinating across multiple teams. That process could take weeks or even months. We wanted to make that…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/products/networking/cross-cloud-interconnect-for-microsoft-azure/",
+      "published_at": "2026-11-17T18:35:00+00:00",
+      "category": "cloud_providers",
+      "tags": [
+        "AI",
+        "Cloud",
+        "Azure",
+        "AI Models",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.8265,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/products/networking/cross-cloud-interconnect-for-microsoft-azure/"
+    },
+    {
+      "title": "How Veeva scaled big data with Amazon EMR on EKS",
+      "summary": "Veeva Systems rebuilt its petabyte-scale analytics platform on Amazon EMR on EKS with Karpenter, cutting ETL runtimes by over 50% and eliminating idle cluster costs with elastic Spark compute that scales from 40 to 520+ nodes in minutes.",
+      "source_name": "AWS Big Data Blog",
+      "source_url": "https://aws.amazon.com/blogs/big-data/how-veeva-scaled-big-data-with-amazon-emr-on-eks/",
+      "published_at": "2026-11-17T18:32:54+00:00",
+      "category": "cloud_providers",
+      "tags": [
+        "ETL",
+        "Apache Spark",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.92,
+      "importance_score": 0.8263,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "ec9cf95c700ff635bc1d733c875f0c1e6ed2cbbf"
+    },
+    {
+      "title": "Maintainers don’t need more AI bug reports. They need fixes.",
+      "summary": "In the Codename MDASH pilot, GitHub and Microsoft turned thousands of raw AI findings into 99 checked, private reports with suggested fixes for six widely used open source projects. Maintainers have already fixed more than half. The post Maintainers don’t need more AI bug reports. They need fixes. appeared first on The GitHub Blog .",
+      "source_name": "The GitHub Blog",
+      "source_url": "https://github.blog/open-source/maintainers/maintainers-dont-need-more-ai-bug-reports-they-need-fixes/",
+      "published_at": "2026-11-17T18:29:29+00:00",
+      "category": "developer_platforms",
+      "tags": [
+        "AI",
+        "Open Source",
+        "Developer Tools",
+        "Developer Platforms"
+      ],
+      "confidence_score": 0.92,
+      "importance_score": 0.8261,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://github.blog/?p=100215"
+    },
+    {
+      "title": "Building the Agent Host Protocol for sessions that continue across devices",
+      "summary": "Discover how we built the open Agent Host Protocol to keep your agent sessions accessible across editors, apps, phones, and the cloud. The post Building the Agent Host Protocol for sessions that continue across devices appeared first on The GitHub Blog .",
+      "source_name": "The GitHub Blog",
+      "source_url": "https://github.blog/engineering/engineering-principles/building-the-agent-host-protocol-for-sessions-that-continue-across-devices/",
+      "published_at": "2026-11-17T18:20:40+00:00",
+      "category": "developer_platforms",
+      "tags": [
+        "AI Agents",
+        "Cloud",
+        "Developer Tools",
+        "Developer Platforms"
+      ],
+      "confidence_score": 0.92,
+      "importance_score": 0.8255,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://github.blog/?p=100309"
+    },
+    {
+      "title": "MongoDB Named a Leader in Gartner® Magic Quadrant™ for Cloud Operational Database Management Systems 2026",
+      "summary": "I’m thrilled to share that MongoDB has been named a Leader in the new Gartner Magic Quadrant for Cloud Operational Database Management Systems . We believe our placement as a Leader in a brand-new category reflects the investments MongoDB has made in our data platform and the strength of our product offerings. We also believe it reflects the trust our more than 70,000 customers, including ~75% of the Fortune 100, have placed in MongoDB. Agents are changing what an…",
+      "source_name": "MongoDB Blog",
+      "source_url": "https://www.mongodb.com/company/blog/news/mongodb-named-leader-gartner-magic-quadrant-for-cloud-operational-database-management-systems-2026",
+      "published_at": "2026-11-17T18:07:13+00:00",
+      "category": "databases",
+      "tags": [
+        "AI Agents",
+        "Cloud",
+        "Databases"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.8245,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.mongodb.com/company/blog/news/mongodb-named-leader-gartner-magic-quadrant-for-cloud-operational-database-management-systems-2026"
+    },
+    {
+      "title": "How the Claude Code team thinks about verification",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/",
+      "published_at": "2026-11-17T10:20:40+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.6645,
+      "importance_score": 0.8221,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50529612"
+    },
+    {
+      "title": "Co-Designing Sparse Attention for Efficient Long-Context Inference",
+      "summary": "Agentic workloads, long documents, and large codebases are pushing context lengths from tens of thousands of tokens to hundreds of thousands. At those lengths,...",
+      "source_name": "NVIDIA Developer Blog",
+      "source_url": "https://developer.nvidia.com/blog/co-designing-sparse-attention-for-efficient-long-context-inference/",
+      "published_at": "2026-11-17T17:30:00+00:00",
+      "category": "mlops",
+      "tags": [
+        "AI Agents",
+        "Mlops"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.822,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://developer.nvidia.com/blog/?p=124831"
+    },
+    {
+      "title": "Four Continents, Four New AWS Heroes: Closing Out 2026",
+      "summary": "As AWS re:Invent is around the corner, we’re proud to recognize a new group of AWS Heroes. Every Hero finds their own way to give back, whether through sharing what they know, bringing people together, or building tools that help others succeed. What they have in common is a genuine commitment to supporting the builders […]",
+      "source_name": "AWS News Blog",
+      "source_url": "https://aws.amazon.com/blogs/aws/four-continents-four-new-aws-heroes-closing-out-2026/",
+      "published_at": "2026-11-17T17:06:43+00:00",
+      "category": "cloud_providers",
+      "tags": [
+        "AWS",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.8203,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "8792b36d1af1b35d715874ec8395260652442a9e"
+    },
+    {
+      "title": "Integrating QPUs into Supercomputing Centers Using Slurm HRES Plugins",
+      "summary": "Quantum processors are being integrated into supercomputing centers worldwide. National programs in North America, Europe, and Asia are driving the installation...",
+      "source_name": "NVIDIA Developer Blog",
+      "source_url": "https://developer.nvidia.com/blog/integrating-qpus-into-supercomputing-centers-using-slurm-hres-plugins/",
+      "published_at": "2026-11-17T17:00:00+00:00",
+      "category": "mlops",
+      "tags": [
+        "Mlops"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8199,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://developer.nvidia.com/blog/?p=125224"
+    },
+    {
+      "title": "Google Cloud is a Leader in the 2026 Gartner Magic Quadrant for AI Application Development Platforms",
+      "summary": "For the third time in a row, Google Cloud is recognized as a Leader in the 2026 Gartner Magic Quadrant for AI Application Development Platforms , positioned highest overall on the Ability to Execute axis. 1 These days, it’s very clear to us that organizations are looking for AI to handle actual day-to-day work, stay strictly within compliance guardrails, and deliver measurable ROI. In the last year, nearly 500 Google Cloud customers each processed more than one trillion…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/products/ai-machine-learning/google-cloud-is-a-leader-in-the-2026-gartner-magic-quadrant/",
+      "published_at": "2026-11-17T17:00:00+00:00",
+      "category": "cloud_providers",
+      "tags": [
+        "AI",
+        "Cloud",
+        "Google Cloud",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.8199,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/products/ai-machine-learning/google-cloud-is-a-leader-in-the-2026-gartner-magic-quadrant/"
+    },
+    {
+      "title": "Congratulations to our 2026 Google Cloud Partner All-stars",
+      "summary": "The Google Cloud partner ecosystem plays an essential role in driving customer success. As we enter a transformative new era, our partners are instrumental in helping move AI from early pilots into true production-grade deployment. Closing that gap takes far more than technology alone. It requires skilled practitioners who can rethink workflows, navigate organizational change, and deliver impact. Operating across every industry and region, the Google Cloud partner ecosystem…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/topics/partners/2026-google-cloud-partner-all-stars-winners/",
+      "published_at": "2026-11-17T17:00:00+00:00",
+      "category": "cloud_providers",
+      "tags": [
+        "AI",
+        "Cloud",
+        "Google Cloud",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.8199,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/topics/partners/2026-google-cloud-partner-all-stars-winners/"
+    },
+    {
+      "title": "The visual evolution of Looker: Modern design for enterprise data storytelling",
+      "summary": "Over the past year, we’ve focused on making Looker easier to use for every business user. We started by redesigning the exploration experience with drag-and-drop workspaces , streamlined field pickers, and conversational analytics to make it easier to start from a blank canvas. The next step is elevating how your data is seen and interpreted. This November, we are rolling out a major update for Looker’s visual language that brings new native chart types and dashboard…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/products/business-intelligence/modern-data-visualizations-and-custom-charts-in-looker/",
+      "published_at": "2026-11-17T17:00:00+00:00",
+      "category": "cloud_providers",
+      "tags": [
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.8199,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/products/business-intelligence/modern-data-visualizations-and-custom-charts-in-looker/"
+    },
+    {
+      "title": "AI Demand is Constant, Unpredictable, and Extreme. MongoDB is Built for It.",
+      "summary": "When a huge surge in demand meets limited resources, an awful experience usually isn’t far behind. Fans feel it when trying to compete for concert tickets with bots and scalpers. Diners feel it when they try to get a reservation at a trendy restaurant that’s fully booked for months. Websites and applications feel it when they go viral and get an accidental DDoS from a “Reddit Hug of Death.” Unpredictable spikes in demand are only becoming more common, and scaling resources…",
+      "source_name": "MongoDB Blog",
+      "source_url": "https://www.mongodb.com/company/blog/product-release-announcements/ai-demand-constant-unpredictable-extreme-mongodb-is-built-for-it",
+      "published_at": "2026-11-17T16:36:12+00:00",
+      "category": "databases",
+      "tags": [
+        "AI",
+        "Databases"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.8182,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.mongodb.com/company/blog/product-release-announcements/ai-demand-constant-unpredictable-extreme-mongodb-is-built-for-it"
+    },
+    {
+      "title": "Agentic Treasury: How AI Agents Turn Cash Blind Spots Into Real-Time, Governed Action",
+      "summary": "At 8 a.m., a $4 million payroll is due, but an expected customer payment hasn’t arrived. Leafy International’s treasury agent spots the gap in live payment data. It checks current balances and recommends a cash sweep from an overnight deposit. It’s enough to fund payroll while keeping Leafy’s $1 million minimum cash buffer intact. Just as the treasurer reviews the proposal, an approved, time-stamped market feed flags a material EUR/USD move after a central bank announcement…",
+      "source_name": "MongoDB Blog",
+      "source_url": "https://www.mongodb.com/company/blog/innovation/agentic-treasury-how-ai-agents-turn-cash-blind-spots-into-real-time-governed-action",
+      "published_at": "2026-11-17T15:00:03+00:00",
+      "category": "databases",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Databases"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.8115,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.mongodb.com/company/blog/innovation/agentic-treasury-how-ai-agents-turn-cash-blind-spots-into-real-time-governed-action"
+    },
+    {
+      "title": "Build Once, Grow Freely: Search and Vector Search on Atlas Infinite",
+      "summary": "Enterprise workloads are getting bigger, more variable, and harder to predict, especially as agentic applications introduce spiky, unpredictable demand. Most data platforms weren't built for this reality—to cope with demand, they bolt AI services onto aging architecture, leaving customers to manage, monitor, and pay for multiple systems to get the job done. That fragmentation slows your teams down and limits how fast and how far your agentic applications can run. In a…",
+      "source_name": "MongoDB Blog",
+      "source_url": "https://www.mongodb.com/company/blog/product-release-announcements/build-once-grow-freely-search-vector-search-on-atlas-infinite",
+      "published_at": "2026-11-17T15:00:03+00:00",
+      "category": "databases",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Vector Databases",
+        "Databases"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.8115,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.mongodb.com/company/blog/product-release-announcements/build-once-grow-freely-search-vector-search-on-atlas-infinite"
+    },
+    {
+      "title": "Strengthening NATO and allied cyber defenses with AI",
+      "summary": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+      "published_at": "2026-11-17T00:00:00+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI",
+        "Security",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.99,
+      "importance_score": 0.809,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai"
+    },
+    {
+      "title": "Introducing OpenAI for Chile",
+      "summary": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/introducing-openai-for-chile",
+      "published_at": "2026-11-17T00:00:00+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.99,
+      "importance_score": 0.809,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/index/introducing-openai-for-chile"
+    },
+    {
+      "title": "Astra for Law leads in legal intelligence",
+      "summary": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/astra-law-6-2",
+      "published_at": "2026-11-17T00:00:00+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.99,
+      "importance_score": 0.809,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/index/astra-law-6-2"
+    },
+    {
+      "title": "Phrack 73 Released",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://phrack.org/issues/73/introduction_md",
+      "published_at": "2026-11-17T18:31:25+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.631,
+      "importance_score": 0.8087,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50535992"
+    },
+    {
+      "title": "COLD RELIC: A Case Study in Impersonation and Compromise",
+      "summary": "Written by: Josh Murchie, John Wolfram, Joseph Spero, Peter Ukhanov, Fernando Tomlinson, Jr., Wesley Shields Introduction Over the past year, Mandiant has responded to a series of linked intrusions demonstrating how Russian cyber espionage group COLD RELIC (formerly tracked as COLDRIVER and UNC4057; also known as Star Blizzard, Callisto, and Gossamer Bear) turns a single cloud compromise into a springboard for ongoing third party compromise and espionage. Most recently…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/topics/threat-intelligence/cold-relic-a-case-study-in-impersonation-and-compromise/",
+      "published_at": "2026-11-17T14:00:00+00:00",
+      "category": "cloud_providers",
+      "tags": [
+        "Cloud",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.8074,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/topics/threat-intelligence/cold-relic-a-case-study-in-impersonation-and-compromise/"
+    },
+    {
+      "title": "Ian Buck Kicks Off NVIDIA’s Week at SC26 as Science Enters the Age of Agents",
+      "summary": "NVIDIA’s Ian Buck kicked off the company’s week at SC26 in Chicago on Monday with new tools for AI agents, software that can plan experiments, run code and check results on researchers’ own systems. In NVIDIA’s special address, Buck announced Nemotron for Science, the Rubin HPC GPU and an expanded Vera CPU platform for high-performance […]",
+      "source_name": "NVIDIA Blog",
+      "source_url": "https://blogs.nvidia.com/blog/ian-buck-sc26/",
+      "published_at": "2026-11-17T14:00:10+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "GPUs",
+        "Research",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8074,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://blogs.nvidia.com/?p=100058"
+    },
+    {
+      "title": "MongoDB Acquires Firebolt to Bring Lightning-Fast Real-Time Analytics Into Its Intelligent Data Platform",
+      "summary": "Real-time analytics on live operational data, built so applications and AI agents can act on what’s happening now. The most valuable analytics no longer live in a dashboard. They live inside the application. A logistics app reroutes a shipment around a delay. A retail system reorders inventory before the shelf goes empty. A payments platform flags unusual behavior before the transaction clears. Each of these decisions requires comparing live operational data against…",
+      "source_name": "MongoDB Blog",
+      "source_url": "https://www.mongodb.com/company/blog/news/mongodb-acquires-firebolt",
+      "published_at": "2026-11-17T13:59:01+00:00",
+      "category": "databases",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Databases"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.8073,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.mongodb.com/company/blog/news/mongodb-acquires-firebolt"
+    },
+    {
+      "title": "jQuery 4.1.0",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://github.com/jquery/jquery/releases/tag/4.1.0",
+      "published_at": "2026-11-17T19:50:40+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.627,
+      "importance_score": 0.8042,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50537156"
+    },
+    {
+      "title": "Show HN: Alloy CSS, dialogs, menus and tabs that work with JavaScript off",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://alloyhtml.com/example.html",
+      "published_at": "2026-11-17T15:07:09+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.6285,
+      "importance_score": 0.7882,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50532385"
+    },
+    {
+      "title": "Building Sovereign AI in Europe, With Europe: Our New Startup Accelerator",
+      "summary": "Today we’re announcing an open call for applications for the Google for Startups Accelerator: Sovereign AI . Available in Europe and Israel, this initiative supports startups that are building cutting-edge AI solutions for European regulatory environments. Artificial intelligence represents an estimated €1.2 trillion economic opportunity for Europe . To realize this potential, European enterprises and public institutions need to adopt advanced AI while also meeting crucial…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/topics/startups/sovereign-ai-on-your-terms-our-new-startup-accelerator-is-open/",
+      "published_at": "2026-11-17T08:30:00+00:00",
+      "category": "cloud_providers",
+      "tags": [
+        "AI",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.7845,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/topics/startups/sovereign-ai-on-your-terms-our-new-startup-accelerator-is-open/"
+    },
+    {
+      "title": "Apple Addresses Outages Affecting Apple Pay, iCloud and Apps",
+      "summary": "The disruption followed days of unrelated problems in the past week that interrupted air travel and work at offices, schools and government.",
+      "source_name": "The New York Times - Technology",
+      "source_url": "https://www.nytimes.com/2026/11/17/technology/apple-down-outage-issues.html",
+      "published_at": "2026-11-17T21:39:25+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7593,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.nytimes.com/2026/11/17/technology/apple-down-outage-issues.html"
+    },
+    {
+      "title": "Waymo keeps having issues navigating construction zones on highways",
+      "summary": "Waymo previously self-suspended highway operations to improve performance around construction zone closures. Now, the California DMV is stepping in.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/waymo-freeway-operations-banned-california-dmv-construction-zone-closure-2026-11",
+      "published_at": "2026-11-17T21:17:12+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7577,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/waymo-freeway-operations-banned-california-dmv-construction-zone-closure-2026-11"
+    },
+    {
+      "title": "Researchers Claim Two RCE Exploits That Bypass Telegram’s New Android Defenses",
+      "summary": "A malicious widget can bypass the security filter that Telegram added to its Android app last week and run code outside it, according to NebuSec, a security company. Widgets are small interactive blocks that bots send inside chat messages, and their JavaScript runs on the user's phone. The researchers ran their demonstration on a Telegram test server, because only approved bots can send",
+      "source_name": "The Hacker News",
+      "source_url": "https://thehackernews.com/2026/11/researchers-claim-two-rce-exploits-that.html",
+      "published_at": "2026-11-17T19:34:20+00:00",
+      "category": "cybersecurity",
+      "tags": [
+        "Security",
+        "Research",
+        "Cybersecurity"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7506,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://thehackernews.com/2026/11/researchers-claim-two-rce-exploits-that.html"
+    },
+    {
+      "title": "Roundtables: Inside the Quest for Cognitive Immortality",
+      "summary": "Listen to the session or watch below In an effort to reach an elusive continuity of the self, some far-thinking technologists are working on ways to keep your brain going—even beyond death. Science editor Mary Beth Griggs and senior editor for biomedicine Antonio Regalado explore possible paths to keep your mind going, including gradual brain…",
+      "source_name": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/11/17/1148049/roundtables-inside-the-quest-for-cognitive-immortality/",
+      "published_at": "2026-11-17T18:46:47+00:00",
+      "category": "research_feeds",
+      "tags": [
+        "Research Feeds"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.7473,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.technologyreview.com/?p=1148049"
+    },
+    {
+      "title": "Scheduling the removal of the kube-proxy IPVS backend",
+      "summary": "The ipvs backend for kube-proxy was an experiment in providing a service proxy implementation with better performance than the iptables backend. While it succeeded in that goal, the kernel IPVS API has turned out to be a bad match for the Kubernetes Services API, and the ipvs backend was never able to implement all of the edge cases of Kubernetes Service functionality correctly. In Kubernetes 1.29, the project introduced the nftables backend for kube-proxy, which became GA…",
+      "source_name": "Kubernetes Blog",
+      "source_url": "https://kubernetes.io/blog/2026/11/16/ipvs-removal/",
+      "published_at": "2026-11-16T18:35:00+00:00",
+      "category": "open_source_foundations",
+      "tags": [
+        "Kubernetes",
+        "APIs",
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.9,
+      "importance_score": 0.7465,
+      "source_type": "release_notes",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://kubernetes.io/blog/2026/11/16/ipvs-removal/"
+    },
+    {
+      "title": "Hydropower hit record lows in the US Southwest this summer",
+      "summary": "The US Southwest generated 28% less electricity via hydropower between April and August than the 10-year average, according to new data from the US Energy Information Administration. Most hydropower plants in the US rely on dams to hold back water, creating reservoirs. The water can be released through turbines, generating electricity on demand. But an…",
+      "source_name": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/11/17/1148742/hydropower-drought-colorado-river/",
+      "published_at": "2026-11-17T17:52:10+00:00",
+      "category": "research_feeds",
+      "tags": [
+        "Research Feeds"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.7435,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.technologyreview.com/?p=1148742"
+    },
+    {
+      "title": "Oracle to Patch 11 Java Flaws Today as Critical OpenJDK RCE (CVE-2026-114938) Report Emerges",
+      "summary": "Oracle is preparing to release security patches for 11 vulnerabilities in Java SE on Tuesday, November 17, 2026, all of which may be exploited remotely without authentication, as separate reports warn of a potentially critical remote code execution (RCE) flaw affecting OpenJDK. The 11 vulnerabilities carry a maximum CVSS 3.1 severity score of 8.1, according to Oracle's advance security notice.",
+      "source_name": "The Hacker News",
+      "source_url": "https://thehackernews.com/2026/11/oracle-to-patch-11-java-flaws-today-as.html",
+      "published_at": "2026-11-17T15:17:36+00:00",
+      "category": "cybersecurity",
+      "tags": [
+        "Security",
+        "Cybersecurity"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7328,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://thehackernews.com/2026/11/oracle-to-patch-11-java-flaws-today-as.html"
+    },
+    {
+      "title": "Anthropic brings Claude into your video calls",
+      "summary": "Anthropic brings Claude into your video calls Superhuman AI",
+      "source_name": "Superhuman (Zain Kahn)",
+      "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9qQkhKdjV4V0VnX0VsWGtQN3Qza2FiQzNVMTlMXzZaSHNJRzBnYXhOcjI5eXlLay1PeE5IeC1IM191YjNnYjFHazZMUnVCb05MOUFzZFBhZkRtcVUzMG1vQ2p3UG9jWWhRU1hnNmFxOU5fUU5xQ2NZOHBpTkhfUQ?oc=5",
+      "published_at": "2026-11-17T15:17:18+00:00",
+      "category": "ai_newsletters",
+      "tags": [
+        "AI",
+        "Ai Newsletters"
+      ],
+      "confidence_score": 0.64,
+      "importance_score": 0.7327,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "CBMifkFVX3lxTE9qQkhKdjV4V0VnX0VsWGtQN3Qza2FiQzNVMTlMXzZaSHNJRzBnYXhOcjI5eXlLay1PeE5IeC1IM191YjNnYjFHazZMUnVCb05MOUFzZFBhZkRtcVUzMG1vQ2p3UG9jWWhRU1hnNmFxOU5fUU5xQ2NZOHBpTkhfUQ"
+    },
+    {
+      "title": "AI Makes HTML Great Again",
+      "summary": "Plus: Microsoft Is Watching Your Agent, TSMC Rations AI Chips by Balance Sheet",
+      "source_name": "AI Secret",
+      "source_url": "https://aisecret.us/ai-makes-html-great-again/",
+      "published_at": "2026-11-17T13:30:46+00:00",
+      "category": "ai_newsletters",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Ai Newsletters"
+      ],
+      "confidence_score": 0.64,
+      "importance_score": 0.7253,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "6af5dd859f379b89dcd983da"
+    }
+  ]
+}
