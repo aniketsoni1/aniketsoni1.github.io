@@ -1,0 +1,848 @@
+{
+  "generated_at": "2026-11-18T21:28:58.773450+00:00",
+  "post_date": "2026-11-18",
+  "sources_checked": 48,
+  "candidates": 45,
+  "items": [
+    {
+      "title": "Genie 4 is now available",
+      "summary": "",
+      "source_name": "Google DeepMind",
+      "source_url": "https://deepmind.google/blog/genie-4-is-now-available/",
+      "published_at": "2026-11-18T18:13:42+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.97,
+      "importance_score": 0.8865,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://deepmind.google/blog/genie-4-is-now-available/"
+    },
+    {
+      "title": "The Gemini app is now available on lower-memory Android devices.",
+      "summary": "The Google Gemini app now supports lower-memory Android devices. Access Gemini Live and custom image creation on your phone. Download the app today.",
+      "source_name": "Google AI (The Keyword)",
+      "source_url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/",
+      "published_at": "2026-11-18T17:00:00+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.8813,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/"
+    },
+    {
+      "title": "Optimizing Kubernetes admission control: Where Kyverno’s CEL admission cost actually goes",
+      "summary": "Kyverno’s CEL (Common Expression Language)-based engines exist to evaluate policy expressions. So when we profiled the admission path, we expected to find the bulk of the cost in CEL evaluation. It was not there. About 86%...",
+      "source_name": "CNCF",
+      "source_url": "https://www.cncf.io/blog/2026/11/18/optimizing-kubernetes-admission-control-where-kyvernos-cel-admission-cost-actually-goes/",
+      "published_at": "2026-11-18T12:30:00+00:00",
+      "category": "open_source_foundations",
+      "tags": [
+        "Kubernetes",
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8626,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.cncf.io/?p=177603"
+    },
+    {
+      "title": "Seven new models at scalable price-performance",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://microsoft.ai/news/microsoft-ignite-2026/",
+      "published_at": "2026-11-18T16:08:24+00:00",
+      "category": "aggregators",
+      "tags": [
+        "AI Models",
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.8477,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50548021"
+    },
+    {
+      "title": "AI agents ask better questions than KPMG accountants in audit trial",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/",
+      "published_at": "2026-11-18T15:49:34+00:00",
+      "category": "aggregators",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Hacker News"
+      ],
+      "confidence_score": 0.6605,
+      "importance_score": 0.8464,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50547777"
+    },
+    {
+      "title": "Inside Deutsche Bank",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.inside-db.com/",
+      "published_at": "2026-11-18T15:38:33+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.8457,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50547620"
+    },
+    {
+      "title": "Unauthenticated remote code execution in Nginx",
+      "summary": "https://www.cve.org/CVERecord?id=CVE-2026-123633 https://www.cve.org/CVERecord?id=CVE-2026-123007",
+      "source_name": "Hacker News",
+      "source_url": "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities",
+      "published_at": "2026-11-18T15:19:55+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.8444,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50547374"
+    },
+    {
+      "title": "Inside the Codex sandbox",
+      "summary": "See how Codex runs commands on your machine while enforcing the filesystem and network limits you control across macOS, Linux, and Windows.",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/inside-the-codex-sandbox",
+      "published_at": "2026-11-18T08:00:00+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.99,
+      "importance_score": 0.8438,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/index/inside-the-codex-sandbox"
+    },
+    {
+      "title": "A bridge to modernization: What IDC’s Market Note says about Cameyo by Google",
+      "summary": "Organizations are increasingly adopting generative and agentic AI as they look for ways to unlock more business value. Yet for many IT leaders, business-critical legacy desktop apps stand in the way—too essential to retire, too complex and costly to rewrite—yet unequipped for the security challenges and productivity opportunities of the AI era. That doesn’t have to block your modernization strategy. By delivering Windows and legacy applications directly inside the Chrome…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/products/chrome-enterprise/a-bridge-to-modernization-what-idcs-market-note-says-about-cameyo-by-google/",
+      "published_at": "2026-11-18T21:36:00+00:00",
+      "category": "cloud_providers",
+      "tags": [
+        "AI",
+        "GenAI",
+        "AI Agents",
+        "Security",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.84,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/products/chrome-enterprise/a-bridge-to-modernization-what-idcs-market-note-says-about-cameyo-by-google/"
+    },
+    {
+      "title": "The Cambridge Dictionary has named ‘human’ as the Word of the Year 2026",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.cam.ac.uk/news/cambridge-dictionary-reveals-word-of-the-year-2026",
+      "published_at": "2026-11-18T14:43:52+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.6485,
+      "importance_score": 0.8381,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50546914"
+    },
+    {
+      "title": "Orchestrate DuckDB analytics pipelines with Amazon MWAA",
+      "summary": "Learn how to orchestrate embedded DuckDB analytics pipelines with Amazon MWAA. This post shows how to run DuckDB inside Airflow tasks to read Parquet data from Amazon S3, apply time-effective model rates, and publish Apache Iceberg tables to Amazon S3 Tables, with retry-safe publishing and worker-sizing considerations.",
+      "source_name": "AWS Big Data Blog",
+      "source_url": "https://aws.amazon.com/blogs/big-data/orchestrate-duckdb-analytics-pipelines-with-amazon-mwaa/",
+      "published_at": "2026-11-18T20:57:09+00:00",
+      "category": "cloud_providers",
+      "tags": [
+        "Data Pipelines",
+        "AI Models",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.92,
+      "importance_score": 0.8378,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "1ef94ff06238567beba5a0c81442d639ec823094"
+    },
+    {
+      "title": "Introducing Amazon OpenSearch Memory: Persistent memory for AI agents",
+      "summary": "Amazon OpenSearch Memory is now generally available. Built on Amazon OpenSearch Serverless, it adds persistent, cross-session memory to AI agents. It stores interactions as searchable events, derives memories, and retrieves relevant context, so you can give agents long-term memory without building your own memory system.",
+      "source_name": "AWS Big Data Blog",
+      "source_url": "https://aws.amazon.com/blogs/big-data/introducing-amazon-opensearch-memory-persistent-memory-for-ai-agents/",
+      "published_at": "2026-11-18T20:50:32+00:00",
+      "category": "cloud_providers",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.92,
+      "importance_score": 0.8373,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "40dc2769f6a1a0935c068755a81eb90acbf9b09c"
+    },
+    {
+      "title": "DNS resolvers are the wrong place to fight piracy",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://techstackups.com/articles/quad9-leaves-france-dns-blocking/",
+      "published_at": "2026-11-18T13:18:02+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.8359,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50545958"
+    },
+    {
+      "title": "Managing frontier AI risk: From training to deployment",
+      "summary": "OpenAI explains how it manages frontier AI risk from training through deployment with model alignment, sandboxing, blocking safeguards, and monitoring.",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/managing-frontier-ai-risk",
+      "published_at": "2026-11-18T06:00:00+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI",
+        "AI Models",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.99,
+      "importance_score": 0.8355,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/index/managing-frontier-ai-risk"
+    },
+    {
+      "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
+      "summary": "",
+      "source_name": "Hugging Face",
+      "source_url": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
+      "published_at": "2026-11-18T19:54:56+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.9,
+      "importance_score": 0.8335,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin"
+    },
+    {
+      "title": "AWS Lambda now supports GPU instances for Event Functions on Lambda Managed Instances",
+      "summary": "AWS Lambda now supports GPU instances (G-series) for Event Functions running on Lambda Managed Instances, enabling serverless GPU workloads like machine learning inference, media processing, and rendering. Lambda handles all infrastructure tasks, including instance lifecycle, driver management, and auto scaling, while maximizing GPU utilization across concurrent requests with standard EC2 pricing plus a management fee",
+      "source_name": "AWS News Blog",
+      "source_url": "https://aws.amazon.com/blogs/aws/aws-lambda-now-supports-gpu-instances-for-event-functions-on-lambda-managed-instances/",
+      "published_at": "2026-11-18T19:39:07+00:00",
+      "category": "cloud_providers",
+      "tags": [
+        "Machine Learning",
+        "AWS",
+        "GPUs",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.8324,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "30ec3c38ceea489c2a4f7184696062c55b87e28d"
+    },
+    {
+      "title": "Why your fine-tuning job takes longer than the FLOPs say",
+      "summary": "",
+      "source_name": "Hugging Face",
+      "source_url": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
+      "published_at": "2026-11-18T18:53:43+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.9,
+      "importance_score": 0.8292,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time"
+    },
+    {
+      "title": "Bring Live MongoDB Atlas Data Into Microsoft 365 Copilot",
+      "summary": "The federated Copilot connector for MongoDB Atlas gives organizations a governed way to bring live operational data into the flow of work across Copilot experiences. To operate efficiently, businesses require timely information about the systems that underpin their organizations. For example, they need to be able to answer questions like: Which incidents are open? Which orders are delayed? What fields and data types are present in the customer collection? The answers they…",
+      "source_name": "MongoDB Blog",
+      "source_url": "https://www.mongodb.com/company/blog/product-release-announcements/bring-live-atlas-data-into-microsoft-365-copilot",
+      "published_at": "2026-11-18T18:05:02+00:00",
+      "category": "databases",
+      "tags": [
+        "Databases"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.8258,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.mongodb.com/company/blog/product-release-announcements/bring-live-atlas-data-into-microsoft-365-copilot"
+    },
+    {
+      "title": "EMEA startups building the next-generation of agents on Google Cloud",
+      "summary": "As thousands of founders, investors, and technology leaders gather in Helsinki for Slush 2026, the European startup ecosystem is undergoing a profound transformation. The conversation has moved from AI experiments to operating agents. Across Europe, the Middle East, and Africa (EMEA), pioneering startups are deploying autonomous AI agents that reason, integrate deeply with core systems, and automate complex workflows at scale. At Google Cloud and Google DeepMind we’re…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/topics/startups/google-cloud-highlights-emea-startup-momentum-at-slush-2026/",
+      "published_at": "2026-11-18T17:30:00+00:00",
+      "category": "cloud_providers",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Cloud",
+        "Google Cloud",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.8234,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/topics/startups/google-cloud-highlights-emea-startup-momentum-at-slush-2026/"
+    },
+    {
+      "title": "Introducing the Apache Spark optimization agent for Amazon EMR Serverless and AWS Glue ETL",
+      "summary": "The Apache Spark optimization agent for Amazon EMR Serverless and AWS Glue ETL is now generally available. It analyzes completed Spark job runs and returns cost or performance optimization recommendations in minutes, each grounded in the job's own Spark telemetry, so any engineer can tune jobs without deep Spark expertise.",
+      "source_name": "AWS Big Data Blog",
+      "source_url": "https://aws.amazon.com/blogs/big-data/introducing-the-apache-spark-optimization-agent-for-amazon-emr-serverless-and-aws-glue-etl/",
+      "published_at": "2026-11-18T17:03:49+00:00",
+      "category": "cloud_providers",
+      "tags": [
+        "AI Agents",
+        "ETL",
+        "Apache Spark",
+        "AWS",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.92,
+      "importance_score": 0.8216,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "d578029051d19ec8ced0600e9341933309908efb"
+    },
+    {
+      "title": "Build Training-Ready Physical AI Datasets with Two Prompts in NVIDIA Cosmos",
+      "summary": "World model accuracy starts with high-quality, diverse training datasets. Yet capturing rare defects, nighttime incidents, and other challenging scenarios is...",
+      "source_name": "NVIDIA Developer Blog",
+      "source_url": "https://developer.nvidia.com/blog/build-training-ready-physical-ai-datasets-with-two-prompts-in-nvidia-cosmos/",
+      "published_at": "2026-11-18T17:00:00+00:00",
+      "category": "mlops",
+      "tags": [
+        "AI",
+        "GPUs",
+        "AI Models",
+        "Mlops"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8213,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://developer.nvidia.com/blog/?p=125268"
+    },
+    {
+      "title": "What’s new in OKF v0.3: enterprise-ready knowledge, use cases, and skills",
+      "summary": "In June we introduced the Open Knowledge Format (OKF) , an open specification that provides plain markdown and YAML to give agents the context they need. In July, v0.2 added trust signals: provenance, trust, freshness, lifecycle, and attestation. In production, bundles move between organizations, multiple agents edit the same corpus, and independent tools need to read a bundle the same way. Released today, OKF v0.3 adds precise conformance rules, trust tiers that keep pace…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/products/data-analytics/introducing-okf-v0-3/",
+      "published_at": "2026-11-18T17:00:00+00:00",
+      "category": "cloud_providers",
+      "tags": [
+        "AI Agents",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.8213,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/products/data-analytics/introducing-okf-v0-3/"
+    },
+    {
+      "title": "Testing changes, fast: Introducing agentic assessments in Database Center",
+      "summary": "Applying recommendations to a production database can feel risky if you can’t easily quantify the performance benefit or justify the additional cost. While Database Center flags fleet-level health issues and provides proactive recommendations, database administrators still face the challenge of testing recommended changes without disrupting live applications or spending hours manually configuring staging replicas. To help solve this problem, we’re excited to announce the…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/products/databases/database-center-assessments-for-cloud-sql-for-postgresql/",
+      "published_at": "2026-11-18T17:00:00+00:00",
+      "category": "cloud_providers",
+      "tags": [
+        "AI Agents",
+        "Databases",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.8213,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/products/databases/database-center-assessments-for-cloud-sql-for-postgresql/"
+    },
+    {
+      "title": "Scaling massive AI/ML workloads with IPv6 on Google Kubernetes Engine clusters",
+      "summary": "TL;DR: Single-stack IPv6 on GKE runs both nodes and pods without having to use private IPv4 addresses. Available in preview for Cloud TPU v6e and CPU node pools, including Axion, it works with DNS64/NAT64 to reach IPv4 endpoints. Long before they run out of compute or power, AI applications hit another wall: running out of IP addresses. A single AI deployment often requires a vast address space to support everything from thousands of accelerator nodes, scaling inference…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/products/networking/run-aiml-workloads-on-ipv6-only-gke-clusters/",
+      "published_at": "2026-11-18T17:00:00+00:00",
+      "category": "cloud_providers",
+      "tags": [
+        "AI",
+        "Kubernetes",
+        "Cloud",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.8213,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/products/networking/run-aiml-workloads-on-ipv6-only-gke-clusters/"
+    },
+    {
+      "title": "Sashiko: Lessons from building an agentic code review system for Linux",
+      "summary": "The speed of development in large open-source projects has always been limited by code review, not code generation. Even as coding agents get better at writing code, they do not accelerate development on their own. This is especially true of patches to the Linux kernel. Without a way to build trust in proposed changes, more generated code simply piles up in front of the same small group of human maintainers. Some of those patches are solid changes, just written faster; many…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/products/application-development/lessons-from-building-sashiko-an-agentic-code-review-system/",
+      "published_at": "2026-11-18T17:00:00+00:00",
+      "category": "cloud_providers",
+      "tags": [
+        "AI Agents",
+        "Open Source",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.8213,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/products/application-development/lessons-from-building-sashiko-an-agentic-code-review-system/"
+    },
+    {
+      "title": "Building an agentic stack in Envoy: routing models, tokens, and MCP",
+      "summary": "At Google Cloud, we believe the next generation of AI and agentic systems must be built on open, battle-tested foundations. Envoy, an open-source edge and service proxy designed for cloud-native applications, has already transformed microservices and modern cloud networking, powering everything from Google Cloud’s Application Load Balancers to the Agent Substrate dataplane on Google Kubernetes Engine. Now, Envoy is uniquely positioned to become the open standard for AI…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/products/networking/the-envoy-agentic-stack-routing-models-tokens-and-mcp/",
+      "published_at": "2026-11-18T17:00:00+00:00",
+      "category": "cloud_providers",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Kubernetes",
+        "Cloud",
+        "Google Cloud",
+        "Open Source",
+        "AI Models",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.8213,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/products/networking/the-envoy-agentic-stack-routing-models-tokens-and-mcp/"
+    },
+    {
+      "title": "Build Once, Grow Freely: Search and Vector Search on Atlas Infinite",
+      "summary": "Enterprise workloads are getting bigger, more variable, and harder to predict, especially as agentic applications introduce spiky, unpredictable demand. Most data platforms weren't built for this reality—to cope with demand, they bolt AI services onto aging architecture, leaving customers to manage, monitor, and pay for multiple systems to get the job done. That fragmentation slows your teams down and limits how fast and how far your agentic applications can run. In a…",
+      "source_name": "MongoDB Blog",
+      "source_url": "https://www.mongodb.com/company/blog/product-release-announcements/build-once-grow-freely-search-vector-search-on-atlas-infinite",
+      "published_at": "2026-11-18T16:40:36+00:00",
+      "category": "databases",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Vector Databases",
+        "Databases"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.82,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.mongodb.com/company/blog/product-release-announcements/build-once-grow-freely-search-vector-search-on-atlas-infinite"
+    },
+    {
+      "title": "Energy-Based Reasoners: 385x more efficient inference",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://energy-based-reasoners.github.io/",
+      "published_at": "2026-11-18T09:29:32+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.6935,
+      "importance_score": 0.82,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50543989"
+    },
+    {
+      "title": "Persistent Sessions and Memory for Strands with MongoDB",
+      "summary": "Today, we’re launching the MongoDB Strands Harness SDK Integration, available now as the open-source strands-mongodb Python package. Strands, built and maintained by AWS, is an open-source framework for building AI agents. With this integration, MongoDB becomes the single data platform behind your Strands agents, providing: Session persistence , so agents can resume conversations and complex tasks after a restart or on a different instance. Long-term memory for facts and…",
+      "source_name": "MongoDB Blog",
+      "source_url": "https://www.mongodb.com/company/blog/product-release-announcements/persistent-sessions-memory-for-strands",
+      "published_at": "2026-11-18T15:11:01+00:00",
+      "category": "databases",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "AWS",
+        "Open Source",
+        "Python",
+        "Databases"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.8138,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.mongodb.com/company/blog/product-release-announcements/persistent-sessions-memory-for-strands"
+    },
+    {
+      "title": "Tackling GPU Bottlenecks in Plane-Wave DFT with K-Point Batching and Mixed Precision",
+      "summary": "Training a next-generation machine learning interatomic potential (MLIP) requires ground truth: tens to hundreds of millions of density functional theory (DFT)...",
+      "source_name": "NVIDIA Developer Blog",
+      "source_url": "https://developer.nvidia.com/blog/tackling-gpu-bottlenecks-in-plane-wave-dft-with-k-point-batching-and-mixed-precision/",
+      "published_at": "2026-11-18T15:00:00+00:00",
+      "category": "mlops",
+      "tags": [
+        "Machine Learning",
+        "GPUs",
+        "Mlops"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.813,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://developer.nvidia.com/blog/?p=125410"
+    },
+    {
+      "title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
+      "summary": "",
+      "source_name": "Hugging Face",
+      "source_url": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
+      "published_at": "2026-11-18T15:00:23+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI Models",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.9,
+      "importance_score": 0.813,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse"
+    },
+    {
+      "title": "The Silent Consensus",
+      "summary": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/the-silent-consensus",
+      "published_at": "2026-11-18T00:00:00+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.99,
+      "importance_score": 0.8105,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/index/the-silent-consensus"
+    },
+    {
+      "title": "NVIDIA RTX Spark Compact Desktops Out Now",
+      "summary": "New NVIDIA RTX Spark compact desktops from ASUS, Dell and MSI are available today, bringing local AI agents, image and video generation, and model fine-tuning to a dedicated Windows PC. With up to 128GB of unified memory and NVIDIA’s AI software stack, these systems provide room for larger local models alongside RTX-accelerated creative and development […]",
+      "source_name": "NVIDIA Blog",
+      "source_url": "https://blogs.nvidia.com/blog/rtx-spark-desktop-local-ai-available-now/",
+      "published_at": "2026-11-18T14:00:31+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Apache Spark",
+        "GPUs",
+        "AI Models",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8089,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://blogs.nvidia.com/?p=100079"
+    },
+    {
+      "title": "The Trust Layer: Securing Agentic AI with Docker AI Governance",
+      "summary": "Learn how Docker AI Governance secures agentic AI with sandbox policies, MCP tool governance, and audit visibility to support controlled AI agent workflows.",
+      "source_name": "Docker Blog",
+      "source_url": "https://www.docker.com/blog/agentic-ai-security-docker-governance/",
+      "published_at": "2026-11-18T14:00:00+00:00",
+      "category": "developer_platforms",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Containers",
+        "Data Governance",
+        "Developer Platforms"
+      ],
+      "confidence_score": 0.87,
+      "importance_score": 0.8088,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.docker.com/?p=96241"
+    },
+    {
+      "title": "Salesforce and Microsoft Announce Copilotforce, Bringing Salesforce Customer Context and Sales Workflows to Microsoft Copilot",
+      "summary": "New integrations bring Salesforce customer context and sales workflows into Microsoft Copilot, enable real-time CRM collaboration in Microsoft Teams, and connect Salesforce Data 360 with Microsoft Fabric through bidirectional zero-copy data access. Accenture is serving as design and implementation partner along with being customer zero, deploying the integrations in its own global sales organization. SAN […]",
+      "source_name": "Salesforce News",
+      "source_url": "https://www.salesforce.com/news/stories/copilotforce-announcement/",
+      "published_at": "2026-11-17T18:05:00+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7858,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.salesforce.com/?p=96611"
+    },
+    {
+      "title": "Is your OpenTelemetry pipeline becoming a performance bottleneck?",
+      "summary": "At Cloud Native Days Austria 2026, I presented a talk called How to Defeat OTel’s Silent Killer: The Performance Overhead, exploring a problem that is easy to overlook when building observability pipelines: the cost of collecting...",
+      "source_name": "CNCF",
+      "source_url": "https://www.cncf.io/blog/2026/11/17/is-your-opentelemetry-pipeline-becoming-a-performance-bottleneck/",
+      "published_at": "2026-11-17T12:21:00+00:00",
+      "category": "open_source_foundations",
+      "tags": [
+        "Data Pipelines",
+        "Cloud",
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.87,
+      "importance_score": 0.762,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.cncf.io/?p=177585"
+    },
+    {
+      "title": "A.I. Has Changed How We Talk. Here Are the Words You Need to Know.",
+      "summary": "A Glossary of AI Terms You Should Know",
+      "source_name": "The New York Times - Technology",
+      "source_url": "https://www.nytimes.com/2026/11/18/science/ai-artificial-intelligence-terminology-glossary.html",
+      "published_at": "2026-11-18T21:24:07+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7597,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.nytimes.com/2026/11/18/science/ai-artificial-intelligence-terminology-glossary.html"
+    },
+    {
+      "title": "America’s AI Chip War Is Heating Up in the Dumbest Possible Ways",
+      "summary": "The Trump administration announced plans to clamp down on China’s access to AI chips. Apparently, the cheating scandal of the century was the motivation they were missing.",
+      "source_name": "Wired",
+      "source_url": "https://www.wired.com/story/the-ai-chip-war-meets-the-jensen-huang-affair/",
+      "published_at": "2026-11-18T21:15:00+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.759,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "6afc6b050449a43f25430999"
+    },
+    {
+      "title": "😸 WATCH: Pika lets you direct AI actors live",
+      "summary": "Move an actor, rehearse a line, then change the camera. Corey tried to make sense of the demo.",
+      "source_name": "The Neuron",
+      "source_url": "https://www.theneurondaily.com/p/watch-pika-lets-you-direct-ai-actors-live",
+      "published_at": "2026-11-18T20:05:00+00:00",
+      "category": "ai_newsletters",
+      "tags": [
+        "AI",
+        "Ai Newsletters"
+      ],
+      "confidence_score": 0.64,
+      "importance_score": 0.7542,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.theneurondaily.com/p/watch-pika-lets-you-direct-ai-actors-live"
+    },
+    {
+      "title": "GitLab Transcend Hackathon: Meet the 'Life After Code' winners",
+      "summary": "Code generation is the easy part now. The hard part is everything that comes after it: getting software from a working change to running in production. That’s the problem we put to the community in the Transcend Hackathon: “Life after code, the path to production at the speed of imagination”. The hackathon, which ran during October, challenged participants to build agents and flows on GitLab Duo Agent Platform that can take over the work after the code is written. They also…",
+      "source_name": "GitLab Blog",
+      "source_url": "https://about.gitlab.com/blog/gitlab-transcend-hackathon-life-after-code/",
+      "published_at": "2026-11-18T00:00:00+00:00",
+      "category": "developer_platforms",
+      "tags": [
+        "AI Agents",
+        "Developer Platforms"
+      ],
+      "confidence_score": 0.86,
+      "importance_score": 0.7505,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://about.gitlab.com/blog/gitlab-transcend-hackathon-life-after-code/"
+    },
+    {
+      "title": "10-Year-Old NGINX HTTP/2 Flaw Lets Unauthenticated Attackers Execute Code on Servers",
+      "summary": "A flaw in NGINX's HTTP/2 support can allow an attacker to run code on servers with HTTP/2 enabled, without needing to log in. The decade-old flaw, CVE-2026-123007, dubbed \"nginx2root,\" has been present in NGINX's open-source code since version 1.9.5, released on September 22, 2015. Fixed versions 1.31.9 and 1.30.7 came out today. F5, the company behind NGINX, says attackers can run code where",
+      "source_name": "The Hacker News",
+      "source_url": "https://thehackernews.com/2026/11/10-year-old-nginx-http2-flaw-lets.html",
+      "published_at": "2026-11-18T18:31:17+00:00",
+      "category": "cybersecurity",
+      "tags": [
+        "Open Source",
+        "Cybersecurity"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7477,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://thehackernews.com/2026/11/10-year-old-nginx-http2-flaw-lets.html"
+    },
+    {
+      "title": "F5 Warns 6 Critical BIG-IP Flaws Can Crash Traffic in Specific Setups, May Allow RCE",
+      "summary": "Six critical vulnerabilities in F5 BIG-IP allow an attacker to crash the Traffic Management Microkernel (TMM) without logging in, disrupting traffic until the TMM restarts. Each flaw needs a specific setup on a virtual server: an iRule that uses a particular command, or an APM policy that includes two particular kinds of agent. F5, which makes BIG-IP, disclosed the flaws today and says they",
+      "source_name": "The Hacker News",
+      "source_url": "https://thehackernews.com/2026/11/f5-warns-6-critical-big-ip-flaws-can.html",
+      "published_at": "2026-11-18T18:15:39+00:00",
+      "category": "cybersecurity",
+      "tags": [
+        "AI Agents",
+        "Security",
+        "Cybersecurity"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7466,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://thehackernews.com/2026/11/f5-warns-6-critical-big-ip-flaws-can.html"
+    },
+    {
+      "title": "Build a Personal Brand to Help Employers Find You",
+      "summary": "Routine posting leaves a trail of breadcrumbs for recruiters to discover",
+      "source_name": "IEEE Spectrum",
+      "source_url": "https://spectrum.ieee.org/personal-branding-for-engineers",
+      "published_at": "2026-11-18T17:33:26+00:00",
+      "category": "research_feeds",
+      "tags": [
+        "Research Feeds"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.7436,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://spectrum.ieee.org/personal-branding-for-engineers"
+    },
+    {
+      "title": "The AI Hype Index: AI is everywhere",
+      "summary": "Like a nasty rash, AI seems to spread everywhere. Google crams AI Overviews down your throat even though it costs the company billions of dollars in lost ad revenue. Leave your apartment, and you might pass two people heaving an AI-powered humanoid robot up the stairs to clean someone’s rooms. Go to the supermarket, and…",
+      "source_name": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/",
+      "published_at": "2026-11-18T14:42:44+00:00",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.7318,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.technologyreview.com/?p=1148650"
+    },
+    {
+      "title": "New GPT Flunks the Real World",
+      "summary": "Plus: Nvidia Rejects Huang, The NSA Patched Itself Offline",
+      "source_name": "AI Secret",
+      "source_url": "https://aisecret.us/new-gpt-flunks-the-real-world/",
+      "published_at": "2026-11-18T13:30:36+00:00",
+      "category": "ai_newsletters",
+      "tags": [
+        "GPUs",
+        "Ai Newsletters"
+      ],
+      "confidence_score": 0.64,
+      "importance_score": 0.7268,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "6afac22e8d006689d32d8838"
+    }
+  ]
+}
