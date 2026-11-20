@@ -1,0 +1,830 @@
+{
+  "post_date": "2026-11-20",
+  "sources_checked": 48,
+  "count": 45,
+  "items": [
+    {
+      "title": "Inkling 2 Mini",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://thinkingmachines.ai/news/inkling-2-mini/",
+      "published_at": "2026-11-20T20:12:19Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.657,
+      "importance_score": 0.8654,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50581260"
+    },
+    {
+      "title": "Anthropic announces closing of initial public offering, including full exercise of underwriters’ option to purchase additional shares, and closing of concurrent private placement",
+      "summary": "Anthropic announces closing of initial public offering, including full exercise of underwriters’ option to purchase additional shares, and closing of concurrent private placement Anthropic",
+      "source_name": "Anthropic",
+      "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1pMHRici1uRTBSYVNzNnJ5UVFiS1gtRjdJNWJZNUpDV0JxdzJVWHVUVEh5dXhVcVBYWXpSQWs2N1dnclY1aXJFaDhzM21OamVwQ1E?oc=5",
+      "published_at": "2026-11-20T12:45:21Z",
+      "category": "ai_model_companies",
+      "tags": [
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.99,
+      "importance_score": 0.8644,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "CBMiUkFVX3lxTE1pMHRici1uRTBSYVNzNnJ5UVFiS1gtRjdJNWJZNUpDV0JxdzJVWHVUVEh5dXhVcVBYWXpSQWs2N1dnclY1aXJFaDhzM21OamVwQ1E"
+    },
+    {
+      "title": "When a sync window closes: How Argo CD self-heal skipped the migration hook",
+      "summary": "The uncomfortable question A few days ago, a customer asked me a question that sounded simple: “Argo CD said the sync succeeded, so why didn’t our migration run?” They had pushed a release while a deny...",
+      "source_name": "CNCF",
+      "source_url": "https://www.cncf.io/blog/2026/11/20/when-a-sync-window-closes-how-argo-cd-self-heal-skipped-the-migration-hook/",
+      "published_at": "2026-11-20T12:30:00Z",
+      "category": "open_source_foundations",
+      "tags": [
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8634,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.cncf.io/?p=177669"
+    },
+    {
+      "title": "Hurried Announcement: Alessandro Masullo GRH",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
+      "published_at": "2026-11-20T18:33:14Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.8586,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50579568"
+    },
+    {
+      "title": "Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/",
+      "published_at": "2026-11-20T17:21:36Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.653,
+      "importance_score": 0.8536,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50578358"
+    },
+    {
+      "title": "Combatting adversarial distillation",
+      "summary": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/combatting-adversarial-distillation",
+      "published_at": "2026-11-20T10:00:00Z",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI Models",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.99,
+      "importance_score": 0.8529,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/index/combatting-adversarial-distillation"
+    },
+    {
+      "title": "Language Models Can Rewrite Their Own Weights",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://arxiv.org/abs/2611.21885",
+      "published_at": "2026-11-20T16:29:06Z",
+      "category": "aggregators",
+      "tags": [
+        "AI Models",
+        "Hacker News"
+      ],
+      "confidence_score": 0.686,
+      "importance_score": 0.8499,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50577265"
+    },
+    {
+      "title": "Finite-time blow-up for the Navier–Stokes equations",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://github.com/tristanbuckmaster/navier-stokes/",
+      "published_at": "2026-11-20T15:34:31Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.6515,
+      "importance_score": 0.8462,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50576232"
+    },
+    {
+      "title": "Why there are still no non-WebKit browsers on iOS",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://blog.mozilla.org/en/mozilla/internet-policy/apple-ios-browser-engine-rules/",
+      "published_at": "2026-11-20T15:03:31Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.695,
+      "importance_score": 0.844,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50575644"
+    },
+    {
+      "title": "Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://alpo.ge/remark.pdf",
+      "published_at": "2026-11-20T14:16:21Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.8407,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50574968"
+    },
+    {
+      "title": "Google Workers Tell Their Employer Not to Punish Schools That Don't Want AI",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/",
+      "published_at": "2026-11-20T16:59:27Z",
+      "category": "aggregators",
+      "tags": [
+        "AI",
+        "Hacker News"
+      ],
+      "confidence_score": 0.6415,
+      "importance_score": 0.8307,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50577901"
+    },
+    {
+      "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://architectlabs.com/blog/frostbite",
+      "published_at": "2026-11-20T10:01:41Z",
+      "category": "aggregators",
+      "tags": [
+        "AI",
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.823,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50572503"
+    },
+    {
+      "title": "Ultimate guide for fixing your team’s API keys",
+      "summary": "Most Gemini prototypes start the same way. You grab an API key from Google AI Studio , then paste it into your coding agent to start building a prototype. That speed is the point, and shouldn’t be slowed down. The trouble starts later, when the prototype gets real users and the key comes along unchanged. By then it usually isn't one key. Every developer has their own, often several, sitting in .env files, shell profiles and chat threads. The app has one more, baked into its…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/topics/developers-practitioners/how-to-fix-your-teams-api-keys/",
+      "published_at": "2026-11-20T17:00:00Z",
+      "category": "cloud_providers",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "APIs",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.8221,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/topics/developers-practitioners/how-to-fix-your-teams-api-keys/"
+    },
+    {
+      "title": "Drowning in clicks: Scaling Black Friday pipelines with Managed Airflow agents",
+      "summary": "When an Airflow pipeline fails in production, the hard part is rarely the fix. It's finding out what to fix. A task dies without a traceback. Is it the code, the data, or the environment? Hard to say, as clues are scattered across task logs, scheduler logs, and worker metrics. And once you know what the problem is, the question becomes whether to add memory, rewrite the DAG , or finally take on the major version upgrade you've been putting off. Answering these questions…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/products/data-analytics/scaling-airflow-pipelines-with-ai-agents-on-managed-airflow/",
+      "published_at": "2026-11-20T17:00:00Z",
+      "category": "cloud_providers",
+      "tags": [
+        "AI Agents",
+        "Data Pipelines",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.8221,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/products/data-analytics/scaling-airflow-pipelines-with-ai-agents-on-managed-airflow/"
+    },
+    {
+      "title": "Frontier and Center: Why your data agents need a “wind tunnel”",
+      "summary": "Imagine you're building a data agent to answer questions about an enterprise data warehouse. Ideally, you'd develop and test it against production data, but access restrictions and data sensitivity make that difficult – especially when the engineers building the agent sit outside the team that owns the data. Even with access, a live warehouse is a poor test track: Catalog descriptions are often incomplete or contradicted by institutional knowledge in docs and chat threads…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/products/data-analytics/a-data-simulator-to-test-agents/",
+      "published_at": "2026-11-20T17:00:00Z",
+      "category": "cloud_providers",
+      "tags": [
+        "AI Agents",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.8221,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/products/data-analytics/a-data-simulator-to-test-agents/"
+    },
+    {
+      "title": "DynaPORT modernization on Google Cloud with AlloyDB for PostgreSQL and GKE",
+      "summary": "In global maritime logistics, Marine Ports and Terminals play a significant role in the movement of container and cargo, within and beyond. Marine ports and terminals world-wide use a Terminal Operating System (TOS) which acts as the central nervous system managing port operations 24 hours a day, 365 days a year. A modern TOS plans, automates and orchestrates every physical and digital activities, resources and events across Order-to-Invoice processes of a marine terminal…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/products/databases/dynaport-modernizes-with-alloydb/",
+      "published_at": "2026-11-20T17:00:00Z",
+      "category": "cloud_providers",
+      "tags": [
+        "Cloud",
+        "Google Cloud",
+        "Databases",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.8221,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/products/databases/dynaport-modernizes-with-alloydb/"
+    },
+    {
+      "title": "What’s new in Managed Service for Apache Spark 4.0",
+      "summary": "As organizations move from reactive analytics to proactive systems of action powered by autonomous AI agents, data platforms face a new set of demands. Moving from human scale to agent scale changes both how data pipelines run and how they are built: Teams and AI agents now use Model Context Protocol (MCP) tools and agentic troubleshooting to build, submit, and diagnose Apache Spark pipelines while preparing multimodal datasets, performing feature engineering, and acting on…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/products/data-analytics/whats-new-in-managed-service-for-apache-spark-4-0/",
+      "published_at": "2026-11-20T17:00:00Z",
+      "category": "cloud_providers",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Data Pipelines",
+        "Apache Spark",
+        "AI Models",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.8221,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/products/data-analytics/whats-new-in-managed-service-for-apache-spark-4-0/"
+    },
+    {
+      "title": "How Spanner Graph detects ads fraud and abuse at Google at multi-billion node scale",
+      "summary": "Ever wonder how the Google Ads team keeps the massive system stable and online, despite continuous attempts by hackers to take it down? Part of the answer is using Spanner as its core operational and graph database. The Google Ads team uses a central graph-based platform to fight fraud and abuse with batch and real-time signals. Built to protect the Google Ads ecosystem and now used by multiple teams across Google, the platform organizes anti-abuse intelligence into a…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/products/databases/how-spanner-graph-detects-google-ads-fraud-and-abuse/",
+      "published_at": "2026-11-20T17:00:00Z",
+      "category": "cloud_providers",
+      "tags": [
+        "Databases",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.8221,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/products/databases/how-spanner-graph-detects-google-ads-fraud-and-abuse/"
+    },
+    {
+      "title": "How Vodafone is using the Data Engineering Agent to improve their data pipelines",
+      "summary": "For large organizations, building and maintaining data pipelines is one of the most complex tasks that data engineering teams are tasked with. In BigQuery environments, the Data Engineering Agent can help, leveraging Gemini to to automate these workflows. In this blog post, Vodafone Czech Republic describes how it has used the Data Engineering Agent to modernize and optimize BigQuery stored procedures, transforming them into modern data pipelines and reducing pipeline…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/products/data-analytics/vodafone-cuts-data-pipeline-costs-30-via-data-engineeringagent/",
+      "published_at": "2026-11-20T17:00:00Z",
+      "category": "cloud_providers",
+      "tags": [
+        "AI Agents",
+        "Data Engineering",
+        "Data Pipelines",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.8221,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/products/data-analytics/vodafone-cuts-data-pipeline-costs-30-via-data-engineeringagent/"
+    },
+    {
+      "title": "Introducing ambient networking for GKE",
+      "summary": "Network sidecars have a deserved reputation for excessive resource consumption and increased management overhead, especially in a service mesh environment. Today, we are announcing the general availability of ambient networking for Google Kubernetes Engine (GKE). This milestone marks an important evolution in how your run service mesh on GKE, bringing a sidecar-less architecture into production. Introduced earlier this year, ambient networking decouples functionality…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/products/networking/ambient-networking-for-gke-sidecarless-service-mesh/",
+      "published_at": "2026-11-20T17:00:00Z",
+      "category": "cloud_providers",
+      "tags": [
+        "Kubernetes",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.8221,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/products/networking/ambient-networking-for-gke-sidecarless-service-mesh/"
+    },
+    {
+      "title": "How to simplify cloud access with Unified Access Policies, now in preview",
+      "summary": "As organizations scale their cloud footprint to thousands of autonomous agents and microservices, you can accidentally create an operational bottleneck with strict Identity and Access Management (IAM). Meanwhile, administrators still need to enforce least privilege across thousands of resources without slowing down engineering velocity. Enter Unified Access Policies (UAPs), Google Cloud's next-generation access control engine in Cloud IAM , now in preview at no additional…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/products/identity-security/how-to-simplify-cloud-access-with-unified-access-policies/",
+      "published_at": "2026-11-20T17:00:00Z",
+      "category": "cloud_providers",
+      "tags": [
+        "AI Agents",
+        "Cloud",
+        "Google Cloud",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.8221,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/products/identity-security/how-to-simplify-cloud-access-with-unified-access-policies/"
+    },
+    {
+      "title": "If you can't explain something in simple terms, you don't understand it (2017)",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it",
+      "published_at": "2026-11-20T09:43:19Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.8218,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50572355"
+    },
+    {
+      "title": "Signal Is Serious About Protecting Your Privacy",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://signal.org/blog/protecting-your-privacy/",
+      "published_at": "2026-11-20T09:42:16Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.8217,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50572348"
+    },
+    {
+      "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+      "summary": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/business/customer-stories/hebbia",
+      "published_at": "2026-11-20T00:00:00Z",
+      "category": "ai_model_companies",
+      "tags": [
+        "Research",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.99,
+      "importance_score": 0.8113,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/business/customer-stories/hebbia"
+    },
+    {
+      "title": "Can AI help scientists identify promising drug candidates?",
+      "summary": "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery.",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/introducing-medchembench",
+      "published_at": "2026-11-20T00:00:00Z",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI",
+        "AI Models",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.99,
+      "importance_score": 0.8113,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/index/introducing-medchembench"
+    },
+    {
+      "title": "Introducing Tool Retrieval in the Gemini API",
+      "summary": "Gemini spark on a space background",
+      "source_name": "Google AI (The Keyword)",
+      "source_url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
+      "published_at": "2026-11-19T18:00:00Z",
+      "category": "ai_model_companies",
+      "tags": [
+        "Apache Spark",
+        "APIs",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.92,
+      "importance_score": 0.7863,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/"
+    },
+    {
+      "title": "We promoted developers into architects without informing them",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://manidoraisamy.com/developer-to-architect.html",
+      "published_at": "2026-11-20T18:17:51Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.6205,
+      "importance_score": 0.7837,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50579331"
+    },
+    {
+      "title": "Walter Isaacson on curiosity and creativity in the AI age.",
+      "summary": "Walter Isaacson joins Google to discuss how history’s greatest innovators inspire creativity and human judgment in the AI age. Watch the episode.",
+      "source_name": "Google AI (The Keyword)",
+      "source_url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/",
+      "published_at": "2026-11-19T17:00:00Z",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.92,
+      "importance_score": 0.7821,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/"
+    },
+    {
+      "title": "Salesforce Data: Record Cyber Week Expected to Deliver $75.8B in AI-Driven Sales",
+      "summary": "Retailers with shopper agents set to score big as consumers turn to AI and personal agents to find deals this holiday season",
+      "source_name": "Salesforce News",
+      "source_url": "https://www.salesforce.com/news/stories/cyber-week-ai-sales-2026/",
+      "published_at": "2026-11-19T13:00:00Z",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7654,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.salesforce.com/?p=96868"
+    },
+    {
+      "title": "Salesforce to Lead Consortium Bringing Trusted American SI to Global Markets",
+      "summary": "Commerce designation supports Salesforce’s delivery of governed data, model choice, and agents that modernize government services and business operations",
+      "source_name": "Salesforce News",
+      "source_url": "https://www.salesforce.com/news/press-releases/2026/11/19/salesforce-si-export-consortium/",
+      "published_at": "2026-11-19T13:00:00Z",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI Agents",
+        "AI Models",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7654,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.salesforce.com/?post_type=sf_press_release&p=96948"
+    },
+    {
+      "title": "A leaky AI supply chain is exposing secret user data at an alarming rate",
+      "summary": "Test using prompts with unique, trackable secrets proves that data doesn't stay private.",
+      "source_name": "Ars Technica - IT",
+      "source_url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
+      "published_at": "2026-11-20T20:59:08Z",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7587,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/"
+    },
+    {
+      "title": "Melania Trump says public displays of affection with Donald Trump are 'not my style'",
+      "summary": "In her new Amazon docuseries, Melania Trump opened up about her marriage to Donald Trump — including their disagreements.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/melania-trump-donald-trump-relationship-pda-amazon-docuseries-2026-11",
+      "published_at": "2026-11-20T20:15:46Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7557,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/melania-trump-donald-trump-relationship-pda-amazon-docuseries-2026-11"
+    },
+    {
+      "title": "Jensen Huang’s ‘Lying’ Alarmed Nvidia Board Ahead of His Resignation",
+      "summary": "Amid allegations of multiple affairs, including with a direct report and an alleged Chinese intelligence asset, sources tell WIRED the Nvidia board’s main issue was the former CEO’s “lack of candor.”",
+      "source_name": "Wired",
+      "source_url": "https://www.wired.com/story/jensen-huangs-lying-alarmed-nvidia-board-ahead-of-his-resignation/",
+      "published_at": "2026-11-20T19:52:21Z",
+      "category": "mainstream_press",
+      "tags": [
+        "GPUs",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7541,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "6b006eaa6873ef9746910ed7"
+    },
+    {
+      "title": "The most misunderstood graph in AI just got a major update",
+      "summary": "A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory—but it also indicates that models aren’t quite as good at tasks that require judgment as they are at coding. The report is an update to the organization’s time horizon plot, which was widely…",
+      "source_name": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
+      "published_at": "2026-11-20T18:15:15Z",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "AI Models",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.7473,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.technologyreview.com/?p=1149399"
+    },
+    {
+      "title": "WhatsApp Patches 3 Security Flaws, Including Android Bug Suspected of Use in Scams",
+      "summary": "Meta-owned WhatsApp has addressed security vulnerabilities, including one impacting its Android app that it suspects may have been exploited in connection with scam messages. The vulnerability, tracked as CVE-2026-23871, has been described as a case of incomplete validation of external ad-reply URLs in WhatsApp for Android and WhatsApp Business for Android before 2.26.17.4. The issue could",
+      "source_name": "The Hacker News",
+      "source_url": "https://thehackernews.com/2026/11/whatsapp-patches-3-security-flaws.html",
+      "published_at": "2026-11-20T17:57:20Z",
+      "category": "cybersecurity",
+      "tags": [
+        "Security",
+        "Cybersecurity"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7461,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://thehackernews.com/2026/11/whatsapp-patches-3-security-flaws.html"
+    },
+    {
+      "title": "Video Friday: Drone Squeezes Itself to Fit Through Tight Spaces",
+      "summary": "Your weekly selection of awesome robot videos",
+      "source_name": "IEEE Spectrum",
+      "source_url": "https://spectrum.ieee.org/video-friday-morphing-robots-quadrotor",
+      "published_at": "2026-11-20T17:30:03Z",
+      "category": "research_feeds",
+      "tags": [
+        "Research Feeds"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.7442,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://spectrum.ieee.org/video-friday-morphing-robots-quadrotor"
+    },
+    {
+      "title": "Dispatches from O'Reilly: Inside a software factory",
+      "summary": "Go from vibe coding to generating clean, maintainable code",
+      "source_name": "Stack Overflow Blog",
+      "source_url": "https://stackoverflow.blog/2026/11/20/dispatches-from-o-reilly-inside-a-software-factory/",
+      "published_at": "2026-11-20T17:18:38Z",
+      "category": "developer_platforms",
+      "tags": [
+        "Developer Platforms"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7434,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "a6ff6a3e-5185-475e-b87f-d6095b49844e"
+    },
+    {
+      "title": "Bazuka Android Malware Uses Fake Screen Overlays to Hide Credential Theft and Device Control",
+      "summary": "Cybersecurity researchers have disclosed details of a previously unknown Android malware framework called Bazuka that offers large language model (LLM) integration for victim management and control at scale. Dutch mobile security company ThreatFabric said it discovered the threat in late October 2026 during an investigation into an NFC-relay banking Trojan. \"Bazuka is a full malware framework,",
+      "source_name": "The Hacker News",
+      "source_url": "https://thehackernews.com/2026/11/bazuka-android-malware-uses-fake-screen.html",
+      "published_at": "2026-11-20T16:58:16Z",
+      "category": "cybersecurity",
+      "tags": [
+        "LLMs",
+        "Security",
+        "AI Models",
+        "Research",
+        "Cybersecurity"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.742,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://thehackernews.com/2026/11/bazuka-android-malware-uses-fake-screen.html"
+    },
+    {
+      "title": "Reducing Rollout Bottlenecks in Reinforcement Learning with NVIDIA Dynamo",
+      "summary": "Reinforcement learning (RL) uses rewards to train models to solve problems and complete tasks more successfully. Inference drives this process. Workers generate...",
+      "source_name": "NVIDIA Developer Blog",
+      "source_url": "https://developer.nvidia.com/blog/reducing-rollout-bottlenecks-in-reinforcement-learning-with-nvidia-dynamo/",
+      "published_at": "2026-11-19T20:28:13Z",
+      "category": "mlops",
+      "tags": [
+        "GPUs",
+        "AI Models",
+        "Mlops"
+      ],
+      "confidence_score": 0.87,
+      "importance_score": 0.7366,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://developer.nvidia.com/blog/?p=125485"
+    },
+    {
+      "title": "CRAFT: Constrained Route planning with Adaptive Framework and Template-based code generation",
+      "summary": "arXiv:2611.25128v1 Announce Type: new Abstract: Everyday routing requests are rarely a point-to-point shortest path. A driver may need to visit stops, sometimes in a fixed order, under time budgets or distance limits, and perhaps recharge their EV car along the way. Each combination is a distinct routing problem that classically requires its own algorithm, so no fixed solver covers the space of queries users may ask. This paper presents CRAFT, which takes a constrained…",
+      "source_name": "arXiv cs.DB (Databases)",
+      "source_url": "https://arxiv.org/abs/2611.25128",
+      "published_at": "2026-11-20T05:00:00Z",
+      "category": "databases",
+      "tags": [
+        "Research",
+        "Databases"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7321,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2611.25128v1"
+    },
+    {
+      "title": "The American Medical Directory Panel: Comparing AI-Assisted and LLM Transcription with Manual Data Entry at Scale",
+      "summary": "arXiv:2611.25218v1 Announce Type: new Abstract: How closely does machine transcription agree with manual double-entry data? We digitize the 1912 and 1921 editions of the American Medical Directory, a national register of US physicians with roughly 140,000 and 150,000 entries in the two volumes, and compare five machine-extraction workflows with a full-count double-entered manual transcription. Like many historical directories, the AMD is semi-structured rather than tabular…",
+      "source_name": "arXiv cs.DB (Databases)",
+      "source_url": "https://arxiv.org/abs/2611.25218",
+      "published_at": "2026-11-20T05:00:00Z",
+      "category": "databases",
+      "tags": [
+        "AI",
+        "LLMs",
+        "Research",
+        "Databases"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7321,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2611.25218v1"
+    },
+    {
+      "title": "A new model turns brainwaves into images",
+      "summary": "A new model turns brainwaves into images Superhuman AI",
+      "source_name": "Superhuman (Zain Kahn)",
+      "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5PODJKckM1WHBVcEotLVNsSTVwSGpiajJ2R0N4dmVYZEhFamFodV9uamxMbWZVR21GbGI0Mi15aHdQQ0hRTmV1eEFfb3h6cFpIdFlnV3hvaEdzR1cydjFzZWRVa29nbDJWSkxOQWRwZVJ4czJhaWhB?oc=5",
+      "published_at": "2026-11-20T13:02:13Z",
+      "category": "ai_newsletters",
+      "tags": [
+        "AI",
+        "AI Models",
+        "Ai Newsletters"
+      ],
+      "confidence_score": 0.64,
+      "importance_score": 0.7256,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "CBMid0FVX3lxTE5PODJKckM1WHBVcEotLVNsSTVwSGpiajJ2R0N4dmVYZEhFamFodV9uamxMbWZVR21GbGI0Mi15aHdQQ0hRTmV1eEFfb3h6cFpIdFlnV3hvaEdzR1cydjFzZWRVa29nbDJWSkxOQWRwZVJ4czJhaWhB"
+    },
+    {
+      "title": "Docker patches Java4Shell and the NGINX HTTP/2 with Docker Hardened Images",
+      "summary": "Docker publishes fixed images for both Java4Shell and the NGINX HTTP/2 in the Docker Hardened Images (DHI) catalog.",
+      "source_name": "Docker Blog",
+      "source_url": "https://www.docker.com/blog/docker-patches-java4shell-and-the-nginx-http-2-with-docker-hardened-images/",
+      "published_at": "2026-11-19T17:38:08Z",
+      "category": "developer_platforms",
+      "tags": [
+        "Containers",
+        "Developer Platforms"
+      ],
+      "confidence_score": 0.85,
+      "importance_score": 0.7247,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.docker.com/?p=96314"
+    },
+    {
+      "title": "Enabling Real-Time AI for Scientific Instruments with GPU-Native Data Acquisition",
+      "summary": "In science and industry, analyzing sensor measurements in real time can enable AI to adjust processes, guide experiments, and search for better operating...",
+      "source_name": "NVIDIA Developer Blog",
+      "source_url": "https://developer.nvidia.com/blog/enabling-real-time-ai-for-scientific-instruments-with-gpu-native-data-acquisition/",
+      "published_at": "2026-11-19T17:00:00Z",
+      "category": "mlops",
+      "tags": [
+        "AI",
+        "GPUs",
+        "Mlops"
+      ],
+      "confidence_score": 0.87,
+      "importance_score": 0.7221,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://developer.nvidia.com/blog/?p=124964"
+    },
+    {
+      "title": "😺 Meta's Muse AI Agent Reportedly Accessed Signal Messages",
+      "summary": "PLUS: Anthropic's 33% IPO pop and new chip export rules",
+      "source_name": "The Neuron",
+      "source_url": "https://www.theneurondaily.com/p/meta-s-muse-ai-agent-reportedly-accessed-signal-messages",
+      "published_at": "2026-11-20T09:30:00Z",
+      "category": "ai_newsletters",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Ai Newsletters"
+      ],
+      "confidence_score": 0.64,
+      "importance_score": 0.7108,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.theneurondaily.com/p/meta-s-muse-ai-agent-reportedly-accessed-signal-messages"
+    }
+  ]
+}
