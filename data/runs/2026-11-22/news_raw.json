@@ -1,0 +1,784 @@
+{
+  "generated_at": "2026-11-22T20:24:22.522513+00:00",
+  "post_date": "2026-11-22",
+  "sources_checked": 48,
+  "candidates": 45,
+  "items": [
+    {
+      "title": "Perplexity and Intelligence",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://openai.com/index/perplexity-and-intelligence/",
+      "published_at": "2026-11-22T17:06:27+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.696,
+      "importance_score": 0.8563,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50601525"
+    },
+    {
+      "title": "Show HN: I built a game where you are an LLM's subagent",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://github.com/gulivan/worker755",
+      "published_at": "2026-11-22T13:56:58+00:00",
+      "category": "aggregators",
+      "tags": [
+        "LLMs",
+        "Hacker News"
+      ],
+      "confidence_score": 0.653,
+      "importance_score": 0.8431,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50599762"
+    },
+    {
+      "title": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/",
+      "published_at": "2026-11-22T08:57:34+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.8223,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50597612"
+    },
+    {
+      "title": "Open Social Web Alliance",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://osw-alliance.net/en/",
+      "published_at": "2026-11-22T15:24:32+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.6325,
+      "importance_score": 0.8054,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50600511"
+    },
+    {
+      "title": "Toyota, Nissan, and Honda to standardize parts to lower costs",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/",
+      "published_at": "2026-11-22T04:04:56+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.802,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50596133"
+    },
+    {
+      "title": "Data Processing Incidents on Inference Providers",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/",
+      "published_at": "2026-11-22T02:14:14+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.682,
+      "importance_score": 0.7943,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50595554"
+    },
+    {
+      "title": "Sandwich Simulator",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://stulle.app/",
+      "published_at": "2026-11-22T00:07:59+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7855,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50594911"
+    },
+    {
+      "title": "Inkling-2-Mini in 5.4 GB Memory",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://github.com/ShinMegamiBoson/lookatmyquant",
+      "published_at": "2026-11-21T18:02:19+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7601,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50591853"
+    },
+    {
+      "title": "I gave up my retirement expectations to care for my parents. The relatable viral SNL skit validates that it's sisters who shoulder the responsibility of caregiving.",
+      "summary": "Michelle Gooden moved her parents 1,200 miles from Austin to Virginia so she could care for them. Her brother stayed in their home state of Texas .",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/daughter-quit-career-care-aging-parents-brother-texas-2026-11",
+      "published_at": "2026-11-22T20:03:12+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7585,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/daughter-quit-career-care-aging-parents-brother-texas-2026-11"
+    },
+    {
+      "title": "Why Nostalgia for Tamagotchis, the Virtual Pets, Won’t Die",
+      "summary": "Millennials are answering the beeping call of the pocket-size game that caused a sensation 30 years ago. But analog-craving Gen Zers are, too.",
+      "source_name": "The New York Times - Technology",
+      "source_url": "https://www.nytimes.com/2026/11/21/arts/tamagotchis-comeback.html",
+      "published_at": "2026-11-22T19:57:43+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7582,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.nytimes.com/2026/11/21/arts/tamagotchis-comeback.html"
+    },
+    {
+      "title": "Europe weakens chemical rules as science links them to 'lifestyle diseases'",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.lemonde.fr/en/opinion/article/2026/11/22/as-science-increasingly-shows-the-role-chemical-substances-play-in-lifestyle-diseases-europe-weakens-its-regulations_6786595_23.html",
+      "published_at": "2026-11-22T15:42:40+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.6125,
+      "importance_score": 0.7566,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50600677"
+    },
+    {
+      "title": "I grew up in New Zealand. There are 10 things I wish tourists knew before they visited.",
+      "summary": "I was born and raised in New Zealand, and I've seen tourists and first-time visitors make planning and spending mistakes on trips to my home country.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/tips-going-to-new-zealand-local-things-to-know-recommendations-2026-11",
+      "published_at": "2026-11-22T19:22:01+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7557,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/tips-going-to-new-zealand-local-things-to-know-recommendations-2026-11"
+    },
+    {
+      "title": "Over 1,000 Delta flights delayed nationwide after issue with automated system",
+      "summary": "The FAA said the delays are not related to its communications systems, which went down last week.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/delta-flight-delays-automated-system-issue-tech-2026-11",
+      "published_at": "2026-11-22T18:41:02+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7528,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/delta-flight-delays-automated-system-issue-tech-2026-11"
+    },
+    {
+      "title": "😺 Who really wins from Anthropic’s IPO?",
+      "summary": "Seven founders sold nearly $2B. Amazon and Google still own far larger stakes.",
+      "source_name": "The Neuron",
+      "source_url": "https://www.theneurondaily.com/p/who-really-wins-from-anthropic-s-ipo",
+      "published_at": "2026-11-22T18:30:00+00:00",
+      "category": "ai_newsletters",
+      "tags": [
+        "Ai Newsletters"
+      ],
+      "confidence_score": 0.64,
+      "importance_score": 0.7521,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.theneurondaily.com/p/who-really-wins-from-anthropic-s-ipo"
+    },
+    {
+      "title": "Why data centers are at the center of the Big Tech backlash",
+      "summary": "Journalist Paris Marx unpacks his new book \"Hyperscale.\"",
+      "source_name": "TechCrunch - AI",
+      "source_url": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/",
+      "published_at": "2026-11-22T18:08:43+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7506,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://techcrunch.com/?p=3191157"
+    },
+    {
+      "title": "Elon Musk warns data center delays could leave AI companies short on cash: 'Going to be nuts'",
+      "summary": "Elon Musk's warning of a \"cash shortage\" comes on the heels of an intense market sell-off in AI and tech.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/elon-musk-warning-ai-compute-data-centers-cash-spacex-tesla-2026-11",
+      "published_at": "2026-11-22T17:49:56+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7493,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/elon-musk-warning-ai-compute-data-centers-cash-spacex-tesla-2026-11"
+    },
+    {
+      "title": "I tried onion rings from Burger King, Dairy Queen, and Sonic. One chain was the clear winner.",
+      "summary": "I tried onion rings at Burger King, Dairy Queen, and Sonic to find my favorite and see which fast-food chain's side has the best flavor and value.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/best-onion-rings-fast-food-chain-comparison-winner-2026-11",
+      "published_at": "2026-11-22T16:18:01+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7429,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/best-onion-rings-fast-food-chain-comparison-winner-2026-11"
+    },
+    {
+      "title": "I've traveled to over 100 countries. I'd recommend these 5 destinations for a festive holiday trip.",
+      "summary": "After visiting over 100 countries, I have a few favorite places for holiday travel. I love visiting Lake Placid and Bolzano, Italy, for Christmas.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/best-cities-to-visit-for-holidays-christmas-winter-travel-2026-11",
+      "published_at": "2026-11-22T16:09:01+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7423,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/best-cities-to-visit-for-holidays-christmas-winter-travel-2026-11"
+    },
+    {
+      "title": "As cars go digital, US consumers pay an extra $12 billion a year for repairs",
+      "summary": "Today's vehicles need software tools to make repairs, and the subscriptions inflate insurance fees",
+      "source_name": "The Register",
+      "source_url": "https://www.theregister.com/personal-tech/2026/11/22/as-cars-go-digital-us-consumers-pay-an-extra-12-billion-a-year-for-repairs/5311412",
+      "published_at": "2026-11-22T16:08:00+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7422,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.theregister.com/a/5311412"
+    },
+    {
+      "title": "A couple in their 50s spent $1 million building their forever home. It has a gym, pool, and aging-in-place features.",
+      "summary": "A couple in their 50s built a $1 million forever home with wide doorways, an accessible shower, and a first-floor suite so they can age in place.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/couple-50s-built-million-dollar-home-aging-in-place-2026-11",
+      "published_at": "2026-11-22T16:06:01+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7421,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/couple-50s-built-million-dollar-home-aging-in-place-2026-11"
+    },
+    {
+      "title": "I bought my first rental property at 23. Now I own 12 homes and make enough money to quit my day job.",
+      "summary": "A real estate investor bought his first property at 23 and expanded to 12. He was able to quit his day job and now lives off passive income.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/bought-12-rental-properties-make-money-to-quit-day-job-2026-11",
+      "published_at": "2026-11-22T15:22:01+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.739,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/bought-12-rental-properties-make-money-to-quit-day-job-2026-11"
+    },
+    {
+      "title": "I make this 6-ingredient slow-cooker Buffalo chicken dip every Thanksgiving. It's always a crowd-pleaser.",
+      "summary": "I make the same Buffalo chicken dip recipe for every Thanksgiving. It takes only six ingredients.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/easy-recipe-slow-cooker-buffalo-chicken-dip-game-day",
+      "published_at": "2026-11-22T15:12:01+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7383,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/easy-recipe-slow-cooker-buffalo-chicken-dip-game-day"
+    },
+    {
+      "title": "Sunday Special: Pancreatic cancer wonder drug shows promising results",
+      "summary": "Sunday Special: Pancreatic cancer wonder drug shows promising results Superhuman AI",
+      "source_name": "Superhuman (Zain Kahn)",
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSU5VRXFOYVlmY09wcWs0aC1VZ1RPaXdQVVdZaktTVmQxR3dzbkR2X0VZZXNEblZuREQ0bEh1cGE5UzRIY1FxQjZWTm8ycWNfV3lYYmJhbGJNai1PbGZGU0ZmMnBKX0FXN2tsdE5MMzFPNDVZY2Zta2FwSjhtMG1QNmY4YVc2LXJtM3R1WUplaEdIdW9WWjU3YTV0UjY?oc=5",
+      "published_at": "2026-11-22T14:04:33+00:00",
+      "category": "ai_newsletters",
+      "tags": [
+        "AI",
+        "Ai Newsletters"
+      ],
+      "confidence_score": 0.64,
+      "importance_score": 0.7336,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "CBMinAFBVV95cUxPSU5VRXFOYVlmY09wcWs0aC1VZ1RPaXdQVVdZaktTVmQxR3dzbkR2X0VZZXNEblZuREQ0bEh1cGE5UzRIY1FxQjZWTm8ycWNfV3lYYmJhbGJNai1PbGZGU0ZmMnBKX0FXN2tsdE5MMzFPNDVZY2Zta2FwSjhtMG1QNmY4YVc2LXJtM3R1WUplaEdIdW9WWjU3YTV0UjY"
+    },
+    {
+      "title": "I moved from the US to the South of France at 56. I'm so relaxed here, my resting heart rate dropped almost overnight.",
+      "summary": "Carrie A. Smith didn't want to retire in the US, so she moved to the South of France. She prefers the slower lifestyle — and her body agrees.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/moved-from-us-to-south-of-france-retire-heart-rate-2026-11",
+      "published_at": "2026-11-22T14:03:01+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7335,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/moved-from-us-to-south-of-france-retire-heart-rate-2026-11"
+    },
+    {
+      "title": "How Could Thermal Noise Transmit Data?",
+      "summary": "New findings may help lead to new ultra-low-power communications",
+      "source_name": "IEEE Spectrum",
+      "source_url": "https://spectrum.ieee.org/thermal-noise-communication-impedance",
+      "published_at": "2026-11-22T14:00:02+00:00",
+      "category": "research_feeds",
+      "tags": [
+        "Research Feeds"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.7333,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://spectrum.ieee.org/thermal-noise-communication-impedance"
+    },
+    {
+      "title": "A US Army officer went inside Ukraine’s ‘Killhouse.’ Here’s what he brought home to his drone course.",
+      "summary": "The Killhouse Academy, a training program run by Ukraine's elite 3rd Army Corps, offers valuable lessons in drone warfare to Kyiv's partners.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/us-army-officer-went-to-ukraine-killhouse-brought-lessons-home-2026-11",
+      "published_at": "2026-11-22T13:27:01+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.731,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/us-army-officer-went-to-ukraine-killhouse-brought-lessons-home-2026-11"
+    },
+    {
+      "title": "I spent 5 years renovating what I thought would be my forever home. I sold it as soon as we were done.",
+      "summary": "I thought I'd found my forever home and spent five years renovating. It was exhausting, and we sold it immediately after renovations finished.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/spent-years-renovating-forever-home-sold-it-2026-11",
+      "published_at": "2026-11-22T13:06:01+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7296,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/spent-years-renovating-forever-home-sold-it-2026-11"
+    },
+    {
+      "title": "Looking for the Formula to Stop an Apocalypse",
+      "summary": "Mike Winer and his colleagues are trying to build a mathematical safeguard to keep A.I. under human control. They fear they are running out of time.",
+      "source_name": "The New York Times - Technology",
+      "source_url": "https://www.nytimes.com/2026/11/22/magazine/looking-for-the-formula-to-stop-an-apocalypse.html",
+      "published_at": "2026-11-22T12:27:46+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7269,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.nytimes.com/2026/11/22/magazine/looking-for-the-formula-to-stop-an-apocalypse.html"
+    },
+    {
+      "title": "Canada recommits to federal funding for news",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.niemanlab.org/2026/11/a-government-that-gets-it-canada-recommits-to-federal-funding-for-news/",
+      "published_at": "2026-11-22T19:10:38+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.5945,
+      "importance_score": 0.7261,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50602847"
+    },
+    {
+      "title": "8 Best Travel Adapters (2026): 20+ Models Tested",
+      "summary": "When going abroad, the right plugs are essential to keep your gadgets charged. These are my favorite travel adapters and chargers that I’ve tested myself.",
+      "source_name": "Wired",
+      "source_url": "https://www.wired.com/gallery/best-travel-adapters/",
+      "published_at": "2026-11-22T12:00:00+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "AI Models",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.725,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "60eeedeba86e5ac15953a11e"
+    },
+    {
+      "title": "Best Black Friday Nintendo Switch 2 Deals (2026): Switch 2 Bundles and Games",
+      "summary": "Get your game on for less with these Black Friday deals on official Nintendo Switch 2 bundles and games.",
+      "source_name": "Wired",
+      "source_url": "https://www.wired.com/story/best-black-friday-nintendo-switch-deals-11-22-26/",
+      "published_at": "2026-11-22T11:30:00+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7229,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "6afd799cee5c9e07415dd46e"
+    },
+    {
+      "title": "Best Gifts for Mom (2026): Digital Wall Calendars, Better Bags, Personalized Jewelry, and More",
+      "summary": "From a calendar that keeps my family organized to a frame that rescues photos from my camera roll, these favorites make thoughtful gifts.",
+      "source_name": "Wired",
+      "source_url": "https://www.wired.com/story/best-gifts-for-moms-2026/",
+      "published_at": "2026-11-22T11:02:00+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7209,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "69f3c59f59018beb3d0d73a2"
+    },
+    {
+      "title": "Banks Have Had It Up to Here With Your AI Agent",
+      "summary": "Major US financial institutions are banning third-party bots from logging into your accounts—and warning that any costly bot mistakes are strictly your problem.",
+      "source_name": "Wired",
+      "source_url": "https://www.wired.com/story/banks-are-cracking-down-on-ai-agents/",
+      "published_at": "2026-11-22T11:00:00+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7208,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "6b0079848a18277ad68d6fd0"
+    },
+    {
+      "title": "Scientists Tried to Kill This Dirt, but It Wouldn’t Die",
+      "summary": "Biologically important chemical reactions persisted in the sterilized soil for six years—offering clues to how life on Earth may have gotten its start.",
+      "source_name": "Wired",
+      "source_url": "https://www.wired.com/story/scientists-tried-to-kill-this-dirt-but-it-wouldnt-die/",
+      "published_at": "2026-11-22T10:30:00+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7187,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "6afe08a12f95a8ab50db6aca"
+    },
+    {
+      "title": "Backblaze customers worried of personal data sale/sharing after policy update",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.neowin.net/news/backblaze-customers-worried-of-personal-data-salesharing-after-policy-update/",
+      "published_at": "2026-11-22T15:16:02+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.598,
+      "importance_score": 0.7186,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50600435"
+    },
+    {
+      "title": "How This Year’s Super El Niño Will Worsen Global Hunger",
+      "summary": "While some regions get wetter, others face massive drought. On top of wars and cuts to foreign aid, the weather phenomenon could leave millions of people in vulnerable countries without enough to eat.",
+      "source_name": "Wired",
+      "source_url": "https://www.wired.com/story/how-this-years-super-el-nino-will-worsen-global-hunger/",
+      "published_at": "2026-11-22T10:00:00+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7166,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "6aff67b5010b3517c8092c6d"
+    },
+    {
+      "title": "Passive 'ghost' radar can detect airborne threats without revealing its own position",
+      "summary": "Kit piggybacks off TV and mobile signals and can be neatly stuffed into an SUV",
+      "source_name": "The Register",
+      "source_url": "https://www.theregister.com/offbeat/2026/11/22/passive-ghost-radar-can-detect-airborne-threats-without-revealing-its-own-position/5311023",
+      "published_at": "2026-11-22T09:15:00+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7135,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.theregister.com/a/5311023"
+    },
+    {
+      "title": "Come for the science, stay for the big iron: Supercomputer admin on why he loves the job",
+      "summary": "From the dotcom bubble to 200,00 cores of raw power",
+      "source_name": "The Register",
+      "source_url": "https://www.theregister.com/hpc/2026/11/22/come-for-the-science-stay-for-the-big-iron-supercomputer-admin-on-why-he-loves-the-job/5311247",
+      "published_at": "2026-11-22T08:48:00+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7116,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.theregister.com/a/5311247"
+    },
+    {
+      "title": "I joined the NTP Pool, but not with my Stratum 1 Pi",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.jeffgeerling.com/blog/2026/i-joined-the-ntp-pool/",
+      "published_at": "2026-11-22T15:35:24+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.5895,
+      "importance_score": 0.6986,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50600622"
+    },
+    {
+      "title": "OpenRouter Drops 3 Providers After Researchers Catch Months of Prompt Theft at AI Hosting Firms",
+      "summary": "Attackers stole data from inside three AI inference providers for months, and none of the three knew until researchers told them, the industrial cybersecurity company Dragos said this week. Some of the stolen requests were flagged as Zero Data Retention, the setting that is supposed to mean a prompt is never stored. OpenRouter, a gateway that routes customers' AI requests to a pool of",
+      "source_name": "The Hacker News",
+      "source_url": "https://thehackernews.com/2026/11/openrouter-drops-3-providers-after.html",
+      "published_at": "2026-11-22T05:06:55+00:00",
+      "category": "cybersecurity",
+      "tags": [
+        "AI",
+        "Research",
+        "Cybersecurity"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.6963,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://thehackernews.com/2026/11/openrouter-drops-3-providers-after.html"
+    },
+    {
+      "title": "Researchers Demonstrate Ghostscript Sandbox-Escape RCE via Crafted File Uploads in Popular Apps",
+      "summary": "A now-patched flaw in Ghostscript allows a crafted file to escape the program's security sandbox and run commands on the server that processes it. Ghostscript is the interpreter that many Linux servers use to convert uploaded PDFs, PostScript files, and images into other formats, often without the application calling it directly. Security firm pwn.ai showed this week that ordinary upload,",
+      "source_name": "The Hacker News",
+      "source_url": "https://thehackernews.com/2026/11/researchers-demonstrate-ghostscript.html",
+      "published_at": "2026-11-22T05:03:41+00:00",
+      "category": "cybersecurity",
+      "tags": [
+        "AI",
+        "Security",
+        "Research",
+        "Cybersecurity"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.6961,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://thehackernews.com/2026/11/researchers-demonstrate-ghostscript.html"
+    },
+    {
+      "title": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife",
+      "published_at": "2026-11-22T19:10:34+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.576,
+      "importance_score": 0.6799,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50602843"
+    },
+    {
+      "title": "Getting the mind to steer the body to steer you",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://notnottalmud.substack.com/p/getting-the-mind-to-steer-the-body",
+      "published_at": "2026-11-20T22:11:05+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.6774,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50583028"
+    },
+    {
+      "title": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib",
+      "published_at": "2026-11-20T21:03:12+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.6727,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50582069"
+    },
+    {
+      "title": "Z2RAM Claims SRAM Memory Speeds at Much Greater Density",
+      "summary": "Startup Nagare Labs believes the new memory technology is suited for data centers and robotics",
+      "source_name": "IEEE Spectrum",
+      "source_url": "https://spectrum.ieee.org/sram-memory-z2ram",
+      "published_at": "2026-11-21T14:00:02+00:00",
+      "category": "research_feeds",
+      "tags": [
+        "Research Feeds"
+      ],
+      "confidence_score": 0.87,
+      "importance_score": 0.6333,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://spectrum.ieee.org/sram-memory-z2ram"
+    }
+  ]
+}
