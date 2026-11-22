@@ -1,0 +1,137 @@
+{
+  "post_date": "2026-11-22",
+  "week_start": "2026-11-16",
+  "week_label": "November 16–22, 2026",
+  "theme": "AI",
+  "related_themes": [
+    "Ai Model Companies",
+    "AI Models",
+    "Mainstream Press",
+    "Cloud Providers",
+    "Ai Newsletters"
+  ],
+  "tag_counts": [
+    {
+      "tag": "AI",
+      "count": 20
+    },
+    {
+      "tag": "Ai Model Companies",
+      "count": 20
+    },
+    {
+      "tag": "AI Models",
+      "count": 14
+    },
+    {
+      "tag": "Mainstream Press",
+      "count": 13
+    },
+    {
+      "tag": "Cloud Providers",
+      "count": 13
+    },
+    {
+      "tag": "Ai Newsletters",
+      "count": 8
+    }
+  ],
+  "stories_reviewed": 77,
+  "runs_used": [
+    "2026-11-16",
+    "2026-11-17",
+    "2026-11-18",
+    "2026-11-19",
+    "2026-11-20",
+    "2026-11-21",
+    "2026-11-22"
+  ],
+  "sources_count": 23,
+  "citations": [
+    {
+      "date": "2026-11-19",
+      "title": "Walter Isaacson on curiosity and creativity in the AI age.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/",
+      "source_name": "Google AI (The Keyword)",
+      "tags": [
+        "AI",
+        "Ai Model Companies"
+      ],
+      "summary": "Walter Isaacson joined Google to discuss how historical innovators inspire creativity and human judgment in the AI age.",
+      "why": "This discussion may offer insights into fostering human innovation and critical thinking alongside AI development, which is relevant for engineers designing and implementing AI systems.",
+      "score": 0.8805
+    },
+    {
+      "date": "2026-11-16",
+      "title": "Broadening access to AI for scientists",
+      "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+      "source_name": "OpenAI",
+      "tags": [
+        "AI",
+        "AI Models",
+        "Research",
+        "Ai Model Companies"
+      ],
+      "summary": "OpenAI is expanding its ChatGPT for Academic Researchers program to provide 200,000 researchers globally with free access to their frontier models.",
+      "why": "This initiative broadens access to advanced AI models, potentially accelerating research and development in various scientific fields.",
+      "score": 0.8753
+    },
+    {
+      "date": "2026-11-19",
+      "title": "Fuck Your AI Safeguards",
+      "url": "https://ounapuu.ee/posts/2026/11/19/unsafeguards/",
+      "source_name": "Hacker News",
+      "tags": [
+        "AI",
+        "Hacker News"
+      ],
+      "summary": "No abstract was provided for the source text.",
+      "why": "Without content, it is not possible to determine why this matters to data engineers, AI engineers, cloud architects, or enterprise tech leaders.",
+      "score": 0.8484
+    },
+    {
+      "date": "2026-11-18",
+      "title": "AI agents ask better questions than KPMG accountants in audit trial",
+      "url": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/",
+      "source_name": "Hacker News",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Hacker News"
+      ],
+      "summary": "No abstract was provided in the source text.",
+      "why": "Without source text, the relevance to data and AI engineers cannot be determined.",
+      "score": 0.8464
+    },
+    {
+      "date": "2026-11-18",
+      "title": "A bridge to modernization: What IDC’s Market Note says about Cameyo by Google",
+      "url": "https://cloud.google.com/blog/products/chrome-enterprise/a-bridge-to-modernization-what-idcs-market-note-says-about-cameyo-by-google/",
+      "source_name": "Google Cloud Blog",
+      "tags": [
+        "AI",
+        "GenAI",
+        "AI Agents",
+        "Security",
+        "Cloud Providers"
+      ],
+      "summary": "Organizations are adopting generative and agentic AI, but business-critical legacy desktop applications pose a challenge. These apps are essential but complex to rewrite, and unequipped for current security and productivity needs.",
+      "why": "Legacy applications can impede modernization strategies for IT leaders seeking to leverage AI for business value.",
+      "score": 0.84
+    },
+    {
+      "date": "2026-11-18",
+      "title": "Introducing Amazon OpenSearch Memory: Persistent memory for AI agents",
+      "url": "https://aws.amazon.com/blogs/big-data/introducing-amazon-opensearch-memory-persistent-memory-for-ai-agents/",
+      "source_name": "AWS Big Data Blog",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Cloud Providers"
+      ],
+      "summary": "Amazon OpenSearch Memory is now generally available. Built on Amazon OpenSearch Serverless, it adds persistent, cross-session memory to AI agents. It stores interactions as searchable events, derives memories, and retrieves relevant context, so you can give agents long-term memory without building…",
+      "why": "Relevant to cloud architects weighing platform capabilities, cost, and lock-in.",
+      "score": 0.8373
+    }
+  ]
+}
