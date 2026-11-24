@@ -1,0 +1,823 @@
+{
+  "generated_at": "2026-11-24T01:02:04.736507+00:00",
+  "post_date": "2026-11-23",
+  "sources_checked": 48,
+  "candidates": 45,
+  "items": [
+    {
+      "title": "OpenAI and Cisco introduce Shirudo",
+      "summary": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches.",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/introducing-shirudo",
+      "published_at": "2026-11-23T21:20:00+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "Open Source",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.99,
+      "importance_score": 0.8846,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/index/introducing-shirudo"
+    },
+    {
+      "title": "Finding faster quantum algorithms with agents and formal verification",
+      "summary": "Using agent teams and formal verification to improve quantum algorithms for fusion and chemistry.",
+      "source_name": "Google DeepMind",
+      "source_url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
+      "published_at": "2026-11-23T16:59:40+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI Agents",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.99,
+      "importance_score": 0.8665,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/"
+    },
+    {
+      "title": "A more tailored Google Search that’s uniquely yours",
+      "summary": "Google Search bar with the text \"Personal Intelligence\" surrounded by the Google Wallet, Google Drive, GMail, Google Photos, Google Calendar, and Google G logo icons",
+      "source_name": "Google AI (The Keyword)",
+      "source_url": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/",
+      "published_at": "2026-11-23T17:00:00+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.8665,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/"
+    },
+    {
+      "title": "VP ≠ VNP over Every Field",
+      "summary": "Paper: https://github.com/anthropics/formal-math/blob/11b6c7e3c927d...",
+      "source_name": "Hacker News",
+      "source_url": "https://github.com/anthropics/formal-math/tree/main/vp-vnp",
+      "published_at": "2026-11-23T22:09:10+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.6525,
+      "importance_score": 0.858,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50620102"
+    },
+    {
+      "title": "Per Arm's request, this site will be discontinued on 4 December 2026 :(",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://arm.jonpalmisc.com/",
+      "published_at": "2026-11-23T19:17:55+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.8461,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50617499"
+    },
+    {
+      "title": "Apple removed my open-source app from EU App Stores after 9 years",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://github.com/glushchenko/fsnotes/discussions/2056",
+      "published_at": "2026-11-23T18:48:10+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Open Source",
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.844,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50616933"
+    },
+    {
+      "title": "Piramal Finance Scales Its Internal Agentic AI Assistant With MongoDB",
+      "summary": "Piramal Finance Limited is a retail-led upper-layer NBFC with a pan-India presence. It offers a diverse portfolio of retail lending products spanning affordable housing loans, loan against property, microfinance, personal loans, insurance solutions, and more, as well as wholesale lending, which provides asset-backed, data-driven financing solutions across real estate and select non-real estate sectors. As of June 30, 2026, the company has over ₹ 1,00,000 Cr of assets under…",
+      "source_name": "MongoDB Blog",
+      "source_url": "https://www.mongodb.com/company/blog/innovation/piramal-finance-scales-internal-agentic-ai-assistant",
+      "published_at": "2026-11-24T01:00:00+00:00",
+      "category": "databases",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Databases"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.8399,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.mongodb.com/company/blog/innovation/piramal-finance-scales-internal-agentic-ai-assistant"
+    },
+    {
+      "title": "Kagi Mail (public beta)",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://blog.kagi.com/kagi-mail-public-beta",
+      "published_at": "2026-11-23T17:17:01+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.8377,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50615481"
+    },
+    {
+      "title": "Dario is hyping the dangers so OSS models are illegal and he stays in control",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://twitter.com/ylecun/status/2124550037912920090",
+      "published_at": "2026-11-23T17:07:26+00:00",
+      "category": "aggregators",
+      "tags": [
+        "AI Models",
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.837,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50615308"
+    },
+    {
+      "title": "Ladybird is now in alpha",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://ladybird.org/posts/alpha/",
+      "published_at": "2026-11-23T16:13:12+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.8333,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50614249"
+    },
+    {
+      "title": "Connected intelligence for in-house legal",
+      "summary": "Watch OpenAI’s Stacey Wang and Craig Bruney, Mary O’Carroll of LECG, and Cooley’s Richard Segal explore how AI can help in-house legal teams connect business context, build reusable workflows and get more from outside counsel.",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
+      "published_at": "2026-11-23T08:00:00+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.99,
+      "importance_score": 0.829,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal"
+    },
+    {
+      "title": "Richpanel helps companies automate 50% of support in 30 days",
+      "summary": "Richpanel uses GPT-6 Astra and GPT-6.1 Sol to equip its AI support agents with tools and procedures, and GPT-6 Luna for their conversations.",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
+      "published_at": "2026-11-23T08:00:00+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.99,
+      "importance_score": 0.829,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/business/customer-stories/richpanel-ai-customer-support"
+    },
+    {
+      "title": "Nvidia Reinstates Jensen Huang as CEO",
+      "summary": "https://nvidianews.nvidia.com/news/nvidia-board-reinstates-j... https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-congress...",
+      "source_name": "Hacker News",
+      "source_url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
+      "published_at": "2026-11-23T14:00:18+00:00",
+      "category": "aggregators",
+      "tags": [
+        "GPUs",
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.824,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50611576"
+    },
+    {
+      "title": "Kubernetes v1.38 Sneak Peek",
+      "summary": "As we get closer to the release date for Kubernetes v1.38, the project develops and matures, features may be deprecated, removed, or replaced with better ones for the project's overall health. This blog post outlines some of the planned changes for the Kubernetes v1.38 release that the release team feels you should be aware of for the continued maintenance of your Kubernetes environment and keeping up to date with the latest changes. The information listed below is based on…",
+      "source_name": "Kubernetes Blog",
+      "source_url": "https://kubernetes.io/blog/2026/11/23/kubernetes-v1-38-sneak-peek/",
+      "published_at": "2026-11-23T16:00:00+00:00",
+      "category": "open_source_foundations",
+      "tags": [
+        "Kubernetes",
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.92,
+      "importance_score": 0.8224,
+      "source_type": "release_notes",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://kubernetes.io/blog/2026/11/23/kubernetes-v1-38-sneak-peek/"
+    },
+    {
+      "title": "Accelerating Direct Sparse Solvers for Computational Engineering with NVIDIA cuDSS 1.0",
+      "summary": "Sparse linear systems are at the core of nearly every engineering and scientific simulation, from structural mechanics and computational fluid dynamics to...",
+      "source_name": "NVIDIA Developer Blog",
+      "source_url": "https://developer.nvidia.com/blog/accelerating-direct-sparse-solvers-for-computational-engineering-with-nvidia-cudss-1-0/",
+      "published_at": "2026-11-23T19:59:40+00:00",
+      "category": "mlops",
+      "tags": [
+        "GPUs",
+        "Mlops"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.819,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://developer.nvidia.com/blog/?p=125662"
+    },
+    {
+      "title": "Stalwart is now a drop-in replacement for Microsoft Exchange",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://stalw.art/blog/microsoft-exchange-replacement/",
+      "published_at": "2026-11-23T22:32:29+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.6335,
+      "importance_score": 0.8183,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50620349"
+    },
+    {
+      "title": "Win4wine – Run Windows Shell as the Linux Desktop on Wine",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://github.com/mikuta0407/win4wine",
+      "published_at": "2026-11-23T12:28:11+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.656,
+      "importance_score": 0.8176,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50610743"
+    },
+    {
+      "title": "Nospeaker ─ Make your MacBook's trackpad talk using its haptic motor",
+      "summary": "https://x.com/codycollier/status/2124505859883716918",
+      "source_name": "Hacker News",
+      "source_url": "https://github.com/os6/nospeaker",
+      "published_at": "2026-11-23T11:31:54+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.6855,
+      "importance_score": 0.8137,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50610318"
+    },
+    {
+      "title": "RoboTrack: Point tracking for real-world robotic manipulation",
+      "summary": "",
+      "source_name": "Hugging Face",
+      "source_url": "https://huggingface.co/blog/allenai/robotrack",
+      "published_at": "2026-11-23T17:20:37+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.9,
+      "importance_score": 0.808,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://huggingface.co/blog/allenai/robotrack"
+    },
+    {
+      "title": "GLM-5.4: Toward generalized coding with our first loop transformer",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://z.ai/blog/glm-5.4",
+      "published_at": "2026-11-23T10:06:43+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.8078,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50609685"
+    },
+    {
+      "title": "Get Started with GPU-Accelerated DuckDB Analytics Using the Sirius Core Extension",
+      "summary": "As datasets grow, analytical queries can take longer to run, slowing down data exploration, pipelines, and applications. For developers using DuckDB, reducing...",
+      "source_name": "NVIDIA Developer Blog",
+      "source_url": "https://developer.nvidia.com/blog/get-started-with-gpu-accelerated-duckdb-analytics-using-the-sirius-core-extension/",
+      "published_at": "2026-11-23T17:09:28+00:00",
+      "category": "mlops",
+      "tags": [
+        "Data Pipelines",
+        "GPUs",
+        "Mlops"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8072,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://developer.nvidia.com/blog/?p=125633"
+    },
+    {
+      "title": "Data + AI Anywhere: AlloyDB Omni integration with local models",
+      "summary": "Open models like Gemma 4 from Google DeepMind are a great option to keep your data local. But how can a local AI model integrate with on-premises data? AlloyDB Omni , Google’s 100% PostgreSQL-compatible database that runs anywhere, now integrates with locally hosted large language models (LLMs). With AlloyDB Omni, you can build agentic experiences on your own infrastructure and on your own terms. Whether it’s in the cloud, in your datacenter, or even on your laptop, you can…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/products/databases/alloydb-omni-integration-with-local-models/",
+      "published_at": "2026-11-23T17:00:00+00:00",
+      "category": "cloud_providers",
+      "tags": [
+        "AI",
+        "LLMs",
+        "AI Agents",
+        "Cloud",
+        "Databases",
+        "AI Models",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.8065,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/products/databases/alloydb-omni-integration-with-local-models/"
+    },
+    {
+      "title": "How Sinch modernized its enterprise data warehouse from Snowflake to BigQuery to power AI",
+      "summary": "As the scale of global communications grows larger and larger, enterprise platforms must process billions of interactions with customers across a complex network of touchpoints without breaking them. A prime example is Sinch , one of the world’s leading cloud communications and customer engagement (CPaaS) companies, which processes billions of customer interactions, SMS routing events, voice calls, and transactional messages. Managing massive international messaging traffic…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/products/data-analytics/how-sinch-migrated-from-snowflake-to-bigquery-to-power-ai/",
+      "published_at": "2026-11-23T17:00:00+00:00",
+      "category": "cloud_providers",
+      "tags": [
+        "AI",
+        "Snowflake",
+        "Cloud",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.8065,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/products/data-analytics/how-sinch-migrated-from-snowflake-to-bigquery-to-power-ai/"
+    },
+    {
+      "title": "Merry Making: Play, Build and Create With NVIDIA Technologies This Holiday Season",
+      "summary": "The elves don’t have to be the only ones busy in the workshop this holiday season. With the lights twinkling and the gift wrap out, it’s the perfect time to give someone — or yourself — a spark to take a hobby to the next level. For some, that means diving into a new game. […]",
+      "source_name": "NVIDIA Blog",
+      "source_url": "https://blogs.nvidia.com/blog/nvidia-technologies-holidays-2026/",
+      "published_at": "2026-11-23T17:00:08+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "Apache Spark",
+        "GPUs",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8065,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://blogs.nvidia.com/?p=100141"
+    },
+    {
+      "title": "Google is named a Leader in the 2026 Gartner® Magic Quadrant™ for SIEM",
+      "summary": "Today, we are proud to announce that Gartner has recognized Google as a Leader in the 2026 Gartner® Magic Quadrant™ for Security Information and Event Management (SIEM). Among the 15 vendors evaluated this year, Google was positioned furthest on “Completeness of Vision.” Today's threat landscape requires a new approach to security operations that can keep pace with the speed, scale, and sophistication of autonomous attacks. Traditional SIEM architectures centralized logs and…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/products/identity-security/google-is-named-a-leader-in-the-2026-gartner-magic-quadrant-for-siem/",
+      "published_at": "2026-11-23T17:00:00+00:00",
+      "category": "cloud_providers",
+      "tags": [
+        "Security",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.8065,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/products/identity-security/google-is-named-a-leader-in-the-2026-gartner-magic-quadrant-for-siem/"
+    },
+    {
+      "title": "How a Sales Career at MongoDB Will Set You Apart",
+      "summary": "A sales career at MongoDB means owning the entire sales cycle, from pipeline generation to close, in a team-based culture where peers share what works, and career advancement follows results. MongoDB sellers say being stretched by challenging projects and coached by leaders who roll up their sleeves and work deals alongside them is exactly what accelerates their growth. Our sellers often describe MongoDB as “the MIT of sales” and a place where you’ll earn your “PhD in…",
+      "source_name": "MongoDB Blog",
+      "source_url": "https://www.mongodb.com/company/blog/culture/how-sales-career-at-mongodb-will-set-you-apart",
+      "published_at": "2026-11-23T16:13:37+00:00",
+      "category": "databases",
+      "tags": [
+        "Data Pipelines",
+        "Databases"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.8033,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.mongodb.com/company/blog/culture/how-sales-career-at-mongodb-will-set-you-apart"
+    },
+    {
+      "title": "Free alternative TV network built from the Internet Archive's forgotten videos",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://spelunkr.tv",
+      "published_at": "2026-11-23T01:13:51+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7708,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50606192"
+    },
+    {
+      "title": "Trump’s Extraordinary Nvidia Intervention Sidelines National Security Concerns",
+      "summary": "President Trump’s move to put Jensen Huang back at the helm of Nvidia caps his indifference to the warnings of his own intelligence agencies.",
+      "source_name": "The New York Times - Technology",
+      "source_url": "https://www.nytimes.com/2026/11/23/us/politics/trump-nvidia-national-security.html",
+      "published_at": "2026-11-24T00:55:56+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "GPUs",
+        "Security",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7596,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.nytimes.com/2026/11/23/us/politics/trump-nvidia-national-security.html"
+    },
+    {
+      "title": "Jensen Huang joins the small club of ousted founders who got their jobs back",
+      "summary": "From Sam Altman to Steve Jobs, Nvidia's Jensen Huang now joins a small group of founders who got their jobs back.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/jensen-huang-nvidia-ousted-founders-who-got-jobs-back-2026-11",
+      "published_at": "2026-11-24T00:51:23+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "GPUs",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7593,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/jensen-huang-nvidia-ousted-founders-who-got-jobs-back-2026-11"
+    },
+    {
+      "title": "Sunday Special: Catching rockets and sinking ships",
+      "summary": "Sunday Special: Catching rockets and sinking ships Superhuman AI",
+      "source_name": "Superhuman (Zain Kahn)",
+      "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNYkh3NXJ5TmJaSFkydDNjVHAwWUxTZFI5dTNOeWhPWHptcEg1b3ExMERWR3JOQUVxVnpRcU9ha19vMEJWM1Y3YklOSU5LLUpGV092d2s3blRNbFZJVENNcEJpbXRIcEFqdjE0MGRqejgwX3FBV0JPbUZBQmlhenBHS3Jzbw?oc=5",
+      "published_at": "2026-11-24T00:13:13+00:00",
+      "category": "ai_newsletters",
+      "tags": [
+        "AI",
+        "Ai Newsletters"
+      ],
+      "confidence_score": 0.64,
+      "importance_score": 0.7566,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "CBMigwFBVV95cUxNYkh3NXJ5TmJaSFkydDNjVHAwWUxTZFI5dTNOeWhPWHptcEg1b3ExMERWR3JOQUVxVnpRcU9ha19vMEJWM1Y3YklOSU5LLUpGV092d2s3blRNbFZJVENNcEJpbXRIcEFqdjE0MGRqejgwX3FBV0JPbUZBQmlhenBHS3Jzbw"
+    },
+    {
+      "title": "Saudi engineer used OpenAI’s vibe-coding app to more efficiently bug its office, feds say",
+      "summary": "Prosecutors say ex-OpenAI engineer Abdulrahman Alfozan used Codex, Dropbox and a hidden recorder to capture confidential meetings.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/openai-engineer-alfozan-codex-manage-recordings-feds-2026-11",
+      "published_at": "2026-11-23T23:43:00+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7545,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/openai-engineer-alfozan-codex-manage-recordings-feds-2026-11"
+    },
+    {
+      "title": "Trump Is Said to Have Pushed to Reinstate Nvidia CEO Jensen Huang",
+      "summary": "The president set in motion a weekend of maneuvering, led by Vice President JD Vance, to help Jensen Huang get his old job back.",
+      "source_name": "The New York Times - Technology",
+      "source_url": "https://www.nytimes.com/2026/11/23/us/politics/trump-nvidia-huang.html",
+      "published_at": "2026-11-23T23:41:28+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "GPUs",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7544,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.nytimes.com/2026/11/23/us/politics/trump-nvidia-huang.html"
+    },
+    {
+      "title": "Trump Administration Imposes Sanctions on Megaspeed, Singaporean Firm at Center of Nvidia Scandal",
+      "summary": "The administration added Megaspeed to the entity list, a trade blacklist, after weeks of sparring among top officials on the decision.",
+      "source_name": "The New York Times - Technology",
+      "source_url": "https://www.nytimes.com/2026/11/23/business/trump-administration-megaspeed-trade-blacklist-nvidia.html",
+      "published_at": "2026-11-23T23:18:58+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "GPUs",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7528,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.nytimes.com/2026/11/23/business/trump-administration-megaspeed-trade-blacklist-nvidia.html"
+    },
+    {
+      "title": "Republicans Break With Trump Over Jensen Huang’s Reinstatement at Nvidia",
+      "summary": "It was a rare instance of the G.O.P. pushing back on the president and threatening to use its oversight and legislative power to challenge his administration’s approach.",
+      "source_name": "The New York Times - Technology",
+      "source_url": "https://www.nytimes.com/2026/11/23/technology/republicans-trump-jensen-huang-nvidia.html",
+      "published_at": "2026-11-23T23:18:45+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "GPUs",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7528,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.nytimes.com/2026/11/23/technology/republicans-trump-jensen-huang-nvidia.html"
+    },
+    {
+      "title": "Figma engineer says in a lawsuit that CEO Dylan Field’s direct-feedback culture forced her to confront sexual harassers",
+      "summary": "A Figma employee says in a lawsuit that when she reported sexual harassment incidents to human resources, she was told her to deal with it herself.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/figma-sexual-harassment-lawsuit-dylan-field-2026-11",
+      "published_at": "2026-11-23T23:12:08+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7524,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/figma-sexual-harassment-lawsuit-dylan-field-2026-11"
+    },
+    {
+      "title": "How the Jensen Huang scandal unfolded, from an affair with an alleged spy to his return as Nvidia CEO",
+      "summary": "A timeline of the key moments that led to Jensen Huang's resignation as CEO and his return to Nvidia.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/timeline-nvidia-ceo-jensen-huang-affair-disclosure-china-investigation-2026-11",
+      "published_at": "2026-11-23T23:07:01+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "GPUs",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.752,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/timeline-nvidia-ceo-jensen-huang-affair-disclosure-china-investigation-2026-11"
+    },
+    {
+      "title": "Commerce to blacklist Megaspeed, Nvidia customer at center of spy scandal",
+      "summary": "The news comes the same day Nvidia's board reinstated Jensen Huang as chief executive at Trump's urging.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/commerce-blacklist-megaspeed-nvidia-customer-at-center-of-spy-scandal-2026-11",
+      "published_at": "2026-11-23T22:16:19+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "GPUs",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7485,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/commerce-blacklist-megaspeed-nvidia-customer-at-center-of-spy-scandal-2026-11"
+    },
+    {
+      "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+      "summary": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.",
+      "source_name": "TechCrunch - AI",
+      "source_url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+      "published_at": "2026-11-23T22:05:50+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7478,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://techcrunch.com/?p=3191583"
+    },
+    {
+      "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
+      "summary": "Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself.",
+      "source_name": "TechCrunch - AI",
+      "source_url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
+      "published_at": "2026-11-23T22:02:05+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7475,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://techcrunch.com/?p=3191460"
+    },
+    {
+      "title": "Inception - possibly a ShinyHunters reboot - claims seven victims in a week",
+      "summary": "Whatever they call themselves these days: be on the lookout for voice phishing attempts",
+      "source_name": "The Register",
+      "source_url": "https://www.theregister.com/security/2026/11/23/inception-possibly-a-shinyhunters-reboot-claims-seven-victims-in-a-week/5311768",
+      "published_at": "2026-11-23T21:52:23+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7468,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.theregister.com/a/5311768"
+    },
+    {
+      "title": "Jensen Huang Is BACK! LIVE in 2 Minutes",
+      "summary": "NVIDIA’s reversal, Claude’s Riemann breakthrough, and the Anthropic IPO. Join Corey now.",
+      "source_name": "The Neuron",
+      "source_url": "https://www.theneurondaily.com/p/jensen-huang-returns-ai-news-rumors-live-nov-23",
+      "published_at": "2026-11-23T19:13:00+00:00",
+      "category": "ai_newsletters",
+      "tags": [
+        "GPUs",
+        "Ai Newsletters"
+      ],
+      "confidence_score": 0.64,
+      "importance_score": 0.7358,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.theneurondaily.com/p/jensen-huang-returns-ai-news-rumors-live-nov-23"
+    },
+    {
+      "title": "Webworm Suspected of Modifying SoftEther VPN to Evade Detection and Hide Remote Access",
+      "summary": "The China-aligned threat actor known as Webworm is suspected to be using a custom version of the open-source SoftEther VPN Bridge tool in an attempt to remove recognizable detection fingerprints, while disguising it as network-monitoring software to establish covert remote access to compromised networks. The modified variant \"implements various tricks to hide itself from security tools,\"",
+      "source_name": "The Hacker News",
+      "source_url": "https://thehackernews.com/2026/11/webworm-suspected-of-modifying.html",
+      "published_at": "2026-11-23T17:45:15+00:00",
+      "category": "cybersecurity",
+      "tags": [
+        "Open Source",
+        "Security",
+        "Cybersecurity"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7297,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://thehackernews.com/2026/11/webworm-suspected-of-modifying.html"
+    },
+    {
+      "title": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Before going public last week, Anthropic named the possibility that AI could be conscious or sentient as a risk factor for anyone investing. Given “the way we approach model sentience and moral…",
+      "source_name": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/",
+      "published_at": "2026-11-23T17:36:08+00:00",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "AI Models",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.729,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.technologyreview.com/?p=1149569"
+    },
+    {
+      "title": "⚡ Weekly Recap: VMware 0-Day, Java4Shell, NGINX2Root, Ruby2Shell, and a Whole Lot of Shell Trouble",
+      "summary": "A stolen key. A trusted message. A routine update. None of these looks like the start of a major security problem. That's partly why they work. Attackers don't always need to break down a door. Sometimes they just use one that's already open. This week's stories show how quickly a small opening can turn into a much bigger mess. One breach helps attackers reach another target. Tools people rely",
+      "source_name": "The Hacker News",
+      "source_url": "https://thehackernews.com/2026/11/weekly-recap-vmware-0-day-java4shell.html",
+      "published_at": "2026-11-23T15:10:48+00:00",
+      "category": "cybersecurity",
+      "tags": [
+        "Security",
+        "Cybersecurity"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7189,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://thehackernews.com/2026/11/weekly-recap-vmware-0-day-java4shell.html"
+    },
+    {
+      "title": "Adding One More Agent: How AI Team Size and Formation Shape Productivity and Diversity in Human-AI Brainstorming Teams",
+      "summary": "arXiv:2611.26663v1 Announce Type: new Abstract: Generative AI has improved individual productivity, but whether adding a plurality of AI partners helps or hurts remains open. We crossed AI partnership (one versus two) with behavioral formation (calibrated to average human behavior versus customized by the participant) in a brainstorming experiment ($N$=168) with human-human dyads as reference. Two-AI rooms posted more ideas to the shared board, but human-authored ideas…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2611.26663",
+      "published_at": "2026-11-23T05:00:00+00:00",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "GenAI",
+        "AI Agents",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7165,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2611.26663v1"
+    }
+  ]
+}
