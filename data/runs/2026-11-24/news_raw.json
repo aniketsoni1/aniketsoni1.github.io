@@ -1,0 +1,819 @@
+{
+  "generated_at": "2026-11-24T23:06:14.866467+00:00",
+  "post_date": "2026-11-24",
+  "sources_checked": 48,
+  "candidates": 45,
+  "items": [
+    {
+      "title": "How Gemini is changing the game for Golden State's organization and fans.",
+      "summary": "Google Gemini partners with Golden State to power fan experiences and business operations for the Warriors, Valkyries, and Chase Center. See the news.",
+      "source_name": "Google AI (The Keyword)",
+      "source_url": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/",
+      "published_at": "2026-11-24T16:00:00+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.8704,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/"
+    },
+    {
+      "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+      "summary": "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets.",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+      "published_at": "2026-11-24T13:00:00+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI Models",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.99,
+      "importance_score": 0.8579,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities"
+    },
+    {
+      "title": "Ternary Bonsai 2.5 27B",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://prismml.com/news/bonsai-2-5-27b",
+      "published_at": "2026-11-24T20:08:03+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.6655,
+      "importance_score": 0.8576,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50633922"
+    },
+    {
+      "title": "Searching for distant planets with Astra",
+      "summary": "See how two amateur astronomers used Codex and Astra to find potential exoplanets in public data from NASA’s Kepler and TESS space telescopes.",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/searching-for-distant-planets-with-astra",
+      "published_at": "2026-11-24T11:00:00+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.99,
+      "importance_score": 0.8496,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/index/searching-for-distant-planets-with-astra"
+    },
+    {
+      "title": "Microsoft declares 'Code Red' after historic outage, internal memos show",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.reuters.com/business/microsoft-declares-code-red-after-historic-outage-internal-memos-show-2026-11-24/",
+      "published_at": "2026-11-24T17:07:41+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.65,
+      "importance_score": 0.8451,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50631157"
+    },
+    {
+      "title": "Active intrusion campaign against Check Point security management servers",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign",
+      "published_at": "2026-11-24T16:32:17+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Security",
+        "Hacker News"
+      ],
+      "confidence_score": 0.6705,
+      "importance_score": 0.8426,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50630594"
+    },
+    {
+      "title": "Jetty Pro",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "http://hypercritical.co/2026/11/23/jetty-pro",
+      "published_at": "2026-11-24T16:23:02+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.6695,
+      "importance_score": 0.842,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50630462"
+    },
+    {
+      "title": "MongoDB Mastra Integration Adds Hybrid Search, Auto Embedding, and Reranking",
+      "summary": "Builders use Mastra, an open-source TypeScript framework, to create increasingly capable agents with MongoDB. But preparing retrieval for those agents can mean copying operational data into a separate collection, generating and syncing embeddings, merging semantic and keyword results, reranking, and fetching full records: a lot of code to maintain, and a lot of places for data to drift. Today, we're bringing all of it into a single query in Mastra (v1.28): Hybrid Search now…",
+      "source_name": "MongoDB Blog",
+      "source_url": "https://www.mongodb.com/company/blog/product-release-announcements/mastra-integration-adds-hybrid-search-auto-embedding-reranking",
+      "published_at": "2026-11-24T21:00:00+00:00",
+      "category": "databases",
+      "tags": [
+        "AI Agents",
+        "Open Source",
+        "Databases"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.8312,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.mongodb.com/company/blog/product-release-announcements/mastra-integration-adds-hybrid-search-auto-embedding-reranking"
+    },
+    {
+      "title": "GTA 6 Running on Windows",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://twitter.com/raul_bs3/status/2125213756238291075",
+      "published_at": "2026-11-24T13:19:31+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.6655,
+      "importance_score": 0.8293,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50627783"
+    },
+    {
+      "title": "LLM agents work for their parent companies, not for you",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/",
+      "published_at": "2026-11-24T12:40:15+00:00",
+      "category": "aggregators",
+      "tags": [
+        "LLMs",
+        "AI Agents",
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.8265,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50627340"
+    },
+    {
+      "title": "How to Run NVIDIA Cosmos 3 on Local AI Devices Using Hugging Face Diffusers",
+      "summary": "Running video generation models locally can be challenging when model weights and intermediate data exceed available GPU memory. NVIDIA Cosmos 3 Nano is a world...",
+      "source_name": "NVIDIA Developer Blog",
+      "source_url": "https://developer.nvidia.com/blog/how-to-run-nvidia-cosmos-3-on-local-ai-devices-using-hugging-face-diffusers/",
+      "published_at": "2026-11-24T18:44:05+00:00",
+      "category": "mlops",
+      "tags": [
+        "AI",
+        "GPUs",
+        "AI Models",
+        "Mlops"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8218,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://developer.nvidia.com/blog/?p=125590"
+    },
+    {
+      "title": "Worshipping at the altar of Brendan Gregg",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://fzakaria.com/2026/11/12/worshipping-at-the-altar-of-brendan-gregg",
+      "published_at": "2026-11-24T10:50:14+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.654,
+      "importance_score": 0.8189,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50626413"
+    },
+    {
+      "title": "Built for trust and control: Powering the next wave of AI agents across Google Workspace and Google Cloud",
+      "summary": "For over 20 years, we have protected 4 billion users and 13 million organizations in Workspace, and critical enterprise and government systems on Google Cloud. From personal and financial records to board materials, regulated workloads, applications, and AI models, those safeguards protect what matters most. Blocking >99.9% of spam, phishing, and malware, alongside encryption and data residency, follows one principle: your data is yours, and you should always know and decide…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/products/identity-security/deploying-agents-safely-in-your-enterprise/",
+      "published_at": "2026-11-24T17:00:00+00:00",
+      "category": "cloud_providers",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Cloud",
+        "Google Cloud",
+        "AI Models",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.8146,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/products/identity-security/deploying-agents-safely-in-your-enterprise/"
+    },
+    {
+      "title": "Prepare Market Data for Forecasting with NVIDIA Megatron Core",
+      "summary": "Market data arrives as a stream of trades and quotes: every execution, bid, and ask, timestamped to the microsecond. Preparing this data for AI-based market...",
+      "source_name": "NVIDIA Developer Blog",
+      "source_url": "https://developer.nvidia.com/blog/prepare-market-data-for-forecasting-with-nvidia-megatron-core/",
+      "published_at": "2026-11-24T17:00:00+00:00",
+      "category": "mlops",
+      "tags": [
+        "AI",
+        "GPUs",
+        "Mlops"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8146,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://developer.nvidia.com/blog/?p=125645"
+    },
+    {
+      "title": "What’s New for Game Developers: AI Animation and RTX Tools",
+      "summary": "This month’s NVIDIA game development updates help teams bring new graphics, animation, and local AI capabilities into their engines while balancing image...",
+      "source_name": "NVIDIA Developer Blog",
+      "source_url": "https://developer.nvidia.com/blog/whats-new-for-game-developers-ai-animation-and-rtx-tools/",
+      "published_at": "2026-11-24T17:00:00+00:00",
+      "category": "mlops",
+      "tags": [
+        "AI",
+        "GPUs",
+        "Mlops"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8146,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://developer.nvidia.com/blog/?p=125753"
+    },
+    {
+      "title": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
+      "summary": "",
+      "source_name": "Hugging Face",
+      "source_url": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
+      "published_at": "2026-11-24T16:34:13+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.9,
+      "importance_score": 0.8128,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance"
+    },
+    {
+      "title": "These are the gifts developers will actually want",
+      "summary": "The developer you're shopping for hasn’t shared their holiday wish list with you yet? Check out these gifts, plus our Black Friday discount all week long. The post These are the gifts developers will actually want appeared first on The GitHub Blog .",
+      "source_name": "The GitHub Blog",
+      "source_url": "https://github.blog/news-insights/company-news/these-are-the-gifts-developers-will-actually-want/",
+      "published_at": "2026-11-24T16:00:00+00:00",
+      "category": "developer_platforms",
+      "tags": [
+        "Developer Tools",
+        "Developer Platforms"
+      ],
+      "confidence_score": 0.92,
+      "importance_score": 0.8104,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://github.blog/?p=100438"
+    },
+    {
+      "title": "Quad9 pulled their DNS service from France",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://quad9.net/news/blog/quad9-service-deactivation-in-france/",
+      "published_at": "2026-11-24T08:33:14+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.8094,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50625384"
+    },
+    {
+      "title": "AWS Weekly Roundup: Local Zone in Bogotá, 30-minute Lambda timeout, and more (November 24, 2026)",
+      "summary": "Some limits shape architecture more than any feature does. AWS Lambda launched in 2014 with a 60-second timeout, moved to 5 minutes in 2015 and to 15 minutes in 2018, and then stayed there for eight years. Last week the limit doubled, and in the same week Lambda learned to run on GPUs and gave […]",
+      "source_name": "AWS News Blog",
+      "source_url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-local-zone-in-bogota-30-minute-lambda-timeout-and-more-november-24-2026/",
+      "published_at": "2026-11-24T15:39:59+00:00",
+      "category": "cloud_providers",
+      "tags": [
+        "AWS",
+        "GPUs",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.809,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "c2ba2dc45c5f6d0f3d50ffb444e6dae226deff4f"
+    },
+    {
+      "title": "Enabling zero trust: ALLEN’s move to Chrome Enterprise Premium",
+      "summary": "Editor’s note: Founded in 1988 in Kota, Rajasthan, ALLEN is one of India’s leading coaching institutions, serving over 400,000 students across 350+ classroom campuses in 78 cities. Here, the IT and Cybersecurity Leadership Team shares how they standardized on Chrome Enterprise Premium to secure sensitive data and enable zero trust across over 5,000 users. With a workforce that lives in the browser across a SaaS and multi-cloud estate, securing our digital environment is…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/products/chrome-enterprise/enabling-zero-trust-allens-move-to-chrome-enterprise-premium/",
+      "published_at": "2026-11-24T15:02:00+00:00",
+      "category": "cloud_providers",
+      "tags": [
+        "Cloud",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.94,
+      "importance_score": 0.8064,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/products/chrome-enterprise/enabling-zero-trust-allens-move-to-chrome-enterprise-premium/"
+    },
+    {
+      "title": "How Intentful uses dots to make more time for growth",
+      "summary": "Marina Petrova’s dot Aria helps research websites and build proposals, while proactively flagging messages and resolving issues.",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/business/customer-stories/intentful-dots",
+      "published_at": "2026-11-24T00:00:00+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "Research",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.99,
+      "importance_score": 0.8037,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/business/customer-stories/intentful-dots"
+    },
+    {
+      "title": "How iFood scales coding agents across 15,000 repositories",
+      "summary": "",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/business/customer-stories/ifood",
+      "published_at": "2026-11-24T00:00:00+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI Agents",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.97,
+      "importance_score": 0.8037,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/business/customer-stories/ifood"
+    },
+    {
+      "title": "Clay helps sales teams win with Codex and ChatGPT",
+      "summary": "ChatGPT and Codex integrations help Clay’s users research deals and turn data into go-to-market plays, with GPT-6 models handling the reasoning.",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/business/customer-stories/clay-plugins-openai",
+      "published_at": "2026-11-24T00:00:00+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI Models",
+        "Research",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.99,
+      "importance_score": 0.8037,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/business/customer-stories/clay-plugins-openai"
+    },
+    {
+      "title": "Q&A: How Everstone Brings Where Winds Meet to Life with NVIDIA DLSS 5",
+      "summary": "Where Winds Meet moves between distant mountain landscapes, bustling streets, and quiet moments with its characters. For Everstone Studio, bringing more...",
+      "source_name": "NVIDIA Developer Blog",
+      "source_url": "https://developer.nvidia.com/blog/qa-how-everstone-brings-where-winds-meet-to-life-with-nvidia-dlss-5/",
+      "published_at": "2026-11-24T14:00:00+00:00",
+      "category": "mlops",
+      "tags": [
+        "GPUs",
+        "Mlops"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8021,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://developer.nvidia.com/blog/?p=125610"
+    },
+    {
+      "title": "2035 came early",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://fzakaria.com/2026/11/23/2035-came-early",
+      "published_at": "2026-11-24T06:30:33+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.8009,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50624497"
+    },
+    {
+      "title": "OpenAI and Cisco introduce Shirudo",
+      "summary": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches.",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/introducing-shirudo",
+      "published_at": "2026-11-23T21:20:00+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "Open Source",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.97,
+      "importance_score": 0.7926,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/index/introducing-shirudo"
+    },
+    {
+      "title": "A training engine for your local model, using your idle compute",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://github.com/sous-labs/songe",
+      "published_at": "2026-11-24T15:03:40+00:00",
+      "category": "aggregators",
+      "tags": [
+        "AI Models",
+        "Hacker News"
+      ],
+      "confidence_score": 0.628,
+      "importance_score": 0.7815,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50629231"
+    },
+    {
+      "title": "Finding faster quantum algorithms with agents and formal verification",
+      "summary": "Using agent teams and formal verification to improve quantum algorithms for fusion and chemistry.",
+      "source_name": "Google DeepMind",
+      "source_url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
+      "published_at": "2026-11-23T16:59:40+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI Agents",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.97,
+      "importance_score": 0.7746,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/"
+    },
+    {
+      "title": "A more tailored Google Search that’s uniquely yours",
+      "summary": "Google Search bar with the text \"Personal Intelligence\" surrounded by the Google Wallet, Google Drive, GMail, Google Photos, Google Calendar, and Google G logo icons",
+      "source_name": "Google AI (The Keyword)",
+      "source_url": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/",
+      "published_at": "2026-11-23T17:00:00+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.92,
+      "importance_score": 0.7746,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/"
+    },
+    {
+      "title": "Cloudflare hides shortcomings of the underlying infrastructure",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://charlie.fish/posts/2026/11/what-cloudflare-doesnt-tell-you/",
+      "published_at": "2026-11-24T19:03:55+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Cloud",
+        "Hacker News"
+      ],
+      "confidence_score": 0.6175,
+      "importance_score": 0.772,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50632883"
+    },
+    {
+      "title": "After my divorce, I started taking myself on solo dates to nice restaurants. I don't need a partner to feel special.",
+      "summary": "A spontaneous solo trip to New York City helped me rediscover my spark and reminded me why dating myself is just as important as dating others.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/after-divorce-learned-to-love-solo-travel-dinners-for-one-2026-11",
+      "published_at": "2026-11-24T22:50:01+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Apache Spark",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7589,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/after-divorce-learned-to-love-solo-travel-dinners-for-one-2026-11"
+    },
+    {
+      "title": "Jensen Huang still thinks a succession plan creates unnecessary hierarchy",
+      "summary": "It's a remarkable stance for a company that spent the last two weeks finding out what happens without its founder.",
+      "source_name": "TechCrunch - AI",
+      "source_url": "https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy/",
+      "published_at": "2026-11-24T22:27:52+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7573,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://techcrunch.com/?p=3192058"
+    },
+    {
+      "title": "16 Best Black Friday Headphone Deals (2026): Up to 57% Off",
+      "summary": "Get up to 57 percent off some of my favorite headphones and earbuds from Apple, Sony, Nothing, and more.",
+      "source_name": "Wired",
+      "source_url": "https://www.wired.com/story/best-black-friday-headphone-deals-11-24-26/",
+      "published_at": "2026-11-24T22:22:20+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.757,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "691e4b9bf2b91809d95c122a"
+    },
+    {
+      "title": "Blanche Downplays Questions Over Nvidia as Company’s Customers Come Under Scrutiny",
+      "summary": "The remarks came even as Justice Department investigators have gathered evidence of Nvidia’s high-powered computer chips being illegally diverted by other firms to China, according to people familiar with the inquiries.",
+      "source_name": "The New York Times - Technology",
+      "source_url": "https://www.nytimes.com/2026/11/24/us/politics/nvidia-justice-department-todd-blanche.html",
+      "published_at": "2026-11-24T22:02:13+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "GPUs",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7556,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.nytimes.com/2026/11/24/us/politics/nvidia-justice-department-todd-blanche.html"
+    },
+    {
+      "title": "In all-hands meeting, Jensen Huang thanks White House and says he’s in therapy",
+      "summary": "The Nvidia founder apologized to his staff on Tuesday and said he was grateful for a second chance to lead the company.",
+      "source_name": "TechCrunch - AI",
+      "source_url": "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/",
+      "published_at": "2026-11-24T21:48:27+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "GPUs",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7546,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://techcrunch.com/?p=3192009"
+    },
+    {
+      "title": "Jensen Huang Apologizes to Nvidia Employees, Says He Is in Therapy",
+      "summary": "A day after returning to his company, Mr. Huang acknowledged that he had violated Nvidia’s code of conduct and “made some terrible mistakes.”",
+      "source_name": "The New York Times - Technology",
+      "source_url": "https://www.nytimes.com/2026/11/24/technology/jensen-huang-apology-nvidia-ceo.html",
+      "published_at": "2026-11-24T21:46:11+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "GPUs",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7544,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.nytimes.com/2026/11/24/technology/jensen-huang-apology-nvidia-ceo.html"
+    },
+    {
+      "title": "Piramal Finance Scales Its Internal Agentic AI Assistant With MongoDB",
+      "summary": "Piramal Finance Limited is a retail-led upper-layer NBFC with a pan-India presence. It offers a diverse portfolio of retail lending products spanning affordable housing loans, loan against property, microfinance, personal loans, insurance solutions, and more, as well as wholesale lending, which provides asset-backed, data-driven financing solutions across real estate and select non-real estate sectors. As of June 30, 2026, the company has over ₹ 1,00,000 Cr of assets under…",
+      "source_name": "MongoDB Blog",
+      "source_url": "https://www.mongodb.com/company/blog/innovation/piramal-finance-scales-internal-agentic-ai-assistant",
+      "published_at": "2026-11-24T01:00:00+00:00",
+      "category": "databases",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Databases"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7479,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.mongodb.com/company/blog/innovation/piramal-finance-scales-internal-agentic-ai-assistant"
+    },
+    {
+      "title": "GitLab Dedicated: A go-live guide",
+      "summary": "GitLab Dedicated is a single-tenant SaaS solution that is fully isolated, deployed in your preferred AWS cloud region, and hosted and maintained by GitLab. GitLab Dedicated and compliance covers why regulated organizations choose a single-tenant instance operated by GitLab, and serves as a starting point for evaluation. In this article, you'll learn what to do after you sign on to GitLab Dedicated, including understanding which responsibilities GitLab takes on and which…",
+      "source_name": "GitLab Blog",
+      "source_url": "https://about.gitlab.com/blog/gitlab-dedicated-a-go-live-guide/",
+      "published_at": "2026-11-24T00:00:00+00:00",
+      "category": "developer_platforms",
+      "tags": [
+        "Cloud",
+        "AWS",
+        "Developer Platforms"
+      ],
+      "confidence_score": 0.86,
+      "importance_score": 0.7437,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://about.gitlab.com/blog/gitlab-dedicated-a-go-live-guide/"
+    },
+    {
+      "title": "Iran-Aligned Volant Manticore Uses IPFS-Based KuboShell Backdoor in Espionage Campaigns",
+      "summary": "A previously undocumented Iran-aligned cyber espionage group called Volant Manticore has targeted telecommunications companies, airlines, and critical infrastructure in Cyprus. Central to the group's operations is a backdoor called KuboShell that uses the InterPlanetary File System (IPFS) for command-and-control (C2) and deploys Homa, a post-compromise framework that's a reimplementation of",
+      "source_name": "The Hacker News",
+      "source_url": "https://thehackernews.com/2026/11/iran-aligned-volant-manticore-uses-ipfs.html",
+      "published_at": "2026-11-24T16:54:07+00:00",
+      "category": "cybersecurity",
+      "tags": [
+        "Cybersecurity"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7342,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://thehackernews.com/2026/11/iran-aligned-volant-manticore-uses-ipfs.html"
+    },
+    {
+      "title": "Kubernetes v1.38 Sneak Peek",
+      "summary": "As we get closer to the release date for Kubernetes v1.38, the project develops and matures, features may be deprecated, removed, or replaced with better ones for the project's overall health. This blog post outlines some of the planned changes for the Kubernetes v1.38 release that the release team feels you should be aware of for the continued maintenance of your Kubernetes environment and keeping up to date with the latest changes. The information listed below is based on…",
+      "source_name": "Kubernetes Blog",
+      "source_url": "https://kubernetes.io/blog/2026/11/23/kubernetes-v1-38-sneak-peek/",
+      "published_at": "2026-11-23T16:00:00+00:00",
+      "category": "open_source_foundations",
+      "tags": [
+        "Kubernetes",
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.9,
+      "importance_score": 0.7304,
+      "source_type": "release_notes",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://kubernetes.io/blog/2026/11/23/kubernetes-v1-38-sneak-peek/"
+    },
+    {
+      "title": "Raising the stakes for enterprise networks with AI modernization",
+      "summary": "Enterprise networks are under severe strain. As companies rush to deploy artificial intelligence, the technology is quickly becoming the biggest source of demand on the network. Now, agentic AI is adding to the load. Tasks conducted by AI agents generate an estimated 450% more network traffic than the same tasks done by human workers. As…",
+      "source_name": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization/",
+      "published_at": "2026-11-24T15:15:16+00:00",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.7273,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.technologyreview.com/?p=1148091"
+    },
+    {
+      "title": "WISP: Composable Representations for Wrist-Worn Activity Recognition",
+      "summary": "arXiv:2611.28033v1 Announce Type: new Abstract: Smartwatches and fitness bands are among the most common wearable devices, and large national health studies record movement at the wrist. Yet existing human activity recognition benchmarks mix sensors worn on different parts of the body, so they do not show how well activities can be recognised from the wrist alone. We introduce WristHARBench, a benchmark that standardises participant-disjoint evaluation across nine…",
+      "source_name": "arXiv cs.LG (Machine Learning)",
+      "source_url": "https://arxiv.org/abs/2611.28033",
+      "published_at": "2026-11-24T05:00:00+00:00",
+      "category": "research_feeds",
+      "tags": [
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7246,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2611.28033v1"
+    },
+    {
+      "title": "Huang Returns a Hero",
+      "summary": "Plus: Math Survives Claude's Riemann Proof, Google Exempts Its Own AI",
+      "source_name": "AI Secret",
+      "source_url": "https://aisecret.us/huang-returns-a-hero/",
+      "published_at": "2026-11-24T13:30:43+00:00",
+      "category": "ai_newsletters",
+      "tags": [
+        "AI",
+        "Ai Newsletters"
+      ],
+      "confidence_score": 0.64,
+      "importance_score": 0.72,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "6b0072607aa0157178795964"
+    },
+    {
+      "title": "VMware vCenter Hit by Another Critical 9.8-Rated Auth Bypass Flaw After Zero-Day Exploitation",
+      "summary": "Broadcom has shipped patches to address 23 vulnerabilities impacting VMware ESX, vCenter, Workstation, Fusion, and Avi Load Balancer, including one critical bug that could be abused to bypass authentication. The critical vulnerability, tracked as CVE-2026-123903, is rated 9.8 out of 10.0 on the CVSS scoring system. It resides in the VMware Directory Service (\"vmdir\"). \"A malicious actor with",
+      "source_name": "The Hacker News",
+      "source_url": "https://thehackernews.com/2026/11/vmware-vcenter-hit-by-another-critical.html",
+      "published_at": "2026-11-24T13:28:26+00:00",
+      "category": "cybersecurity",
+      "tags": [
+        "Security",
+        "Cybersecurity"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7199,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://thehackernews.com/2026/11/vmware-vcenter-hit-by-another-critical.html"
+    },
+    {
+      "title": "Jensen's back, while OpenAI matches AI experts with business owners",
+      "summary": "Jensen's back, while OpenAI matches AI experts with business owners Superhuman AI",
+      "source_name": "Superhuman (Zain Kahn)",
+      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQXozZWEtUW03OGp6OW5CM182T2g2U2k3eTRoUGFLUFVqem5JejlMWGZoclhnNkQ2eWs3VWEyaVVySDFxenk3dld2WGw1UGJPQnkzaU9ESjA3ZGJuazg2Wk9mOHdsaGxUNERla2Rhc0F0Ym5PTjR4NWg0NVJXR0Ryc0tBempLX0RvejJvb3VoTUxhNzNkbk8tcXVB?oc=5",
+      "published_at": "2026-11-24T12:54:47+00:00",
+      "category": "ai_newsletters",
+      "tags": [
+        "AI",
+        "Ai Newsletters"
+      ],
+      "confidence_score": 0.64,
+      "importance_score": 0.7175,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "CBMimgFBVV95cUxOQXozZWEtUW03OGp6OW5CM182T2g2U2k3eTRoUGFLUFVqem5JejlMWGZoclhnNkQ2eWs3VWEyaVVySDFxenk3dld2WGw1UGJPQnkzaU9ESjA3ZGJuazg2Wk9mOHdsaGxUNERla2Rhc0F0Ym5PTjR4NWg0NVJXR0Ryc0tBempLX0RvejJvb3VoTUxhNzNkbk8tcXVB"
+    }
+  ]
+}
