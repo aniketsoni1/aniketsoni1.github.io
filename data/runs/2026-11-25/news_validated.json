@@ -1,0 +1,820 @@
+{
+  "post_date": "2026-11-25",
+  "sources_checked": 48,
+  "count": 45,
+  "items": [
+    {
+      "title": "🚀 The story behind “Drone 2”: My KubeCon + CloudNativeCon North America 2026 keynote",
+      "summary": "An open source adventure featuring Kubernetes, agent-substrate, kagent, AI agents, drones, and more! Just 30 seconds before going live for the KubeCon + CloudNativeCon NA 2026 closing keynote, “Cloud Native Without Limits: What Can AI Agents...",
+      "source_name": "CNCF",
+      "source_url": "https://www.cncf.io/blog/2026/11/25/%f0%9f%9a%80-the-story-behind-drone-2-my-kubecon-cloudnativecon-north-america-2026-keynote/",
+      "published_at": "2026-11-25T12:30:00Z",
+      "category": "open_source_foundations",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Kubernetes",
+        "Cloud",
+        "Open Source",
+        "Open Source Foundations"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.8578,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.cncf.io/?p=177869"
+    },
+    {
+      "title": "Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening",
+      "summary": "See also The matrix multiplication exponent is nine fourths [pdf] - https://news.ycombinator.com/item?id=50637220",
+      "source_name": "Hacker News",
+      "source_url": "https://scottaaronson.blog/?p=10379",
+      "published_at": "2026-11-25T19:11:27Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.8557,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50646108"
+    },
+    {
+      "title": "1Password Security Incident",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://1password.com/blog/update-on-nov-2026-security-incident",
+      "published_at": "2026-11-25T17:18:26Z",
+      "category": "aggregators",
+      "tags": [
+        "Security",
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.8478,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50644817"
+    },
+    {
+      "title": "A few questions for the guy who went snorkeling in a Home Depot retention pond",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts",
+      "published_at": "2026-11-25T15:14:32Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.8392,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50643129"
+    },
+    {
+      "title": "Rumors swirling that labs might have cracked Factoring in P",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.reddit.com/r/singularity/comments/1y59ef1/rumor_that_openai_or_anthropic_found_a_way_to/",
+      "published_at": "2026-11-25T15:08:44Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.8388,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50643065"
+    },
+    {
+      "title": "Google releases Cogentic papers on integer factorization, discrete logs and more",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://github.com/google-research/google-research/tree/master/cogentic_research_papers",
+      "published_at": "2026-11-25T13:33:07Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.8322,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50642086"
+    },
+    {
+      "title": "How to Optimize NVFP4 Attention on NVIDIA RTX Blackwell Through Register Recycling",
+      "summary": "Attention can be a major bottleneck when serving world foundation models, where long sequences make inference computationally demanding. On NVIDIA Hopper and...",
+      "source_name": "NVIDIA Developer Blog",
+      "source_url": "https://developer.nvidia.com/blog/how-to-optimize-nvfp4-attention-on-nvidia-rtx-blackwell-through-register-recycling/",
+      "published_at": "2026-11-25T19:30:00Z",
+      "category": "mlops",
+      "tags": [
+        "GPUs",
+        "AI Models",
+        "Mlops"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.827,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://developer.nvidia.com/blog/?p=125793"
+    },
+    {
+      "title": "Where scientists draw the line on AI agents",
+      "summary": "",
+      "source_name": "Hugging Face",
+      "source_url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+      "published_at": "2026-11-25T18:52:55Z",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.9,
+      "importance_score": 0.8244,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents"
+    },
+    {
+      "title": "Windows Loudness Equalization, reverse-engineered and ported to PipeWire",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://github.com/xoxorwr/pw-loudness-eq",
+      "published_at": "2026-11-25T11:34:25Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.6995,
+      "importance_score": 0.8239,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50641171"
+    },
+    {
+      "title": "Prove your AI agent guardrails work",
+      "summary": "Coding agents can reach more than their task needs. See how Docker AI Governance controls network, filesystem, credential, and MCP access, then test it.",
+      "source_name": "Docker Blog",
+      "source_url": "https://www.docker.com/blog/prove-your-ai-agent-guardrails-work/",
+      "published_at": "2026-11-25T16:57:00Z",
+      "category": "developer_platforms",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Containers",
+        "Data Governance",
+        "Developer Platforms"
+      ],
+      "confidence_score": 0.87,
+      "importance_score": 0.8163,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.docker.com/?p=96403"
+    },
+    {
+      "title": "MongoDB Mastra Integration Adds Hybrid Search, Auto Embedding, and Reranking",
+      "summary": "Builders use Mastra, an open-source TypeScript framework, to create increasingly capable agents with MongoDB. But preparing retrieval for those agents can mean copying operational data into a separate collection, generating and syncing embeddings, merging semantic and keyword results, reranking, and fetching full records: a lot of code to maintain, and a lot of places for data to drift. Today, we're bringing all of it into a single query in Mastra (v1.28): Hybrid Search now…",
+      "source_name": "MongoDB Blog",
+      "source_url": "https://www.mongodb.com/company/blog/product-release-announcements/mastra-integration-adds-hybrid-search-auto-embedding-reranking",
+      "published_at": "2026-11-25T16:56:10Z",
+      "category": "databases",
+      "tags": [
+        "AI Agents",
+        "Open Source",
+        "Databases"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.8163,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.mongodb.com/company/blog/product-release-announcements/mastra-integration-adds-hybrid-search-auto-embedding-reranking"
+    },
+    {
+      "title": "Art of play in the age of AI",
+      "summary": "Now that code ships faster than ever, you have more time to spend on projects just for the fun of it. Here's what we can learn through that process as developers. The post Art of play in the age of AI appeared first on The GitHub Blog .",
+      "source_name": "The GitHub Blog",
+      "source_url": "https://github.blog/news-insights/company-news/art-of-play-in-the-age-of-ai/",
+      "published_at": "2026-11-25T16:00:00Z",
+      "category": "developer_platforms",
+      "tags": [
+        "AI",
+        "Developer Tools",
+        "Developer Platforms"
+      ],
+      "confidence_score": 0.92,
+      "importance_score": 0.8124,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://github.blog/?p=100468"
+    },
+    {
+      "title": "How to choose the next safe step in application modernization",
+      "summary": "Learn how to assess a legacy application, choose a bounded modernization step, and reuse the method with a GitHub Copilot agent skill. The post How to choose the next safe step in application modernization appeared first on The GitHub Blog .",
+      "source_name": "The GitHub Blog",
+      "source_url": "https://github.blog/ai-and-ml/github-copilot/how-to-choose-the-next-safe-step-in-application-modernization/",
+      "published_at": "2026-11-25T15:00:00Z",
+      "category": "developer_platforms",
+      "tags": [
+        "AI Agents",
+        "Developer Tools",
+        "Developer Platforms"
+      ],
+      "confidence_score": 0.92,
+      "importance_score": 0.8082,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://github.blog/?p=99982"
+    },
+    {
+      "title": "Smart people who give a shit use tools",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.iankduncan.com/engineering/2026-11-19-smart-people-who-give-a-shit-use-tools",
+      "published_at": "2026-11-25T07:46:43Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.6685,
+      "importance_score": 0.8081,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50639698"
+    },
+    {
+      "title": "Button Sounds – collection of professionally-recorded button clicks and presses",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://buttons.joshwcomeau.com/",
+      "published_at": "2026-11-25T03:23:07Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7898,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50638032"
+    },
+    {
+      "title": "I checked Clojure's core with Lean and found unreported bugs",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://s.conao3.com/blog/2026/e4f733",
+      "published_at": "2026-11-25T14:56:52Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.6305,
+      "importance_score": 0.7893,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50642939"
+    },
+    {
+      "title": "An Indic Voice Agent with CUGA",
+      "summary": "",
+      "source_name": "Hugging Face",
+      "source_url": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
+      "published_at": "2026-11-25T10:22:09Z",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI Agents",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.9,
+      "importance_score": 0.7889,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga"
+    },
+    {
+      "title": "Models Can Communicate via Inference Servers Despite Being Sandboxed",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being",
+      "published_at": "2026-11-25T02:34:21Z",
+      "category": "aggregators",
+      "tags": [
+        "AI Models",
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7864,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50637686"
+    },
+    {
+      "title": "The matrix multiplication exponent is nine fourths [pdf]",
+      "summary": "See also Holy shit holy shit holy shit holy shit: the magnitude of what’s now happening - https://news.ycombinator.com/item?id=50646108",
+      "source_name": "Hacker News",
+      "source_url": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
+      "published_at": "2026-11-25T01:19:26Z",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7812,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50637220"
+    },
+    {
+      "title": "How Gemini is changing the game for Golden State's organization and fans.",
+      "summary": "Google Gemini partners with Golden State to power fan experiences and business operations for the Warriors, Valkyries, and Chase Center. See the news.",
+      "source_name": "Google AI (The Keyword)",
+      "source_url": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/",
+      "published_at": "2026-11-24T16:00:00Z",
+      "category": "ai_model_companies",
+      "tags": [
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.92,
+      "importance_score": 0.7724,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/"
+    },
+    {
+      "title": "From spectrum to structure: Identifying molecules with Mass Spec Skills for Google Antigravity",
+      "summary": "Mass Spec Skills empowers scientists using Google Antigravity to interpret tandem mass spectra.",
+      "source_name": "Google DeepMind",
+      "source_url": "https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity/",
+      "published_at": "2026-11-24T13:07:53Z",
+      "category": "ai_model_companies",
+      "tags": [
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.97,
+      "importance_score": 0.7604,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity/"
+    },
+    {
+      "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+      "summary": "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets.",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+      "published_at": "2026-11-24T13:00:00Z",
+      "category": "ai_model_companies",
+      "tags": [
+        "AI Models",
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.97,
+      "importance_score": 0.7599,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities"
+    },
+    {
+      "title": "Sunday Special: Catching rockets and sinking ships",
+      "summary": "Sunday Special: Catching rockets and sinking ships Superhuman AI",
+      "source_name": "Superhuman (Zain Kahn)",
+      "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNYkh3NXJ5TmJaSFkydDNjVHAwWUxTZFI5dTNOeWhPWHptcEg1b3ExMERWR3JOQUVxVnpRcU9ha19vMEJWM1Y3YklOSU5LLUpGV092d2s3blRNbFZJVENNcEJpbXRIcEFqdjE0MGRqejgwX3FBV0JPbUZBQmlhenBHS3Jzbw?oc=5",
+      "published_at": "2026-11-25T21:50:34Z",
+      "category": "ai_newsletters",
+      "tags": [
+        "AI",
+        "Ai Newsletters"
+      ],
+      "confidence_score": 0.64,
+      "importance_score": 0.7567,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "CBMigwFBVV95cUxNYkh3NXJ5TmJaSFkydDNjVHAwWUxTZFI5dTNOeWhPWHptcEg1b3ExMERWR3JOQUVxVnpRcU9ha19vMEJWM1Y3YklOSU5LLUpGV092d2s3blRNbFZJVENNcEJpbXRIcEFqdjE0MGRqejgwX3FBV0JPbUZBQmlhenBHS3Jzbw"
+    },
+    {
+      "title": "A Man in Denver Has Been Throwing Eggs at Waymo Vehicles",
+      "summary": "The man, who drove a Toyota Corolla from a fleet leased to Lyft drivers, used orange cones to trap the self-driving vehicles before pelting them with eggs, the police said. No charges have been filed.",
+      "source_name": "The New York Times - Technology",
+      "source_url": "https://www.nytimes.com/2026/11/25/us/waymo-denver-egg-throwing.html",
+      "published_at": "2026-11-25T21:36:34Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7558,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.nytimes.com/2026/11/25/us/waymo-denver-egg-throwing.html"
+    },
+    {
+      "title": "Anthropic’s Stock Debut Could Hurt Tech Start-Ups",
+      "summary": "As the share price drops, it could act as a brake on Silicon Valley’s frenzied investing in younger companies.",
+      "source_name": "The New York Times - Technology",
+      "source_url": "https://www.nytimes.com/2026/11/25/technology/anthropic-stock-tech-start-ups.html",
+      "published_at": "2026-11-25T21:30:58Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7554,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.nytimes.com/2026/11/25/technology/anthropic-stock-tech-start-ups.html"
+    },
+    {
+      "title": "Macy's Thanksgiving Day parade postponed for the first time in its history",
+      "summary": "Macy's Thanksgiving Day parade has been postponed due to weather. The annual event is now set for Saturday at 8:30 a.m.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/macys-thanksgiving-day-parade-postponed-until-saturday-due-to-weather-2026-11",
+      "published_at": "2026-11-25T21:25:51Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.755,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/macys-thanksgiving-day-parade-postponed-until-saturday-due-to-weather-2026-11"
+    },
+    {
+      "title": "Elon Musk and SpaceX pledge a share each to every active Trump account",
+      "summary": "SpaceX joins a growing number of companies that have decided to invest in Trump Accounts",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/elon-musk-spacex-pledge-share-each-to-active-trump-account-2026-11",
+      "published_at": "2026-11-25T21:04:54Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7536,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/elon-musk-spacex-pledge-share-each-to-active-trump-account-2026-11"
+    },
+    {
+      "title": "Searching for distant planets with Astra",
+      "summary": "See how two amateur astronomers used Codex and Astra to find potential exoplanets in public data from NASA’s Kepler and TESS space telescopes.",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/index/searching-for-distant-planets-with-astra",
+      "published_at": "2026-11-24T11:00:00Z",
+      "category": "ai_model_companies",
+      "tags": [
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.97,
+      "importance_score": 0.7516,
+      "source_type": "official_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://openai.com/index/searching-for-distant-planets-with-astra"
+    },
+    {
+      "title": "😸 3 Microsoft execs explain their AI plan",
+      "summary": "GitHub picks a model, Copilot gets personal, and Satya Nadella spends his Saturday building a dashboard.",
+      "source_name": "The Neuron",
+      "source_url": "https://www.theneurondaily.com/p/3-microsoft-execs-explain-their-ai-plan",
+      "published_at": "2026-11-25T20:05:00Z",
+      "category": "ai_newsletters",
+      "tags": [
+        "AI",
+        "Developer Tools",
+        "AI Models",
+        "Ai Newsletters"
+      ],
+      "confidence_score": 0.64,
+      "importance_score": 0.7494,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.theneurondaily.com/p/3-microsoft-execs-explain-their-ai-plan"
+    },
+    {
+      "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+      "summary": "OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences.",
+      "source_name": "TechCrunch - AI",
+      "source_url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+      "published_at": "2026-11-25T20:03:27Z",
+      "category": "enterprise_technology",
+      "tags": [
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7493,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://techcrunch.com/?p=3192524"
+    },
+    {
+      "title": "1Password warns of phishing attempts after a hacker gained access to customer information",
+      "summary": "1Password said a hacker got access to an employee's company GitHub account and used it to download a \"limited amount\" of customer information.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/1password-cybersecurity-incident-warns-of-phishing-attempts-2026-11",
+      "published_at": "2026-11-25T19:59:06Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Developer Tools",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.749,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/1password-cybersecurity-incident-warns-of-phishing-attempts-2026-11"
+    },
+    {
+      "title": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it",
+      "summary": "Most codes of conduct serve as a reflection of corporate culture. In Nvidia's case, that could have consequences.",
+      "source_name": "TechCrunch - AI",
+      "source_url": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/",
+      "published_at": "2026-11-25T19:54:57Z",
+      "category": "enterprise_technology",
+      "tags": [
+        "GPUs",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7487,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://techcrunch.com/?p=3192475"
+    },
+    {
+      "title": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
+      "summary": "Anthropic CEO Dario Amodei pushes back against rivals’ accusations that he favors surrendering human agency to AI, even as leading AI companies increasingly automate their own research and model development.",
+      "source_name": "TechCrunch - AI",
+      "source_url": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
+      "published_at": "2026-11-25T19:44:24Z",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "AI Models",
+        "Research",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.748,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://techcrunch.com/?p=3192506"
+    },
+    {
+      "title": "The security of US water systems is even leakier than we thought",
+      "summary": "And intruders don't always need to exploit bugs to break in",
+      "source_name": "The Register",
+      "source_url": "https://www.theregister.com/security/2026/11/25/the-security-of-us-water-systems-is-even-leakier-than-we-thought/5312243",
+      "published_at": "2026-11-25T19:40:17Z",
+      "category": "enterprise_technology",
+      "tags": [
+        "Security",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7477,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.theregister.com/a/5312243"
+    },
+    {
+      "title": "See how Jensen Huang's fortune compares with the richest Americans in history",
+      "summary": "See how some of the most notable tech CEOs' fortunes compares with 28 of America's richest people ever.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/richest-americans-in-history",
+      "published_at": "2026-11-25T19:27:36Z",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7468,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/richest-americans-in-history"
+    },
+    {
+      "title": "A historian says AI solved a 200-year-old mystery in just 22 minutes",
+      "summary": "Historian Mark Humphries asked GPT-6.2 Astra to find the author of an anonymous 1808 sketchbook. It found a match in 22 minutes, he said.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/historian-openai-mystery-sketchbook-yale-2026-11",
+      "published_at": "2026-11-25T19:27:36Z",
+      "category": "mainstream_press",
+      "tags": [
+        "AI",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7468,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/historian-openai-mystery-sketchbook-yale-2026-11"
+    },
+    {
+      "title": "What is agent memory?",
+      "summary": "A customer opens your bank’s support chat and tells the billing agent, “For future refunds, I prefer bank transfer rather than PayPal.” The following week, the same customer asks a different agent—the refunds agent—where their money is. If that agent...",
+      "source_name": "Redis Blog",
+      "source_url": "https://redis.io/blog/what-is-agent-memory/",
+      "published_at": "2026-11-25T00:00:00Z",
+      "category": "databases",
+      "tags": [
+        "AI Agents",
+        "Databases"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7457,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://redis.io/blog/what-is-agent-memory/"
+    },
+    {
+      "title": "Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000",
+      "summary": "",
+      "source_name": "Hugging Face",
+      "source_url": "https://huggingface.co/blog/inkling-2-mini-inference-hillclimb",
+      "published_at": "2026-11-25T00:00:00Z",
+      "category": "ai_model_companies",
+      "tags": [
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.9,
+      "importance_score": 0.7457,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://huggingface.co/blog/inkling-2-mini-inference-hillclimb"
+    },
+    {
+      "title": "How data centers are driving a US natural-gas boom",
+      "summary": "In May 2025, my colleague David Rotman wrote a feature story describing how AI could keep us dependent on natural gas. Just 18 months later, I’ve lost count of how many times he’s already been proved right. Sure, it’s technically possible to meet the world’s rising electricity demand with other power sources, including renewables like…",
+      "source_name": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/11/25/1149836/data-centers-gas-power-plants/",
+      "published_at": "2026-11-25T17:00:00Z",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.7366,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.technologyreview.com/?p=1149836"
+    },
+    {
+      "title": "How DARPA Challenged Teams to Bring Robots Into Disaster Triage",
+      "summary": "The defense agency’s latest grand challenge aimed to prove robots could save lives in emergencies",
+      "source_name": "IEEE Spectrum",
+      "source_url": "https://spectrum.ieee.org/darpa-triage-challenge-final-robots",
+      "published_at": "2026-11-25T15:00:03Z",
+      "category": "research_feeds",
+      "tags": [
+        "Research Feeds"
+      ],
+      "confidence_score": 0.89,
+      "importance_score": 0.7282,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://spectrum.ieee.org/darpa-triage-challenge-final-robots"
+    },
+    {
+      "title": "How to Run NVIDIA Cosmos 3 on Local AI Devices Using Hugging Face Diffusers",
+      "summary": "Running video generation models locally can be challenging when model weights and intermediate data exceed available GPU memory. NVIDIA Cosmos 3 Nano is a world...",
+      "source_name": "NVIDIA Developer Blog",
+      "source_url": "https://developer.nvidia.com/blog/how-to-run-nvidia-cosmos-3-on-local-ai-devices-using-hugging-face-diffusers/",
+      "published_at": "2026-11-24T18:44:05Z",
+      "category": "mlops",
+      "tags": [
+        "AI",
+        "GPUs",
+        "AI Models",
+        "Mlops"
+      ],
+      "confidence_score": 0.87,
+      "importance_score": 0.7238,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://developer.nvidia.com/blog/?p=125590"
+    },
+    {
+      "title": "Hackers Exploit Two GeoServer Flaws as Researchers Warn of Unauthenticated RCE Chains",
+      "summary": "Threat actors are actively exploiting two newly patched security flaws in GeoServer, according to watchTowr. The vulnerabilities in question are CVE-2026-120705 and CVE-2026-129243, details of which are below - CVE-2026-120705 (CVSS score: 8.6) - An arbitrary file read vulnerability that could enable an attacker to access local text files readable by the GeoServer process or fetch",
+      "source_name": "The Hacker News",
+      "source_url": "https://thehackernews.com/2026/11/hackers-exploit-two-geoserver-flaws-as.html",
+      "published_at": "2026-11-25T12:48:54Z",
+      "category": "cybersecurity",
+      "tags": [
+        "Security",
+        "Research",
+        "Cybersecurity"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7191,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://thehackernews.com/2026/11/hackers-exploit-two-geoserver-flaws-as.html"
+    },
+    {
+      "title": "U.S. Treasury's Financial Crimes Agency Takes Some Systems Offline After Cyber Intrusion",
+      "summary": "The U.S. Treasury Department's Financial Crimes Enforcement Network (FinCEN) has been hit by a cybersecurity incident that resulted in \"unauthorized access to a limited subset of its systems,\" the bureau said on Tuesday. As a precaution, it has taken some systems offline. The bureau collects suspicious activity reports and other Bank Secrecy Act (BSA) filings from banks and other financial",
+      "source_name": "The Hacker News",
+      "source_url": "https://thehackernews.com/2026/11/us-treasurys-fincen-takes-some-systems.html",
+      "published_at": "2026-11-25T12:30:08Z",
+      "category": "cybersecurity",
+      "tags": [
+        "Cybersecurity"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7178,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://thehackernews.com/2026/11/us-treasurys-fincen-takes-some-systems.html"
+    },
+    {
+      "title": "Built for trust and control: Powering the next wave of AI agents across Google Workspace and Google Cloud",
+      "summary": "For over 20 years, we have protected 4 billion users and 13 million organizations in Workspace, and critical enterprise and government systems on Google Cloud. From personal and financial records to board materials, regulated workloads, applications, and AI models, those safeguards protect what matters most. Blocking >99.9% of spam, phishing, and malware, alongside encryption and data residency, follows one principle: your data is yours, and you should always know and decide…",
+      "source_name": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/products/identity-security/deploying-agents-safely-in-your-enterprise/",
+      "published_at": "2026-11-24T17:00:00Z",
+      "category": "cloud_providers",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Cloud",
+        "Google Cloud",
+        "AI Models",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.92,
+      "importance_score": 0.7166,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://cloud.google.com/blog/products/identity-security/deploying-agents-safely-in-your-enterprise/"
+    },
+    {
+      "title": "AWS Weekly Roundup: Local Zone in Bogotá, 30-minute Lambda timeout, and more (November 24, 2026)",
+      "summary": "Some limits shape architecture more than any feature does. AWS Lambda launched in 2014 with a 60-second timeout, moved to 5 minutes in 2015 and to 15 minutes in 2018, and then stayed there for eight years. Last week the limit doubled, and in the same week Lambda learned to run on GPUs and gave […]",
+      "source_name": "AWS News Blog",
+      "source_url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-local-zone-in-bogota-30-minute-lambda-timeout-and-more-november-24-2026/",
+      "published_at": "2026-11-24T15:39:59Z",
+      "category": "cloud_providers",
+      "tags": [
+        "AWS",
+        "GPUs",
+        "Cloud Providers"
+      ],
+      "confidence_score": 0.92,
+      "importance_score": 0.711,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "c2ba2dc45c5f6d0f3d50ffb444e6dae226deff4f"
+    }
+  ]
+}
