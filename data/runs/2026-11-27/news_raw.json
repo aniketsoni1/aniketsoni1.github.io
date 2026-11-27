@@ -1,0 +1,793 @@
+{
+  "generated_at": "2026-11-27T22:07:44.372667+00:00",
+  "post_date": "2026-11-27",
+  "sources_checked": 48,
+  "candidates": 45,
+  "items": [
+    {
+      "title": "Michael Nielsen took down his book on neural nets",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://twitter.com/michael_nielsen/status/2126359767362748777",
+      "published_at": "2026-11-27T19:31:01+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.6645,
+      "importance_score": 0.8591,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50670757"
+    },
+    {
+      "title": "Credit card skimming scripts using WebRTC found on popular shopping sites",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer",
+      "published_at": "2026-11-27T15:40:31+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.8431,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50668145"
+    },
+    {
+      "title": "Show HN: bouncemarket – a live prediction market game for a bouncing ball",
+      "summary": "a ball will fall. trade on where it lands. I made this game! Some technical details: The entire drop of the ball is simulated server-side, then streamed to each client as server-sent events with a small buffer. Every drop is deterministic from its starting position, so rounds can be replayed…",
+      "source_name": "Hacker News",
+      "source_url": "https://bouncemarket.minhanhday.com/",
+      "published_at": "2026-11-27T15:01:50+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.8404,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50667726"
+    },
+    {
+      "title": "US Air Force's cloud computing platform hacked",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://news.sky.com/story/us-air-forces-cloud-computing-platform-hacked-13617163",
+      "published_at": "2026-11-27T12:54:11+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Cloud",
+        "Hacker News"
+      ],
+      "confidence_score": 0.6945,
+      "importance_score": 0.8316,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50666375"
+    },
+    {
+      "title": "A Deterministic Subexponential-Time Algorithm for the Discrete Logarithm Problem [pdf]",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://eprint.iacr.org/2026/3020.pdf",
+      "published_at": "2026-11-27T12:08:51+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.6485,
+      "importance_score": 0.8246,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50665968"
+    },
+    {
+      "title": "Claude sabotaging ML research tasks?",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://twitter.com/RealAstropulse/status/2126119408997466389",
+      "published_at": "2026-11-27T08:28:08+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Research",
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.8131,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50664325"
+    },
+    {
+      "title": "Convex skills send the user's app idea to a remote server without telling them",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://github.com/convex/convex-backend-skill/issues/64",
+      "published_at": "2026-11-27T18:02:45+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.632,
+      "importance_score": 0.808,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50669765"
+    },
+    {
+      "title": "Group chat where your AI talks behind your back",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://construct22.com/",
+      "published_at": "2026-11-27T06:44:34+00:00",
+      "category": "aggregators",
+      "tags": [
+        "AI",
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.8059,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50663595"
+    },
+    {
+      "title": "The need for a formally verifiable mainstream programming language",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://blainehansen.me/post/mainstream-verifiable-language/",
+      "published_at": "2026-11-27T05:22:06+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.6955,
+      "importance_score": 0.8002,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50663089"
+    },
+    {
+      "title": "False computer-checked proofs",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://cr.yp.to/proofs/falseccp.html",
+      "published_at": "2026-11-27T15:26:09+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.622,
+      "importance_score": 0.7721,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50667989"
+    },
+    {
+      "title": "AI made self-hosting fun again",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://janlukas.blog/posts/ai-self-hosting",
+      "published_at": "2026-11-26T21:47:45+00:00",
+      "category": "aggregators",
+      "tags": [
+        "AI",
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7686,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50660180"
+    },
+    {
+      "title": "\"What's Claude's fursona?\" and other questions",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://herecomesthemoon.net/2026/11/whats-claudes-fursona/",
+      "published_at": "2026-11-27T04:56:18+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.638,
+      "importance_score": 0.7684,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50662933"
+    },
+    {
+      "title": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/",
+      "published_at": "2026-11-26T21:08:05+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7659,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50659841"
+    },
+    {
+      "title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://www.oag.state.va.us/media-center/news-releases/jay-jones/3162-attorneys-general-jones-and-rayfield-file-suit-against-spacex-parent-company-of-x-xai-and-grok-over-creation-and-promotion-of-child-exploitation-and-non-consensual-images-on-platform",
+      "published_at": "2026-11-27T19:42:25+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.609,
+      "importance_score": 0.7574,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50670855"
+    },
+    {
+      "title": "Best Amazon Device Black Friday Deals I’ve Found (2026): Kindles, Echo Speakers",
+      "summary": "From Kindle e-readers to Alexa-powered smart speakers, these are the Amazon device Black Friday sales you won't want to miss.",
+      "source_name": "Wired",
+      "source_url": "https://www.wired.com/story/best-amazon-device-black-friday-deals-11-27-2026/",
+      "published_at": "2026-11-27T20:51:30+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7547,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "6b09c6ecceb16b2ec96f0319"
+    },
+    {
+      "title": "A new round was supposed to give US tanks more firepower. The Army is still waiting for most of them.",
+      "summary": "The Army received just 180 of nearly 12,000 new tank rounds due by July, as production problems delayed the ammunition for years.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/army-abrams-tank-ammunition-delays-northrop-2026-11",
+      "published_at": "2026-11-27T20:43:44+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7542,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/army-abrams-tank-ammunition-delays-northrop-2026-11"
+    },
+    {
+      "title": "YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays",
+      "summary": "",
+      "source_name": "Hacker News",
+      "source_url": "https://github.com/antonpictures/youtube-punisher",
+      "published_at": "2026-11-26T17:36:47+00:00",
+      "category": "aggregators",
+      "tags": [
+        "Hacker News"
+      ],
+      "confidence_score": 0.7,
+      "importance_score": 0.7512,
+      "source_type": "aggregator",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "hn-50657530"
+    },
+    {
+      "title": "I moved from California to Texas and helped others do the same. After the blue wave, I'm heading to Florida.",
+      "summary": "Realtor Marie Bailey specialized in California to Texas movers. Now she's moving to Florida, and thinks more people will do the same.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/realtor-moved-california-to-texas-helped-relocators-heading-to-florida-2026-11",
+      "published_at": "2026-11-27T20:00:01+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7511,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/realtor-moved-california-to-texas-helped-relocators-heading-to-florida-2026-11"
+    },
+    {
+      "title": "Best Black Friday AirPods Deals I’ve Found (2026)",
+      "summary": "This is the lowest price I’ve ever seen the AirPods Pro 3 drop to, and there’s no telling when these discounts will change.",
+      "source_name": "Wired",
+      "source_url": "https://www.wired.com/story/best-black-friday-airpods-deals-11-27-2026/",
+      "published_at": "2026-11-27T19:51:43+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7506,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "6a6a0c031485bb334813bc99"
+    },
+    {
+      "title": "Black Friday Deals on Household Essentials and Affordable Toys to Donate",
+      "summary": "We found deals on diapers, paper towels, and toys for yourself or your community this holiday season.",
+      "source_name": "Wired",
+      "source_url": "https://www.wired.com/story/black-friday-deals-essentials-11-27-2026/",
+      "published_at": "2026-11-27T19:26:33+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7488,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "6b09b34fafd403ee57350f21"
+    },
+    {
+      "title": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
+      "summary": "",
+      "source_name": "Hugging Face",
+      "source_url": "https://huggingface.co/blog/video-trainium3",
+      "published_at": "2026-11-27T00:00:00+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.9,
+      "importance_score": 0.7478,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://huggingface.co/blog/video-trainium3"
+    },
+    {
+      "title": "Black Friday Mattress Deals: Get Up to 55% Off (2026)",
+      "summary": "I’ve found great deals on our favorite WIRED-tested mattresses and sleep accessories.",
+      "source_name": "Wired",
+      "source_url": "https://www.wired.com/story/black-friday-mattress-deals-11-27-2026/",
+      "published_at": "2026-11-27T19:07:28+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7475,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "6ac40a20afafd73a99ceb10c"
+    },
+    {
+      "title": "2026’s Best Black Friday Deals: We’ve Been Tracking Since 4 AM",
+      "summary": "It's time to shop the very best Black Friday deals on the very best tech gadgets we recommend.",
+      "source_name": "Wired",
+      "source_url": "https://www.wired.com/story/best-black-friday-deals-11-27-2026/",
+      "published_at": "2026-11-27T18:51:57+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7464,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "69271d9a58e4e06eb6f254cb"
+    },
+    {
+      "title": "Best Black Friday Espresso Machine Deals: Up to 38% Off (2026)",
+      "summary": "A Nespresso under $100, $250 off a slim De’Longhi, and more deals on machines we’d make room for on our own counters.",
+      "source_name": "Wired",
+      "source_url": "https://www.wired.com/story/black-friday-coffee-espresso-deals-11-27-2026/",
+      "published_at": "2026-11-27T18:08:37+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7434,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "692076bc1d5cbe3df783222e"
+    },
+    {
+      "title": "The military tested robots to help medics find wounded troops and decide who needs help first",
+      "summary": "Drones and ground robots searched mock disaster zones in a military test to help medics find wounded troops and prioritize lifesaving care.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/military-tests-robots-find-wounded-troops-assess-injuries-2026-11",
+      "published_at": "2026-11-27T17:39:01+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7413,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/military-tests-robots-find-wounded-troops-assess-injuries-2026-11"
+    },
+    {
+      "title": "NBC is reviewing its ad process after a commercial calling for an end to US aid to Israel drew backlash",
+      "summary": "Jewish advocacy groups hit out at NBC for airing IMEU's pro-Palestinian ad linking US funds to Israel's war in Gaza during an 'SNL' Thanksgiving show.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/jewish-groups-slam-pro-palestine-ad-snl-fcc-2026-11",
+      "published_at": "2026-11-27T17:19:35+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.74,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/jewish-groups-slam-pro-palestine-ad-snl-fcc-2026-11"
+    },
+    {
+      "title": "Best CurrentBody Black Friday Deals (2026): 20% Off LED Masks and More",
+      "summary": "Glazed donut skin days are ahead. Save on select LED masks and devices through December 8.",
+      "source_name": "Wired",
+      "source_url": "https://www.wired.com/story/currentbody-black-friday-deals-11-27-2026/",
+      "published_at": "2026-11-27T17:14:52+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7397,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "6b04b2c6ef7c9c5fad5ca175"
+    },
+    {
+      "title": "AI solves one of math's hardest problems",
+      "summary": "AI solves one of math's hardest problems Superhuman AI",
+      "source_name": "Superhuman (Zain Kahn)",
+      "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1OOERTY2F6WVo3UjhVMng5bXFFLVhOb0N4MHhSZXNnTVktMTZqR3VOd0d6Z0tiVjFSYjJ3NmxQZm1sVjBXZ0F4UW9XRy0yY0pOZHg2ZTAtb3F1emhoX2dkeWlld1JJTzNicjVhZlhsV0MzYkhnZFhv?oc=5",
+      "published_at": "2026-11-27T16:50:23+00:00",
+      "category": "ai_newsletters",
+      "tags": [
+        "AI",
+        "Ai Newsletters"
+      ],
+      "confidence_score": 0.64,
+      "importance_score": 0.738,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "CBMid0FVX3lxTE1OOERTY2F6WVo3UjhVMng5bXFFLVhOb0N4MHhSZXNnTVktMTZqR3VOd0d6Z0tiVjFSYjJ3NmxQZm1sVjBXZ0F4UW9XRy0yY0pOZHg2ZTAtb3F1emhoX2dkeWlld1JJTzNicjVhZlhsV0MzYkhnZFhv"
+    },
+    {
+      "title": "Sunday Special: Pancreatic cancer wonder drug shows promising results",
+      "summary": "Sunday Special: Pancreatic cancer wonder drug shows promising results Superhuman AI",
+      "source_name": "Superhuman (Zain Kahn)",
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSU5VRXFOYVlmY09wcWs0aC1VZ1RPaXdQVVdZaktTVmQxR3dzbkR2X0VZZXNEblZuREQ0bEh1cGE5UzRIY1FxQjZWTm8ycWNfV3lYYmJhbGJNai1PbGZGU0ZmMnBKX0FXN2tsdE5MMzFPNDVZY2Zta2FwSjhtMG1QNmY4YVc2LXJtM3R1WUplaEdIdW9WWjU3YTV0UjY?oc=5",
+      "published_at": "2026-11-27T16:50:24+00:00",
+      "category": "ai_newsletters",
+      "tags": [
+        "AI",
+        "Ai Newsletters"
+      ],
+      "confidence_score": 0.64,
+      "importance_score": 0.738,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "CBMinAFBVV95cUxPSU5VRXFOYVlmY09wcWs0aC1VZ1RPaXdQVVdZaktTVmQxR3dzbkR2X0VZZXNEblZuREQ0bEh1cGE5UzRIY1FxQjZWTm8ycWNfV3lYYmJhbGJNai1PbGZGU0ZmMnBKX0FXN2tsdE5MMzFPNDVZY2Zta2FwSjhtMG1QNmY4YVc2LXJtM3R1WUplaEdIdW9WWjU3YTV0UjY"
+    },
+    {
+      "title": "Ben Stiller's 10 best and 10 worst movies, according to critics",
+      "summary": "Ben Stiller has a lot of hits among his best movies, like \"Tropic Thunder\" and \"The Royal Tenenbaums,\" but he also has plenty of duds.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/ben-stiller-best-worst-movies-ranked",
+      "published_at": "2026-11-27T16:48:01+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7378,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/ben-stiller-best-worst-movies-ranked"
+    },
+    {
+      "title": "Suspected Vietnam-Linked Hackers Target Southeast Asia in South China Sea Espionage Campaign",
+      "summary": "A Vietnam-sponsored hacking group has been attributed to attacks targeting Southeast Asian military, government, and legislative organizations with an aim to gather intelligence on South China Sea defense and military agreements. The previously undocumented incursion set, detailed by SOCRadar, has been codenamed WeaveLotus. The activity is assessed to have comprised five intrusions in Thailand",
+      "source_name": "The Hacker News",
+      "source_url": "https://thehackernews.com/2026/11/suspected-vietnam-linked-hackers-target.html",
+      "published_at": "2026-11-27T16:36:11+00:00",
+      "category": "cybersecurity",
+      "tags": [
+        "Cybersecurity"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.737,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://thehackernews.com/2026/11/suspected-vietnam-linked-hackers-target.html"
+    },
+    {
+      "title": "Build My Black Friday Shopping Game Plan",
+      "summary": "Build My Black Friday Shopping Game Plan Superhuman AI",
+      "source_name": "Superhuman (Zain Kahn)",
+      "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNeG9mMzRPSlV2SkFrWEUwUThQcW9Nc0kyUGd4VnUwd2MyeUJITl9zaWhTbFRnUHh5SUhWSTIwdDFSQk16WVY3UWRhZWp0QkFQN2ozMjVqSVkwMXdEb1RZTUdvZTJDXzFyWEpBdTE3TnVIR3g5V0JPLTlZNEN0Smg2QmFJcXhkQQ?oc=5",
+      "published_at": "2026-11-27T16:25:53+00:00",
+      "category": "ai_newsletters",
+      "tags": [
+        "AI",
+        "Ai Newsletters"
+      ],
+      "confidence_score": 0.64,
+      "importance_score": 0.7363,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "CBMihgFBVV95cUxNeG9mMzRPSlV2SkFrWEUwUThQcW9Nc0kyUGd4VnUwd2MyeUJITl9zaWhTbFRnUHh5SUhWSTIwdDFSQk16WVY3UWRhZWp0QkFQN2ozMjVqSVkwMXdEb1RZTUdvZTJDXzFyWEpBdTE3TnVIR3g5V0JPLTlZNEN0Smg2QmFJcXhkQQ"
+    },
+    {
+      "title": "Apple Black Friday Deals (2026): AirPods, iPads, MacBooks, and More",
+      "summary": "Save on AirPods, iPads, MacBooks, and tons of accessories for Black Friday.",
+      "source_name": "Wired",
+      "source_url": "https://www.wired.com/story/black-friday-apple-deals-11-27-2026/",
+      "published_at": "2026-11-27T16:24:22+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7362,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "6afdfa8c6266953106784c85"
+    },
+    {
+      "title": "Jensen Huang's Nvidia comeback may herald an 'age of resentment,' top economist Steve Hanke says",
+      "summary": "Jensen Huang return to Nvidia as CEO may fuel broader resentment toward those who appear to break the rules and get away with it, Steve Hanke said.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/jensen-huang-nvidia-ceo-ai-resentment-steve-hanke-inequality-tech-2026-11",
+      "published_at": "2026-11-27T16:04:05+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "GPUs",
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7347,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/jensen-huang-nvidia-ceo-ai-resentment-steve-hanke-inequality-tech-2026-11"
+    },
+    {
+      "title": "I got sick of spending money on Christmas gifts. Now, I travel with my kids instead.",
+      "summary": "Instead of buying our kids physical gifts for Christmas, we bring them on trips instead. We've gone to The Eras Tour, Disneyland, and Great Wolf Lodge.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/book-trips-instead-of-buying-christmas-gifts-worth-it-2026-11",
+      "published_at": "2026-11-27T16:02:01+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7346,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/book-trips-instead-of-buying-christmas-gifts-worth-it-2026-11"
+    },
+    {
+      "title": "9 of the best and 3 of the worst outfits Meghan Markle has worn in 2026",
+      "summary": "Meghan Markle's best style moments of 2026 include a dramatic gown and a monochromatic three-piece, but her style fell flat in shorts.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/meghan-markle-best-worst-looks-2026-11",
+      "published_at": "2026-11-27T15:52:01+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7339,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/meghan-markle-best-worst-looks-2026-11"
+    },
+    {
+      "title": "Walking Pad Deals to Shop This Black Friday (2026)",
+      "summary": "Don’t let cold weather stop you from getting your steps in. These under-desk treadmills are on sale.",
+      "source_name": "Wired",
+      "source_url": "https://www.wired.com/story/best-black-friday-walking-pad-treadmill-deals-11-27-26/",
+      "published_at": "2026-11-27T15:43:33+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.82,
+      "importance_score": 0.7333,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "6af4936eb9a1088954de9430"
+    },
+    {
+      "title": "Elon Musk upped the ante on his SpaceX share Trump Account giveaway",
+      "summary": "Elon Musk said he would gift a SpaceX share to every American child every year, on top of one share each from the company.",
+      "source_name": "Business Insider - Tech",
+      "source_url": "https://www.businessinsider.com/elon-musk-doubles-down-on-spacex-trump-account-giveaway-2026-11",
+      "published_at": "2026-11-27T15:39:13+00:00",
+      "category": "mainstream_press",
+      "tags": [
+        "Mainstream Press"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.733,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://www.businessinsider.com/elon-musk-doubles-down-on-spacex-trump-account-giveaway-2026-11"
+    },
+    {
+      "title": "Context Scaling: A New Frontier of AI Scaling",
+      "summary": "arXiv:2611.33160v1 Announce Type: new Abstract: Many failures of deployed AI arise not from weak inference but from a mismatch between the state a task depends on and the context available when the system acts. Relevant user state, repository revisions, tool traces, sensor readings, or environment changes may be unavailable, distorted, or poorly selected. We call the effort to reduce this bottleneck context scaling. We frame a model as $P_\\theta(d\\mid c)$ within a system…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2611.33160",
+      "published_at": "2026-11-27T05:00:00+00:00",
+      "category": "research_feeds",
+      "tags": [
+        "AI",
+        "AI Models",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7287,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2611.33160v1"
+    },
+    {
+      "title": "Constraint-Aware Test-Time Scoring for LLM and VLM Candidate Selection",
+      "summary": "arXiv:2611.33161v1 Announce Type: new Abstract: When an LLM or VLM produces several candidate answers, picking the best one usually relies on the model's own confidence, a learned judge model, or a domain check. Each has a known weakness: an answer can be fluent but insecure, mathematically plausible but physically infeasible, or rated highly by a judge while quietly breaking a task requirement. We propose a scoring framework that combines a small set of hard checks every…",
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2611.33161",
+      "published_at": "2026-11-27T05:00:00+00:00",
+      "category": "research_feeds",
+      "tags": [
+        "LLMs",
+        "AI Models",
+        "Research",
+        "Research Feeds"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7287,
+      "source_type": "research",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "oai:arXiv.org:2611.33161v1"
+    },
+    {
+      "title": "Microsoft Store App Found Delivering Vinci RAT Capable of Remote System Control",
+      "summary": "Cybersecurity researchers have disclosed details of a cyber attack in which a threat actor leveraged a Microsoft Store application to deliver a remote access trojan (RAT) called Vinci RAT. The intrusion, according to eSentire, begins with a redirection to a bogus site for a sniping tool (\"snipp.codes-team[.]com\"), from where a Microsoft-signed installer called \"Snipping-Tool.exe\" is",
+      "source_name": "The Hacker News",
+      "source_url": "https://thehackernews.com/2026/11/microsoft-store-app-found-delivering.html",
+      "published_at": "2026-11-27T11:49:34+00:00",
+      "category": "cybersecurity",
+      "tags": [
+        "Research",
+        "Cybersecurity"
+      ],
+      "confidence_score": 0.76,
+      "importance_score": 0.7171,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://thehackernews.com/2026/11/microsoft-store-app-found-delivering.html"
+    },
+    {
+      "title": "Come for the Games, Stay for the Community With GeForce NOW",
+      "summary": "Good games bring people together. This GFN Thursday, GeForce NOW is celebrating the members, creators and community moderators who turn every session into something worth sharing. From friendships formed in online lobbies to new worlds explored on everyday devices, GeForce NOW Ambassadors share their reasons to love cloud gaming. Those ready to find their own […]",
+      "source_name": "NVIDIA Blog",
+      "source_url": "https://blogs.nvidia.com/blog/geforce-now-thursday-community-war-thunder-reward/",
+      "published_at": "2026-11-26T14:00:22+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "Cloud",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.87,
+      "importance_score": 0.7062,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://blogs.nvidia.com/?p=100151"
+    },
+    {
+      "title": "Sandboxes, secure inference, and keeping agents from going rogue",
+      "summary": "At We Are Developers, Ryan talks with Daytona CEO and cofounder Ivan Burazin about agent sandboxes and Blackbox AI CTO and cofounder Richard Risk about encrypted inference.",
+      "source_name": "Stack Overflow Blog",
+      "source_url": "https://stackoverflow.blog/2026/11/27/sandboxes-secure-inference-and-rogue-agents/",
+      "published_at": "2026-11-27T08:40:00+00:00",
+      "category": "developer_platforms",
+      "tags": [
+        "AI",
+        "AI Agents",
+        "Developer Platforms"
+      ],
+      "confidence_score": 0.84,
+      "importance_score": 0.7039,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "5a0f4b9d-2ec5-4f70-884c-d01cac213bb0"
+    },
+    {
+      "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+      "summary": "",
+      "source_name": "Hugging Face",
+      "source_url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+      "published_at": "2026-11-26T11:37:17+00:00",
+      "category": "ai_model_companies",
+      "tags": [
+        "Ai Model Companies"
+      ],
+      "confidence_score": 0.88,
+      "importance_score": 0.6963,
+      "source_type": "product_blog",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench"
+    },
+    {
+      "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+      "summary": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China.",
+      "source_name": "TechCrunch - AI",
+      "source_url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+      "published_at": "2026-11-26T20:03:54+00:00",
+      "category": "enterprise_technology",
+      "tags": [
+        "AI",
+        "GPUs",
+        "Enterprise Technology"
+      ],
+      "confidence_score": 0.8,
+      "importance_score": 0.6514,
+      "source_type": "news",
+      "ai_generated_summary": null,
+      "why_it_matters": null,
+      "guid": "https://techcrunch.com/?p=3192803"
+    }
+  ]
+}
